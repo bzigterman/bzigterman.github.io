@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
+ <p class="updated_time"> 12:12 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires Projectile After Lashing Out Over Sanctions</a> NYT: The country’s launch came after it threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:41 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976662?at_medium=RSS&at_campaign=KARANGA">Prayagraj Magh mela: Thousands attend Hindu festival amid Covid surge</a> BBC: Experts fear that the festival in Uttar Pradesh could turn into a hotspot in the coming days. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
- <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
- <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59988413?at_medium=RSS&at_campaign=KARANGA">London 'hitman' on trial over plot to kill Pakistani activist in Netherlands</a> BBC: Muhammad Gohir Khan is accused of agreeing to kill a Pakistani military critic for £100,000. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 02:13 PM CT, Jan. 13 </p> 
@@ -198,12 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires Projectile After Lashing Out Over Sanctions</a> NYT: The country’s launch came after it threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
  <p class="updated_time"> 10:32 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
- <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden to announce three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden is expected to announce for the Fed board on Friday. 
  <p class="updated_time"> 10:08 PM CT, Jan. 13 </p> 
