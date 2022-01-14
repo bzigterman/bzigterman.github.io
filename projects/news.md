@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 05:43 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values during an era of extended pestilence. 
  <p class="updated_time"> 05:29 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 05:26 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
- <p class="updated_time"> 05:06 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
- <p class="updated_time"> 04:37 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 04:24 AM CT, Jan. 14 </p> 
@@ -197,7 +197,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727">Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
  <p class="updated_time"> 05:00 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/joe-manchin-steve-clemons-527103">What Joe Manchin told Steve Clemons at dinner</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to Steve Clemons, Editor At Large of The Hill, D.C. operator and Joe Manchin’s confidant. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
