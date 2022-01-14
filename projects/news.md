@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
+ <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
+ <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 09:54 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
  <p class="updated_time"> 09:31 PM CT, Jan. 13 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
  <p class="updated_time"> 07:47 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59990451?at_medium=RSS&at_campaign=KARANGA">China denies interfering in UK politics after MI5 alert</a> BBC: China says it has no need to "buy influence" after MI5 said an agent of the country infiltrated Parliament. 
- <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden plans dealt crushing blow by fellow Democrats</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
  <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html">First Trial for Syrian State Atrocities Yields Guilty Verdict in Germany</a> NYT: A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war. 
  <p class="updated_time"> 06:29 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59900733?at_medium=RSS&at_campaign=KARANGA">Discrimination and harassment haunt Sri Lanka's Muslims</a> BBC: Muslim activists say their community is facing a hostile environment after the 2019 Easter bombings. 
- <p class="updated_time"> 06:21 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59897898?at_medium=RSS&at_campaign=KARANGA">'As a black woman in STEM I'm used for photo opportunities'</a> BBC: Chemist Cynthia Chapple talks about how to get more black girls from inner-cities into STEM careers. 
  <p class="updated_time"> 05:27 PM CT, Jan. 13 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072735380/journalist-says-u-s-air-war-against-isis-killed-countless-civilians-in-syria">Journalist says U.S. air war against ISIS killed countless civilians in Syria </a> NPR: New York Times reporter Dave Philipps says a top-secret special ops unit disregarded official protocols to pick targets for airstrikes, resulting in the death of thousands of farmers and families. 
  <p class="updated_time"> 12:38 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
- <p class="updated_time"> 12:13 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 12:12 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59986422?at_medium=RSS&at_campaign=KARANGA">South Africa minister tells schoolgirls to 'open books and close legs'</a> BBC: Phophi Ramathuba is criticised for comments she made attempting to encourage abstinence. 
  <p class="updated_time"> 12:06 PM CT, Jan. 13 </p> 
@@ -202,7 +202,13 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:07 PM CT, Jan. 13 </p> 
+ <p class="updated_time"> 10:32 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
+ <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
+ <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden to announce three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden is expected to announce for the Fed board on Friday. 
+ <p class="updated_time"> 10:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
- <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:10 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072819642/stewart-rhodes-oath-keepers-indictment">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072678583/morning-news-brief">News brief: voting rights, high-filtration masks, U.S.-Russia talks </a> NPR: Democrats look for a way forward on voting rights. Health officials say wearing an effective mask is more important than ever. Russia and NATO go into the third and final round of talks on Ukraine. 
- <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
  <p class="updated_time"> 10:12 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
