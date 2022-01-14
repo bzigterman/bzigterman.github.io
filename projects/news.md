@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:19 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
+ <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
+ <p class="updated_time"> 11:59 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59998988?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: US warns of 'false-flag' operation</a> BBC: Russia is plotting to stage acts of provocation to create a pretext to invade Ukraine, a US official says. 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 11:46 AM CT, Jan. 14 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073055412/boris-johnson-party-prince-philip-funeral">Boris Johnson's office apologizes for a party held before Prince Philip's funeral</a> NPR: Farewell parties for the prime minister's departing communications chief and another staffer, complete with late-night drinking and dancing, took place the night before the royal funeral last April. 
  <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
- <p class="updated_time"> 10:10 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 09:09 AM CT, Jan. 14 </p> 
@@ -68,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
  <p class="updated_time"> 06:53 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has pre-positioned a group of operatives to conduct a false-flag operation in Eastern Ukraine as a pretext for invading the country, the White House press secretary Jen Psaki said. 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has pre-positioned a group of operatives to conduct a false-flag operation in Eastern Ukraine as a pretext for invading the country, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-embassy-civilian-targets-attacked-in-iraq-11642162144">U.S. Embassy, Civilian Targets Attacked in Iraq</a> WSJ: Rockets targeted the U.S. Embassy in Baghdad and men on motorcycles hurled grenades at the offices of political rivals of Iran-backed militias. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
- <p class="updated_time"> 12:27 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 11:32 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/china-bans-flights-from-u-s-as-covid-19-measures-intensify-11642139958">China Bans Flights From U.S. as Covid-19 Measures Intensify</a> WSJ: Chinese aviation authorities ordered more flights from the U.S. canceled for the coming weeks, along with flights from countries including France, Indonesia and the United Arab Emirates, citing Covid-19 containment rules. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 07:33 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989496?at_medium=RSS&at_campaign=KARANGA">A glimpse of Jewish life before World War Two</a> BBC: A huge trove of artefacts that was saved from the Nazis offers a fascinating glimpse of a lost era. 
- <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59985589?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Risks remain as Russia and West talk</a> BBC: After a week of talks, there is no sign of Russia pulling back its forces from areas near Ukraine. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 06:43 PM CT, Jan. 13 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
+ <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/13/biden-and-manchin-come-face-to-face-495712"> Biden and Manchin come face to face</a> Politico Playbook: And Lindsey Graham warns Mitch McConnell on Donald Trump. 
  <p class="updated_time"> 05:31 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/college-enrollment-2021-omicron.html">College Enrollment Dropped Again in Fall 2021, Despite Vaccines</a> NYT: Total undergraduate enrollment has dropped by about 1.2 million students since the fall of 2019, researchers say. 
- <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
