@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
  <p class="updated_time"> 05:01 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
+ <p class="updated_time"> 04:37 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 04:24 AM CT, Jan. 14 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/dems-2022-build-back-better-527096">Democrats start building their 2022 case assuming BBB will fail</a> Politico: President Joe Biden’s sweeping climate and social spending bill is faltering in the Senate, and Democrats are trying to make lemonade out of infrastructure. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
+ <p class="updated_time"> 04:15 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
  <p class="updated_time"> 04:01 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
@@ -223,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Four Big Tech Firms</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
- <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072678583/morning-news-brief">News brief: voting rights, high-filtration masks, U.S.-Russia talks </a> NPR: Democrats look for a way forward on voting rights. Health officials say wearing an effective mask is more important than ever. Russia and NATO go into the third and final round of talks on Ukraine. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
