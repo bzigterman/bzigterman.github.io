@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
+ <p class="updated_time"> 07:47 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59990451?at_medium=RSS&at_campaign=KARANGA">China denies interfering in UK politics after MI5 alert</a> BBC: China says it has no need to "buy influence" after MI5 said an agent of the country infiltrated Parliament. 
  <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
@@ -28,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:27 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59988414?at_medium=RSS&at_campaign=KARANGA">Dutch King Willem-Alexander retires coach amid slavery row</a> BBC: Critics say the carriage depicts an image that celebrates the Netherlands' slave-owning past. 
  <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things we've not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
+ <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things that we have not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
  <p class="updated_time"> 05:04 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59988413?at_medium=RSS&at_campaign=KARANGA">London 'hitman' on trial over plot to kill Pakistani activist in Netherlands</a> BBC: Muhammad Gohir Khan is accused of agreeing to kill a Pakistani military critic for £100,000. 
- <p class="updated_time"> 02:37 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 02:13 PM CT, Jan. 13 </p> 
@@ -202,14 +204,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
+ <p class="updated_time"> 08:05 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
+ <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
+ <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
- <p class="updated_time"> 07:28 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
- <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
- <p class="updated_time"> 05:59 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 05:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 05:56 PM CT, Jan. 13 </p> 
