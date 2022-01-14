@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:48 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 10:33 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 10:33 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
+ <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
+ <p class="updated_time"> 10:11 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/coronavirus-europe-uk.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
+ <p class="updated_time"> 10:10 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
+ <p class="updated_time"> 10:04 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 09:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
- <p class="updated_time"> 09:40 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
- <p class="updated_time"> 09:40 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-boris-johnson-apology-royal-family.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 09:39 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion has revived the specter of a new Cold War. 
  <p class="updated_time"> 09:36 AM CT, Jan. 14 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
- <p class="updated_time"> 06:16 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
  <p class="updated_time"> 05:54 AM CT, Jan. 14 </p> 
@@ -51,10 +55,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59993346?at_medium=RSS&at_campaign=KARANGA">Britney Spears and sister Jamie Lynn's rift grows with social media feud</a> BBC: Britney Spears and her younger sister Jamie Lynn argue on social media over their past relationship. 
  <p class="updated_time"> 05:43 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
+ <p class="updated_time"> 05:12 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/iran-seeks-closer-ties-with-china-as-nuclear-talks-drag-on-11642155508">Iran Seeks Closer Ties With China as Nuclear Talks Drag On</a> WSJ: Tehran is trying to strengthen ties with China, Russia and other nations that could help it get around American sanctions that are battering the Iranian economy. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
- <p class="updated_time"> 04:18 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/iran-seeks-closer-ties-with-china-as-nuclear-talks-drag-on-11642155508">Iran Seeks Closer Ties With China as Nuclear Talks Drag On</a> WSJ: Tehran is trying to strengthen ties with China, Russia and other nations that could help it get around American sanctions that are battering the Iranian economy. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:07 AM CT, Jan. 14 </p> 
@@ -86,7 +90,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:32 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/china-bans-flights-from-u-s-as-covid-19-measures-intensify-11642139958">China Bans Flights From U.S. as Covid-19 Measures Intensify</a> WSJ: Chinese aviation authorities ordered more flights from the U.S. canceled for the coming weeks, along with flights from countries including France, Indonesia and the United Arab Emirates, citing Covid-19 containment rules. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic 
+ <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -175,12 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 11:42 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
- <p class="updated_time"> 11:21 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
- <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -194,10 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/us-intel-russia-false-flag-operation-527112">U.S. intel suggests Russia is planning a false-flag operation</a> Politico: The Kremlin has operatives already in Ukraine, laying the groundwork for an invasion, say Biden officials. 
+ <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 09:39 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion has revived the specter of a new Cold War. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
@@ -239,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Stewart Rhodes Arrested in Jan. 6 Inquiry</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
  <p class="updated_time"> 06:18 PM CT, Jan. 13 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
- <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
