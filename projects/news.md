@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:35 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 02:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
+ <p class="updated_time"> 02:15 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
  <p class="updated_time"> 02:08 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
- <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
  <p class="updated_time"> 12:27 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
@@ -41,10 +43,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
+ <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Djokovic's Visa Is Canceled by Australia for a Second Time</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
+ <p class="updated_time"> 08:29 PM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fired-unidentified-projectile-off-its-east-coast-south-says-11642145343">North Korea Fired Unidentified Projectile Off Its East Coast, South Says</a> WSJ: The type of weapon, where the launch occurred and the flight distance couldn’t immediately be learned. 
  <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
- <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden election law plans crushed by fellow Democrats</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
  <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59985589?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Risks remain as Russia and West talk</a> BBC: After a week of talks, there is no sign of Russia pulling back its forces from areas near Ukraine. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
