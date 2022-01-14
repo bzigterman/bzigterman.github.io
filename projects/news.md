@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 09:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:47 PM CT, Jan. 13 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59988414?at_medium=RSS&at_campaign=KARANGA">Dutch King Willem-Alexander retires coach amid slavery row</a> BBC: Critics say the carriage depicts an image that celebrates the Netherlands' slave-owning past. 
  <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things that we have not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
- <p class="updated_time"> 05:04 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867978/elderly-palestinian-american-man-found-dead-after-being-detained-by-israeli-troo">Elderly Palestinian American man found dead after being detained by Israeli troops</a> NPR: An elderly Palestinian American died shortly after being detained by Israeli forces, prompting an investigation of his treatment. 
  <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
@@ -204,10 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
+ <p class="updated_time"> 09:31 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
- <p class="updated_time"> 09:19 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 09:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:56 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/moscow-washington-ukraine-527090">As talks flame out, Moscow and Washington brace for next moves on Ukraine</a> Politico: “The drumbeat of war is sounding loud, and the rhetoric has gotten rather shrill," one U.S. diplomat said. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: The president talked about the late majority leader Robert Byrd at some length during his Thursday meeting with the 50-member Senate Democratic caucus. 
+ <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
