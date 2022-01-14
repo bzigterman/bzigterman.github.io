@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073215461/congo-basin-peatlands-have-trapped-years-worth-of-carbon-how-can-they-be-protect">Congo Basin peatlands have trapped years' worth of carbon. How can they be protected?</a> NPR: NPR's Ari Shapiro speaks with journalist John Cannon about the dangers of destroying a hidden peatland in the Congo Basin that has locked in as much carbon dioxide as the world emits in three years. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073215454/in-ukraine-life-goes-on-despite-threat-of-russian-invasion">In Ukraine, life goes on despite threat of Russian invasion</a> NPR: NPR's Ailsa Chang speaks with Ukrainian journalist and author Nataliya Gumenyuk about the Ukrainian public's perspective on tensions with Russia and the possibility that Russian troops may invade. 
  <p class="updated_time"> 03:33 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
- <p class="updated_time"> 05:54 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 05:53 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/shadow-of-prince-andrew-scandal-looms-over-buckingham-palace-11642178355">Shadow of Prince Andrew Scandal Looms Over Buckingham Palace</a> WSJ: The British monarchy sought to insulate itself from scandal of Prince Andrew’s ties with a convicted sex offender Jeffrey Epstein, but it may prove difficult to distance itself from Queen Elizabeth’s second son. 
  <p class="updated_time"> 05:45 AM CT, Jan. 14 </p> 
@@ -149,10 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things that we have not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867978/elderly-palestinian-american-man-found-dead-after-being-detained-by-israeli-troo">Elderly Palestinian American man found dead after being detained by Israeli troops</a> NPR: An elderly Palestinian American died shortly after being detained by Israeli forces, prompting an investigation of his treatment. 
- <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867964/2021-was-a-hot-year-in-a-concerningly-hot-decade-report-finds">2021 was a hot year in a concerningly hot decade, report finds</a> NPR: A new climate report finds that 2021 was the sixth hottest year on record. The past decade has also been the hottest since record-keeping began. 
- <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867927/journalists-probing-salvadoran-government-were-spied-on-using-military-grade-tec">Journalists probing Salvadoran government were spied on using military-grade tech</a> NPR: NPR's Ari Shapiro speaks with Julia Gavarrete, a journalist at the digital newspaper El Faro, about a recent study confirming that 22 journalists from El Faro were spied on using the spyware Pegasus. 
  <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073215447/biden-promised-a-billion-covid-tests-contracts-to-buy-them-are-being-announced">Biden promised a billion COVID tests. Contracts to buy them are being announced</a> NPR: The Biden administration wants to buy and send a billion free at-home COVID tests to Americans. Here's what we know so far about the contracts in terms of price, timeline and more. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073149219/marilyn-mosby-baltimore-indicted">Baltimore prosecutor Marilyn Mosby denies federal charges over her finances</a> NPR: Mosby reached national prominence in 2015 as the top prosecutor pursuing criminal charges against police officers in the death of Freddie Gray. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215412/christian-nationalism-is-stronger-than-ever-even-without-donald-trump-as-preside">Christian Nationalism is stronger than ever, even without Donald Trump as president</a> NPR: Christian Nationalism has grown in the last year. Now, some more mainline churches are speaking out against the movement, which they see as opposed to the teachings of Jesus. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
@@ -290,6 +294,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
  <p class="updated_time"> 04:37 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072899728/california-governor-denies-rfk-assassin-sirhan-sirhan-parole">California governor denies RFK assassin Sirhan Sirhan parole</a> NPR: The parole panel's recommendation to release Sirhan, 77, in August was based in part on new California laws since he was last denied parole in 2016 — the 15th time he'd lost his bid for release. 
+ <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867985/president-biden-announces-more-tests-masks-and-emergency-hospital-staff">President Biden announces more tests, masks and emergency hospital staff</a> NPR: President Biden announced new measures to respond to the COVID surge. He is sending troops to hospitals in some states and said that more tests and masks are being ordered for distribution nationwide. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
@@ -314,12 +320,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights, as Sens. Kyrsten Sinema and Joe Manchin reiterated their opposition to changing Senate rules. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
- <p class="updated_time"> 11:42 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072765939/republicans-threaten-to-no-longer-participate-in-traditional-general-election-de">Republicans threaten to skip traditional general election debates</a> NPR: The Republican National Committee has released a letter outlining complaints and will ask presidential nominees not to participate in debates put on by the Commission on Presidential Debates. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
- <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 13 </p> 
