@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215440/top-scientists-say-africa-may-have-reached-a-less-threatening-phase-of-covid">Top scientists say Africa may have reached a less threatening phase of COVID</a> NPR: In the United States there's lots of discussion about when the coronavirus will finally become endemic the way colds are. But African scientists say that may have already happened on their continent. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215405/europe-braces-for-the-omicron-wave">Europe braces for the omicron wave</a> NPR: The World Health Organization said more than half of Europe will be infected with COVID in the coming weeks. NPR's Ailsa Chang talks with Dr. Hans Kluge of the WHO on what that means for the region. 
  <p class="updated_time"> 03:25 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
- <p class="updated_time"> 03:20 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decision to stay unvaccinated. 
  <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
