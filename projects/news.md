@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:12 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 03:52 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:48 PM CT, Jan. 14 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 09:09 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59987711?at_medium=RSS&at_campaign=KARANGA">YouTube rich list: MrBeast was the highest-paid star of 2021</a> BBC: Between them, the 10 highest-paid YouTubers raked in $300m last year. 
- <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 08:42 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59998925?at_medium=RSS&at_campaign=KARANGA">REvil ransomware gang arrested in Russia</a> BBC: Russian authorities dismantle the notorious cyber-crime gang at the request of the United States. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59972545?at_medium=RSS&at_campaign=KARANGA">Secret audio sheds light on dictator’s last hours</a> BBC: The BBC has obtained extraordinary recordings believed to be of phone calls made by Tunisian ex president Zine al-Abidine Ben Ali as he flew out of the country in 2011. 
  <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things that we have not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
- <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867978/elderly-palestinian-american-man-found-dead-after-being-detained-by-israeli-troo">Elderly Palestinian American man found dead after being detained by Israeli troops</a> NPR: An elderly Palestinian American died shortly after being detained by Israeli forces, prompting an investigation of his treatment. 
  <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
@@ -204,8 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:57 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 04:10 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">John Katko, Who Voted to Impeach Trump, Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073149219/marilyn-mosby-baltimore-indicted">Baltimore prosecutor Marilyn Mosby denies federal charges over her finances</a> NPR: Mosby reached national prominence in 2015 as the top prosecutor pursuing criminal charges against police officers in the death of Freddie Gray. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
@@ -244,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
- <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
