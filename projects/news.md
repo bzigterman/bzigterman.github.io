@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:39 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
+ <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyber attack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and that they "be afraid and expect the worst." 
+ <p class="updated_time"> 08:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
  <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
- <p class="updated_time"> 01:59 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 12:52 PM CT, Jan. 13 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59986422?at_medium=RSS&at_campaign=KARANGA">South Africa minister tells schoolgirls to 'open books and close legs'</a> BBC: Phophi Ramathuba is criticised for comments she made attempting to encourage abstinence. 
  <p class="updated_time"> 12:06 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Novak Djokovic is facing a number of questions over his activities after testing positive for Covid. 
- <p class="updated_time"> 11:53 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072779687/prince-andrew-royal-privileges-queen">Prince Andrew is stripped of his royal patronages and military titles</a> NPR: The move comes with Queen Elizabeth II's "approval and agreement," Buckingham Palace said. The announcement comes one day after Prince Andrew lost his bid to quash a sex-abuse lawsuit. 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
