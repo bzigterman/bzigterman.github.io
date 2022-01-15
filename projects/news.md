@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
+ <p class="updated_time"> 08:31 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: A four-foot tsunami wave was reported to have hit Tonga’s capital, Nuku’alofa, on Saturday, sending people rushing to higher ground. 
  <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 08:08 AM CT, Jan. 15 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
- <p class="updated_time"> 05:43 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
@@ -204,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin to be sworn-in as Virginia governor</a> NPR: Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office on Saturday. He and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 06:01 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073280587/president-biden-manchin-sinema-expectations-green-lantern-theory">Biden's bad week and the unreality of great expectations</a> NPR: The week brought some more bad news for President Biden, who may be rightly criticized for setting expectations too high for what could actually get done. 
- <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
