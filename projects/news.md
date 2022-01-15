@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:33 AM CT, Jan. 15 </p> 
+ <p class="updated_time"> 07:49 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin gets sworn-in as governor of Virginia</a> NPR: Saturday, Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office. Youngkin and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
+ <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin to be sworn-in as Virginia governor</a> NPR: Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office on Saturday. He and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Cruises sail into a new era of Covid self-policing</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
