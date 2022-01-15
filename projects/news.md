@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Says Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democrats-voting-rights.html">Democrats Face a Dilemma on Voting: Compromise or Keep Pressing?</a> NYT: With their broad voting rights push nearing a dead end, Democrats must soon decide whether to embrace a far narrower bipartisan effort to protect vote counting and administration. 
  <p class="updated_time"> 06:59 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/nyc-schools-security-threat-software.html">‘Attempted Security Threat’ Disables Software at Some New York Schools</a> NYT: The outage in a platform used by teachers and students has caused another disruption for a system that has had its share amid the pandemic. 
- <p class="updated_time"> 06:51 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/suits-tuition-refunds-pandemic-closures-527162">Appeals court could revive suits seeking tuition refunds over Covid closures</a> Politico: A majority of the D.C. Circuit panel seems inclined to reinstate suits against George Washington University and American University. 
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
