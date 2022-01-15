@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:44 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: A four-foot tsunami wave was reported to have hit Tonga’s capital, Nuku’alofa, on Saturday, sending people rushing to higher ground. 
+ <p class="updated_time"> 09:12 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand and the United States. 
+ <p class="updated_time"> 09:11 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
+ <p class="updated_time"> 08:50 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59999080?at_medium=RSS&at_campaign=KARANGA">Virat Kohli steps down as India Test captain</a> BBC: Virat Kohli steps down as captain of India men's Test team after a record 68 matches as skipper. 
  <p class="updated_time"> 08:33 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 08:08 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
+ <p class="updated_time"> 07:54 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Civil case accuser seeks UK witness testimony</a> BBC: Lawyers for Virginia Giuffre seek evidence from two people in the UK in the civil sex assault case. 
  <p class="updated_time"> 07:52 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
@@ -22,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A volcano erupts in the Pacific, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending large tsunami waves crashing across the shore. A tsunami advisory was in effect for Hawaii and the U.S. Pacific coast. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A volcano erupts in the Pacific, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending large tsunami waves crashing across the shore. A tsunami advisory was in effect for Hawaii, Alaska and the U.S. Pacific coast. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
@@ -31,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
+ <p class="updated_time"> 03:28 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59975540?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Bad weather caused India's top commander's chopper crash</a> BBC: Bad weather was behind the helicopter crash that killed General Bipin Rawat, authorities say. 
  <p class="updated_time"> 02:20 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/behind-united-front-u-s-approach-on-russia-unsettles-some-allies-11642252834">Behind United Front, U.S. Approach on Russia Unsettles Some Allies</a> WSJ: In public, the U.S. and NATO this week presented a united front in rejecting Russian demands. Under the surface, some allies are chafing over the U.S. manner of negotiating. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
@@ -71,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60004658?at_medium=RSS&at_campaign=KARANGA">Canadian doctor delivers 'Miracle' baby on flight</a> BBC: A plane erupts in applause as a Canadian doctor delivers a baby on a flight to Uganda. 
- <p class="updated_time"> 04:41 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60003308?at_medium=RSS&at_campaign=KARANGA">Lisbon council fined for sharing protester details with foreign embassies</a> BBC: City Hall shared data of protesters demonstrating in front of embassies, including Russia's. 
  <p class="updated_time"> 04:12 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
@@ -95,8 +101,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60001147?at_medium=RSS&at_campaign=KARANGA">Jailed 'Pharma Bro' Martin Shkreli ordered to repay $64m</a> BBC: Martin Shkreli has also been barred from the US pharmaceutical industry for life. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
- <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59992534?at_medium=RSS&at_campaign=KARANGA">Danish spy scandal: Ex-minister accused of state secrets leak</a> BBC: The case against Claus Hjort Frederiksen comes after an ex-intelligence chief faced similar charges. 
+ <p class="updated_time"> 01:18 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59991850?at_medium=RSS&at_campaign=KARANGA">Ashling Murphy: Vigils across Ireland for murdered teacher</a> BBC: Ashling Murphy's family are said to be "overwhelmed by the national outpouring of support". 
  <p class="updated_time"> 01:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html">The Kunga Was a Status Symbol Long Before the Thoroughbred</a> NYT: A new study finds the first known instance of a human-engineered hybrid, bred from a donkey and a Syrian wild ass 4,500 years ago. 
  <p class="updated_time"> 12:51 PM CT, Jan. 14 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
- <p class="updated_time"> 11:32 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60002289?at_medium=RSS&at_campaign=KARANGA">Single page of Spider-Man comic sells for over $3.3m</a> BBC: An auction house in Dallas erupted into cheers when the record-smashing bid won out. 
  <p class="updated_time"> 11:09 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072181298/10-global-crises-to-pay-attention-to-in-2022-according-to-the-new-humanitarian">10 global crises to pay attention to in 2022, according to 'The New Humanitarian'</a> NPR: The New Humanitarian has compiled its list of the conflicts, disasters and threats to watch this year. Editor Josephine Schmidt discusses how they came up with the list. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
@@ -183,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
- <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
