@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 09:37 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
  <p class="updated_time"> 09:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand and the United States. 
- <p class="updated_time"> 09:29 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 09:17 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 09:11 AM CT, Jan. 15 </p> 
