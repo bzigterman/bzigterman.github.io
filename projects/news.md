@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
- <p class="updated_time"> 11:47 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore: US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water after waves cross ocean from South Pacific. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore - US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water after waves cross ocean from South Pacific. 
+ <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
+ <p class="updated_time"> 12:07 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand, with surges affecting the United States. 
+ <p class="updated_time"> 12:02 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 11:32 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
- <p class="updated_time"> 11:10 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand, with surges affecting the United States. 
  <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/beijing-reports-omicron-infection-three-weeks-ahead-of-winter-olympics-11642260807">Beijing Reports Omicron Infection Three Weeks Ahead of Winter Olympics</a> WSJ: A domestically transmitted case of the Omicron variant of Covid-19 was detected in Beijing, weeks before the city is set to host the Winter Olympics. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
- <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 03:28 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59975540?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Bad weather caused India's top commander's chopper crash</a> BBC: Bad weather was behind the helicopter crash that killed General Bipin Rawat, authorities say. 
  <p class="updated_time"> 02:42 AM CT, Jan. 15 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
- <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -208,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/marlon-bundo-pence-family-bunny-rabbit-dies-527191">Marlon Bundo, the famous Pence family bunny who made history, dies</a> Politico: The pet rabbit, who earned the moniker “BOTUS” thanks to the second family, was the star of multiple children’s books. 
  <p class="updated_time"> 11:37 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338121/2020-census-interference-trump">Trump officials interfered with the 2020 census beyond cutting it short, email shows</a> NPR: The email details the scope of the former administration's attempts to tamper with the count, including pressuring the Census Bureau to alter plans for protecting privacy and producing accurate data. 
  <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
@@ -217,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn-in as the next governor of Virginia</a> NPR: Virginia Gov. Glenn Youngkin, a member of the GOP, took the oath of office Saturday alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
+ <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Covid confusion sends cruises into choppy waters on their own</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
