@@ -37,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
  <p class="updated_time"> 08:50 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59999080?at_medium=RSS&at_campaign=KARANGA">Virat Kohli steps down as India Test captain</a> BBC: Virat Kohli steps down as captain of India men's Test team after a record 68 matches as skipper. 
- <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
