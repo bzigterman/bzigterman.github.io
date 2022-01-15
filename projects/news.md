@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/ontario-town-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">Tonga hit by tsunami after undersea volcano eruption</a> NPR: The Tonga Meteorological Services said a tsunami warning was in effect for all of Tonga, and data from the Pacific Tsunami Warning Center showed waves of 2.6 feet had been detected. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">Tonga hit by tsunami after undersea volcano eruption</a> NPR: There were no immediate reports of injuries or the extent of the damage. Video posted to social media showed large waves washing ashore in coastal areas, swirling around homes and buildings. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:08 AM CT, Jan. 15 </p> 
@@ -124,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
  <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
