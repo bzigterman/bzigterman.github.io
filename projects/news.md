@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60010155?at_medium=RSS&at_campaign=KARANGA">Man who had pig heart transplant was guilty of 1988 stabbing</a> BBC: David Bennett once stabbed a man seven times leaving him paralysed, it has been revealed. 
+ <p class="updated_time"> 10:08 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US man who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
+ <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/europe/france-lepen.html">Marine Le Pen, Kicking Off Her Campaign, Tries to Embody Credibility</a> NYT: Ms. Le Pen has bet that sanitizing her far-right party’s image will finally bear fruit in the run-up to France’s presidential election in April. 
  <p class="updated_time"> 09:56 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
- <p class="updated_time"> 09:44 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 09:37 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
  <p class="updated_time"> 09:29 AM CT, Jan. 15 </p> 
@@ -23,14 +29,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/cricket/59999080?at_medium=RSS&at_campaign=KARANGA">Virat Kohli steps down as India Test captain</a> BBC: Virat Kohli steps down as captain of India men's Test team after a record 68 matches as skipper. 
  <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
- <p class="updated_time"> 08:08 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US man who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073331370/for-50-years-the-gates-of-hell-crater-has-burned-now-officials-want-to-put-it-ou">For 50 years, 'The Gates Of Hell' crater has burned. Now officials want to put it out</a> NPR: NPR's Scott Simon speaks to George Kourounis, Royal Canadian Geographical Society's explorer-in-residence, about the possible closing of "The Gates of Hell," a natural gas field in Turkmenistan. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073331356/more-than-half-of-europeans-could-be-infected-with-covid-19-in-the-next-two-mont">More than half of Europeans could be infected with COVID-19 in the next two months</a> NPR: Coronavirus cases are surging in Europe. German and Austrian leaders are calling for mandatory vaccinations of their citizens. Spain is taking a far less aggressive approach. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073331300/the-u-s-is-accusing-russia-of-trying-to-create-a-pretext-to-invade-ukraine">The U.S. is accusing Russia of trying to create a pretext to invade Ukraine</a> NPR: The Biden administration sounds more alarms about Russia's intentions in Ukraine, after a week of diplomacy failed to get Russia to stand down its troops on the border. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A volcano erupts in the Pacific, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending large tsunami waves crashing across the shore. A tsunami advisory was in effect for Hawaii, Alaska and the U.S. Pacific coast. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore. Tsunami advisories were in effect from Australia and New Zealand to the U.S. West Coast. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
@@ -67,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59966722?at_medium=RSS&at_campaign=KARANGA">Remi Wolf is casually rewriting the rules of pop music</a> BBC: The former downhill skier and American Idol contestant is making some of pop's most exuberant songs. 
  <p class="updated_time"> 07:36 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006166?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Alec Baldwin turns phone over to investigators</a> BBC: Cinematographer Halyna Hutchins was shot while filming the movie Rust, starring Mr Baldwin. 
- <p class="updated_time"> 06:10 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-60001144?at_medium=RSS&at_campaign=KARANGA">Tesla starts accepting once-joke cryptocurrency Dogecoin</a> BBC: Elon Musk's plans send the value of the cryptocurrency soaring. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
  <p class="updated_time"> 06:03 PM CT, Jan. 14 </p> 
@@ -129,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073069325/aung-san-suu-kyi-myanmar">Aung San Suu Kyi faces 5 new corruption charges in Myanmar</a> NPR: The ousted leader, who has been detained since last February's military takeover, is already being tried on five other corruption charges. Each is punishable by up to 15 years in prison and a fine. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
- <p class="updated_time"> 10:31 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073055412/boris-johnson-party-prince-philip-funeral">Boris Johnson's office apologizes for a party held before Prince Philip's funeral</a> NPR: Farewell parties for the prime minister's departing communications chief and another staffer, complete with late-night drinking and dancing, took place the night before the royal funeral last April. 
  <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
@@ -139,10 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
- <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
- <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
- <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
@@ -197,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 06:09 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
- <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -222,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Cruises sail into a new era of Covid self-policing</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
+ <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073331293/week-in-politics-vaccine-mandates-voting-rights-and-inflation">Week in politics: Vaccine mandates; Voting rights and inflation</a> NPR: The U.S. Supreme Court's decision blocking the Biden administration's employer vaccine-or-test mandate was just one of multiple disappointments the president experienced this past week. 
  <p class="updated_time"> 06:01 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073280587/president-biden-manchin-sinema-expectations-green-lantern-theory">Biden's bad week and the unreality of great expectations</a> NPR: The week brought some more bad news for President Biden, who may be rightly criticized for setting expectations too high for what could actually get done. 
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
@@ -326,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if it invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072819642/stewart-rhodes-oath-keepers-indictment">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
@@ -396,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">A citizen's guide to saving US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
- <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
 
 
 </details>
