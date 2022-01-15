@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073290978/djokovics-appeal-of-his-canceled-visa-moves-to-a-higher-court">Djokovic's appeal of his canceled visa moves to a higher court</a> NPR: Immigration Minister Alex Hawke said he canceled Djokovic's visa on "health and good order grounds, on the basis that it was in the public interest to do so." 
+ <a href="https://www.npr.org/2022/01/14/1073290978/djokovics-appeal-of-his-canceled-visa-moves-to-a-higher-court">Djokovic is back in immigration detention as he awaits appeal of his canceled visa </a> NPR: Immigration Minister Alex Hawke said he canceled Djokovic's visa on "health and good order grounds, on the basis that it was in the public interest to do so." 
  <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59998703?at_medium=RSS&at_campaign=KARANGA">How a colossal block of ice became an obsession</a> BBC: Artist Kevin Eason won't ever see his favourite iceberg up close, but he's come to know it so well. 
  <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
