@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
+ <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 03:39 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
- <p class="updated_time"> 02:48 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 12:22 AM CT, Jan. 15 </p> 
@@ -139,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
  <p class="updated_time"> 01:27 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-embassy-civilian-targets-attacked-in-iraq-11642162144">U.S. Embassy, Civilian Targets Attacked in Iraq</a> WSJ: Rockets targeted the U.S. Embassy in Baghdad and men on motorcycles hurled grenades at the offices of political rivals of Iran-backed militias. 
- <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
- <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html">Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</a> NYT: Aras Amiri, a arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week. 
  <p class="updated_time"> 06:02 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
- <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072867985/president-biden-announces-more-tests-masks-and-emergency-hospital-staff">President Biden announces more tests, masks and emergency hospital staff</a> NPR: President Biden announced new measures to respond to the COVID surge. He is sending troops to hospitals in some states and said that more tests and masks are being ordered for distribution nationwide. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if it invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
- <p class="updated_time"> 03:30 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, nominated to be the Federal Reserve’s vice chair, expects workers will come back as the economy chugs along, she told a Senate committee. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
