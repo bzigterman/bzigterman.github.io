@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who seems to have taken four hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338912/after-a-week-of-failed-diplomatic-efforts-tension-between-russia-and-the-u-s-bui">After a week of failed diplomatic efforts, tension between Russia and the U.S. builds</a> NPR: Tensions between the U.S. and Russia over Ukraine seem to have ratcheted up. 
- <p class="updated_time"> 03:49 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who appears to have taken hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 03:07 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 02:52 PM CT, Jan. 15 </p> 
