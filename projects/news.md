@@ -7,12 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
+ <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073290978/djokovics-appeal-of-his-canceled-visa-moves-to-a-higher-court">Djokovic's appeal of his canceled visa moves to a higher court</a> NPR: Immigration Minister Alex Hawke said he canceled Djokovic's visa on "health and good order grounds, on the basis that it was in the public interest to do so." 
+ <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59998703?at_medium=RSS&at_campaign=KARANGA">How a colossal block of ice became an obsession</a> BBC: Artist Kevin Eason won't ever see his favourite iceberg up close, but he's come to know it so well. 
+ <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59981331?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Desmond Tutu's funeral re-imagined Ghana-style</a> BBC: Ghanaians were shocked by the archbishop's modest funeral and speedy burial, writes Elizabeth Ohene. 
+ <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
+ <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59966722?at_medium=RSS&at_campaign=KARANGA">Remi Wolf is casually rewriting the rules of pop music</a> BBC: The former downhill skier and American Idol contestant is making some of pop's most exuberant songs. 
  <p class="updated_time"> 07:43 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 07:36 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60006166?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Alec Baldwin turns phone over to investigators</a> BBC: Cinematographer Halyna Hutchins was shot while filming the movie Rust, starring Mr Baldwin. 
  <p class="updated_time"> 07:20 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
- <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The intelligence said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 06:10 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-60001144?at_medium=RSS&at_campaign=KARANGA">Tesla starts accepting once-joke cryptocurrency Dogecoin</a> BBC: Elon Musk's plans send the value of the cryptocurrency soaring. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
@@ -25,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
+ <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60004658?at_medium=RSS&at_campaign=KARANGA">Canadian doctor delivers 'Miracle' baby on flight</a> BBC: A plane erupts in applause as a Canadian doctor delivers a baby on a flight to Uganda. 
  <p class="updated_time"> 04:41 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60003308?at_medium=RSS&at_campaign=KARANGA">Lisbon council fined for sharing protester details with foreign embassies</a> BBC: City Hall shared data of protesters demonstrating in front of embassies, including Russia's. 
  <p class="updated_time"> 04:28 PM CT, Jan. 14 </p> 
@@ -63,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
- <p class="updated_time"> 11:46 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 11:42 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072188527/for-the-36-countries-with-the-lowest-vaccination-rates-supply-isnt-the-only-issu">For the 36 countries with the lowest vaccination rates, supply isn't the only issue</a> NPR: Even as wealthy countries hit 80% vaccination rates, a number of countries have not even vaccinated 1 in 10 citizens. Our interactive map shows the vaccination landscape. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
@@ -93,14 +105,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
- <p class="updated_time"> 09:09 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59987711?at_medium=RSS&at_campaign=KARANGA">YouTube rich list: MrBeast was the highest-paid star of 2021</a> BBC: Between them, the 10 highest-paid YouTubers raked in $300m last year. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
- <p class="updated_time"> 08:26 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59993352?at_medium=RSS&at_campaign=KARANGA">Bafta Film Awards: Can Rebel Wilson save the 2022 awards season?</a> BBC: The actress is due to host the Bafta Film Awards in February in an effort to boost viewing figures. 
  <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
@@ -111,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
  <p class="updated_time"> 05:53 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/shadow-of-prince-andrew-scandal-looms-over-buckingham-palace-11642178355">Shadow of Prince Andrew Scandal Looms Over Buckingham Palace</a> WSJ: The British monarchy sought to insulate itself from scandal of Prince Andrew’s ties with a convicted sex offender Jeffrey Epstein, but it may prove difficult to distance itself from Queen Elizabeth’s second son. 
- <p class="updated_time"> 05:45 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59993346?at_medium=RSS&at_campaign=KARANGA">Britney Spears and sister Jamie Lynn's rift grows with social media feud</a> BBC: Britney Spears and her younger sister Jamie Lynn argue on social media over their past relationship. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
@@ -149,14 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/britain-mi5-china-agent-parliament.html">Britain’s Security Agency MI5 Warns Lawmakers of China’s Political Interference</a> NYT: An unusual alert by the agency named a Chinese lawyer who was “knowingly engaged in political interference activities” on behalf of Beijing in the U.K. Parliament. 
  <p class="updated_time"> 06:37 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html">First Trial for Syrian State Atrocities Yields Guilty Verdict in Germany</a> NYT: A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war. 
- <p class="updated_time"> 06:29 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900733?at_medium=RSS&at_campaign=KARANGA">Discrimination and harassment haunt Sri Lanka's Muslims</a> BBC: Muslim activists say their community is facing a hostile environment after the 2019 Easter bombings. 
- <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-59897898?at_medium=RSS&at_campaign=KARANGA">'As a black woman in STEM I'm used for photo opportunities'</a> BBC: Chemist Cynthia Chapple talks about how to get more black girls from inner-cities into STEM careers. 
- <p class="updated_time"> 06:10 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59972545?at_medium=RSS&at_campaign=KARANGA">Secret audio sheds light on dictator’s last hours</a> BBC: The BBC has obtained extraordinary recordings believed to be of phone calls made by Tunisian ex president Zine al-Abidine Ben Ali as he flew out of the country in 2011. 
- <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things that we have not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
  <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
@@ -202,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Says Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
@@ -209,11 +209,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/nyc-schools-security-threat-software.html">‘Attempted Security Threat’ Disables Software at Some New York Schools</a> NYT: The outage in a platform used by teachers and students has caused another disruption for a system that has had its share amid the pandemic. 
  <p class="updated_time"> 06:51 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-frustration-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/suits-tuition-refunds-pandemic-closures-527162">Appeals court could revive suits seeking tuition refunds over Covid closures</a> Politico: A majority of the D.C. Circuit panel seems inclined to reinstate suits against George Washington University and American University. 
- <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
  <p class="updated_time"> 06:18 PM CT, Jan. 14 </p> 
@@ -235,13 +233,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215398/what-went-wrong-for-president-biden-this-week">What went wrong for President Biden this week</a> NPR: President Biden has faced a number of major setbacks to various parts of his agenda — from COVID-19 to the economy to voting rights and the rest of his agenda in Congress. 
  <p class="updated_time"> 03:17 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073025283/house-panel-issues-first-proposed-reforms-to-electoral-count-act-after-jan-6-att">House panel issues first proposed reforms to Electoral Count Act after Jan. 6 attack</a> NPR: Suggested reforms to the Act would to dispel any ambiguity or confusion over the role of Congress when it comes to counting votes for a future presidential election. 
+ <a href="https://www.npr.org/2022/01/14/1073025283/house-panel-issues-first-proposed-reforms-to-electoral-count-act-after-jan-6-att">House panel issues first proposed reforms to Electoral Count Act after Jan. 6 attack</a> NPR: Suggested reforms to the law would dispel any ambiguity or confusion over the role of Congress when it comes to counting votes for a future presidential election. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
