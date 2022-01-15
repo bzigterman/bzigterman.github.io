@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:56 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 08:48 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
@@ -19,12 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
  <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59966722?at_medium=RSS&at_campaign=KARANGA">Remi Wolf is casually rewriting the rules of pop music</a> BBC: The former downhill skier and American Idol contestant is making some of pop's most exuberant songs. 
- <p class="updated_time"> 07:43 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 07:36 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006166?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Alec Baldwin turns phone over to investigators</a> BBC: Cinematographer Halyna Hutchins was shot while filming the movie Rust, starring Mr Baldwin. 
- <p class="updated_time"> 07:20 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 06:10 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-60001144?at_medium=RSS&at_campaign=KARANGA">Tesla starts accepting once-joke cryptocurrency Dogecoin</a> BBC: Elon Musk's plans send the value of the cryptocurrency soaring. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
