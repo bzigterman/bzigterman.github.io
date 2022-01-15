@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:24 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-gop-tensions.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, 'critical race theory'</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
+ <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, critical race theory</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
