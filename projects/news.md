@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:56 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 09:44 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 09:37 AM CT, Jan. 15 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
  <p class="updated_time"> 08:50 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59999080?at_medium=RSS&at_campaign=KARANGA">Virat Kohli steps down as India Test captain</a> BBC: Virat Kohli steps down as captain of India men's Test team after a record 68 matches as skipper. 
- <p class="updated_time"> 08:33 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 08:08 AM CT, Jan. 15 </p> 
@@ -33,18 +33,20 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A volcano erupts in the Pacific, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending large tsunami waves crashing across the shore. A tsunami advisory was in effect for Hawaii, Alaska and the U.S. Pacific coast. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
+ <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/beijing-reports-omicron-infection-three-weeks-ahead-of-winter-olympics-11642260807">Beijing Reports Omicron Infection Three Weeks Ahead of Winter Olympics</a> WSJ: A domestically transmitted case of the Omicron variant of Covid-19 was detected in Beijing, weeks before the city is set to host the Winter Olympics. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 03:28 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59975540?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Bad weather caused India's top commander's chopper crash</a> BBC: Bad weather was behind the helicopter crash that killed General Bipin Rawat, authorities say. 
- <p class="updated_time"> 02:20 AM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/behind-united-front-u-s-approach-on-russia-unsettles-some-allies-11642252834">Behind United Front, U.S. Approach on Russia Unsettles Some Allies</a> WSJ: In public, the U.S. and NATO this week presented a united front in rejecting Russian demands. Under the surface, some allies are chafing over the U.S. manner of negotiating. 
+ <p class="updated_time"> 02:42 AM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/india-sells-anti-ship-missiles-to-the-philippines-as-concern-over-china-grows-11642254147">India Sells Antiship Missiles to the Philippines as Concern Over China Grows</a> WSJ: The sale represents the first time that India has exported the BrahMos, which is made by an Indo-Russian joint venture based in New Delhi. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Concluded With Posturing and Threats, but No Movement</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
+ <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Conclude With Posturing and Threats</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
  <p class="updated_time"> 12:22 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006306?at_medium=RSS&at_campaign=KARANGA">Los Angeles railway littered with thousands of parcels stolen from trains</a> BBC: The tracks have been cleared multiple times over the last three months as thieves target trains. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072181298/10-global-crises-to-pay-attention-to-in-2022-according-to-the-new-humanitarian">10 global crises to pay attention to in 2022, according to 'The New Humanitarian'</a> NPR: The New Humanitarian has compiled its list of the conflicts, disasters and threats to watch this year. Editor Josephine Schmidt discusses how they came up with the list. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
- <p class="updated_time"> 10:58 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-taliban-battle-rebellion-by-ethnic-minority-fighters-11642197509">Afghanistan's Taliban Battle Rebellion by Ethnic Minority Fighters</a> WSJ: Some Uzbeks have taken up arms in the country’s north, complaining of discrimination amid economic collapse. 
  <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073033973/djokovic-australian-open-updates">Here's what other tennis stars are saying about Djokovic's vaccine saga</a> NPR: Even players who have previously said Djokovic should have simply followed the rules say they have sympathy for his plight. 
  <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
@@ -137,12 +137,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
- <p class="updated_time"> 05:53 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/shadow-of-prince-andrew-scandal-looms-over-buckingham-palace-11642178355">Shadow of Prince Andrew Scandal Looms Over Buckingham Palace</a> WSJ: The British monarchy sought to insulate itself from scandal of Prince Andrew’s ties with a convicted sex offender Jeffrey Epstein, but it may prove difficult to distance itself from Queen Elizabeth’s second son. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris dove in head first on the voting rights push. Now what?</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
