@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Says Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
@@ -287,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
