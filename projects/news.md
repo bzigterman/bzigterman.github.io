@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
  <p class="updated_time"> 02:24 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores GOP Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, critical race theory</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
@@ -237,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Says Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
