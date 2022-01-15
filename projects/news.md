@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:31 PM CT, Jan. 15 </p> 
+ <p class="updated_time"> 03:07 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
+ <p class="updated_time"> 03:00 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who appears to have taken hostages at a synagogue in Colleyville. 
+ <p class="updated_time"> 02:52 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
+ <p class="updated_time"> 02:51 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-derbyshire-60011771?at_medium=RSS&at_campaign=KARANGA">Nino Cerruti: Italian fashion great dies aged 91</a> BBC: The celebrated designer and businessman once said: "I have always dressed the same person, myself." 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 01:29 PM CT, Jan. 15 </p> 
@@ -49,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore. Tsunami advisories were in effect from Australia to Japan to the U.S. West Coast. 
- <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/beijing-reports-omicron-infection-three-weeks-ahead-of-winter-olympics-11642260807">Beijing Reports Omicron Infection Three Weeks Ahead of Winter Olympics</a> WSJ: A domestically transmitted case of the Omicron variant of Covid-19 was detected in Beijing, weeks before the city is set to host the Winter Olympics. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
@@ -193,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
- <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
 
 
 </details>
@@ -202,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
  <p class="updated_time"> 02:24 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-gop-tensions.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
