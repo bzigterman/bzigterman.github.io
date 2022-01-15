@@ -203,7 +203,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Ranting man apparently takes hostages at Texas synagogue</a> Politico: The Colleyville Police Department tweeted Saturday afternoon that it was conducting SWAT operations at the address of Congregation Beth Israel. 
+ <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Ranting man takes hostages at Texas synagogue</a> Politico: The Colleyville Police Department tweeted Saturday afternoon that it was conducting SWAT operations at the address of Congregation Beth Israel. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
