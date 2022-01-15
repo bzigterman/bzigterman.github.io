@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:57 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami warning in Tonga after giant eruption</a> BBC: Residents of the Pacific island nation have been urged to evacuate to higher ground immediately. 
+ <p class="updated_time"> 03:39 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 02:48 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
