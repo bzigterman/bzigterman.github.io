@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore. Tsunami advisories were in effect from Australia to Japan to the U.S. West Coast. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, causing tsunami waves as far as the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore there and around the Pacific, including a surges along the U.S. West Coast. 
  <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/beijing-reports-omicron-infection-three-weeks-ahead-of-winter-olympics-11642260807">Beijing Reports Omicron Infection Three Weeks Ahead of Winter Olympics</a> WSJ: A domestically transmitted case of the Omicron variant of Covid-19 was detected in Beijing, weeks before the city is set to host the Winter Olympics. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
