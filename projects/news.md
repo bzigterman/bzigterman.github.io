@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:50 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore: US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water after waves cross ocean from South Pacific. 
  <p class="updated_time"> 11:32 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
- <p class="updated_time"> 11:27 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore: US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water but major waves are not expected. 
  <p class="updated_time"> 11:10 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand, with surges affecting the United States. 
  <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60010155?at_medium=RSS&at_campaign=KARANGA">Man who had pig heart transplant was guilty of 1988 stabbing</a> BBC: David Bennett once stabbed a man seven times leaving him paralysed, it has been revealed. 
- <p class="updated_time"> 10:08 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 10:05 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US man who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
