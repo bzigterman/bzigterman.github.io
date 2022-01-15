@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60010155?at_medium=RSS&at_campaign=KARANGA">Man who had pig heart transplant was guilty of 1988 stabbing</a> BBC: David Bennett once stabbed a man seven times leaving him paralysed, it has been revealed. 
  <p class="updated_time"> 10:08 AM CT, Jan. 15 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
  <p class="updated_time"> 09:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">A Tsunami Hits Tonga's Capital After an Underwater Volcano Eruption</a> NYT: The waters prompted warnings and advisories on nearby islands and in parts of New Zealand and the United States. 
- <p class="updated_time"> 09:17 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 09:11 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
  <p class="updated_time"> 08:50 AM CT, Jan. 15 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore. Tsunami advisories were in effect from Australia and New Zealand to the U.S. West Coast. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore. Tsunami advisories were in effect from Australia to Japan to the U.S. West Coast. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
@@ -217,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin to be sworn-in as Virginia governor</a> NPR: Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office on Saturday. He and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Cruises sail into a new era of Covid self-policing</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
+ <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Covid confusion sends cruises into choppy waters on their own</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
