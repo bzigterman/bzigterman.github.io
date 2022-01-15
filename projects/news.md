@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
  <p class="updated_time"> 02:24 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-gop-tensions.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores GOP Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday will feature a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, critical race theory</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
