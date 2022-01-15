@@ -206,7 +206,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, 'critical race theory'</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
- <p class="updated_time"> 01:18 PM CT, Jan. 15 </p> 
+ <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/marlon-bundo-pence-family-bunny-rabbit-dies-527191">Marlon Bundo, the famous Pence family bunny who made history, dies</a> Politico: The pet rabbit, who earned the moniker “BOTUS” thanks to the second family, was the star of multiple children’s books. 
