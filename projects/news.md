@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Says Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
@@ -278,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden announces three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden announced for the Fed board on Friday. 
- <p class="updated_time"> 10:08 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
@@ -292,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
- <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 05:49 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/osha-vaccine-mandate-businesses.html">Businesses are whipsawed again as the Supreme Court blocks OSHA’s vaccine mandate.</a> NYT: Companies must now decide whether to proceed with planned mandates without cover from the federal government. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
