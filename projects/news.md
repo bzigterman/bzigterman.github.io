@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073380457/haiti-assassination-arrest">Jamaica arrests a former senator sought in Haitian president's assassination</a> NPR: A former Haitian senator sought in the killing of President Jovenel Moïse has been arrested in Jamaica, Haiti's National Police says. John Joël Joseph is the second suspect to be arrested in Jamaica. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60010159?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Ex-senator arrested in Jamaica</a> BBC: John Joel Joseph has been arrested in Jamaica in connection with the death of Jovenel Moïse. 
  <p class="updated_time"> 12:10 PM CT, Jan. 15 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
  <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073033973/djokovic-australian-open-updates">Here's what other tennis stars are saying about Djokovic's vaccine saga</a> NPR: Even players who have previously said Djokovic should have simply followed the rules say they have sympathy for his plight. 
- <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073069325/aung-san-suu-kyi-myanmar">Aung San Suu Kyi faces 5 new corruption charges in Myanmar</a> NPR: The ousted leader, who has been detained since last February's military takeover, is already being tried on five other corruption charges. Each is punishable by up to 15 years in prison and a fine. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
  <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, 'critical race theory'</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
+ <p class="updated_time"> 01:18 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/marlon-bundo-pence-family-bunny-rabbit-dies-527191">Marlon Bundo, the famous Pence family bunny who made history, dies</a> Politico: The pet rabbit, who earned the moniker “BOTUS” thanks to the second family, was the star of multiple children’s books. 
  <p class="updated_time"> 11:37 AM CT, Jan. 15 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
- <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
