@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
+ <p class="updated_time"> 07:18 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 05:43 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
@@ -15,22 +21,26 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">Tonga hit by tsunami after undersea volcano eruption</a> NPR: There were no immediate reports of injuries or the extent of the damage. Video posted to social media showed large waves washing ashore in coastal areas, swirling around homes and buildings. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
- <p class="updated_time"> 04:08 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
+ <p class="updated_time"> 02:20 AM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/behind-united-front-u-s-approach-on-russia-unsettles-some-allies-11642252834">Behind United Front, U.S. Approach on Russia Unsettles Some Allies</a> WSJ: In public, the U.S. and NATO this week presented a united front in rejecting Russian demands. Under the surface, some allies are chafing over the U.S. manner of negotiating. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Concluded With Posturing and Threats, but No Movement</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
  <p class="updated_time"> 12:22 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006306?at_medium=RSS&at_campaign=KARANGA">Los Angeles railway littered with thousands of parcels stolen from trains</a> BBC: The tracks have been cleared multiple times over the last three months as thieves target trains. 
  <p class="updated_time"> 11:36 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
+ <p class="updated_time"> 09:09 PM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/australia-feared-letting-novak-djokovic-stay-would-fuel-antivaccine-sentiment-11642223036">Australia Feared Letting Djokovic Stay Would Fuel Antivaccine Sentiment</a> WSJ: Australia’s decision to cancel tennis star Novak Djokovic’s visa for a second time was driven by fear that letting him stay could foster antivaccine sentiment during a surge in Covid-19 cases, court documents show. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
@@ -89,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html">The Kunga Was a Status Symbol Long Before the Thoroughbred</a> NYT: A new study finds the first known instance of a human-engineered hybrid, bred from a donkey and a Syrian wild ass 4,500 years ago. 
  <p class="updated_time"> 12:51 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
- <p class="updated_time"> 12:19 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
@@ -123,10 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
- <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
- <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -139,14 +143,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
  <p class="updated_time"> 03:45 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
- <p class="updated_time"> 02:21 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 01:34 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
- <p class="updated_time"> 01:27 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-embassy-civilian-targets-attacked-in-iraq-11642162144">U.S. Embassy, Civilian Targets Attacked in Iraq</a> WSJ: Rockets targeted the U.S. Embassy in Baghdad and men on motorcycles hurled grenades at the offices of political rivals of Iran-backed militias. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin gets sworn-in as governor of Virginia</a> NPR: Saturday, Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office. Youngkin and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Cruises sail into a new era of Covid self-policing</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072819642/stewart-rhodes-oath-keepers-indictment">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
- <p class="updated_time"> 01:45 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies">Supreme Court blocks Biden's vaccine-or-test mandate for large private companies</a> NPR: But the court upheld a separate mandate for almost all employees at hospitals, nursing homes and other health care providers that receive federal funds. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
