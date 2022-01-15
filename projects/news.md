@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073338912/after-a-week-of-failed-diplomatic-efforts-tension-between-russia-and-the-u-s-bui">After a week of failed diplomatic efforts, tension between Russia and the U.S. builds</a> NPR: Tensions between the U.S. and Russia over Ukraine seem to have ratcheted up. 
+ <p class="updated_time"> 03:49 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who appears to have taken hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 03:07 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
- <p class="updated_time"> 03:00 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who appears to have taken hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 02:52 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 02:51 PM CT, Jan. 15 </p> 
@@ -133,12 +137,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
- <p class="updated_time"> 11:09 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072181298/10-global-crises-to-pay-attention-to-in-2022-according-to-the-new-humanitarian">10 global crises to pay attention to in 2022, according to 'The New Humanitarian'</a> NPR: The New Humanitarian has compiled its list of the conflicts, disasters and threats to watch this year. Editor Josephine Schmidt discusses how they came up with the list. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
- <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073033973/djokovic-australian-open-updates">Here's what other tennis stars are saying about Djokovic's vaccine saga</a> NPR: Even players who have previously said Djokovic should have simply followed the rules say they have sympathy for his plight. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
  <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
  <p class="updated_time"> 02:24 PM CT, Jan. 15 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
  <p class="updated_time"> 04:37 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072899728/california-governor-denies-rfk-assassin-sirhan-sirhan-parole">California governor denies RFK assassin Sirhan Sirhan parole</a> NPR: The parole panel's recommendation to release Sirhan, 77, in August was based in part on new California laws since he was last denied parole in 2016 — the 15th time he'd lost his bid for release. 
- <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867985/president-biden-announces-more-tests-masks-and-emergency-hospital-staff">President Biden announces more tests, masks and emergency hospital staff</a> NPR: President Biden announced new measures to respond to the COVID surge. He is sending troops to hospitals in some states and said that more tests and masks are being ordered for distribution nationwide. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
