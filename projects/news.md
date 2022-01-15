@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073380457/haiti-assassination-arrest">Jamaica arrests a former senator sought in Haitian president's assassination</a> NPR: A former Haitian senator sought in the killing of President Jovenel Moïse has been arrested in Jamaica, Haiti's National Police says. John Joël Joseph is the second suspect to be arrested in Jamaica. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60010625?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Court to decide player's Australian Open fate</a> BBC: Judges will hear the player's appeal against his visa being revoked on grounds of public interest. 
  <p class="updated_time"> 12:02 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
- <p class="updated_time"> 11:32 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
