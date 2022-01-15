@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-england-derbyshire-60011771?at_medium=RSS&at_campaign=KARANGA">Nino Cerruti: Italian fashion great dies aged 91</a> BBC: The celebrated designer and businessman once said: "I have always dressed the same person, myself." 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
- <p class="updated_time"> 01:29 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073380457/haiti-assassination-arrest">Jamaica arrests a former senator sought in Haitian president's assassination</a> NPR: A former Haitian senator sought in the killing of President Jovenel Moïse has been arrested in Jamaica, Haiti's National Police says. John Joël Joseph is the second suspect to be arrested in Jamaica. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore - US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water after waves cross ocean from South Pacific. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
- <p class="updated_time"> 12:07 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60010625?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Court to decide player's Australian Open fate</a> BBC: Judges will hear the player's appeal against his visa being revoked on grounds of public interest. 
  <p class="updated_time"> 12:02 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
@@ -97,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59997286?at_medium=RSS&at_campaign=KARANGA">The woman who rowed solo across the Atlantic</a> BBC: Tori Murden McClure almost died when she tried to row the Atlantic solo, but she went back to sea. 
  <p class="updated_time"> 06:01 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Who sparked deadly violence in Kazakhstan?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
- <p class="updated_time"> 05:59 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
@@ -204,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Ranting man apparently takes hostages at Texas synagogue</a> Politico: The Colleyville Police Department tweeted Saturday afternoon that it was conducting SWAT operations at the address of Congregation Beth Israel. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
@@ -282,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/ohio-congressional-map-struck-down-527116">Top Ohio court strikes down state's gerrymandered congressional map</a> Politico: The state Supreme Court ruled Republicans in Columbus had stacked the deck against Democrats in redistricting, in violation of the state constitution. 
  <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
- <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/us-intel-russia-false-flag-operation-527112">U.S. intel suggests Russia is planning a false-flag operation</a> Politico: The Kremlin has operatives already in Ukraine, laying the groundwork for an invasion, say Biden officials. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
