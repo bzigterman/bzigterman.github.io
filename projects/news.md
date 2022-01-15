@@ -217,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin to be sworn-in as Virginia governor</a> NPR: Virginia's next governor, Glenn Youngkin, a member of the GOP, will be sworn into office on Saturday. He and Lt. Gov.-elect Winsome Sears surprised Democrats when they swept office in November. 
+ <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn-in as the next governor of Virginia</a> NPR: Virginia Gov. Glenn Youngkin, a member of the GOP, took the oath of office Saturday alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Covid confusion sends cruises into choppy waters on their own</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">A citizen's guide to saving US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
 
 
 </details>
