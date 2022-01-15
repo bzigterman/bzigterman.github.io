@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">Tonga hit by tsunami after undersea volcano eruption</a> NPR: The Tonga Meteorological Services said a tsunami warning was in effect for all of Tonga, and data from the Pacific Tsunami Warning Center showed waves of 2.6 feet had been detected. 
+ <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:08 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60004658?at_medium=RSS&at_campaign=KARANGA">Canadian doctor delivers 'Miracle' baby on flight</a> BBC: A plane erupts in applause as a Canadian doctor delivers a baby on a flight to Uganda. 
  <p class="updated_time"> 04:41 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60003308?at_medium=RSS&at_campaign=KARANGA">Lisbon council fined for sharing protester details with foreign embassies</a> BBC: City Hall shared data of protesters demonstrating in front of embassies, including Russia's. 
- <p class="updated_time"> 04:28 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?”, insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:12 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
  <p class="updated_time"> 02:21 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
- <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1072977459/djokovic-faces-deportation-as-australia-revokes-visa-again">Djokovic faces deportation as Australia revokes visa again</a> NPR: Tennis star Novak Djokovic faces deportation again after the Australian government revoked his visa for a second time three days before the Australian Open is set to begin. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 01:34 AM CT, Jan. 14 </p> 
