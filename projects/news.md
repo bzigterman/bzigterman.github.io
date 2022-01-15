@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:21 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
+ <p class="updated_time"> 08:08 AM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 07:52 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 07:29 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
- <p class="updated_time"> 07:18 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 05:43 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Tsunami hits Tonga after giant volcano eruption</a> BBC: Residents report water crashing through homes as ash rained down from the sky. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/canada/ontario-town-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
+ <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">Tonga hit by tsunami after undersea volcano eruption</a> NPR: There were no immediate reports of injuries or the extent of the damage. Video posted to social media showed large waves washing ashore in coastal areas, swirling around homes and buildings. 
+ <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A volcano erupts in the Pacific, triggering a tsunami advisory for the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending large tsunami waves crashing across the shore. A tsunami advisory was in effect for Hawaii and the U.S. Pacific coast. 
  <p class="updated_time"> 04:38 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Concluded With Posturing and Threats, but No Movement</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
  <p class="updated_time"> 12:22 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006306?at_medium=RSS&at_campaign=KARANGA">Los Angeles railway littered with thousands of parcels stolen from trains</a> BBC: The tracks have been cleared multiple times over the last three months as thieves target trains. 
- <p class="updated_time"> 11:36 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60004874?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star detained ahead of deportation appeal</a> BBC: The tennis star will hear on Sunday whether he can stay in the country and compete unvaccinated. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 09:09 PM CT, Jan. 14 </p> 
