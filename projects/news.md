@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 04:41 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60003308?at_medium=RSS&at_campaign=KARANGA">Lisbon council fined for sharing protester details with foreign embassies</a> BBC: City Hall shared data of protesters demonstrating in front of embassies, including Russia's. 
  <p class="updated_time"> 04:33 PM CT, Jan. 14 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 03:48 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215461/congo-basin-peatlands-have-trapped-years-worth-of-carbon-how-can-they-be-protect">Congo Basin peatlands have trapped years' worth of carbon. How can they be protected?</a> NPR: NPR's Ari Shapiro speaks with journalist John Cannon about the dangers of destroying a hidden peatland in the Congo Basin that has locked in as much carbon dioxide as the world emits in three years. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
@@ -71,6 +71,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072181298/10-global-crises-to-pay-attention-to-in-2022-according-to-the-new-humanitarian">10 global crises to pay attention to in 2022, according to 'The New Humanitarian'</a> NPR: The New Humanitarian has compiled its list of the conflicts, disasters and threats to watch this year. Editor Josephine Schmidt discusses how they came up with the list. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
+ <p class="updated_time"> 10:58 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-taliban-battle-rebellion-by-ethnic-minority-fighters-11642197509">Afghanistan's Taliban Battle Rebellion by Ethnic Minority Fighters</a> WSJ: Some Uzbeks have taken up arms in the country’s north, complaining of discrimination amid economic collapse. 
  <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073033973/djokovic-australian-open-updates">Here's what other tennis stars are saying about Djokovic's vaccine saga</a> NPR: Even players who have previously said Djokovic should have simply followed the rules say they have sympathy for his plight. 
  <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-embassy-civilian-targets-attacked-in-iraq-11642162144">U.S. Embassy, Civilian Targets Attacked in Iraq</a> WSJ: Rockets targeted the U.S. Embassy in Baghdad and men on motorcycles hurled grenades at the offices of political rivals of Iran-backed militias. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
- <p class="updated_time"> 11:32 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/china-bans-flights-from-u-s-as-covid-19-measures-intensify-11642139958">China Bans Flights From U.S. as Covid-19 Measures Intensify</a> WSJ: Chinese aviation authorities ordered more flights from the U.S. canceled for the coming weeks, along with flights from countries including France, Indonesia and the United Arab Emirates, citing Covid-19 containment rules. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/suits-tuition-refunds-pandemic-closures-527162">Appeals court could revive suits seeking tuition refunds over Covid closures</a> Politico: A majority of the D.C. Circuit panel seems inclined to reinstate suits against George Washington University and American University. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
  <p class="updated_time"> 05:35 PM CT, Jan. 14 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
  <p class="updated_time"> 04:37 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072899728/california-governor-denies-rfk-assassin-sirhan-sirhan-parole">California governor denies RFK assassin Sirhan Sirhan parole</a> NPR: The parole panel's recommendation to release Sirhan, 77, in August was based in part on new California laws since he was last denied parole in 2016 — the 15th time he'd lost his bid for release. 
- <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867985/president-biden-announces-more-tests-masks-and-emergency-hospital-staff">President Biden announces more tests, masks and emergency hospital staff</a> NPR: President Biden announced new measures to respond to the COVID surge. He is sending troops to hospitals in some states and said that more tests and masks are being ordered for distribution nationwide. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
