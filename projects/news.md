@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
+ <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
  <p class="updated_time"> 06:04 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA">The inventor inspired by a near-death experience</a> BBC: He nearly died after being given fake medicines. Now, his invention can spot them. 
  <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
@@ -91,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59981331?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Desmond Tutu's funeral re-imagined Ghana-style</a> BBC: Ghanaians were shocked by the archbishop's modest funeral and speedy burial, writes Elizabeth Ohene. 
  <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
- <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59966722?at_medium=RSS&at_campaign=KARANGA">Remi Wolf is casually rewriting the rules of pop music</a> BBC: The former downhill skier and American Idol contestant is making some of pop's most exuberant songs. 
  <p class="updated_time"> 07:36 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60006166?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Alec Baldwin turns phone over to investigators</a> BBC: Cinematographer Halyna Hutchins was shot while filming the movie Rust, starring Mr Baldwin. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
- <p class="updated_time"> 01:34 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Ranting man takes hostages at Texas synagogue</a> Politico: The Colleyville Police Department tweeted Saturday afternoon that it was conducting SWAT operations at the address of Congregation Beth Israel. 
+ <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Man takes hostages at Texas synagogue, demands release of Pakistani neuroscientist</a> Politico: The synagogue’s rabbi was believed to be among the hostages. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
