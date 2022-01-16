@@ -35,12 +35,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
+ <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60012337?at_medium=RSS&at_campaign=KARANGA">Tsunami threat over after huge Pacific volcano eruption - monitor</a> BBC: While further tsunamis may be unlikely, there are mounting fears over how badly Tonga has been hit. 
+ <p class="updated_time"> 10:07 PM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/tonga-cut-off-after-volcanic-eruption-tsunami-11642296898">Tonga Volcanic Eruption, Tsunami Cause Significant Damage</a> WSJ: Tonga’s main island was damaged after an undersea volcano erupted and triggered a tsunami. There have been no official reports of casualties or deaths. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 02:51 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-derbyshire-60011771?at_medium=RSS&at_campaign=KARANGA">Nino Cerruti: Italian fashion great dies aged 91</a> BBC: The celebrated designer and businessman once said: "I have always dressed the same person, myself." 
+ <p class="updated_time"> 02:50 PM CT, Jan. 15 </p> 
+ <a href="https://www.wsj.com/articles/suspect-in-haitian-president-jovenel-moises-slaying-arrested-in-jamaica-11642293136">Suspect in Haitian President's Slaying Arrested in Jamaica</a> WSJ: Former Haitian Senator John Joël Joseph is alleged to have been involved in plotting last year’s assassination. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
@@ -93,22 +99,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, causing tsunami waves as far as the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore there and around the Pacific, including a surges along the U.S. West Coast. 
- <p class="updated_time"> 04:33 AM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/beijing-reports-omicron-infection-three-weeks-ahead-of-winter-olympics-11642260807">Beijing Reports Omicron Infection Three Weeks Ahead of Winter Olympics</a> WSJ: A domestically transmitted case of the Omicron variant of Covid-19 was detected in Beijing, weeks before the city is set to host the Winter Olympics. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
  <p class="updated_time"> 03:28 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59975540?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Bad weather caused India's top commander's chopper crash</a> BBC: Bad weather was behind the helicopter crash that killed General Bipin Rawat, authorities say. 
- <p class="updated_time"> 02:42 AM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/india-sells-anti-ship-missiles-to-the-philippines-as-concern-over-china-grows-11642254147">India Sells Antiship Missiles to the Philippines as Concern Over China Grows</a> WSJ: The sale represents the first time that India has exported the BrahMos, which is made by an Indo-Russian joint venture based in New Delhi. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Conclude With Posturing and Threats</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604">U.S. Businesses Sour on Saudi Arabia in Blow to Crown Prince</a> WSJ: Surprise tax hits, unpaid bills and stolen intellectual property are undoing the government’s effort to shift the kingdom’s economy away from oil. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
- <p class="updated_time"> 09:09 PM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/australia-feared-letting-novak-djokovic-stay-would-fuel-antivaccine-sentiment-11642223036">Australia Feared Letting Djokovic Stay Would Fuel Antivaccine Sentiment</a> WSJ: Australia’s decision to cancel tennis star Novak Djokovic’s visa for a second time was driven by fear that letting him stay could foster antivaccine sentiment during a surge in Covid-19 cases, court documents show. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
@@ -161,16 +163,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
- <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a “false flag” operation in eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
- <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
@@ -366,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
- <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
