@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:58 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 12:47 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “stop the steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
  <p class="updated_time"> 10:57 PM CT, Jan. 15 </p> 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
