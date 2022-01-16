@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
+ <p class="updated_time"> 10:50 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
- <p class="updated_time"> 10:06 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu-plea-deal.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 09:12 AM CT, Jan. 16 </p> 
@@ -18,13 +20,11 @@ permalink: /projects/news/
  <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/europe/djokovic-visa-australia-serbia.html">Serbia’s Leader Denounces Australia’s Treatment of Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
+ <a href="https://www.nytimes.com/2022/01/16/world/europe/serbia-novak-djokovic.html">Serbia's Vucic Denounces Australia’s Treatment of Novak Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
  <p class="updated_time"> 08:48 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
  <p class="updated_time"> 08:30 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British – reports</a> BBC: The man detained four people during a morning service and died following a standoff with police. 
- <p class="updated_time"> 08:04 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: Deported from Australia and unable to defend his Open title, how did it get to this point? 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and is deported from Australia. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001">Covid-19 Shots Risk Displacing Immunizations Against Childhood Killers in Developing Countries</a> WSJ: As underfunded healthcare systems shift to immunizing adults against Covid, 2022 risks seeing further setbacks in the fight against some of the leading killers of young children in developing countries. 
  <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
@@ -204,8 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/mccaul-texas-synagogue-attack-527211">Texas congressman on synagogue attack: We need to get to the bottom of this</a> Politico: “We haven’t seen the radicalized attacks in a few years now, and it’s disturbing to see it raise its ugly head again,” Michael McCaul said. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742">A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
+ <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/romney-russia-ukraine-nato-527207">Romney: Putin can’t be allowed to rebuild the Soviet Union</a> Politico: “He’s trying to reestablish what he had before,” the Utah senator said. 
  <p class="updated_time"> 11:22 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/surgeon-general-covid-omicron-next-few-weeks-527208">Surgeon general on Omicron: Next few weeks will be tough</a> Politico: “The challenge is that the entire country is not moving at the same pace,” Vivek Murthy said. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
@@ -231,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:38 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/netanyahu-israel-plea-deal-corruption-527198">Netanyahu negotiating plea deal in corruption trial</a> Politico: The deal, which could be signed as early as this week, could usher Netanyahu off the Israeli political stage for years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/omicron-colleges-restrictions-spring.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “Stop the Steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
  <p class="updated_time"> 10:57 PM CT, Jan. 15 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democrats-voting-rights.html">Democrats Face a Dilemma on Voting: Compromise or Keep Pressing?</a> NYT: With their broad voting rights push nearing a dead end, Democrats must soon decide whether to embrace a far narrower bipartisan effort to protect vote counting and administration. 
  <p class="updated_time"> 06:59 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/nyc-schools-security-threat-software.html">‘Attempted Security Threat’ Disables Software at Some New York Schools</a> NYT: The outage in a platform used by teachers and students has caused another disruption for a system that has had its share amid the pandemic. 
- <p class="updated_time"> 06:47 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/suits-tuition-refunds-pandemic-closures-527162">Appeals court could revive suits seeking tuition refunds over Covid closures</a> Politico: A majority of the D.C. Circuit panel seems inclined to reinstate suits against George Washington University and American University. 
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
  <p class="updated_time"> 06:18 PM CT, Jan. 14 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
  <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
@@ -402,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
- <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
 
 
 </details>
