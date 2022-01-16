@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 01:39 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60018707?at_medium=RSS&at_campaign=KARANGA">Tsunami hits coasts after Tonga eruption</a> BBC: Strong waves cause panic in Peru and flooding in Fiji following the eruption of an underwater volcano in Tonga. 
