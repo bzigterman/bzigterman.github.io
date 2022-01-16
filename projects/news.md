@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:05 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic loses Australian visa appeal</a> BBC: Judges reject tennis star Novak Djokovic's last-ditch appeal to remain in Australia 
  <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59981331?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Desmond Tutu's funeral re-imagined Ghana-style</a> BBC: Ghanaians were shocked by the archbishop's modest funeral and speedy burial, writes Elizabeth Ohene. 
  <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
- <p class="updated_time"> 07:36 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60006166?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Alec Baldwin turns phone over to investigators</a> BBC: Cinematographer Halyna Hutchins was shot while filming the movie Rust, starring Mr Baldwin. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
  <p class="updated_time"> 06:03 PM CT, Jan. 14 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:58 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 12:47 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
- <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
