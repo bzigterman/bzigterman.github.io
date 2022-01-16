@@ -7,8 +7,6 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
  <p class="updated_time"> 09:17 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
@@ -49,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
- <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60012337?at_medium=RSS&at_campaign=KARANGA">Tsunami threat over after huge Pacific volcano eruption - monitor</a> BBC: While further tsunamis may be unlikely, there are mounting fears over how badly Tonga has been hit. 
  <p class="updated_time"> 10:07 PM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/tonga-cut-off-after-volcanic-eruption-tsunami-11642296898">Tonga Volcanic Eruption, Tsunami Cause Significant Damage</a> WSJ: Tonga’s main island was damaged after an undersea volcano erupted and triggered a tsunami. There have been no official reports of casualties or deaths. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
@@ -213,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
  <p class="updated_time"> 07:28 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
