@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:08 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 01:17 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60018707?at_medium=RSS&at_campaign=KARANGA">Tsunami hits coasts after Tonga eruption</a> BBC: Strong waves cause panic in Peru and flooding in Fiji following the eruption of an underwater volcano in Tonga. 
@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 11:56 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
+ <p class="updated_time"> 11:12 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Millions under weather alerts as major winter storm hits US and Canada</a> BBC: Flights are cancelled and power cuts reported in south-eastern US states amid heavy snow and ice. 
  <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 10:50 AM CT, Jan. 16 </p> 
@@ -61,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
+ <p class="updated_time"> 06:04 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA">The inventor inspired by a near-death experience</a> BBC: He nearly died after being given fake medicines. Now, his invention can spot them. 
  <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60011646?at_medium=RSS&at_campaign=KARANGA">Key moments: Dr Anthony Fauci and the pandemic</a> BBC: After a viral hot mic moment, here's how Fauci's frustration has been building for the last two years. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, causing tsunami waves as far as the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore there and around the Pacific, including a surges along the U.S. West Coast. 
  <p class="updated_time"> 04:02 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
- <p class="updated_time"> 03:28 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59975540?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Bad weather caused India's top commander's chopper crash</a> BBC: Bad weather was behind the helicopter crash that killed General Bipin Rawat, authorities say. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
@@ -206,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:52 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/hostage-taker-texas-synagogue-527224">British national ID’d as hostage-taker at Texas synagogue</a> Politico: Malik Faisal Akram was shot and killed. 
+ <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 12:43 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “Stop the Steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
- <p class="updated_time"> 10:57 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
