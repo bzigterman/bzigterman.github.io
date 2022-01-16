@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 07:03 AM CT, Jan. 16 </p> 
