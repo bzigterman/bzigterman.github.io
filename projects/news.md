@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:01 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
- <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
 
 
 </details>
