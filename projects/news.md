@@ -200,12 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
+ <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “stop the steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 08:35 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday has featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Hostages safe after standoff inside Texas synagogue</a> Politico: The synagogue’s rabbi was believed to be among the hostages. 
+ <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Hostages safe after standoff inside Texas synagogue; captor dead</a> Politico: The hostage-taker was heard demanding the release of Aafia Siddiqui, the Pakistani neuroscientist suspected of having ties to al-Qaida. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
