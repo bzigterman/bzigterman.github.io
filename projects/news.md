@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 07:03 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60010159?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Ex-senator arrested in Jamaica</a> BBC: John Joel Joseph has been arrested in Jamaica in connection with the death of Jovenel Moïse. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
- <p class="updated_time"> 12:02 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:24 AM CT, Jan. 15 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
+ <p class="updated_time"> 07:28 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/netanyahu-israel-plea-deal-corruption-527198">Netanyahu negotiating plea deal in corruption trial</a> Politico: The deal, which could be signed as early as this week, could usher Netanyahu off the Israeli political stage for years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/omicron-colleges-restrictions-spring.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
- <p class="updated_time"> 12:58 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 12:47 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
