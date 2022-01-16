@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:03 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets flight out from Melbourne Airport after losing visa challenge. 
- <p class="updated_time"> 06:53 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459225/the-isle-of-rum-needed-a-population-boost-so-they-took-applications-this-guy-mad">The Isle of Rum needed a population boost so they took applications. This guy made the cut</a> NPR: NPR's Sacha Pfeiffer speaks with Alex Mumford, who moved to the Isle of Rum in the Scottish Hebrides as a part of the island chain's efforts to boost its population. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459204/with-russian-troops-massed-at-the-border-ukrainians-are-preparing-for-a-possible">With Russian troops massed at the border, Ukrainians are preparing for a possible invasion</a> NPR: NPR's Sacha Pfeiffer talks to correspondent, Eleanor Beardsley, who has been traveling around Ukraine. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459169/international-help-heads-to-tonga-after-saturdays-massive-underwater-volcano-eru">International help heads to Tonga after Saturday's massive underwater volcano eruption</a> NPR: An underwater volcano erupted Saturday near Tonga, sending tsunamis across the pacific basin. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
@@ -123,12 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215461/congo-basin-peatlands-have-trapped-years-worth-of-carbon-how-can-they-be-protect">Congo Basin peatlands have trapped years' worth of carbon. How can they be protected?</a> NPR: NPR's Ari Shapiro speaks with journalist John Cannon about the dangers of destroying a hidden peatland in the Congo Basin that has locked in as much carbon dioxide as the world emits in three years. 
- <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215454/in-ukraine-life-goes-on-despite-threat-of-russian-invasion">In Ukraine, life goes on despite threat of Russian invasion</a> NPR: NPR's Ailsa Chang speaks with Ukrainian journalist and author Nataliya Gumenyuk about the Ukrainian public's perspective on tensions with Russia and the possibility that Russian troops may invade. 
- <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215440/top-scientists-say-africa-may-have-reached-a-less-threatening-phase-of-covid">Top scientists say Africa may have reached a less threatening phase of COVID</a> NPR: In the United States there's lots of discussion about when the coronavirus will finally become endemic the way colds are. But African scientists say that may have already happened on their continent. 
- <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215405/europe-braces-for-the-omicron-wave">Europe braces for the omicron wave</a> NPR: The World Health Organization said more than half of Europe will be infected with COVID in the coming weeks. NPR's Ailsa Chang talks with Dr. Hans Kluge of the WHO on what that means for the region. 
  <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decision to stay unvaccinated. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
- <p class="updated_time"> 11:42 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072188527/for-the-36-countries-with-the-lowest-vaccination-rates-supply-isnt-the-only-issu">For the 36 countries with the lowest vaccination rates, supply isn't the only issue</a> NPR: Even as wealthy countries hit 80% vaccination rates, a number of countries have not even vaccinated 1 in 10 citizens. Our interactive map shows the vaccination landscape. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
+ <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
@@ -382,6 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
