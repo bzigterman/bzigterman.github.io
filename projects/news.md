@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:53 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force Netanyahu to take a break from politics. 
  <p class="updated_time"> 03:13 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
  <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
@@ -139,12 +143,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: Who sparked deadly violence?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
- <p class="updated_time"> 04:12 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215461/congo-basin-peatlands-have-trapped-years-worth-of-carbon-how-can-they-be-protect">Congo Basin peatlands have trapped years' worth of carbon. How can they be protected?</a> NPR: NPR's Ari Shapiro speaks with journalist John Cannon about the dangers of destroying a hidden peatland in the Congo Basin that has locked in as much carbon dioxide as the world emits in three years. 
  <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decision to stay unvaccinated. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
@@ -204,6 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/james-carville-democrats-whine-too-much-527232">James Carville: Dems ‘whine too much,’ need to highlight accomplishments ahead of midterms</a> Politico: “Just quit being a whiny party and get out there and fight and tell people what you did, and tell people the exact truth,” Carville said. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073505171/how-to-reverse-declining-trust-in-institutions">How to reverse declining trust in institutions</a> NPR: NPR's Michel Martin speaks with Southern California Public Radio's Tony Marcano and Eric Liu of Citizen University about how the media and everyday citizens can better democracy. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073505164/why-americans-are-losing-trust-in-elections-and-the-media">Why Americans are losing trust in elections and the media</a> NPR: Two researchers from the Pew Research Center, Bradley Jones and Katerina Eva Matsa, discuss data showing why Americans are losing faith in the media and U.S. elections. 
  <p class="updated_time"> 03:28 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/russia-nato-putin-spokesperson-peskov-527230">Russia and NATO ‘on different tracks’ in negotiations, Putin spokesperson says</a> Politico: The remarks from Dmitry Peskov came amid continuing concerns that Russia is about to invade Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Jan. 16 </p> 
@@ -250,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
- <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 11:37 AM CT, Jan. 15 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
- <p class="updated_time"> 04:15 AM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
