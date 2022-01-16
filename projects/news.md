@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
- <p class="updated_time"> 11:03 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60012337?at_medium=RSS&at_campaign=KARANGA">Tsunami threat over after huge Pacific volcano eruption - monitor</a> BBC: While further tsunamis may be unlikely, there are mounting fears over how badly Tonga has been hit. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
