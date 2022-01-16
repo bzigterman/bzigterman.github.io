@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:20 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 12:29 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
  <p class="updated_time"> 11:56 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
@@ -181,6 +181,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 09:54 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
+ <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 06:43 PM CT, Jan. 13 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:43 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:48 AM CT, Jan. 16 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/surgeon-general-covid-omicron-next-few-weeks-527208">Surgeon general on Omicron: Next few weeks will be tough</a> Politico: “The challenge is that the entire country is not moving at the same pace,” Vivek Murthy said. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
