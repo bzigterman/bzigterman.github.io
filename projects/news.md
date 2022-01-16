@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:41 AM CT, Jan. 16 </p> 
+ <p class="updated_time"> 04:53 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. Judges said the immigration minister was within his rights to cancel Djokovic’s visa. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
