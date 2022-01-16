@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:20 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 10:50 AM CT, Jan. 16 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu-plea-deal.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
- <p class="updated_time"> 09:12 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
@@ -206,12 +206,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
+ <p class="updated_time"> 12:12 PM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/trump-first-rally-2022-maga-527206">MAGA hats and QAnon: Inside Trump’s first rally of 2022</a> Politico: The former president hit all the notes in his rally in Arizona on Saturday. The question is: Is this a precursor to a reelection bid? 
  <p class="updated_time"> 11:48 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/mccaul-texas-synagogue-attack-527211">Texas congressman on synagogue attack: We need to get to the bottom of this</a> Politico: “We haven’t seen the radicalized attacks in a few years now, and it’s disturbing to see it raise its ugly head again,” Michael McCaul said. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-russia-ukraine-nato-527207">Romney: Putin can’t be allowed to rebuild the Soviet Union</a> Politico: “He’s trying to reestablish what he had before,” the Utah senator said. 
+ <p class="updated_time"> 11:29 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 11:22 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/surgeon-general-covid-omicron-next-few-weeks-527208">Surgeon general on Omicron: Next few weeks will be tough</a> Politico: “The challenge is that the entire country is not moving at the same pace,” Vivek Murthy said. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
- <p class="updated_time"> 07:28 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
@@ -264,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
- <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/cruise-ships-covid-cdc-527159">Covid confusion sends cruises into choppy waters on their own</a> Politico: It’s the latest in a series of mixed messages sent by the CDC, not only about how safe it is to cruise but a host of other Covid restrictions, as the agency tries to cope with Omicron’s onslaught. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
@@ -402,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
- <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
 
 
 </details>
