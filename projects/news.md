@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60012337?at_medium=RSS&at_campaign=KARANGA">Tsunami threat over after huge Pacific volcano eruption - monitor</a> BBC: While further tsunamis may be unlikely, there are mounting fears over how badly Tonga has been hit. 
  <p class="updated_time"> 08:11 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police in hostage stand-off at synagogue</a> BBC: Police are negotiating with a man who has taken several hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073380457/haiti-assassination-arrest">Jamaica arrests a former senator sought in Haitian president's assassination</a> NPR: A former Haitian senator sought in the killing of President Jovenel Moïse has been arrested in Jamaica, Haiti's National Police says. John Joël Joseph is the second suspect to be arrested in Jamaica. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60010159?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Ex-senator arrested in Jamaica</a> BBC: John Joel Joseph has been arrested in Jamaica in connection with the death of Jovenel Moïse. 
- <p class="updated_time"> 12:10 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60007119?at_medium=RSS&at_campaign=KARANGA">Get away from shore - US and Japan warn on tsunami</a> BBC: Both countries advise people on the coast to move away from water after waves cross ocean from South Pacific. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 12:02 PM CT, Jan. 15 </p> 
@@ -202,10 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “stop the steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
+ <p class="updated_time"> 10:57 PM CT, Jan. 15 </p> 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
- <p class="updated_time"> 08:35 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday has featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Hostages safe after standoff inside Texas synagogue; captor dead</a> Politico: The hostage-taker was heard demanding the release of Aafia Siddiqui, the Pakistani neuroscientist suspected of having ties to al-Qaida. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
