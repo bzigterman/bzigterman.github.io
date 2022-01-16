@@ -208,12 +208,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:28 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/russia-nato-putin-spokesperson-peskov-527230">Russia and NATO ‘on different tracks’ in negotiations, Putin spokesperson says</a> Politico: The remarks from Dmitry Peskov came amid continuing concerns that Russia is about to invade Ukraine. 
+ <p class="updated_time"> 02:50 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 01:52 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/hostage-taker-texas-synagogue-527224">British national ID’d as hostage-taker at Texas synagogue</a> Politico: Malik Faisal Akram was shot and killed to end the 10-hour standoff. 
- <p class="updated_time"> 01:46 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
