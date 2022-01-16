@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man seized four people during a morning service and died following a standoff with police. 
  <p class="updated_time"> 11:20 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
@@ -16,15 +18,13 @@ permalink: /projects/news/
  <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu-plea-deal.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
+ <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/serbia-novak-djokovic.html">Serbia's Vucic Denounces Australia’s Treatment of Novak Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
  <p class="updated_time"> 08:48 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
- <p class="updated_time"> 08:30 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British – reports</a> BBC: The man detained four people during a morning service and died following a standoff with police. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -252,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/illinois-governor-900-million-reelection-campaign-527195">Illinois governor cuts $90M check for reelection campaign</a> Politico: Self-funder JB Pritzker made the contribution just days before expected GOP challenger Richard Irvin is set to announce a bid to unseat the first-term Democrat. 
- <p class="updated_time"> 02:16 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/youngkins-executive-orders-education-critical-race-theory-527194">Youngkin's executive orders to focus on education, critical race theory</a> Politico: The order is the first of a batch of executive actions the Republican governor planned to release after his swearing in Saturday. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
