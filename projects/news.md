@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
+ <p class="updated_time"> 09:17 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
+ <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu-plea-deal.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
+ <p class="updated_time"> 09:12 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
@@ -17,12 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British – reports</a> BBC: The man detained four people during a morning service and died following a standoff with police. 
  <p class="updated_time"> 08:04 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
- <p class="updated_time"> 07:59 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
- <p class="updated_time"> 07:03 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459225/the-isle-of-rum-needed-a-population-boost-so-they-took-applications-this-guy-mad">The Isle of Rum needed a population boost so they took applications. This guy made the cut</a> NPR: NPR's Sacha Pfeiffer speaks with Alex Mumford, who moved to the Isle of Rum in the Scottish Hebrides as a part of the island chain's efforts to boost its population. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: Deported from Australia and unable to defend his Open title, how did it get to this point? 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and is deported from Australia. 
- <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remain massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
@@ -396,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
- <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
 
