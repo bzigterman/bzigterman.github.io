@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:49 AM CT, Jan. 16 </p> 
+ <p class="updated_time"> 06:13 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. He arrived at Melbourne Airport on Sunday night for a flight out of the country. 
- <p class="updated_time"> 05:16 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: The tennis star is at Melbourne airport preparing to leave the country after losing court battle to remain. 
+ <p class="updated_time"> 05:57 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets flight out from Melbourne Airport after losing visa challenge. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star will be deported from Australia and not be able to defend his title in the Open. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and will be deported from Australia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -202,6 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">‘He was not my first pick’: New York’s new mayor faces liberal backlash</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/biden-russia-cyber-ukraine-527183">‘We have to show strength’: Calls grow for U.S. to deter Russian hackers</a> Politico: Kremlin saber-rattling on the Ukrainian border is increasing worries that a confrontation could fuel cyberattacks on the U.S. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/bitcoin-crashes-the-midterms-527126">Bitcoin crashes the midterms</a> Politico: Candidates are staking out positions on cryptocurrency, scrambling party lines and fanning fundraising concerns. 
  <p class="updated_time"> 06:48 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/texas-synagogue-hostages-abbott-527199">Hostages safe after Texas synagogue standoff; captor dead</a> Politico: The man took over services at a Texas synagogue where he could be heard ranting on a livestream. 
  <p class="updated_time"> 06:38 AM CT, Jan. 16 </p> 
@@ -305,10 +311,6 @@ permalink: /projects/news/
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/cartoons/2022/01/14/the-nations-cartoonists-on-the-week-in-politics-000278">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/dems-2022-build-back-better-527096">With Biden’s signature legislation stalled, Democrats stare into political void</a> Politico: President Joe Biden’s sweeping climate and social spending bill is faltering in the Senate, and Democrats are trying to make lemonade out of infrastructure. 
- <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 04:15 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
@@ -330,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
