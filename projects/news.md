@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:20 AM CT, Jan. 16 </p> 
+ <p class="updated_time"> 05:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. He arrived at Melbourne Airport on Sunday night for a flight out of the country. 
  <p class="updated_time"> 05:16 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: The tennis star is at Melbourne airport preparing to leave the country after losing court battle to remain. 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:48 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/texas-synagogue-hostages-abbott-527199">Hostages safe after Texas synagogue standoff; captor dead</a> Politico: The man took over services at a Texas synagogue where he could be heard ranting on a livestream. 
  <p class="updated_time"> 06:38 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/netanyahu-israel-plea-deal-corruption-527198">Netanyahu negotiating plea deal in corruption trial</a> Politico: The deal, which could be signed as early as this week, could usher Netanyahu off the Israeli political stage for years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
- <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/ranting-man-apparently-takes-hostages-at-texas-synagogue-527196">Hostages safe after standoff inside Texas synagogue; captor dead</a> Politico: The hostage-taker was heard demanding the release of Aafia Siddiqui, the Pakistani neuroscientist suspected of having ties to al-Qaida. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 03:53 PM CT, Jan. 15 </p> 
