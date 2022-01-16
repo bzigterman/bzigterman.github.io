@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:03 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60012337?at_medium=RSS&at_campaign=KARANGA">Tsunami threat over after huge Pacific volcano eruption - monitor</a> BBC: While further tsunamis may be unlikely, there are mounting fears over how badly Tonga has been hit. 
- <p class="updated_time"> 08:11 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police in hostage stand-off at synagogue</a> BBC: Police are negotiating with a man who has taken several hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
