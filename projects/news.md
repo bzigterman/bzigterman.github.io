@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:05 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic loses Australian visa appeal</a> BBC: Judges reject tennis star Novak Djokovic's last-ditch appeal to remain in Australia 
+ <p class="updated_time"> 01:27 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
