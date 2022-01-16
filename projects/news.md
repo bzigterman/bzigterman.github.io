@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:01 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
- <p class="updated_time"> 02:26 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and will be deported from Australia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
