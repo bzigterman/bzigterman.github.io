@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. Judges said the immigration minister was within his rights to cancel Djokovic’s visa. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 04:01 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star will be deported from Australia and not be able to defend his title in the Open. 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and will be deported from Australia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
- <p class="updated_time"> 06:02 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
 
