@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/djokovic-visa-australia-serbia.html">Serbia’s Leader Denounces Australia’s Treatment of Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
  <p class="updated_time"> 08:48 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
+ <p class="updated_time"> 08:30 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British – reports</a> BBC: The man detained four people during a morning service and died following a standoff with police. 
+ <p class="updated_time"> 08:04 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 07:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 07:03 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets flight out from Melbourne Airport after losing visa challenge. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459225/the-isle-of-rum-needed-a-population-boost-so-they-took-applications-this-guy-mad">The Isle of Rum needed a population boost so they took applications. This guy made the cut</a> NPR: NPR's Sacha Pfeiffer speaks with Alex Mumford, who moved to the Isle of Rum in the Scottish Hebrides as a part of the island chain's efforts to boost its population. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -27,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073459169/international-help-heads-to-tonga-after-saturdays-massive-underwater-volcano-eru">International help heads to Tonga after Saturday's massive underwater volcano eruption</a> NPR: An underwater volcano erupted Saturday near Tonga, sending tsunamis across the pacific basin. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
+ <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60003649?at_medium=RSS&at_campaign=KARANGA">Mohamed Ibrahim Moalimuu: Somali spokesman injured in Mogadishu</a> BBC: Former BBC journalist Mohamed Ibrahim Moalimuu was targeted by terrorists, the prime minister says. 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
- <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 10:50 PM CT, Jan. 15 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: Who sparked deadly violence?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
- <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60004658?at_medium=RSS&at_campaign=KARANGA">Canadian doctor delivers 'Miracle' baby on flight</a> BBC: A plane erupts in applause as a Canadian doctor delivers a baby on a flight to Uganda. 
  <p class="updated_time"> 04:12 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215489/with-western-port-backups-ships-are-getting-cargo-to-the-u-s-via-the-great-lakes">With western port backups, ships are getting cargo to the U.S. via the Great Lakes</a> NPR: The shortest route to get a ship from Asia to the U.S. is through America's West Coast ports. But given the pileup there, some ships are going the long way through eastern Canada into the Great Lakes. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
