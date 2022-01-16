@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:53 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. Judges said the immigration minister was within his rights to cancel Djokovic’s visa. 
+ <p class="updated_time"> 05:07 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
+ <p class="updated_time"> 05:07 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. He arrived at Melbourne Airport on Sunday night for a flight out of the country. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
- <p class="updated_time"> 04:01 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa battle</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star will be deported from Australia and not be able to defend his title in the Open. 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
