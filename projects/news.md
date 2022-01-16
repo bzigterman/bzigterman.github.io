@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA">The inventor inspired by a near-death experience</a> BBC: He nearly died after being given fake medicines. Now, his invention can spot them. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60011646?at_medium=RSS&at_campaign=KARANGA">Key moments: Dr Anthony Fauci and the pandemic</a> BBC: After a viral hot mic moment, here's how Fauci's frustration has been building for the last two years. 
  <p class="updated_time"> 04:33 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Texas police respond to synagogue 'hostage' situation</a> BBC: Police are negotiating with a man who seems to have taken four hostages at a synagogue in Colleyville. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
  <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
- <p class="updated_time"> 07:33 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989496?at_medium=RSS&at_campaign=KARANGA">A glimpse of Jewish life before World War Two</a> BBC: A huge trove of artefacts that was saved from the Nazis offers a fascinating glimpse of a lost era. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 06:43 PM CT, Jan. 13 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
- <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
 
 
 </details>
