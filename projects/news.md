@@ -102,7 +102,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59997286?at_medium=RSS&at_campaign=KARANGA">The woman who rowed solo across the Atlantic</a> BBC: Tori Murden McClure almost died when she tried to row the Atlantic solo, but she went back to sea. 
  <p class="updated_time"> 06:01 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Who sparked deadly violence in Kazakhstan?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: Who sparked deadly violence?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
@@ -121,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073215405/europe-braces-for-the-omicron-wave">Europe braces for the omicron wave</a> NPR: The World Health Organization said more than half of Europe will be infected with COVID in the coming weeks. NPR's Ailsa Chang talks with Dr. Hans Kluge of the WHO on what that means for the region. 
  <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decision to stay unvaccinated. 
- <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59998988?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: US warns of 'false-flag' operation</a> BBC: Russia is plotting to stage acts of provocation to create a pretext to invade Ukraine, a US official says. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
@@ -202,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
+ <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 08:35 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday has featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 05:14 PM CT, Jan. 15 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
- <p class="updated_time"> 04:37 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072899728/california-governor-denies-rfk-assassin-sirhan-sirhan-parole">California governor denies RFK assassin Sirhan Sirhan parole</a> NPR: The parole panel's recommendation to release Sirhan, 77, in August was based in part on new California laws since he was last denied parole in 2016 — the 15th time he'd lost his bid for release. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
