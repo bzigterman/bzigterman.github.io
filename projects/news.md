@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:13 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Loses His Bid to Stay in Australia</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect the court’s ruling. He arrived at Melbourne Airport on Sunday night for a flight out of the country. 
- <p class="updated_time"> 05:57 AM CT, Jan. 16 </p> 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets flight out from Melbourne Airport after losing visa challenge. 
+ <p class="updated_time"> 06:53 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/15/sports/novak-djokovic-australia-hearing">Live Updates: Novak Djokovic Leaves Australia After Losing His Bid to Stay</a> NYT: The unvaccinated tennis star said he was “extremely disappointed” but would respect a court’s ruling. He departed on a flight to Dubai from Melbourne Airport on Sunday night. 
+ <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: Deported from Australia and unable to defend his Open title, how did it get to this point? 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and will be deported from Australia. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and is deported from Australia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Conclude With Posturing and Threats</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
- <p class="updated_time"> 12:22 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60006306?at_medium=RSS&at_campaign=KARANGA">Los Angeles railway littered with thousands of parcels stolen from trains</a> BBC: The tracks have been cleared multiple times over the last three months as thieves target trains. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 09:09 PM CT, Jan. 14 </p> 
@@ -202,12 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">‘He was not my first pick’: New York’s new mayor faces liberal backlash</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
+ <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/biden-russia-cyber-ukraine-527183">‘We have to show strength’: Calls grow for U.S. to deter Russian hackers</a> Politico: Kremlin saber-rattling on the Ukrainian border is increasing worries that a confrontation could fuel cyberattacks on the U.S. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/bitcoin-crashes-the-midterms-527126">Bitcoin crashes the midterms</a> Politico: Candidates are staking out positions on cryptocurrency, scrambling party lines and fanning fundraising concerns. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
+ <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 06:48 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/texas-synagogue-hostages-abbott-527199">Hostages safe after Texas synagogue standoff; captor dead</a> Politico: The man took over services at a Texas synagogue where he could be heard ranting on a livestream. 
  <p class="updated_time"> 06:38 AM CT, Jan. 16 </p> 
@@ -296,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
- <p class="updated_time"> 12:25 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/ohio-congressional-map-struck-down-527116">Top Ohio court strikes down state's gerrymandered congressional map</a> Politico: The state Supreme Court ruled Republicans in Columbus had stacked the deck against Democrats in redistricting, in violation of the state constitution. 
  <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
@@ -314,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 04:15 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
- <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden announces three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden announced for the Fed board on Friday. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
- <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
