@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: The tennis star is set to be deported from Australia and will not compete in the Open. 
  <p class="updated_time"> 02:26 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
+ <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60013982?at_medium=RSS&at_campaign=KARANGA">Moment Djokovic learns his Australian Open fate</a> BBC: Tennis star Novak Djokovic loses his legal challenge and will be deported from Australia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
- <p class="updated_time"> 06:03 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59997286?at_medium=RSS&at_campaign=KARANGA">The woman who rowed solo across the Atlantic</a> BBC: Tori Murden McClure almost died when she tried to row the Atlantic solo, but she went back to sea. 
  <p class="updated_time"> 06:01 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: Who sparked deadly violence?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
- <p class="updated_time"> 03:45 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
