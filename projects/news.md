@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 AM CT, Jan. 16 </p> 
+ <p class="updated_time"> 02:26 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star to be deported after losing Australia visa appeal</a> BBC: Judges reject the tennis star's last-ditch bid to stay and defend his Australian Open title. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
  <p class="updated_time"> 11:36 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60012213?at_medium=RSS&at_campaign=KARANGA">Hostages freed after stand-off at Texas synagogue</a> BBC: Four people are freed and an assailant dies as police bring the incident in Colleyville to an end. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
@@ -191,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
- <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
 
 
 </details>
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/omicron-colleges-restrictions-spring.html">univers</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 12:58 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-rally-fact-check.html">Trump’s Covid and Election Falsehoods at Arizona Rally</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 12:47 AM CT, Jan. 16 </p> 
@@ -229,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Bills Dead, Democrats Face Costly Fight to Overcome G.O.P. Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
+ <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
- <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
- <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
