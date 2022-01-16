@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:45 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man seized four people during a morning service and died following a standoff with police. 
- <p class="updated_time"> 11:20 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga. 
+ <p class="updated_time"> 12:20 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
+ <p class="updated_time"> 11:56 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: Ash-covered Tonga is like a moonscape say residents</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
  <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 10:50 AM CT, Jan. 16 </p> 
@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 09:54 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
- <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 06:43 PM CT, Jan. 13 </p> 
@@ -208,8 +206,6 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
- <p class="updated_time"> 12:12 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/trump-first-rally-2022-maga-527206">MAGA hats and QAnon: Inside Trump’s first rally of 2022</a> Politico: The former president hit all the notes in his rally in Arizona on Saturday. The question is: Is this a precursor to a reelection bid? 
  <p class="updated_time"> 11:48 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/mccaul-texas-synagogue-attack-527211">Texas congressman on synagogue attack: We need to get to the bottom of this</a> Politico: “We haven’t seen the radicalized attacks in a few years now, and it’s disturbing to see it raise its ugly head again,” Michael McCaul said. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
