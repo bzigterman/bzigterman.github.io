@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
+ <p class="updated_time"> 07:30 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
+ <p class="updated_time"> 07:27 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/france-eric-zemmour-conviction.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “assassins” and “rapists” on television. 
+ <p class="updated_time"> 07:17 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
  <p class="updated_time"> 07:14 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 07:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:25 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
- <p class="updated_time"> 06:12 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 06:01 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A possible drone attack in Abu Dhabi has killed three people and wounded six</a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
- <p class="updated_time"> 05:36 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
  <p class="updated_time"> 05:16 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
- <p class="updated_time"> 11:04 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-60019830?at_medium=RSS&at_campaign=KARANGA">China cuts interest rates as economic growth slows</a> BBC: Compared to a year earlier, the economy grew 4% in the last three months of 2021, official figures show. 
  <p class="updated_time"> 11:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 10:42 PM CT, Jan. 16 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
- <p class="updated_time"> 06:38 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/netanyahu-israel-plea-deal-corruption-527198">Netanyahu negotiating plea deal in corruption trial</a> Politico: The deal, which could be signed as early as this week, could usher Netanyahu off the Israeli political stage for years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
@@ -394,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
- <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
