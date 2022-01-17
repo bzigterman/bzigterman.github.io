@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <p class="updated_time"> 10:21 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 09:58 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 09:41 PM CT, Jan. 16 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Thousands without power as US and Canada hit by winter storm</a> BBC: Flights have been cancelled as the dangerous storm brings snow and high winds to much of the country. 
  <p class="updated_time"> 08:30 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse chairman resigns after company probe</a> BBC: Antonio Horta-Osorio was reportedly found to have broken the UK's Covid-19 quarantine rules. 
- <p class="updated_time"> 07:45 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 07:34 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
@@ -30,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:57 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60019483?at_medium=RSS&at_campaign=KARANGA">Pioneering US military pilot Charles McGee dies at 102</a> BBC: A member of the first all-black aviation unit, the Tuskegee Airmen, he flew more than 400 missions. 
  <p class="updated_time"> 06:37 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India's aggressive and spirited captain transformed cricket</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: Why quitting was the only option for ‘cornered’ captain</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
  <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
  <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
@@ -39,16 +41,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 06:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
+ <p class="updated_time"> 05:39 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-population-barely-grew-in-2021-as-births-dropped-for-a-fifth-year-11642385947">China's Population Stalls, With Births in 2021 the Lowest in Modern History</a> WSJ: The number of newborns in China fell for a fifth straight year to the lowest in modern Chinese history, despite Beijing’s increasing emphasis on encouraging births. 
+ <p class="updated_time"> 05:21 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, Though Momentum Slowed in Fourth Quarter</a> WSJ: China’s GDP grew just 4.0% in the fourth quarter compared with a year earlier, better than forecasts for 3.8% growth but lower than the 4.9% expansion recorded in the third quarter. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force him to take a break from politics. 
- <p class="updated_time"> 03:52 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, Though Momentum Slowed in Fourth Quarter</a> WSJ: China’s GDP grew just 4.0% in the fourth quarter compared with a year earlier, better than forecasts for 3.8% growth but lower than the 4.9% expansion recorded in the third quarter. 
- <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-population-barely-grew-in-2021-as-births-dropped-for-a-fifth-year-11642385947">China's Population Barely Grew in 2021 as Births Dropped for Fifth Year</a> WSJ: The number of newborns in China fell to the lowest in modern Chinese history, despite Beijing’s increasing emphasis on encouraging births. 
  <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Fires Two Suspected Ballistic Missiles From Airfield</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. United Nations Security Council resolutions prohibit such ballistic-missile tests from North Korea. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 03:14 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decision to stay unvaccinated. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: Vice President Kamala Harris and Secretary of Defense Lloyd Austin announced his death on Twitter. 
+ <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: He flew missions in World War II, the Korean War and the Vietnam War. 
  <p class="updated_time"> 08:46 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">North Korea fires 2 suspected missiles in 4th launch this year</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
