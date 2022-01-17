@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Thousands without power as US and Canada hit by winter storm</a> BBC: Flights have been cancelled as the dangerous storm brings snow and high winds to much of the country. 
  <p class="updated_time"> 08:30 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse chairman resigns after company probe</a> BBC: Antonio Horta-Osorio was reportedly found to have broken the UK's Covid-19 quarantine rules. 
- <p class="updated_time"> 08:00 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter, slowing from the July through September quarter. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 07:45 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 07:34 PM CT, Jan. 16 </p> 
@@ -39,6 +39,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force him to take a break from politics. 
+ <p class="updated_time"> 03:52 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, Though Momentum Slowed in Fourth Quarter</a> WSJ: China’s GDP grew just 4.0% in the fourth quarter compared with a year earlier, better than forecasts for 3.8% growth but lower than the 4.9% expansion recorded in the third quarter. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-population-barely-grew-in-2021-as-births-dropped-for-a-fifth-year-11642385947">China's Population Barely Grew in 2021 as Births Dropped for Fifth Year</a> WSJ: The number of newborns in China fell to the lowest in modern Chinese history, despite Beijing’s increasing emphasis on encouraging births. 
  <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Fires Two Suspected Ballistic Missiles From Airfield</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. United Nations Security Council resolutions prohibit such ballistic-missile tests from North Korea. 
  <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
- <p class="updated_time"> 10:07 PM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/tonga-cut-off-after-volcanic-eruption-tsunami-11642296898">Tonga Volcanic Eruption, Tsunami Cause Significant Damage</a> WSJ: Tonga’s main island was damaged after an undersea volcano erupted and triggered a tsunami. There have been no official reports of casualties or deaths. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1072385995/north-korea-is-testing-hypersonic-weapons-should-the-west-be-worried">North Korea is testing hypersonic weapons. Should the West be worried?</a> NPR: The tests of the fast and maneuverable class of weapons that purport to be able to evade missile defense systems, has garnered the attention of the White House, which responded with new sanctions. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
- <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Conclude With Posturing and Threats</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: Vice President Kamala Harris and Secretary of Defense Lloyd Austin announced his death on Twitter. 
  <p class="updated_time"> 08:46 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">Seoul: North Korea fires projectile in 4th launch this month</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
+ <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">North Korea fires 2 suspected missiles in 4th launch this year</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 05:08 PM CT, Jan. 16 </p> 
