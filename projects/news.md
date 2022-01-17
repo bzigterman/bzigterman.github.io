@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe TestNew Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
+ <p class="updated_time"> 11:51 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Suspected Drone Strikes on U.A.E. Capital</a> WSJ: Attacks on two locations in the United Arab Emirates caused an explosion involving three fuel trucks and a fire at a construction site at Abu Dhabi’s airport. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
@@ -47,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60019830?at_medium=RSS&at_campaign=KARANGA">China cuts interest rates as economic growth slows</a> BBC: Compared to a year earlier, the economy grew 4% in the last three months of 2021, official figures show. 
  <p class="updated_time"> 11:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <p class="updated_time"> 10:42 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/putin-wants-nato-to-back-off-but-is-achieving-exactly-the-opposite-says-alliance-chief-11642412572">Putin Wants NATO to Back Off but Is Achieving the Opposite, Says Alliance Chief</a> WSJ: To Western diplomats, the divergence between Russia’s demands that NATO retrench and Moscow’s actions has deepened doubts about its sincerity in recent talks. 
  <p class="updated_time"> 10:21 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 09:42 PM CT, Jan. 16 </p> 
@@ -75,10 +79,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 06:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
- <p class="updated_time"> 05:39 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-population-barely-grew-in-2021-as-births-dropped-for-a-fifth-year-11642385947">China's Population Stalls, With Births in 2021 the Lowest in Modern History</a> WSJ: The number of newborns in China fell for a fifth straight year to the lowest in modern Chinese history, despite Beijing’s increasing emphasis on encouraging births. 
  <p class="updated_time"> 05:21 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: China’s economy grew just 4.0% in the fourth quarter compared with a year earlier, better than forecasts for 3.8% growth but lower than the 4.9% expansion recorded in the third quarter. 
+ <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: Underscoring concerns about China’s growth outlook, the central bank slashed two sets of interest rates, which will fuel expectations for an additional cut to benchmark lending rates. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
@@ -115,10 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
- <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001">Covid-19 Shots Risk Displacing Immunizations Against Childhood Killers in Developing Countries</a> WSJ: As underfunded healthcare systems shift to immunizing adults against Covid, 2022 risks seeing further setbacks in the fight against some of the leading killers of young children in developing countries. 
- <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
