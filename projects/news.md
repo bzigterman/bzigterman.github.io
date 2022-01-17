@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 12:31 PM CT, Jan. 17 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly caused by a drone attack. 
- <p class="updated_time"> 10:22 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
  <p class="updated_time"> 07:53 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
+ <p class="updated_time"> 07:52 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Aerial Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
- <p class="updated_time"> 04:13 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Suspected Drone Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 04:06 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942622?at_medium=RSS&at_campaign=KARANGA">Israeli ex-PM Netanyahu's cases could be dropped in plea deal</a> BBC: The former prime minister is discussing terms which could see a dramatic end to his criminal trial. 
  <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
