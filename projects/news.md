@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: Underscoring concerns about China’s growth outlook, the central bank slashed two sets of interest rates, which will fuel expectations for an additional cut to benchmark lending rates. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
- <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
@@ -208,14 +208,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build 
+ <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
  <p class="updated_time"> 03:55 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
- <p class="updated_time"> 02:52 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/17/us/politics/trump-rally-arizona.html">On the Scene: Trump's Latest Rally</a> NYT: At the first Trump rally since President Biden accused his predecessor of holding “a dagger at the throat of America,” the conservative outrage at the current president was palpable. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
@@ -294,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073331293/week-in-politics-vaccine-mandates-voting-rights-and-inflation">Week in politics: Vaccine mandates; Voting rights and inflation</a> NPR: The U.S. Supreme Court's decision blocking the Biden administration's employer vaccine-or-test mandate was just one of multiple disappointments the president experienced this past week. 
- <p class="updated_time"> 06:01 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073280587/president-biden-manchin-sinema-expectations-green-lantern-theory">Biden's bad week and the unreality of great expectations</a> NPR: The week brought some more bad news for President Biden, who may be rightly criticized for setting expectations too high for what could actually get done. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
