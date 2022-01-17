@@ -8,11 +8,15 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 07:45 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <p class="updated_time"> 07:34 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59938380?at_medium=RSS&at_campaign=KARANGA">Nigeria's economy: Why people are buying sanitary pads in packs of two</a> BBC: A so-called "sachet economy" has emerged as high inflation makes everyday items too expensive for many. 
  <p class="updated_time"> 06:57 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60019483?at_medium=RSS&at_campaign=KARANGA">Pioneering US military pilot Charles McGee dies at 102</a> BBC: A member of the first all-black aviation unit, the Tuskegee Airmen, he flew more than 400 missions. 
+ <p class="updated_time"> 06:37 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India's aggressive and spirited captain transformed cricket</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
  <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
  <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
@@ -28,13 +32,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force Netanyahu to take a break from politics. 
- <p class="updated_time"> 03:13 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
+ <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force him to take a break from politics. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Fires Two Suspected Ballistic Missiles From Airfield</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. 
  <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: New Zealand sends flight to assess Tonga damage</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
- <p class="updated_time"> 02:03 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Launches Unknown Projectile Off Its East Coast</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/tonga-cut-off-after-volcanic-eruption-tsunami-11642296898">Tonga Volcanic Eruption, Tsunami Cause Significant Damage</a> WSJ: Tonga’s main island was damaged after an undersea volcano erupted and triggered a tsunami. There have been no official reports of casualties or deaths. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
- <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60011646?at_medium=RSS&at_campaign=KARANGA">Key moments: Dr Anthony Fauci and the pandemic</a> BBC: After a viral hot mic moment, here's how Fauci's frustration has been building for the last two years. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
@@ -202,16 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:46 PM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">Seoul: North Korea fires projectile in 4th launch this month</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
+ <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 05:08 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/james-carville-democrats-whine-too-much-527232">James Carville: Dems ‘whine too much,’ need to highlight accomplishments ahead of midterms</a> Politico: “Just quit being a whiny party and get out there and fight and tell people what you did, and tell people the exact truth,” Carville said. 
+ <a href="https://www.politico.com/news/2022/01/16/james-carville-democrats-whine-too-much-527232">Carville: Dems ‘whine too much,’ need to highlight accomplishments ahead of midterms</a> Politico: “Just quit being a whiny party and get out there and fight and tell people what you did, and tell people the exact truth,” James Carville said. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505171/how-to-reverse-declining-trust-in-institutions">How to reverse declining trust in institutions</a> NPR: NPR's Michel Martin speaks with Southern California Public Radio's Tony Marcano and Eric Liu of Citizen University about how the media and everyday citizens can better democracy. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505164/why-americans-are-losing-trust-in-elections-and-the-media">Why Americans are losing trust in elections and the media</a> NPR: Two researchers from the Pew Research Center, Bradley Jones and Katerina Eva Matsa, discuss data showing why Americans are losing faith in the media and U.S. elections. 
  <p class="updated_time"> 03:28 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/russia-nato-putin-spokesperson-peskov-527230">Russia and NATO ‘on different tracks’ in negotiations, Putin spokesperson says</a> Politico: The remarks from Dmitry Peskov came amid continuing concerns that Russia is about to invade Ukraine. 
- <p class="updated_time"> 02:50 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 01:52 PM CT, Jan. 16 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
