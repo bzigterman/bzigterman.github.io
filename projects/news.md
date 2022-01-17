@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
+ <p class="updated_time"> 08:33 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 08:20 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly as a result of a drone attack. 
  <p class="updated_time"> 08:17 AM CT, Jan. 17 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:25 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
- <p class="updated_time"> 06:01 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
@@ -63,14 +65,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/virus-philippines-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
+ <p class="updated_time"> 03:17 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 02:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 01:35 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Suspected Drone Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
- <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
  <p class="updated_time"> 01:08 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
  <p class="updated_time"> 12:55 AM CT, Jan. 17 </p> 
