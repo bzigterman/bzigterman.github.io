@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
+ <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 02:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 01:58 PM CT, Jan. 17 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
- <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly caused by a drone attack. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
@@ -61,16 +65,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:55 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
- <p class="updated_time"> 07:53 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60024367?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Organisers will not sell tickets to general public</a> BBC: Organisers of this year's Winter Olympics in Beijing have cancel plans to sell tickets to the general public as part of strict Covid-19 restrictions in the Chinese capital. 
  <p class="updated_time"> 07:17 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
- <p class="updated_time"> 07:14 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 06:25 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
  <p class="updated_time"> 06:17 AM CT, Jan. 17 </p> 
