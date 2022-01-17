@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59938380?at_medium=RSS&at_campaign=KARANGA">Nigeria's economy: Why people are buying sanitary pads in packs of two</a> BBC: A so-called "sachet economy" has emerged as high inflation makes everyday items too expensive for many. 
+ <p class="updated_time"> 06:57 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60019483?at_medium=RSS&at_campaign=KARANGA">Pioneering US military pilot Charles McGee dies at 102</a> BBC: A member of the first all-black aviation unit, the Tuskegee Airmen, he flew more than 400 missions. 
+ <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
+ <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59977996?at_medium=RSS&at_campaign=KARANGA">How delivery apps created 'the Netflix of food ordering'</a> BBC: Innovative food delivery apps offer everything from multiple restaurant orders to home chef cuisine. 
  <p class="updated_time"> 06:05 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
  <p class="updated_time"> 05:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
@@ -21,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was British</a> BBC: The man who seized four people and died in a standoff with police is named as Malik Faisal Akram, 44. 
  <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: New Zealand sends flight to assess Tonga damage</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
+ <p class="updated_time"> 02:03 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Launches Unknown Projectile Off Its East Coast</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
@@ -31,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
+ <p class="updated_time"> 09:54 AM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/israels-benjamin-netanyahu-explores-plea-deal-in-corruption-case-11642366491">Israel's Benjamin Netanyahu Explores Plea Deal in Corruption Case</a> WSJ: The Israeli attorney general is demanding that the former prime minister be prepared to take a break from public office. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
@@ -51,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60003649?at_medium=RSS&at_campaign=KARANGA">Mohamed Ibrahim Moalimuu: Somali spokesman injured in Mogadishu</a> BBC: Former BBC journalist Mohamed Ibrahim Moalimuu was targeted by terrorists, the prime minister says. 
+ <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
  <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
@@ -68,8 +86,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 PM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/tonga-cut-off-after-volcanic-eruption-tsunami-11642296898">Tonga Volcanic Eruption, Tsunami Cause Significant Damage</a> WSJ: Tonga’s main island was damaged after an undersea volcano erupted and triggered a tsunami. There have been no official reports of casualties or deaths. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
- <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
  <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60011646?at_medium=RSS&at_campaign=KARANGA">Key moments: Dr Anthony Fauci and the pandemic</a> BBC: After a viral hot mic moment, here's how Fauci's frustration has been building for the last two years. 
@@ -83,10 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073338912/after-a-week-of-failed-diplomatic-efforts-tension-between-russia-and-the-u-s-bui">After a week of failed diplomatic efforts, tension between Russia and the U.S. builds</a> NPR: Tensions between the U.S. and Russia over Ukraine seem to have ratcheted up. 
  <p class="updated_time"> 03:07 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
- <p class="updated_time"> 02:51 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-derbyshire-60011771?at_medium=RSS&at_campaign=KARANGA">Nino Cerruti: Italian fashion great dies aged 91</a> BBC: The celebrated designer and businessman once said: "I have always dressed the same person, myself." 
- <p class="updated_time"> 02:50 PM CT, Jan. 15 </p> 
- <a href="https://www.wsj.com/articles/suspect-in-haitian-president-jovenel-moises-slaying-arrested-in-jamaica-11642293136">Suspect in Haitian President's Slaying Arrested in Jamaica</a> WSJ: Former Haitian Senator John Joël Joseph is alleged to have been involved in plotting last year’s assassination. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
@@ -125,24 +137,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604">Russia-U.S. Talks Conclude With Posturing and Threats</a> WSJ: A week of diplomacy leaves U.S. officials pessimistic and uncertain about Vladimir Putin’s intent in the Ukraine crisis. 
- <p class="updated_time"> 11:30 PM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604">U.S. Businesses Sour on Saudi Arabia in Blow to Crown Prince</a> WSJ: Surprise tax hits, unpaid bills and stolen intellectual property are undoing the government’s effort to shift the kingdom’s economy away from oil. 
  <p class="updated_time"> 09:17 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073290978/djokovics-appeal-of-his-canceled-visa-moves-to-a-higher-court">Djokovic is back in immigration detention as he awaits appeal of his canceled visa </a> NPR: Immigration Minister Alex Hawke said he canceled Djokovic's visa on "health and good order grounds, on the basis that it was in the public interest to do so." 
- <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59998703?at_medium=RSS&at_campaign=KARANGA">How a colossal block of ice became an obsession</a> BBC: Artist Kevin Eason won't ever see his favourite iceberg up close, but he's come to know it so well. 
- <p class="updated_time"> 08:03 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59981331?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Desmond Tutu's funeral re-imagined Ghana-style</a> BBC: Ghanaians were shocked by the archbishop's modest funeral and speedy burial, writes Elizabeth Ohene. 
- <p class="updated_time"> 08:02 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59979885?at_medium=RSS&at_campaign=KARANGA">MH17: Families' quest for hope years after Ukraine air disaster</a> BBC: Since flight MH17 was shot down over Ukraine, victims' families have been on a difficult journey. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
- <p class="updated_time"> 06:01 PM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59999612?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: Who sparked deadly violence?</a> BBC: Authorities are blaming "armed extremists" for the clashes, in which dozens are thought to have been killed. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
@@ -193,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
- <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
- <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
 
 
 </details>
@@ -234,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/surgeon-general-covid-omicron-next-few-weeks-527208">Surgeon general on Omicron: Next few weeks will be tough</a> Politico: “The challenge is that the entire country is not moving at the same pace,” Vivek Murthy said. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 07:52 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/chinese-city-xian-lifts-some-restrictions-after-lockdown-527200">Chinese city Xi’an lifts some restrictions after 3-week lockdown</a> Politico: The city went into strict lockdown on Dec. 22. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
@@ -338,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
