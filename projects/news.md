@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 11:04 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60019830?at_medium=RSS&at_campaign=KARANGA">China cuts interest rates as economic growth slows</a> BBC: Compared to a year earlier, the economy grew 4% in the last three months of 2021, official figures show. 
+ <p class="updated_time"> 11:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 10:21 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60010159?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Ex-senator arrested in Jamaica</a> BBC: John Joel Joseph has been arrested in Jamaica in connection with the death of Jovenel Moïse. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
- <p class="updated_time"> 10:37 AM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60005128?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers say accuser may have false memories</a> BBC: Court documents say the Duke of York wants to question Virginia Giuffre's psychologist and husband. 
  <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/france-lepen.html">Marine Le Pen, Kicking Off Her Campaign, Tries to Embody Credibility</a> NYT: Ms. Le Pen has bet that sanitizing her far-right party’s image will finally bear fruit in the run-up to France’s presidential election in April. 
  <p class="updated_time"> 09:37 AM CT, Jan. 15 </p> 
