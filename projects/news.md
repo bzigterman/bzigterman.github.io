@@ -7,22 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
+ <p class="updated_time"> 04:20 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 04:11 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
+ <p class="updated_time"> 04:06 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59942622?at_medium=RSS&at_campaign=KARANGA">Israeli ex-PM Netanyahu's cases could be dropped in plea deal</a> BBC: The former prime minister is discussing terms which could see a dramatic end to his criminal trial. 
  <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 03:48 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 03:46 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Major damage reported amid communications black out</a> BBC: Significant damage has been reported but with communications down the scale is unclear. 
+ <p class="updated_time"> 03:33 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/virus-philippines-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 03:05 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
- <p class="updated_time"> 02:54 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
  <p class="updated_time"> 02:30 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
@@ -106,21 +112,15 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60003649?at_medium=RSS&at_campaign=KARANGA">Mohamed Ibrahim Moalimuu: Somali spokesman injured in Mogadishu</a> BBC: Former BBC journalist Mohamed Ibrahim Moalimuu was targeted by terrorists, the prime minister says. 
- <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
- <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: Deported from Australia and unable to defend his Open title, how did it get to this point? 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001">Covid-19 Shots Risk Displacing Immunizations Against Childhood Killers in Developing Countries</a> WSJ: As underfunded healthcare systems shift to immunizing adults against Covid, 2022 risks seeing further setbacks in the fight against some of the leading killers of young children in developing countries. 
  <p class="updated_time"> 01:03 AM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-likely-to-be-deported-miss-australian-open-after-court-upholds-visa-cancellation-11642316962">Djokovic Deported After Court Upholds Visa Cancellation</a> WSJ: The tennis star departed Melbourne for Dubai late Sunday night and might be blocked from returning for three years 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
- <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
@@ -398,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
- <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
 
 
 </details>
