@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:44 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A possible drone attack in Abu Dhabi has killed three people and wounded six</a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
  <p class="updated_time"> 05:31 AM CT, Jan. 17 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:20 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
- <p class="updated_time"> 04:11 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 04:06 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942622?at_medium=RSS&at_campaign=KARANGA">Israeli ex-PM Netanyahu's cases could be dropped in plea deal</a> BBC: The former prime minister is discussing terms which could see a dramatic end to his criminal trial. 
  <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
