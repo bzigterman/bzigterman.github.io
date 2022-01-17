@@ -7,22 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
+ <p class="updated_time"> 05:57 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
+ <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
+ <p class="updated_time"> 05:52 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
+ <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: The tennis star touches down in Belgrade after losing his visa battle and getting deported from Australia. 
  <p class="updated_time"> 05:44 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A possible drone attack in Abu Dhabi has killed three people and wounded six</a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
- <p class="updated_time"> 05:31 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Major damage reported amid communications black out</a> BBC: Significant damage has been reported but with communications down the scale is unclear. 
- <p class="updated_time"> 05:23 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
+ <p class="updated_time"> 05:36 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
  <p class="updated_time"> 05:16 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-marcos-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 05:09 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
- <p class="updated_time"> 04:34 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:20 AM CT, Jan. 17 </p> 
@@ -45,7 +51,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe TestNew Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
- <p class="updated_time"> 11:51 PM CT, Jan. 16 </p> 
+ <p class="updated_time"> 12:47 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Suspected Drone Strikes on U.A.E. Capital</a> WSJ: Attacks on two locations in the United Arab Emirates caused an explosion involving three fuel trucks and a fire at a construction site at Abu Dhabi’s airport. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
@@ -119,10 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073459169/international-help-heads-to-tonga-after-saturdays-massive-underwater-volcano-eru">International help heads to Tonga after Saturday's massive underwater volcano eruption</a> NPR: An underwater volcano erupted Saturday near Tonga, sending tsunamis across the pacific basin. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
- <p class="updated_time"> 06:47 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
- <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
- <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
 
