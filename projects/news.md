@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:05 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 05:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA">Kenyan vigilantes taking on avocado gangs</a> BBC: Cartels have begun to target the lucrative crop and farmers are arming themselves. 
  <p class="updated_time"> 06:38 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA">How an ancient sea dragon was dug up</a> BBC: The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation. 
- <p class="updated_time"> 06:04 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA">The inventor inspired by a near-death experience</a> BBC: He nearly died after being given fake medicines. Now, his invention can spot them. 
  <p class="updated_time"> 06:01 PM CT, Jan. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60011646?at_medium=RSS&at_campaign=KARANGA">Key moments: Dr Anthony Fauci and the pandemic</a> BBC: After a viral hot mic moment, here's how Fauci's frustration has been building for the last two years. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
