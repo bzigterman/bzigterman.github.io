@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
  <p class="updated_time"> 11:33 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/17/1073623759/in-greece-unvaccinated-people-ages-60-and-up-now-face-monthly-fines">In Greece, unvaccinated people ages 60 and up now face monthly fines </a> NPR: The nation imposed the new mandate on Monday as it looks to bring its vaccination rate closer in line with the EU average. The unvaccinated will face penalties starting at 50 euros, or roughly $57. 
- <p class="updated_time"> 11:20 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
  <p class="updated_time"> 11:04 AM CT, Jan. 17 </p> 
@@ -81,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A drone attack in Abu Dhabi claimed by rebels in Yemen has killed three people </a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
+ <p class="updated_time"> 05:27 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-president-left-out-of-u-s-russia-talks-picks-domestic-fights-11642436839">Ukraine's President, Left Out of U.S.-Russia Talks, Picks Domestic Fights</a> WSJ: With its leader firmly on the outside of international summits about the country’s future, Ukraine was buffeted by domestic turbulence as former President Petro Poroshenko returned from abroad to face charges of treason and financing terrorism. 
  <p class="updated_time"> 05:16 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
@@ -97,6 +99,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
+ <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 11:02 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
- <p class="updated_time"> 10:42 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/putin-wants-nato-to-back-off-but-is-achieving-exactly-the-opposite-says-alliance-chief-11642412572">Putin Wants NATO to Back Off but Is Achieving the Opposite, Says Alliance Chief</a> WSJ: To Western diplomats, the divergence between Russia’s demands that NATO retrench and Moscow’s actions has deepened doubts about its sincerity in recent talks. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:40 PM CT, Jan. 16 </p> 
