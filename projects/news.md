@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
+ <p class="updated_time"> 03:43 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 03:28 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
  <p class="updated_time"> 03:05 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
- <p class="updated_time"> 02:45 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 02:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 01:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
- <p class="updated_time"> 12:52 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 12:28 PM CT, Jan. 17 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 02:52 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/17/us/politics/trump-rally-arizona.html">On the Scene: Trump's Latest Rally</a> NYT: At the first Trump rally since President Biden accused his predecessor of holding “a dagger at the throat of America,” the conservative outrage at the current president was palpable. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
- <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
