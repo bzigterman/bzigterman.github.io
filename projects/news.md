@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
+ <p class="updated_time"> 07:08 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:25 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
  <p class="updated_time"> 06:12 AM CT, Jan. 17 </p> 
@@ -15,10 +19,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
- <p class="updated_time"> 05:52 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: The tennis star arrives back in Belgrade after losing his Australian visa battle and getting deported. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 05:44 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-marcos-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
- <p class="updated_time"> 05:09 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:09 AM CT, Jan. 17 </p> 
@@ -55,6 +55,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Suspected Drone Strikes on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
+ <p class="updated_time"> 01:08 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
+ <p class="updated_time"> 12:55 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/full-recovery-in-global-labor-market-could-take-years-11642420548">Full Recovery in Global Labor Market Could Take Years</a> WSJ: The U.S. labor market is nearing, or may already be, at full employment, but a United Nations agency said that is far from true in many other parts of the world, with the Omicron variant of the Covid-19 virus is likely stretching out the process of getting people back to work. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60019483?at_medium=RSS&at_campaign=KARANGA">Pioneering US military pilot Charles McGee dies at 102</a> BBC: A member of the first all-black aviation unit, the Tuskegee Airmen, he flew more than 400 missions. 
  <p class="updated_time"> 06:37 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: Why quitting was the only option for ‘cornered’ captain</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
- <p class="updated_time"> 06:31 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Fires Two Suspected Ballistic Missiles From Airfield</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. United Nations Security Council resolutions prohibit such ballistic-missile tests from North Korea. 
  <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
  <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60018707?at_medium=RSS&at_campaign=KARANGA">Tsunami hits coasts after Tonga eruption</a> BBC: Strong waves cause panic in Peru and flooding in Fiji following the eruption of an underwater volcano in Tonga. 
  <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
- <p class="updated_time"> 09:54 AM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/israels-benjamin-netanyahu-explores-plea-deal-in-corruption-case-11642366491">Israel's Benjamin Netanyahu Explores Plea Deal in Corruption Case</a> WSJ: The Israeli attorney general is demanding that the former prime minister be prepared to take a break from public office. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
+ <a href="https://www.politico.com/news/2022/01/17/democrats-biden-clean-energy-527175">Dems push to back a hot, clean energy source</a> Politico: Climate advocates and lawmakers believe the $320 billion in tax incentives promoting renewables like geothermal will remain mostly unchanged. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
+ <a href="https://www.politico.com/news/2022/01/17/alzheimers-coverage-patient-groups-cms-527170">’Not a tolerable situation’: Patient groups take aim at CMS over Alzheimer’s coverage decision</a> Politico: Their goal is to strong arm the Centers for Medicare and Medicaid Services into covering Aduhelm, the $28,200-per-year drug, for far more people. 
  <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
  <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/netanyahu-israel-plea-deal-corruption-527198">Netanyahu negotiating plea deal in corruption trial</a> Politico: The deal, which could be signed as early as this week, could usher Netanyahu off the Israeli political stage for years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
- <p class="updated_time"> 11:05 PM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/trump-kicks-off-midterm-year-still-stuck-on-last-election-527197">Trump kicks off midterm year still stuck on last election</a> Politico: The former president delivers Jan. 6 rebuttal in Arizona, home to ground zero in the “Stop the Steal” movement’s fraudulent push to find evidence that the 2020 election was rigged. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
@@ -272,16 +274,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 11:37 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338121/2020-census-interference-trump">Trump officials interfered with the 2020 census beyond cutting it short, email shows</a> NPR: The email details the scope of the former administration's attempts to tamper with the count, including pressuring the Census Bureau to alter plans for protecting privacy and producing accurate data. 
- <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris pushed hard for voting rights — then hit a brick wall</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
- <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073331293/week-in-politics-vaccine-mandates-voting-rights-and-inflation">Week in politics: Vaccine mandates; Voting rights and inflation</a> NPR: The U.S. Supreme Court's decision blocking the Biden administration's employer vaccine-or-test mandate was just one of multiple disappointments the president experienced this past week. 
  <p class="updated_time"> 06:01 AM CT, Jan. 15 </p> 
@@ -342,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
