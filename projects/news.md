@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-uk-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
+ <p class="updated_time"> 09:28 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
+ <p class="updated_time"> 09:13 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
+ <p class="updated_time"> 09:10 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
- <p class="updated_time"> 08:39 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China Birthrate at Historic Low</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
- <p class="updated_time"> 08:33 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 08:20 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly as a result of a drone attack. 
  <p class="updated_time"> 08:17 AM CT, Jan. 17 </p> 
@@ -21,14 +27,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/books/review-betrayal-anne-frank-investigation-rosemary-sullivan.html">A Strong New Lead in ‘The Betrayal of Anne Frank’</a> NYT: Rosemary Sullivan’s new book chronicles the emergence of a new suspect who might have informed the authorities of Frank’s whereabouts. 
- <p class="updated_time"> 08:07 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
  <p class="updated_time"> 07:55 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
  <p class="updated_time"> 07:53 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 07:51 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/france-eric-zemmour-conviction.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “assassins” and “rapists” on television. 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “assassins” and “rapists” on television. 
  <p class="updated_time"> 07:47 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now he has knocked off his first Australian Open win. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
@@ -57,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
+ <p class="updated_time"> 04:13 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Suspected Drone Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 04:06 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942622?at_medium=RSS&at_campaign=KARANGA">Israeli ex-PM Netanyahu's cases could be dropped in plea deal</a> BBC: The former prime minister is discussing terms which could see a dramatic end to his criminal trial. 
  <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
@@ -71,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
- <p class="updated_time"> 01:35 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Suspected Drone Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 01:08 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
  <p class="updated_time"> 12:55 AM CT, Jan. 17 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338912/after-a-week-of-failed-diplomatic-efforts-tension-between-russia-and-the-u-s-bui">After a week of failed diplomatic efforts, tension between Russia and the U.S. builds</a> NPR: Tensions between the U.S. and Russia over Ukraine seem to have ratcheted up. 
- <p class="updated_time"> 03:07 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Jasmila Zbanic Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, who won best director for “Quo Vadis, Aida?,” insists on blaming individuals, not ethnic groups, for atrocities committed as Yugoslavia imploded, a stance that can anger all sides. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
- <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
 
 
 </details>
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:12 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1072714887/filibuster-explained">Senate Democrats plan a vote to change the filibuster. So what is it?</a> NPR: The filibuster was once a rarely used tool for holding up Senate business. Now, it's a regular (still powerful) feature; some Democrats want it changed. Here are answers to your filibuster questions. 
  <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/democrats-biden-clean-energy-527175">The renewable energy source Democrats hope will break out</a> Politico: Climate advocates and lawmakers believe the $320 billion in tax incentives promoting renewables like geothermal will remain mostly unchanged. 
  <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073149219/marilyn-mosby-baltimore-indicted">Baltimore prosecutor Marilyn Mosby denies federal charges over her finances</a> NPR: Mosby reached national prominence in 2015 as the top prosecutor pursuing criminal charges against police officers in the death of Freddie Gray. 
- <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215447/biden-promised-a-billion-covid-tests-contracts-to-buy-them-are-being-announced">Biden promised a billion COVID tests. Contracts to buy them are being announced</a> NPR: The Biden administration wants to buy and send a billion free at-home COVID tests to Americans. Here's what we know so far about the contracts in terms of price, timeline and more. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
