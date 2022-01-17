@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:46 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
+ <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:29 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-uk-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
  <p class="updated_time"> 09:28 AM CT, Jan. 17 </p> 
@@ -30,15 +34,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:55 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
  <p class="updated_time"> 07:53 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 07:51 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “assassins” and “rapists” on television. 
  <p class="updated_time"> 07:47 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now he has knocked off his first Australian Open win. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
- <p class="updated_time"> 07:30 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 07:17 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
  <p class="updated_time"> 07:14 AM CT, Jan. 17 </p> 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
+ <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:13 AM CT, Jan. 17 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/virus-philippines-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
- <p class="updated_time"> 03:17 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 01:08 AM CT, Jan. 17 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073331370/for-50-years-the-gates-of-hell-crater-has-burned-now-officials-want-to-put-it-ou">For 50 years, 'The Gates Of Hell' crater has burned. Now officials want to put it out</a> NPR: NPR's Scott Simon speaks to George Kourounis, Royal Canadian Geographical Society's explorer-in-residence, about the possible closing of "The Gates of Hell," a natural gas field in Turkmenistan. 
- <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073331356/more-than-half-of-europeans-could-be-infected-with-covid-19-in-the-next-two-mont">More than half of Europeans could be infected with COVID-19 in the next two months</a> NPR: Coronavirus cases are surging in Europe. German and Austrian leaders are calling for mandatory vaccinations of their citizens. Spain is taking a far less aggressive approach. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
+ <a href="https://www.politico.com/news/2022/01/17/beijing-olympic-tickets-coronavirus-527241">Beijing to offer Olympic tickets to ‘selected’ spectators amid pandemic</a> Politico: Beijing had already announced that no fans from outside the country would be permitted at the events, and had not offered tickets to the general public. 
  <p class="updated_time"> 09:12 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1072714887/filibuster-explained">Senate Democrats plan a vote to change the filibuster. So what is it?</a> NPR: The filibuster was once a rarely used tool for holding up Senate business. Now, it's a regular (still powerful) feature; some Democrats want it changed. Here are answers to your filibuster questions. 
  <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/mccaul-texas-synagogue-attack-527211">Texas congressman on synagogue attack: We need to get to the bottom of this</a> Politico: “We haven’t seen the radicalized attacks in a few years now, and it’s disturbing to see it raise its ugly head again,” Michael McCaul said. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
- <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/romney-russia-ukraine-nato-527207">Romney: Putin can’t be allowed to rebuild the Soviet Union</a> Politico: “He’s trying to reestablish what he had before,” the Utah senator said. 
  <p class="updated_time"> 11:29 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
