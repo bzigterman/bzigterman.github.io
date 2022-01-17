@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
+ <p class="updated_time"> 02:37 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
+ <p class="updated_time"> 02:30 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 02:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe TestNew Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
- <p class="updated_time"> 01:57 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
- <p class="updated_time"> 01:47 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Authorities Threaten Arrest of Ukraine’s Leading Opposition Politician</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 01:23 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
  <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, Barely Outpacing Death Rate</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
- <p class="updated_time"> 11:40 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
+ <p class="updated_time"> 08:40 PM CT, Jan. 16 </p> 
+ <a href="https://www.wsj.com/articles/tonga-left-largely-cut-off-after-volcanic-eruption-tsunami-11642405227">Tonga Left Largely Cut Off After Volcanic Eruption, Tsunami</a> WSJ: An ash cloud threatens clean-water supplies in the Pacific nation, while the disaster may have caused a break in an undersea internet cable that connects Tonga to the rest of the world. 
  <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Thousands without power as US and Canada hit by winter storm</a> BBC: Flights have been cancelled as the dangerous storm brings snow and high winds to much of the country. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
