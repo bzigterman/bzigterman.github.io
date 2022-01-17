@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
+ <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
+ <p class="updated_time"> 04:15 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with police to try to “talk him down.’’ 
  <p class="updated_time"> 04:07 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
- <p class="updated_time"> 03:28 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
- <p class="updated_time"> 12:28 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
  <p class="updated_time"> 12:19 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
@@ -107,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 03:33 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
- <p class="updated_time"> 11:02 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:40 PM CT, Jan. 16 </p> 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505150/afghanistans-hunger-crisis">Afghanistan's hunger crisis</a> NPR: NPR's Michel Martin speaks with Mike Bonke, Action Against Hunger's Afghanistan country director, about what he's seeing there. 
- <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force him to take a break from politics. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
