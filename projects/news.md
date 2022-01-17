@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
+ <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073661305/heres-whats-driving-the-lowest-covid-immunization-rates-around-the-world">Here's what's driving the lowest COVID immunization rates around the world</a> NPR: Some countries around the globe are still struggling to get people vaccinated. Dozens of countries still haven't gotten 10% of their populations vaccinated. 
+ <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
+ <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
+ <p class="updated_time"> 03:05 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
+ <p class="updated_time"> 03:02 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 02:45 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
- <p class="updated_time"> 02:40 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 02:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsburg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
- <p class="updated_time"> 01:40 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 01:35 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 01:19 PM CT, Jan. 17 </p> 
@@ -47,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/17/1073623759/in-greece-unvaccinated-people-ages-60-and-up-now-face-monthly-fines">In Greece, unvaccinated people ages 60 and up now face monthly fines </a> NPR: The nation imposed the new mandate on Monday as it looks to bring its vaccination rate closer in line with the EU average. The unvaccinated will face penalties starting at 50 euros, or roughly $57. 
  <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
- <p class="updated_time"> 11:04 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
@@ -155,18 +161,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073459225/the-isle-of-rum-needed-a-population-boost-so-they-took-applications-this-guy-mad">The Isle of Rum needed a population boost so they took applications. This guy made the cut</a> NPR: NPR's Sacha Pfeiffer speaks with Alex Mumford, who moved to the Isle of Rum in the Scottish Hebrides as a part of the island chain's efforts to boost its population. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459204/with-russian-troops-massed-at-the-border-ukrainians-are-preparing-for-a-possible">With Russian troops massed at the border, Ukrainians are preparing for a possible invasion</a> NPR: NPR's Sacha Pfeiffer talks to correspondent, Eleanor Beardsley, who has been traveling around Ukraine. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073459169/international-help-heads-to-tonga-after-saturdays-massive-underwater-volcano-eru">International help heads to Tonga after Saturday's massive underwater volcano eruption</a> NPR: An underwater volcano erupted Saturday near Tonga, sending tsunamis across the pacific basin. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
- <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
+ <p class="updated_time"> 02:52 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/17/us/politics/trump-rally-arizona.html">On the Scene: Trump's Latest Rally</a> NYT: At the first Trump rally since President Biden accused his predecessor of holding “a dagger at the throat of America,” the conservative outrage at the current president was palpable. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
@@ -301,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
  <p class="updated_time"> 06:18 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">To Run or Not to Run? That’s the Midterm Question.</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">Members of Congress Weigh Re-Election Bid Ahead of Midterms</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
  <p class="updated_time"> 05:30 PM CT, Jan. 14 </p> 
