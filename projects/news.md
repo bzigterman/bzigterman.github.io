@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 09:16 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 06:40 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA">Australia tormented Djokovic - Serbian president</a> BBC: Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture. 
- <p class="updated_time"> 04:09 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The visa drama in 90 seconds</a> BBC: Deported from Australia and unable to defend his Open title, how did it get to this point? 
  <p class="updated_time"> 02:11 AM CT, Jan. 16 </p> 
