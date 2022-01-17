@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
+ <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 11:23 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60019806?at_medium=RSS&at_campaign=KARANGA">Djokovic three-year visa ban could end early - Australian PM</a> BBC: The tennis star cannot obtain a visa for three-years after losing an appeal, but the PM suggests this is flexible. 
  <p class="updated_time"> 11:04 PM CT, Jan. 16 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
- <p class="updated_time"> 09:16 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Thousands without power as US and Canada hit by winter storm</a> BBC: Flights have been cancelled as the dangerous storm brings snow and high winds to much of the country. 
  <p class="updated_time"> 08:30 PM CT, Jan. 16 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 01:13 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073380457/haiti-assassination-arrest">Jamaica arrests a former senator sought in Haitian president's assassination</a> NPR: A former Haitian senator sought in the killing of President Jovenel Moïse has been arrested in Jamaica, Haiti's National Police says. John Joël Joseph is the second suspect to be arrested in Jamaica. 
- <p class="updated_time"> 01:06 PM CT, Jan. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60010159?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Ex-senator arrested in Jamaica</a> BBC: John Joel Joseph has been arrested in Jamaica in connection with the death of Jovenel Moïse. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
