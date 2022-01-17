@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
+ <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsburg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
+ <p class="updated_time"> 01:40 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 01:35 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
- <p class="updated_time"> 01:30 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
  <p class="updated_time"> 01:15 PM CT, Jan. 17 </p> 
@@ -35,14 +39,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
- <p class="updated_time"> 11:06 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsburg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
  <p class="updated_time"> 11:04 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
- <p class="updated_time"> 10:36 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly caused by a drone attack. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
@@ -326,6 +326,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 14 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oath-keepers-sedition-takeaways/index.html">Takeaways from the landmark sedition indictment against the Oath Keepers and why DOJ acted now</a> CNN: The Justice Department on Thursday announced the first sedition charges related to the January 6 insurrection, a watershed moment in the year-long investigation. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
