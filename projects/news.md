@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 03:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
+ <p class="updated_time"> 03:46 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Major damage reported amid communications black out</a> BBC: Significant damage has been reported but with communications down the scale is unclear. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/virus-philippines-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 03:05 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
  <p class="updated_time"> 02:54 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
- <p class="updated_time"> 02:44 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 02:30 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 10:21 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
- <p class="updated_time"> 09:58 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 09:42 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073505143/netanyahu-in-talks-to-reach-plea-bargain-in-corruption-trial">Netanyahu in talks to reach plea bargain in corruption trial</a> NPR: Former Israeli Prime Minister Benjamin Netanyahu, who's on trial for corruption, is in talks to reach a plea bargain. If it goes forward, it could force him to take a break from politics. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
- <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: New Zealand sends flight to assess Tonga damage</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
- <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
 
 
 </details>
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
+ <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073566411/backlog-of-2020-returns-interferes-with-this-years-tax-filing-season">Backlog of 2020 returns interferes with this year's tax filing season</a> NPR: NPR's A Martinez speaks to National Taxpayer Advocate Erin Collins about the issues facing the Internal Revenue Service — including a potential crisis this year. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 11:22 PM CT, Jan. 16 </p> 
@@ -306,10 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073149219/marilyn-mosby-baltimore-indicted">Baltimore prosecutor Marilyn Mosby denies federal charges over her finances</a> NPR: Mosby reached national prominence in 2015 as the top prosecutor pursuing criminal charges against police officers in the death of Freddie Gray. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215447/biden-promised-a-billion-covid-tests-contracts-to-buy-them-are-being-announced">Biden promised a billion COVID tests. Contracts to buy them are being announced</a> NPR: The Biden administration wants to buy and send a billion free at-home COVID tests to Americans. Here's what we know so far about the contracts in terms of price, timeline and more. 
- <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215412/christian-nationalism-is-stronger-than-ever-even-without-donald-trump-as-preside">Christian Nationalism is stronger than ever, even without Donald Trump as president</a> NPR: Christian Nationalism has grown in the last year. Now, some more mainline churches are speaking out against the movement, which they see as opposed to the teachings of Jesus. 
- <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215398/what-went-wrong-for-president-biden-this-week">What went wrong for President Biden this week</a> NPR: President Biden has faced a number of major setbacks to various parts of his agenda — from COVID-19 to the economy to voting rights and the rest of his agenda in Congress. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
