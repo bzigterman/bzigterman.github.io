@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 PM CT, Jan. 16 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 09:16 PM CT, Jan. 16 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 06:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
- <p class="updated_time"> 05:02 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
