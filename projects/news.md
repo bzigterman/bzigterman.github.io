@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A possible drone attack in Abu Dhabi has killed three people and wounded six</a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
+ <p class="updated_time"> 05:31 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Major damage reported amid communications black out</a> BBC: Significant damage has been reported but with communications down the scale is unclear. 
  <p class="updated_time"> 05:23 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
- <p class="updated_time"> 05:17 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
  <p class="updated_time"> 05:16 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
  <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-marcos-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
+ <p class="updated_time"> 05:09 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 04:34 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 03:46 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Major damage reported amid communications black out</a> BBC: Significant damage has been reported but with communications down the scale is unclear. 
  <p class="updated_time"> 03:33 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073331300/the-u-s-is-accusing-russia-of-trying-to-create-a-pretext-to-invade-ukraine">The U.S. is accusing Russia of trying to create a pretext to invade Ukraine</a> NPR: The Biden administration sounds more alarms about Russia's intentions in Ukraine, after a week of diplomacy failed to get Russia to stand down its troops on the border. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
- <p class="updated_time"> 04:41 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073328387/tonga-hit-by-tsunami-after-undersea-volcano-eruption">A massive volcano erupts near Tonga, causing tsunami waves as far as the West Coast</a> NPR: An undersea volcano erupted near the Pacific nation of Tonga, sending tsunami waves crashing across the shore there and around the Pacific, including a surges along the U.S. West Coast. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
