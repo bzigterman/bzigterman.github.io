@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:31 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
+ <p class="updated_time"> 12:28 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 11:54 AM CT, Jan. 17 </p> 
@@ -29,16 +35,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 10:49 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
- <p class="updated_time"> 10:41 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 10:36 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly caused by a drone attack. 
  <p class="updated_time"> 10:22 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
- <p class="updated_time"> 10:03 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073338940/u-k-prime-minister-and-monarchy-each-face-separate-scandals">U.K. prime minister and monarchy each face separate scandals</a> NPR: Recent scandals have rocked two major British institutions: the prime minister's office and the monarchy. 
- <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073338912/after-a-week-of-failed-diplomatic-efforts-tension-between-russia-and-the-u-s-bui">After a week of failed diplomatic efforts, tension between Russia and the U.S. builds</a> NPR: Tensions between the U.S. and Russia over Ukraine seem to have ratcheted up. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
@@ -303,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
  <p class="updated_time"> 06:18 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">Members of Congress Weigh Re-Election Bid Ahead of Midterms</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">To Run or Not to Run? That’s the Midterm Question.</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
  <p class="updated_time"> 05:30 PM CT, Jan. 14 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
