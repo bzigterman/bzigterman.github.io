@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe TestNew Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
+ <p class="updated_time"> 01:57 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss Horta-Osorio resigns over Covid breaches</a> BBC: Antonio Horta-Osorio has left with immediate effect after breaking UK and Swiss quarantine rules. 
  <p class="updated_time"> 01:47 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/ukraine-zelensky-poroshenko-russia.html">Authorities Threaten Arrest of Ukraine’s Leading Opposition Politician</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 01:23 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
- <p class="updated_time"> 01:21 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60019735?at_medium=RSS&at_campaign=KARANGA">Credit Suisse boss resigns over Covid breaches</a> BBC: Antonio Horta-Osorio was reportedly found to have broken UK Covid-19 quarantine rules. 
  <p class="updated_time"> 01:15 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, Barely Outpacing Death Rate</a> NYT: China’s population, the world’s largest at 1.4 billion, may soon start shrinking, according to new data. Some experts say it already has. 
  <p class="updated_time"> 11:40 PM CT, Jan. 16 </p> 
@@ -153,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
- <p class="updated_time"> 08:31 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073290978/djokovics-appeal-of-his-canceled-visa-moves-to-a-higher-court">Djokovic is back in immigration detention as he awaits appeal of his canceled visa </a> NPR: Immigration Minister Alex Hawke said he canceled Djokovic's visa on "health and good order grounds, on the basis that it was in the public interest to do so." 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
  <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 11:22 PM CT, Jan. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073215412/christian-nationalism-is-stronger-than-ever-even-without-donald-trump-as-preside">Christian Nationalism is stronger than ever, even without Donald Trump as president</a> NPR: Christian Nationalism has grown in the last year. Now, some more mainline churches are speaking out against the movement, which they see as opposed to the teachings of Jesus. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215398/what-went-wrong-for-president-biden-this-week">What went wrong for President Biden this week</a> NPR: President Biden has faced a number of major setbacks to various parts of his agenda — from COVID-19 to the economy to voting rights and the rest of his agenda in Congress. 
- <p class="updated_time"> 03:17 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073025283/house-panel-issues-first-proposed-reforms-to-electoral-count-act-after-jan-6-att">House panel issues first proposed reforms to Electoral Count Act after Jan. 6 attack</a> NPR: Suggested reforms to the law would dispel any ambiguity or confusion over the role of Congress when it comes to counting votes for a future presidential election. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
