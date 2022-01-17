@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:38 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60020978?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal begins bid for 21st Grand Slam with win over Marcos Giron</a> BBC: Rafael Nadal begins his bid for a men's record 21st Grand Slam title with victory over Marcos Giron in the Australian Open first round. 
  <p class="updated_time"> 11:40 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60018707?at_medium=RSS&at_campaign=KARANGA">Tsunami hits coasts after Tonga eruption</a> BBC: Strong waves cause panic in Peru and flooding in Fiji following the eruption of an underwater volcano in Tonga. 
- <p class="updated_time"> 10:54 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60015898?at_medium=RSS&at_campaign=KARANGA">Ibrahim Boubacar Keïta: Ousted Mali president dies aged 76</a> BBC: Ibrahim Boubacar Keïta was forced from power in 2020 after protests over security, economy and elections. 
  <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 09:54 AM CT, Jan. 16 </p> 
