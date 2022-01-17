@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 09:41 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/toga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
+ <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60019806?at_medium=RSS&at_campaign=KARANGA">Djokovic three-year visa ban could end early: Australia PM</a> BBC: Scott Morrison's comments came as the tennis star was deported last night over visa issues. 
  <p class="updated_time"> 09:16 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Slowed Late Last Year on Real Estate Troubles</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous period that ran July through September. Growth has faltered lately as home buyers and consumers become cautious. 
  <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-population-barely-grew-in-2021-as-births-dropped-for-a-fifth-year-11642385947">China's Population Barely Grew in 2021 as Births Dropped for Fifth Year</a> WSJ: The number of newborns in China fell to the lowest in modern Chinese history, despite Beijing’s increasing emphasis on encouraging births. 
  <p class="updated_time"> 03:19 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-off-its-east-coast-south-korea-says-11642381386">North Korea Fires Two Suspected Ballistic Missiles From Airfield</a> WSJ: The weapons test represents Pyongyang’s fourth launch of the month. United Nations Security Council resolutions prohibit such ballistic-missile tests from North Korea. 
- <p class="updated_time"> 02:37 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA">Pacific volcano: New Zealand sends flight to assess Tonga damage</a> BBC: Up to 80,000 people could be affected after tsunami waves caused "significant damage" to Tonga. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 01:01 PM CT, Jan. 16 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/israels-benjamin-netanyahu-explores-plea-deal-in-corruption-case-11642366491">Israel's Benjamin Netanyahu Explores Plea Deal in Corruption Case</a> WSJ: The Israeli attorney general is demanding that the former prime minister be prepared to take a break from public office. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
- <p class="updated_time"> 08:59 AM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star deported after losing Australia visa battle</a> BBC: The unvaccinated tennis star gets a flight out of Melbourne Airport after losing his visa challenge. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/serbia-novak-djokovic.html">Serbia's Vucic Denounces Australia’s Treatment of Novak Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
  <p class="updated_time"> 08:48 AM CT, Jan. 16 </p> 
