@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073661312/the-free-press-in-hong-kong-is-under-fire-from-the-chinese-government-critics-sa">The free press in Hong Kong is under fire from the Chinese government, critics say</a> NPR: Critics say the Chinese government is targeting Hong Kong's free press. The Hong Kong Journalists' Association is trying to protect freedom of the press, but it's unclear how much longer it can do so. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:43 PM CT, Jan. 17 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
- <p class="updated_time"> 01:58 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459225/the-isle-of-rum-needed-a-population-boost-so-they-took-applications-this-guy-mad">The Isle of Rum needed a population boost so they took applications. This guy made the cut</a> NPR: NPR's Sacha Pfeiffer speaks with Alex Mumford, who moved to the Isle of Rum in the Scottish Hebrides as a part of the island chain's efforts to boost its population. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073459204/with-russian-troops-massed-at-the-border-ukrainians-are-preparing-for-a-possible">With Russian troops massed at the border, Ukrainians are preparing for a possible invasion</a> NPR: NPR's Sacha Pfeiffer talks to correspondent, Eleanor Beardsley, who has been traveling around Ukraine. 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
