@@ -216,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
+ <p class="updated_time"> 02:52 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/17/us/politics/trump-rally-arizona.html">On the Scene: Trump's Latest Rally</a> NYT: At the first Trump rally since President Biden accused his predecessor of holding “a dagger at the throat of America,” the conservative outrage at the current president was palpable. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:46 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">North Korea fires 2 suspected missiles in 4th launch this year</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 05:08 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/james-carville-democrats-whine-too-much-527232">Carville: Dems ‘whine too much,’ need to highlight accomplishments ahead of midterms</a> Politico: “Just quit being a whiny party and get out there and fight and tell people what you did, and tell people the exact truth,” James Carville said. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
