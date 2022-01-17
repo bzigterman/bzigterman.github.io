@@ -7,8 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:32 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now he has knocked off his first Australian Open win. 
+ <p class="updated_time"> 11:06 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">A Fighter for Press Freedom Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
+ <p class="updated_time"> 11:04 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
+ <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
+ <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
+ <p class="updated_time"> 10:55 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
+ <p class="updated_time"> 10:49 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
+ <p class="updated_time"> 10:41 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
+ <p class="updated_time"> 10:36 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 10:28 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
@@ -17,16 +31,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 10:03 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-uk-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
- <p class="updated_time"> 09:58 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
- <p class="updated_time"> 09:28 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
+ <p class="updated_time"> 09:20 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
- <p class="updated_time"> 09:10 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 08:17 AM CT, Jan. 17 </p> 
@@ -41,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
+ <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60024367?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Organisers will not sell tickets to general public</a> BBC: Organisers of this year's Winter Olympics in Beijing have cancel plans to sell tickets to the general public as part of strict Covid-19 restrictions in the Chinese capital. 
  <p class="updated_time"> 07:17 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60023968?at_medium=RSS&at_campaign=KARANGA">Covid: Beijing city urges end to overseas deliveries over Omicron</a> BBC: Health officials in the Chinese capital say a local woman may have been infected after opening a parcel. 
  <p class="updated_time"> 07:14 AM CT, Jan. 17 </p> 
@@ -53,14 +65,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
- <p class="updated_time"> 05:44 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-economy.html">China’s Economy Is Slowing, a Worrying Sign for the World</a> NYT: Economic output climbed 4 percent in the last quarter of 2021, slowing from the previous quarter. Growth has faltered as home buyers and consumers become cautious. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A possible drone attack in Abu Dhabi has killed three people and wounded six</a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
+ <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A drone attack in Abu Dhabi claimed by rebels in Yemen has killed three people </a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
  <p class="updated_time"> 05:16 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073579010/ukraine-ex-president-returns-to-kiev-for-treason-trial">Ukraine ex-president returns to Kiev for treason trial</a> NPR: Poroshenko was greeted by several thousand cheering supporters. Some carried banners reading "We need democracy," and "Stop repressions." 
- <p class="updated_time"> 05:11 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
@@ -103,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59938380?at_medium=RSS&at_campaign=KARANGA">Nigeria's economy: Why people are buying sanitary pads in packs of two</a> BBC: A so-called "sachet economy" has emerged as high inflation makes everyday items too expensive for many. 
- <p class="updated_time"> 06:57 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60019483?at_medium=RSS&at_campaign=KARANGA">Pioneering US military pilot Charles McGee dies at 102</a> BBC: A member of the first all-black aviation unit, the Tuskegee Airmen, he flew more than 400 missions. 
  <p class="updated_time"> 06:37 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: Why quitting was the only option for ‘cornered’ captain</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
  <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
@@ -177,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
- <p class="updated_time"> 05:57 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
