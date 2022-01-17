@@ -7,24 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:46 AM CT, Jan. 17 </p> 
+ <p class="updated_time"> 10:32 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now he has knocked off his first Australian Open win. 
+ <p class="updated_time"> 10:28 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
+ <p class="updated_time"> 10:27 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly caused by a drone attack. 
+ <p class="updated_time"> 10:22 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
+ <p class="updated_time"> 10:03 AM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-uk-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60019251?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK as Briton named as hostage-taker</a> BBC: Briton Malik Faisal Akram died in the standoff with police after taking four hostages. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
- <p class="updated_time"> 09:29 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-uk-family.html">Texas Synagogue Hostage Taker Had ‘Mental Health Issues,’ Brother in U.K. Says</a> NYT: The family of a British man who took four hostages during the standoff at Congregation Beth Israel described him as deeply troubled. 
  <p class="updated_time"> 09:28 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
- <p class="updated_time"> 09:13 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 09:10 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Two days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
- <p class="updated_time"> 08:20 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, possibly as a result of a drone attack. 
  <p class="updated_time"> 08:17 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
@@ -35,10 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
  <p class="updated_time"> 07:53 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Former President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
- <p class="updated_time"> 07:51 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “assassins” and “rapists” on television. 
- <p class="updated_time"> 07:47 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now he has knocked off his first Australian Open win. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 07:17 AM CT, Jan. 17 </p> 
@@ -76,7 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:33 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60021533?at_medium=RSS&at_campaign=KARANGA">SLS: Nasa fixes glitchy megarocket equipment ahead of key test</a> BBC: Nasa fixes malfunctioning equipment on a new rocket designed to take astronauts to the Moon. 
  <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/virus-philippines-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 01:08 AM CT, Jan. 17 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
+ <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/beijing-olympic-tickets-coronavirus-527241">Beijing to offer Olympic tickets to ‘selected’ spectators amid pandemic</a> Politico: Beijing had already announced that no fans from outside the country would be permitted at the events, and had not offered tickets to the general public. 
  <p class="updated_time"> 09:12 AM CT, Jan. 17 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores G.O.P. Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
- <p class="updated_time"> 11:48 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/mccaul-texas-synagogue-attack-527211">Texas congressman on synagogue attack: We need to get to the bottom of this</a> Politico: “We haven’t seen the radicalized attacks in a few years now, and it’s disturbing to see it raise its ugly head again,” Michael McCaul said. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
  <p class="updated_time"> 11:29 AM CT, Jan. 16 </p> 
