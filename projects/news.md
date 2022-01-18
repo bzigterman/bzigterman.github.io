@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:45 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British media reports. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 11:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
- <p class="updated_time"> 11:33 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical advisor says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
  <p class="updated_time"> 11:09 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
  <p class="updated_time"> 11:07 AM CT, Jan. 18 </p> 
@@ -205,6 +205,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
  <p class="updated_time"> 10:43 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
  <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073566411/backlog-of-2020-returns-interferes-with-this-years-tax-filing-season">Backlog of 2020 returns interferes with this year's tax filing season</a> NPR: NPR's A Martinez speaks to National Taxpayer Advocate Erin Collins about the issues facing the Internal Revenue Service — including a potential crisis this year. 
- <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: He flew in World War II, the Korean War and the Vietnam War. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
- <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">What to know about the Senate's nuclear option</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
 
 
 </details>
