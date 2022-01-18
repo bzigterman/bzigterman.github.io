@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
+ <p class="updated_time"> 08:12 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 08:01 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
+ <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
+ <a href="https://www.npr.org/2022/01/17/1073703748/sothebys-unveils-555-55-carat-black-diamond-thought-to-come-from-outer-space">Sotheby's unveils 555.55-carat black diamond thought to come from outer space</a> NPR: Black diamonds are extremely rare, and are found naturally only in Brazil and Central Africa. The cosmic origin theory  of "The Enigma" is based on carbon isotopes and high hydrogen content. 
  <p class="updated_time"> 07:37 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with the police to try to “talk him down.’’ 
  <p class="updated_time"> 06:43 PM CT, Jan. 17 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59870550?at_medium=RSS&at_campaign=KARANGA">Anti-vax protests: ‘Sovereign citizens’ fight UK Covid vaccine rollout</a> BBC: Activists with anti-vax beliefs are taking "direct action" against hospitals and schools. 
  <p class="updated_time"> 06:16 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60024742?at_medium=RSS&at_campaign=KARANGA">How Nigeria succeeded in clipping Twitter's wings</a> BBC: Some fear that Twitter agreeing to new rules in Nigeria may encourage others to restrict social media. 
- <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60020410?at_medium=RSS&at_campaign=KARANGA">Collarwali: Remembering India’s ‘super mum’ tigress</a> BBC: Charismatic Collarwali played a key role in boosting tiger numbers and made her sanctuary famous. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
- <p class="updated_time"> 04:15 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
  <p class="updated_time"> 04:07 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Several days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
- <p class="updated_time"> 04:06 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59942622?at_medium=RSS&at_campaign=KARANGA">Israeli ex-PM Netanyahu's cases could be dropped in plea deal</a> BBC: The former prime minister is discussing terms which could see a dramatic end to his criminal trial. 
  <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
- <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
@@ -208,10 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:12 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
- <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
