@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
  <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
- <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
