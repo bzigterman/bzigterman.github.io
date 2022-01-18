@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:03 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073828708/israel-spyware-citizens-nso-group">Israeli police used spyware to hack its own citizens, an Israeli newspaper reports</a> NPR: According to a report in Israeli media, Israel has hacked activists, mayors and other Israeli citizens without judicial oversight using spyware from the controversial NSO Group. 
  <p class="updated_time"> 12:32 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
- <p class="updated_time"> 12:26 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 12:17 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">AT&T agrees another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
  <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Separatists as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:25 AM CT, Jan. 18 </p> 
@@ -99,16 +103,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
- <p class="updated_time"> 11:30 PM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/taliban-intensify-efforts-to-take-control-of-afghanistans-overseas-embassies-11642501802">Taliban Intensify Efforts to Take Control of Overseas Embassies</a> WSJ: Afghanistan’s new rulers are stepping up a campaign for control of the country’s diplomatic outposts, most of which continue to be run by appointees of the former, U.S.-backed government. 
+ <p class="updated_time"> 12:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">China's Zero-Covid Policies Cause a Traffic Jam in Vietnam as Farmers Suffer</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
- <p class="updated_time"> 09:45 PM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last coronavirus-free places on Earth. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661305/heres-whats-driving-the-lowest-covid-immunization-rates-around-the-world">Here's what's driving the lowest COVID immunization rates around the world</a> NPR: Some countries around the globe are still struggling to get people vaccinated. Dozens of countries still haven't gotten 10% of their populations vaccinated. 
- <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
@@ -204,7 +204,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:26 PM CT, Jan. 18 </p> 
+ <p class="updated_time"> 01:03 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: Tests are expected to be delivered later this month. White House Press Secretary Jen Psaki says the test kit ordering site is in the "beta testing" stage and will be launched formally Wednesday. 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and a Former Acolyte.</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams 'extremely dangerous' Russian troop deployment to Belarus</a> Politico: Secretary of State Antony Blinken will visit both Kyiv and Berlin this week. 
+ <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams ‘extremely dangerous’ Russian troop deployment to Belarus</a> Politico: The White House warned that Russia “could at any point launch an attack in Ukraine.” 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1072714887/filibuster-explained">Senate Democrats plan a vote to change the filibuster. So what is it?</a> NPR: The filibuster was once a rarely used tool for holding up Senate business. Now, it's a regular (still powerful) feature; some Democrats want it changed. Here are answers to your filibuster questions. 
  <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/democrats-biden-clean-energy-527175">The renewable energy source Democrats hope will break out</a> Politico: Climate advocates and lawmakers believe the $320 billion in tax incentives promoting renewables like geothermal will remain mostly unchanged. 
- <p class="updated_time"> 07:00 AM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/alzheimers-coverage-patient-groups-cms-527170">‘Not a tolerable situation’: Patient groups take aim at CMS over Alzheimer’s coverage decision</a> Politico: Their goal is to strong arm the Centers for Medicare and Medicaid Services into covering Aduhelm, the $28,200-per-year drug, for far more people. 
  <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
  <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
