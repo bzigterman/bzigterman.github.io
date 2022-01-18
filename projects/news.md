@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 11:01 PM CT, Jan. 17 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of the NBA's Warriors lambasted after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034010?at_medium=RSS&at_campaign=KARANGA">Afghanistan twin quakes kill at least 22 in poorest areas</a> BBC: Officials say the death toll could rise from two earthquakes which hit the north-west of the nation. 
- <p class="updated_time"> 10:04 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:18 PM CT, Jan. 17 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
  <p class="updated_time"> 01:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html">The Kunga Was a Status Symbol Long Before the Thoroughbred</a> NYT: A new study finds the first known instance of a human-engineered hybrid, bred from a donkey and a Syrian wild ass 4,500 years ago. 
- <p class="updated_time"> 12:51 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
  <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
 
