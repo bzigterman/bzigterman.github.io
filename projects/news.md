@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:54 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
+ <p class="updated_time"> 05:51 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
  <p class="updated_time"> 05:41 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
- <p class="updated_time"> 05:41 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
- <p class="updated_time"> 02:18 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
  <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
- <p class="updated_time"> 06:05 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/china-seeks-to-cushion-blow-of-economic-pain-as-momentum-slows-11642418829">China Seeks to Cushion Blow of Economic Pain as Momentum Slows</a> WSJ: The country’s leaders are hoping that they can put a floor under the economy, which expanded by 4% in the fourth quarter of last year, the slowest pace since the beginning of the Covid-19 recovery. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
@@ -201,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">GOP pulls debate threat from Trump playbook</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
+ <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">Trump blows a hole in 2024 presidential debates</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
