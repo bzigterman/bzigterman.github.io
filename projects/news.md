@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 11:36 PM CT, Jan. 17 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
- <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073580934/an-attack-in-abu-dhabi-has-killed-three-people-and-wounded-six">A drone attack in Abu Dhabi claimed by rebels in Yemen has killed three people </a> NPR: While Abu Dhabi police did not immediately offer any suspects, Yemen's Houthi rebels claimed responsibility for an attack targeting the United Arab Emirates. 
  <p class="updated_time"> 05:27 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraines-president-left-out-of-u-s-russia-talks-picks-domestic-fights-11642436839">Ukraine's President, Left Out of U.S.-Russia Talks, Picks Domestic Fights</a> WSJ: With its leader firmly on the outside of international summits about the country’s future, Ukraine was buffeted by domestic turbulence as former President Petro Poroshenko returned from abroad to face charges of treason and financing terrorism. 
  <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
- <p class="updated_time"> 06:59 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073331293/week-in-politics-vaccine-mandates-voting-rights-and-inflation">Week in politics: Vaccine mandates; Voting rights and inflation</a> NPR: The U.S. Supreme Court's decision blocking the Biden administration's employer vaccine-or-test mandate was just one of multiple disappointments the president experienced this past week. 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
