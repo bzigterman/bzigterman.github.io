@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
+ <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:20 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
- <p class="updated_time"> 08:12 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
  <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 03:23 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:12 PM CT, Jan. 17 </p> 
+ <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
