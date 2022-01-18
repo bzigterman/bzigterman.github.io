@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
+ <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:16 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 02:15 PM CT, Jan. 18 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
  <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
- <p class="updated_time"> 11:07 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 10:51 AM CT, Jan. 18 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
- <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
