@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:04 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
+ <p class="updated_time"> 09:18 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60034140?at_medium=RSS&at_campaign=KARANGA">Hong Kong police charge two former aircrew over Covid rules</a> BBC: If convicted, the two former flight attendants could face up to six months in prison. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
- <p class="updated_time"> 04:07 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019814?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Anxious wait for news after Tonga cut off</a> BBC: Several days on, the scale of the damage is unclear, with communications extremely limited. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
  <p class="updated_time"> 03:51 PM CT, Jan. 17 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:40 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/tonga-left-largely-cut-off-after-volcanic-eruption-tsunami-11642405227">Tonga Left Largely Cut Off After Volcanic Eruption, Tsunami</a> WSJ: An ash cloud threatens clean-water supplies in the Pacific nation, while the disaster may have caused a break in an undersea internet cable that connects Tonga to the rest of the world. 
- <p class="updated_time"> 08:35 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60017300?at_medium=RSS&at_campaign=KARANGA">Thousands without power as US and Canada hit by winter storm</a> BBC: Flights have been cancelled as the dangerous storm brings snow and high winds to much of the country. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
