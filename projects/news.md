@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of the NBA's Warriors lambasted after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
+ <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034010?at_medium=RSS&at_campaign=KARANGA">Afghanistan twin quakes kill at least 22 in poorest areas</a> BBC: Officials say the death toll could rise from two earthquakes which hit the north-west of the nation. 
  <p class="updated_time"> 10:04 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Aerial Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 08:30 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
- <p class="updated_time"> 08:17 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60015294?at_medium=RSS&at_campaign=KARANGA">Wealth of world's 10 richest men doubled in pandemic, Oxfam says</a> BBC: Covid-19 has made the rich richer while poverty has increased, the charity Oxfam says. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:55 AM CT, Jan. 17 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
- <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
  <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
@@ -197,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
  <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
- <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
- <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
 
 
 </details>
