@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 06:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60035446?at_medium=RSS&at_campaign=KARANGA">Sweden drones: Sightings reported over nuclear plants and palace</a> BBC: Security services take over an inquiry into a series of sightings and it is unclear who is to blame. 
- <p class="updated_time"> 06:04 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 05:43 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60037173?at_medium=RSS&at_campaign=KARANGA">Ivermectin: Arkansas inmates sue over Covid treatment with horse dewormer</a> BBC: The prisoners say they were unknowingly prescribed the drug despite warnings from health officials. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751"> Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073732560/senate-democrats-push-a-voting-rights-bill-that-most-likely-wont-pass">Senate Democrats push a voting rights bill that most likely won't pass</a> NPR: They are planning to debate voting rights bills and hold a vote on changing Senate rules to pass them. They are expected to fail despite intense public pressure from the White House. 
- <p class="updated_time"> 06:04 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
