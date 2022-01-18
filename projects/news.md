@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 02:18 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga, Covered in Ash and Worried About Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
  <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 01:38 AM CT, Jan. 18 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
