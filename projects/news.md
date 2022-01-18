@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
+ <p class="updated_time"> 02:58 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60042491?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK released without charge</a> BBC: Greater Manchester Police say the pair, detained in south Manchester, have not been charged. 
  <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
@@ -25,10 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 01:35 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
- <p class="updated_time"> 01:28 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60042491?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK released without charge</a> BBC: Greater Manchester Police say the pair, who were detained in south Manchester, have not been charged. 
  <p class="updated_time"> 01:27 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons </a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
+ <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons</a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
  <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073828708/israel-spyware-citizens-nso-group">Israeli police used spyware to hack its own citizens, an Israeli newspaper reports</a> NPR: According to a report in Israeli media, Israel has hacked activists, mayors and other Israeli citizens without judicial oversight using spyware from the controversial NSO Group. 
  <p class="updated_time"> 12:32 PM CT, Jan. 18 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:49 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
  <p class="updated_time"> 09:48 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The militants in Yemen used advanced missiles and drones, said people familiar with a United Arab Emirates probe, showing how Iran’s allies have become emboldened in striking Middle East rivals after emerging stronger from years of civil war. 
+ <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The attack showed how Iran’s allies in Yemen have become emboldened in striking Middle East rivals after emerging stronger from years of civil war. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
- <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong to cull 2,000 hamsters and small mammals over Covid case</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
@@ -237,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and a Former Acolyte.</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams ‘extremely dangerous’ Russian troop deployment to Belarus</a> Politico: The White House warned that Russia “could at any point launch an attack in Ukraine.” 
+ <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams Russian troop moves in Belarus as Ukraine crisis deepens</a> Politico: The White House warned that Russia could attack Ukraine “at any point,” while Secretary of State Antony Blinken is set to see his Russian counterpart later this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
