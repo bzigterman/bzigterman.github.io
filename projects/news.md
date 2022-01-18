@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
@@ -37,14 +39,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 11:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60034050?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping defends 'common prosperity' crackdowns</a> BBC: The Chinese leader made the comments during an address to the World Economic Forum’s annual meeting. 
+ <p class="updated_time"> 11:10 PM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-uns-january-missile-test-barrage-is-fast-but-not-furious-11642500645">Kim Jong Un's January Missile-Test Barrage Is Fast but Not Furious</a> WSJ: North Korea’s spree of weapons launches carries strategic purpose, both in defense and diplomacy, security experts say. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
- <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034010?at_medium=RSS&at_campaign=KARANGA">Afghanistan twin quakes kill at least 22 in poorest areas</a> BBC: Officials say the death toll could rise from two earthquakes which hit the north-west of the nation. 
  <p class="updated_time"> 09:45 PM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last Covid-free places on Earth. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
- <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
@@ -195,6 +195,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">GOP pulls debate threat from Trump playbook</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
@@ -213,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build 
+ <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build. 
  <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores GOP Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
- <p class="updated_time"> 12:12 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/trump-first-rally-2022-maga-527206">MAGA hats and QAnon: Inside Trump’s first rally of 2022</a> Politico: The former president hit all the notes in his rally in Arizona on Saturday. The question is: Is this a precursor to a reelection bid? 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
  <p class="updated_time"> 11:29 AM CT, Jan. 16 </p> 
@@ -265,11 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
  <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
- <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/biden-russia-cyber-ukraine-527183">‘We have to show strength’: Calls grow for U.S. to deter Russian hackers</a> Politico: Kremlin saber-rattling on the Ukrainian border is increasing worries that a confrontation could fuel cyberattacks on the U.S. 
- <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/bitcoin-crashes-the-midterms-527126">Bitcoin crashes the midterms</a> Politico: Candidates are staking out positions on cryptocurrency, scrambling party lines and fanning fundraising concerns. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -380,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
- <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
 
 
 </details>
