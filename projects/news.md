@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
+ <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
+ <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which is up for auction. 
+ <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:28 AM CT, Jan. 18 </p> 
@@ -33,10 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 05:19 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984858?at_medium=RSS&at_campaign=KARANGA">Colombia saw 145 activists killed in 2021, ombudsman says</a> BBC: Most of the killings were linked to illegal armed groups, the human rights ombudsman says. 
- <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid-monitoring app to be used by all Games attendees has security risks, analysts warn. 
- <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
@@ -51,24 +55,26 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
  <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
+ <p class="updated_time"> 03:01 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/deepening-debt-crisis-in-sri-lanka-stokes-controversy-over-chinese-lending-11642514503">Debt Crisis in Sri Lanka Stokes Controversy Over Chinese Lending</a> WSJ: The crunch has opened a window for India, which provided financial relief to Sri Lanka last week, to push back against Chinese influence in the Indian Ocean region. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
+ <p class="updated_time"> 02:56 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/texas-hostage-taker-was-known-to-u-k-intelligence-11642514176">Texas Hostage Taker Was Known to U.K. Intelligence</a> WSJ: Malik Faisal Akram, from northern England, was the subject of a preliminary investigation by MI5, the U.K.’s domestic intelligence service, in late 2020 but wasn’t deemed to be a sufficient threat to track further. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
+ <p class="updated_time"> 02:19 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/official-beijing-2022-olympics-mobile-app-is-marred-by-security-flaws-researchers-say-11642511957">Beijing 2022 Olympics Mobile App Is Marred by Security Flaws, Researchers Say</a> WSJ: A Chinese-built mobile app that is mandatory for all participants contains security flaws that could make it easy for a hacker to steal sensitive personal information, cybersecurity researchers in Canada have warned. 
+ <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/sudan-protesters-begin-strike-as-conflict-with-generals-worsens-11642510196">Sudan Protesters Begin Strike as Conflict With Generals Worsens</a> WSJ: Pro-democracy groups began two days of strikes and civil disobedience in Sudan, a day after security forces fired live rounds and used tear gas to disperse protesters. 
  <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 01:00 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/once-a-global-covid-19-vaccine-leader-israel-struggles-to-get-its-kids-inoculated-11642507202">Israel Struggles to Get Its Kids Inoculated</a> WSJ: Israeli adults were among the first in the world to roll up their sleeves for a Covid-19 vaccine, but many are now pushing back against the government’s campaign to inoculate their young children, despite the Omicron risk. 
- <p class="updated_time"> 12:00 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">China's Zero-Covid Policies Cause a Traffic Jam in Vietnam as Farmers Suffer</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
- <p class="updated_time"> 11:30 PM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/taliban-intensify-efforts-to-take-control-of-afghanistans-overseas-embassies-11642501802">Taliban Intensify Efforts to Take Control of Overseas Embassies</a> WSJ: Afghanistan’s new rulers are stepping up a campaign for control of the country’s diplomatic outposts, most of which continue to be run by appointees of the former, U.S.-backed government. 
- <p class="updated_time"> 11:10 PM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-uns-january-missile-test-barrage-is-fast-but-not-furious-11642500645">Kim Jong Un's January Missile-Test Barrage Is Fast but Not Furious</a> WSJ: North Korea’s spree of weapons launches carries strategic purpose, both in defense and diplomacy, security experts say. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -137,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
- <p class="updated_time"> 09:05 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Aerial Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
@@ -151,10 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
- <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
+ <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and Ron DeSantis</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">Blinken heads to Ukraine in bid to deescalate Russia tensions</a> Politico: The secretary of State will visit both Kyiv and Berlin this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
@@ -246,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
- <p class="updated_time"> 03:55 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
- <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 07:49 AM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/oath-keepers-sedition-takeaways/index.html">Takeaways from the landmark sedition indictment against the Oath Keepers and why DOJ acted now</a> CNN: The Justice Department on Thursday announced the first sedition charges related to the January 6 insurrection, a watershed moment in the year-long investigation. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
