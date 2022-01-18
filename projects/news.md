@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:28 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
+ <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong to cull 2,000 hamsters and small mammals over Covid case</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 06:35 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 06:06 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
- <p class="updated_time"> 06:05 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60035446?at_medium=RSS&at_campaign=KARANGA">Sweden drones: Sightings reported over nuclear plants and palace</a> BBC: Security services take over an inquiry into a series of sightings and it is unclear who is to blame. 
  <p class="updated_time"> 05:43 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60037173?at_medium=RSS&at_campaign=KARANGA">Ivermectin: Arkansas inmates sue over Covid treatment with horse dewormer</a> BBC: The prisoners say they were unknowingly prescribed the drug despite warnings from health officials. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
