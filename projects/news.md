@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors lambasted after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
+ <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034010?at_medium=RSS&at_campaign=KARANGA">Afghanistan twin quakes kill at least 22 in poorest areas</a> BBC: Officials say the death toll could rise from two earthquakes which hit the north-west of the nation. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
