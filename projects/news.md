@@ -200,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
+ <p class="updated_time"> 04:08 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073732553/morning-news-brief">News brief: Senate's filibuster issue, Texas hostage details, Iran nuclear talks</a> NPR: Senate Democrats plow ahead with a showdown over the filibuster and voting rights. Details emerge about the hostage taking at a Texas synagogue. Efforts continue to revive the Iran nuclear deal. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/biden-russia-cyber-ukraine-527183">‘We have to show strength’: Calls grow for U.S. to deter Russian hackers</a> Politico: Kremlin saber-rattling on the Ukrainian border is increasing worries that a confrontation could fuel cyberattacks on the U.S. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
@@ -274,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
  <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
- <p class="updated_time"> 03:55 PM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
