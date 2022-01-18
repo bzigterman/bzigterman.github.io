@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 11:36 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
+ <p class="updated_time"> 11:19 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60034050?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping defends 'common prosperity' crackdowns</a> BBC: The Chinese leader made the comments during an address to the World Economic Forum’s annual meeting. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -77,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
+ <p class="updated_time"> 02:49 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60031269?at_medium=RSS&at_campaign=KARANGA">Robert Lewandowski: Bayern striker wins Best Fifa Men's Player of the Year award</a> BBC: Bayern Munich and Poland striker Robert Lewandowski is named the Best Fifa Men's Player of the Year. 
  <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
@@ -97,10 +101,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/17/1073623759/in-greece-unvaccinated-people-ages-60-and-up-now-face-monthly-fines">In Greece, unvaccinated people ages 60 and up now face monthly fines </a> NPR: The nation imposed the new mandate on Monday as it looks to bring its vaccination rate closer in line with the EU average. The unvaccinated will face penalties starting at 50 euros, or roughly $57. 
  <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
+ <p class="updated_time"> 10:52 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
- <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60022996?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right candidate found guilty of hate speech</a> BBC: Eric Zemmour called unaccompanied migrant children coming to France "thieves" and "murderers". 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 09:05 AM CT, Jan. 17 </p> 
@@ -115,10 +119,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60024367?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Organisers will not sell tickets to general public</a> BBC: Organisers of this year's Winter Olympics in Beijing have cancel plans to sell tickets to the general public as part of strict Covid-19 restrictions in the Chinese capital. 
- <p class="updated_time"> 06:25 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
  <p class="updated_time"> 06:17 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/full-recovery-in-global-labor-market-could-take-years-11642420548">Full Recovery in Global Labor Market Could Take Years</a> WSJ: New U.N. projections note a divide between rich countries with labor shortages and poor ones where joblessness remains high. 
+ <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
- <p class="updated_time"> 04:05 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60019423?at_medium=RSS&at_campaign=KARANGA">Why satellites are key to understanding Pacific volcano</a> BBC: When the huge eruption happened over the weekend, a fleet of spacecraft overhead gathered key data. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
@@ -143,12 +145,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/tonga-left-largely-cut-off-after-volcanic-eruption-tsunami-11642405227">Tonga Left Largely Cut Off After Volcanic Eruption, Tsunami</a> WSJ: An ash cloud threatens clean-water supplies in the Pacific nation, while the disaster may have caused a break in an undersea internet cable that connects Tonga to the rest of the world. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59938380?at_medium=RSS&at_campaign=KARANGA">Nigeria's economy: Why people are buying sanitary pads in packs of two</a> BBC: A so-called "sachet economy" has emerged as high inflation makes everyday items too expensive for many. 
- <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
- <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-59977996?at_medium=RSS&at_campaign=KARANGA">How delivery apps created 'the Netflix of food ordering'</a> BBC: Innovative food delivery apps offer everything from multiple restaurant orders to home chef cuisine. 
  <p class="updated_time"> 05:21 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: Underscoring concerns about China’s growth outlook, the central bank slashed two sets of interest rates, which will fuel expectations for an additional cut to benchmark lending rates. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
