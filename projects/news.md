@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60046371?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Race for vital supplies to reach volcano-hit islands</a> BBC: Teams work desperately to clear ash from airport runways so planes can deliver food and drinking water. 
+ <p class="updated_time"> 04:30 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
+ <p class="updated_time"> 04:27 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073881756/former-army-general-on-how-the-u-s-could-back-a-ukranian-insurgency-against-russ">Former army general on how the U.S. could back a Ukranian insurgency against Russia</a> NPR: NPR's Mary Louise Kelly talks with Peter Zwack, former U.S. Army Brigadier General and global fellow at the Wilson Center, about the possibility of the U.S. arming Ukraine in an insurgency. 
  <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 04:02 PM CT, Jan. 18 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60042491?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK released without charge</a> BBC: Greater Manchester Police say the pair, detained in south Manchester, have not been charged. 
  <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
- <p class="updated_time"> 02:16 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 02:15 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">Mobile firms agree another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
@@ -153,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
- <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/europe/serbia-novak-djokovic.html">Serbia's Vucic Denounces Australia’s Treatment of Novak Djokovic as ‘Orwellian’</a> NYT: In the tennis star’s homeland, even those who didn’t support his decision to remain unvaccinated against the coronavirus said that he had been mistreated. 
- <p class="updated_time"> 08:48 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Inquiry</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Senate Dems free-fall toward filibuster face-off without a parachute</a> Politico: They're leaning toward voting on the revival of the "talking filibuster" this week. But the votes still aren't there. 
  <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">Members of Congress Weigh Re-Election Bid Ahead of Midterms</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
- <p class="updated_time"> 05:30 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans an advantage of 12 seats to three in elections for the House of Representatives. 
  <p class="updated_time"> 04:10 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">Republican Who Voted to Impeach Trump Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
@@ -380,10 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
- <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
- <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
 
 
 </details>
