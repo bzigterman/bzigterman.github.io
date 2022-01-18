@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
+ <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Inheritance dispute leads to €471m auction</a> BBC: The €471m property is at the centre of an inheritance dispute between a princess and her stepsons. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
- <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
@@ -236,6 +236,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Supreme Court justices aren't 'scorpions,' but not happy campers either</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: He flew in World War II, the Korean War and the Vietnam War. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073505171/how-to-reverse-declining-trust-in-institutions">How to reverse declining trust in institutions</a> NPR: NPR's Michel Martin speaks with Southern California Public Radio's Tony Marcano and Eric Liu of Citizen University about how the media and everyday citizens can better democracy. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
