@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:38 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/basketball/60035898?at_medium=RSS&at_campaign=KARANGA">Brooklyn Nets' Kyrie Irving adamant on vaccine refusal</a> BBC: Kyrie Irving will not change his mind and get vaccinated against Covid-19 despite an injury to fellow Brooklyn Nets player Kevin Durant. 
+ <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines says the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
+ <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
- <p class="updated_time"> 02:49 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60031269?at_medium=RSS&at_campaign=KARANGA">Robert Lewandowski: Bayern striker wins Best Fifa Men's Player of the Year award</a> BBC: Bayern Munich and Poland striker Robert Lewandowski is named the Best Fifa Men's Player of the Year. 
  <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
@@ -125,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
- <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60024367?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Organisers will not sell tickets to general public</a> BBC: Organisers of this year's Winter Olympics in Beijing have cancel plans to sell tickets to the general public as part of strict Covid-19 restrictions in the Chinese capital. 
  <p class="updated_time"> 06:05 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/china-seeks-to-cushion-blow-of-economic-pain-as-momentum-slows-11642418829">China Seeks to Cushion Blow of Economic Pain as Momentum Slows</a> WSJ: The country’s leaders are hoping that they can put a floor under the economy, which expanded by 4% in the fourth quarter of last year, the slowest pace since the beginning of the Covid-19 recovery. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
- <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
