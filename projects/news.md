@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
+ <p class="updated_time"> 01:38 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Runway ash hampers relief efforts as scale of damage emerges</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
- <p class="updated_time"> 11:36 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga runway ash blocks New Zealand air relief</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 11:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60034050?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping defends 'common prosperity' crackdowns</a> BBC: The Chinese leader made the comments during an address to the World Economic Forum’s annual meeting. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
- <p class="updated_time"> 08:20 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 08:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
  <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
