@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul‘s rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans mask giveaway as Omicron surges</a> Politico: The federal government has 737 million N95 masks in the Strategic National Stockpile sourced from 12 domestic manufacturers. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
