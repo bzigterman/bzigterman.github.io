@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
+ <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
+ <p class="updated_time"> 11:33 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
+ <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical advisor says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
+ <p class="updated_time"> 11:18 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British media reports. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 11:09 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
  <p class="updated_time"> 11:07 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 10:51 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
- <p class="updated_time"> 10:38 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram had been listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British news media reports. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
  <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
@@ -29,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:41 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
- <p class="updated_time"> 09:25 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -45,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
- <p class="updated_time"> 07:28 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
  <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong to cull 2,000 hamsters and small mammals over Covid case</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
- <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
  <p class="updated_time"> 03:50 AM CT, Jan. 18 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661305/heres-whats-driving-the-lowest-covid-immunization-rates-around-the-world">Here's what's driving the lowest COVID immunization rates around the world</a> NPR: Some countries around the globe are still struggling to get people vaccinated. Dozens of countries still haven't gotten 10% of their populations vaccinated. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
- <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
  <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/france-lepen.html">Marine Le Pen, Kicking Off Her Campaign, Tries to Embody Credibility</a> NYT: Ms. Le Pen has bet that sanitizing her far-right party’s image will finally bear fruit in the run-up to France’s presidential election in April. 
- <p class="updated_time"> 09:11 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
 
 
 </details>
