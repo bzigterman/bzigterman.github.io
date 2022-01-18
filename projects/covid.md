@@ -1551,12 +1551,12 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">1.6M</td>
-<td class="gt_row gt_right">2.8M</td>
-<td class="gt_row gt_right">+77&percnt;</td></tr>
+<td class="gt_row gt_right">2.9M</td>
+<td class="gt_row gt_right">+79&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">6.0K</td>
-<td class="gt_row gt_right gt_striped">7.0K</td>
-<td class="gt_row gt_right gt_striped">+17&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">7.1K</td>
+<td class="gt_row gt_right gt_striped">+18&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">32.2M</td>
 <td class="gt_row gt_right">32.9M</td>
@@ -1586,7 +1586,7 @@ As of Monday, the 14-day percent change in average new cases was:
 - 38% in Champaign County
 - 50% in Illinois
 - 38% in the United States
-- 77% worldwide
+- 79% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
