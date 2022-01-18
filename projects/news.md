@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:56 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong will cull thousands of hamsters after Covid cases in a pet shop.</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
+ <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Islands devastated by deadly tsunami, Tonga says</a> BBC: Tonga's government gives its first statement since a volcanic eruption caused a deadly tsunami to hit the island nation. 
+ <p class="updated_time"> 05:15 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
@@ -33,12 +37,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
  <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
- <p class="updated_time"> 01:38 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034170?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Runway ash hampers relief efforts as scale of damage emerges</a> BBC: After the tsunami New Zealand promises aid, but ash on Tonga's runway is hindering relief efforts. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
+ <p class="updated_time"> 12:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">China's Zero-Covid Policies Cause a Traffic Jam in Vietnam as Farmers Suffer</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/taliban-intensify-efforts-to-take-control-of-afghanistans-overseas-embassies-11642501802">Taliban Intensify Efforts to Take Control of Overseas Embassies</a> WSJ: Afghanistan’s new rulers are stepping up a campaign for control of the country’s diplomatic outposts, most of which continue to be run by appointees of the former, U.S.-backed government. 
  <p class="updated_time"> 11:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60034050?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping defends 'common prosperity' crackdowns</a> BBC: The Chinese leader made the comments during an address to the World Economic Forum’s annual meeting. 
  <p class="updated_time"> 11:10 PM CT, Jan. 17 </p> 
@@ -125,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 09:05 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Aerial Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
- <p class="updated_time"> 08:30 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
- <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
 
 
 </details>
@@ -194,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751">Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">GOP pulls debate threat from Trump playbook</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
