@@ -7,18 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:54 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: As it struggles to clean up and reconnect with the world, Tonga confronts the risk that international aid workers could bring in a virus it has so far kept out. 
- <p class="updated_time"> 05:51 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
- <p class="updated_time"> 05:41 AM CT, Jan. 18 </p> 
+ <p class="updated_time"> 06:35 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
+ <p class="updated_time"> 06:25 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
+ <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
+ <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
+ <p class="updated_time"> 06:06 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
+ <p class="updated_time"> 06:05 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60035446?at_medium=RSS&at_campaign=KARANGA">Sweden drones: Sightings reported over nuclear plants and palace</a> BBC: Security services take over an inquiry into a series of sightings and it is unclear who is to blame. 
+ <p class="updated_time"> 06:04 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 05:43 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60037173?at_medium=RSS&at_campaign=KARANGA">Ivermectin: Arkansas inmates sue over Covid treatment with horse dewormer</a> BBC: The prisoners say they were unknowingly prescribed the drug despite warnings from health officials. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
+ <p class="updated_time"> 05:19 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59984858?at_medium=RSS&at_campaign=KARANGA">Colombia saw 145 activists killed in 2021, ombudsman says</a> BBC: Most of the killings were linked to illegal armed groups, the human rights ombudsman says. 
  <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid-monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
@@ -30,11 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
- <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
- <p class="updated_time"> 03:38 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/basketball/60035898?at_medium=RSS&at_campaign=KARANGA">Brooklyn Nets' Kyrie Irving adamant on vaccine refusal</a> BBC: Kyrie Irving will not change his mind and get vaccinated against Covid-19 despite an injury to fellow Brooklyn Nets player Kevin Durant. 
  <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
  <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
@@ -47,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/once-a-global-covid-19-vaccine-leader-israel-struggles-to-get-its-kids-inoculated-11642507202">Israel Struggles to Get Its Kids Inoculated</a> WSJ: Israeli adults were among the first in the world to roll up their sleeves for a Covid-19 vaccine, but many are now pushing back against the government’s campaign to inoculate their young children, despite the Omicron risk. 
  <p class="updated_time"> 12:00 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">China's Zero-Covid Policies Cause a Traffic Jam in Vietnam as Farmers Suffer</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
@@ -77,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with the police to try to “talk him down.’’ 
  <p class="updated_time"> 06:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
- <p class="updated_time"> 06:42 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60026748?at_medium=RSS&at_campaign=KARANGA">Plastic crisis needs binding treaty, report says</a> BBC: Pollution from plastics is a global emergency in need of a robust UN treaty, according to a report. 
  <p class="updated_time"> 06:34 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/59870550?at_medium=RSS&at_campaign=KARANGA">Anti-vax protests: ‘Sovereign citizens’ fight UK Covid vaccine rollout</a> BBC: Activists with anti-vax beliefs are taking "direct action" against hospitals and schools. 
  <p class="updated_time"> 06:16 PM CT, Jan. 17 </p> 
@@ -125,10 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
- <p class="updated_time"> 10:52 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
- <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 09:05 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthi-rebels-claim-suspected-drone-strikes-on-u-a-e-capital-11642416716">Yemen's Houthi Rebels Claim Deadly Aerial Attacks on U.A.E. Capital</a> WSJ: Three people were killed and six injured in explosions at two locations in the United Arab Emirates, as intensifying fighting in a 7-year-old civil war spills out across the broader Middle East. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 06:05 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
@@ -192,8 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073732567/is-there-a-way-forward-to-get-a-voting-rights-bill-passed-in-the-senate">Is there a way forward to get a voting rights bill passed in the Senate?</a> NPR: NPR's Steve Inskeep speaks with John Fortier of the American Enterprise Institute, a conservative think tank, about election integrity, and Democrats' push for voting rights. 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751">Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751"> Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
+ <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073732560/senate-democrats-push-a-voting-rights-bill-that-most-likely-wont-pass">Senate Democrats push a voting rights bill that most likely won't pass</a> NPR: They are planning to debate voting rights bills and hold a vote on changing Senate rules to pass them. They are expected to fail despite intense public pressure from the White House. 
+ <p class="updated_time"> 06:04 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
@@ -210,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
- <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
@@ -252,12 +258,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/korea-projectile-missile-launch-527234">North Korea fires 2 suspected missiles in 4th launch this year</a> Politico: Kim Jong Un seems intent on demonstrating his nation’s military might. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 05:08 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/james-carville-democrats-whine-too-much-527232">Carville: Dems ‘whine too much,’ need to highlight accomplishments ahead of midterms</a> Politico: “Just quit being a whiny party and get out there and fight and tell people what you did, and tell people the exact truth,” James Carville said. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505171/how-to-reverse-declining-trust-in-institutions">How to reverse declining trust in institutions</a> NPR: NPR's Michel Martin speaks with Southern California Public Radio's Tony Marcano and Eric Liu of Citizen University about how the media and everyday citizens can better democracy. 
- <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073505164/why-americans-are-losing-trust-in-elections-and-the-media">Why Americans are losing trust in elections and the media</a> NPR: Two researchers from the Pew Research Center, Bradley Jones and Katerina Eva Matsa, discuss data showing why Americans are losing faith in the media and U.S. elections. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
@@ -270,8 +272,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
+ <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">What to know about the Senate's nuclear option</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
 
 
 </details>
