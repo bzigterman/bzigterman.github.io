@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 04:50 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 04:34 PM CT, Jan. 18 </p> 
@@ -37,12 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">Mobile firms agree another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-boris-johnson-parties.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
- <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 01:58 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60044529?at_medium=RSS&at_campaign=KARANGA">Nigeria shoot-to-kill order issued over jail breaks</a> BBC: It follows a wave of prison breaks over the past year in which more than 5,000 inmates have escaped. 
- <p class="updated_time"> 01:39 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 01:27 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons</a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
  <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
  <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
- <p class="updated_time"> 10:18 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/magazine/ukraine-war.html">In the Trenches of Ukraine’s Forever War</a> NYT: Russian belligerence has drawn the world’s attention back to the eight-year-old secessionist rebellion in the Donbas region: a deadlocked, time-warped conflict with no end in sight. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
  <p class="updated_time"> 08:49 AM CT, Jan. 16 </p> 
@@ -208,8 +206,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
+ <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Inquiry</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and three others. 
+ <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073898495/jan-6-panel-subpoenas-rudy-giuliani-other-lawyers-tied-to-false-election-claims">Jan. 6 panel subpoenas Rudy Giuliani, other lawyers tied to false election claims</a> NPR: The panel wants to hear from lawyers who advanced Trump's false claims of election fraud. 
  <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/supreme-court-boston-flag-free-speech.html">Supreme Court Appears Skeptical of Boston’s Refusal to Fly Christian Flag</a> NYT: The court seemed poised to rule that the city, which has approved many other requests to raise flags at its City Hall, violated a Christian group’s free speech rights. 
  <p class="updated_time"> 02:02 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/wireless-companies-agree-to-additional-5g-curbs-in-bid-to-avert-flight-chaos-527303">Wireless companies agree to additional 5G curbs in bid to avert flight chaos</a> Politico: 5G has the potential to interfere with aircraft altimeters, devices that measure how high a plane is off the ground, among other interconnected avionics and equipment. 
- <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-latino-midterm-527265">Latino Dems warn about midterm fall-off</a> Politico: "The first step is admitting there’s a problem, and there’s a lot of people in my movement and my party that don’t," said one strategist. 
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
@@ -280,16 +282,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build. 
  <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
- <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 10:29 AM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/beijing-olympic-tickets-coronavirus-527241">Beijing to offer Olympic tickets to ‘selected’ spectators amid pandemic</a> Politico: Beijing had already announced that no fans from outside the country would be permitted at the events, and had not offered tickets to the general public. 
- <p class="updated_time"> 09:12 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1072714887/filibuster-explained">Senate Democrats plan a vote to change the filibuster. So what is it?</a> NPR: The filibuster was once a rarely used tool for holding up Senate business. Now, it's a regular (still powerful) feature; some Democrats want it changed. Here are answers to your filibuster questions. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
@@ -380,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
- <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
 
 
 </details>
