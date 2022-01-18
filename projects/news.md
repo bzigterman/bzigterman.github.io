@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
+ <p class="updated_time"> 04:02 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073881728/in-afghanistan-a-food-crisis-is-worsening">In Afghanistan, a food crisis is worsening</a> NPR: NPR's Mary Louise Kelly speaks with Filipe Ribeiro, the Afghanistan representative for Doctors Without Borders, to hear about the severe lack of food the country is facing. 
  <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
- <p class="updated_time"> 03:45 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
- <p class="updated_time"> 03:43 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 03:26 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
- <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
- <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
@@ -225,9 +223,9 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: The free at-home COVID-19 tests are expected to be delivered by USPS later this month. The White House said the site is in "beta testing" and will be launched formally Wednesday. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
- <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
  <p class="updated_time"> 10:43 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -259,11 +257,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073732553/morning-news-brief">News brief: Senate's filibuster issue, Texas hostage details, Iran nuclear talks</a> NPR: Senate Democrats plow ahead with a showdown over the filibuster and voting rights. Details emerge about the hostage taking at a Texas synagogue. Efforts continue to revive the Iran nuclear deal. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
- <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Supreme Court justices aren't 'scorpions,' but not happy campers either</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
