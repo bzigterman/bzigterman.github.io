@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:36 AM CT, Jan. 18 </p> 
+ <p class="updated_time"> 11:45 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British media reports. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 11:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical advisor says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
- <p class="updated_time"> 11:18 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British media reports. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 11:09 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
  <p class="updated_time"> 11:07 AM CT, Jan. 18 </p> 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 16 </p> 
+ <a href="https://www.cnn.com/2022/01/14/politics/free-home-covid-19-tests-wellness/index.html">Here's how you can get free home Covid-19 tests</a> CNN: Starting Saturday, many Americans can get home Covid-19 tests at no cost through their private insurance. They can obtain the tests from pharmacies, retailers and online vendors. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
- <p class="updated_time"> 07:49 AM CT, Jan. 14 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oath-keepers-sedition-takeaways/index.html">Takeaways from the landmark sedition indictment against the Oath Keepers and why DOJ acted now</a> CNN: The Justice Department on Thursday announced the first sedition charges related to the January 6 insurrection, a watershed moment in the year-long investigation. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
