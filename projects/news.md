@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60035448?at_medium=RSS&at_campaign=KARANGA">Metsola: EU parliament elects youngest ever president</a> BBC: Roberta Metsola, from Malta, was asked by journalists about her record of being anti-abortion. 
  <p class="updated_time"> 09:49 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
+ <p class="updated_time"> 09:48 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The militants in Yemen used advanced missiles and drones, said people familiar with a United Arab Emirates probe, showing how Iran’s allies have become emboldened in striking Middle East rivals after emerging stronger from years of civil war. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
- <p class="updated_time"> 07:25 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The militants in Yemen used a mix of ballistic missiles, cruise missiles and drones to target Abu Dhabi and parts of Saudi Arabia on Monday, in one of the Iran-backed group’s most audacious attacks on its Gulf rivals in years, according to people briefed on the United Arab Emirates’ preliminary probe. 
  <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
  <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
@@ -201,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
- <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
 
 
 </details>
