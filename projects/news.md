@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
+ <p class="updated_time"> 11:01 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
+ <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of the NBA's Warriors lambasted after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
@@ -87,14 +93,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
- <p class="updated_time"> 11:54 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 11:33 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/17/1073623759/in-greece-unvaccinated-people-ages-60-and-up-now-face-monthly-fines">In Greece, unvaccinated people ages 60 and up now face monthly fines </a> NPR: The nation imposed the new mandate on Monday as it looks to bring its vaccination rate closer in line with the EU average. The unvaccinated will face penalties starting at 50 euros, or roughly $57. 
  <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
- <p class="updated_time"> 11:03 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:19 AM CT, Jan. 17 </p> 
