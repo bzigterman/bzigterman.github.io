@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-taker-mi5.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram had been listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British news media reports. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
+ <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073791401/boris-johnson-parties-lockdown">Boris Johnson again says BYOB party he attended during lockdown was a work event </a> NPR: The British prime minister denied misleading Parliament about lockdown-breaching parties, as senior government ministers said he would have to resign if he is proven to have lied. 
+ <p class="updated_time"> 10:08 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60035448?at_medium=RSS&at_campaign=KARANGA">Metsola: EU parliament elects youngest ever president</a> BBC: Roberta Metsola, from Malta, was asked by journalists about her record of being anti-abortion. 
  <p class="updated_time"> 09:57 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
+ <p class="updated_time"> 09:49 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:41 AM CT, Jan. 18 </p> 
@@ -23,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes advised to use burner phones in Beijing</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
+ <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
@@ -51,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984858?at_medium=RSS&at_campaign=KARANGA">Colombia saw 145 activists killed in 2021, ombudsman says</a> BBC: Most of the killings were linked to illegal armed groups, the human rights ombudsman says. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
+ <p class="updated_time"> 04:44 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Barrage of Drones and Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: Houthi militants in Yemen used a mix of ballistic missiles, cruise missiles and drones to target Abu Dhabi and parts of Saudi Arabia on Monday, in one of the Iran-backed group’s most audacious attacks on its Gulf rivals in years, according to people briefed on the United Arab Emirates’ preliminary investigation. 
  <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
@@ -59,28 +75,24 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
+ <p class="updated_time"> 03:55 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Set for Release From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan ‘Liberate Hong Kong, Revolution of Our Times’ is now banned. 
  <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
+ <p class="updated_time"> 03:19 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-former-president-breaks-silence-over-unrest-backs-successor-11642515587">Kazakhstan's Former President Breaks Silence Over Unrest, Backs Successor</a> WSJ: Nursultan Nazarbayev, in his first public comments since recent turmoil engulfed the Central Asian nation, denied that he had been embroiled in political infighting and expressed confidence in the current leader. 
  <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
- <p class="updated_time"> 03:01 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/deepening-debt-crisis-in-sri-lanka-stokes-controversy-over-chinese-lending-11642514503">Debt Crisis in Sri Lanka Stokes Controversy Over Chinese Lending</a> WSJ: The crunch has opened a window for India, which provided financial relief to Sri Lanka last week, to push back against Chinese influence in the Indian Ocean region. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 02:56 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/texas-hostage-taker-was-known-to-u-k-intelligence-11642514176">Texas Hostage Taker Was Known to U.K. Intelligence</a> WSJ: Malik Faisal Akram, from northern England, was the subject of a preliminary investigation by MI5, the U.K.’s domestic intelligence service, in late 2020 but wasn’t deemed to be a sufficient threat to track further. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
- <p class="updated_time"> 02:19 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/official-beijing-2022-olympics-mobile-app-is-marred-by-security-flaws-researchers-say-11642511957">Beijing 2022 Olympics Mobile App Is Marred by Security Flaws, Researchers Say</a> WSJ: A Chinese-built mobile app that is mandatory for all participants contains security flaws that could make it easy for a hacker to steal sensitive personal information, cybersecurity researchers in Canada have warned. 
  <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/sudan-protesters-begin-strike-as-conflict-with-generals-worsens-11642510196">Sudan Protesters Begin Strike as Conflict With Generals Worsens</a> WSJ: Pro-democracy groups began two days of strikes and civil disobedience in Sudan, a day after security forces fired live rounds and used tear gas to disperse protesters. 
- <p class="updated_time"> 01:41 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60033917?at_medium=RSS&at_campaign=KARANGA">Dean Verberckmoes: Police find body of Belgian four-year old</a> BBC: Dean Verberckmoes disappeared last week, sparking a major search in Belgium and the Netherlands. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
- <p class="updated_time"> 01:00 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/once-a-global-covid-19-vaccine-leader-israel-struggles-to-get-its-kids-inoculated-11642507202">Israel Struggles to Get Its Kids Inoculated</a> WSJ: Israeli adults were among the first in the world to roll up their sleeves for a Covid-19 vaccine, but many are now pushing back against the government’s campaign to inoculate their young children, despite the Omicron risk. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -95,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
- <p class="updated_time"> 08:01 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
  <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073703748/sothebys-unveils-555-55-carat-black-diamond-thought-to-come-from-outer-space">Sotheby's unveils 555.55-carat black diamond thought to come from outer space</a> NPR: Black diamonds are extremely rare, and are found naturally only in Brazil and Central Africa. The cosmic origin theory  of "The Enigma" is based on carbon isotopes and high hydrogen content. 
  <p class="updated_time"> 07:37 PM CT, Jan. 17 </p> 
@@ -145,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
- <p class="updated_time"> 12:19 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
@@ -155,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
- <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
@@ -187,16 +193,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
- <p class="updated_time"> 12:08 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/europe/bangladesh-london-brick-lane-gentrification.html">Towers Rise Over London’s Brick Lane, Clouding Its Future</a> NYT: Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities. 
  <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/europe/france-lepen.html">Marine Le Pen, Kicking Off Her Campaign, Tries to Embody Credibility</a> NYT: Ms. Le Pen has bet that sanitizing her far-right party’s image will finally bear fruit in the run-up to France’s presidential election in April. 
- <p class="updated_time"> 09:37 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html">32 Years After Civil War, Mundane Moments Trigger Awful Memories</a> NYT: Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities. 
  <p class="updated_time"> 09:11 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
- <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
 
 
 </details>
