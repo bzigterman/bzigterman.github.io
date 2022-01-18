@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ex-Guerrilla Hostage in Colombia Will Make a Bid for President</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
+ <p class="updated_time"> 09:17 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
+ <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Inheritance dispute leads to €471m auction</a> BBC: The €471m property is at the centre of an inheritance dispute between a princess and her stepsons. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
- <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which is up for auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
@@ -38,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
+ <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 05:19 AM CT, Jan. 18 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 01:00 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/once-a-global-covid-19-vaccine-leader-israel-struggles-to-get-its-kids-inoculated-11642507202">Israel Struggles to Get Its Kids Inoculated</a> WSJ: Israeli adults were among the first in the world to roll up their sleeves for a Covid-19 vaccine, but many are now pushing back against the government’s campaign to inoculate their young children, despite the Omicron risk. 
- <p class="updated_time"> 11:51 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -151,6 +153,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
+ <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
  <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
- <p class="updated_time"> 04:15 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/amtrak-ne-regional-trains-omicron.html">Amtrak Reduces Train Service Amid Covid Surge Within Its Ranks </a> NYT: About 8 percent of departures to be suspended for the next 10 weeks. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
  <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
- <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
 
 
 </details>
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073732560/senate-democrats-push-a-voting-rights-bill-that-most-likely-wont-pass">Senate Democrats push a voting rights bill that most likely won't pass</a> NPR: They are planning to debate voting rights bills and hold a vote on changing Senate rules to pass them. They are expected to fail despite intense public pressure from the White House. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
+ <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
