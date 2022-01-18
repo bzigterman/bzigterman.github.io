@@ -7,7 +7,21 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 PM CT, Jan. 17 </p> 
+ <p class="updated_time"> 06:39 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
+ <p class="updated_time"> 06:34 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/59870550?at_medium=RSS&at_campaign=KARANGA">Anti-vax protests: ‘Sovereign citizens’ fight UK Covid vaccine rollout</a> BBC: Activists with anti-vax beliefs are taking "direct action" against hospitals and schools. 
+ <p class="updated_time"> 06:16 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60024742?at_medium=RSS&at_campaign=KARANGA">How Nigeria succeeded in clipping Twitter's wings</a> BBC: Some fear that Twitter agreeing to new rules in Nigeria may encourage others to restrict social media. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60020410?at_medium=RSS&at_campaign=KARANGA">Collarwali: Remembering India’s ‘super mum’ tigress</a> BBC: Charismatic Collarwali played a key role in boosting tiger numbers and made her sanctuary famous. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
+ <p class="updated_time"> 05:53 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 05:11 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with police to try to “talk him down.’’ 
@@ -41,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
- <p class="updated_time"> 02:33 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
@@ -93,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60025236?at_medium=RSS&at_campaign=KARANGA">Djokovic back in Serbia after Australia deportation over visa row</a> BBC: The tennis star arrives in Belgrade after being deported from Australia over his Covid vaccination status. 
  <p class="updated_time"> 06:17 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/full-recovery-in-global-labor-market-could-take-years-11642420548">Full Recovery in Global Labor Market Could Take Years</a> WSJ: New U.N. projections note a divide between rich countries with labor shortages and poor ones where joblessness remains high. 
- <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
  <p class="updated_time"> 05:37 AM CT, Jan. 17 </p> 
@@ -119,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
  <p class="updated_time"> 02:11 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073565965/arab-leaders-gamble-to-play-kingmaker-in-israel-is-paying-off">Arab leader's gamble to play kingmaker in Israel is paying off</a> NPR: Mansour Abbas broke a longstanding taboo when he led his Arab party into Israel's governing coalition last year. 
- <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 11:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
@@ -133,14 +141,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 07:04 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59938380?at_medium=RSS&at_campaign=KARANGA">Nigeria's economy: Why people are buying sanitary pads in packs of two</a> BBC: A so-called "sachet economy" has emerged as high inflation makes everyday items too expensive for many. 
- <p class="updated_time"> 06:37 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60013805?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: Why quitting was the only option for ‘cornered’ captain</a> BBC: Sports writer Suresh Menon reflects on the career of Indian Test cricket's most successful captain. 
  <p class="updated_time"> 06:26 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59993386?at_medium=RSS&at_campaign=KARANGA">Colombo Port City: A new Dubai or a Chinese enclave?</a> BBC: China is helping Sri Lanka build a new city to rival global offshore centres. Who will it benefit? 
  <p class="updated_time"> 06:06 PM CT, Jan. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59977996?at_medium=RSS&at_campaign=KARANGA">How delivery apps created 'the Netflix of food ordering'</a> BBC: Innovative food delivery apps offer everything from multiple restaurant orders to home chef cuisine. 
- <p class="updated_time"> 06:05 PM CT, Jan. 16 </p> 
- <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 05:21 PM CT, Jan. 16 </p> 
  <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: Underscoring concerns about China’s growth outlook, the central bank slashed two sets of interest rates, which will fuel expectations for an additional cut to benchmark lending rates. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
@@ -197,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/uk-omicron-coronavirus-pandemic.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
- <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
 
 
 </details>
@@ -206,14 +208,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
+ <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
+ <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/video/us/politics/100000008163369/mlk-family-voting-fillibuster-senate.html">Martin Luther King Jr.’s Family Tells Senate to Legislate, ‘Not Celebrate’</a> NYT: Relatives of the Rev. Dr. Martin Luther King Jr. marched on Washington and urged the Senate to pass voting rights legislation. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build 
  <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
- <p class="updated_time"> 03:57 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/video/us/politics/100000008163369/mlk-family-voting-fillibuster-senate.html">Martin Luther King Jr.’s Family Tells Senate to Legislate, ‘Not Celebrate’</a> NYT: Relatives of the Rev. Dr. Martin Luther King Jr. marched on Washington and urged the Senate to pass voting rights legislation. 
  <p class="updated_time"> 03:55 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
@@ -248,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/16/1073505171/how-to-reverse-declining-trust-in-institutions">How to reverse declining trust in institutions</a> NPR: NPR's Michel Martin speaks with Southern California Public Radio's Tony Marcano and Eric Liu of Citizen University about how the media and everyday citizens can better democracy. 
  <p class="updated_time"> 04:03 PM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073505164/why-americans-are-losing-trust-in-elections-and-the-media">Why Americans are losing trust in elections and the media</a> NPR: Two researchers from the Pew Research Center, Bradley Jones and Katerina Eva Matsa, discuss data showing why Americans are losing faith in the media and U.S. elections. 
- <p class="updated_time"> 03:28 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/russia-nato-putin-spokesperson-peskov-527230">Russia and NATO ‘on different tracks’ in negotiations, Putin spokesperson says</a> Politico: The remarks from Dmitry Peskov came amid continuing concerns that Russia is about to invade Ukraine. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democratic-midterms.html">Frustrated Democrats Call for ‘Reset’ Ahead of Midterm Elections</a> NYT: Democrats already were expecting a rough election year. But their struggle to advance priorities has some calling for a course correction. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
@@ -314,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans an advantage of 12 seats to three in elections for the House of Representatives. 
  <p class="updated_time"> 04:10 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">Republican Who Voted to Impeach Trump Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
- <p class="updated_time"> 04:09 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
- <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
