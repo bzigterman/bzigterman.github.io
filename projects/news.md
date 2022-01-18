@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 04:34 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60046371?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Race for vital supplies to reach volcano-hit islands</a> BBC: Teams work desperately to clear ash from airport runways so planes can deliver food and drinking water. 
  <p class="updated_time"> 04:30 PM CT, Jan. 18 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch.</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
- <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
@@ -206,8 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:29 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Inquiry</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn. 
+ <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
+ <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Inquiry</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and three others. 
+ <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Senate Dems free-fall toward filibuster face-off without a parachute</a> Politico: They're leaning toward voting on the revival of the "talking filibuster" this week. But the votes still aren't there. 
  <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/17/beijing-olympic-tickets-coronavirus-527241">Beijing to offer Olympic tickets to ‘selected’ spectators amid pandemic</a> Politico: Beijing had already announced that no fans from outside the country would be permitted at the events, and had not offered tickets to the general public. 
  <p class="updated_time"> 09:12 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1072714887/filibuster-explained">Senate Democrats plan a vote to change the filibuster. So what is it?</a> NPR: The filibuster was once a rarely used tool for holding up Senate business. Now, it's a regular (still powerful) feature; some Democrats want it changed. Here are answers to your filibuster questions. 
- <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 02:34 PM CT, Jan. 16 </p> 
