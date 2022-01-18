@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 02:18 AM CT, Jan. 18 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034010?at_medium=RSS&at_campaign=KARANGA">Afghanistan twin quakes kill at least 22 in poorest areas</a> BBC: Officials say the death toll could rise from two earthquakes which hit the north-west of the nation. 
+ <p class="updated_time"> 09:45 PM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last Covid-free places on Earth. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:18 PM CT, Jan. 17 </p> 
@@ -119,20 +123,16 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/beijing-says-international-mail-is-possible-culprit-in-first-omicron-case-11642421284">Beijing Says International Mail Is Possible Culprit in Omicron Case</a> WSJ: Health authorities in Beijing said they haven’t been able to trace the source of the Chinese capital’s first local Omicron infection but indicated it might have arrived by international mail. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
- <p class="updated_time"> 07:55 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/01/17/1061784984/photos-amazon-manaus-brazil-covid-pandemic">What happens when isolation goes beyond a pandemic </a> NPR: Photographer Raphael Alves documented how socioeconomic issues worsen the COVID-19 pandemic in the state of Amazonas, Brazil. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 07:37 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60024367?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Organisers will not sell tickets to general public</a> BBC: Organisers of this year's Winter Olympics in Beijing have cancel plans to sell tickets to the general public as part of strict Covid-19 restrictions in the Chinese capital. 
- <p class="updated_time"> 06:17 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/full-recovery-in-global-labor-market-could-take-years-11642420548">Full Recovery in Global Labor Market Could Take Years</a> WSJ: New U.N. projections note a divide between rich countries with labor shortages and poor ones where joblessness remains high. 
+ <p class="updated_time"> 06:05 AM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-seeks-to-cushion-blow-of-economic-pain-as-momentum-slows-11642418829">China Seeks to Cushion Blow of Economic Pain as Momentum Slows</a> WSJ: The country’s leaders are hoping that they can put a floor under the economy, which expanded by 4% in the fourth quarter of last year, the slowest pace since the beginning of the Covid-19 recovery. 
  <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
  <p class="updated_time"> 05:48 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60021965?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic arrives back in Serbia after deportation</a> BBC: Novak Djokovic arrives back in Belgrade after losing his Australian visa battle and getting deported. 
- <p class="updated_time"> 05:27 AM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-president-left-out-of-u-s-russia-talks-picks-domestic-fights-11642436839">Ukraine's President, Left Out of U.S.-Russia Talks, Picks Domestic Fights</a> WSJ: With its leader firmly on the outside of international summits about the country’s future, Ukraine was buffeted by domestic turbulence as former President Petro Poroshenko returned from abroad to face charges of treason and financing terrorism. 
  <p class="updated_time"> 04:35 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/iran-demands-legal-pledge-that-u-s-wont-quit-nuclear-deal-again-11642429074">Iran Demands Legal Pledge That U.S. Won't Quit Nuclear Deal Again</a> WSJ: Tehran’s demand, a reaction to former President Donald Trump’s withdrawal from the 2015 nuclear deal, appears to be a paramount political objective for Iran’s government, say U.S. and European diplomats at talks in Vienna. 
  <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
@@ -145,12 +145,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60019990?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles again amid unusual flurry of tests</a> BBC: It has conducted four launches in two weeks - an unusual frequency for this time of the year. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
- <p class="updated_time"> 08:40 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/tonga-left-largely-cut-off-after-volcanic-eruption-tsunami-11642405227">Tonga Left Largely Cut Off After Volcanic Eruption, Tsunami</a> WSJ: An ash cloud threatens clean-water supplies in the Pacific nation, while the disaster may have caused a break in an undersea internet cable that connects Tonga to the rest of the world. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 05:21 PM CT, Jan. 16 </p> 
- <a href="https://www.wsj.com/articles/china-gdp-grew-8-1-in-2021-though-momentum-slowed-in-fourth-quarter-11642386349">China GDP Grew 8.1% in 2021, but Momentum Slowed in Quarter</a> WSJ: Underscoring concerns about China’s growth outlook, the central bank slashed two sets of interest rates, which will fuel expectations for an additional cut to benchmark lending rates. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
