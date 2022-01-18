@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
+ <p class="updated_time"> 05:12 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:50 PM CT, Jan. 18 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 04:34 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60046371?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Race for vital supplies to reach volcano-hit islands</a> BBC: Teams work desperately to clear ash from airport runways so planes can deliver food and drinking water. 
- <p class="updated_time"> 04:30 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
  <p class="updated_time"> 04:27 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881756/former-army-general-on-how-the-u-s-could-back-a-ukranian-insurgency-against-russ">Former army general on how the U.S. could back a Ukranian insurgency against Russia</a> NPR: NPR's Mary Louise Kelly talks with Peter Zwack, former U.S. Army Brigadier General and global fellow at the Wilson Center, about the possibility of the U.S. arming Ukraine in an insurgency. 
  <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073881728/in-afghanistan-a-food-crisis-is-worsening">In Afghanistan, a food crisis is worsening</a> NPR: NPR's Mary Louise Kelly speaks with Filipe Ribeiro, the Afghanistan representative for Doctors Without Borders, to hear about the severe lack of food the country is facing. 
  <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
- <p class="updated_time"> 03:26 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
@@ -204,20 +204,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans mask giveaway as Omicron surges</a> Politico: The federal government has 737 million N95 masks in the Strategic National Stockpile sourced from 12 domestic manufacturers. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
+ <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-role-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
+ <p class="updated_time"> 05:09 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Committee</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and three others. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Rudy Giuliani and 3 Others Subpoenaed by Jan. 6 Inquiry</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and three others. 
+ <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
  <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073898495/jan-6-panel-subpoenas-rudy-giuliani-other-lawyers-tied-to-false-election-claims">Jan. 6 panel subpoenas Rudy Giuliani, other lawyers tied to false election claims</a> NPR: The panel wants to hear from lawyers who advanced Trump's false claims of election fraud. 
  <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Senate Dems free-fall toward filibuster face-off without a parachute</a> Politico: They're leaning toward voting on the revival of the "talking filibuster" this week. But the votes still aren't there. 
+ <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
  <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
@@ -229,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-latino-midterm-527265">Latino Dems warn about midterm fall-off</a> Politico: "The first step is admitting there’s a problem, and there’s a lot of people in my movement and my party that don’t," said one strategist. 
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: The free at-home COVID-19 tests are expected to be delivered by USPS later this month. The White House said the site is in "beta testing" and will be launched formally Wednesday. 
+ <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for free COVID-19 test kits</a> NPR: The at-home tests are expected to be delivered by USPS later this month. The White House said the site is in "beta testing" and will be launched formally Wednesday. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
@@ -267,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Supreme Court justices aren't 'scorpions,' but not happy campers either</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
+ <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Gorsuch didn't mask despite Sotomayor's COVID worries, leading her to telework</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
@@ -280,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build. 
- <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073605497/martin-luther-king-jr-memory-honored-with-voting-rights-reform-protests">MLK's memory is honored by demonstrators calling for the passage of voting rights bill</a> NPR: Rev. Martin Luther King Jr. would. have turned 93 on Jan. 15. He was just 39 when he was assassinated in 1968 in Memphis, Tenn. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 07:49 AM CT, Jan. 16 </p> 
- <a href="https://www.cnn.com/2022/01/14/politics/free-home-covid-19-tests-wellness/index.html">Here's how you can get free home Covid-19 tests</a> CNN: Starting Saturday, many Americans can get home Covid-19 tests at no cost through their private insurance. They can obtain the tests from pharmacies, retailers and online vendors. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">Members of Congress Weigh Re-Election Bid Ahead of Midterms</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
- <p class="updated_time"> 04:10 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">Republican Who Voted to Impeach Trump Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
@@ -336,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 14 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oath-keepers-sedition-takeaways/index.html">Takeaways from the landmark sedition indictment against the Oath Keepers and why DOJ acted now</a> CNN: The Justice Department on Thursday announced the first sedition charges related to the January 6 insurrection, a watershed moment in the year-long investigation. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
