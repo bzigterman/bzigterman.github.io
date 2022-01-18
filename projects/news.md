@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
- <p class="updated_time"> 05:53 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch.</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
  <p class="updated_time"> 04:32 PM CT, Jan. 17 </p> 
