@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
+ <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
+ <p class="updated_time"> 10:51 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
  <p class="updated_time"> 10:38 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-taker-mi5.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram had been listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British news media reports. But he had since been deemed to no longer be a risk. 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram had been listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British news media reports. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
  <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 10:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60035448?at_medium=RSS&at_campaign=KARANGA">Metsola: EU parliament elects youngest ever president</a> BBC: Roberta Metsola, from Malta, was asked by journalists about her record of being anti-abortion. 
- <p class="updated_time"> 09:57 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
  <p class="updated_time"> 09:49 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage-taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage, was investigated but deemed no longer a threat. 
  <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong to cull 2,000 hamsters and small mammals over Covid case</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
- <p class="updated_time"> 06:35 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">Tonga's Volcano Aftereffects Could Include Covid</a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
@@ -63,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 05:19 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984858?at_medium=RSS&at_campaign=KARANGA">Colombia saw 145 activists killed in 2021, ombudsman says</a> BBC: Most of the killings were linked to illegal armed groups, the human rights ombudsman says. 
+ <p class="updated_time"> 05:01 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-orders-2-000-hamsters-to-be-killed-after-pet-shop-covid-19-cases-11642518762">Hong Kong Orders 2,000 Hamsters to Be Killed After Pet Shop Covid-19 Cases</a> WSJ: Authorities ordered some 2,000 hamsters in Hong Kong to be killed over concerns that the animals may have transmitted Covid-19 to humans, one of the city’s latest measures to try to stamp out a fresh outbreak. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 04:44 AM CT, Jan. 18 </p> 
@@ -75,8 +79,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
- <p class="updated_time"> 03:55 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Set for Release From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan ‘Liberate Hong Kong, Revolution of Our Times’ is now banned. 
+ <p class="updated_time"> 03:50 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454">Violent Crime, Rising Costs Put South Africa's Mining Industry in a Deep Hole</a> WSJ: Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy. 
  <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
  <p class="updated_time"> 03:19 AM CT, Jan. 18 </p> 
@@ -85,14 +89,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
- <p class="updated_time"> 02:56 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/texas-hostage-taker-was-known-to-u-k-intelligence-11642514176">Texas Hostage Taker Was Known to U.K. Intelligence</a> WSJ: Malik Faisal Akram, from northern England, was the subject of a preliminary investigation by MI5, the U.K.’s domestic intelligence service, in late 2020 but wasn’t deemed to be a sufficient threat to track further. 
  <p class="updated_time"> 02:50 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
- <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/sudan-protesters-begin-strike-as-conflict-with-generals-worsens-11642510196">Sudan Protesters Begin Strike as Conflict With Generals Worsens</a> WSJ: Pro-democracy groups began two days of strikes and civil disobedience in Sudan, a day after security forces fired live rounds and used tear gas to disperse protesters. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 17 </p> 
+ <a href="https://www.wsj.com/articles/taliban-intensify-efforts-to-take-control-of-afghanistans-overseas-embassies-11642501802">Taliban Intensify Efforts to Take Control of Overseas Embassies</a> WSJ: Afghanistan’s new rulers are stepping up a campaign for control of the country’s diplomatic outposts, most of which continue to be run by appointees of the former, U.S.-backed government. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html">Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion</a> NYT: If the West fails to meet its security demands, Moscow could take measures like placing nuclear missiles close to the U.S. coastline, Russian officials have hinted. 
  <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
- <p class="updated_time"> 11:27 PM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/asia/tonga-volcano-tsunami.html">Underwater Volcano Erupts, Setting Off Tsunami Warnings Across Pacific</a> NYT: The volcano erupted near the remote island nation of Tonga, triggering a chain of warnings and causing strong waves as far away as the United States. 
  <p class="updated_time"> 04:14 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
+ <p class="updated_time"> 10:43 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
@@ -211,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and a Former Acolyte.</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">Blinken heads to Ukraine in bid to deescalate Russia tensions</a> Politico: The secretary of State will visit both Kyiv and Berlin this week. 
+ <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">‘We’re still talking’: Biden envoys push diplomacy as Russia-Ukraine tensions build</a> Politico: Secretary of State Antony Blinken will visit both Kyiv and Berlin this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 07:00 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/adams-new-york-city-council-527151">A pro-business retired cop sparks liberal revolt in first few weeks as mayor</a> Politico: By the time Eric Adams was sworn in as the city’s 110th mayor on Jan. 1, he had already tangled with progressives on criminal justice policy. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Accuses Russia of Sending Saboteurs Into Ukraine </a> NYT: The Biden administration said the operatives were trained in urban warfare and explosives and could try to stage an incident. 
- <p class="updated_time"> 07:04 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/democrats-voting-rights.html">Democrats Face a Dilemma on Voting: Compromise or Keep Pressing?</a> NYT: With their broad voting rights push nearing a dead end, Democrats must soon decide whether to embrace a far narrower bipartisan effort to protect vote counting and administration. 
  <p class="updated_time"> 06:59 PM CT, Jan. 14 </p> 
