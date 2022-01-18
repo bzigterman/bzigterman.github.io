@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-johnson-parties-plot.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson. 
+ <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-johnson-parties-plot.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
+ <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 01:58 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60044529?at_medium=RSS&at_campaign=KARANGA">Nigeria shoot-to-kill order issued over jail breaks</a> BBC: It follows a wave of prison breaks over the past year in which more than 5,000 inmates have escaped. 
  <p class="updated_time"> 01:39 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 01:35 PM CT, Jan. 18 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons </a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
  <p class="updated_time"> 01:10 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">Mobile firms agree another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
- <p class="updated_time"> 01:03 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073828708/israel-spyware-citizens-nso-group">Israeli police used spyware to hack its own citizens, an Israeli newspaper reports</a> NPR: According to a report in Israeli media, Israel has hacked activists, mayors and other Israeli citizens without judicial oversight using spyware from the controversial NSO Group. 
  <p class="updated_time"> 12:32 PM CT, Jan. 18 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
- <p class="updated_time"> 05:19 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59984858?at_medium=RSS&at_campaign=KARANGA">Colombia saw 145 activists killed in 2021, ombudsman says</a> BBC: Most of the killings were linked to illegal armed groups, the human rights ombudsman says. 
  <p class="updated_time"> 05:01 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-orders-2-000-hamsters-to-be-killed-after-pet-shop-covid-19-cases-11642518762">Hong Kong Orders 2,000 Hamsters to Be Killed After Pet Shop Covid-19 Cases</a> WSJ: Authorities ordered some 2,000 hamsters in Hong Kong to be killed over concerns that the animals may have transmitted Covid-19 to humans, one of the city’s latest measures to try to stamp out a fresh outbreak. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
@@ -215,11 +215,11 @@ permalink: /projects/news/
  <p class="updated_time"> 02:02 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/wireless-companies-agree-to-additional-5g-curbs-in-bid-to-avert-flight-chaos-527303">Wireless companies agree to additional 5G curbs in bid to avert flight chaos</a> Politico: 5G has the potential to interfere with aircraft altimeters, devices that measure how high a plane is off the ground, among other interconnected avionics and equipment. 
  <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/dems-latino-midterm-527265">Latino Dems warn about midterm fall-off</a> Politico: "The first step is admitting there’s a problem, and there’s a lot of people in my movement and my party that don’t," said one strategist. 
- <p class="updated_time"> 01:03 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/dems-latino-midterm-527265">Latino Dems warn about midterm fall-off</a> Politico: "The first step is admitting there’s a problem, and there’s a lot of people in my movement and my party that don’t," said one strategist. 
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: Tests are expected to be delivered later this month. White House press secretary Jen Psaki says the test kit ordering site is in the "beta testing" stage and will be launched formally Wednesday. 
+ <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: The free at-home COVID-19 tests are expected to be delivered by USPS later this month. The White House said the site is in "beta testing" and will be launched formally Wednesday. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
