@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
- <p class="updated_time"> 05:21 AM CT, Jan. 18 </p> 
+ <p class="updated_time"> 05:29 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
+ <p class="updated_time"> 05:29 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid-monitoring app to be used by all Games attendees has security risks, analysts warn. 
- <p class="updated_time"> 05:15 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 11:30 PM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/taliban-intensify-efforts-to-take-control-of-afghanistans-overseas-embassies-11642501802">Taliban Intensify Efforts to Take Control of Overseas Embassies</a> WSJ: Afghanistan’s new rulers are stepping up a campaign for control of the country’s diplomatic outposts, most of which continue to be run by appointees of the former, U.S.-backed government. 
- <p class="updated_time"> 11:19 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60034050?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping defends 'common prosperity' crackdowns</a> BBC: The Chinese leader made the comments during an address to the World Economic Forum’s annual meeting. 
  <p class="updated_time"> 11:10 PM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/kim-jong-uns-january-missile-test-barrage-is-fast-but-not-furious-11642500645">Kim Jong Un's January Missile-Test Barrage Is Fast but Not Furious</a> WSJ: North Korea’s spree of weapons launches carries strategic purpose, both in defense and diplomacy, security experts say. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751">Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">GOP pulls debate threat from Trump playbook</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
@@ -270,12 +274,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
  <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
  <a href="https://www.npr.org/2022/01/16/1073459197/politics-chat-bidens-tough-week-mask-or-test-mandates-the-future-of-the-filibust">Politics chat: Biden's tough week; mask-or-test mandates; the future of the filibuster</a> NPR: We take a look at President Biden's tough week, after the Supreme Court dealt a blow to his mask-or-test mandate for large employers and his attempt to reform the the filibuster died in the Senate. 
- <p class="updated_time"> 06:59 AM CT, Jan. 16 </p> 
- <a href="https://www.npr.org/2022/01/16/1073459148/20-years-in-whats-next-for-guantanamo-bay-and-the-39-prisoners-still-there">20 years in, what's next for Guantanamo Bay and the 39 prisoners still there </a> NPR: NPR's Sacha Pfeiffer talks with Karen Greenberg, director of the Center on National Security at Fordham University School, about the future of the U.S. military court and prison at Guantanamo Bay. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/colleges-covid-coronavirus.html">Some Colleges Loosen Rules for a Virus That Won’t Go Away</a> NYT: There is talk about moving from ‘containment to management,’ with fewer restrictions as spring semester progresses. 
- <p class="updated_time"> 08:41 PM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073407803/directv-to-drop-one-america-news-network">DirecTV to drop One America News Network</a> NPR: The far-right, pro-Trump news outlet has a reputation for spreading conspiracy theories. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
  <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
