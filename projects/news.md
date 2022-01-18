@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
+ <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
  <p class="updated_time"> 03:38 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/60035898?at_medium=RSS&at_campaign=KARANGA">Brooklyn Nets' Kyrie Irving adamant on vaccine refusal</a> BBC: Kyrie Irving will not change his mind and get vaccinated against Covid-19 despite an injury to fellow Brooklyn Nets player Kevin Durant. 
  <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
@@ -41,14 +49,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last Covid-free places on Earth. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
- <p class="updated_time"> 09:18 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60034140?at_medium=RSS&at_campaign=KARANGA">Hong Kong police charge two former aircrew over Covid rules</a> BBC: If convicted, the two former flight attendants could face up to six months in prison. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
- <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60033012?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: UK sending weapons to defend Ukraine, says defence secretary</a> BBC: The defence secretary says he is sending short-range anti-tank missiles amid Russian invasion fears. 
  <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:42 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60026748?at_medium=RSS&at_campaign=KARANGA">Plastic crisis needs binding treaty, report says</a> BBC: Pollution from plastics is a global emergency in need of a robust UN treaty, according to a report. 
- <p class="updated_time"> 06:39 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 06:34 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/59870550?at_medium=RSS&at_campaign=KARANGA">Anti-vax protests: ‘Sovereign citizens’ fight UK Covid vaccine rollout</a> BBC: Activists with anti-vax beliefs are taking "direct action" against hospitals and schools. 
  <p class="updated_time"> 06:16 PM CT, Jan. 17 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661298/france-ramps-up-nuclear-power-as-germany-closes-plants-in-the-name-of-clean-ener">France ramps up nuclear power as Germany closes plants in the name of clean energy</a> NPR: As Europe strives to curb carbon emissions, Germany and France are at odds over whether nuclear power is clean. German public opinion has forced the closure of nuclear plants as France forges ahead. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661291/frances-nuclear-power-program-sparks-tensions-with-germany-over-what-is-clean-en">France's nuclear power program sparks tensions with Germany over what is clean energy</a> NPR: As Europe strives to curb greenhouse gas emissions, France is expanding nuclear power — setting itself at odds with Germany over what constitutes clean energy. 
- <p class="updated_time"> 02:29 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60024228?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal suspect identified after 77 years</a> BBC: A new investigation identifies a suspect who may have told the Nazis about the Jewish diarist's hideout. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
@@ -117,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
  <p class="updated_time"> 10:52 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
- <p class="updated_time"> 09:45 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073597684/beijing-olympics-tickets">China will no longer sell tickets to the Beijing Winter Olympics due to COVID-19</a> NPR: Instead of selling tickets to the general public, organizers announced Monday that they would invite groups of spectators to attend the games in person. 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 09:05 AM CT, Jan. 17 </p> 
@@ -143,10 +141,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 02:53 AM CT, Jan. 17 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-gets-heros-welcome-in-serbia-after-expulsion-from-australia-11642427637">Novak Djokovic Gets Hero's Welcome in Serbia After Expulsion From Australia</a> WSJ: After landing in his home country, the tennis star was met by a crowd of supporters wrapped in flags. The tallest skyscraper in the Balkan nation displayed a giant message declaring him “the pride of Serbia.” 
+ <p class="updated_time"> 11:31 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60020533?at_medium=RSS&at_campaign=KARANGA">Djokovic: Australian Open fans react to tennis star's absence</a> BBC: The men's tennis number one will no longer appear at the tournament, after his visa was cancelled. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/australia/djokovic-deported.html">How the ‘Djokovic Affair’ Finally Came to an End</a> NYT: Novak Djokovic lost to a government with powerful laws, determined to make an example out of him. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/59980104?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Your concerns answered</a> BBC: BBC Reality Check answers your vaccine concerns - from pregnancy fears to production speed. 
  <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
  <p class="updated_time"> 06:09 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/revil-ransomware-russia-arrests.html">Ransomware Group REvil Dismantled in Raids, Russia Says</a> NYT: Moscow said the ransomware group REvil “ceased to exist” after raids and arrests. It is not clear if the operation will ease tensions with Washington. 
- <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
 
 
 </details>
@@ -198,12 +198,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
+ <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 08:31 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
@@ -278,16 +282,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/15/1073338926/what-the-future-holds-for-democracy-in-the-u-s">What the future holds for democracy in the U.S.</a> NPR: NPR's Michel Martin talks with political scientist Steven Levitsky of Harvard University about the future of American democracy. 
  <p class="updated_time"> 02:03 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html">One America News Will Be Dropped by DirecTV, a Major Distributor</a> NYT: The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines. 
- <p class="updated_time"> 11:37 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073338121/2020-census-interference-trump">Trump officials interfered with the 2020 census beyond cutting it short, email shows</a> NPR: The email details the scope of the former administration's attempts to tamper with the count, including pressuring the Census Bureau to alter plans for protecting privacy and producing accurate data. 
  <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris pushed hard for voting rights — then hit a brick wall</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:39 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
- <p class="updated_time"> 07:31 AM CT, Jan. 15 </p> 
- <a href="https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia">Republican Glenn Youngkin is sworn in as the governor of Virginia</a> NPR: The businessman, the first Republican to hold the office in nearly a decade, took the oath alongside Lt. Gov. Winsome Sears. The pair surprised Democrats when they swept office in November. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 08:41 PM CT, Jan. 14 </p> 
