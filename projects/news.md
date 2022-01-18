@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
+ <p class="updated_time"> 05:21 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Islands devastated by deadly tsunami, Tonga says</a> BBC: Tonga's government gives its first statement since a volcanic eruption caused a deadly tsunami to hit the island nation. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid-monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 05:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
@@ -26,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:38 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/60035898?at_medium=RSS&at_campaign=KARANGA">Brooklyn Nets' Kyrie Irving adamant on vaccine refusal</a> BBC: Kyrie Irving will not change his mind and get vaccinated against Covid-19 despite an injury to fellow Brooklyn Nets player Kevin Durant. 
  <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines says the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
+ <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
  <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
- <p class="updated_time"> 03:51 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60027351?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes escape from gunman</a> BBC: Charlie Cytron-Walker was one of four people taken hostage by British citizen Malik Faisal Akram. 
  <p class="updated_time"> 03:46 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661312/the-free-press-in-hong-kong-is-under-fire-from-the-chinese-government-critics-sa">The free press in Hong Kong is under fire from the Chinese government, critics say</a> NPR: Critics say the Chinese government is targeting Hong Kong's free press. The Hong Kong Journalists' Association is trying to protect freedom of the press, but it's unclear how much longer it can do so. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
@@ -121,10 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073592203/villa-aurora-princess-rita-boncompagni-ludovisi">An epic inheritance fight will soon cost a Texas-born princess her 16th century villa</a> NPR: After years of legal wrangling, the sprawling Roman villa filled with masterpieces from antiquity to the Renaissance will hit the auction block Tuesday with a starting price of $534 million. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
- <p class="updated_time"> 11:33 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/17/1073623759/in-greece-unvaccinated-people-ages-60-and-up-now-face-monthly-fines">In Greece, unvaccinated people ages 60 and up now face monthly fines </a> NPR: The nation imposed the new mandate on Monday as it looks to bring its vaccination rate closer in line with the EU average. The unvaccinated will face penalties starting at 50 euros, or roughly $57. 
- <p class="updated_time"> 11:17 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073618330/anne-frank-cold-case-investigation">Cold case team believes it has solved the mystery of who may have betrayed Anne Frank</a> NPR: The diary Anne wrote while in hiding became a symbol of hope and resilience read by millions. But the identity of the person who disclosed her hiding place has always remained a mystery. 
  <p class="updated_time"> 10:52 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 09:08 AM CT, Jan. 17 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/asia/myanmar-electricity-civil-disobedience.html">Pay Your Power Bill, Myanmar Soldiers Say, or Pay With Your Life</a> NYT: Facing a huge loss of revenue amid economic turmoil, the military has sent soldiers to act as debt collectors. 
  <p class="updated_time"> 05:00 AM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html">Ontario Town Still Searching for Answers in Gas Leak Explosion</a> NYT: Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center. 
- <p class="updated_time"> 02:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/business/cambodia-arrests-internet.html">Cambodia’s Internet May Soon Be Like China’s: State-Controlled</a> NYT: Under a new decree, all web traffic will be routed through a government portal. Rights groups say a crackdown on digital expression is about to get worse. 
 
 
 </details>
