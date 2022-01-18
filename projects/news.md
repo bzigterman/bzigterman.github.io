@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
+ <p class="updated_time"> 05:41 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
- <p class="updated_time"> 05:29 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60038207?at_medium=RSS&at_campaign=KARANGA">Texas synagogue hostage taker was known to MI5</a> BBC: Malik Faisal Akram, who took four people hostage in the US, was investigated in 2020 by UK services. 
- <p class="updated_time"> 05:29 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 05:17 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">My2022: Beijing Olympics app vulnerable to data breaches, analysts warn</a> BBC: A mandatory Covid-monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 09:45 PM CT, Jan. 17 </p> 
- <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last Covid-free places on Earth. 
+ <a href="https://www.wsj.com/articles/after-volcano-eruption-tonga-needs-to-bring-in-aid-but-keep-out-covid-19-11642495532">After Volcano Eruption, Tonga Needs to Bring In Aid but Keep Out Covid-19</a> WSJ: In the aftermath of a volcanic eruption and tsunami that ravaged parts of Tonga, governments and humanitarian agencies are wrestling with how to get aid safely into one of the last coronavirus-free places on Earth. 
  <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
