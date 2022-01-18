@@ -128,7 +128,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsburg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
+ <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsberg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
  <p class="updated_time"> 01:19 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
@@ -384,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">What to know about the Senate's nuclear option</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
- <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
