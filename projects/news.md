@@ -75,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60035448?at_medium=RSS&at_campaign=KARANGA">Metsola: EU parliament elects youngest ever president</a> BBC: Roberta Metsola, from Malta, was asked by journalists about her record of being anti-abortion. 
  <p class="updated_time"> 09:49 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
- <p class="updated_time"> 09:48 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The attack showed how Iran’s allies in Yemen have become emboldened in striking Middle East rivals after emerging stronger from years of civil war. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -117,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
  <p class="updated_time"> 03:50 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454">Violent Crime, Rising Costs Put South Africa's Mining Industry in a Deep Hole</a> WSJ: Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy. 
- <p class="updated_time"> 03:19 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-former-president-breaks-silence-over-unrest-backs-successor-11642515587">Kazakhstan's Former President Breaks Silence Over Unrest, Backs Successor</a> WSJ: Nursultan Nazarbayev, in his first public comments since recent turmoil engulfed the Central Asian nation, denied that he had been embroiled in political infighting and expressed confidence in the current leader. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
@@ -204,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
  <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul‘s rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
