@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
+ <p class="updated_time"> 12:26 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 12:17 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">AT&T agrees another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
  <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:45 AM CT, Jan. 18 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
- <p class="updated_time"> 09:41 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -53,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
  <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
+ <p class="updated_time"> 07:25 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones and Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The militants in Yemen used a mix of ballistic missiles, cruise missiles and drones to target Abu Dhabi and parts of Saudi Arabia on Monday, in one of the Iran-backed group’s most audacious attacks on its Gulf rivals in years, according to people briefed on the United Arab Emirates’ preliminary probe. 
  <p class="updated_time"> 06:47 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong to cull 2,000 hamsters and small mammals over Covid case</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-orders-2-000-hamsters-to-be-killed-after-pet-shop-covid-19-cases-11642518762">Hong Kong Orders 2,000 Hamsters to Be Killed After Pet Shop Covid-19 Cases</a> WSJ: Authorities ordered some 2,000 hamsters in Hong Kong to be killed over concerns that the animals may have transmitted Covid-19 to humans, one of the city’s latest measures to try to stamp out a fresh outbreak. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
- <p class="updated_time"> 04:44 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Barrage of Drones and Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: Houthi militants in Yemen used a mix of ballistic missiles, cruise missiles and drones to target Abu Dhabi and parts of Saudi Arabia on Monday, in one of the Iran-backed group’s most audacious attacks on its Gulf rivals in years, according to people briefed on the United Arab Emirates’ preliminary investigation. 
  <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
  <p class="updated_time"> 03:50 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454">Violent Crime, Rising Costs Put South Africa's Mining Industry in a Deep Hole</a> WSJ: Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy. 
- <p class="updated_time"> 03:30 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-60036831?at_medium=RSS&at_campaign=KARANGA">US airlines warn of impending 5G flight disruption</a> BBC: Airlines say the start of 5G mobile phone services on Wednesday will hit aircraft navigation systems. 
  <p class="updated_time"> 03:19 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-former-president-breaks-silence-over-unrest-backs-successor-11642515587">Kazakhstan's Former President Breaks Silence Over Unrest, Backs Successor</a> WSJ: Nursultan Nazarbayev, in his first public comments since recent turmoil engulfed the Central Asian nation, denied that he had been embroiled in political infighting and expressed confidence in the current leader. 
  <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/world/china-masks-usa.html">Americans Are Now Learning What People in East Asia Already Knew About Masks</a> NYT: In some parts of Asia, surgical masks became commonplace during SARS epidemic of 2002-2003. 
  <p class="updated_time"> 01:38 PM CT, Jan. 15 </p> 
  <a href="https://www.nytimes.com/2022/01/15/world/cvs-walgreens-omicron.html">CVS, Walgreens Announce Weekend Closures as Omicron Cases Soar</a> NYT: Both chains said the vast majority of their stores will remain open. 
- <p class="updated_time"> 10:00 AM CT, Jan. 15 </p> 
- <a href="https://www.nytimes.com/2022/01/15/world/europe/france-lepen.html">Marine Le Pen, Kicking Off Her Campaign, Tries to Embody Credibility</a> NYT: Ms. Le Pen has bet that sanitizing her far-right party’s image will finally bear fruit in the run-up to France’s presidential election in April. 
 
 
 </details>
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for COVID-19 test kits</a> NPR: Tests are expected to be delivered later this month. White House Press Secretary Jen Psaki says the test kit ordering site is in the "beta testing" stage and will be launched formally Wednesday. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
@@ -217,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and a Former Acolyte.</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">‘We’re still talking’: Biden envoys push diplomacy as Russia-Ukraine tensions build</a> Politico: Secretary of State Antony Blinken will visit both Kyiv and Berlin this week. 
+ <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams 'extremely dangerous' Russian troop deployment to Belarus</a> Politico: Secretary of State Antony Blinken will visit both Kyiv and Berlin this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/17/alzheimers-coverage-patient-groups-cms-527170">‘Not a tolerable situation’: Patient groups take aim at CMS over Alzheimer’s coverage decision</a> Politico: Their goal is to strong arm the Centers for Medicare and Medicaid Services into covering Aduhelm, the $28,200-per-year drug, for far more people. 
  <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073566425/as-biden-prepares-to-mark-1-year-in-office-there-may-not-be-a-celebratory-mood">As Biden prepares to mark 1 year in office, there may not be a celebratory mood </a> NPR: NPR's A Martinez speaks to political strategist Matt Bennett on President Biden's messaging challenges, and what's needed to advance the White House agenda. 
- <p class="updated_time"> 04:03 AM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073566411/backlog-of-2020-returns-interferes-with-this-years-tax-filing-season">Backlog of 2020 returns interferes with this year's tax filing season</a> NPR: NPR's A Martinez speaks to National Taxpayer Advocate Erin Collins about the issues facing the Internal Revenue Service — including a potential crisis this year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/tuskegee-airman-charles-mcgee-dies-at-102-527235">Celebrated Tuskegee Airman Charles McGee dies at 102</a> Politico: He flew in World War II, the Korean War and the Vietnam War. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
- <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
