@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
+ <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
+ <p class="updated_time"> 03:45 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
+ <p class="updated_time"> 03:43 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
+ <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A Delta outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A pet shop outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 02:58 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60042491?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK released without charge</a> BBC: Greater Manchester Police say the pair, detained in south Manchester, have not been charged. 
  <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
- <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:16 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60039617?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami sparks 'unprecedented disaster', government says</a> BBC: Tonga's government gives its first statement since a deadly tsunami to hit the island nation. 
  <p class="updated_time"> 02:15 PM CT, Jan. 18 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60044529?at_medium=RSS&at_campaign=KARANGA">Nigeria shoot-to-kill order issued over jail breaks</a> BBC: It follows a wave of prison breaks over the past year in which more than 5,000 inmates have escaped. 
  <p class="updated_time"> 01:39 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
- <p class="updated_time"> 01:35 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html">Ingrid Betancourt to Make a Bid for President of Colombia</a> NYT: Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake. 
  <p class="updated_time"> 01:27 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons</a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
  <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
@@ -37,16 +43,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
  <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
- <p class="updated_time"> 11:45 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to a U.S. official and British media reports. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
  <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
+ <p class="updated_time"> 11:02 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60045076?at_medium=RSS&at_campaign=KARANGA">Backlash as US billionaire dismisses Uyghur abuse</a> BBC: Chamath Palihapitiya says he and most Americans "don't care" about alleged human rights abuse of the Uyghur minority. 
  <p class="updated_time"> 10:51 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
+ <p class="updated_time"> 10:34 AM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Agents as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
  <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
@@ -59,12 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59942626?at_medium=RSS&at_campaign=KARANGA">Saudis warned of jail time for posting rumours after harassment claims</a> BBC: Women fear being silenced over claims of sexual harassment after a concert was cancelled in Riyadh. 
  <p class="updated_time"> 09:48 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/houthis-fired-barrage-of-drones-and-missiles-in-abu-dhabi-attack-investigation-finds-11642515339">Houthis Fired Drones, Missiles in Abu Dhabi Attack, Investigation Finds</a> WSJ: The attack showed how Iran’s allies in Yemen have become emboldened in striking Middle East rivals after emerging stronger from years of civil war. 
- <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
- <p class="updated_time"> 08:42 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Agents as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454">Violent Crime, Rising Costs Put South Africa's Mining Industry in a Deep Hole</a> WSJ: Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy. 
  <p class="updated_time"> 03:19 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-former-president-breaks-silence-over-unrest-backs-successor-11642515587">Kazakhstan's Former President Breaks Silence Over Unrest, Backs Successor</a> WSJ: Nursultan Nazarbayev, in his first public comments since recent turmoil engulfed the Central Asian nation, denied that he had been embroiled in political infighting and expressed confidence in the current leader. 
- <p class="updated_time"> 03:04 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60035675?at_medium=RSS&at_campaign=KARANGA">Australian Open: Tennis Australia 'deeply regrets' impact of Novak Djokovic saga</a> BBC: The Novak Djokovic visa saga was "a significant distraction for everyone", say Australian Open organisers. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
  <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/17/1073661382/uae-has-promised-to-respond-after-drone-attacks-by-yemens-houthi-rebels">UAE has promised to respond after drone attacks by Yemen's Houthi rebels</a> NPR: Explosions in Abu Dhabi killed three people near fuel trucks. Houthi rebels claim they've struck the United Arab Emirates for its fight against them in Yemen and the UAE promises to respond. 
  <p class="updated_time"> 03:58 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073661347/sudans-pro-democracy-movement-hopes-to-force-a-transition-to-civilian-rule">Sudan's pro-democracy movement hopes to force a transition to civilian rule</a> NPR: NPR's Mary Louise Kelly chats with Kholood Khair, managing partner of a think tank in Khartoum, about ongoing pro-democracy protests in Sudan. 
- <p class="updated_time"> 03:46 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073661312/the-free-press-in-hong-kong-is-under-fire-from-the-chinese-government-critics-sa">The free press in Hong Kong is under fire from the Chinese government, critics say</a> NPR: Critics say the Chinese government is targeting Hong Kong's free press. The Hong Kong Journalists' Association is trying to protect freedom of the press, but it's unclear how much longer it can do so. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
@@ -386,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
- <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
 
 
 </details>
