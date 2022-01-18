@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
  <p class="updated_time"> 09:44 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 09:41 AM CT, Jan. 18 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes advised to use burner phones in Beijing</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
- <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Inheritance dispute leads to €471m auction</a> BBC: The €471m property is at the centre of an inheritance dispute between a princess and her stepsons. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
