@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson signals that he might ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
+ <p class="updated_time"> 02:20 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken arrives in Kyiv amid Russia invasion fears</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 02:00 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 01:25 AM CT, Jan. 19 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
  <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
- <p class="updated_time"> 11:02 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken flies to Europe amid Russia invasion fears</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as troops mass near the border. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 08:46 PM CT, Jan. 18 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 07:28 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
- <p class="updated_time"> 07:14 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
  <p class="updated_time"> 06:27 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60048604?at_medium=RSS&at_campaign=KARANGA">US Capitol riot committee issues subpoena to Rudy Giuliani</a> BBC: The former Trump lawyer is among four aides slapped with subpoenas by the congressional inquiry. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
