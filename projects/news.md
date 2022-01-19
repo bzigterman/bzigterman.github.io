@@ -65,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A pet shop outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
+ <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Released From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan “Liberate Hong Kong, Revolution of Our Times” is now banned. 
  <p class="updated_time"> 02:15 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60045077?at_medium=RSS&at_campaign=KARANGA">Mobile firms agree another 5G delay at US airports</a> BBC: Airlines have pushed for postponement, saying risks from 5G will force them to cancel flights. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
