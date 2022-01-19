@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women facing rape threats and abuses on Clubhouse</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
  <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be censored on social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
+ <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should social media sites censor misinformation?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
  <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
- <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
