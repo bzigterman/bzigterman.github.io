@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
+ <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
  <p class="updated_time"> 04:26 AM CT, Jan. 19 </p> 
@@ -48,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women facing rape threats and abuses on Clubhouse</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
  <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should social media sites censor misinformation?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
+ <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be censored on social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
  <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
@@ -191,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
- <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
- <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
 
 
 </details>
