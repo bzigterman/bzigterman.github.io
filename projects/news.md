@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
+ <p class="updated_time"> 06:34 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60054554?at_medium=RSS&at_campaign=KARANGA">Ashling Murphy: Further arrest in murder investigation</a> BBC: Irish police are questioning a man about withholding information over the killing of Ashling Murphy. 
  <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
- <p class="updated_time"> 11:02 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-60045076?at_medium=RSS&at_campaign=KARANGA">Backlash as US billionaire dismisses Uyghur abuse</a> BBC: Chamath Palihapitiya says he and most Americans "don't care" about alleged human rights abuse of the Uyghur minority. 
  <p class="updated_time"> 10:34 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Agents as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
