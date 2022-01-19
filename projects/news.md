@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:03 AM CT, Jan. 19 </p> 
+ <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
+ <p class="updated_time"> 07:14 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
+ <p class="updated_time"> 07:07 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 06:38 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
- <p class="updated_time"> 06:37 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
