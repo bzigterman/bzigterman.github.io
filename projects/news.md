@@ -186,6 +186,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
+ <p class="updated_time"> 03:56 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172870/supreme-court-heard-cruz-case-about-using-post-election-contributions-to-repay-l">Supreme Court heard Cruz case about using post-election contributions to repay loans </a> NPR: The U.S. Supreme Court heard arguments in Republican Sen. Ted Cruz's bid to undo a provision limiting the amount of money candidates can be reimbursed for personal loans to their own campaigns. 
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
@@ -200,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172770/president-biden-holds-rare-formal-press-conference-to-mark-his-1st-year-office">President Biden holds rare formal press conference to mark his 1st year office</a> NPR: President Biden held a rare formal press conference to mark his first year office. It comes at a particularly difficult point in his presidency. 
  <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
- <p class="updated_time"> 03:17 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
  <p class="updated_time"> 03:09 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074140845/federal-judge-muslim-woman">Biden's latest picks include 1st Muslim woman nominated to serve as a federal judge</a> NPR: Nusrat Choudhury is among eight new judicial nominees announced by the president. The White House said the nominees reflect his commitment to diversifying historically white, male-dominated positions. 
  <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
- <p class="updated_time"> 12:36 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074000357/new-yorks-attorney-general-says-trumps-company-misled-banks-tax-officials">New York's attorney general says Trump's company misled banks, tax officials</a> NPR: Letitia James' office gave its most detailed accounting yet of its probe into allegations that Trump's company repeatedly misstated the value of assets to get favorable loans or slash its tax burden. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
@@ -364,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
- <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
 
 
 </details>
