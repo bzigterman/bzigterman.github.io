@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-press.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:48 AM CT, Jan. 19 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 07:36 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a  meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
- <p class="updated_time"> 07:34 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 07:14 AM CT, Jan. 19 </p> 
@@ -163,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
  <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
- <p class="updated_time"> 09:33 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/petro-poroshenko-russia-ukraine.html">Poroshenko, Ex-President, Returns to Ukraine, Roiling Politics</a> NYT: Petro O. Poroshenko, a former president, returned to Kyiv on Monday facing possible arrest, adding internal political turmoil to a threat of Russian invasion. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
@@ -245,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Up and Running</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
@@ -263,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:09 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
  <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
