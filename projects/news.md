@@ -7,6 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
+ <p class="updated_time"> 06:34 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60048604?at_medium=RSS&at_campaign=KARANGA">US Capitol riot committee issues subpoena to Rudy Giuliani</a> BBC: The former Trump lawyer is among four aides slapped with subpoenas by the congressional inquiry. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
+ <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women put on sale on Clubhouse for their views</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
+ <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be taken off social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
+ <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59991321?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China sells Xinjiang as a winter sports hub</a> BBC: Many foreign firms hoping to ride the Olympics boom are investing heavily in the troubled region. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden: Scoring the US president's first year in office</a> BBC: Highs and lows of the president's first year - in six charts. 
  <p class="updated_time"> 05:36 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch.</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
  <p class="updated_time"> 05:17 PM CT, Jan. 18 </p> 
@@ -35,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A pet shop outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
- <p class="updated_time"> 02:58 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60042491?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Teens held in UK released without charge</a> BBC: Greater Manchester Police say the pair, detained in south Manchester, have not been charged. 
  <p class="updated_time"> 02:40 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 02:15 PM CT, Jan. 18 </p> 
@@ -79,6 +95,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
+ <p class="updated_time"> 08:27 AM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the imminent rollout of 5G services could be disastrous. 
  <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes advised to use burner phones in Beijing</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
@@ -95,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
- <p class="updated_time"> 05:43 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60037173?at_medium=RSS&at_campaign=KARANGA">Ivermectin: Arkansas inmates sue over Covid treatment with horse dewormer</a> BBC: The prisoners say they were unknowingly prescribed the drug despite warnings from health officials. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
@@ -107,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-orders-2-000-hamsters-to-be-killed-after-pet-shop-covid-19-cases-11642518762">Hong Kong Orders 2,000 Hamsters to Be Killed After Pet Shop Covid-19 Cases</a> WSJ: Authorities ordered some 2,000 hamsters in Hong Kong to be killed over concerns that the animals may have transmitted Covid-19 to humans, one of the city’s latest measures to try to stamp out a fresh outbreak. 
  <p class="updated_time"> 05:00 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
- <p class="updated_time"> 04:22 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60036255?at_medium=RSS&at_campaign=KARANGA">French skier investigated over collision with British girl</a> BBC: A skier who hit a five-year-old in the French Alps who then died faces a possible charge of manslaughter. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
@@ -141,12 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with the police to try to “talk him down.’’ 
  <p class="updated_time"> 06:43 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
- <p class="updated_time"> 06:34 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/59870550?at_medium=RSS&at_campaign=KARANGA">Anti-vax protests: ‘Sovereign citizens’ fight UK Covid vaccine rollout</a> BBC: Activists with anti-vax beliefs are taking "direct action" against hospitals and schools. 
- <p class="updated_time"> 06:16 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60024742?at_medium=RSS&at_campaign=KARANGA">How Nigeria succeeded in clipping Twitter's wings</a> BBC: Some fear that Twitter agreeing to new rules in Nigeria may encourage others to restrict social media. 
- <p class="updated_time"> 06:14 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60020410?at_medium=RSS&at_campaign=KARANGA">Collarwali: Remembering India’s ‘super mum’ tigress</a> BBC: Charismatic Collarwali played a key role in boosting tiger numbers and made her sanctuary famous. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
@@ -163,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsberg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
- <p class="updated_time"> 01:19 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60030615?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Why Brussels fears Europe is 'closest to war' in decades</a> BBC: Fears are rising over Russia's plans to shake up the region, writes BBC Europe editor Katya Adler. 
  <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
@@ -173,10 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
- <p class="updated_time"> 05:53 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59995538?at_medium=RSS&at_campaign=KARANGA">What next for Djokovic after Australia deportation?</a> BBC: Novak Djokovic has been deported from Australia following the row over a vaccine exemption. What happens next for the Serb? 
- <p class="updated_time"> 04:31 AM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60021562?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Video shows eruption day before tsunami</a> BBC: Watch dramatic footage of the underwater volcano erupting the day before it triggered a tsunami. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
  <p class="updated_time"> 09:30 PM CT, Jan. 16 </p> 
@@ -200,26 +202,32 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
  <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul‘s rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
+ <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul's rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
+ <p class="updated_time"> 06:24 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Presses Kyrsten Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans mask giveaway as Omicron surges</a> Politico: The federal government has 737 million N95 masks in the Strategic National Stockpile sourced from 12 domestic manufacturers. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Said to Have Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 05:09 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Inquiry Subpoenas Giuliani and Legal Team That Made Claims of Voting Fraud</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and three others. 
- <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
  <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073898495/jan-6-panel-subpoenas-rudy-giuliani-other-lawyers-tied-to-false-election-claims">Jan. 6 panel subpoenas Rudy Giuliani, other lawyers tied to false election claims</a> NPR: The panel wants to hear from lawyers who advanced Trump's false claims of election fraud. 
+ <a href="https://www.npr.org/2022/01/18/1073898495/jan-6-panel-subpoenas-rudy-giuliani-other-lawyers-tied-to-false-election-claims">Jan. 6 panel subpoenas Rudy Giuliani and other lawyers tied to false election claims</a> NPR: The panel wants to hear from lawyers who advanced former President Donald Trump's false claims of election fraud. 
  <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
- <p class="updated_time"> 10:43 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/foreign-election-interference.html">U.S. Names Official to Counter Foreign Election Interference</a> NYT: The director of national intelligence appointed a C.I.A. veteran to the post amid delays in congressional approval of money for a new office to oversee threats to American politics from abroad. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
@@ -271,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073732553/morning-news-brief">News brief: Senate's filibuster issue, Texas hostage details, Iran nuclear talks</a> NPR: Senate Democrats plow ahead with a showdown over the filibuster and voting rights. Details emerge about the hostage taking at a Texas synagogue. Efforts continue to revive the Iran nuclear deal. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot and make it easier for people to vote. 
+ <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot, and make it easier for people to vote. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Gorsuch didn't mask despite Sotomayor's COVID worries, leading her to telework</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
@@ -284,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
- <p class="updated_time"> 04:56 PM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/trump-rally-arizona-2024-527253">Trump superfans dream of a run again, and of JFK Jr. on the ticket</a> Politico: The former president did his first rally of 2022 and left no doubt about the base he wants to build. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
  <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
@@ -318,14 +322,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
- <p class="updated_time"> 07:02 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/democrats-voting-rights.html">Democrats Face a Dilemma on Voting: Compromise or Keep Pressing?</a> NYT: With their broad voting rights push nearing a dead end, Democrats must soon decide whether to embrace a far narrower bipartisan effort to protect vote counting and administration. 
  <p class="updated_time"> 06:59 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/nyc-schools-security-threat-software.html">‘Attempted Security Threat’ Disables Software at Some New York Schools</a> NYT: The outage in a platform used by teachers and students has caused another disruption for a system that has had its share amid the pandemic. 
  <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
- <p class="updated_time"> 06:18 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/midterms-re-election-california-nj.html">Members of Congress Weigh Re-Election Bid Ahead of Midterms</a> NYT: For members of Congress weighing if another run is worth the hassle, the time to decide is fast approaching. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
