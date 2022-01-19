@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 01:34 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, Star of French Cinema, Dies in Skiing Accident</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
@@ -36,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
  <p class="updated_time"> 11:21 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting-historic-photos.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
+ <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
  <p class="updated_time"> 11:13 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60045153?at_medium=RSS&at_campaign=KARANGA">In pictures: Snow falls in Algeria's Sahara Desert</a> BBC: The ice crystals leave stunning patterns in the sands of the Sahara, the world's largest hot desert. 
  <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60050141?at_medium=RSS&at_campaign=KARANGA">Donald Trump investigation reveals new details of alleged fraud</a> BBC: New documents accuse the ex-president's business of misreporting asset values to get loans and tax breaks. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
- <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60052131?at_medium=RSS&at_campaign=KARANGA">Sheikh Jarrah: Israeli police evict Palestinians from East Jerusalem home</a> BBC: Israeli police demolish the building in the sensitive Sheikh Jarrah area after a two-day stand-off. 
  <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
