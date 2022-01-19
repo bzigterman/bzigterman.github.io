@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:33 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson signals that he might ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
+ <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden: Scoring the US president's first year in office</a> BBC: Highs and lows of the president's first 12 months, compared with previous White House occupants. 
  <p class="updated_time"> 02:20 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken arrives in Kyiv amid Russia invasion fears</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 02:00 AM CT, Jan. 19 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59991321?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China sells Xinjiang as a winter sports hub</a> BBC: Many foreign firms hoping to ride the Olympics boom are investing heavily in the troubled region. 
- <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden: Scoring the US president's first year in office</a> BBC: Highs and lows of the president's first year - in six charts. 
  <p class="updated_time"> 05:36 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch.</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
  <p class="updated_time"> 05:17 PM CT, Jan. 18 </p> 
@@ -113,6 +113,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
+ <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
  <p class="updated_time"> 09:14 AM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html">Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</a> NYT: Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time. 
- <p class="updated_time"> 07:37 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/article/prince-andrew-news-epstein-queen.html">Prince Andrew's Downfall: What To Know</a> NYT: After a New York judge ruled that a civil suit against the prince could move forward, he was stripped of his military titles. What happens now? 
 
 
 </details>
