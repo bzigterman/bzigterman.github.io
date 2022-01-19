@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60048394?at_medium=RSS&at_campaign=KARANGA">Ingrid Betancourt: Former Farc captive announces presidential bid</a> BBC: Ex-Senator Ingrid Betancourt spent six years as a Farc captive after being kidnapped in 2002. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 07:36 PM CT, Jan. 18 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:27 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the imminent rollout of 5G services could be disastrous. 
- <p class="updated_time"> 08:05 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60034013?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes advised to use burner phones in Beijing</a> BBC: A mandatory Covid monitoring app to be used by all Games attendees has security risks, analysts warn. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:20 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 07:15 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Presses Kyrsten Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Threatens to Pull Support From Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
  <p class="updated_time"> 07:00 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
@@ -261,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and a Former Acolyte.</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
+ <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and Ron DeSantis</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams Russian troop moves in Belarus as Ukraine crisis deepens</a> Politico: The White House warned that Russia could attack Ukraine “at any point,” while Secretary of State Antony Blinken is set to see his Russian counterpart later this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
