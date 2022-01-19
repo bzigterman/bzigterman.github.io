@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
  <p class="updated_time"> 11:24 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Its only undersea cable was destroyed in an eruption, cutting it off from the rest of the world. 
  <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 07:14 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
- <p class="updated_time"> 06:43 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
  <p class="updated_time"> 06:27 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60048604?at_medium=RSS&at_campaign=KARANGA">US Capitol riot committee issues subpoena to Rudy Giuliani</a> BBC: The former Trump lawyer is among four aides slapped with subpoenas by the congressional inquiry. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
