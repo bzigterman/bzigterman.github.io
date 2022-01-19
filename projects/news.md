@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, French Actor and ‘Moon Knight’ Star, Dies at 37</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
+ <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
  <p class="updated_time"> 01:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 01:21 PM CT, Jan. 19 </p> 
@@ -159,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
- <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
