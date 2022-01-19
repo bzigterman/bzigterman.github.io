@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:14 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60054237?at_medium=RSS&at_campaign=KARANGA">Gaspard Ulliel: Moon Knight actor dies aged 37 after ski accident</a> BBC: Gaspard Ulliel, who features in the upcoming Marvel TV series, died after an accident on the Alps. 
+ <p class="updated_time"> 10:12 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: New images reveal scale of damage after tsunami</a> BBC: Trees are torn down and buildings ripped apart following Saturday's tsunami triggered by a volcano. 
  <p class="updated_time"> 09:49 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 09:48 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60056168?at_medium=RSS&at_campaign=KARANGA">Dutch Covid rules: Museums and orchestras stage haircut protest</a> BBC: The Dutch cultural sector takes on rules that keep museums and music venues shut but salons open. 
- <p class="updated_time"> 09:46 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60054237?at_medium=RSS&at_campaign=KARANGA">Gaspard Ulliel: Moon Knight actor dies aged 37 after ski accident</a> BBC: Gaspard Ulliel, who features in the upcoming Marvel TV series, died after an accident on the Alps. 
  <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
@@ -33,10 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60045153?at_medium=RSS&at_campaign=KARANGA">In pictures: Snow falls in Algeria's Sahara Desert</a> BBC: The ice crystals leave stunning patterns in the sands of the Sahara, the world's largest hot desert. 
  <p class="updated_time"> 08:16 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60050141?at_medium=RSS&at_campaign=KARANGA">Donald Trump investigation reveals new details of alleged fraud</a> BBC: New documents accuse the ex-president's business of misreporting asset values to get loans and tax breaks. 
- <p class="updated_time"> 08:15 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
- <p class="updated_time"> 08:14 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: New images reveal scale of damage after tsunami</a> BBC: Trees are torn down and buildings ripped apart following Saturday's tsunami triggered by a volcano. 
  <p class="updated_time"> 08:00 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-names-four-ambassadors-527363">Biden names ambassadors to U.K., Brazil</a> Politico: Three of the nominees are former ambassadors. 
  <p class="updated_time"> 09:49 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 08:53 AM CT, Jan. 19 </p> 
@@ -255,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: The federal government has 737 million N95 masks in the Strategic National Stockpile sourced from 12 domestic manufacturers. 
+ <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
