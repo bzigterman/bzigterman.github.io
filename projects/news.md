@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:48 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 08:27 AM CT, Jan. 19 </p> 
@@ -196,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">In Voting Rights Fight, Democrats Train Ire on Sinema and Manchin</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
+ <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:36 AM CT, Jan. 19 </p> 
@@ -223,8 +229,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010104/morning-news-brief">News brief: COVIDtests.gov, Biden news conference, Blinken's Ukraine trip</a> NPR: A new federal government website makes it easy to order COVID-19 tests. President Biden marks one year in office. U.S. Secretary of State Antony Blinken is trying to defuse Russia-Ukraine tensions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">In Voting Rights Fight, Democrats Train Ire on Sinema and Manchin</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
- <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG seeks to compel Trumps' testimony in business probe</a> Politico: Former President Donald Trump sued Letitia James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
  <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
- <p class="updated_time"> 10:01 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Threatens to Pull Support From Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
  <p class="updated_time"> 08:59 PM CT, Jan. 18 </p> 
