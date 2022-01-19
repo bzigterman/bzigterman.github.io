@@ -935,45 +935,45 @@ permalink: /projects/economy/
 
 ## Champaign County
 
-![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)
+[![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)](https://fred.stlouisfed.org/series/ILCHAM9URN)
 
-![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
+[![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
 
-![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
+[![Housing]({{ site.baseurl }}/plots/champaign_housing.png)](https://fred.stlouisfed.org/series/ACTLISCOU17019)
 
 ",better_cu_housing_table_html,"
 
-![Population]({{ site.baseurl }}/plots/champaign_population.png)
+[![Population]({{ site.baseurl }}/plots/champaign_population.png)](https://fred.stlouisfed.org/series/ILCHAM9POP)
 
 ## Illinois
 
-![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
+[![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)](https://igpa.uillinois.edu/page/flash-index-archive)
 
 Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
 
-![Population]({{ site.baseurl }}/plots/il_population.png)
+[![Population]({{ site.baseurl }}/plots/il_population.png)](https://fred.stlouisfed.org/series/ILPOP)
 
 ## United States
 
-![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)
+[![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)](https://fred.stlouisfed.org/series/ICSA)
 
-![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
+[![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)](https://fred.stlouisfed.org/series/UNRATE)
 
-![Employment]({{ site.baseurl }}/plots/employment.png)
+[![Employment]({{ site.baseurl }}/plots/employment.png)](https://fred.stlouisfed.org/series/PAYEMS)
 
-![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)
+[![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)](https://fred.stlouisfed.org/series/A229RX0)
 
-![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
+[![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)](https://fred.stlouisfed.org/series/CPIAUCSL)
 
-![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
+[![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)](https://fred.stlouisfed.org/series/RSAFS)
 
-![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)
+[![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)](https://fred.stlouisfed.org/series/DGORDER)
 
-![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
+[![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)](https://fred.stlouisfed.org/series/UMCSENT)
 
-![Real GDP]({{ site.baseurl }}/plots/gdp.png)
+[![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
 
-![Population]({{ site.baseurl }}/plots/us_population.png)
+[![Population]({{ site.baseurl }}/plots/us_population.png)](https://fred.stlouisfed.org/series/POPTHM)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
