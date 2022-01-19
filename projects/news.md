@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, Star of French Cinema, Dies in Skiing Accident</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 12:08 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
- <p class="updated_time"> 11:57 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, Star of French Cinema, Dies in Skiing Accident</a> NYT: Known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent, Mr. Ulliel was just 37 when he died in France. 
  <p class="updated_time"> 11:50 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
  <p class="updated_time"> 11:32 AM CT, Jan. 19 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
  <p class="updated_time"> 02:11 PM CT, Jan. 19 </p> 
@@ -208,8 +210,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/supreme-court-gorsuch-sotomayor-masks-527369">Gorsuch, Sotomayor deny beef over masks on the bench</a> Politico: “Reporting that Justice Sotomayor asked Justice Gorsuch to wear a mask surprised us,” a statement attributed jointly to the justice said. “It is false.” 
  <p class="updated_time"> 01:39 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/us-allies-ukraine-weapons-russia-invasion-527375">Allies wait on U.S. approval to arm Ukraine as invasion worries mount</a> Politico: Baltic NATO allies Estonia, Lithuania and Latvia are looking to transfer American-made lethal weapons such as anti-armor and ground-to-air missiles to Ukraine. 
- <p class="updated_time"> 01:12 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-sotomayor-gorsuch-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
+ <p class="updated_time"> 01:29 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
+ <p class="updated_time"> 01:22 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 01:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
@@ -224,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
  <p class="updated_time"> 10:45 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-names-four-ambassadors-527363">Biden names ambassadors to U.K., Brazil</a> Politico: Three of the nominees are former ambassadors. 
- <p class="updated_time"> 08:53 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
