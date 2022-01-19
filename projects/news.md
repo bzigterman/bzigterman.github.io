@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Tonga's only undersea cable was destroyed in a volcanic eruption, severely crippling communications. 
+ <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 11:02 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken flies to Europe amid Russia invasion fears</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as troops mass near the border. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
- <p class="updated_time"> 10:17 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Tonga's only undersea cable was severed in a volcanic eruption, severely crippling communications. 
  <p class="updated_time"> 08:46 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60048887?at_medium=RSS&at_campaign=KARANGA">Fanta Bility: US officers charged with fatally shooting girl</a> BBC: Prosecutors drop charges against two teens who were accused of provoking the police to open fire. 
  <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Britain’s politically besieged leader signals he might ease virus curbs.</a> NYT: Prime Minister Boris Johnson is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during the lockdown. 
  <p class="updated_time"> 06:43 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
- <p class="updated_time"> 06:34 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 06:27 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60048604?at_medium=RSS&at_campaign=KARANGA">US Capitol riot committee issues subpoena to Rudy Giuliani</a> BBC: The former Trump lawyer is among four aides slapped with subpoenas by the congressional inquiry. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG seeks to compel Trumps' testimony in business probe</a> Politico: Former President Donald Trump sued Letitia James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:01 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
- <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
