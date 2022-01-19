@@ -91,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60052131?at_medium=RSS&at_campaign=KARANGA">Sheikh Jarrah: Israeli police evict Palestinians from East Jerusalem home</a> BBC: Israeli police demolish the building in the sensitive Sheikh Jarrah area after a two-day stand-off. 
+ <p class="updated_time"> 06:13 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60050521?at_medium=RSS&at_campaign=KARANGA">Essex lorry deaths: Trafficking gang ringleader jailed in Belgium</a> BBC: Vo Van Hong is given 15 years in prison for running a gang that trafficked some of the victims. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
@@ -184,8 +186,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/jan-6-subpoena-far-right-promoters-527422">Jan. 6 investigators subpoena far-right figures who promoted election fraud claims</a> Politico: Nick Fuentes and Patrick Casey, leaders of the extremist America First movement, both were outside the Capitol on Jan. 6. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request  was Justice Clarence Thomas. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
+ <p class="updated_time"> 05:33 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Won’t Block Release of Jan. 6 Files</a> NYT: The case was a constitutional clash on the scope of executive privilege and whether a former president may invoke it when the current one has waived it. 
  <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
@@ -244,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden acknowledges his team should have done more COVID testing earlier</a> NPR: President Biden took questions from reporters on Wednesday as his term approaches the one-year mark. "Should we have done more testing earlier? Yes. But we're doing more now," he said. 
- <p class="updated_time"> 01:55 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/cdc-infection-delta-527384">CDC: Vaccinated Americans with a prior infection fared the best during Delta</a> Politico: The study did not explain why protection against reinfection and hospitalization grew among those individuals with a prior infection during Delta. 
  <p class="updated_time"> 01:40 PM CT, Jan. 19 </p> 
@@ -304,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
- <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
