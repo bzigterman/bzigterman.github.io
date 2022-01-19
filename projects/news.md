@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:43 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60052695?at_medium=RSS&at_campaign=KARANGA">Jozef Puska, 31, charged with murder of Ashling Murphy</a> BBC: A man appears at a special court in the Republic of Ireland charged with the murder of Ashling Murphy. 
+ <p class="updated_time"> 02:36 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Blinken says Russia could attack at short notice</a> BBC: Moscow denies any plan to attack Ukraine and says US support for the country is a threat to Russia. 
  <p class="updated_time"> 02:35 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:13 PM CT, Jan. 19 </p> 
@@ -31,16 +35,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 12:19 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
- <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 12:08 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
  <p class="updated_time"> 11:50 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
  <p class="updated_time"> 11:32 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60059976?at_medium=RSS&at_campaign=KARANGA">Robinho: Brazilian footballer loses final appeal against rape conviction</a> BBC: Brazilian footballer Robinho loses his final appeal against a conviction for taking part in the gang rape of a woman in Milan in 2013. 
- <p class="updated_time"> 11:26 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Blinken: Russia wants to divide Ukrainian society</a> BBC: Moscow denies any plan to attack Ukraine and says US support for the country is a threat to Russia. 
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
  <p class="updated_time"> 11:21 AM CT, Jan. 19 </p> 
