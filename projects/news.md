@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:36 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a  meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
+ <p class="updated_time"> 07:35 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: New images reveal scale of damage after tsunami</a> BBC: Trees are torn down and buildings ripped apart following Saturday's tsunami triggered by a volcano. 
  <p class="updated_time"> 07:34 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
@@ -23,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
+ <p class="updated_time"> 06:16 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60050996?at_medium=RSS&at_campaign=KARANGA">Hana Horka: Czech singer dies after catching Covid intentionally</a> BBC: Hana Horka's son tells the BBC his mother was unvaccinated but wanted to acquire immunity. 
  <p class="updated_time"> 06:14 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
- <p class="updated_time"> 01:25 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Its only undersea cable was destroyed in an eruption, cutting it off from the rest of the world. 
  <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
  <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
  <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
- <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60038551?at_medium=RSS&at_campaign=KARANGA">Hong Kong seizes hamsters from pet store for mass cull</a> BBC: A pet shop outbreak in "zero Covid" Hong Kong will result in the euthanasia of 2,000 small mammals. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Released From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan “Liberate Hong Kong, Revolution of Our Times” is now banned. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' election reform bills. 
- <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
