@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
+ <p class="updated_time"> 10:17 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Tonga's only undersea cable was severed in a volcanic eruption, severely crippling communications. 
  <p class="updated_time"> 08:46 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60048887?at_medium=RSS&at_campaign=KARANGA">Fanta Bility: US officers charged with fatally shooting girl</a> BBC: Prosecutors drop charges against two teens who were accused of provoking the police to open fire. 
  <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60048394?at_medium=RSS&at_campaign=KARANGA">Ingrid Betancourt: Former Farc captive announces presidential bid</a> BBC: Ex-Senator Ingrid Betancourt spent six years as a Farc captive after being kidnapped in 2002. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
- <p class="updated_time"> 07:36 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 07:28 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 07:14 PM CT, Jan. 18 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
  <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women put on sale on Clubhouse for their views</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women facing rape threats and abuses on Clubhouse</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
  <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be taken off social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
  <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
  <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
- <p class="updated_time"> 04:34 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60046371?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Race for vital supplies to reach volcano-hit islands</a> BBC: Teams work desperately to clear ash from runways so planes can deliver food and drinking water. 
  <p class="updated_time"> 04:27 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881756/former-army-general-on-how-the-u-s-could-back-a-ukranian-insurgency-against-russ">Former army general on how the U.S. could back a Ukranian insurgency against Russia</a> NPR: NPR's Mary Louise Kelly talks with Peter Zwack, former U.S. Army Brigadier General and global fellow at the Wilson Center, about the possibility of the U.S. arming Ukraine in an insurgency. 
  <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 03:52 PM CT, Jan. 17 </p> 
  <a href="https://www.politico.com/news/2022/01/17/airlines-5g-biden-airports-527251">Airlines ask Biden administration for more 5G protections to avoid ‘catastrophic disruptions’</a> Politico: A letter calling for the action was signed by CEOs of Delta Air Lines, United Airlines, American Airlines, FedEx and UPS’ airline units, among others, as well as the head of A4A. 
- <p class="updated_time"> 11:23 AM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/joint-chiefs-chair-mark-milley-covid-527242">Joint Chiefs Chair Mark Milley tests positive for Covid</a> Politico: Milley was in contact with President Joe Biden on Jan. 12 and tested negative every day leading up to Sunday’s positive test, a spokesperson said. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
