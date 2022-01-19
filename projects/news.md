@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
+ <p class="updated_time"> 04:21 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:10 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
- <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:39 PM CT, Jan. 19 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
- <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 07:37 PM CT, Jan. 17 </p> 
@@ -184,10 +184,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president ran on his ability to reach across the aisle. Now he's squarely blaming Republicans. 
+ <p class="updated_time"> 04:57 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/maura-healey-campaign-governor-massachusetts-527415">She took on Trump, Juul and the Sacklers. Now she wants to run Massachusetts.</a> Politico: State Attorney General Maura Healey is said to be preparing to launch a campaign for governor on Thursday. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions if she doesn’t change her position. 
+ <p class="updated_time"> 04:28 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
+ <p class="updated_time"> 04:25 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Roberts, Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
@@ -220,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074140845/federal-judge-muslim-woman">Biden's latest picks include 1st Muslim woman nominated to serve as a federal judge</a> NPR: Nusrat Choudhury is among eight new judicial nominees announced by the president. The White House said the nominees reflect his commitment to diversifying historically white, male-dominated positions. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
- <p class="updated_time"> 02:28 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Roberts, Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
  <p class="updated_time"> 02:11 PM CT, Jan. 19 </p> 
@@ -242,16 +248,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
- <p class="updated_time"> 11:33 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
  <p class="updated_time"> 10:45 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-names-four-ambassadors-527363">Biden names ambassadors to U.K., Brazil</a> Politico: Three of the nominees are former ambassadors. 
  <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:18 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/oath-keepers-jan-6-weapons-cache-527359">Firearms, a drone and 30 days of supplies: New details of Oath Keepers Jan. 6 weapons cache</a> Politico: Prosecutors provided new details about the weapons stockpile Oath Keepers had assembled at a Comfort Inn in nearby Arlington, Va. 
  <p class="updated_time"> 07:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073908955/senate-voting-rights-bills-filibuster">Senate Democrats march forward on their all-but-doomed voting rights bills</a> NPR: Democrats in the Senate will proceed to a vote on two voting rights bills Wednesday, despite lacking the votes needed to pass either measure. 
  <p class="updated_time"> 06:51 AM CT, Jan. 19 </p> 
@@ -259,17 +261,15 @@ permalink: /projects/news/
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
  <p class="updated_time"> 06:01 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden's first-year report card: just like Trump's</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
+ <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of two presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
+ <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">As Biden marks 1 year in office, he'll hold a news conference</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010104/morning-news-brief">News brief: COVIDtests.gov, Biden news conference, Blinken's Ukraine trip</a> NPR: A new federal government website makes it easy to order COVID-19 tests. President Biden marks one year in office. U.S. Secretary of State Antony Blinken is trying to defuse Russia-Ukraine tensions. 
- <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
  <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
+ <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
- <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
