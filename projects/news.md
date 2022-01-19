@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074076149/boris-johnson-resignation-calls">Britain's Johnson faces growing calls to quit after throwing parties during lockdown</a> NPR: The prime minister has admitted to throwing "bring your own booze" parties at his official residence in London while ordinary Britons were told to stay away from unnecessary gatherings. 
+ <p class="updated_time"> 10:25 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting-historic-photos.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
+ <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 10:14 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60054237?at_medium=RSS&at_campaign=KARANGA">Gaspard Ulliel: Moon Knight actor dies aged 37 after ski accident</a> BBC: Gaspard Ulliel, who features in the upcoming Marvel TV series, died after an accident on the Alps. 
  <p class="updated_time"> 10:12 AM CT, Jan. 19 </p> 
@@ -22,9 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-press.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
- <p class="updated_time"> 08:48 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
+ <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 08:27 AM CT, Jan. 19 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
- <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/europe/serbia-media-censorship.html">Eastern Europe Tests New Forms of Media Censorship</a> NYT: With new, less repressive tactics, countries like Serbia, Poland and Hungary are deploying highly effective tools to skew public opinion. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/sports/tennis/sebastian-korda-australian-open.html">After Quarantine, Sebastian Korda Wins in Australia</a> NYT: Sebastian Korda’s father and sisters have won in Australia. Now, Korda has recorded his first Australian Open win. 
- <p class="updated_time"> 10:38 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073705516/co-owner-of-the-nbas-warriors-lambasted-after-saying-nobody-cares-about-the-uygh">Co-owner of NBA's Warriors slammed after saying 'nobody cares about the Uyghurs'</a> NPR: The 34-year-old billionaire repeatedly told his podcast co-hosts that "Nobody cares about the Uyghurs." The sound bite has gone viral and has been viewed millions of times on Twitter. 
  <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/abortion-pill-robert-califf-fda-527326">Abortion pill fight could ensnare Biden’s FDA pick</a> Politico: Dozens of influential anti-abortion rights organizations are mobilizing against Califf, sending letters to senators arguing he has “a track record of rubber-stamping abortion industry demands.” 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">How Biden’s first year became a tale of two presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
+ <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of two presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/kevin-mccarthy-tech-silicon-valley-527292">McCarthy’s love-hate relationship with Silicon Valley</a> Politico: Tech lobbyists say the House Republican leader's positions are more nuanced than his rhetoric suggests. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
