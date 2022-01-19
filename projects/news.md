@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
+ <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 12:44 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 12:39 PM CT, Jan. 19 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 12:19 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
- <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 12:08 PM CT, Jan. 19 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
  <p class="updated_time"> 11:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting-historic-photos.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
- <p class="updated_time"> 11:14 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 11:13 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60045153?at_medium=RSS&at_campaign=KARANGA">In pictures: Snow falls in Algeria's Sahara Desert</a> BBC: The ice crystals leave stunning patterns in the sands of the Sahara, the world's largest hot desert. 
  <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
@@ -204,16 +204,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/supreme-court-gorsuch-sotomayor-masks-527369">Gorsuch, Sotomayor deny beef over masks on the bench</a> Politico: “Reporting that Justice Sotomayor asked Justice Gorsuch to wear a mask surprised us,” a statement attributed jointly to the justice said. “It is false.” 
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
+ <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
+ <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 12:35 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-sotomayor-gorsuch-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
- <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
  <p class="updated_time"> 11:33 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
- <p class="updated_time"> 11:14 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 10:45 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-names-four-ambassadors-527363">Biden names ambassadors to U.K., Brazil</a> Politico: Three of the nominees are former ambassadors. 
  <p class="updated_time"> 08:53 AM CT, Jan. 19 </p> 
