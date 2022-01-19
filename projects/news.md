@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:36 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074000357/new-yorks-attorney-general-says-trumps-company-misled-banks-tax-officials">New York's attorney general says Trump's company misled banks, tax officials</a> NPR: Letitia James' office gave its most detailed accounting yet of its probe into allegations that Trump's company repeatedly misstated the value of assets to get favorable loans or slash its tax burden. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG seeks to compel Trumps' testimony in business probe</a> Politico: Former President Donald Trump sued Letitia James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:01 PM CT, Jan. 18 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Gorsuch didn't mask despite Sotomayor's COVID worries, leading her to telework</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
  <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
- <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
