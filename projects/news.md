@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:06 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
@@ -15,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, French Actor and ‘Moon Knight’ Star, Dies at 37</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
  <p class="updated_time"> 01:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
+ <p class="updated_time"> 01:21 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60061293?at_medium=RSS&at_campaign=KARANGA">Robert Anderson: University of Michigan reaches sex abuse settlement</a> BBC: Over 1,000 ex-University of Michigan students say they were abused by sports doctor Robert Anderson. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60052131?at_medium=RSS&at_campaign=KARANGA">Sheikh Jarrah: Israeli police evict Palestinians from East Jerusalem home</a> BBC: Israeli police demolish the building in the sensitive Sheikh Jarrah area after a two-day stand-off. 
- <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 04:48 AM CT, Jan. 19 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
- <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
@@ -107,10 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
- <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women facing rape threats and abuses on Clubhouse</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
- <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be censored on social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
  <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
@@ -159,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
- <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
