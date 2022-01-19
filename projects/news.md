@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -184,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
@@ -205,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
  <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074169348/supreme-court-hears-arguments-on-campaign-finance-law-issues-statements-on-npr-r">Supreme Court hears arguments on campaign finance law, issues statements on NPR report</a> NPR: Three Supreme Court justices issued statements Wednesday addressing an NPR story about relations among the justices 
+ <a href="https://www.npr.org/2022/01/19/1074169348/supreme-court-hears-arguments-on-campaign-finance-law-issues-statements-on-npr-r">Supreme Court hears arguments on campaign finance law, issues statements on NPR report</a> NPR: Three Supreme Court justices issued statements Wednesday addressing an NPR story about relations among the justices. 
  <p class="updated_time"> 04:01 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 03:55 PM CT, Jan. 19 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
