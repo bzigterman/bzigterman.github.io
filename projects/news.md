@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:52 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten prisoners sentenced for mass rapes in DR Congo jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
+ <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
@@ -27,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, Star of French Cinema, Dies in Skiing Accident</a> NYT: Known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent, Mr. Ulliel was just 37 when he died in France. 
  <p class="updated_time"> 11:50 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
+ <p class="updated_time"> 11:32 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60059976?at_medium=RSS&at_campaign=KARANGA">Robinho: Brazilian footballer loses final appeal against rape conviction</a> BBC: Brazilian footballer Robinho loses his final appeal against a conviction for taking part in the gang rape of a woman in Milan in 2013. 
  <p class="updated_time"> 11:26 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Blinken: Russia wants to divide Ukrainian society</a> BBC: Moscow denies any plan to attack Ukraine and says US support for the country is a threat to Russia. 
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60052131?at_medium=RSS&at_campaign=KARANGA">Sheikh Jarrah: Israeli police evict Palestinians from East Jerusalem home</a> BBC: Israeli police demolish the building in the sensitive Sheikh Jarrah area after a two-day stand-off. 
- <p class="updated_time"> 06:34 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60054554?at_medium=RSS&at_campaign=KARANGA">Ashling Murphy: Further arrest in murder investigation</a> BBC: Irish police are questioning a man about withholding information over the killing of Ashling Murphy. 
  <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
- <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60051796?at_medium=RSS&at_campaign=KARANGA">Britney Spears issues cease and desist letter to sister Jamie Lynn over book</a> BBC: The singer accuses Jamie Lynn Spears of promoting "false or fantastical grievances" in her new book. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
@@ -95,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/boris-johnson-faces-rising-pressure-over-lockdown-party-11642593928">Boris Johnson Faces Rising Pressure Over Lockdown Party</a> WSJ: The British prime minister faced rising political pressure over allegations that he broke lockdown rules by attending a drinks party in Downing Street, as some of his Conservative lawmakers strategized how to oust the British leader and one defected to the opposition. 
  <p class="updated_time"> 01:46 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">Covid-19 Cases Fall in India's Biggest Cities, Raising Hopes for Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
- <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
  <p class="updated_time"> 11:54 PM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/china-detains-prominent-activists-as-olympics-near-citing-state-security-11642588558">China Detains Prominent Activists as Olympics Near, Citing State Security</a> WSJ: Chinese authorities have detained two prominent human-rights activists, quietly intensifying a crackdown on dissent weeks before Beijing hosts the most politicized Winter Olympics in recent memory 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
@@ -200,8 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/cdc-infection-delta-527384">CDC: Vaccinated Americans with a prior infection fared the best during Delta</a> Politico: The study did not explain why protection against reinfection and hospitalization grew among those individuals with a prior infection during Delta. 
  <p class="updated_time"> 01:40 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/supreme-court-gorsuch-sotomayor-masks-527369">Gorsuch, Sotomayor deny beef over masks on the bench</a> Politico: “Reporting that Justice Sotomayor asked Justice Gorsuch to wear a mask surprised us,” a statement attributed jointly to the justice said. “It is false.” 
+ <p class="updated_time"> 01:39 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/us-allies-ukraine-weapons-russia-invasion-527375">Allies wait on U.S. approval to arm Ukraine as invasion worries mount</a> Politico: Baltic NATO allies Estonia, Lithuania and Latvia are looking to transfer American-made lethal weapons such as anti-armor and ground-to-air missiles to Ukraine. 
+ <p class="updated_time"> 01:07 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/abortion-pill-robert-califf-fda-527326">Abortion pill fight could ensnare Biden’s FDA pick</a> Politico: Dozens of influential anti-abortion rights organizations are mobilizing against Califf, sending letters to senators arguing he has “a track record of rubber-stamping abortion industry demands.” 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of two presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
- <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/kevin-mccarthy-tech-silicon-valley-527292">McCarthy’s love-hate relationship with Silicon Valley</a> Politico: Tech lobbyists say the House Republican leader's positions are more nuanced than his rhetoric suggests. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">As Biden marks 1 year in office, he'll hold a news conference</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
- <p class="updated_time"> 11:29 AM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/fact-check-trump-arizona-rally.html">Trump Rally Fact-Check: Covid-19 and Election Falsehoods</a> NYT: The former president falsely claimed that white Americans were being denied the Covid-19 vaccine, among other inaccuracies. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
  <p class="updated_time"> 02:00 AM CT, Jan. 16 </p> 
@@ -358,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
