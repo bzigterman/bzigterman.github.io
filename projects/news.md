@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
+ <p class="updated_time"> 04:26 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
+ <p class="updated_time"> 04:22 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60052734?at_medium=RSS&at_campaign=KARANGA">Sania Mirza: India tennis star to retire after 2022 season</a> BBC: Sania Mirza, a former Wimbledon doubles champion, is one of India's most celebrated sports stars. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done but it could affect weather in the short term. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson signals that he might ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
- <p class="updated_time"> 02:20 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken arrives in Kyiv amid Russia invasion fears</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 01:25 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Its only undersea cable was destroyed in an eruption, cutting it off from the rest of the world. 
  <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
  <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073791401/boris-johnson-parties-lockdown">Boris Johnson again says BYOB party he attended during lockdown was a work event </a> NPR: The British prime minister denied misleading Parliament about lockdown-breaching parties, as senior government ministers said he would have to resign if he is proven to have lied. 
- <p class="updated_time"> 10:05 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60035448?at_medium=RSS&at_campaign=KARANGA">Metsola: EU parliament elects youngest ever president</a> BBC: Roberta Metsola, from Malta, was asked by journalists about her record of being anti-abortion. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 08:51 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
- <p class="updated_time"> 08:00 PM CT, Jan. 17 </p> 
- <a href="https://www.npr.org/2022/01/17/1073703748/sothebys-unveils-555-55-carat-black-diamond-thought-to-come-from-outer-space">Sotheby's unveils 555.55-carat black diamond thought to come from outer space</a> NPR: Black diamonds are extremely rare, and are found naturally only in Brazil and Central Africa. The cosmic origin theory  of "The Enigma" is based on carbon isotopes and high hydrogen content. 
  <p class="updated_time"> 07:37 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with the police to try to “talk him down.’’ 
  <p class="updated_time"> 06:43 PM CT, Jan. 17 </p> 
@@ -202,8 +202,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/abortion-pill-robert-califf-fda-527326">Abortion pill fight could ensnare Biden’s FDA pick</a> Politico: Dozens of influential anti-abortion rights organizations are mobilizing against Califf, sending letters to senators arguing he has “a track record of rubber-stamping abortion industry demands.” 
+ <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">How Biden’s first year became a tale of two presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
+ <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/kevin-mccarthy-tech-silicon-valley-527292">McCarthy’s love-hate relationship with Silicon Valley</a> Politico: Tech lobbyists say the House Republican leader's positions are more nuanced than his rhetoric suggests. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">1 year after taking office, Biden will take questions from reporters</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
+ <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">As Biden marks 1 year in office, he'll hold a news conference</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
@@ -258,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/supreme-court-boston-flag-free-speech.html">Supreme Court Appears Skeptical of Boston’s Refusal to Fly Christian Flag</a> NYT: The court seemed poised to rule that the city, which has approved many other requests to raise flags at its City Hall, violated a Christian group’s free speech rights. 
- <p class="updated_time"> 02:02 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/wireless-companies-agree-to-additional-5g-curbs-in-bid-to-avert-flight-chaos-527303">Wireless companies agree to additional 5G curbs in bid to avert flight chaos</a> Politico: 5G has the potential to interfere with aircraft altimeters, devices that measure how high a plane is off the ground, among other interconnected avionics and equipment. 
  <p class="updated_time"> 02:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-latino-midterm-527265">Latino Dems warn about midterm fall-off</a> Politico: "The first step is admitting there’s a problem, and there’s a lot of people in my movement and my party that don’t," said one strategist. 
  <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
@@ -274,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
  <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and Ron DeSantis</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
- <p class="updated_time"> 07:54 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/blinken-europe-ukraine-russia-tensions-527257">U.S. slams Russian troop moves in Belarus as Ukraine crisis deepens</a> Politico: The White House warned that Russia could attack Ukraine “at any point,” while Secretary of State Antony Blinken is set to see his Russian counterpart later this week. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 18 </p> 
@@ -288,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
- <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/rnc-debate-trump-527247">Trump blows a hole in 2024 presidential debates</a> Politico: The RNC's move stamps former president’s imprint on future debates. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
@@ -350,6 +352,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
@@ -374,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
 
 
 </details>
