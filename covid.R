@@ -148,7 +148,8 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
-    table.font.size = px(12)
+    table.font.size = px(12),
+    footnotes.marks = "standard",
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
   cols_hide(columns = c(Date, lists)) %>%
