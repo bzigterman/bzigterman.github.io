@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson, Facing a Mutiny, Says England Will Ease Virus Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
+ <p class="updated_time"> 06:37 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
+ <p class="updated_time"> 06:28 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says he will ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
+ <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:19 AM CT, Jan. 19 </p> 
@@ -31,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60051796?at_medium=RSS&at_campaign=KARANGA">Britney Spears issues cease and desist letter to sister Jamie Lynn over book</a> BBC: The singer accuses Jamie Lynn Spears of promoting "false or fantastical grievances" in her new book. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
- <p class="updated_time"> 03:19 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson signals that he might ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
  <p class="updated_time"> 01:25 AM CT, Jan. 19 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073881756/former-army-general-on-how-the-u-s-could-back-a-ukranian-insurgency-against-russ">Former army general on how the U.S. could back a Ukranian insurgency against Russia</a> NPR: NPR's Mary Louise Kelly talks with Peter Zwack, former U.S. Army Brigadier General and global fellow at the Wilson Center, about the possibility of the U.S. arming Ukraine in an insurgency. 
  <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
- <p class="updated_time"> 04:02 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 03:57 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881728/in-afghanistan-a-food-crisis-is-worsening">In Afghanistan, a food crisis is worsening</a> NPR: NPR's Mary Louise Kelly speaks with Filipe Ribeiro, the Afghanistan representative for Doctors Without Borders, to hear about the severe lack of food the country is facing. 
  <p class="updated_time"> 03:55 PM CT, Jan. 18 </p> 
@@ -187,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
- <p class="updated_time"> 04:12 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
- <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
 
 
 </details>
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
  <p class="updated_time"> 06:01 AM CT, Jan. 19 </p> 
