@@ -366,7 +366,7 @@ html {
 <td class="gt_row gt_right gt_striped">112</td>
 <td class="gt_row gt_right gt_striped">153</td>
 <td class="gt_row gt_right gt_striped">+37&percnt;</td></tr>
-    <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks">1</sup></td>
+    <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks">*</sup></td>
 <td class="gt_row gt_right">16</td>
 <td class="gt_row gt_right">25</td>
 <td class="gt_row gt_right">+56&percnt;</td></tr>
@@ -393,7 +393,7 @@ html {
       <td colspan="4">
         <p class="gt_footnote">
           <sup class="gt_footnote_marks">
-            <em>1</em>
+            <em>*</em>
           </sup>
            
           241  total deaths
