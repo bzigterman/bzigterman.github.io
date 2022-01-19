@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 08:27 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 08:23 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60051072?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes warned over speaking out on human rights issues</a> BBC: Athletes at next month's Beijing Winter Olympics face punishment for behaviour that is against the spirit of the games or Chinese rules, an official has said. 
  <p class="updated_time"> 08:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 08:20 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60045153?at_medium=RSS&at_campaign=KARANGA">In pictures: Snow falls in Algeria's Sahara Desert</a> BBC: The ice crystals leave stunning patterns in the sands of the Sahara, the world's largest hot desert. 
  <p class="updated_time"> 08:16 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60050141?at_medium=RSS&at_campaign=KARANGA">Donald Trump investigation reveals new details of alleged fraud</a> BBC: New documents accuse the ex-president's business of misreporting asset values to get loans and tax breaks. 
  <p class="updated_time"> 08:15 AM CT, Jan. 19 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:16 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60050996?at_medium=RSS&at_campaign=KARANGA">Hana Horka: Czech singer dies after catching Covid intentionally</a> BBC: Hana Horka's son tells the BBC his mother was unvaccinated but wanted to acquire immunity. 
- <p class="updated_time"> 06:14 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
@@ -230,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074000357/new-yorks-attorney-general-says-trumps-company-misled-banks-tax-officials">New York's attorney general says Trump's company misled banks, tax officials</a> NPR: Letitia James' office gave its most detailed accounting yet of its probe into allegations that Trump's company repeatedly misstated the value of assets to get favorable loans or slash its tax burden. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG seeks to compel Trumps' testimony in business probe</a> Politico: Former President Donald Trump sued Letitia James last month in a bid to thwart her ongoing investigations. 
+ <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
+ <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
  <p class="updated_time"> 10:01 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
