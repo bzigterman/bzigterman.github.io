@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:01 AM CT, Jan. 19 </p> 
+ <p class="updated_time"> 08:27 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
+ <p class="updated_time"> 08:23 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60051072?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes warned over speaking out on human rights issues</a> BBC: Athletes at next month's Beijing Winter Olympics face punishment for behaviour that is against the spirit of the games or Chinese rules, an official has said. 
+ <p class="updated_time"> 08:21 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 08:15 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-tourism-covid-canary.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
+ <p class="updated_time"> 08:14 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: New images reveal scale of damage after tsunami</a> BBC: Trees are torn down and buildings ripped apart following Saturday's tsunami triggered by a volcano. 
  <p class="updated_time"> 08:00 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 07:36 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a  meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
- <p class="updated_time"> 07:35 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: New images reveal scale of damage after tsunami</a> BBC: Trees are torn down and buildings ripped apart following Saturday's tsunami triggered by a volcano. 
  <p class="updated_time"> 07:34 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
- <p class="updated_time"> 08:46 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60048887?at_medium=RSS&at_campaign=KARANGA">Fanta Bility: US officers charged with fatally shooting girl</a> BBC: Prosecutors drop charges against two teens who were accused of provoking the police to open fire. 
  <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60048394?at_medium=RSS&at_campaign=KARANGA">Ingrid Betancourt: Former Farc captive announces presidential bid</a> BBC: Ex-Senator Ingrid Betancourt spent six years as a Farc captive after being kidnapped in 2002. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">How China's Zero-Covid Policies Are Disrupting Cross-Border Trade</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
- <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Released From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan “Liberate Hong Kong, Revolution of Our Times” is now banned. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsberg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
- <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/malik-faisal-akram-texas-synagogue-hostage.html">11 Hours of Fear, Negotiation and Finally, Relief</a> NYT: The F.B.I. identified Malik Faisal Akram, a British national, as the man who took hostages in a Texas synagogue on Saturday. He was killed during the rescue operation. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
  <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
