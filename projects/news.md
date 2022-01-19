@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60052695?at_medium=RSS&at_campaign=KARANGA">Jozef Puska, 31, charged with murder of Ashling Murphy</a> BBC: A man appears at a special court in the Republic of Ireland charged with the murder of Ashling Murphy. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
  <p class="updated_time"> 03:19 PM CT, Jan. 19 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
- <p class="updated_time"> 02:56 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60052695?at_medium=RSS&at_campaign=KARANGA">Jozef Puska, 31, charged with murder of Ashling Murphy</a> BBC: A man appears at a special court in the Republic of Ireland charged with the murder of Ashling Murphy. 
  <p class="updated_time"> 02:36 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Blinken says Russia could attack at short notice</a> BBC: Moscow denies any plan to attack Ukraine and says US support for the country is a threat to Russia. 
  <p class="updated_time"> 02:13 PM CT, Jan. 19 </p> 
@@ -71,6 +71,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:26 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Blinken Seeks to Reassure Ukraine as Russia Moves Troops in Region</a> WSJ: The Biden administration’s top diplomat warned that Russia could invade Ukraine as concerns mounted over Moscow’s deployment of forces to neighboring Belarus. 
+ <p class="updated_time"> 09:20 AM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-military-buildup-triggers-european-defense-anxieties-11642623623">Russian Military Buildup Triggers European Defense Anxieties</a> WSJ: French President Emmanuel Macron marked his turn at the helm of the EU’s rotating presidency with a call for Europe to chart its own defense course aside from the trans-Atlantic alliance with the U.S. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/boris-johnson-faces-rising-pressure-over-lockdown-party-11642593928">Boris Johnson Faces Rising Pressure Over Lockdown Party</a> WSJ: The British prime minister faced rising political pressure over allegations that he broke lockdown rules by attending a drinks party in Downing Street, as some of his Conservative lawmakers strategized how to oust the British leader and one defected to the opposition. 
  <p class="updated_time"> 01:46 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">Covid-19 Cases Fall in India's Biggest Cities, Raising Hopes for Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
- <p class="updated_time"> 11:54 PM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/china-detains-prominent-activists-as-olympics-near-citing-state-security-11642588558">China Detains Prominent Activists as Olympics Near, Citing State Security</a> WSJ: Chinese authorities have detained two prominent human-rights activists, quietly intensifying a crackdown on dissent weeks before Beijing hosts the most politicized Winter Olympics in recent memory 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
@@ -265,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
  <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Threatens to Pull Support From Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Presses Kyrsten Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
  <p class="updated_time"> 08:59 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
