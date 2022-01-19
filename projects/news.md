@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60051072?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Athletes warned over speaking out on human rights issues</a> BBC: Athletes at next month's Beijing Winter Olympics face punishment for behaviour that is against the spirit of the games or Chinese rules, an official has said. 
  <p class="updated_time"> 08:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
+ <p class="updated_time"> 08:16 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60050141?at_medium=RSS&at_campaign=KARANGA">Donald Trump investigation reveals new details of alleged fraud</a> BBC: New documents accuse the ex-president's business of misreporting asset values to get loans and tax breaks. 
  <p class="updated_time"> 08:15 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-tourism-covid-canary.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 08:14 AM CT, Jan. 19 </p> 
@@ -57,8 +59,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
+ <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-rising-pressure-over-lockdown-party-11642593928">Boris Johnson Faces Rising Pressure Over Lockdown Party</a> WSJ: The British prime minister faced rising political pressure over allegations that he broke lockdown rules by attending a drinks party in Downing Street, as some of his Conservative lawmakers strategized how to oust the British leader and one defected to the opposition. 
+ <p class="updated_time"> 02:16 AM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Blinken Seeks to Reassure Ukraine as Russia Moves Troops in Region</a> WSJ: The Biden administration’s top diplomat warned that Russia could invade Ukraine as concerns mounted over Moscow’s deployment of forces to neighboring Belarus. 
+ <p class="updated_time"> 01:46 AM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">Covid-19 Cases Fall in India's Biggest Cities, Raising Hopes for Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
  <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048390?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns pandemic not over amid Europe case records</a> BBC: France reports nearly half a million new daily cases, with records also broken in Italy and Denmark. 
+ <p class="updated_time"> 11:54 PM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/china-detains-prominent-activists-as-olympics-near-citing-state-security-11642588558">China Detains Prominent Activists as Olympics Near, Citing State Security</a> WSJ: Chinese authorities have detained two prominent human-rights activists, quietly intensifying a crackdown on dissent weeks before Beijing hosts the most politicized Winter Olympics in recent memory 
  <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
@@ -69,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 07:28 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
- <p class="updated_time"> 06:27 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60048604?at_medium=RSS&at_campaign=KARANGA">US Capitol riot committee issues subpoena to Rudy Giuliani</a> BBC: The former Trump lawyer is among four aides slapped with subpoenas by the congressional inquiry. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
  <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
@@ -97,12 +105,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 03:57 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881728/in-afghanistan-a-food-crisis-is-worsening">In Afghanistan, a food crisis is worsening</a> NPR: NPR's Mary Louise Kelly speaks with Filipe Ribeiro, the Afghanistan representative for Doctors Without Borders, to hear about the severe lack of food the country is facing. 
- <p class="updated_time"> 03:55 PM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">How China's Zero-Covid Policies Are Disrupting Cross-Border Trade</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
- <p class="updated_time"> 03:01 PM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/activist-who-inspired-violent-resistance-in-hong-kong-set-for-release-from-jail-11642517755">Hong Kong Activist Who Inspired Violent Resistance Released From Jail</a> WSJ: Edward Leung’s call for forceful opposition resonated with young protesters in 2019. His campaign slogan “Liberate Hong Kong, Revolution of Our Times” is now banned. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-boris-johnson-parties.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
  <p class="updated_time"> 01:27 PM CT, Jan. 18 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
- <p class="updated_time"> 10:34 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Agents as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
  <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
- <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60027360?at_medium=RSS&at_campaign=KARANGA">Tonga eruption: How its impact spread so widely and violently</a> BBC: The impact of a massive eruption in Pacific has been felt around the world. 
  <p class="updated_time"> 06:11 AM CT, Jan. 18 </p> 
@@ -145,18 +145,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/18/1073053108/the-movement-to-stick-inflation-blame-on-biden">The Movement To Stick Inflation Blame On Biden</a> NPR: It's a bad time to be a world leader. COVID did that. 
- <p class="updated_time"> 05:01 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-orders-2-000-hamsters-to-be-killed-after-pet-shop-covid-19-cases-11642518762">Hong Kong Orders 2,000 Hamsters to Be Killed After Pet Shop Covid-19 Cases</a> WSJ: Authorities ordered some 2,000 hamsters in Hong Kong to be killed over concerns that the animals may have transmitted Covid-19 to humans, one of the city’s latest measures to try to stamp out a fresh outbreak. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 03:59 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073737536/satellite-photos-show-tonga-before-and-after-huge-undersea-volcano-eruption">Satellite photos show Tonga before and after huge undersea volcano eruption </a> NPR: Significant damage is being reported on the Pacific island of Tonga and thick ash on an airport runway is preventing aid from arriving. 
- <p class="updated_time"> 03:50 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454">Violent Crime, Rising Costs Put South Africa's Mining Industry in a Deep Hole</a> WSJ: Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy. 
  <p class="updated_time"> 02:58 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073734921/photos-show-the-aftermath-of-the-fatal-abu-dhabi-attack">Photos show the aftermath of the fatal Abu Dhabi attack</a> NPR: The images by Planet Labs PBC show smoke rising over an Abu Dhabi National Oil Co. fuel depot in the Mussafah neighborhood of Abu Dhabi on Monday. 
- <p class="updated_time"> 01:49 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/sudan-protesters-begin-strike-as-conflict-with-generals-worsens-11642510196">Sudan Protesters Begin Strike as Conflict With Generals Worsens</a> WSJ: Pro-democracy groups began two days of strikes and civil disobedience in Sudan, a day after security forces fired live rounds and used tear gas to disperse protesters. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
