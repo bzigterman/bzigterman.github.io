@@ -7,8 +7,6 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:15 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60041683?at_medium=RSS&at_campaign=KARANGA">Bali bombings: Indonesia jails man for masterminding attacks</a> BBC: A man who evaded arrest for two decades is given 15 years for planning the attacks, which killed 202. 
  <p class="updated_time"> 04:51 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
@@ -352,6 +350,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
