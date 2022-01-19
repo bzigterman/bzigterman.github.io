@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done but it could affect weather in the short term. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
  <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
- <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
@@ -202,6 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">1 year after taking office, Biden will take questions from reporters</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 12:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074000357/new-yorks-attorney-general-says-trumps-company-misled-banks-tax-officials">New York's attorney general says Trump's company misled banks, tax officials</a> NPR: Letitia James' office gave its most detailed accounting yet of its probe into allegations that Trump's company repeatedly misstated the value of assets to get favorable loans or slash its tax burden. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
@@ -288,12 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
  <p class="updated_time"> 04:08 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073732553/morning-news-brief">News brief: Senate's filibuster issue, Texas hostage details, Iran nuclear talks</a> NPR: Senate Democrats plow ahead with a showdown over the filibuster and voting rights. Details emerge about the hostage taking at a Texas synagogue. Efforts continue to revive the Iran nuclear deal. 
- <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act">The Senate is set to debate voting rights. Here's what the bills would do</a> NPR: The two measures the Senate will debate aim to prevent states from limiting access to the ballot, and make it easier for people to vote. 
- <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073428376/supreme-court-justices-arent-scorpions-but-not-happy-campers-either">Gorsuch didn't mask despite Sotomayor's COVID worries, leading her to telework</a> NPR: Anybody who regularly watches Supreme Court arguments is used to seeing testy moments. But you don't have to be a keen observer these days to see that something out of the ordinary is happening. 
- <p class="updated_time"> 04:00 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z">A new look at how turmoil is defining the lives and politics of Generation Z</a> NPR: In a new book, Fight: How Gen Z is channeling their fear and passion to save America, pollster John Della Volpe explores how America's youngest voters and activists are coming of age. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/15/us/politics/voting-rights-democrats.html">With Voting Rights Bill Dead, Democrats Face Costly Fight to Overcome GOP Curbs</a> NYT: Party officials now say they are resigned to spending and organizing their way around the new voting restrictions passed in Republican-controlled states. 
  <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
- <p class="updated_time"> 06:40 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/covid-tests-free-biden.html">U.S. Government Launches Website to Distribute Free Covid Tests</a> NYT: The tests will take up to 12 days to arrive, which may be after the peak of the current surge of cases in some parts of the country. 
  <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
  <p class="updated_time"> 03:12 PM CT, Jan. 14 </p> 
