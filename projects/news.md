@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 01:25 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Its only undersea cable was destroyed in an eruption, cutting it off from the rest of the world. 
  <p class="updated_time"> 12:58 AM CT, Jan. 19 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 07:58 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html">China’s Olympics App for Athletes Has Security Flaws, Study Says</a> NYT: Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities. 
- <p class="updated_time"> 07:30 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/covid-testing-site-scam.html">Scammers Pounce on Demand for Covid Testing in U.S., Officials Say</a> NYT: Fraud related to the virus has been a problem since the pandemic began, and the rapid spread of Omicron has created new opportunities. 
  <p class="updated_time"> 07:06 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-detailing-belarus-diversion-of-ryanair-flight-raises-fresh-questions-11642529216">U.N. Report Raises Fresh Questions About Plane Diversion by Belarus</a> WSJ: A new United Nations report on the forced landing by Belarus of a Ryanair passenger jet in May raises fresh questions about the veracity of statements by its government about the events, in which it arrested a wanted dissident. 
  <p class="updated_time"> 06:23 AM CT, Jan. 18 </p> 
