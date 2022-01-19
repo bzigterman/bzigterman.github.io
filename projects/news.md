@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:22 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/middleeast/palestinians-evicted-jerusalem-sheikh-jarrah.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza last year. 
+ <p class="updated_time"> 12:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
+ <p class="updated_time"> 12:39 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60060308?at_medium=RSS&at_campaign=KARANGA">Top Florida health official on leave over support for vaccination</a> BBC: The state is investigating if Dr Raul Pino violated state law by urging his employees to get jabbed. 
+ <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 12:19 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
@@ -196,8 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:40 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/supreme-court-gorsuch-sotomayor-masks-527369">Gorsuch, Sotomayor deny beef over masks on the bench</a> Politico: “Reporting that Justice Sotomayor asked Justice Gorsuch to wear a mask surprised us,” a statement attributed jointly to the justice said. “It is false.” 
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
+ <p class="updated_time"> 12:35 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-sotomayor-gorsuch-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
@@ -314,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
- <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
