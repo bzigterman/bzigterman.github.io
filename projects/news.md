@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:09 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 12:22 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/middleeast/palestinians-evicted-jerusalem-sheikh-jarrah.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza last year. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
+ <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 12:08 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
  <p class="updated_time"> 11:57 AM CT, Jan. 19 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60050141?at_medium=RSS&at_campaign=KARANGA">Donald Trump investigation reveals new details of alleged fraud</a> BBC: New documents accuse the ex-president's business of misreporting asset values to get loans and tax breaks. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
- <p class="updated_time"> 07:07 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
- <p class="updated_time"> 04:24 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
  <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
- <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/marcos-jr-philippines-presidential-election.html">Marcos Jr. Can Stay in Philippine Presidential Race, Officials Say</a> NYT: With Ferdinand Marcos Jr. leading in the polls, victims of his father’s regime have not given up their fight to keep his name off the ballot. 
  <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 17 </p> 
@@ -196,7 +196,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:09 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
+ <p class="updated_time"> 12:18 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
  <p class="updated_time"> 10:35 PM CT, Jan. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:26 PM CT, Jan. 17 </p> 
- <a href="https://www.politico.com/news/2022/01/17/appeals-court-texas-abortion-527256">Appeals court detours Texas abortion ban case to state Supreme Court</a> Politico: 5th Circuit's decision, 2-1, likely prolongs enforcement of unusual anti-abortion law. 
  <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
