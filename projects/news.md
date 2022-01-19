@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:46 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
- <p class="updated_time"> 05:10 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:06 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
@@ -190,6 +190,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/jan-6-subpoena-far-right-promoters-527422">Jan. 6 investigators subpoena far-right figures who promoted election fraud claims</a> Politico: Nick Fuentes and Patrick Casey, leaders of the extremist America First movement, both were outside the Capitol on Jan. 6. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request  was Justice Clarence Thomas. 
+ <p class="updated_time"> 05:54 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-russia-senate.html">Biden Predicts Russia WIll Invade Ukraine</a> NYT: President Biden, in a news conference defending his first year in office, delivered a grim assessment of the ability of the United States and allies to influence the Russian leader. 
+ <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 05:46 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
@@ -198,14 +204,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Won’t Block Release of Jan. 6 Files</a> NYT: The case was a constitutional clash on the scope of executive privilege and whether a former president may invoke it when the current one has waived it. 
- <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:12 PM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 05:10 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president ran on his ability to reach across the aisle. Now he's squarely blaming Republicans. 
  <p class="updated_time"> 04:57 PM CT, Jan. 19 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
- <p class="updated_time"> 06:09 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
@@ -364,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
- <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
 
 
 </details>
