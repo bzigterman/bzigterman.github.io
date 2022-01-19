@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:46 PM CT, Jan. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60048887?at_medium=RSS&at_campaign=KARANGA">Fanta Bility: US officers charged with fatally shooting girl</a> BBC: Prosecutors drop charges against two teens who were accused of provoking the police to open fire. 
  <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60048394?at_medium=RSS&at_campaign=KARANGA">Ingrid Betancourt: Former Farc captive announces presidential bid</a> BBC: Ex-Senator Ingrid Betancourt spent six years as a Farc captive after being kidnapped in 2002. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 03:57 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881728/in-afghanistan-a-food-crisis-is-worsening">In Afghanistan, a food crisis is worsening</a> NPR: NPR's Mary Louise Kelly speaks with Filipe Ribeiro, the Afghanistan representative for Doctors Without Borders, to hear about the severe lack of food the country is facing. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">How China's Zero-Covid Policies Are Disrupting Cross-Border Trade</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 03:49 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073863310/an-undersea-cable-fault-could-cut-tonga-from-the-rest-of-the-world-for-weeks">An undersea cable fault could cut Tonga from the rest of the world for weeks</a> NPR: Amid the 7.6-magnitude quake, the single fiber optic cable that the archipelago relied on for global communications ruptured. 
  <p class="updated_time"> 03:24 PM CT, Jan. 18 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 11:02 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60045076?at_medium=RSS&at_campaign=KARANGA">Backlash as US billionaire dismisses Uyghur abuse</a> BBC: Chamath Palihapitiya says he and most Americans "don't care" about alleged human rights abuse of the Uyghur minority. 
- <p class="updated_time"> 10:51 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60022997?at_medium=RSS&at_campaign=KARANGA">Villa Aurora: Rome property fails to sell for €471m at auction</a> BBC: The starting price of €471m for the Villa Aurora and its unique art proved too high. 
  <p class="updated_time"> 10:34 AM CT, Jan. 18 </p> 
  <a href="https://www.wsj.com/articles/u-s-aims-sanctions-at-pro-russian-separatists-as-antony-blinken-plans-ukraine-russia-meetings-11642529955">U.S. Aims Sanctions at Pro-Russian Agents as Blinken Plans Ukraine, Russia Meetings</a> WSJ: The U.S. and its allies hope for a diplomatic breakthrough after four rounds of talks last week failed to narrow the gap between Moscow and Western nations. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/sudan-protesters-begin-strike-as-conflict-with-generals-worsens-11642510196">Sudan Protesters Begin Strike as Conflict With Generals Worsens</a> WSJ: Pro-democracy groups began two days of strikes and civil disobedience in Sudan, a day after security forces fired live rounds and used tear gas to disperse protesters. 
  <p class="updated_time"> 01:14 AM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073727792/watchdog-warned-months-before-us-pullout-that-afghanistans-air-force-would-colla">Watchdog warned months before U.S. pullout Afghanistan's air force would collapse</a> NPR: American authorities had been alerted that Afghanistan's air force did not have the capabilities to survive after a U.S. withdrawal. 
- <p class="updated_time"> 12:00 AM CT, Jan. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-zero-covid-policies-cause-a-traffic-jam-in-vietnam-as-farmers-suffer-11642503601">China's Zero-Covid Policies Cause a Traffic Jam in Vietnam as Farmers Suffer</a> WSJ: Trucks laden with Vietnamese produce are backed up at border crossings as China endeavors to contain the spread of Covid-19. 
  <p class="updated_time"> 11:06 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/china-births-demographic-crisis.html">China’s Births Hit Historic Low, a Political Problem for Beijing</a> NYT: The demographic crisis, a challenge to the economy, also signals a limit to the reach of the government, which has struggled recently to grow the population. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
+ <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 07:40 PM CT, Jan. 18 </p> 
@@ -210,14 +214,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 07:15 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Threatens to Pull Support From Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
- <p class="updated_time"> 07:00 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
  <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul's rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
- <p class="updated_time"> 06:24 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
