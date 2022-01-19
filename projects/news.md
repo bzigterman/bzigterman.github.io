@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60041683?at_medium=RSS&at_campaign=KARANGA">Bali bombings: Indonesia jails man for masterminding attacks</a> BBC: A man who evaded arrest for two decades is given 15 years for planning the attacks, which killed 202. 
  <p class="updated_time"> 04:51 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
- <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60041683?at_medium=RSS&at_campaign=KARANGA">Bali bombings: Indonesia jails man for masterminding attacks</a> BBC: A man who evaded arrest for two decades is given 15 years for planning the attacks, which killed 202. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
  <p class="updated_time"> 04:26 AM CT, Jan. 19 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/16/world/africa/ibrahim-boubacar-keita-dead.html">Ibrahim Boubacar Keita, Malian President Ousted in 2020, Dies at 76</a> NYT: Mr. Keita was elected in 2013 with a mandate to stem the country’s many crises. But during his tenure, they escalated. 
  <p class="updated_time"> 02:56 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/business/economy/china-supply-chain-covid-lockdowns.html">Supply Chain Woes Could Worsen as China Imposes Covid Lockdowns</a> NYT: American manufacturers are worried that China’s zero-tolerance coronavirus policy could throw a wrench in the global conveyor belt for goods this year. 
- <p class="updated_time"> 02:00 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html">A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</a> NYT: Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can. 
 
 
 </details>
@@ -202,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:09 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken Will Meet With Russia as U.S. Pushes for More Diplomacy</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
  <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
