@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:27 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 03:44 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60052695?at_medium=RSS&at_campaign=KARANGA">Jozef Puska, 31, charged with murder of Ashling Murphy</a> BBC: A man appears at a special court in the Republic of Ireland charged with the murder of Ashling Murphy. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172884/why-finding-the-missing-pieces-of-anne-franks-family-story-is-still-important-to">Why finding the missing pieces of Anne Frank's family story is still important today</a> NPR: NPR's Mary Louise Kelly speaks with author Rosemary Sullivan about working on a book that potentially reveals who betrayed Jewish teenage diarist Anne Frank and her family. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
  <p class="updated_time"> 03:19 PM CT, Jan. 19 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
- <p class="updated_time"> 10:15 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073791401/boris-johnson-parties-lockdown">Boris Johnson again says BYOB party he attended during lockdown was a work event </a> NPR: The British prime minister denied misleading Parliament about lockdown-breaching parties, as senior government ministers said he would have to resign if he is proven to have lied. 
  <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoye, the fiancee of the former president's eldest son. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172770/president-biden-holds-rare-formal-press-conference-to-mark-his-1st-year-office">President Biden holds rare formal press conference to mark his 1st year office</a> NPR: President Biden held a rare formal press conference to mark his first year office. It comes at a particularly difficult point in his presidency. 
  <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
  <p class="updated_time"> 03:09 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074140845/federal-judge-muslim-woman">Biden's latest picks include 1st Muslim woman nominated to serve as a federal judge</a> NPR: Nusrat Choudhury is among eight new judicial nominees announced by the president. The White House said the nominees reflect his commitment to diversifying historically white, male-dominated positions. 
  <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
- <p class="updated_time"> 05:09 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/senate-voting-rights-bill.html">Senate Democrats Press Ahead With Debate on Voting Rights Bill</a> NYT: The Senate on Tuesday will begin to debate new voting rights protections, even though the measure appears all but dead in the face of two key Democratic defections. 
- <p class="updated_time"> 07:59 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/16/us/politics/trump-desantis.html">Who Is King of Florida? Tensions Rise Between Trump and Ron DeSantis</a> NYT: A spat over Covid has exposed friction between the former president and a rising G.O.P. governor unwilling to curb his ambitions. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
