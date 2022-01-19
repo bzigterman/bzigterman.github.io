@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
+ <p class="updated_time"> 04:01 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 04:00 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 03:44 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60052695?at_medium=RSS&at_campaign=KARANGA">Jozef Puska, 31, charged with murder of Ashling Murphy</a> BBC: A man appears at a special court in the Republic of Ireland charged with the murder of Ashling Murphy. 
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60061293?at_medium=RSS&at_campaign=KARANGA">Robert Anderson: University of Michigan reaches sex abuse settlement</a> BBC: Over 1,000 ex-University of Michigan students say they were abused by sports doctor Robert Anderson. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
- <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 02:36 PM CT, Jan. 19 </p> 
@@ -31,10 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
- <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
- <p class="updated_time"> 12:44 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 12:39 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60060308?at_medium=RSS&at_campaign=KARANGA">Top Florida health official on leave over support for vaccination</a> BBC: The state is investigating if Dr Raul Pino violated state law by urging his employees to get jabbed. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/pope-francis-coronavirus-parolin-pena-parra.html">Two Top Aides to Pope Francis Test Postive for Virus</a> NYT: The infected men meet frequently with Francis, who is 85, but it was not clear when they last saw the pope. 
- <p class="updated_time"> 11:19 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/18/1073802431/fauci-says-covid-19-wont-go-away-like-smallpox">Fauci says COVID-19 won't go away like smallpox, but will more likely become endemic</a> NPR: The White House's top medical adviser says the virus won't go away entirely. Instead, it should eventually hit a level where it "doesn't disrupt our normal social, economic and other interactions." 
  <p class="updated_time"> 11:03 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
@@ -184,10 +184,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president ran on his ability to reach across the aisle. Now he's squarely blaming Republicans. 
+ <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions if she doesn’t change her position. 
+ <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
- <p class="updated_time"> 03:56 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Senators are debating the bill, which the House approved last week, and arguing over the very nature of their institution as they clash over the filibuster. 
+ <p class="updated_time"> 04:10 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074169348/supreme-court-hears-arguments-on-campaign-finance-law-issues-statements-on-npr-r">Supreme Court hears arguments on campaign finance law, issues statements on NPR report</a> NPR: Three Supreme Court justices issued statements Wednesday addressing an NPR story about relations among the justices 
+ <p class="updated_time"> 04:01 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 03:55 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172870/supreme-court-heard-cruz-case-about-using-post-election-contributions-to-repay-l">Supreme Court heard Cruz case about using post-election contributions to repay loans </a> NPR: The U.S. Supreme Court heard arguments in Republican Sen. Ted Cruz's bid to undo a provision limiting the amount of money candidates can be reimbursed for personal loans to their own campaigns. 
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
@@ -206,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 03:09 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074140845/federal-judge-muslim-woman">Biden's latest picks include 1st Muslim woman nominated to serve as a federal judge</a> NPR: Nusrat Choudhury is among eight new judicial nominees announced by the president. The White House said the nominees reflect his commitment to diversifying historically white, male-dominated positions. 
- <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:28 PM CT, Jan. 19 </p> 
@@ -219,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden holds press conference ahead of one-year White House anniversary</a> NPR: President Biden will take questions from reporters on Wednesday as his term approaches the one-year mark. It's a chance for him to try to focus on highlights even as some big priorities have stalled. 
+ <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden acknowledges his team should have done more COVID testing earlier</a> NPR: President Biden took questions from reporters on Wednesday as his term approaches the one-year mark. "Should we have done more testing earlier? Yes. But we're doing more now," he said. 
  <p class="updated_time"> 01:55 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
@@ -230,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/us-allies-ukraine-weapons-russia-invasion-527375">Allies wait on U.S. approval to arm Ukraine as invasion worries mount</a> Politico: Baltic NATO allies Estonia, Lithuania and Latvia are looking to transfer American-made lethal weapons such as anti-armor and ground-to-air missiles to Ukraine. 
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
- <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
  <p class="updated_time"> 11:33 AM CT, Jan. 19 </p> 
@@ -260,10 +268,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">As Biden marks 1 year in office, he'll hold a news conference</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010104/morning-news-brief">News brief: COVIDtests.gov, Biden news conference, Blinken's Ukraine trip</a> NPR: A new federal government website makes it easy to order COVID-19 tests. President Biden marks one year in office. U.S. Secretary of State Antony Blinken is trying to defuse Russia-Ukraine tensions. 
- <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
- <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
@@ -286,16 +290,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
- <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/biden-free-at-home-covid-tests-527131">Biden admin to start offering free at-home Covid tests on Jan. 19</a> Politico: A senior administration official told reporters the government has 420 million tests under contract and tens of millions already in its possession. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
- <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
@@ -348,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
- <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
