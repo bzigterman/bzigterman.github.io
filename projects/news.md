@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:01 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
+ <p class="updated_time"> 08:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 07:36 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a  meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 07:35 AM CT, Jan. 19 </p> 
@@ -21,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
+ <p class="updated_time"> 06:52 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60052131?at_medium=RSS&at_campaign=KARANGA">Sheikh Jarrah: Israeli police evict Palestinians from East Jerusalem home</a> BBC: Israeli police demolish the building in the sensitive Sheikh Jarrah area after a two-day stand-off. 
  <p class="updated_time"> 06:34 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60054554?at_medium=RSS&at_campaign=KARANGA">Ashling Murphy: Further arrest in murder investigation</a> BBC: Irish police are questioning a man about withholding information over the killing of Ashling Murphy. 
  <p class="updated_time"> 06:23 AM CT, Jan. 19 </p> 
@@ -35,12 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 04:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
- <p class="updated_time"> 04:26 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Ukraine: Blinken in Kyiv urges Russia to take peaceful path</a> BBC: Russia denies any plan to attack Ukraine but tensions are high as Russian troops carry out drills. 
  <p class="updated_time"> 04:24 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
- <p class="updated_time"> 04:22 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60052734?at_medium=RSS&at_campaign=KARANGA">Sania Mirza: India tennis star to retire after 2022 season</a> BBC: Sania Mirza, a former Wimbledon doubles champion, is one of India's most celebrated sports stars. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
  <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
- <p class="updated_time"> 04:24 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html">North Korea Launches 2 Short-Range Ballistic Missiles</a> NYT: The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North. 
  <p class="updated_time"> 03:44 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/eric-zemmour-convicted-racial-hate.html">Éric Zemmour, French Far-Right Candidate, Convicted for Inciting Racial Hatred</a> NYT: Éric Zemmour, a pundit whose presidential run has upended French politics, had called unaccompanied migrant children “murderers” and “rapists” on television. 
  <p class="updated_time"> 03:18 PM CT, Jan. 17 </p> 
