@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the imminent rollout of 5G services could be disastrous. 
+ <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
+ <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60051796?at_medium=RSS&at_campaign=KARANGA">Britney Spears issues cease and desist letter to sister Jamie Lynn over book</a> BBC: The singer accuses Jamie Lynn Spears of promoting "false or fantastical grievances" in her new book. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 03:19 AM CT, Jan. 19 </p> 
@@ -40,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60020888?at_medium=RSS&at_campaign=KARANGA">The women facing rape threats and abuses on Clubhouse</a> BBC: The women say right-wing trolls in India targeted them for criticising Narendra Modi and his government. 
  <p class="updated_time"> 06:08 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be taken off social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
+ <a href="https://www.bbc.co.uk/news/technology-60036861?at_medium=RSS&at_campaign=KARANGA">Should bad science be censored on social media?</a> BBC: A Royal Society report recommends against censoring scientific misinformation online. 
  <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
