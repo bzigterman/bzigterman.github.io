@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60061293?at_medium=RSS&at_campaign=KARANGA">Robert Anderson: University of Michigan reaches sex abuse settlement</a> BBC: Over 1,000 ex-University of Michigan students say they were abused by sports doctor Robert Anderson. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France. 
- <p class="updated_time"> 01:21 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60061293?at_medium=RSS&at_campaign=KARANGA">Robert Anderson: University of Michigan reaches sex abuse settlement</a> BBC: Over 1,000 ex-University of Michigan students say they were abused by sports doctor Robert Anderson. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:51 PM CT, Jan. 19 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
- <p class="updated_time"> 05:30 AM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073745848/north-korea-tests-more-missiles-but-experts-warn-against-taking-threats-at-face-">North Korea tests more missiles, but experts warn against taking threats at face value</a> NPR: Monday's test was North Korea's fourth launch in under two weeks. By contrast, it took the North 10 months to conduct that many ballistic missile tests last year. 
  <p class="updated_time"> 04:12 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html">Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</a> NYT: Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack. 
  <p class="updated_time"> 10:57 PM CT, Jan. 17 </p> 
@@ -186,10 +186,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoye, the fiancee of the former president's eldest son. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172826/voting-rights-protections-seem-destined-to-fail-as-biden-hits-1st-year-in-office">Voting rights protections seem destined to fail as Biden hits 1st year in office</a> NPR: As President Biden held a rare press conference to mark his first year in office, one of his top priorities — voting rights legislation — appeared destined to fail in a Senate vote. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172798/what-kamala-harris-has-gotten-done-in-her-1st-year-as-vice-president">What Kamala Harris has gotten done in her 1st year as vice president</a> NPR: People who the vice president has met with over the year while pursuing her huge — and some would say challenging — portfolio talk about what she has accomplished in the mish-mash of responsibilities. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074172770/president-biden-holds-rare-formal-press-conference-to-mark-his-1st-year-office">President Biden holds rare formal press conference to mark his 1st year office</a> NPR: President Biden held a rare formal press conference to mark his first year office. It comes at a particularly difficult point in his presidency. 
+ <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 03:09 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074140845/federal-judge-muslim-woman">Biden's latest picks include 1st Muslim woman nominated to serve as a federal judge</a> NPR: Nusrat Choudhury is among eight new judicial nominees announced by the president. The White House said the nominees reflect his commitment to diversifying historically white, male-dominated positions. 
- <p class="updated_time"> 03:09 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 02:59 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Pushes Back on Kremlin Demand</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he had no plans to meet Russia’s insistence on a written diplomatic proposal on its demands for European security. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
@@ -203,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden will hold a press conference ahead of one-year White House anniversary</a> NPR: President Biden will take questions from reporters on Wednesday as his term approaches the one-year mark. It's a chance for him to try to focus on highlights even as some big priorities have stalled. 
+ <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden holds press conference ahead of one-year White House anniversary</a> NPR: President Biden will take questions from reporters on Wednesday as his term approaches the one-year mark. It's a chance for him to try to focus on highlights even as some big priorities have stalled. 
  <p class="updated_time"> 01:55 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
@@ -280,12 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months">Americans' political party preferences shifted to Republicans in recent months</a> NPR: More Americans identify as Republicans or lean towards the GOP than prefer Democrats, according to new Gallup data. The shift could portend good news for Republicans in this midterm election year. 
  <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
- <p class="updated_time"> 04:45 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073881777/divisions-at-the-u-s-supreme-court-are-playing-out-in-differences-among-the-just">Divisions at the U.S. Supreme Court are playing out in differences among the justices</a> NPR: The U.S. Supreme Court hasn't been this divided in decades. Disagreements over masking, social issues and the Constitution itself are playing out among the justices themselves. 
- <p class="updated_time"> 04:44 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073898495/jan-6-panel-subpoenas-rudy-giuliani-other-lawyers-tied-to-false-election-claims">Jan. 6 panel subpoenas Rudy Giuliani and other lawyers tied to false election claims</a> NPR: The panel wants to hear from lawyers who advanced former President Donald Trump's false claims of election fraud. 
- <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
  <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
@@ -294,12 +298,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/supreme-court-boston-flag-free-speech.html">Supreme Court Appears Skeptical of Boston’s Refusal to Fly Christian Flag</a> NYT: The court seemed poised to rule that the city, which has approved many other requests to raise flags at its City Hall, violated a Christian group’s free speech rights. 
- <p class="updated_time"> 12:16 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073817562/order-covid-tests-free-biden-white-house">The Postal Service is now taking orders for free COVID-19 test kits</a> NPR: The at-home tests are expected to be delivered by USPS later this month. The White House said the site is in "beta testing" and will be launched formally Wednesday. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
- <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/01/18/1073292913/a-year-in-experts-assess-bidens-hits-and-misses-on-handling-the-pandemic">A year in, experts assess Biden's hits and misses on handling the pandemic</a> NPR: When he came into office, Biden launched an ambitious seven-point plan for defeating the virus. Here's how experts score his results. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:10 AM CT, Jan. 18 </p> 
