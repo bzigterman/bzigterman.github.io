@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:10 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting-historic-photos.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
  <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074076149/boris-johnson-resignation-calls">Britain's Johnson faces growing calls to quit after throwing parties during lockdown</a> NPR: The prime minister has admitted to throwing "bring your own booze" parties at his official residence in London while ordinary Britons were told to stay away from unnecessary gatherings. 
- <p class="updated_time"> 10:25 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting-historic-photos.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
+ <p class="updated_time"> 10:49 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60050996?at_medium=RSS&at_campaign=KARANGA">Hana Horka: Czech singer dies after catching Covid intentionally</a> BBC: Hana Horka's son tells the BBC his mother was unvaccinated but wanted to acquire immunity. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 10:14 AM CT, Jan. 19 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
- <p class="updated_time"> 06:16 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60050996?at_medium=RSS&at_campaign=KARANGA">Hana Horka: Czech singer dies after catching Covid intentionally</a> BBC: Hana Horka's son tells the BBC his mother was unvaccinated but wanted to acquire immunity. 
  <p class="updated_time"> 04:48 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Blinken Seeks to Reassure Ukraine as Russia Moves Troops in Region</a> WSJ: The Biden administration’s top diplomat warned that Russia could invade Ukraine as concerns mounted over Moscow’s deployment of forces to neighboring Belarus. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
