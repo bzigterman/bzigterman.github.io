@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 11:24 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Tonga's only undersea cable was destroyed in a volcanic eruption, severely crippling communications. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60034179?at_medium=RSS&at_campaign=KARANGA">Tonga undersea cable needs 'at least' four weeks to repair: NZ</a> BBC: Its only undersea cable was destroyed in an eruption, cutting it off from the rest of the world. 
  <p class="updated_time"> 11:22 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 11:02 PM CT, Jan. 18 </p> 
