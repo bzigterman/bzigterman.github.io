@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:09 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 12:08 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
+ <p class="updated_time"> 11:57 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, Star of French Cinema, Dies in Skiing Accident</a> NYT: Known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent, Mr. Ulliel was just 37 when he died in France. 
  <p class="updated_time"> 11:50 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
- <p class="updated_time"> 11:40 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, Star of French Cinema, Dies in Skiing Accident</a> NYT: Known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent, Mr. Ulliel was just 37 when he died in France. 
  <p class="updated_time"> 11:26 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60048395?at_medium=RSS&at_campaign=KARANGA">Blinken: Russia wants to divide Ukrainian society</a> BBC: Moscow denies any plan to attack Ukraine and says US support for the country is a threat to Russia. 
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons</a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
  <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073828708/israel-spyware-citizens-nso-group">Israeli police used spyware to hack its own citizens, an Israeli newspaper reports</a> NPR: According to a report in Israeli media, Israel has hacked activists, mayors and other Israeli citizens without judicial oversight using spyware from the controversial NSO Group. 
- <p class="updated_time"> 12:32 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/kazakhstan-nursultan-nazarbayev-video.html">Kazakhstan's Former Leader Speaks Out in Video on Unrest</a> NYT: Nursultan Nazarbayev, who had been absent during the recent unrest that gripped the country, said he supported the country’s leader and the economic reforms he has proposed. 
  <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 07:45 AM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60025147?at_medium=RSS&at_campaign=KARANGA">Texas synagogue siege: Rabbi describes being held hostage</a> BBC: Rabbi Charlie Cytron-Walker speaks to CBS Mornings about being held hostage at a Texas synagogue. 
- <p class="updated_time"> 04:00 AM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html">The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</a> NYT: The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time. 
 
 
 </details>
@@ -196,8 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:09 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown to change Senate rules — and failure</a> Politico: Senate Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
+ <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
  <p class="updated_time"> 11:33 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
  <p class="updated_time"> 11:14 AM CT, Jan. 19 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/us/politics/martin-luther-king-voting-rights.html">Marchers Honor King and Call on Senate to Pass Voting Rights Legislation</a> NYT: The holiday came a day before the Senate returns to debate what is expected to be a doomed effort to pass the legislation. But advocates say they aren’t giving up. 
  <p class="updated_time"> 08:18 PM CT, Jan. 16 </p> 
  <a href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html">Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</a> NYT: The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced. 
- <p class="updated_time"> 01:20 PM CT, Jan. 16 </p> 
- <a href="https://www.nytimes.com/2022/01/15/us/politics/trump-rally-republicans.html">Trump Rally Underscores GOP Tension Over How to Win in 2022</a> NYT: Donald Trump’s rally in Arizona on Saturday featured a host of election deniers. His involvement in state races and his inability to let go of his 2020 loss worries many Republicans. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
