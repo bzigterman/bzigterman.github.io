@@ -8,6 +8,8 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the imminent rollout of 5G services could be disastrous. 
+ <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
  <p class="updated_time"> 03:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson signals that he might ease England’s virus rules.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
- <p class="updated_time"> 08:27 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the imminent rollout of 5G services could be disastrous. 
  <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
