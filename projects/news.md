@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:51 AM CT, Jan. 19 </p> 
+ <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
+ <p class="updated_time"> 06:19 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
+ <p class="updated_time"> 06:17 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done but it could affect weather in the short term. 
+ <p class="updated_time"> 06:14 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60051806?at_medium=RSS&at_campaign=KARANGA">Andre Leon Talley: Former Vogue creative director dies aged 73</a> BBC: Andre Leon Talley was credited with getting more black models into the fashion industry. 
  <p class="updated_time"> 04:22 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60052734?at_medium=RSS&at_campaign=KARANGA">Sania Mirza: India tennis star to retire after 2022 season</a> BBC: Sania Mirza, a former Wimbledon doubles champion, is one of India's most celebrated sports stars. 
- <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done but it could affect weather in the short term. 
  <p class="updated_time"> 03:56 AM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA">5G phones: How serious is the threat to US flights?</a> BBC: Ten leading US airlines are warning that the expansion of 5G services could be disastrous. 
  <p class="updated_time"> 03:42 AM CT, Jan. 19 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/asia/philippines-covid-surge-omicron.html">A Record Virus Surge in the Philippines, but Doctors Are Hopeful</a> NYT: Health officials say recent infections have been milder than those seen in previous waves, though they are still urging caution. 
  <p class="updated_time"> 07:37 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostage-taker-family.html">A Tense Texas Standoff Leads to Emotional Phone Call Between Brothers</a> NYT: Gulbar Akram described his brother, Faisal, who was holding four hostages in a Texas synagogue on Saturday, as deeply troubled. He said he worked with the police to try to “talk him down.’’ 
- <p class="updated_time"> 06:43 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/tonga-volcano.html">After Volcano, Tongans Abroad Wait for News From Home</a> NYT: Overseas Tongans were desperately seeking word from their loved ones after a huge undersea eruption severed communications lines two days ago. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/17/world/europe/texas-synagogue-hostages-aafia-siddiqui.html">Officials Investigating Synagogue Attacker’s Link to 2010 Terror Case</a> NYT: Aafia Siddiqui has spent almost 12 years in a U.S. federal prison after being convicted of trying to kill American soldiers and plotting to blow up the Statue of Liberty. 
  <p class="updated_time"> 01:41 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/jodie-ginsberg-committee-to-protect-journalists.html">Jodie Ginsberg, a Fighter for Press Freedom, Is Expanding Her Battle</a> NYT: Jodie Ginsberg, a veteran British journalist and advocate, will become the president of the Committee to Protect Journalists at a time when attacks on the press are at an all-time high. 
- <p class="updated_time"> 12:41 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html">Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</a> NYT: So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation. 
  <p class="updated_time"> 12:03 PM CT, Jan. 17 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/novak-djokovic-australian-open-serbia.html">Djokovic Returns to Warm Embrace in Home Country of Serbia</a> NYT: Novak Djokovic’s deportation from Australia over his vaccination status could signal future difficulties in his quest to win a record 21st tennis Grand Slam title. 
  <p class="updated_time"> 08:10 AM CT, Jan. 17 </p> 
@@ -215,11 +215,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074010104/morning-news-brief">News brief: COVIDtests.gov, Biden news conference, Blinken's Ukraine trip</a> NPR: A new federal government website makes it easy to order COVID-19 tests. President Biden marks one year in office. U.S. Secretary of State Antony Blinken is trying to defuse Russia-Ukraine tensions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
- <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">In Voting Rights Fight, Democrats Train Ire on Sinema and Manchin</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration">A year after mobilizing for Biden, young supporters feel let down on immigration</a> NPR: Young people helped mobilize voters for President Biden. Many now feel Biden hasn't pushed hard enough to deliver on the immigration goals he set. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum">A push to ban members of Congress from trading individual stocks gains momentum </a> NPR: House Speaker Nancy Pelosi, D-Calif., doesn't trade stocks, but thinks lawmakers should be able to pick individual stocks. The top House Republican backs a new ban amid a bipartisan push for reform. 
  <p class="updated_time"> 12:36 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074000357/new-yorks-attorney-general-says-trumps-company-misled-banks-tax-officials">New York's attorney general says Trump's company misled banks, tax officials</a> NPR: Letitia James' office gave its most detailed accounting yet of its probe into allegations that Trump's company repeatedly misstated the value of assets to get favorable loans or slash its tax burden. 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
@@ -374,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' election reform bills. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
 
 
 </details>
