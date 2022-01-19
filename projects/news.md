@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 05:46 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 05:10 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
@@ -190,6 +190,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/jan-6-subpoena-far-right-promoters-527422">Jan. 6 investigators subpoena far-right figures who promoted election fraud claims</a> Politico: Nick Fuentes and Patrick Casey, leaders of the extremist America First movement, both were outside the Capitol on Jan. 6. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request  was Justice Clarence Thomas. 
+ <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:33 PM CT, Jan. 19 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
- <p class="updated_time"> 04:14 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074010146/1-year-after-taking-office-biden-will-take-questions-from-reporters">As Biden marks 1 year in office, he'll hold a news conference</a> NPR: President Biden holds a rare formal news conference Wednesday — as voting rights legislation seems set to fail in the Senate. Voting rights is a key priority of the administration. 
  <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
  <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
@@ -310,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
+ <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
