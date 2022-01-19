@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
+ <p class="updated_time"> 09:28 AM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60054237?at_medium=RSS&at_campaign=KARANGA">Gaspard Ulliel: Moon Knight actor dies aged 37 after ski accident</a> BBC: Gaspard Ulliel, who features in the upcoming Marvel TV series, died after an accident on the Alps. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-press.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:48 AM CT, Jan. 19 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">Blinken Visits Ukraine, Warning of ‘Short Notice’ Russian Attack</a> NYT: The U.S. secretary of state met with Ukraine’s president before a  meeting Friday with Russia’s foreign minister, with Russian forces massed along the Ukrainian border. 
  <p class="updated_time"> 07:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
- <p class="updated_time"> 07:14 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 07:07 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 06:54 AM CT, Jan. 19 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60048554?at_medium=RSS&at_campaign=KARANGA">Man arrested after Australian child found dead in barrel</a> BBC: A man has been charged with murder after a five-day search for a girl near Sydney, police say. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
- <p class="updated_time"> 07:59 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60048394?at_medium=RSS&at_campaign=KARANGA">Ingrid Betancourt: Former Farc captive announces presidential bid</a> BBC: Ex-Senator Ingrid Betancourt spent six years as a Farc captive after being kidnapped in 2002. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 07:28 PM CT, Jan. 18 </p> 
