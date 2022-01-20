@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:22 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60063148?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: Brother urged Texas hostage-taker to surrender</a> BBC: A recording of the gunman's last phone call to family made during the siege has emerged. 
  <p class="updated_time"> 01:31 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president warns the Russian leader against invading, but hints at splits among Western allies. 
  <p class="updated_time"> 12:47 AM CT, Jan. 20 </p> 
@@ -27,14 +29,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: Mr Biden casts doubt on election integrity as party rebels doom his voting overhaul agenda. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
+ <p class="updated_time"> 08:20 PM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovics-australian-visa-challenge-failed-due-to-antivaccine-stance-11642663221">Djokovic's Australian Visa Challenge Failed Due to Antivaccine Stance</a> WSJ: Novak Djokovic’s last-ditch effort to defend his Australian Open title by having his visa reinstated failed because a court accepted that people could emulate the tennis icon’s opposition to being vaccinated. 
  <p class="updated_time"> 08:18 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-60058120?at_medium=RSS&at_campaign=KARANGA">Millions are dying from drug-resistant infections, global report says</a> BBC: The death toll, worst in poorer countries and among the under-fives, needs urgent action, experts say. 
+ <p class="updated_time"> 08:07 PM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/tongas-disaster-preparedness-likely-limited-tsunami-death-toll-11642662466">Tonga's Disaster Preparedness Likely Limited Tsunami Death Toll</a> WSJ: Familiarity with natural disasters and preparations such as tsunami drills contributed to the population’s rapid reaction, government officials and humanitarian organizations say. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 07:31 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
- <p class="updated_time"> 07:25 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60063148?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: Brother urged Texas hostage-taker to surrender</a> BBC: A recording of the gunman's last phone call to family made during the siege has emerged. 
  <p class="updated_time"> 06:59 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60051524?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Biblical disaster shakes most Mormon nation in the world</a> BBC: Tonga is the world's most Mormon nation and the Church is playing a key role after the volcanic eruption. 
  <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
@@ -79,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
+ <p class="updated_time"> 01:47 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60057426?at_medium=RSS&at_campaign=KARANGA">Downing Street parties: Why UK PM Boris Johnson is facing calls to quit</a> BBC: Boris Johnson's premiership hangs in the balance, but what's behind calls from all sides for his resignation? 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
@@ -235,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:10 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-attack-14th-amendment.html">How Jan. 6 Gave the 14th Amendment New Life</a> NYT: Legal scholars say a long-forgotten provision of the Constitution could bar from office anyone who encouraged the Capitol riot. 
  <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
@@ -312,6 +318,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Presses Kyrsten Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
  <p class="updated_time"> 08:59 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
+ <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
+ <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
