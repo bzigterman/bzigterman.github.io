@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
+ <p class="updated_time"> 09:33 PM CT, Jan. 19 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/19/1074256301/nbc-not-sending-sports-announcers-to-winter-olympics">COVID concerns will keep NBC announcers home from the Beijing Olympics</a> NPR: NBC Sports officials say their plan of covering the Olympics from its Stamford, Conn., facility is a similar strategy used to cover the delayed 2020 Tokyo Summer Olympics last year. 
  <p class="updated_time"> 09:20 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: Mr Biden casts doubt on election integrity as party rebels doom his voting overhaul agenda. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-60058120?at_medium=RSS&at_campaign=KARANGA">Millions are dying from drug-resistant infections, global report says</a> BBC: The death toll, worst in poorer countries and among the under-fives, needs urgent action, experts say. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
- <p class="updated_time"> 07:53 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 07:31 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
  <p class="updated_time"> 07:25 PM CT, Jan. 19 </p> 
@@ -26,11 +28,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60051524?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Biblical disaster shakes most Mormon nation in the world</a> BBC: Tonga is the world's most Mormon nation and the Church is playing a key role after the volcanic eruption. 
  <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Haridwar hate speech: Who is the arrested Hindu priest Yati Narsinghanand Saraswati?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswat: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - "A perfect tool for stalking"</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
  <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Omicron: Is racism why South African evidence of milder infection was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Is racism why mild Omicron evidence was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-boris-johnson-parties.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
  <p class="updated_time"> 01:27 PM CT, Jan. 18 </p> 
  <a href="https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons">NASA scientists estimate Tonga blast at 10 megatons</a> NPR: Researchers who have been studying the volcano since 2015 say it was likely caused by seawater flowing into a chamber filled with magma. 
- <p class="updated_time"> 12:55 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073828708/israel-spyware-citizens-nso-group">Israeli police used spyware to hack its own citizens, an Israeli newspaper reports</a> NPR: According to a report in Israeli media, Israel has hacked activists, mayors and other Israeli citizens without judicial oversight using spyware from the controversial NSO Group. 
  <p class="updated_time"> 11:55 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html">Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</a> NYT: Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver. 
  <p class="updated_time"> 11:35 AM CT, Jan. 18 </p> 
@@ -192,22 +192,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
+ <p class="updated_time"> 09:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
+ <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
+ <p class="updated_time"> 09:34 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
  <p class="updated_time"> 09:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Putin Will Order Ukraine Invasion, but ‘Will Regret Having Done It’</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 08:46 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
  <p class="updated_time"> 08:38 PM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:57 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Republicans used the filibuster for a fifth time to block action on the bill, and Democrats pledged to begin what appeared to be a doomed bid to change Senate rules to pass it. 
- <p class="updated_time"> 07:53 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
- <p class="updated_time"> 07:53 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 07:52 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-ukraine-russia-527440">White House looks to clarify Biden's 'minor incursion' comment on Russia and Ukraine</a> Politico: Press secretary Jen Psaki said the U.S. response to an invasion would be “swift, severe, and united,” after the president said it would depend on the severity of Russia’s actions. 
  <p class="updated_time"> 07:37 PM CT, Jan. 19 </p> 
@@ -297,7 +299,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073908955/senate-voting-rights-bills-filibuster">Republicans block voting rights bills, setting up Democratic fracture on Senate rules</a> NPR: The Democratic effort to alter the filibuster and sidestep GOP opposition was doomed in recent days as Sens. Joe Manchin of West Virginia and Kyrsten Sinema of Arizona reiterated their opposition. 
+ <a href="https://www.npr.org/2022/01/19/1073908955/senate-voting-rights-bills-filibuster">Democrats fail to change Senate rules to overcome GOP opposition on voting rights</a> NPR: The push to alter the filibuster and sidestep a Republican blockade of two voting rights bills was doomed by Democratic Sens. Joe Manchin of West Virginia and Kyrsten Sinema of Arizona. 
  <p class="updated_time"> 06:51 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074031926/new-york-ag-james-says-trumps-company-misled-banks-tax-officials">New York AG James says Trump's company misled banks, tax officials </a> NPR: Attorney General Letitia James says her office uncovered evidence of financial irregularities at former President Donald Trump's business, and wants Trump and two of his adult children to testify. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
