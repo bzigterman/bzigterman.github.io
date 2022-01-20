@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:29 PM CT, Jan. 20 </p> 
+ <p class="updated_time"> 03:32 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500402/a-look-at-how-president-biden-has-handled-the-pandemic-through-his-1st-year-in-o">A look at how President Biden has handled the pandemic through his 1st year in office</a> NPR: One year ago, President Biden took the oath of office, with beating COVID at the top of his agenda. Managing the uncertainty of what comes next remains the greatest challenge of his presidency. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's strict limits on deportations isn't necessarily being followed</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1073061575/experts-see-red-flags-at-nonprofit-raising-big-money-for-capitol-riot-defendants">Experts see 'red flags' at nonprofit raising big money for Capitol riot defendants</a> NPR: The Patriot Freedom Project has raised around $900,000 to support alleged Jan. 6 Capitol rioters. The group says the funds support defendants, but families have raised concerns about transparency. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
- <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074296368/why-texas-election-officials-are-rejecting-hundreds-of-vote-by-mail-applications">Why Texas election officials are rejecting hundreds of vote-by-mail applications</a> NPR: Ahead of the March primary, local elections officials in Texas are starting to deal with the effects of a new GOP-backed voting law. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
  <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
