@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:29 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
+ <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
  <p class="updated_time"> 07:19 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60070025?at_medium=RSS&at_campaign=KARANGA">Liberian church stampede kills 29 worshippers in Monrovia</a> BBC: At least 29 people, including 11 children, die when robbers attack an open-air service, causing panic. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
- <p class="updated_time"> 06:49 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
  <p class="updated_time"> 06:47 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 06:46 AM CT, Jan. 20 </p> 
@@ -98,11 +100,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
+ <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Inaccurate posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59974018?at_medium=RSS&at_campaign=KARANGA">The battle for Steaua Bucharest - an Eastern European giant at war with itself</a> BBC: European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two. 
- <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -192,14 +192,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:37 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
+ <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
+ <p class="updated_time"> 07:41 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the most well known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 07:34 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
- <p class="updated_time"> 07:29 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:10 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-attack-14th-amendment.html">How Jan. 6 Gave the 14th Amendment New Life</a> NYT: Legal scholars say a long-forgotten provision of the Constitution could bar from office anyone who encouraged the Capitol riot. 
- <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
@@ -322,20 +324,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
- <p class="updated_time"> 08:59 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
- <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
+ <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
