@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
+ <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
  <p class="updated_time"> 03:43 PM CT, Jan. 20 </p> 
@@ -27,10 +31,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500316/as-the-olympics-near-activists-criticize-chinas-alleged-human-rights-violations">As the Olympics near, activists criticize China's alleged human rights violations</a> NPR: As athletes make final preparations for the Winter Olympics, human rights advocates are ramping up their criticism of host country China's alleged violations, particularly against its Uyghur minority. 
  <p class="updated_time"> 03:17 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
+ <p class="updated_time"> 03:13 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
- <p class="updated_time"> 02:36 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/animals-covid.html">Infected Zoo Lions Spur Concern Over Coronavirus in the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 02:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 02:18 PM CT, Jan. 20 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
- <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60071856?at_medium=RSS&at_campaign=KARANGA">Paris Fashion Week: Louis Vuitton shows Virgil Abloh's last collection</a> BBC: The French fashion house pays tribute to its late artistic director during Paris Fashion Week. 
  <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60075135?at_medium=RSS&at_campaign=KARANGA">Rare twin elephants born in Kenya</a> BBC: Twins account for only 1% of elephant births, with the last known birth recorded in 2006. 
  <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian-American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
- <p class="updated_time"> 09:16 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
  <p class="updated_time"> 09:12 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: The agency concluded that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
  <p class="updated_time"> 09:08 AM CT, Jan. 20 </p> 
@@ -254,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074397162/the-jan-6-panel-wants-to-talk-to-ivanka-trump">The Jan. 6 panel wants to talk to Ivanka Trump</a> NPR: The committee is asking Ivanka Trump to voluntarily cooperate with the panel's investigation. The panel sent her a letter on Thursday. 
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
- <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">Biden: Putin ‘has no misunderstanding’ about consequences of Ukraine invasion</a> Politico: Top Ukrainian officials argued the president’s remarks at a White House news conference could embolden Russia to launch an attack. 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 09:53 AM CT, Jan. 20 </p> 
