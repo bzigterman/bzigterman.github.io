@@ -294,6 +294,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
+ <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess.</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
  <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris pushed hard for voting rights — then hit a brick wall</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
- <p class="updated_time"> 07:00 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/walensky-cdc-burnout-pandemic-omicron-527179">Walensky faces CDC burnout as pandemic enters third year</a> Politico: Inside the agency, a race is taking place. Can it stop the spread of Covid-19 before its staff wears out from exhaustion? 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
