@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:39 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. to Charge Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 11:13 AM CT, Jan. 20 </p> 
@@ -61,6 +63,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1073764647/us-china-southeast-asia-trade-defense">With U.S. focused on defense, China's trade and infrastructure sweep Southeast Asia</a> NPR: The Biden administration hopes to make deeper inroads in Southeast Asia but lags far behind China, which has already built up major trade ties, as well as roads and a high-speed rail. 
+ <p class="updated_time"> 06:40 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-meets-el-salvadors-bitcoin-boosting-leader-amid-economic-crisis-11642678083">Erdogan Meets El Salvador's Bitcoin-Boosting Leader</a> WSJ: The Turkish government has taken a restrictive approach to cryptocurrencies in recent years. 
+ <p class="updated_time"> 06:37 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60065283?at_medium=RSS&at_campaign=KARANGA">'They probably have a low IQ'</a> BBC: World number two Daniil Medvedev and fourth seed Stefanos Tsitsipas both made it into the third round of the Australian Open in Melbourne. 
  <p class="updated_time"> 05:49 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/australia-juvenile-forklift-drivers.html">Australia’s (Brief) Idea to Ease Supply Chains: Juvenile Forklift Drivers</a> NYT: A proposal, and the rapid retreat that followed, both elicited waggish mockery and highlighted a serious economic problem. 
  <p class="updated_time"> 05:45 AM CT, Jan. 20 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine's Foreign Minister Says Biden Comment Underestimates Russia's Intention</a> WSJ: Dmytro Kuleba responded to a comment from the U.S. president, in which he suggested that Western nations weren’t in tandem on how to respond to Russia in the event of a “minor incursion” on Ukraine. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317402/the-first-humanitarian-aid-has-arrived-in-the-pacific-nation-of-tonga">The first humanitarian aid has arrived in the Pacific nation of Tonga</a> NPR: The flight arrived in Tonga five days after a massive underwater volcano erupted there – killing three people and leaving extensive tsunami damage and a blanket of fallen ash in its wake. 
- <p class="updated_time"> 04:04 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60066404?at_medium=RSS&at_campaign=KARANGA">Djokovic could have inspired anti-vax Australians, court says</a> BBC: The court said it was reasonable to think Djokovic might have inspired anti-vaccine sentiment in Australia. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60064474?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell seeks retrial in sex abuse case</a> BBC: It comes after one of the jurors convicting her of sex abuse charges said he had influenced others. 
  <p class="updated_time"> 12:29 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074310637/new-zealand-no-lockdown-omicron-variant">New Zealand will not impose lockdown when omicron hits</a> NPR: "This stage of the pandemic is different to what we have dealt with before. Omicron is more transmissible," Prime Minister Jacinda Ardern said. 
- <p class="updated_time"> 12:28 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-meets-el-salvadors-bitcoin-boosting-leader-amid-economic-crisis-11642678083">Erdogan Meets El Salvador's Bitcoin-Boosting Leader</a> WSJ: The Turkish government has taken a restrictive approach to cryptocurrencies in recent years, but analysts expect El Salvaror’s Nayib Bukele to advocate for the use of crypto during the meeting. 
  <p class="updated_time"> 09:50 PM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/china-cuts-benchmark-rate-to-bolster-flagging-economy-11642668631">China Cuts Benchmark Rates to Bolster Flagging Economy</a> WSJ: The country’s central bank stepped in to support a slowing economy that has been weighed down by a slump in the property market during a politically important year for leader Xi Jinping. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
@@ -203,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">‘There are no minor incursions’: Ukrainian officials push back on Biden</a> Politico: They argue the president’s comment could embolden Russia to launch an attack. 
+ <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">Biden: Putin 'has no misunderstanding' about consequences of Ukraine invasion</a> Politico: Top Ukrainian officials argued the president’s remarks at a Wednesday press conference could embolden Russia to launch an attack. 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 10:52 AM CT, Jan. 20 </p> 
