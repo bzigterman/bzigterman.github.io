@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
+ <p class="updated_time"> 04:48 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
+ <p class="updated_time"> 04:47 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60075914?at_medium=RSS&at_campaign=KARANGA">'Pastor' arrested after disabled people found locked in his basement</a> BBC: The man and his wife claimed they were operating a "personal care home" in the dead-bolted basement. 
+ <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/austria-covid-vaccine-mandate.html">Austrian Parliament Set to Approve Covid Vaccine Mandate for Adults</a> NYT: Starting Feb. 1, most adults 18 and over must be vaccinated or face fines up to 3,600 euros. 
  <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
@@ -59,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
- <p class="updated_time"> 12:52 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60075914?at_medium=RSS&at_campaign=KARANGA">'Pastor' arrested after disabled people found locked in his basement</a> BBC: The man and his wife claimed they were operating a "personal care home" in the dead-bolted basement. 
  <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
  <p class="updated_time"> 12:22 PM CT, Jan. 20 </p> 
@@ -133,14 +139,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/special-series/future-self-hindsight.html">Dear People of 2022: What Would You Ask Your Future Self?</a> NYT: Hundreds of notes about the nature of progress left us wondering: What’s possible in a year’s time? 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
- <p class="updated_time"> 03:24 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074320720/u-k-conservatives-may-oust-boris-johnson">U.K. Conservatives may oust Boris Johnson — here's how they can do that</a> NPR: If Johnson does not heed calls to resign — and he insists he won't — he could be toppled through a no-confidence vote. 
  <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/60065407?at_medium=RSS&at_campaign=KARANGA">Tonga: Journalist gives first-hand account of volcano eruption</a> BBC: Speaking from Tonga's capital, Marian Kupu gives a first-hand account of when the undersea volcano erupted. 
  <p class="updated_time"> 02:58 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid planes arrive bearing crucial supplies</a> BBC: It comes after the Pacific nation was left devastated by a volcanic eruption and subsequent tsunami. 
- <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
@@ -198,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
+ <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
+ <p class="updated_time"> 04:47 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk.’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
  <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
@@ -252,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074227400/activists-abortion-anniversary-roevwade">Activists look ahead to what could be the 'last anniversary' for Roe</a> NPR: On both sides of the abortion debate, activists say this could be the last anniversary before Roe v. Wade is overturned or significantly rolled back. 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
- <p class="updated_time"> 12:06 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
  <p class="updated_time"> 11:55 AM CT, Jan. 20 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
- <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074317360/democrats-on-capitol-hill-fail-on-voting-rights-but-win-the-release-of-trump-fil">Democrats on Capitol Hill fail on voting rights but win the release of Trump files </a> NPR: Democrats' voting rights effort was blocked in the Senate, but they did get a victory at the Supreme Court — in the quest for Trump White House records related to the Jan. 6 insurrection. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
