@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:29 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid plane from New Zealand arrives</a> BBC: New Zealand and Australia are sending water and supplies, after ash was cleared from the runway. 
  <p class="updated_time"> 10:21 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 10:18 PM CT, Jan. 19 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: Mr Biden casts doubt on election integrity as party rebels doom his voting overhaul agenda. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 08:20 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: New Zealand and Australian aid planes to arrive</a> BBC: New Zealand and Australia are sending water and supplies, after ash was cleared from the runway. 
  <p class="updated_time"> 08:18 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-60058120?at_medium=RSS&at_campaign=KARANGA">Millions are dying from drug-resistant infections, global report says</a> BBC: The death toll, worst in poorer countries and among the under-fives, needs urgent action, experts say. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/havana-syndrome-cia-causes-527457">U.S. foe or specific weapon not behind sustained, global campaign causing ‘Havana Syndrome,’ CIA finds</a> Politico: Even as the CIA-led probe into the cause of symptoms continues, the broader intelligence community backed this finding with varying degrees of confidence. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 10:16 PM CT, Jan. 19 </p> 
@@ -249,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074208977/jan-6-panel-seeks-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel seeks phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: It marks the first public reporting of the committee seeking records from the former first family. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions if she doesn’t change her position. 
+ <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions. 
  <p class="updated_time"> 04:25 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/supreme-court-gorsuch-sotomayor-masks-527369">Gorsuch, Sotomayor deny beef over masks on the bench</a> Politico: “Reporting that Justice Sotomayor asked Justice Gorsuch to wear a mask surprised us,” a statement attributed jointly to the justices said. “It is false.” 
  <p class="updated_time"> 01:39 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/us-allies-ukraine-weapons-russia-invasion-527375">U.S. approves allied weapons shipments to Ukraine as worries mount</a> Politico: Baltic NATO allies Estonia, Lithuania and Latvia can now transfer American-made lethal weapons such as anti-armor and ground-to-air missiles to Ukraine. 
- <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation — and two centrists joined the GOP in resisting their push to change chamber rules. 
  <p class="updated_time"> 11:00 AM CT, Jan. 19 </p> 
