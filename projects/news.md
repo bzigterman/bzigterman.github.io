@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:18 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60076895?at_medium=RSS&at_campaign=KARANGA">Capitol riot inquiry asks Ivanka Trump to voluntarily testify</a> BBC: Congressional investigators believe she pressed her father to try to call off the rioters. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:57 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 01:52 PM CT, Jan. 20 </p> 
@@ -200,10 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on elections and filibuster were the right thing to do</a> NPR: The Senate Majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
+ <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
+ <p class="updated_time"> 02:49 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
- <p class="updated_time"> 02:36 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:05 PM CT, Jan. 20 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 01:26 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
- <p class="updated_time"> 01:17 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074387320/pelosi-opens-the-door-to-stock-trading-ban">Pelosi opens the door to stock trading ban</a> NPR: House Speaker Nancy Pelosi, D-Calif., has said a new law prohibiting members of Congress from picking individual stocks isn't needed, but added if it has the backing of caucus she is ok with it. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
@@ -232,6 +234,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
  <p class="updated_time"> 12:43 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074227400/activists-abortion-anniversary-roevwade">Activists look ahead to what could be the 'last anniversary' for Roe</a> NPR: On both sides of the abortion debate, activists say this could be the last anniversary before Roe v. Wade is overturned or significantly rolled back. 
+ <p class="updated_time"> 12:41 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:06 PM CT, Jan. 20 </p> 
@@ -315,8 +319,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:57 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/maura-healey-campaign-governor-massachusetts-527415">She took on Trump, Juul and the Sacklers. Now she wants to run Massachusetts.</a> Politico: State Attorney General Maura Healey is said to be preparing to launch a campaign for governor on Thursday. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074208977/jan-6-panel-seeks-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel seeks phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: It marks the first public reporting of the committee seeking records from the former first family. 
- <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess.</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
- <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation — and two centrists joined the GOP in resisting their push to change chamber rules. 
  <p class="updated_time"> 08:58 AM CT, Jan. 19 </p> 
