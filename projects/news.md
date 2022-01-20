@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
+ <p class="updated_time"> 07:07 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 06:49 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
  <p class="updated_time"> 06:47 AM CT, Jan. 20 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-erdogan-meets-el-salvadors-bitcoin-boosting-leader-amid-economic-crisis-11642678083">Erdogan Meets El Salvador's Bitcoin-Boosting Leader</a> WSJ: The Turkish government has taken a restrictive approach to cryptocurrencies in recent years, but analysts expect El Salvaror’s Nayib Bukele to advocate for the use of crypto during the meeting. 
  <p class="updated_time"> 11:03 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60047368?at_medium=RSS&at_campaign=KARANGA">Giant pristine coral reef discovered off Tahiti</a> BBC: Marine explorers find a "pristine" 3km coral reef at depths of 30m off the coast of Tahiti. 
- <p class="updated_time"> 10:18 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60063492?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption an 'ecological disaster'</a> BBC: The "ecological disaster" occurred after high waves caused by the volcanic eruption in Tonga. 
  <p class="updated_time"> 09:50 PM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/china-cuts-benchmark-rate-to-bolster-flagging-economy-11642668631">China Cuts Benchmark Rates to Bolster Flagging Economy</a> WSJ: The country’s central bank stepped in to support a slowing economy that has been weighed down by a slump in the property market during a politically important year for leader Xi Jinping. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswati: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
- <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Was South Africa ignored over mild Omicron evidence?</a> BBC: South African scientists say their research was not taken more seriously because it was from Africa. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
- <p class="updated_time"> 04:00 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172884/why-finding-the-missing-pieces-of-anne-franks-family-story-is-still-important-to">Why finding the missing pieces of Anne Frank's family story is still important today</a> NPR: NPR's Mary Louise Kelly speaks with author Rosemary Sullivan about working on a book that potentially reveals who betrayed Jewish teenage diarist Anne Frank and her family. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
@@ -115,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
- <p class="updated_time"> 02:13 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
  <p class="updated_time"> 01:47 PM CT, Jan. 19 </p> 
@@ -196,7 +194,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:58 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317339/bipartisan-senate-delegation-traveled-to-kyiv-to-meet-ukraines-leadership">Bipartisan Senate delegation traveled to Kyiv to meet Ukraine's leadership</a> NPR: NPR's A Martinez speaks with Democratic Sen. Chris Murphy of Connecticut about his recent trip to Ukraine as part of a bipartisan delegation of senators, and what he learned. 
@@ -223,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074296368/why-texas-election-officials-are-rejecting-hundreds-of-vote-by-mail-applications">Why Texas election officials are rejecting hundreds of vote-by-mail applications</a> NPR: Ahead of the March primary, local elections officials in Texas are starting to deal with the effects of a new GOP-backed voting law. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1072477947/five-moments-that-mattered-in-bidens-1st-year-in-the-white-house">Five moments that mattered in Biden's 1st year in the White House</a> NPR: President Biden's 1st year in office was marked by the pandemic fight, the chaotic withdrawal from Afghanistan and a tough push to get his agenda through Congress. 
+ <a href="https://www.npr.org/2022/01/20/1072477947/five-moments-that-mattered-in-bidens-1st-year-in-the-white-house">5 moments that mattered in Biden's 1st year in the White House</a> NPR: President Biden's 1st year in office was marked by the pandemic fight, the chaotic withdrawal from Afghanistan and a tough push to get his agenda through Congress. 
  <p class="updated_time"> 12:52 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074311649/new-mexico-model-inclusive-race-education">New Mexico is pushing to be a 'model' for how race is taught in U.S. schools</a> NPR: Officials say they hope their standards can be a model for the country of social studies teaching that is culturally responsive, as student populations grow increasingly diverse. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
@@ -330,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
- <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
