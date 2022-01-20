@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:33 PM CT, Jan. 20 </p> 
+ <p class="updated_time"> 05:50 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 05:32 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60075139?at_medium=RSS&at_campaign=KARANGA">The woman dressing as a household item every day in January</a> BBC: Taryn de Vere has gained global attention for outfits including pot noodle and curry powder. 
@@ -196,8 +196,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:01 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/georgia-prosecutor-trump-527529">Georgia DA asks for special grand jury in election probe</a> Politico: Fani Willis has been looking at Donald Trump’s Jan. 2 phone call to Brad Raffensperger, among other things. 
- <p class="updated_time"> 05:33 PM CT, Jan. 20 </p> 
+ <p class="updated_time"> 05:50 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 05:47 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/supreme-court-texas-abortion-law.html">Supreme Court Refuses to Require Prompt Action on Texas Abortion Law</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 05:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 05:14 PM CT, Jan. 20 </p> 
