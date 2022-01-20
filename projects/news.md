@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:26 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
- <p class="updated_time"> 01:03 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened structures in a small town and left a large crater. 
  <p class="updated_time"> 12:52 PM CT, Jan. 20 </p> 
@@ -77,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
- <p class="updated_time"> 07:37 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-hampshire-59899980?at_medium=RSS&at_campaign=KARANGA">'The hardest part was flying over Siberia'</a> BBC: Zara Rutherford endured extreme conditions during a trip that took two months longer than planned. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 07:06 AM CT, Jan. 20 </p> 
@@ -192,6 +190,8 @@ permalink: /projects/news/
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
 
 
@@ -200,10 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:00 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
+ <p class="updated_time"> 01:26 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 01:17 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
  <p class="updated_time"> 12:43 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074227400/activists-abortion-anniversary-roevwade">Activists look ahead to what could be the 'last anniversary' for Roe</a> NPR: On both sides of the abortion debate, activists say this could be the last anniversary before Roe v. Wade is overturned or significantly rolled back. 
- <p class="updated_time"> 12:42 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 12:39 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/bitcoin-climate-democrats-527431">Bitcoin is next climate fight for Democrats</a> Politico: Scrutiny from lawmakers is triggering lobbying on behalf of crypto miners who are using an escalating amount of computing and electricity to extract valuable digital tokens from the blockchain. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/senators-russia-ukraine-crisis-deepens-527417">Senators wrestle with Russia sanctions as Ukraine crisis deepens</a> Politico: “We should impose those sanctions sooner rather than later, not wait for the invasion to start," said Sen. Richard Blumenthal. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
@@ -293,7 +293,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Putin Will Order Ukraine Invasion, but ‘Will Regret Having Done It’</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 07:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/health/biden-free-n95-masks.html">Biden Will Provide 400 Million N95 Masks for Free</a> NYT: The masks will be distributed at pharmacies and community health centers, but some public health experts said the effort was coming too late. 
  <p class="updated_time"> 06:44 PM CT, Jan. 19 </p> 
