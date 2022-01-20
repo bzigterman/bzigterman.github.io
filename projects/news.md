@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:22 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 06:49 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
+ <p class="updated_time"> 06:47 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany. 
+ <p class="updated_time"> 06:46 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed in Belgium on Thursday, she became the youngest woman to circumnavigate the globe solo. 
- <p class="updated_time"> 06:22 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into the Church's handling of child sex abuse in Munich. 
+ <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1073764647/us-china-southeast-asia-trade-defense">With U.S. focused on defense, China's trade and infrastructure sweep Southeast Asia</a> NPR: The Biden administration hopes to make deeper inroads in Southeast Asia but lags far behind China, which has already built up major trade ties, as well as roads and a high-speed rail. 
  <p class="updated_time"> 06:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 05:56 AM CT, Jan. 20 </p> 
@@ -47,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/60065407?at_medium=RSS&at_campaign=KARANGA">Tonga: Journalist gives firsthand account of volcano eruption</a> BBC: Speaking from Tonga's capital, Nuku'alofa, Marian Kupu gives a firsthand account of the moment the undersea volcano erupted. 
  <p class="updated_time"> 02:58 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid planes arrive bearing crucial supplies</a> BBC: It comes after the Pacific nation was left devastated by a volcanic eruption and subsequent tsunami. 
+ <p class="updated_time"> 01:10 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-wants-to-destabilize-ukraine-not-invade-it-says-kyiv-security-chief-11642680656">Russia Wants to Destabilize Ukraine, Not Invade It, Says Kyiv Security Chief</a> WSJ: Oleksiy Danilov, secretary of Ukraine’s National Security and Defense Council, said a military invasion would be very costly for Russia, given the size of Ukraine’s army, the population’s will to fight and pressure from the West. 
  <p class="updated_time"> 12:47 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60064474?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell seeks retrial in sex abuse case</a> BBC: It comes after one of the jurors convicting her of sex abuse charges said he had influenced others. 
  <p class="updated_time"> 12:43 AM CT, Jan. 20 </p> 
@@ -69,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: Mr Biden casts doubt on election integrity as party rebels doom his voting overhaul agenda. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 08:20 PM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovics-australian-visa-challenge-failed-due-to-antivaccine-stance-11642663221">Djokovic's Australian Visa Challenge Failed Due to Antivaccine Stance</a> WSJ: Novak Djokovic’s last-ditch effort to defend his Australian Open title by having his visa reinstated failed because a court accepted that people could emulate the tennis icon’s opposition to being vaccinated. 
  <p class="updated_time"> 08:18 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-60058120?at_medium=RSS&at_campaign=KARANGA">Millions are dying from drug-resistant infections, global report says</a> BBC: The death toll, worst in poorer countries and among the under-fives, needs urgent action, experts say. 
  <p class="updated_time"> 08:07 PM CT, Jan. 19 </p> 
@@ -86,7 +90,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
  <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Omicron: Is racism why South African evidence of milder infection was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Was South Africa ignored over mild Omicron evidence?</a> BBC: South African scientists say their research was not taken more seriously because it was from Africa. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
@@ -104,7 +108,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172884/why-finding-the-missing-pieces-of-anne-franks-family-story-is-still-important-to">Why finding the missing pieces of Anne Frank's family story is still important today</a> NPR: NPR's Mary Louise Kelly speaks with author Rosemary Sullivan about working on a book that potentially reveals who betrayed Jewish teenage diarist Anne Frank and her family. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
+ <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyberattacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
  <p class="updated_time"> 03:19 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60061293?at_medium=RSS&at_campaign=KARANGA">Robert Anderson: University of Michigan reaches sex abuse settlement</a> BBC: Over 1,000 ex-University of Michigan students say they were abused by sports doctor Robert Anderson. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
@@ -163,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 04:50 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html">Two Earthquakes in Afghanistan Kill at Least 27</a> NYT: The quakes struck about two hours apart in a western border province along the border with Turkmenistan. 
- <p class="updated_time"> 04:43 PM CT, Jan. 18 </p> 
- <a href="https://www.npr.org/2022/01/18/1073881770/boris-johnson-faces-scrutiny-for-attending-social-gatherings-that-broke-covid-ru">Boris Johnson faces scrutiny for attending social gatherings that broke COVID rules</a> NPR: British Prime Minister Boris Johnson is facing increasingly harsh criticism from members of his own party following a series of scandals in which he and his associates ignored COVID-19 protocols. 
  <p class="updated_time"> 04:04 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/africa/sudan-violence-protesters-killed.html">Sudan’s Security Forces Kill Protesters as U.S. Diplomats’ Visit Nears</a> NYT: Seven people died after being shot at demonstrations in the northeast African country, a doctors’ group said, bringing the civilian death toll since the military seized back power to 71. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
@@ -192,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:58 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317339/bipartisan-senate-delegation-traveled-to-kyiv-to-meet-ukraines-leadership">Bipartisan Senate delegation traveled to Kyiv to meet Ukraine's leadership</a> NPR: NPR's A Martinez speaks with Democratic Sen. Chris Murphy of Connecticut about his recent trip to Ukraine as part of a bipartisan delegation of senators, and what he learned. 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
@@ -205,13 +211,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/senators-russia-ukraine-crisis-deepens-527417">Senators wrestle with Russia sanctions as Ukraine crisis deepens</a> Politico: “We should impose those sanctions sooner rather than later, not wait for the invasion to start," said Sen. Richard Blumenthal. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1073061575/experts-see-red-flags-at-nonprofit-raising-big-money-for-capitol-riot-defendants">Experts see 'red flags' at nonprofit raising big money for Capitol riot defendants</a> NPR: The Patriot Freedom Project has raised around $900,000 to support alleged Jan. 6 Capitol rioters. The group says the funds support defendants, but families have raised concerns about transparency. 
- <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317360/democrats-on-capitol-hill-fail-on-voting-rights-but-win-the-release-of-trump-fil">Democrats on Capitol Hill fail on voting rights but win the release of Trump files </a> NPR: Democrats' voting rights effort was blocked in the Senate, but they did get a victory at the Supreme Court — in the quest for Trump White House records related to the Jan. 6 insurrection. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317325/morning-news-brief">News brief: Biden news conference, Ukraine-Russia tensions, Tonga aid </a> NPR: President Biden defended his first year in office. Biden insists he won't send U.S. forces to Ukraine if Russia invades. Tonga begins to recover from the eruption of an undersea volcano and tsunami. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1073061575/experts-see-red-flags-at-nonprofit-raising-big-money-for-capitol-riot-defendants">Experts see 'red flags' at nonprofit raising big money for Capitol riot defendants</a> NPR: The Patriot Freedom Project has raised around $900,000 to support alleged Jan. 6 Capitol rioters. The group says the funds support defendants, but families have raised concerns about transparency. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
  <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/havana-syndrome-cia-causes-527457">U.S. foe or specific weapon not behind sustained, global campaign causing ‘Havana Syndrome,’ CIA finds</a> Politico: Even as the CIA-led probe into the cause of symptoms continues, the broader intelligence community backed this finding with varying degrees of confidence. 
- <p class="updated_time"> 11:00 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 10:54 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
