@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 05:03 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/austria-covid-vaccine-mandate.html">Austrian Parliament Set to Approve Covid Vaccine Mandate for Adults</a> NYT: Starting Feb. 1, most adults 18 and over must be vaccinated or face fines up to 3,600 euros. 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
@@ -17,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 04:47 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60075914?at_medium=RSS&at_campaign=KARANGA">'Pastor' arrested after disabled people found locked in his basement</a> BBC: The man and his wife claimed they were operating a "personal care home" in the dead-bolted basement. 
- <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/austria-covid-vaccine-mandate.html">Austrian Parliament Set to Approve Covid Vaccine Mandate for Adults</a> NYT: Starting Feb. 1, most adults 18 and over must be vaccinated or face fines up to 3,600 euros. 
- <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/deadly-church-stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:35 PM CT, Jan. 20 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60072540?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: How synagogues stay safe - and still welcoming</a> BBC: Security training saved the lives of the hostages at Congregation Beth Israel. Is this the new norm? 
  <p class="updated_time"> 04:10 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
- <p class="updated_time"> 04:06 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
  <p class="updated_time"> 04:04 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60076837?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Minor incursion or invasion? Biden clarifies Russia comments</a> BBC: President Biden is forced to respond after criticism of his comments about the tension in Ukraine. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
@@ -100,7 +100,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:08 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-allows-baltic-states-to-send-arms-to-ukraine-11642705956">U.S. Allows Baltic NATO Members to Send Arms to Ukraine</a> WSJ: The decision will enable Estonia, Lithuania and Latvia to send Javelin antitank weapons and Stinger air-defense systems for Ukraine’s forces. 
  <p class="updated_time"> 09:00 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal-plastic-pollution.html">Senegal's 'Plastic Man' Is on a Mission to Clean Up Pollution</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
@@ -200,18 +200,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/georgia-prosecutor-trump-527529">Georgia DA asks for special grand jury in election probe</a> Politico: Fani Willis has been looking at Donald Trump’s Jan. 2 phone call to Brad Raffensperger, among other things. 
+ <p class="updated_time"> 05:14 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
+ <p class="updated_time"> 05:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
+ <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/biden-capitol-hill-gridlock.html">Biden the Negotiator Confronts Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
- <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/biden-capitol-hill-gridlock.html">Biden the Negotiator Confronts Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with Democrats and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
- <p class="updated_time"> 04:47 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk.’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
- <p class="updated_time"> 04:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Krysten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
@@ -228,16 +232,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
- <p class="updated_time"> 03:18 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on elections and filibuster were the right thing to do</a> NPR: The Senate Majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
+ <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on elections and filibuster were the right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
  <p class="updated_time"> 02:49 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
+ <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:01 PM CT, Jan. 20 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
- <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
@@ -338,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
+ <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul's rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
