@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid plane from New Zealand arrives</a> BBC: New Zealand and Australia are sending water and supplies, after ash was cleared from the runway. 
  <p class="updated_time"> 11:03 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60047368?at_medium=RSS&at_campaign=KARANGA">Giant pristine coral reef discovered off Tahiti</a> BBC: Marine explorers find a "pristine" 3km coral reef at depths of 30m off the coast of Tahiti. 
- <p class="updated_time"> 10:29 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid plane from New Zealand arrives</a> BBC: New Zealand and Australia are sending water and supplies, after ash was cleared from the runway. 
  <p class="updated_time"> 10:21 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 10:18 PM CT, Jan. 19 </p> 
