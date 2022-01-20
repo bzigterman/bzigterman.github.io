@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60070025?at_medium=RSS&at_campaign=KARANGA">Liberian church stampede kills 29 worshippers in Monrovia</a> BBC: At least 29 people, including 11 children, die when robbers attack an open-air service, causing panic. 
+ <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
  <p class="updated_time"> 09:16 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
  <p class="updated_time"> 09:00 AM CT, Jan. 20 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
  <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
- <p class="updated_time"> 07:19 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60070025?at_medium=RSS&at_campaign=KARANGA">Liberian church stampede kills 29 worshippers in Monrovia</a> BBC: At least 29 people, including 11 children, die when robbers attack an open-air service, causing panic. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 07:07 AM CT, Jan. 20 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
- <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074076149/boris-johnson-resignation-calls">Britain's Johnson faces growing calls to quit after throwing parties during lockdown</a> NPR: The prime minister has admitted to throwing "bring your own booze" parties at his official residence in London while ordinary Britons were told to stay away from unnecessary gatherings. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:31 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
  <p class="updated_time"> 09:01 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
  <p class="updated_time"> 08:58 AM CT, Jan. 20 </p> 
@@ -207,11 +209,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
- <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
  <p class="updated_time"> 07:41 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the most well known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
+ <p class="updated_time"> 07:14 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 08:58 AM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
- <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
- <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
