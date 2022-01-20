@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/havana-syndrome-cia-causes-527457">U.S. foe or specific weapon not behind sustained, global campaign causing ‘Havana Syndrome,’ CIA finds</a> Politico: Even as the CIA-led probe into the cause of symptoms continues, the broader intelligence community backed this finding with varying degrees of confidence. 
+ <p class="updated_time"> 11:00 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 10:54 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
@@ -281,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
+ <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess.</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
  <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
- <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
