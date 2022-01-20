@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 11:13 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
  <p class="updated_time"> 11:11 AM CT, Jan. 20 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
- <p class="updated_time"> 08:19 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The decision by the court to uphold the decision of the country’s immigration minister to revoke the tennis star’s visa ended his bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 08:08 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
@@ -198,10 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Chair Bennie Thompson said Thursday the panel will soon ask the former president’s daughter to come before the committee. 
+ <p class="updated_time"> 11:25 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Asks Ivanka Trump to Cooperate in Inquiry</a> NYT: The panel’s letter to Ms. Trump is the latest step it has taken to obtain information from the former president’s family about the Capitol riot. 
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
- <p class="updated_time"> 11:17 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Asks Ivanka Trump to Cooperate in Inquiry</a> NYT: The panel’s letter to Ms. Trump is the latest step it has taken to obtain information from the former president’s family about the Capitol riot. 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">‘There are no minor incursions’: Ukrainian officials push back on Biden</a> Politico: They argue the president’s comment could embolden Russia to launch an attack. 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074296368/why-texas-election-officials-are-rejecting-hundreds-of-vote-by-mail-applications">Why Texas election officials are rejecting hundreds of vote-by-mail applications</a> NPR: Ahead of the March primary, local elections officials in Texas are starting to deal with the effects of a new GOP-backed voting law. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1072477947/five-moments-that-mattered-in-bidens-1st-year-in-the-white-house">5 moments that mattered in Biden's 1st year in the White House</a> NPR: President Biden's first year in office was marked by the pandemic fight, a chaotic withdrawal from Afghanistan and a tough push to get his agenda through Congress. 
+ <a href="https://www.npr.org/2022/01/20/1072477947/covid-race-biden-voting-rights">5 moments that mattered in Biden's 1st year in the White House</a> NPR: President Biden's first year in office was marked by the pandemic fight, a chaotic withdrawal from Afghanistan and a tough push to get his agenda through Congress. 
  <p class="updated_time"> 12:52 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074311649/new-mexico-model-inclusive-race-education">New Mexico is pushing to be a 'model' for how race is taught in U.S. schools</a> NPR: Officials say they hope their standards can be a model for the country of social studies teaching that is culturally responsive, as student populations grow increasingly diverse. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
@@ -288,8 +288,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-attack-14th-amendment.html">How Jan. 6 Gave the 14th Amendment New Life</a> NYT: Legal scholars say a long-forgotten provision of the Constitution could bar from office anyone who encouraged the Capitol riot. 
  <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
+ <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
+ <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president’s press conference was a two hour affair filled with self-analysis, contrition and defiance. 
  <p class="updated_time"> 04:57 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/maura-healey-campaign-governor-massachusetts-527415">She took on Trump, Juul and the Sacklers. Now she wants to run Massachusetts.</a> Politico: State Attorney General Maura Healey is said to be preparing to launch a campaign for governor on Thursday. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
@@ -316,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 12:14 PM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
+ <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation — and two centrists joined the GOP in resisting their push to change chamber rules. 
  <p class="updated_time"> 11:00 AM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 08:58 AM CT, Jan. 19 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
- <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
  <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 10:51 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris pushed hard for voting rights — then hit a brick wall</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
  <p class="updated_time"> 08:55 AM CT, Jan. 14 </p> 
