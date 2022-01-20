@@ -28,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60051524?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Biblical disaster shakes most Mormon nation in the world</a> BBC: Tonga is the world's most Mormon nation and the Church is playing a key role after the volcanic eruption. 
  <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswat: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswati: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - "A perfect tool for stalking"</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
  <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
@@ -194,7 +194,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
- <p class="updated_time"> 09:44 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 09:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
@@ -291,7 +291,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:06 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation -- and two centrists joined the GOP in resisting their push to change chamber rules. 
+ <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation — and two centrists joined the GOP in resisting their push to change chamber rules. 
  <p class="updated_time"> 11:00 AM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
+ <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
