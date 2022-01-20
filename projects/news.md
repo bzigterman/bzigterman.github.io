@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Ex-Pope Benedict failed to act over abuse, new report finds</a> BBC: The former pope is incriminated in a report into the Church's handling of child sex abuse in Munich. 
- <p class="updated_time"> 05:30 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 06:22 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed in Belgium on Thursday, she became the youngest woman to circumnavigate the globe solo. 
+ <p class="updated_time"> 06:22 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into the Church's handling of child sex abuse in Munich. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
+ <p class="updated_time"> 05:56 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president warns the Russian leader against invading, but hints at splits among Western allies. 
+ <p class="updated_time"> 05:49 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/australia-juvenile-forklift-drivers.html">Australia’s (Brief) Idea to Ease Supply Chains: Juvenile Forklift Drivers</a> NYT: A proposal, and the rapid retreat that followed, both elicited waggish mockery and highlighted a serious economic problem. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:21 AM CT, Jan. 20 </p> 
@@ -171,16 +177,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html">N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</a> NYT: The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China. 
  <p class="updated_time"> 10:18 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html">A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</a> NYT: The small study adds information to the debate over whether a fourth shot is advisable. 
- <p class="updated_time"> 09:15 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
- <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/eu-parliament-president-metsola.html">Roberta Metsola Elected as President of European Parliament</a> NYT: Roberta Metsola of Malta will succeed David Sassoli, an Italian politician who died last week, at a critical time for the institution. 
- <p class="updated_time"> 09:16 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html">2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</a> NYT: There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074317339/bipartisan-senate-delegation-traveled-to-kyiv-to-meet-ukraines-leadership">Bipartisan Senate delegation traveled to Kyiv to meet Ukraine's leadership</a> NPR: NPR's A Martinez speaks with Democratic Sen. Chris Murphy of Connecticut about his recent trip to Ukraine as part of a bipartisan delegation of senators, and what he learned. 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoyle, the fiancee of the former president's eldest son. 
- <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172826/voting-rights-protections-seem-destined-to-fail-as-biden-hits-1st-year-in-office">Voting rights protections seem destined to fail as Biden hits 1st year in office</a> NPR: As President Biden held a rare press conference to mark his first year in office, one of his top priorities — voting rights legislation — appeared destined to fail in a Senate vote. 
  <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:15 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/13/biden-and-manchin-come-face-to-face-495712"> Biden and Manchin come face to face</a> Politico Playbook: And Lindsey Graham warns Mitch McConnell on Donald Trump. 
 
 
 </details>
