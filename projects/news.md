@@ -7,12 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Haridwar hate speech: Who is the arrested Hindu priest Yati Narsinghanand Saraswati?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - "A perfect tool for stalking"</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
+ <p class="updated_time"> 06:11 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60051524?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Biblical disaster shakes most Mormon nation in the world</a> BBC: Tonga is the world's most Mormon nation and the Church is playing a key role after the volcanic eruption. 
+ <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Omicron: Is racism why South African evidence of milder infection was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
+ <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59974018?at_medium=RSS&at_campaign=KARANGA">The battle for Steaua Bucharest - an Eastern European giant at war with itself</a> BBC: European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:46 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
- <p class="updated_time"> 05:06 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -37,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073792421/ukraine-russia-attack-military">Thousands of Ukrainians are training to protect their cities in case Russia invades</a> NPR: Ukraine's Territorial Defense Forces were set up to train part-time reservists but last year the drills were opened to ordinary citizens — to foster popular resistance if the military is overwhelmed. 
+ <p class="updated_time"> 01:35 PM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Biden Says Russia Likely to Move Against Ukraine, as Blinken Visits the Region</a> WSJ: President Biden said Russia would face consequences calibrated to the degree of aggression, while his administration’s top diplomat sought to reassure Ukraine’s president of unified support from the West. 
  <p class="updated_time"> 12:55 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60059785?at_medium=RSS&at_campaign=KARANGA">Ten DR Congo prisoners sentenced for mass rapes in jail</a> BBC: Some female inmates fell pregnant and contracted sexually transmitted infections after 2020 assaults. 
  <p class="updated_time"> 12:39 PM CT, Jan. 19 </p> 
@@ -75,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
- <p class="updated_time"> 09:26 AM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Blinken Seeks to Reassure Ukraine as Russia Moves Troops in Region</a> WSJ: The Biden administration’s top diplomat warned that Russia could invade Ukraine as concerns mounted over Moscow’s deployment of forces to neighboring Belarus. 
  <p class="updated_time"> 09:20 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/russian-military-buildup-triggers-european-defense-anxieties-11642623623">Russian Military Buildup Triggers European Defense Anxieties</a> WSJ: French President Emmanuel Macron marked his turn at the helm of the EU’s rotating presidency with a call for Europe to chart its own defense course aside from the trans-Atlantic alliance with the U.S. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
@@ -113,10 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html">Hong Kong Will Cull Thousands of Hamsters After Covid Cases</a> NYT: Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
- <p class="updated_time"> 06:07 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60039136?at_medium=RSS&at_campaign=KARANGA">Somali survivor: The resilience of living through serial suicide attacks</a> BBC: Former BBC reporter Mohamed Moalimu is recovering after being targeted on Sunday in Somalia. 
- <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59991321?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China sells Xinjiang as a winter sports hub</a> BBC: Many foreign firms hoping to ride the Olympics boom are investing heavily in the troubled region. 
  <p class="updated_time"> 05:36 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/world/europe/bidzina-ivanishvili-georgia-trees.html">A Love of Trees or a Display of Power? The Odd Park of an Oligarch.</a> NYT: A billionaire former prime minister says he has retired from Georgia’s fraught politics. His critics say he still wields considerable power. What’s beyond dispute: his obsession with trees. 
  <p class="updated_time"> 05:17 PM CT, Jan. 18 </p> 
@@ -153,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/mario-draghi-prime-minister-italy.html">Italy Ponders a New Role for Draghi. Let the Politicking Begin.</a> NYT: Prime Minister Mario Draghi is in the running to be the next president, a powerful but often-ceremonial role that could take his hand off day-to-day affairs. 
  <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
- <p class="updated_time"> 08:03 AM CT, Jan. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60039542?at_medium=RSS&at_campaign=KARANGA">Tonga tsunami: Before and after eruption</a> BBC: Satellite and aerial images show impact of eruption of underwater volcano near Tonga island chain. 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 05:40 AM CT, Jan. 18 </p> 
@@ -186,12 +192,32 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:13 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/planes-sky-5g-527437">Will planes fall out of the sky? 5 questions about 5G</a> Politico: The fight involves new 5G services that AT&T and Verizon activated Wednesday, enabling Internet service up to 100 times faster than standard 4G. 
+ <p class="updated_time"> 07:10 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/5g-flights-spectrum-mess-washington-527425">How Washington flew into a 5G mess</a> Politico: The saga of squabbling agencies, warnings of plane crashes and billions of dollars in spectrum has been years in the making. 
+ <p class="updated_time"> 07:05 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/jon-stewart-prods-congress-to-aid-veterans-527420">Jon Stewart joins advocates in push to aid veterans exposed to toxins</a> Politico: “The bottom line is this: Our country exposed our veterans to poison for years, and we knew about it,” Jon Stewart said. 
+ <p class="updated_time"> 06:57 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: Mr. Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
+ <p class="updated_time"> 06:52 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-russia-ukraine.html">Biden Predicts Russia WIll Invade Ukraine</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
+ <p class="updated_time"> 06:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bills Are Set for Defeat in the Senate</a> NYT: Without the votes to change Senate rules, Democrats cannot overcome a Republican filibuster against legislation intended to offset new state voting restrictions. 
+ <p class="updated_time"> 06:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-committee-subpoena-white-nationalists.html">House Jan. 6 Committee Subpoenas White Nationalist Figures</a> NYT: The panel investigating the assault on the Capitol wants information from two leaders of the “America First” extremist movement. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Won’t Block Release of Jan. 6 Files</a> NYT: The case was a constitutional clash on the scope of executive privilege and whether a former president may invoke it when the current one has waived it. 
  <p class="updated_time"> 06:30 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/jan-6-subpoena-far-right-promoters-527422">Jan. 6 investigators subpoena far-right figures who promoted election fraud claims</a> Politico: Nick Fuentes and Patrick Casey, leaders of the extremist America First movement, both were outside the Capitol on Jan. 6. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request  was Justice Clarence Thomas. 
- <p class="updated_time"> 05:54 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-russia-senate.html">Biden Predicts Russia WIll Invade Ukraine</a> NYT: President Biden, in a news conference defending his first year in office, delivered a grim assessment of the ability of the United States and allies to influence the Russian leader. 
+ <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
+ <p class="updated_time"> 06:19 PM CT, Jan. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
+ <p class="updated_time"> 06:10 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-attack-14th-amendment.html">How Jan. 6 Gave the 14th Amendment New Life</a> NYT: Legal scholars say a long-forgotten provision of the Constitution could bar from office anyone who encouraged the Capitol riot. 
+ <p class="updated_time"> 06:09 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/health/biden-free-n95-masks.html">Biden Will Provide 400 Million N95 Masks For Free</a> NYT: The masks will be distributed at pharmacies and community health centers, but some public health experts said the effort was coming too late. 
  <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 05:46 PM CT, Jan. 19 </p> 
@@ -202,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
- <p class="updated_time"> 05:22 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Won’t Block Release of Jan. 6 Files</a> NYT: The case was a constitutional clash on the scope of executive privilege and whether a former president may invoke it when the current one has waived it. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:12 PM CT, Jan. 19 </p> 
@@ -216,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074208977/jan-6-panel-seeks-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel seeks phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: It marks the first public reporting of the committee seeking records from the former first family. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions if she doesn’t change her position. 
- <p class="updated_time"> 04:28 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/covid-biden-free-masks.html">Biden Administration to Give Away Masks at Pharmacies and Health Centers</a> NYT: The White House said the government would begin shipping N95 masks at the end of this week. 
  <p class="updated_time"> 04:25 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Roberts, Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
@@ -250,12 +272,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
- <p class="updated_time"> 02:11 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/chaos-skies-planes-5g-527388">Chaos in the skies averted — for now — as 5G switches on</a> Politico: Despite some isolated flight delays and diversions, so far air traffic is moving relatively smoothly despite the new 5G wireless rollout that started Wednesday. 
  <p class="updated_time"> 02:07 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008166257/kabul-drone-strike-video.html">Raw Footage of Lethal Aug. 29 Kabul Drone Strike</a> NYT: The New York Times is publishing the full, unedited 25 minutes of drone footage released as three video clips by the Defense Department in response to a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 02:01 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden acknowledges his team should have done more COVID testing earlier</a> NPR: President Biden took questions from reporters on Wednesday as his term approaches the one-year mark. "Should we have done more testing earlier? Yes. But we're doing more now," he said. 
+ <a href="https://www.npr.org/2022/01/19/1073825012/biden-press-conference-covid-19-aid-infrastructure">Biden acknowledges his team should have done more COVID testing earlier</a> NPR: The comment came as the president took reporters' questions on Wednesday in a nearly 2-hour-long press conference. "Should we have done more testing earlier? Yes. But we're doing more now," he said. 
  <p class="updated_time"> 01:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/cdc-infection-delta-527384">CDC: Vaccinated Americans with a prior infection fared the best during Delta</a> Politico: The study did not explain why protection against reinfection and hospitalization grew among those individuals with a prior infection during Delta. 
  <p class="updated_time"> 01:40 PM CT, Jan. 19 </p> 
@@ -266,8 +286,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/scotus-ted-cruz-campaign-finance-law-527370">SCOTUS seems open to Cruz case but passes on bigger bite at campaign finance law</a> Politico: Some conservatives had hoped to use Sen. Ted Cruz’s lawsuit over the relatively obscure debt-repayment limit as a means to totally eradicate a landmark law that added significant new guardrails to the nation’s campaign finance system. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Dems barrel toward showdown over changing Senate rules — and failure</a> Politico: Majority Leader Chuck Schumer is moving ahead on an evening vote, despite the immovable opposition of Joe Manchin and Kyrsten Sinema. 
- <p class="updated_time"> 10:45 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-names-four-ambassadors-527363">Biden names ambassadors to U.K., Brazil</a> Politico: Three of the nominees are former ambassadors. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 19 </p> 
+ <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 08:52 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/nyregion/andrew-cuomo-money.html">Cuomo Has $16 Million in Campaign Cash and No Campaign. What Now?</a> NYT: The former governor still has a big war chest even as he faces large legal bills. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
@@ -284,22 +304,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
- <p class="updated_time"> 10:53 PM CT, Jan. 18 </p> 
- <a href="https://www.cnn.com/2022/01/18/politics/free-covid-tests-wbsite-beta-launched/index.html">Website to order free Covid-19 tests is up and running</a> CNN: The federal government has quietly launched its website to sign up for free Covid-19 tests, allowing people to order a maximum of four tests shipped directly to their household. 
  <p class="updated_time"> 09:02 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/sinema-filibuster-emilys-list.html">Emily’s List Presses Kyrsten Sinema Over Filibuster Stance</a> NYT: The powerful political action committee said the Arizona senator could find herself “standing alone” in 2024 if she refuses to change Senate rules to force through voting rights legislation. 
  <p class="updated_time"> 08:59 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
- <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-rapid-testing-apartment-527323">Biden administration's rapid testing website hits speed bumps for some apartment residents</a> Politico: The administration said last week that Americans would be able to order up to four tests per residential address through the website and see tests ship within 7 to 12 days of ordering via the U.S. Postal Service. 
- <p class="updated_time"> 06:05 PM CT, Jan. 18 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:00 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
@@ -308,20 +322,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
- <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
- <p class="updated_time"> 02:24 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/supreme-court-boston-flag-free-speech.html">Supreme Court Appears Skeptical of Boston’s Refusal to Fly Christian Flag</a> NYT: The court seemed poised to rule that the city, which has approved many other requests to raise flags at its City Hall, violated a Christian group’s free speech rights. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
- <p class="updated_time"> 08:38 AM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html">Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move</a> NYT: The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
