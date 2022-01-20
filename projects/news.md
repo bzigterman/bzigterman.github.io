@@ -7,14 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:13 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
+ <p class="updated_time"> 04:10 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 04:08 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/deadly-church-stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a “crusade” in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
+ <p class="updated_time"> 04:08 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
+ <p class="updated_time"> 04:06 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60076837?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Minor incursion or invasion? Biden clarifies Russia comments</a> BBC: President Biden is forced to respond after criticism of his comments about the tension in Ukraine. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
- <p class="updated_time"> 03:43 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
@@ -41,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60076895?at_medium=RSS&at_campaign=KARANGA">Capitol riot inquiry asks Ivanka Trump to voluntarily testify</a> BBC: Congressional investigators believe she pressed her father to try to call off the rioters. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
- <p class="updated_time"> 01:52 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
@@ -67,12 +77,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
  <p class="updated_time"> 11:09 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60072502?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: President Zelensky hits back at Biden comments</a> BBC: Its president bristles at suggestions a "minor" Russian attack may bring a weaker Western response. 
- <p class="updated_time"> 10:58 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">‘She Was Just Going for a Run’: Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
- <p class="updated_time"> 10:30 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 10:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 10:24 AM CT, Jan. 20 </p> 
@@ -125,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/special-series/future-self-hindsight.html">Dear People of 2022: What Would You Ask Your Future Self?</a> NYT: Hundreds of notes about the nature of progress left us wondering: What’s possible in a year’s time? 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
- <p class="updated_time"> 03:55 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:24 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074320720/u-k-conservatives-may-oust-boris-johnson">U.K. Conservatives may oust Boris Johnson — here's how they can do that</a> NPR: If Johnson does not heed calls to resign — and he insists he won't — he could be toppled through a no-confidence vote. 
  <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
@@ -177,16 +181,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
- <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
- <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-boris-johnson-parties.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
- <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
 
@@ -196,8 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:43 PM CT, Jan. 20 </p> 
+ <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Krysten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
@@ -207,9 +209,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500402/a-look-at-how-president-biden-has-handled-the-pandemic-through-his-1st-year-in-o">A look at how President Biden has handled the pandemic through his 1st year in office</a> NPR: One year ago, President Biden took the oath of office, with beating COVID at the top of his agenda. Managing the uncertainty of what comes next remains the greatest challenge of his presidency. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 03:18 PM CT, Jan. 20 </p> 
@@ -278,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317360/democrats-on-capitol-hill-fail-on-voting-rights-but-win-the-release-of-trump-fil">Democrats on Capitol Hill fail on voting rights but win the release of Trump files </a> NPR: Democrats' voting rights effort was blocked in the Senate, but they did get a victory at the Supreme Court — in the quest for Trump White House records related to the Jan. 6 insurrection. 
- <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074317325/morning-news-brief">News brief: Biden news conference, Ukraine-Russia tensions, Tonga aid </a> NPR: President Biden defended his first year in office. Biden insists he won't send U.S. forces to Ukraine if Russia invades. Tonga begins to recover from the eruption of an undersea volcano and tsunami. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
- <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul's rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
