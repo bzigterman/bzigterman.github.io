@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswati: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - "A perfect tool for stalking"</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
+ <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
  <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Is racism why mild Omicron evidence was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
