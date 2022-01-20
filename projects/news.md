@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074406922/lisala-folau-tonga-swim-tsunami">A Tongan man says he swam for more than 24 hours after a tsunami swept him out to sea</a> NPR: Lisala Folau told a local broadcaster about his swimming journey, which lasted more than a day and took him to three islands. Social media users hearing his story are calling him "real-life Aquaman." 
+ <p class="updated_time"> 11:59 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
+ <p class="updated_time"> 11:57 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074405423/red-cross-cyberattack">Cyberattack on Red Cross compromised sensitive data on over 515,000 vulnerable people</a> NPR: The attack targeted a contractor in Switzerland that was storing the data. The Red Cross has been forced to halt a program that reunites families torn apart by violence, migration or other tragedies. 
  <p class="updated_time"> 11:39 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. to Charge Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
@@ -59,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-england-hampshire-59899980?at_medium=RSS&at_campaign=KARANGA">'The hardest part was flying over Siberia'</a> BBC: Zara Rutherford endured extreme conditions during a trip that took two months longer than planned. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine Fears 'Minor' Attacks Are in Russia's Gameplan</a> WSJ: The Ukrainian foreign minister said President Biden’s “minor incursion” comment underplays Moscow’s intentions, which Kyiv sees as destabilizing the country and removing its leadership. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
@@ -79,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60060047?at_medium=RSS&at_campaign=KARANGA">International Red Cross hack exposes half a million vulnerable people</a> BBC: A cyber-attack on the humanitarian organisation exposes the details of half a million vulnerable people 
  <p class="updated_time"> 04:16 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074324166/first-aid-flight-in-tonga-after-eruption">First aid flights arrive in Tonga after massive volcanic eruption and tsunami</a> NPR: The eruption severed Tonga's single fiber-optic cable, rendering the Pacific archipelago offline and unable to communicate with the rest of the world. Flights brought bottled water and other supplies. 
- <p class="updated_time"> 04:14 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine's Foreign Minister Says Biden Comment Underestimates Russia's Intention</a> WSJ: Dmytro Kuleba responded to a comment from the U.S. president, in which he suggested that Western nations weren’t in tandem on how to respond to Russia in the event of a “minor incursion” on Ukraine. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317402/the-first-humanitarian-aid-has-arrived-in-the-pacific-nation-of-tonga">The first humanitarian aid has arrived in the Pacific nation of Tonga</a> NPR: The flight arrived in Tonga five days after a massive underwater volcano erupted there – killing three people and leaving extensive tsunami damage and a blanket of fallen ash in its wake. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/special-series/future-self-hindsight.html">Dear People of 2022: What Would You Ask Your Future Self?</a> NYT: Hundreds of notes about the nature of progress left us wondering: What’s possible in a year’s time? 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
- <p class="updated_time"> 03:58 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 03:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:54 AM CT, Jan. 20 </p> 
@@ -151,10 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60057426?at_medium=RSS&at_campaign=KARANGA">Downing Street parties: Why UK PM Boris Johnson is facing calls to quit</a> BBC: Boris Johnson's premiership hangs in the balance, but what's behind calls from all sides for his resignation? 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
- <p class="updated_time"> 11:50 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
- <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
@@ -196,14 +196,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:11 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
+ <p class="updated_time"> 12:06 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Chair Bennie Thompson said Thursday the panel will soon ask the former president’s daughter to come before the committee. 
+ <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
+ <p class="updated_time"> 11:55 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074397162/the-jan-6-panel-wants-to-talk-to-ivanka-trump">The Jan. 6 panel wants to talk to Ivanka Trump</a> NPR: The committee is asking Ivanka Trump to voluntarily cooperate with the panel's investigation. The panel sent her a letter on Thursday. 
  <p class="updated_time"> 11:25 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Asks Ivanka Trump to Cooperate in Inquiry</a> NYT: The panel’s letter to Ms. Trump is the latest step it has taken to obtain information from the former president’s family about the Capitol riot. 
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">Biden: Putin 'has no misunderstanding' about consequences of Ukraine invasion</a> Politico: Top Ukrainian officials argued the president’s remarks at a Wednesday press conference could embolden Russia to launch an attack. 
+ <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">Biden: Putin ‘has no misunderstanding’ about consequences of Ukraine invasion</a> Politico: Top Ukrainian officials argued the president’s remarks at a White House news conference could embolden Russia to launch an attack. 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 10:52 AM CT, Jan. 20 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
  <p class="updated_time"> 09:01 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
- <p class="updated_time"> 08:58 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 08:29 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Putin Will Order Ukraine Invasion, but ‘Will Regret Having Done It’</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 07:57 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/voting-rights-senate-debate.html">Senators Spar Over Voting Rights and the Filibuster</a> NYT: Republicans used the filibuster for a fifth time to block action on the bill, and Democrats pledged to begin what appeared to be a doomed bid to change Senate rules to pass it. 
  <p class="updated_time"> 07:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/health/biden-free-n95-masks.html">Biden Will Provide 400 Million N95 Masks for Free</a> NYT: The masks will be distributed at pharmacies and community health centers, but some public health experts said the effort was coming too late. 
  <p class="updated_time"> 07:05 PM CT, Jan. 19 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074169348/supreme-court-hears-arguments-on-campaign-finance-law-issues-statements-on-npr-r">Supreme Court hears arguments on campaign finance law, issues statement on NPR report</a> NPR: Three Supreme Court justices issued statements Wednesday addressing an NPR story about relations among the justices. 
  <p class="updated_time"> 03:55 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172870/supreme-court-heard-cruz-case-about-using-post-election-contributions-to-repay-l">Supreme Court heard Cruz case about using post-election contributions to repay loans </a> NPR: The U.S. Supreme Court heard arguments in Republican Sen. Ted Cruz's bid to undo a provision limiting the amount of money candidates can be reimbursed for personal loans to their own campaigns. 
- <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
- <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
