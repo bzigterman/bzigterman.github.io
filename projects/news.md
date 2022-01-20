@@ -194,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:37 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the most well known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 07:34 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
  <p class="updated_time"> 07:29 AM CT, Jan. 20 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/senate-voting-rights-debate.html">Senate Opens Voting Rights Debate, With Legislative Defeat Looming</a> NYT: Democrats’ bid to force through a new bill intended to offset state voting restrictions appeared doomed to fall to a Republican filibuster. 
  <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
- <p class="updated_time"> 08:54 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/government-website-covid-tests.html">New Government Website for Ordering Covid Tests Is Active</a> NYT: Visitors can go to covidtests.gov and click through to a Postal Service web page where they can order four tests per household, free of charge. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 06:51 PM CT, Jan. 18 </p> 
