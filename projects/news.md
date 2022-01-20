@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:08 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074076149/boris-johnson-resignation-calls">Britain's Johnson faces growing calls to quit after throwing parties during lockdown</a> NPR: The prime minister has admitted to throwing "bring your own booze" parties at his official residence in London while ordinary Britons were told to stay away from unnecessary gatherings. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
- <p class="updated_time"> 10:12 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/joe-biden-first-year-two-presidencies-527352">Biden’s first year: A tale of 2 presidencies</a> Politico: Inside the White House, there is still optimism: “President Biden was elected to a four-year term, not a one-year term.” 
+ <p class="updated_time"> 12:15 AM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353">New York AG details fraud case against Trumps in court filings</a> Politico: Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations. 
  <p class="updated_time"> 08:56 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html">Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims</a> NYT: The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">Harris pushed hard for voting rights — then hit a brick wall</a> Politico: The VP’s work was more extensive than known. But legislative paths appear closed. 
  <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
- <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
