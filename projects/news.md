@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
+ <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60077767?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Austrian parliament approves mandatory vaccination order</a> BBC: If the bill is signed into law, Austrians who refuse to take the shot will face fines of up to €3,600. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:48 PM CT, Jan. 20 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500316/as-the-olympics-near-activists-criticize-chinas-alleged-human-rights-violations">As the Olympics near, activists criticize China's alleged human rights violations</a> NPR: As athletes make final preparations for the Winter Olympics, human rights advocates are ramping up their criticism of host country China's alleged violations, particularly against its Uyghur minority. 
  <p class="updated_time"> 03:17 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
- <p class="updated_time"> 03:13 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:35 PM CT, Jan. 20 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
+ <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/biden-capitol-hill-gridlock.html">Biden the Negotiator Confronts Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with Democrats and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:47 PM CT, Jan. 20 </p> 
@@ -288,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
- <p class="updated_time"> 10:54 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
- <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
 
 
 </details>
