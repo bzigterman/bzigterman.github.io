@@ -201,11 +201,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/senators-russia-ukraine-crisis-deepens-527417">Senators wrestle with Russia sanctions as Ukraine crisis deepens</a> Politico: “We should impose those sanctions sooner rather than later, not wait for the invasion to start," said Sen. Richard Blumenthal. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074317360/democrats-on-capitol-hill-fail-on-voting-rights-but-win-the-release-of-trump-fil">Democrats on Capitol Hill fail on voting rights but win the release of Trump files </a> NPR: Democrats' voting rights effort was blocked in the Senate, but they did get a victory at the Supreme Court in the quest for Trump White House records related to the Jan. 6 insurrection. 
- <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1073061575/experts-see-red-flags-at-nonprofit-raising-big-money-for-capitol-riot-defendants">Experts see 'red flags' at nonprofit raising big money for Capitol riot defendants</a> NPR: The Patriot Freedom Project has raised around $900,000 to support alleged Jan. 6 Capitol rioters. The group says the funds support defendants, but families have raised concerns about transparency. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074317360/democrats-on-capitol-hill-fail-on-voting-rights-but-win-the-release-of-trump-fil">Democrats on Capitol Hill fail on voting rights but win the release of Trump files </a> NPR: Democrats' voting rights effort was blocked in the Senate, but they did get a victory at the Supreme Court — in the quest for Trump White House records related to the Jan. 6 insurrection. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074317325/morning-news-brief">News brief: Biden news conference, Ukraine-Russia tensions, Tonga aid </a> NPR: President Biden defended his first year in office. Biden insists he won't send U.S. forces to Ukraine if Russia invades. Tonga begins to recover from the eruption of an undersea volcano and tsunami. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoyle, the fiancee of the former president's eldest son. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172826/voting-rights-protections-seem-destined-to-fail-as-biden-hits-1st-year-in-office">Voting rights protections seem destined to fail as Biden hits 1st year in office</a> NPR: As President Biden held a rare press conference to mark his first year in office, one of his top priorities — voting rights legislation — appeared destined to fail in a Senate vote. 
- <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyber attacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
  <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
