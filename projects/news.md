@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60072506?at_medium=RSS&at_campaign=KARANGA">UN defines Holocaust denial in new resolution</a> BBC: All countries and social media companies are urged to help fight against anti-Semitism. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500395/mexican-journalist-margarito-martinez-has-been-murdered-in-tijuana">Mexican journalist Margarito Martínez has been murdered in Tijuana</a> NPR: The latest journalist to be murdered in Mexico is Tijuana photojournalist Margarito Martínez, a beloved figure in the community. His funeral is Thursday. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500374/how-the-philippine-capitals-no-vaccination-no-ride-public-transit-rule-is-going">How the Philippine capital's 'no vaccination, no ride' public transit rule is going</a> NPR: In the Philippine capital Manila, people without proof of full vaccination or a work exemption can't take public transportation. Human rights activists say the policy discriminates against the poor. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500316/as-the-olympics-near-activists-criticize-chinas-alleged-human-rights-violations">As the Olympics near, activists criticize China's alleged human rights violations</a> NPR: As athletes make final preparations for the Winter Olympics, human rights advocates are ramping up their criticism of host country China's alleged violations, particularly against its Uyghur minority. 
  <p class="updated_time"> 03:17 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
@@ -63,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 10:24 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian-American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
- <p class="updated_time"> 09:30 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60070025?at_medium=RSS&at_campaign=KARANGA">Liberian church stampede kills 29 worshippers in Monrovia</a> BBC: At least 29 people, including 11 children, die when robbers attack an open-air service, causing panic. 
  <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
  <p class="updated_time"> 09:16 AM CT, Jan. 20 </p> 
@@ -131,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-cuts-benchmark-rate-to-bolster-flagging-economy-11642668631">China Cuts Benchmark Rates to Bolster Flagging Economy</a> WSJ: The country’s central bank stepped in to support a slowing economy that has been weighed down by a slump in the property market during a politically important year for leader Xi Jinping. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
- <p class="updated_time"> 09:33 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/19/1074256301/nbc-not-sending-sports-announcers-to-winter-olympics">COVID concerns will keep NBC announcers home from the Beijing Olympics</a> NPR: NBC Sports officials say their plan of covering the Olympics from its Stamford, Conn., facility is a similar strategy used to cover the delayed 2020 Tokyo Summer Olympics last year. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
@@ -153,12 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
- <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
- <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172884/why-finding-the-missing-pieces-of-anne-franks-family-story-is-still-important-to">Why finding the missing pieces of Anne Frank's family story is still important today</a> NPR: NPR's Mary Louise Kelly speaks with author Rosemary Sullivan about working on a book that potentially reveals who betrayed Jewish teenage diarist Anne Frank and her family. 
- <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172805/more-than-70-ukrainian-government-websites-have-been-defaced-in-cyber-attacks">More than 70 Ukrainian government websites have been defaced in cyberattacks</a> NPR: While the Russian military might be poised to invade Ukraine, hackers in the region are also creating chaos in cyberspace — and the consequences could be far-ranging. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
@@ -200,12 +200,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:29 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's strict limits on deportations isn't necessarily being followed</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
+ <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
+ <p class="updated_time"> 03:18 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on elections and filibuster were the right thing to do</a> NPR: The Senate Majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
- <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 02:49 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
@@ -236,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
  <p class="updated_time"> 12:43 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074227400/activists-abortion-anniversary-roevwade">Activists look ahead to what could be the 'last anniversary' for Roe</a> NPR: On both sides of the abortion debate, activists say this could be the last anniversary before Roe v. Wade is overturned or significantly rolled back. 
- <p class="updated_time"> 12:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:06 PM CT, Jan. 20 </p> 
@@ -282,10 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 04:01 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074296368/why-texas-election-officials-are-rejecting-hundreds-of-vote-by-mail-applications">Why Texas election officials are rejecting hundreds of vote-by-mail applications</a> NPR: Ahead of the March primary, local elections officials in Texas are starting to deal with the effects of a new GOP-backed voting law. 
- <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1072477947/covid-race-biden-voting-rights">5 moments that mattered in Biden's 1st year in the White House</a> NPR: President Biden's first year in office was marked by the pandemic fight, a chaotic withdrawal from Afghanistan and a tough push to get his agenda through Congress. 
- <p class="updated_time"> 12:52 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074311649/new-mexico-model-inclusive-race-education">New Mexico is pushing to be a 'model' for how race is taught in U.S. schools</a> NPR: Officials say they hope their standards can be a model for the country of social studies teaching that is culturally responsive, as student populations grow increasingly diverse. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
  <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:10 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-attack-14th-amendment.html">How Jan. 6 Gave the 14th Amendment New Life</a> NYT: Legal scholars say a long-forgotten provision of the Constitution could bar from office anyone who encouraged the Capitol riot. 
- <p class="updated_time"> 05:37 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
