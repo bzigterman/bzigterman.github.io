@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
+ <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:36 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/animals-covid.html">Infected Zoo Lions Spur Concern Over Coronavirus in the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 02:35 PM CT, Jan. 20 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
- <p class="updated_time"> 01:00 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened structures in a small town and left a large crater. 
  <p class="updated_time"> 12:52 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60075914?at_medium=RSS&at_campaign=KARANGA">'Pastor' arrested after disabled people found locked in his basement</a> BBC: The man and his wife claimed they were operating a "personal care home" in the dead-bolted basement. 
  <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
- <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 07:06 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine Fears Minor Attacks Are in Russia's Game Plan</a> WSJ: The Ukrainian foreign minister said President Biden’s “minor incursion” comment underplays Moscow’s intentions, which Kyiv sees as destabilizing the country and removing its leadership. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on elections and filibuster were the right thing to do</a> NPR: The Senate Majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317339/bipartisan-senate-delegation-traveled-to-kyiv-to-meet-ukraines-leadership">Bipartisan Senate delegation traveled to Kyiv to meet Ukraine's leadership</a> NPR: NPR's A Martinez speaks with Democratic Sen. Chris Murphy of Connecticut about his recent trip to Ukraine as part of a bipartisan delegation of senators, and what he learned. 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
