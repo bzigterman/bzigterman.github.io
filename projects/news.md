@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:22 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
+ <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
+ <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60071856?at_medium=RSS&at_campaign=KARANGA">Paris Fashion Week: Louis Vuitton shows Virgil Abloh's last collection</a> BBC: The French fashion house pays tribute to its late artistic director during Paris Fashion Week. 
+ <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60075135?at_medium=RSS&at_campaign=KARANGA">Rare twin elephants born in Kenya</a> BBC: Twins account for only 1% of elephant births, with the last known birth recorded in 2006. 
  <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074406922/lisala-folau-tonga-swim-tsunami">A Tongan man says he swam for more than 24 hours after a tsunami swept him out to sea</a> NPR: Lisala Folau told a local broadcaster about his swimming journey, which lasted more than a day and took him to three islands. Social media users hearing his story are calling him "real-life Aquaman." 
- <p class="updated_time"> 11:59 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 11:57 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074405423/red-cross-cyberattack">Cyberattack on Red Cross compromised sensitive data on over 515,000 vulnerable people</a> NPR: The attack targeted a contractor in Switzerland that was storing the data. The Red Cross has been forced to halt a program that reunites families torn apart by violence, migration or other tragedies. 
  <p class="updated_time"> 11:39 AM CT, Jan. 20 </p> 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 11:13 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
- <p class="updated_time"> 11:11 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 11:09 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60072502?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: President Zelensky hits back at Biden comments</a> BBC: Its president bristles at suggestions a "minor" Russian attack may bring a weaker Western response. 
  <p class="updated_time"> 11:04 AM CT, Jan. 20 </p> 
@@ -66,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 07:06 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine Fears 'Minor' Attacks Are in Russia's Gameplan</a> WSJ: The Ukrainian foreign minister said President Biden’s “minor incursion” comment underplays Moscow’s intentions, which Kyiv sees as destabilizing the country and removing its leadership. 
+ <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine Fears Minor Attacks Are in Russia's Game Plan</a> WSJ: The Ukrainian foreign minister said President Biden’s “minor incursion” comment underplays Moscow’s intentions, which Kyiv sees as destabilizing the country and removing its leadership. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/19/1074256301/nbc-not-sending-sports-announcers-to-winter-olympics">COVID concerns will keep NBC announcers home from the Beijing Olympics</a> NPR: NBC Sports officials say their plan of covering the Olympics from its Stamford, Conn., facility is a similar strategy used to cover the delayed 2020 Tokyo Summer Olympics last year. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 08:18 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/health-60058120?at_medium=RSS&at_campaign=KARANGA">Millions are dying from drug-resistant infections, global report says</a> BBC: The death toll, worst in poorer countries and among the under-fives, needs urgent action, experts say. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 07:31 PM CT, Jan. 19 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
+ <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:11 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 12:06 PM CT, Jan. 20 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
  <p class="updated_time"> 11:59 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366">Senate Dems' filibuster ambitions fall short</a> Politico: Republicans unanimously blocked their election reform legislation — and two centrists joined the GOP in resisting their push to change chamber rules. 
- <p class="updated_time"> 11:00 AM CT, Jan. 19 </p> 
- <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 08:58 AM CT, Jan. 19 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
  <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
