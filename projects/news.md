@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:20 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: The failure of his voting laws make the November congressional elections vulnerable, Mr Biden argued. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 08:20 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: New Zealand and Australian aid planes to arrive</a> BBC: New Zealand and Australia are sending water and supplies, after ash was cleared from the runway. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
- <p class="updated_time"> 07:59 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60063594?at_medium=RSS&at_campaign=KARANGA">Biden questions if US midterm elections will be 'legit'</a> BBC: The failure of his voting laws make the November congressional elections vulnerable, Mr Biden argued. 
  <p class="updated_time"> 07:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 07:31 PM CT, Jan. 19 </p> 
@@ -196,8 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
- <p class="updated_time"> 09:00 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Won’t Block Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours. 
+ <p class="updated_time"> 09:07 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 08:46 PM CT, Jan. 19 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-desantis-covid-australia.html">Why Trump and DeSantis Are Talking About Australia</a> NYT: For conservatives, the country has become a symbol of coronavirus “tyranny.” 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
+ <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/jan-6-investigators-target-trumps-court-efforts-to-overturn-election-527322">Jan. 6 investigators target Trump's court efforts to overturn election</a> Politico: The committee issued subpoenas to Rudy Giuliani, Jenna Ellis, Sidney Powell and Boris Epshteyn on Tuesday. 
  <p class="updated_time"> 05:27 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/us/politics/trump-jan-6-riot.html">Prosecutors Reportedly Asked About Trump’s Role in Jan. 6 Riot</a> NYT: A court filing by a defendant in a Capitol riot case said the Justice Department was looking for information about a possible “organized conspiracy” involving the former president. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
