@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
+ <p class="updated_time"> 09:37 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074154684/gary-chambers-campaign-viral-pot-smoking-ad">Gary Chambers' new pot-smoking campaign ad in Senate race goes viral with old tactics</a> NPR: Democrat Gary Chambers Jr. is running to unseat Louisiana Sen. John Kennedy. Chambers follows in the footsteps of other politicians who have used attention-grabbing ads to up their name recognition. 
  <p class="updated_time"> 09:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
  <p class="updated_time"> 09:01 AM CT, Jan. 20 </p> 
@@ -252,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html">In Press Conference, Biden Defends His First Year in Office</a> NYT: President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
- <p class="updated_time"> 10:16 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who have blocked their voting rights bill. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172870/supreme-court-heard-cruz-case-about-using-post-election-contributions-to-repay-l">Supreme Court heard Cruz case about using post-election contributions to repay loans </a> NPR: The U.S. Supreme Court heard arguments in Republican Sen. Ted Cruz's bid to undo a provision limiting the amount of money candidates can be reimbursed for personal loans to their own campaigns. 
  <p class="updated_time"> 03:41 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
- <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoyle, the fiancee of the former president's eldest son. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
