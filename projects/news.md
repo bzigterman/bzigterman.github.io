@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:47 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
+ <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
+ <p class="updated_time"> 01:03 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
+ <p class="updated_time"> 01:00 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened structures in a small town and left a large crater. 
+ <p class="updated_time"> 12:52 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60075914?at_medium=RSS&at_campaign=KARANGA">'Pastor' arrested after disabled people found locked in his basement</a> BBC: The man and his wife claimed they were operating a "personal care home" in the dead-bolted basement. 
  <p class="updated_time"> 12:39 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
@@ -90,7 +96,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:47 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-soviet-11642693621">Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet.</a> WSJ: Former spy chief’s tolerance for risk is tested as he threatens a ground war unseen in Europe since the 1940s. 
+ <a href="https://www.wsj.com/articles/putin-russia-ukraine-soviet-11642693621">Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet.</a> WSJ: The former spy chief’s tolerance for risk is tested as he threatens a ground war unseen in Europe since the 1940s. 
  <p class="updated_time"> 04:21 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-60060047?at_medium=RSS&at_campaign=KARANGA">International Red Cross hack exposes half a million vulnerable people</a> BBC: A cyber-attack on the humanitarian organisation exposes the details of half a million vulnerable people 
  <p class="updated_time"> 04:16 AM CT, Jan. 20 </p> 
@@ -108,15 +114,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:54 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by Russia, Other U.S. Foes, CIA Says</a> WSJ: Agency concludes that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
+ <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: Agency concludes that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
  <p class="updated_time"> 03:24 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074320720/u-k-conservatives-may-oust-boris-johnson">U.K. Conservatives may oust Boris Johnson — here's how they can do that</a> NPR: If Johnson does not heed calls to resign — and he insists he won't — he could be toppled through a no-confidence vote. 
  <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/60065407?at_medium=RSS&at_campaign=KARANGA">Tonga: Journalist gives first-hand account of volcano eruption</a> BBC: Speaking from Tonga's capital, Marian Kupu gives a first-hand account of when the undersea volcano erupted. 
  <p class="updated_time"> 02:58 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid planes arrive bearing crucial supplies</a> BBC: It comes after the Pacific nation was left devastated by a volcanic eruption and subsequent tsunami. 
- <p class="updated_time"> 12:47 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60064474?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell seeks retrial in sex abuse case</a> BBC: It comes after one of the jurors convicting her of sex abuse charges said he had influenced others. 
  <p class="updated_time"> 12:29 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074310637/new-zealand-no-lockdown-omicron-variant">New Zealand will not impose lockdown when omicron hits</a> NPR: "This stage of the pandemic is different to what we have dealt with before. Omicron is more transmissible," Prime Minister Jacinda Ardern said. 
  <p class="updated_time"> 09:50 PM CT, Jan. 19 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
- <p class="updated_time"> 08:21 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
@@ -198,8 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
+ <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074387320/pelosi-opens-the-door-to-stock-trading-ban">Pelosi opens the door to stock trading ban</a> NPR: House Speaker Nancy Pelosi, D-Calif., has said a new law prohibiting members of Congress from picking individual stocks isn't needed, but added if it has the backing of caucus she is ok with it. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
  <p class="updated_time"> 12:47 PM CT, Jan. 20 </p> 
@@ -288,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Putin Will Order Ukraine Invasion, but ‘Will Regret Having Done It’</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 07:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/health/biden-free-n95-masks.html">Biden Will Provide 400 Million N95 Masks for Free</a> NYT: The masks will be distributed at pharmacies and community health centers, but some public health experts said the effort was coming too late. 
- <p class="updated_time"> 07:05 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/jon-stewart-prods-congress-to-aid-veterans-527420">Jon Stewart joins advocates in push to aid veterans exposed to toxins</a> Politico: “The bottom line is this: Our country exposed our veterans to poison for years, and we knew about it,” Jon Stewart said. 
  <p class="updated_time"> 06:44 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-committee-subpoena-white-nationalists.html">House Jan. 6 Committee Subpoenas White Nationalist Figures</a> NYT: The panel investigating the assault on the Capitol wants information from two leaders of the “America First” extremist movement. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
@@ -316,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
- <p class="updated_time"> 04:03 PM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074172877/in-kyiv-secretary-blinken-vowed-to-stand-with-ukraine-as-russia-tensions-continu">In Kyiv, Secretary Blinken vowed to stand with Ukraine as Russia tensions continue</a> NPR: U.S. Secretary of State Anthony Blinken is in Kyiv, assuring Ukrainian officials of American support in the face of a threatened Russian invasion. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
