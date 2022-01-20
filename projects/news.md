@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 05:32 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60075139?at_medium=RSS&at_campaign=KARANGA">The woman dressing as a household item every day in January</a> BBC: Taryn de Vere has gained global attention for outfits including pot noodle and curry powder. 
  <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
- <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 05:03 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/austria-covid-vaccine-mandate.html">Austrian Parliament Set to Approve Covid Vaccine Mandate for Adults</a> NYT: Starting Feb. 1, most adults 18 and over must be vaccinated or face fines up to 3,600 euros. 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
@@ -71,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
  <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
+ <p class="updated_time"> 12:28 PM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Biden Seeks to Reassure Ukraine, Vowing a Strong Response to Russia</a> WSJ: President Biden said any Russian troop movement into Ukraine would be considered an invasion, clarifying earlier remarks about a ‘minor incursion.’ 
  <p class="updated_time"> 12:22 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
- <p class="updated_time"> 07:06 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine Fears Minor Attacks Are in Russia's Game Plan</a> WSJ: The Ukrainian foreign minister said President Biden’s “minor incursion” comment underplays Moscow’s intentions, which Kyiv sees as destabilizing the country and removing its leadership. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
@@ -153,14 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
  <p class="updated_time"> 06:59 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60051524?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Biblical disaster shakes most Mormon nation in the world</a> BBC: Tonga is the world's most Mormon nation and the Church is playing a key role after the volcanic eruption. 
- <p class="updated_time"> 06:16 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswati: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
- <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
- <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Inaccurate posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
- <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59974018?at_medium=RSS&at_campaign=KARANGA">The battle for Steaua Bucharest - an Eastern European giant at war with itself</a> BBC: European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -202,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:01 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/georgia-prosecutor-trump-527529">Georgia DA asks for special grand jury in election probe</a> Politico: Fani Willis has been looking at Donald Trump’s Jan. 2 phone call to Brad Raffensperger, among other things. 
+ <p class="updated_time"> 05:33 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 05:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is conducting a criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 05:14 PM CT, Jan. 20 </p> 
@@ -209,11 +205,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:09 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/biden-capitol-hill-gridlock.html">Biden the Negotiator Confronts Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
@@ -380,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
- <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: Senate Majority Leader Chuck Schumer said the chamber would postpone a previously scheduled recess and return Tuesday to begin debating the election and voting legislation. 
 
 
 </details>
