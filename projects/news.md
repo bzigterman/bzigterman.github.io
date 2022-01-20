@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:06 PM CT, Jan. 20 </p> 
+ <p class="updated_time"> 02:23 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/animals-covid.html">Infected Zoo Lions Spur Concern Over Coronavirus in the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
+ <p class="updated_time"> 02:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France, With Election Soon, Sets Timeline to Lift Covid Restrictions</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
+ <p class="updated_time"> 02:18 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60076895?at_medium=RSS&at_campaign=KARANGA">Capitol riot inquiry asks Ivanka Trump to voluntarily testify</a> BBC: Congressional investigators believe she pressed her father to try to call off the rioters. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:57 PM CT, Jan. 20 </p> 
@@ -63,12 +67,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
  <p class="updated_time"> 09:16 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
+ <p class="updated_time"> 09:12 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: The agency concluded that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
  <p class="updated_time"> 09:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal-plastic-pollution.html">Senegal's 'Plastic Man' Is on a Mission to Clean Up Pollution</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074338995/cia-report-no-evidence-linking-havana-syndrome-cases-to-a-foreign-country">CIA report: No evidence linking Havana Syndrome to a foreign country </a> NPR: The interim report says many cases have now been attributed to previously undiagnosed illnesses. But 'a couple dozen' cases remain unresolved and are still under investigation. 
+ <a href="https://www.npr.org/2022/01/20/1074338995/cia-report-no-evidence-linking-havana-syndrome-cases-to-a-foreign-country">CIA report: No evidence linking Havana syndrome to a foreign country </a> NPR: The interim report says many cases have now been attributed to previously undiagnosed illnesses. But 'a couple dozen' cases remain unresolved and are still under investigation. 
  <p class="updated_time"> 08:41 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:47 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/putin-russia-ukraine-soviet-11642693621">Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet.</a> WSJ: The former spy chief’s tolerance for risk is tested as he threatens a ground war unseen in Europe since the 1940s. 
- <p class="updated_time"> 04:21 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-60060047?at_medium=RSS&at_campaign=KARANGA">International Red Cross hack exposes half a million vulnerable people</a> BBC: A cyber-attack on the humanitarian organisation exposes the details of half a million vulnerable people 
  <p class="updated_time"> 04:16 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074324166/first-aid-flight-in-tonga-after-eruption">First aid flights arrive in Tonga after massive volcanic eruption and tsunami</a> NPR: The eruption severed Tonga's single fiber-optic cable, rendering the Pacific archipelago offline and unable to communicate with the rest of the world. Flights brought bottled water and other supplies. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
  <p class="updated_time"> 03:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
- <p class="updated_time"> 03:54 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: The agency concluded that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
  <p class="updated_time"> 03:24 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074320720/u-k-conservatives-may-oust-boris-johnson">U.K. Conservatives may oust Boris Johnson — here's how they can do that</a> NPR: If Johnson does not heed calls to resign — and he insists he won't — he could be toppled through a no-confidence vote. 
  <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60045448?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Snowboard company Burton defends working in Xinjiang</a> BBC: Watch as Burton China's chief executive is quizzed on operating in the troubled region. 
- <p class="updated_time"> 04:52 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/us/politics/russia-ukraine-blinken.html">Blinken to Meet With Russia as U.S. Pushes For More Diplomacy on Ukraine</a> NYT: Secretary of State Antony J. Blinken will meet with Foreign Minister Sergey V. Lavrov of Russia in Geneva on Friday as the United States warns that Russia could soon attack Ukraine. 
  <p class="updated_time"> 02:08 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/britain-boris-johnson-parties.html">As Johnson Reels From Scandals, Is Someone Plotting to Take His Place?</a> NYT: A key question is: Will the results of an inquiry over parties in Downing Street during lockdown push a fellow conservative to move against Prime Minister Boris Johnson? 
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
+ <p class="updated_time"> 02:28 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:05 PM CT, Jan. 20 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">Biden: Putin ‘has no misunderstanding’ about consequences of Ukraine invasion</a> Politico: Top Ukrainian officials argued the president’s remarks at a White House news conference could embolden Russia to launch an attack. 
- <p class="updated_time"> 10:52 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 09:53 AM CT, Jan. 20 </p> 
