@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
+ <p class="updated_time"> 10:33 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
+ <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">‘She Was Just Going for a Run’: Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
+ <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 10:30 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany. 
+ <p class="updated_time"> 10:27 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 10:24 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian-American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
- <p class="updated_time"> 09:47 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">‘She Was Just Going for a Run’: Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 09:30 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60070025?at_medium=RSS&at_campaign=KARANGA">Liberian church stampede kills 29 worshippers in Monrovia</a> BBC: At least 29 people, including 11 children, die when robbers attack an open-air service, causing panic. 
  <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
@@ -22,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074338995/cia-report-no-evidence-linking-havana-syndrome-cases-to-a-foreign-country">CIA report: no evidence linking Havana Syndrome to a foreign country </a> NPR: The interim report says many cases have now been attributed to previously undiagnosed illnesses. But 'a couple dozen' cases remain unresolved and are still under investigation. 
+ <a href="https://www.npr.org/2022/01/20/1074338995/cia-report-no-evidence-linking-havana-syndrome-cases-to-a-foreign-country">CIA report: No evidence linking Havana Syndrome to a foreign country </a> NPR: The interim report says many cases have now been attributed to previously undiagnosed illnesses. But 'a couple dozen' cases remain unresolved and are still under investigation. 
  <p class="updated_time"> 08:41 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
@@ -33,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
- <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
  <p class="updated_time"> 07:42 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
  <p class="updated_time"> 07:37 AM CT, Jan. 20 </p> 
@@ -45,14 +53,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
- <p class="updated_time"> 06:47 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1073764647/us-china-southeast-asia-trade-defense">With U.S. focused on defense, China's trade and infrastructure sweep Southeast Asia</a> NPR: The Biden administration hopes to make deeper inroads in Southeast Asia but lags far behind China, which has already built up major trade ties, as well as roads and a high-speed rail. 
  <p class="updated_time"> 05:56 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president warns the Russian leader against invading, but hints at splits among Western allies. 
  <p class="updated_time"> 05:49 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/australia-juvenile-forklift-drivers.html">Australia’s (Brief) Idea to Ease Supply Chains: Juvenile Forklift Drivers</a> NYT: A proposal, and the rapid retreat that followed, both elicited waggish mockery and highlighted a serious economic problem. 
+ <p class="updated_time"> 05:45 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/probe-blames-pope-benedict-xvi-for-failures-on-clerical-sex-abuse-as-archbishop-11642688550">Probe Blames Pope Benedict XVI for Failures on Clerical Sex Abuse as Archbishop</a> WSJ: The future pope mishandled four cases of clerical sex abuse during his tenure as an archbishop in Germany, according to an inquiry that faults him for failures to investigate and discipline abusers. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:21 AM CT, Jan. 20 </p> 
@@ -61,16 +69,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074324166/first-aid-flight-in-tonga-after-eruption">First aid flights arrive in Tonga after massive volcanic eruption and tsunami</a> NPR: The eruption severed Tonga's single fiber-optic cable, rendering the Pacific archipelago offline and unable to communicate with the rest of the world. Flights brought bottled water and other supplies. 
  <p class="updated_time"> 04:14 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine's Foreign Minister Says Biden Comment Underestimates Russia's Intention</a> WSJ: Dmytro Kuleba responded to a comment from the U.S. president, in which he suggested that Western nations weren’t in tandem on how to respond to Russia in the event of a “minor incursion” on Ukraine. 
- <p class="updated_time"> 04:13 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/probe-blames-pope-benedict-xvi-for-failures-on-clerical-sex-abuse-as-archbishop-11642688550">Probe Blames Pope Benedict XVI for Failures on Clerical Sex Abuse as Archbishop</a> WSJ: The future pope mishandled four cases of clerical sex abuse during his tenure as an archbishop in Germany, according to an inquiry that faults him for failures to investigate and discipline abusers. 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317402/the-first-humanitarian-aid-has-arrived-in-the-pacific-nation-of-tonga">The first humanitarian aid has arrived in the Pacific nation of Tonga</a> NPR: The flight arrived in Tonga five days after a massive underwater volcano erupted there – killing three people and leaving extensive tsunami damage and a blanket of fallen ash in its wake. 
  <p class="updated_time"> 04:04 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60066404?at_medium=RSS&at_campaign=KARANGA">Djokovic could have inspired anti-vax Australians, court says</a> BBC: The court said it was reasonable to think Djokovic might have inspired anti-vaccine sentiment in Australia. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
- <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html">The Plans for the World’s Next Largest City Are Incomplete</a> NYT: Delhi is growing far beyond the formal confines of the city, a case study in the complexity of what we call urbanization. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074310637/new-zealand-no-lockdown-omicron-variant">New Zealand will not impose lockdown when omicron hits</a> NPR: "This stage of the pandemic is different to what we have dealt with before. Omicron is more transmissible," Prime Minister Jacinda Ardern said. 
  <p class="updated_time"> 12:28 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-meets-el-salvadors-bitcoin-boosting-leader-amid-economic-crisis-11642678083">Erdogan Meets El Salvador's Bitcoin-Boosting Leader</a> WSJ: The Turkish government has taken a restrictive approach to cryptocurrencies in recent years, but analysts expect El Salvaror’s Nayib Bukele to advocate for the use of crypto during the meeting. 
- <p class="updated_time"> 11:03 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60047368?at_medium=RSS&at_campaign=KARANGA">Giant pristine coral reef discovered off Tahiti</a> BBC: Marine explorers find a "pristine" 3km coral reef at depths of 30m off the coast of Tahiti. 
  <p class="updated_time"> 09:50 PM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/china-cuts-benchmark-rate-to-bolster-flagging-economy-11642668631">China Cuts Benchmark Rates to Bolster Flagging Economy</a> WSJ: The country’s central bank stepped in to support a slowing economy that has been weighed down by a slump in the property market during a politically important year for leader Xi Jinping. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
- <p class="updated_time"> 08:27 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 08:21 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/texas-synagogue-hostage-mi5-intelligence.html">Texas Hostage Taker Was Known to British Intelligence</a> NYT: Malik Faisal Akram was listed as a “subject of interest” in 2020 by Britain’s MI5 security service, according to British and U.S. officials. But he had since been deemed to no longer be a risk. 
  <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
+ <p class="updated_time"> 10:57 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/ukraine-leaders-denounce-bidens-minor-incursion-remark-527463">‘There are no minor incursions’: Ukrainian officials push back on Biden</a> Politico: They argue the president’s comment could embolden Russia to launch an attack. 
+ <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 10:13 AM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:45 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine, Biden Flusters European Allies by Stating the Obvious</a> NYT: The president laid bare divisions over Russian meddling in Ukraine, even if they have long been there for all to see. 
  <p class="updated_time"> 07:14 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 07:09 AM CT, Jan. 20 </p> 
