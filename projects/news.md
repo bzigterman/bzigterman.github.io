@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
+ <p class="updated_time"> 09:00 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal-plastic-pollution.html">Senegal's 'Plastic Man' Is on a Mission to Clean Up Pollution</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
@@ -49,6 +53,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60060047?at_medium=RSS&at_campaign=KARANGA">International Red Cross hack exposes half a million vulnerable people</a> BBC: A cyber-attack on the humanitarian organisation exposes the details of half a million vulnerable people 
  <p class="updated_time"> 04:16 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074324166/first-aid-flight-in-tonga-after-eruption">The first aid flight arrived in Tonga after a five-day cut off due to eruption</a> NPR: The eruption severed Tonga's single fiber-optic cable, rendering the entire Pacific archipelago offline and unable to communicate with the rest of the world. 
+ <p class="updated_time"> 04:14 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine's Foreign Minister Says Biden Comment Underestimates Russia's Intention</a> WSJ: Dmytro Kuleba responded to a comment from the U.S. president, in which he suggested that Western nations weren’t in tandem on how to respond to Russia in the event of a “minor incursion” on Ukraine. 
+ <p class="updated_time"> 04:13 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/probe-blames-pope-benedict-xvi-for-failures-on-clerical-sex-abuse-as-archbishop-11642688550">Probe Blames Pope Benedict XVI for Failures on Clerical Sex Abuse as Archbishop</a> WSJ: The future pope mishandled four cases of clerical sex abuse during his tenure as an archbishop in Germany, according to an inquiry that faults him for failures to investigate and discipline abusers 
  <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074317402/the-first-humanitarian-aid-has-arrived-in-the-pacific-nation-of-tonga">The first humanitarian aid has arrived in the Pacific nation of Tonga</a> NPR: The flight arrived in Tonga five days after a massive underwater volcano erupted there – killing three people and leaving extensive tsunami damage and a blanket of fallen ash in its wake. 
  <p class="updated_time"> 04:04 AM CT, Jan. 20 </p> 
@@ -69,12 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:54 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by Russia, Other U.S Foes, CIA Says</a> WSJ: Agency concludes that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
- <p class="updated_time"> 03:44 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Ukraine's Foreign Minister Says Biden Comment Underestimates Russian Aggression</a> WSJ: Dmytro Kuleba responded to a comment from the U.S. president, in which he suggested that Western nations weren’t in tandem on how to respond to Russia in the event of a “minor incursion” on Ukraine. 
  <p class="updated_time"> 03:24 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074320720/u-k-conservatives-may-oust-boris-johnson">U.K. Conservatives may oust Boris Johnson — here's how they can do that</a> NPR: If Johnson does not heed calls to resign — and he insists he won't — he could be toppled through a no-confidence vote. 
- <p class="updated_time"> 03:22 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/probe-blames-pope-benedict-xvi-for-failures-on-clerical-sex-abuse-as-archbishop-11642688550">Probe Blames Pope Benedict XVI for Failures on Clerical Sex Abuse as Archbishop</a> WSJ: The future pope mishandled four cases of clerical sex abuse during his tenure as an archbishop in Germany, according to an inquiry that faults him for failures to investigate and discipline abusers 
  <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/60065407?at_medium=RSS&at_campaign=KARANGA">Tonga: Journalist gives firsthand account of volcano eruption</a> BBC: Speaking from Tonga's capital, Nuku'alofa, Marian Kupu gives a firsthand account of the moment the undersea volcano erupted. 
  <p class="updated_time"> 02:58 AM CT, Jan. 20 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
- <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/italy-villa-auction-caravaggio.html">You Can Still Own a Caravaggio, but It Comes With a House (and a Hefty Price)</a> NYT: A much anticipated auction for a $500 million villa in Rome that boasts a Caravaggio ceiling fresco failed to get any offers. 
  <p class="updated_time"> 06:14 PM CT, Jan. 18 </p> 
@@ -194,8 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:52 AM CT, Jan. 20 </p> 
+ <p class="updated_time"> 09:01 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
+ <p class="updated_time"> 08:58 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 08:29 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074172857/trump-organization-deceived-banks-and-irs-new-york-attorney-general-james-says">Trump Organization deceived banks and IRS, New York Attorney General James says</a> NPR: New York's Attorney General says the Trump Organization deliberately misled banks, insurers and the IRS for many years. She lays out her evidence in a new court filing. 
  <p class="updated_time"> 03:26 PM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074172833/jan-6-panel-is-seeking-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel is seeking phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol has requested phone records of Eric Trump and Kimberly Guilfoyle, the fiancee of the former president's eldest son. 
- <p class="updated_time"> 03:20 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html">How 5G Clashed With an Aviation Device Invented in the 1920s</a> NYT: The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
