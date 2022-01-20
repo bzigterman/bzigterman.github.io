@@ -43,14 +43,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60063732?at_medium=RSS&at_campaign=KARANGA">Tonga: First foreign aid planes arrive bearing crucial supplies</a> BBC: It comes after the Pacific nation was left devastated by a volcanic eruption and subsequent tsunami. 
  <p class="updated_time"> 12:47 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60064474?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell seeks retrial in sex abuse case</a> BBC: It comes after one of the jurors convicting her of sex abuse charges said he had influenced others. 
+ <p class="updated_time"> 12:43 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-made-secret-visit-to-europe-ahead-of-blinkens-trip-11642679002">CIA Chief Made Secret Visit to Europe Ahead of Blinken's Trip</a> WSJ: The U.S. dispatched the head of the intelligence agency to Berlin and Kyiv as part of its efforts to convince European nations to rally around a tougher response against Moscow and in support of Ukraine, an approach that is complicated by the countries’ closer economic ties with Russia. 
  <p class="updated_time"> 12:29 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074310637/new-zealand-no-lockdown-omicron-variant">New Zealand will not impose lockdown when omicron hits</a> NPR: "This stage of the pandemic is different to what we have dealt with before. Omicron is more transmissible," Prime Minister Jacinda Ardern said. 
+ <p class="updated_time"> 12:28 AM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-meets-el-salvadors-bitcoin-boosting-leader-amid-economic-crisis-11642678083">Erdogan Meets El Salvador's Bitcoin-Boosting Leader</a> WSJ: The Turkish government has taken a restrictive approach to cryptocurrencies in recent years, but analysts expect El Salvaror’s Nayib Bukele to advocate for the use of crypto during the meeting. 
  <p class="updated_time"> 11:03 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60047368?at_medium=RSS&at_campaign=KARANGA">Giant pristine coral reef discovered off Tahiti</a> BBC: Marine explorers find a "pristine" 3km coral reef at depths of 30m off the coast of Tahiti. 
  <p class="updated_time"> 10:18 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60063492?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption an 'ecological disaster'</a> BBC: The "ecological disaster" occurred after high waves caused by the volcanic eruption in Tonga. 
- <p class="updated_time"> 10:09 PM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/north-korea-considers-restarting-long-range-and-nuclear-weapons-tests-11642642236">North Korea Considers Restarting Long-Range and Nuclear-Weapons Tests</a> WSJ: At a Politburo meeting, the Kim Jong Un regime blasted the U.S. for maintaining hostilities and said it needs to prepare for a long-term confrontation with the U.S. 
  <p class="updated_time"> 09:50 PM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/china-cuts-benchmark-rate-to-bolster-flagging-economy-11642668631">China Cuts Benchmark Rates to Bolster Flagging Economy</a> WSJ: The country’s central bank stepped in to support a slowing economy that has been weighed down by a slump in the property market during a politically important year for leader Xi Jinping. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59974018?at_medium=RSS&at_campaign=KARANGA">The battle for Steaua Bucharest - an Eastern European giant at war with itself</a> BBC: European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two. 
  <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
- <p class="updated_time"> 05:25 PM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">India's Biggest Cities See Covid-19 Cases Fall Sharply, Raising Hopes for Omicron Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -103,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
- <p class="updated_time"> 02:48 PM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181">Biden Says Russia Likely to Move Against Ukraine, as Blinken Visits the Region</a> WSJ: The U.S. president said Russia would face consequences calibrated to the degree of aggression, while the Biden administration’s top diplomat sought to reassure Ukraine’s president of unified support from the West. 
  <p class="updated_time"> 02:13 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html">After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </a> NYT: Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster. 
  <p class="updated_time"> 02:04 PM CT, Jan. 19 </p> 
