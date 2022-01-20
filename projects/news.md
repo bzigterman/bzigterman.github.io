@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60064474?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell seeks retrial in sex abuse case</a> BBC: It comes after one of the jurors convicting her of sex abuse charges said he had influenced others. 
  <p class="updated_time"> 12:29 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074310637/new-zealand-no-lockdown-omicron-variant">New Zealand will not impose lockdown when omicron hits</a> NPR: "This stage of the pandemic is different to what we have dealt with before. Omicron is more transmissible," Prime Minister Jacinda Ardern said. 
  <p class="updated_time"> 11:29 PM CT, Jan. 19 </p> 
@@ -87,18 +89,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074089271/peru-tonga-oil-spill-volcano">The Tonga volcano caused an oil spill on Peru's coast. Fishermen are protesting</a> NPR: Because of waves from Saturday's eruption, an estimated 6,000 barrels of oil were spilled near Peru's main refinery on the coast in an area rich in marine biodiversity. 
  <p class="updated_time"> 11:23 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074079983/as-tension-over-ukraine-continues-russia-says-it-has-no-plans-to-stage-an-attack">As tension over Ukraine continues, Russia says it has no plans to stage an attack</a> NPR: Amid diplomatic efforts aimed at preventing a feared Russian invasion of Ukraine, Russia's embassy in Washington called to "end the hysteria," reiterating that Moscow plans no such military move. 
- <p class="updated_time"> 11:13 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60045153?at_medium=RSS&at_campaign=KARANGA">In pictures: Snow falls in Algeria's Sahara Desert</a> BBC: The ice crystals leave stunning patterns in the sands of the Sahara, the world's largest hot desert. 
  <p class="updated_time"> 10:52 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1074076149/boris-johnson-resignation-calls">Britain's Johnson faces growing calls to quit after throwing parties during lockdown</a> NPR: The prime minister has admitted to throwing "bring your own booze" parties at his official residence in London while ordinary Britons were told to stay away from unnecessary gatherings. 
- <p class="updated_time"> 10:49 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60050996?at_medium=RSS&at_campaign=KARANGA">Hana Horka: Czech singer dies after catching Covid intentionally</a> BBC: Hana Horka's son tells the BBC his mother was unvaccinated but wanted to acquire immunity. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 10:12 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
- <p class="updated_time"> 09:48 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60056168?at_medium=RSS&at_campaign=KARANGA">Dutch Covid rules: Museums and orchestras stage haircut protest</a> BBC: The Dutch cultural sector takes on rules that keep museums and music venues shut but salons open. 
  <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
@@ -119,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074020018/the-u-s-will-provide-200-million-in-military-aid-to-ukraine-amid-crisis">The U.S. will provide $200 million in military aid to Ukraine amid crisis</a> NPR: "We are committed to Ukraine's sovereignty and territorial integrity and will continue to provide Ukraine the support it needs," a senior State Department official said. 
  <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
- <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-faces-rising-pressure-over-lockdown-party-11642593928">Boris Johnson Faces Rising Pressure Over Lockdown Party</a> WSJ: The British prime minister faced rising political pressure over allegations that he broke lockdown rules by attending a drinks party in Downing Street, as some of his Conservative lawmakers strategized how to oust the British leader and one defected to the opposition. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
