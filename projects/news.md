@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:33 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Ex-Pope Benedict failed to act over abuse cases - inquiry</a> BBC: Pope Benedict failed to act over four child abuse cases when he was archbishop of Munich, a German church probe finds. 
+ <p class="updated_time"> 05:46 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Ex-Pope Benedict failed to act over abuse, new report finds</a> BBC: The former pope is incriminated in a report into the Church's handling of child sex abuse in Munich. 
  <p class="updated_time"> 05:30 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president warns the Russian leader against invading, but hints at splits among Western allies. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
@@ -79,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59952851?at_medium=RSS&at_campaign=KARANGA">Yati Narsinghanand Saraswati: Who is the arrested Hindu priest?</a> BBC: Yati Narsinghanand Saraswati is a polarising figure who has often made headlines for anti-Muslim rhetoric. 
  <p class="updated_time"> 06:13 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60004257?at_medium=RSS&at_campaign=KARANGA">Apple AirTags - 'A perfect tool for stalking'</a> BBC: Apple’s AirTags are great for finding lost items. But they have a darker side. 
+ <p class="updated_time"> 06:08 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60039138?at_medium=RSS&at_campaign=KARANGA">Omicron: Is racism why South African evidence of milder infection was ignored?</a> BBC: South African scientists tell the BBC their research should have been taken more seriously. 
  <p class="updated_time"> 06:06 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
