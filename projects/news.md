@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:21 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-60060047?at_medium=RSS&at_campaign=KARANGA">International Red Cross hack exposes half a million vulnerable people</a> BBC: A cyber-attack on the humanitarian organisation exposes the details of half a million vulnerable people 
  <p class="updated_time"> 04:16 AM CT, Jan. 20 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
- <p class="updated_time"> 01:59 PM CT, Jan. 17 </p> 
- <a href="https://www.nytimes.com/2022/01/17/world/joint-chiefs-covid-positive.html">Gen. Mark Milley, Joint Chiefs Chairman, Tests Positive for Covid</a> NYT: Gen. Mark A. Milley, the chairman, and Gen. David H. Berger, the commandant of the Marine Corps, were both vaccinated. 
 
 
 </details>
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787">Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
