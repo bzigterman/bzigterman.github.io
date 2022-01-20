@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Jan. 20 </p> 
+ <a href="https://www.npr.org/2022/01/20/1074311649/new-mexico-model-inclusive-race-education">New Mexico is pushing to be a 'model' for how race is taught in U.S. schools</a> NPR: Officials say they hope their standards can be a model for the country of social studies teaching that is culturally responsive, as student populations grow increasingly diverse. 
  <p class="updated_time"> 12:14 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/ncaa-transgender-athletes-policy-527458">NCAA adopts new policy for transgender athletes</a> Politico: The move brings the organization in line with the U.S. and International Olympic Committees. 
  <p class="updated_time"> 11:40 PM CT, Jan. 19 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Jan. 19 </p> 
  <a href="https://www.npr.org/2022/01/19/1073908955/senate-voting-rights-bills-filibuster">Democrats fail to change Senate rules to overcome GOP opposition on voting rights</a> NPR: The push to alter the filibuster and sidestep a Republican blockade of two voting rights bills was doomed by Democratic Sens. Joe Manchin of West Virginia and Kyrsten Sinema of Arizona. 
- <p class="updated_time"> 06:51 AM CT, Jan. 19 </p> 
- <a href="https://www.npr.org/2022/01/19/1074031926/new-york-ag-james-says-trumps-company-misled-banks-tax-officials">New York AG James says Trump's company misled banks, tax officials </a> NPR: Attorney General Letitia James says her office uncovered evidence of financial irregularities at former President Donald Trump's business, and wants Trump and two of his adult children to testify. 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
  <p class="updated_time"> 06:01 AM CT, Jan. 19 </p> 
