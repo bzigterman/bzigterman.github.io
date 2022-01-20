@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
+ <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
  <p class="updated_time"> 01:03 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-germany-holocaust-final-solution-antisemitism.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:00 PM CT, Jan. 20 </p> 
@@ -190,8 +192,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:01 AM CT, Jan. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60042021?at_medium=RSS&at_campaign=KARANGA">Is historic Rome villa the world's most valuable property?</a> BBC: The BBC’s Rome correspondent Mark Lowen takes a look inside Villa Aurora, which failed to sell at auction. 
  <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59944126?at_medium=RSS&at_campaign=KARANGA">Mexico missing: 'If I find a body, I recover a piece of my son'</a> BBC: With nearly 100,000 disappeared people in Mexico, families have taken on the search themselves. 
- <p class="updated_time"> 06:01 PM CT, Jan. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60024510?at_medium=RSS&at_campaign=KARANGA">Purges and piranhas: Why we love a crazy North Korea story</a> BBC: North Korea is frequently the subject of news stories in Western media. But many stories are unfounded or blown out of proportion. 
 
 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
+ <p class="updated_time"> 01:17 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074387320/pelosi-opens-the-door-to-stock-trading-ban">Pelosi opens the door to stock trading ban</a> NPR: House Speaker Nancy Pelosi, D-Calif., has said a new law prohibiting members of Congress from picking individual stocks isn't needed, but added if it has the backing of caucus she is ok with it. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074208977/jan-6-panel-seeks-phone-records-from-eric-trump-and-kimberly-guilfoyle">Jan. 6 panel seeks phone records from Eric Trump and Kimberly Guilfoyle</a> NPR: It marks the first public reporting of the committee seeking records from the former first family. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions. 
- <p class="updated_time"> 04:25 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html">Sotomayor and Gorsuch Address Reports of Conflicts Over Masks</a> NYT: Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/f/?id=0000017e-7431-dbc8-a1ff-75310e2a0000">Donor Letter to Sen. Kyrsten Sinema</a> Politico: A letter from "Senate donors and concerned Americans" to Sen. Sinema urges her to support changing the Senate rules in order to pass the Freedom to Vote Act and John Lewis VRA Act. 
  <p class="updated_time"> 02:31 PM CT, Jan. 19 </p> 
