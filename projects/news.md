@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:21 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
+ <p class="updated_time"> 10:18 PM CT, Jan. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60063492?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption an 'ecological disaster'</a> BBC: The "ecological disaster" occurred after high waves caused by the volcanic eruption in Tonga. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 09:33 PM CT, Jan. 19 </p> 
@@ -37,10 +41,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59994912?at_medium=RSS&at_campaign=KARANGA">Covid: Did Pfizer's boss cast doubt on his own vaccine?</a> BBC: Misleading posts about the Pfizer vaccine's protection against Omicron took the drug company's boss out of context. 
  <p class="updated_time"> 06:02 PM CT, Jan. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59974018?at_medium=RSS&at_campaign=KARANGA">The battle for Steaua Bucharest - an Eastern European giant at war with itself</a> BBC: European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two. 
- <p class="updated_time"> 06:00 PM CT, Jan. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60061300?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Biden says he thinks Putin will 'move in'</a> BBC: The US president says he thinks Russia's leader will "move in" but does not want a "full-blown war". 
  <p class="updated_time"> 05:47 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
+ <p class="updated_time"> 05:25 PM CT, Jan. 19 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">India's Biggest Cities See Covid-19 Cases Fall Sharply, Raising Hopes for Omicron Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
  <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60044270?at_medium=RSS&at_campaign=KARANGA">Joe Biden one year: How is he doing so far?</a> BBC: Twelve months in, how is he doing? Here's a visual guide to the ups and downs of the Biden presidency. 
  <p class="updated_time"> 02:31 AM CT, Jan. 19 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-faces-rising-pressure-over-lockdown-party-11642593928">Boris Johnson Faces Rising Pressure Over Lockdown Party</a> WSJ: The British prime minister faced rising political pressure over allegations that he broke lockdown rules by attending a drinks party in Downing Street, as some of his Conservative lawmakers strategized how to oust the British leader and one defected to the opposition. 
- <p class="updated_time"> 01:46 AM CT, Jan. 19 </p> 
- <a href="https://www.wsj.com/articles/covid-19-cases-fall-sharply-in-indias-biggest-cities-raising-hopes-for-nearing-peak-11642596397">Covid-19 Cases Fall in India's Biggest Cities, Raising Hopes for Peak</a> WSJ: The decline in New Delhi and Mumbai suggests prior infections might be helping to prevent a repeat of last year’s devastating wave. 
  <p class="updated_time"> 10:25 PM CT, Jan. 18 </p> 
  <a href="https://www.nytimes.com/2022/01/18/world/europe/jean-michel-blanquer-ibiza-vacation-covid.html">France's Education Minister Under Fire Over Vacation at Key Covid Juncture</a> NYT: The minister, Jean-Michel Blanquer, has led efforts to keep France’s schools open in the face of a sharp rise in cases caused by the Omicron variant. 
  <p class="updated_time"> 07:53 PM CT, Jan. 18 </p> 
@@ -194,7 +196,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
- <p class="updated_time"> 09:53 PM CT, Jan. 19 </p> 
+ <p class="updated_time"> 10:16 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who have blocked their voting rights bill. 
+ <p class="updated_time"> 10:15 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html">Voting Rights Bill Is Blocked in the Senate</a> NYT: Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions. 
  <p class="updated_time"> 09:37 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel">The Supreme Court denies Trump's bid to block release of records to Jan. 6 panel</a> NPR: The former president's White House records are sought by the Democratic-led House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
- <p class="updated_time"> 05:33 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/democrats-filibuster-sinema-manchin.html">Democrats Blame Sinema, Manchin for Voting Rights Impasse</a> NYT: Prominent Democrats are expressing rage at their party’s two filibuster holdouts, rather than at Republicans who are blocking their voting rights bill. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
