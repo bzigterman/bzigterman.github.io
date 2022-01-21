@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
+ <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
  <p class="updated_time"> 04:34 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872933/french-diplomat-talks-about-the-stakes-of-the-ongoing-ukraine-conflict">French diplomat talks about the stakes of the ongoing Ukraine conflict</a> NPR: NPR's Mary Louise Kelly speaks with Emmanuel Bonne, the diplomatic and national security advisor to French President Emmanuel Macron, about Russia and Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
- <p class="updated_time"> 04:05 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:03 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
  <p class="updated_time"> 04:01 PM CT, Jan. 21 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
- <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
 
