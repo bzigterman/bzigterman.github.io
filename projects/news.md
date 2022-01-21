@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 12:49 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: International aid efforts ramp up for tsunami-hit nation</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
- <p class="updated_time"> 11:30 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 11:12 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60078515?at_medium=RSS&at_campaign=KARANGA">Samsung pulls ad with drag queen after backlash</a> BBC: The ad, which showed a Muslim mother expressing support for her drag queen son, was criticised online. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
