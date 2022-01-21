@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
+ <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
+ <p class="updated_time"> 12:22 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
  <p class="updated_time"> 09:37 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60082788?at_medium=RSS&at_campaign=KARANGA">Scores killed in Yemen prison air strike carnage</a> BBC: Rescue workers have been pulling bodies from rubble after the site was destroyed in an air strike. 
- <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at Prison in Yemen, Officials Say</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">A nuclear-test monitor calls Tonga volcano blast 'biggest thing that we've ever seen'</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga from Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 6-10 megatons. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
- <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/facebook-lobbying-spending-2021-527577">Facebook's lobbying spending surged to a record in 2021</a> Politico: The record lobbying surge — more than $20 million for the year — came as the company faced the most serious political crisis in its history. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 12:17 PM CT, Jan. 21 </p> 
