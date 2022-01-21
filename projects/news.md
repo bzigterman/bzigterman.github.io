@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:44 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
- <p class="updated_time"> 09:43 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 09:49 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">Heard, Felt but Barely Seen: How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
+ <p class="updated_time"> 09:48 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
  <p class="updated_time"> 09:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
@@ -78,7 +78,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:03 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182">'Farms Are Failing' as Fertilizer Prices Drive Up Cost of Food</a> WSJ: Farmers across the developing world say they are curtailing production, which means global hunger could worsen. 
  <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">Yemen has lost internet after Saudi-led airstrikes</a> NPR: NetBlocks said the disruption began around 1 a.m. local and affected TeleYemen, the state-owned monopoly that controls internet access in the country. 
+ <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">A Saudi-led airstrike on a Yemen prison kills, injures more than 100, Red Cross says</a> NPR: The strike against a prison run by Yemen's Houthi rebels is part of a pounding aerial offensive that hours earlier saw another airstrike take the Arab world's poorest country off the internet. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
