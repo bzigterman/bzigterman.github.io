@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 08:33 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60077774?at_medium=RSS&at_campaign=KARANGA">Elza Soares: Tributes as Brazilian samba legend dies aged 91</a> BBC: Her career spanned six decades and she used her music to campaign against racism. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:27 PM CT, Jan. 20 </p> 
@@ -243,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Panel Seeks Testimony From Ivanka Trump</a> NYT: The House committee investigating the Capitol riot requested cooperation from the former president’s daughter and revealed what it has learned about what unfolded inside the White House that day. 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Calls Ivanka Trump</a> NYT: The House committee investigating the Capitol riot requested cooperation from the former president’s daughter and revealed what it has learned about what unfolded inside the White House that day. 
  <p class="updated_time"> 03:32 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
  <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
- <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
