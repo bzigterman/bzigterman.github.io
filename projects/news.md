@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:39 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: After the top U.S. and Russian diplomats wrapped up talks in Geneva, Russia’s foreign minister described the talks as “a useful, honest discussion.” They took place amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an attack. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Hold ‘Frank’ Talks Over Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. The talks took place amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an attack. 
+ <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60081853?at_medium=RSS&at_campaign=KARANGA">Serbia revokes Rio Tinto lithium mine permits following protests</a> BBC: The country cancels the mining licence for the Anglo-Australian firm's controversial $2.4bn project. 
  <p class="updated_time"> 06:29 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats met in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/belarusian-officials-charged-with-aircraft-piracy-for-diversion-of-ryanair-flight-11642723692">Belarusian Officials Charged With Aircraft Piracy in Diversion of Ryanair Flight</a> WSJ: U.S. prosecutors are alleging officials used a fake bomb scare to divert the plane so a dissident journalist could be arrested. 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
- <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60077767?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Austrian parliament approves mandatory vaccination order</a> BBC: If the bill is signed into law, Austrians who refuse to take the shot will face fines of up to €3,600. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
