@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
+ <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60077774?at_medium=RSS&at_campaign=KARANGA">Elza Soares: Tributes as Brazilian samba legend dies aged 91</a> BBC: Her career spanned six decades and she used her music to campaign against racism. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074593573/u-s-charges-belarus-officials-with-air-piracy-in-reporters-arrest">U.S. charges Belarus officials with air piracy in reporter's arrest</a> NPR: U.S. prosecutors say Belarusian officials diverted a flight to Minsk so they could arrest opposition activist and journalist Raman Pratasevich on charges of inciting riots against the government. 
  <p class="updated_time"> 07:19 PM CT, Jan. 20 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
+ <p class="updated_time"> 03:33 PM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Biden Seeks to Reassure Ukraine, Vowing a Strong Response to Russia</a> WSJ: President Biden said any Russian troop movement into Ukraine would be considered an invasion, clarifying earlier remarks about a ‘minor incursion.’ 
  <p class="updated_time"> 03:23 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60072506?at_medium=RSS&at_campaign=KARANGA">UN defines Holocaust denial in new resolution</a> BBC: All countries and social media companies are urged to help fight against anti-Semitism. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
@@ -87,10 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
  <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
- <p class="updated_time"> 12:28 PM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Biden Seeks to Reassure Ukraine, Vowing a Strong Response to Russia</a> WSJ: President Biden said any Russian troop movement into Ukraine would be considered an invasion, clarifying earlier remarks about a ‘minor incursion.’ 
- <p class="updated_time"> 12:22 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
@@ -192,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
+ <p class="updated_time"> 08:18 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:03 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
@@ -214,10 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:50 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
- <p class="updated_time"> 05:47 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Refuses to Require Prompt Action on Texas Abortion Law</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 05:14 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 05:09 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Krysten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
+ <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Kyrsten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
