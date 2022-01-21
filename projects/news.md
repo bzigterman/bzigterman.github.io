@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:46 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 11:50 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
  <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
  <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60081853?at_medium=RSS&at_campaign=KARANGA">Serbia revokes Rio Tinto lithium mine permits following protests</a> BBC: The country cancels the mining licence for the Anglo-Australian firm's controversial $2.4bn project. 
+ <p class="updated_time"> 06:26 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-kills-sleeping-iraqi-soldiers-attacks-syrian-prison-11642777892">Islamic State Kills Sleeping Iraqi Soldiers, Attacks Syrian Prison</a> WSJ: Islamic State militants killed 11 Iraqi soldiers in a camp and launched a prison break attempt in Syria, indicating how the extremist group remains a threat despite its territorial defeat in the region. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60081134?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Secret rescue network to evade hamster Covid cull</a> BBC: An underground network of animal lovers is helping Hong Kong hamster owners avoid a government cull. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
- <p class="updated_time"> 03:47 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/chiles-incoming-leftist-president-moves-to-calm-markets-with-new-finance-minister-11642776462">Chile's Incoming Leftist President Moves to Calms Markets</a> WSJ: President-elect Gabriel Boric says the head of the central bank will run economic policy in Latin America’s most affluent nation. 
  <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 12:17 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/texas-man-arrested-threats-georgia-election-officials-527573">Texas man arrested for year-old death threats against Georgia election officials</a> Politico: Threats to election officials became increasingly common in the run-up to and aftermath of the 2020 election. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
  <p class="updated_time"> 11:09 AM CT, Jan. 21 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074387320/pelosi-opens-the-door-to-stock-trading-ban">Pelosi opens the door to stock trading ban for members of Congress</a> NPR: House Speaker Nancy Pelosi has said a law prohibiting members of Congress from picking individual stocks isn't needed, but added if it has the backing of her caucus she is OK with it. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
- <p class="updated_time"> 12:47 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074417449/district-attorney-in-georgia-asks-for-a-special-grand-jury-for-trump-election-pr">District attorney in Georgia asks for a special grand jury for Trump election probe</a> NPR: Fulton County District Attorney Fani Willis is weighing whether Donald Trump and others committed crimes by trying to pressure Georgia officials to overturn Joe Biden's election win. 
  <p class="updated_time"> 12:44 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
