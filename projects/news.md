@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
+ <p class="updated_time"> 04:52 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60091753?at_medium=RSS&at_campaign=KARANGA">Carlow body: Inquiry after 'dead man' taken into post office</a> BBC: Reports suggest a deceased pensioner was "propped up by two men" who tried to claim his pension. 
  <p class="updated_time"> 04:42 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
- <p class="updated_time"> 04:34 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 03:13 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
- <p class="updated_time"> 03:10 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60091753?at_medium=RSS&at_campaign=KARANGA">Carlow body: Inquiry after 'dead man' brought into post office</a> BBC: Reports suggest a deceased pensioner was "propped up by two men" who tried to claim his pension. 
  <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
