@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:44 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 04:53 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The talks between the top U.S. and Russian diplomats come amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
- <p class="updated_time"> 04:42 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 04:49 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
  <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Bat Out Of Hell singer dies at 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
  <p class="updated_time"> 03:08 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60080080?at_medium=RSS&at_campaign=KARANGA">American Airlines plane turns around mid-flight over mask row</a> BBC: An American Airlines plane bound for London turns around because a passenger refused to wear a mask. 
+ <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
  <p class="updated_time"> 02:51 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 02:46 AM CT, Jan. 21 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60077767?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Austrian parliament approves mandatory vaccination order</a> BBC: If the bill is signed into law, Austrians who refuse to take the shot will face fines of up to €3,600. 
- <p class="updated_time"> 04:51 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60078111?at_medium=RSS&at_campaign=KARANGA">Ukraine is just trying to survive, says US</a> BBC: Blinken says no-one should be surprised if Russia contrives an incident as a pretext for invasion. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
@@ -211,6 +211,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">DCCC recruits former Republican for Michigan swing seat</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074664366/democratic-rep-tim-ryan-thinks-its-time-for-democrats-to-reset-their-agenda">Democratic Rep. Tim Ryan thinks it's time for Democrats to reset their agenda</a> NPR: NPR's Debbie Elliott talks to Democratic Rep. Tim Ryan of Ohio about the issues facing the Democrats' agenda, and why President Biden can't seem to get a win on Capitol Hill. 
@@ -258,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
+ <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
@@ -278,10 +282,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
+ <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
  <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
- <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:00 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
- <p class="updated_time"> 06:35 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/kathy-hochul-governor-election-527342">New York’s governor becomes a ‘juggernaut’ in Cuomo’s wake</a> Politico: Hochul's rise in New York, a hotbed of progressivism, offers a new test of the idea that moderates are the future of the Democratic Party — not the left. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 05:28 PM CT, Jan. 18 </p> 
