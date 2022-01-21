@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 04:44 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The talks between the top U.S. and Russian diplomats come amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
+ <p class="updated_time"> 04:42 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
+ <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
  <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
@@ -153,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
- <p class="updated_time"> 06:36 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are being made to deliver humanitarian supplies with minimum risk of infection. 
  <p class="updated_time"> 05:49 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/australia-juvenile-forklift-drivers.html">Australia’s (Brief) Idea to Ease Supply Chains: Juvenile Forklift Drivers</a> NYT: A proposal, and the rapid retreat that followed, both elicited waggish mockery and highlighted a serious economic problem. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
@@ -181,6 +183,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
+ <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
@@ -191,6 +195,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
+ <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
+ <p class="updated_time"> 03:37 AM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html">China's Rising Menace Hardens Taiwan's Separate Identity</a> NYT: More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness. 
 
 
 </details>
@@ -198,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/crypto-bros-ufos-nfts-thiel-527536">‘Crypto bros,’ UFOs and NFTs: Inside Peter Thiel’s Senate fundraising tour</a> Politico: Thiel has been deeply involved in the fundraising efforts for two favored Senate candidates running this year. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
@@ -248,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
