@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:10 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at Prison in Yemen, Officials Say</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
+ <p class="updated_time"> 09:16 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
+ <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
  <p class="updated_time"> 08:59 AM CT, Jan. 21 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
- <p class="updated_time"> 04:35 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 04:23 PM CT, Jan. 20 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
- <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/ron-klain-hot-water-527570">It’s Ron Klain’s turn in the barrel</a> Politico: Biden’s chief of staff started strong and earned plaudits. But, increasingly, he’s under scrutiny for the state of the presidency. 
+ <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
  <p class="updated_time"> 07:27 AM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
@@ -246,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
- <p class="updated_time"> 08:40 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
  <p class="updated_time"> 08:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
- <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 03:19 PM CT, Jan. 18 </p> 
