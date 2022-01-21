@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:14 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
  <p class="updated_time"> 01:06 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074792462/chevron-total-myanmar-human-rights">2 big energy firms exit Myanmar over human rights abuses by the military government</a> NPR: Total Energies and Chevron say they are stopping all operations in Myanmar, citing rampant human rights abuses and deteriorating rule of law since the military overthrew the elected government. 
- <p class="updated_time"> 12:27 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
  <p class="updated_time"> 12:25 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of four, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
