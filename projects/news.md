@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
+ <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats meet in Geneva as fears of an invasion of Ukraine grow. 
+ <p class="updated_time"> 04:03 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60080969?at_medium=RSS&at_campaign=KARANGA">French tourist Benjamin Briere goes on trial in Iran for espionage</a> BBC: Benjamin Brière was arrested in 2020 after flying a drone near the Iran-Turkmenistan border. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say blast could be more than 50 megatons, while NASA estimates 10 megatons. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the high-flying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken to Meet Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: Ukraine’s foreign minister warned that his country’s soldiers and civilians could “pay with their blood” for any delays to a sanctions package that could be imposed on Moscow immediately should it choose to invade. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
- <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60077774?at_medium=RSS&at_campaign=KARANGA">Elza Soares: Tributes as Brazilian samba legend dies aged 91</a> BBC: Her career spanned six decades and she used her music to campaign against racism. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074593573/u-s-charges-belarus-officials-with-air-piracy-in-reporters-arrest">U.S. charges Belarus officials with air piracy in reporter's arrest</a> NPR: U.S. prosecutors say Belarusian officials diverted a flight to Minsk so they could arrest opposition activist and journalist Raman Pratasevich on charges of inciting riots against the government. 
  <p class="updated_time"> 07:19 PM CT, Jan. 20 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074406922/lisala-folau-tonga-swim-tsunami">A Tongan man says he swam for more than 24 hours after a tsunami swept him out to sea</a> NPR: Lisala Folau told a local broadcaster about his swimming journey, which lasted more than a day and took him to three islands. Social media users hearing his story are calling him "real-life Aquaman." 
- <p class="updated_time"> 11:57 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074405423/red-cross-cyberattack">Cyberattack on Red Cross compromised sensitive data on over 515,000 vulnerable people</a> NPR: The attack targeted a contractor in Switzerland that was storing the data. The Red Cross has been forced to halt a program that reunites families torn apart by violence, migration or other tragedies. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
@@ -270,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
- <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
  <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 02:16 PM CT, Jan. 20 </p> 
@@ -382,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
- <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
 
 
 </details>
