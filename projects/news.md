@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:11 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 07:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats met in Geneva as fears of an invasion of Ukraine grow. 
+ <p class="updated_time"> 07:30 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Hold ‘Frank’ Talks Over Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. The talks took place amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an attack. 
+ <p class="updated_time"> 07:29 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tells of sea escape from tsunami-struck island</a> BBC: Lisala Folau says he swam for more than a day, clinging to a log at sea, to survive the tsunami. 
+ <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, acknowledged that any breakthrough on the crisis was unlikely during their discussions on Friday in Geneva. 
  <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60081853?at_medium=RSS&at_campaign=KARANGA">Serbia revokes Rio Tinto lithium mine permits following protests</a> BBC: The country cancels the mining licence for the Anglo-Australian firm's controversial $2.4bn project. 
- <p class="updated_time"> 06:29 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats met in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60081134?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Secret rescue network to evade hamster Covid cull</a> BBC: An underground network of animal lovers is helping Hong Kong hamster owners avoid a government cull. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 10 megatons. 
- <p class="updated_time"> 03:56 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tales emerge as aid reaches tsunami-struck country</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 01:06 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken Meets Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: The talks marked an effort to stave off a potential Russian invasion of Ukraine and defuse a crisis that threatens both the future of the country and security in Eastern Europe. 
+ <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken Meets Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: The talks marked an effort to stave off a potential Russian invasion of Ukraine and defuse a crisis that threatens the future of the country and security in Eastern Europe. 
  <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
- <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074406922/lisala-folau-tonga-swim-tsunami">A Tongan man says he swam for more than 24 hours after a tsunami swept him out to sea</a> NPR: Lisala Folau told a local broadcaster about his swimming journey, which lasted more than a day and took him to three islands. Social media users hearing his story are calling him "real-life Aquaman." 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Jan. 21 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
@@ -213,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">DCCC recruits former Republican for Michigan swing seat</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
+ <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">‘A bridge too far’: Dems spar over whether to welcome anti-Trump GOP defector</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/belarus-aircraft-piracy-journalist-527533">U.S. charges Belarus with air piracy in reporter’s arrest</a> Politico: Belarus forced down a plane to seize an opposition journalist last May. 
- <p class="updated_time"> 07:35 PM CT, Jan. 20 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:06 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
