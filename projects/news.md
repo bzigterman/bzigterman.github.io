@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:12 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
+ <p class="updated_time"> 02:08 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
- <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 01:14 PM CT, Jan. 21 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
+ <p class="updated_time"> 11:28 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60085359?at_medium=RSS&at_campaign=KARANGA">US comic Louie Anderson dies aged 68</a> BBC: The stand-up comedian appeared in films including Coming to America and Ferris Bueller's Day Off. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison run by a U.S.-backed militia in northeastern Syria set off deadly clashes and highlighted the area’s tenuous security. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
- <p class="updated_time"> 04:03 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60080969?at_medium=RSS&at_campaign=KARANGA">French tourist Benjamin Briere goes on trial in Iran for espionage</a> BBC: Benjamin Brière was arrested in 2020 after flying a drone near the Iran-Turkmenistan border. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">A Saudi-led airstrike on a Yemen prison kills, injures more than 100, Red Cross says</a> NPR: The strike against a prison run by Yemen's Houthi rebels is part of a pounding aerial offensive that hours earlier saw another airstrike take the Arab world's poorest country off the internet. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
- <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
@@ -119,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60059542?at_medium=RSS&at_campaign=KARANGA">French elections: Divided left fight doomed race of their own</a> BBC: For the first time in living memory there is no left-wing candidate challenging for the presidency. 
  <p class="updated_time"> 07:14 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60058972?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: 'If you protest again, we'll kill you'</a> BBC: Activists in Kazakhstan say they are being arrested and beaten as police crack down after unrest. 
- <p class="updated_time"> 07:02 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077773?at_medium=RSS&at_campaign=KARANGA">US charges four Belarus officials with aircraft piracy over flight diversion</a> BBC: Prosecutors say the men reported a fake bomb threat to detain an opposition journalist in Minsk. 
  <p class="updated_time"> 06:48 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60022424?at_medium=RSS&at_campaign=KARANGA">Why an OnlyFans creator could go to jail for posting nudes</a> BBC: Titus Low is one of Singapore's most successful OnlyFans creators - but now he might find himself in jail. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
@@ -136,7 +134,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 04:23 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60072540?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: How synagogues stay safe - and still welcoming</a> BBC: Security training saved the lives of the hostages at Congregation Beth Israel. Is this the new norm? 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60072540?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: How synagogues stay safe - and still welcoming</a> BBC: The hostage crisis at Congregation Beth Israel has forced worshippers think about safety and faith. 
  <p class="updated_time"> 04:10 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
@@ -163,6 +161,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
  <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
+ <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
- <p class="updated_time"> 08:08 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
@@ -212,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
+ <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074815001/theres-now-a-phone-line-to-order-your-free-at-home-covid-tests">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
  <p class="updated_time"> 01:48 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815838/federal-court-blocks-bidens-vaccine-mandate-for-federal-workers">Federal court blocks Biden's vaccine mandate for federal workers</a> NPR: A federal judge in Texas has blocked President Biden's vaccine mandate for federal workers nationwide. The requirement had been in place since November. 
  <p class="updated_time"> 01:35 PM CT, Jan. 21 </p> 
@@ -242,6 +242,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:25 AM CT, Jan. 21 </p> 
+ <a href="https://www.cnn.com/2022/01/21/politics/kevin-mccarthy-speaker-gop-conference/index.html">Kevin McCarthy's path to speakership enters final but treacherous leg</a> CNN: Kevin McCarthy was done being nice. The House Republican leader cast off his typically sunny demeanor during a December 8 meeting of the GOP conference to deliver a stern warning to his most raucous members: Quit trying to hold your vote for speaker over my head. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
  <p class="updated_time"> 06:01 AM CT, Jan. 21 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/belarus-aircraft-piracy-journalist-527533">U.S. charges Belarus with air piracy in reporter’s arrest</a> Politico: Belarus forced down a plane to seize an opposition journalist last May. 
- <p class="updated_time"> 07:06 PM CT, Jan. 20 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
- <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
@@ -336,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
