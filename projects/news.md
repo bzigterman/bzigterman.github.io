@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60078515?at_medium=RSS&at_campaign=KARANGA">Samsung pulls ad with drag queen after backlash</a> BBC: The ad, which showed a Muslim mother expressing support for her drag queen son, was criticised online. 
+ <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">Yemen has lost internet after Saudi-led airstrikes</a> NPR: NetBlocks said the disruption began around 1 a.m. local and affected TeleYemen, the state-owned monopoly that controls internet access in the country. 
+ <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 12:59 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 12:49 AM CT, Jan. 21 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
- <p class="updated_time"> 11:12 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60078515?at_medium=RSS&at_campaign=KARANGA">Samsung pulls ad with drag queen after backlash</a> BBC: The ad, which showed a Muslim mother expressing support for her drag queen son, was criticised online. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: The agency concluded that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
  <p class="updated_time"> 09:08 AM CT, Jan. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-allows-baltic-states-to-send-arms-to-ukraine-11642705956">U.S. Allows Baltic NATO Members to Send Arms to Ukraine</a> WSJ: The decision will enable Estonia, Lithuania and Latvia to send Javelin antitank weapons and Stinger air-defense systems for Ukraine’s forces. 
- <p class="updated_time"> 09:00 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60070132?at_medium=RSS&at_campaign=KARANGA">Former Pope Benedict failed to act over abuse, new report finds</a> BBC: Benedict XVI is incriminated in a report into child sex abuse in Munich in the 70s and 80s. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
- <p class="updated_time"> 06:43 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1073764647/us-china-southeast-asia-trade-defense">With U.S. focused on defense, China's trade and infrastructure sweep Southeast Asia</a> NPR: The Biden administration hopes to make deeper inroads in Southeast Asia but lags far behind China, which has already built up major trade ties, as well as roads and a high-speed rail. 
  <p class="updated_time"> 06:36 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are being made to deliver humanitarian supplies with minimum risk of infection. 
  <p class="updated_time"> 05:49 AM CT, Jan. 20 </p> 
