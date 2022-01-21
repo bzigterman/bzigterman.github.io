@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:27 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
+ <p class="updated_time"> 09:26 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 09:09 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
- <p class="updated_time"> 02:49 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
  <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
@@ -266,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/democrats-senate-child-tax-credit-527499">Some Democrats not ready to give up on child credit</a> Politico: A day after President Joe Biden appeared ready to concede it may fall by the wayside, some lawmakers said they are not giving up on the proposal, included in a spending package stalled in the Senate. 
  <p class="updated_time"> 02:00 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
- <p class="updated_time"> 01:50 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
