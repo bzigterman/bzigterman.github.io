@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
+ <p class="updated_time"> 11:46 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
+ <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison run by a U.S.-backed militia in northeastern Syria set off deadly clashes and highlighted the area’s tenuous security. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
  <p class="updated_time"> 10:28 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
- <p class="updated_time"> 10:11 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
  <p class="updated_time"> 10:05 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
@@ -28,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:56 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
  <p class="updated_time"> 09:37 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60082788?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Yemen prison air strike carnage</a> BBC: Rescue workers have been pulling bodies from rubble after the site was destroyed in an air strike. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60082788?at_medium=RSS&at_campaign=KARANGA">Scores killed in Yemen prison air strike carnage</a> BBC: Rescue workers have been pulling bodies from rubble after the site was destroyed in an air strike. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at Prison in Yemen, Officials Say</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tells of sea escape from tsunami-struck island</a> BBC: Lisala Folau says he swam for more than a day, clinging to a log at sea, to survive the tsunami. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, ended talks in Geneva with no major  breakthroughs but an agreement to keep talking. 
+ <p class="updated_time"> 06:46 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Secretary of State Antony Blinken said the U.S. will address the Kremlin’s claims that Western powers threaten Russian security, as both sides agreed to continue talks on the military buildup along Ukraine’s border. 
  <p class="updated_time"> 06:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
  <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka out to Amanda Anisimova, Ashleigh Barty wins in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
- <p class="updated_time"> 04:56 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Secretary of State Antony Blinken said the U.S. will formally address the Kremlin’s claims that Western powers threaten Russian security, as both sides agreed to continue talks on how to avert a possible invasion of Ukraine. 
  <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
  <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
