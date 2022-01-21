@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The top U.S. and Russian diplomats signaled little hope for a breakthrough at talks in Geneva, amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
+ <p class="updated_time"> 05:59 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka out to Amanda Anisimova, Ashleigh Barty wins in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:36 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats met in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 05:28 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 05:09 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka loses to Amanda Anisimova in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:04 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">Yemen has lost internet after Saudi-led airstrikes</a> NPR: NetBlocks said the disruption began around 1 a.m. local and affected TeleYemen, the state-owned monopoly that controls internet access in the country. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
+ <p class="updated_time"> 01:06 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken Meets Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: The talks marked an effort to stave off a potential Russian invasion of Ukraine and defuse a crisis that threatens both the future of the country and security in Eastern Europe. 
  <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of 4, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
- <p class="updated_time"> 10:01 PM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken to Meet Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: Ukraine’s foreign minister warned that his country’s soldiers and civilians could “pay with their blood” for any delays to a sanctions package that could be imposed on Moscow immediately should it choose to invade. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
+ <p class="updated_time"> 06:01 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1073162105/biden-limits-ice-immigrant-advocates">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But so far, advocates say the reality is falling short of the rhetoric. 
  <p class="updated_time"> 05:00 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-turnaround-plan-527556">Cedric Richmond on Biden's turnaround plan</a> Politico: On this week’s show, Playbook author Eugene Daniels talks to Cedric Richmond, Director of the White House Office of Public Engagement and White House correspondent Laura Barrón-López about how the Biden Administration is trying to rebound. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074417449/district-attorney-in-georgia-asks-for-a-special-grand-jury-for-trump-election-pr">District attorney in Georgia asks for a special grand jury for Trump election probe</a> NPR: Fulton County District Attorney Fani Willis is weighing whether Donald Trump and others committed crimes by trying to pressure Georgia officials to overturn Joe Biden's election win. 
  <p class="updated_time"> 12:44 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
- <p class="updated_time"> 12:43 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074227400/activists-abortion-anniversary-roevwade">Activists look ahead to what could be the 'last anniversary' for Roe</a> NPR: On both sides of the abortion debate, activists say this could be the last anniversary before Roe v. Wade is overturned or significantly rolled back. 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
