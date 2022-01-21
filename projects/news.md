@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:49 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: International aid efforts ramp up for tsunami-hit nation</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074405423/red-cross-cyberattack">Cyberattack on Red Cross compromised sensitive data on over 515,000 vulnerable people</a> NPR: The attack targeted a contractor in Switzerland that was storing the data. The Red Cross has been forced to halt a program that reunites families torn apart by violence, migration or other tragedies. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
- <p class="updated_time"> 11:13 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 10:27 AM CT, Jan. 20 </p> 
