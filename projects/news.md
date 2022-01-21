@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
+ <p class="updated_time"> 08:06 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Hold ‘Frank’ Talks Over Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. The talks took place amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an attack. 
  <p class="updated_time"> 07:49 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60080080?at_medium=RSS&at_campaign=KARANGA">American Airlines plane turns around mid-flight over mask row</a> BBC: An American Airlines plane bound for London turns around because a passenger refused to wear a mask. 
@@ -304,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
+ <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/18/politics/free-home-covid-test-kits-government/index.html">Have you tried to order free Covid-19 tests from the federal government? Tell us about it.</a> CNN: Americans can now order a maximum of four free Covid-19 tests to be shipped directly to their homes. The federal government has quietly launched its website to sign up for the tests. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:38 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/ray-epps-jan-6-select-committee-527306">Figure at center of pro-Trump Jan. 6 theories to speak with select committee Friday</a> Politico: Ray Epps met informally with the panel in November and told them he had no relationship with the FBI. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
