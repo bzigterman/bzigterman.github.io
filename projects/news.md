@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
+ <p class="updated_time"> 08:53 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 08:33 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-60065287?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Hundreds write to Kerala nun who lost rape case against bishop</a> BBC: Feminists and activists have denounced the court order clearing Bishop Franco Mulakkal. 
  <p class="updated_time"> 06:48 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60022424?at_medium=RSS&at_campaign=KARANGA">Why an OnlyFans creator could go to jail for posting nudes</a> BBC: Titus Low is one of Singapore's most successful OnlyFans creators - but now he might find himself in jail. 
- <p class="updated_time"> 06:44 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60072418?at_medium=RSS&at_campaign=KARANGA">The radio station bringing worried Tongans together</a> BBC: A community broadcaster in Brisbane, Australia, is bringing information and support following the tsunami. 
  <p class="updated_time"> 06:04 PM CT, Jan. 20 </p> 
@@ -87,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60076895?at_medium=RSS&at_campaign=KARANGA">Capitol riot inquiry asks Ivanka Trump to voluntarily testify</a> BBC: Congressional investigators believe she pressed her father to try to call off the rioters. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
+ <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/u-s-charges-another-suspect-in-haitian-presidents-killing-11642726761">U.S. Charges Another Suspect in Haitian President's Killing</a> WSJ: Federal prosecutors in Miami have detained and charged a second man in connection with the July assassination of Haitian President Jovenel Moïse. 
  <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
@@ -194,14 +198,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
+ <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
  <p class="updated_time"> 08:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 08:03 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/belarus-aircraft-piracy-journalist-527533">U.S. charges Belarus with air piracy in reporter’s arrest</a> Politico: Belarus forced down a plane to seize an opposition journalist last May. 
  <p class="updated_time"> 07:35 PM CT, Jan. 20 </p> 
@@ -304,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
- <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
