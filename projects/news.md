@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
+ <p class="updated_time"> 08:18 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-says-local-officials-underreported-deaths-in-flooding-11642792696">China Says Local Officials Underreported Deaths in Flooding</a> WSJ: The statement by China’s central government was a rare acknowledgment of officials concealing the true death toll in a disaster. 
  <p class="updated_time"> 08:16 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60083958?at_medium=RSS&at_campaign=KARANGA">Hanifa Abubakar: Nigeria outrage at Kano schoolgirl killing</a> BBC: Hanifa Abubakar was allegedly kidnapped for ransom and then killed by the owner of her school. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
  <p class="updated_time"> 02:46 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
- <p class="updated_time"> 02:19 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/a-covid-contact-tracing-contrast-lays-bare-chinas-inequalities-11642771157">A Covid Contact-Tracing Contrast Lays Bare China's Inequalities</a> WSJ: A Chinese man working to support his family and find a missing son tests positive for Covid-19 and is showered with offers of help. “I feel the warmth of society. 
  <p class="updated_time"> 02:03 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182">'Farms Are Failing' as Fertilizer Prices Drive Up Cost of Food</a> WSJ: Farmers across the developing world say they are curtailing production, which means global hunger could worsen. 
  <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
- <p class="updated_time"> 06:01 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/georgia-prosecutor-trump-527529">Georgia DA asks for special grand jury in election probe</a> Politico: Fani Willis has been looking at Donald Trump’s Jan. 2 phone call to Brad Raffensperger, among other things. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
