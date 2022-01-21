@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:13 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
+ <p class="updated_time"> 03:10 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60091753?at_medium=RSS&at_campaign=KARANGA">Carlow body: Inquiry after 'dead man' brought into post office</a> BBC: Reports suggest a deceased pensioner was "propped up by two men" who tried to claim his pension. 
  <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60081134?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Secret rescue network to evade hamster Covid cull</a> BBC: An underground network of animal lovers is helping Hong Kong hamster owners avoid a government cull. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
- <p class="updated_time"> 05:59 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka out to Amanda Anisimova, Ashleigh Barty wins in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
+ <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
  <p class="updated_time"> 03:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500388/veterans-sick-after-toxic-burn-pit-exposure-are-still-struggling-to-get-care-cov">Veterans sick after toxic burn pit exposure are still struggling to get care covered</a> NPR: Momentum on increased Veterans Affairs coverage for veterans exposed to toxic burn pits is building in Congress. None of it soon enough for sick veterans or advocates like comedian Jon Stewart. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
