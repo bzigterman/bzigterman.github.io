@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 12:49 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: International aid efforts ramp up for tsunami-hit nation</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
+ <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/special-series/future-self-hindsight.html">Dear People of 2022: What Would You Ask Your Future Self?</a> NYT: Hundreds of notes about the nature of progress left us wondering: What’s possible in a year’s time? 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
- <p class="updated_time"> 03:06 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/60065407?at_medium=RSS&at_campaign=KARANGA">Tonga: Journalist gives first-hand account of volcano eruption</a> BBC: Speaking from Tonga's capital, Marian Kupu gives a first-hand account of when the undersea volcano erupted. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
  <p class="updated_time"> 09:37 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074154684/gary-chambers-campaign-viral-pot-smoking-ad">Gary Chambers' new pot-smoking campaign ad in Senate race goes viral with old tactics</a> NPR: Democrat Gary Chambers Jr. is running to unseat Louisiana Sen. John Kennedy. Chambers follows in the footsteps of other politicians who have used attention-grabbing ads to up their name recognition. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html">In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files</a> NYT: The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
@@ -308,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
+ <p class="updated_time"> 06:44 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/jan-6-committee-subpoena-white-nationalists.html">House Jan. 6 Committee Subpoenas White Nationalist Figures</a> NYT: The panel investigating the assault on the Capitol wants information from two leaders of the “America First” extremist movement. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
