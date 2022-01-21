@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 02:27 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
