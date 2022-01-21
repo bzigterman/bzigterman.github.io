@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 11:30 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Last-ditch talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva later as fears of an invasion grow. 
+ <p class="updated_time"> 11:12 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60078515?at_medium=RSS&at_campaign=KARANGA">Samsung pulls ad with drag queen after backlash</a> BBC: The ad, which showed a Muslim mother expressing support for her drag queen son, was criticised online. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of 4, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
- <p class="updated_time"> 08:53 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 08:33 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion in Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
- <p class="updated_time"> 12:12 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60075135?at_medium=RSS&at_campaign=KARANGA">Rare twin elephants born in Kenya</a> BBC: Twins account for only 1% of elephant births, with the last known birth recorded in 2006. 
  <p class="updated_time"> 12:09 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074406922/lisala-folau-tonga-swim-tsunami">A Tongan man says he swam for more than 24 hours after a tsunami swept him out to sea</a> NPR: Lisala Folau told a local broadcaster about his swimming journey, which lasted more than a day and took him to three islands. Social media users hearing his story are calling him "real-life Aquaman." 
  <p class="updated_time"> 11:57 AM CT, Jan. 20 </p> 
