@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of 4, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 08:53 PM CT, Jan. 20 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
- <p class="updated_time"> 09:31 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/18/world/europe/uk-covid-restrictions-boris-johnson.html">Boris Johnson says England’s virus rules will ease next week.</a> NYT: The prime minister is under intense political pressure over claims that he lied to Parliament about parties held in Downing Street during a lockdown. 
  <p class="updated_time"> 09:30 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
