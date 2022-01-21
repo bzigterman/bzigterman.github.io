@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:26 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 08:35 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Hold ‘Frank’ Talks Over Ukraine as Military Tensions Rise</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. But the military buildup in and around Ukraine continued, even as Russia denied that it was planning an invasion. 
+ <p class="updated_time"> 08:30 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
- <p class="updated_time"> 08:14 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Hold ‘Frank’ Talks Over Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. The talks took place amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an attack. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
  <p class="updated_time"> 07:49 AM CT, Jan. 21 </p> 
@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
+ <p class="updated_time"> 03:20 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Secretary of State Antony Blinken said the U.S. will formally address the Kremlin’s claims that Western powers threaten Russian security, as both sides agreed to continue talks on how to avert a possible invasion of Ukraine. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
  <p class="updated_time"> 02:46 AM CT, Jan. 21 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">Yemen has lost internet after Saudi-led airstrikes</a> NPR: NetBlocks said the disruption began around 1 a.m. local and affected TeleYemen, the state-owned monopoly that controls internet access in the country. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
- <p class="updated_time"> 01:06 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken Meets Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: The talks marked an effort to stave off a potential Russian invasion of Ukraine and defuse a crisis that threatens the future of the country and security in Eastern Europe. 
  <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
