@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 AM CT, Jan. 21 </p> 
+ <p class="updated_time"> 05:48 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The top U.S. and Russian diplomats signaled little hope for a breakthrough at talks in Geneva, amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
  <p class="updated_time"> 05:36 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats meet in Geneva as fears of an invasion of Ukraine grow. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats met in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 05:28 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
  <p class="updated_time"> 05:09 AM CT, Jan. 21 </p> 
