@@ -7,12 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats meet in Geneva as fears of an invasion of Ukraine grow. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say blast could be more than 50 megatons, while NASA estimates 10 megatons. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the high-flying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
+ <p class="updated_time"> 03:56 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tales emerge as aid reaches tsunami-struck country</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
+ <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
+ <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
  <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Bat Out Of Hell singer dies at 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
- <p class="updated_time"> 03:08 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 03:08 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60080080?at_medium=RSS&at_campaign=KARANGA">American Airlines plane turns around mid-flight over mask row</a> BBC: An American Airlines plane bound for London turns around because a passenger refused to wear a mask. 
  <p class="updated_time"> 02:51 AM CT, Jan. 21 </p> 
@@ -21,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 02:28 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
- <p class="updated_time"> 02:27 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:10 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 01:49 AM CT, Jan. 21 </p> 
@@ -31,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">Yemen has lost internet after Saudi-led airstrikes</a> NPR: NetBlocks said the disruption began around 1 a.m. local and affected TeleYemen, the state-owned monopoly that controls internet access in the country. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
- <p class="updated_time"> 12:49 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: International aid efforts ramp up for tsunami-hit nation</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
  <p class="updated_time"> 12:47 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&at_campaign=KARANGA">False banana: Is Ethiopia's enset 'wondercrop' for climate change?</a> BBC: The banana-like crop has the potential to feed more than 100 million people, according to research. 
  <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
@@ -77,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60078111?at_medium=RSS&at_campaign=KARANGA">Ukraine is just trying to survive, says US</a> BBC: Blinken says no-one should be surprised if Russia contrives an incident as a pretext for invasion. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
- <p class="updated_time"> 04:48 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:35 PM CT, Jan. 20 </p> 
@@ -133,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
- <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:41 AM CT, Jan. 20 </p> 
@@ -175,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 03:05 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html">Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</a> NYT: A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty. 
- <p class="updated_time"> 02:58 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html">Here’s What Scientists Know About the Tonga Volcano Eruption</a> NYT: The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
  <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
@@ -187,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
  <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
- <p class="updated_time"> 04:41 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/covid-djokovic-australia-france-us.html">After Australia, Djokovic Is Likely to Meet Problems in France and U.S.</a> NYT: The French authorities say that players must be vaccinated to compete in the French Open, the next of the four Grand Slam tournaments. 
 
 
 </details>
@@ -200,6 +202,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074664366/democratic-rep-tim-ryan-thinks-its-time-for-democrats-to-reset-their-agenda">Democratic Rep. Tim Ryan thinks it's time for Democrats to reset their agenda</a> NPR: NPR's Debbie Elliott talks to Democratic Rep. Tim Ryan of Ohio about the issues facing the Democrats' agenda, and why President Biden can't seem to get a win on Capitol Hill. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074413273/end-expanded-child-tax-credit-families-effects">Families are in distress after the first month without the expanded child tax credit</a> NPR: January is the first month since July 2021 that more than 36 million families in the U.S. did not receive money from the expanded child tax credit program. For some, the consequences are already dire. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074621572/sinemas-filibuster-stance-only-adds-to-the-frustrations-of-arizona-progressives">Sinema's filibuster stance only adds to the frustrations of Arizona progressives</a> NPR: Many Arizona Democrats were already talking about primary challenges to Kyrsten Sinema, even before she reiterated her opposition to changing Senate rules, helping to doom voting rights legislation. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that minorities felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
@@ -234,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/georgia-prosecutor-trump-527529">Georgia DA asks for special grand jury in election probe</a> Politico: Fani Willis has been looking at Donald Trump’s Jan. 2 phone call to Brad Raffensperger, among other things. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
- <p class="updated_time"> 05:09 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html">‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</a> NYT: Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
@@ -292,20 +300,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html">Massachusetts Attorney General Maura Healey Enters Governor’s Race</a> NYT: Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election. 
- <p class="updated_time"> 09:37 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074154684/gary-chambers-campaign-viral-pot-smoking-ad">Gary Chambers' new pot-smoking campaign ad in Senate race goes viral with old tactics</a> NPR: Democrat Gary Chambers Jr. is running to unseat Louisiana Sen. John Kennedy. Chambers follows in the footsteps of other politicians who have used attention-grabbing ads to up their name recognition. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:21 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074317339/bipartisan-senate-delegation-traveled-to-kyiv-to-meet-ukraines-leadership">Bipartisan Senate delegation traveled to Kyiv to meet Ukraine's leadership</a> NPR: NPR's A Martinez speaks with Democratic Sen. Chris Murphy of Connecticut about his recent trip to Ukraine as part of a bipartisan delegation of senators, and what he learned. 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
- <p class="updated_time"> 04:10 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074317381/biden-discusses-stalled-domestic-agenda-and-other-issues-during-news-conference">Biden discusses stalled domestic agenda and other issues during news conference</a> NPR: President Biden's executive style is informed by his decades in the world's most deliberative body. Allies say this approach has shown its limits in Biden's first year as president. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
