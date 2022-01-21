@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 PM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Last-ditch talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats will meet in Geneva later as fears of an invasion grow. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:02 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077773?at_medium=RSS&at_campaign=KARANGA">US charges four Belarus officials with aircraft piracy over flight diversion</a> BBC: Prosecutors say the men reported a fake bomb threat to detain an opposition journalist in Minsk. 
  <p class="updated_time"> 06:51 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60065287?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Hundreds write to Kerala nun who lost rape case against bishop</a> BBC: Feminists and activists have denounced the court order clearing Bishop Franco Mulakkal. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60065287?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Hundreds write to Kerala nun who lost rape case against bishop</a> BBC: Letters of support pour in for the nun who lost rape case to powerful Bishop Franco Mulakkal. 
  <p class="updated_time"> 06:48 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60022424?at_medium=RSS&at_campaign=KARANGA">Why an OnlyFans creator could go to jail for posting nudes</a> BBC: Titus Low is one of Singapore's most successful OnlyFans creators - but now he might find himself in jail. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 11:13 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60068483?at_medium=RSS&at_campaign=KARANGA">Havana syndrome: Most cases not caused by foreign power - CIA</a> BBC: A mysterious illness striking US diplomats can usually be explained by natural causes, a report finds. 
- <p class="updated_time"> 11:09 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60072502?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: President Zelensky hits back at Biden comments</a> BBC: Its president bristles at suggestions a "minor" Russian attack may bring a weaker Western response. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 10:27 AM CT, Jan. 20 </p> 
