@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:46 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The top U.S. and Russian diplomats signaled little hope for a breakthrough at talks in Geneva, amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
+ <p class="updated_time"> 05:36 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 05:28 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 05:27 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The top U.S. and Russian diplomats signaled little hope for a breakthrough at talks in Geneva, amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
  <p class="updated_time"> 05:09 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka loses to Amanda Anisimova in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:04 AM CT, Jan. 21 </p> 
@@ -23,16 +25,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
  <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
- <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: Urgent US-Russia talks in Geneva as invasion fears grow</a> BBC: The top US and Russian diplomats meet in Geneva as fears of an invasion of Ukraine grow. 
  <p class="updated_time"> 04:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60080969?at_medium=RSS&at_campaign=KARANGA">French tourist Benjamin Briere goes on trial in Iran for espionage</a> BBC: Benjamin Brière was arrested in 2020 after flying a drone near the Iran-Turkmenistan border. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say blast could be more than 50 megatons, while NASA estimates 10 megatons. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 10 megatons. 
  <p class="updated_time"> 03:56 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tales emerge as aid reaches tsunami-struck country</a> BBC: More ships and planes are due to arrive in coming days bearing critical supplies for the island nation. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/uk-johnson-covid-rules.html">Boris Johnson Says England Will Ease Covid Rules</a> NYT: The British prime minister was trying to quell unrest in his own party and avoid a no-confidence vote. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
- <p class="updated_time"> 08:41 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/australia/tonga-volcano-internet-cable.html">After Volcanic Eruption, Tonga Faces Weeks Without Internet</a> NYT: After a huge volcanic eruption severed the island country’s lone connection to the global internet, a difficult repair job, delving deep into the ocean, lies ahead. 
 
 
 </details>
