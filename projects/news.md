@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:42 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
+ <p class="updated_time"> 10:36 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
+ <p class="updated_time"> 10:28 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 10:11 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars play tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
- <p class="updated_time"> 10:11 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
  <p class="updated_time"> 10:05 AM CT, Jan. 21 </p> 
@@ -36,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:29 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tells of sea escape from tsunami-struck island</a> BBC: Lisala Folau says he swam for more than a day, clinging to a log at sea, to survive the tsunami. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, acknowledged that any breakthrough on the crisis was unlikely during their discussions on Friday in Geneva. 
+ <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, ended talks in Geneva with no major  breakthroughs but an agreement to keep talking. 
  <p class="updated_time"> 06:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
  <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
  <p class="updated_time"> 05:59 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka out to Amanda Anisimova, Ashleigh Barty wins in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
- <p class="updated_time"> 05:04 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 04:56 AM CT, Jan. 21 </p> 
@@ -66,7 +68,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast 'biggest thing that we've ever seen'</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 6-10 megatons. 
+ <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">A nuclear-test monitor calls Tonga volcano blast 'biggest thing that we've ever seen'</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga from Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 6-10 megatons. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 03:47 AM CT, Jan. 21 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
- <p class="updated_time"> 03:23 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60072506?at_medium=RSS&at_campaign=KARANGA">UN defines Holocaust denial in new resolution</a> BBC: All countries and social media companies are urged to help fight against anti-Semitism. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500395/mexican-journalist-margarito-martinez-has-been-murdered-in-tijuana">Mexican journalist Margarito Martínez has been murdered in Tijuana</a> NPR: The latest journalist to be murdered in Mexico is Tijuana photojournalist Margarito Martínez, a beloved figure in the community. His funeral is Thursday. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
- <p class="updated_time"> 08:08 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html">Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</a> NYT: For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors. 
  <p class="updated_time"> 07:55 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html">Drone Strike Video Shows Killing of Civilians in Afghanistan</a> NYT: The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
@@ -202,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
+ <p class="updated_time"> 10:45 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that minorities felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State's remarks came after his meeting in Geneva with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074413273/end-expanded-child-tax-credit-families-effects">Families are in distress after the first month without the expanded child tax credit</a> NPR: January is the first month since July 2021 that more than 36 million families in the U.S. did not receive money from the expanded child tax credit program. For some, the consequences are already dire. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074621572/sinemas-filibuster-stance-only-adds-to-the-frustrations-of-arizona-progressives">Sinema's filibuster stance only adds to the frustrations of Arizona progressives</a> NPR: Many Arizona Democrats were already talking about primary challenges to Kyrsten Sinema, even before she reiterated her opposition to changing Senate rules, helping to doom voting rights legislation. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that minorities felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 04:59 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/havana-syndrome-cia-congress-527527">Lawmakers skewer interim CIA report on Havana Syndrome</a> Politico: “I’m anxious to hear what CIA’s response is going to be," said Sen. Mark Warner. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
@@ -294,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 02:53 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
- <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
@@ -354,6 +350,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
+ <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
+ <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 03:19 PM CT, Jan. 18 </p> 
