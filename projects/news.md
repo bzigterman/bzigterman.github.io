@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:12 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The talks between the top U.S. and Russian diplomats come amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
+ <p class="updated_time"> 05:28 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
+ <p class="updated_time"> 05:27 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Meet as Tensions Mount Over Ukraine</a> NYT: The top U.S. and Russian diplomats signaled little hope for a breakthrough at talks in Geneva, amid signs that Western allies lack a fully coordinated plan to punish Moscow if it launches an invasion. 
  <p class="updated_time"> 05:09 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60080340?at_medium=RSS&at_campaign=KARANGA">Australian Open: Naomi Osaka loses to Amanda Anisimova in Melbourne</a> BBC: Defending champion Naomi Osaka is out of the Australian Open after losing in the third round to American opponent Amanda Anisimova. 
  <p class="updated_time"> 05:04 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
- <p class="updated_time"> 04:57 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Hong Kong’s Zero-Covid Policy Shakes the ‘Soul of the City’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless virus policy. 
  <p class="updated_time"> 04:56 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Bat Out Of Hell singer dies at 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
  <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
@@ -203,6 +203,8 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-turnaround-plan-527556">Cedric Richmond on Biden's turnaround plan</a> Politico: On this week’s show, Playbook author Eugene Daniels talks to Cedric Richmond, Director of the White House Office of Public Engagement and White House correspondent Laura Barrón-López about how the Biden Administration is trying to rebound. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/cartoons/2022/01/21/the-nations-cartoonists-on-the-week-in-politics-000279">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/crypto-bros-ufos-nfts-thiel-527536">‘Crypto bros,’ UFOs and NFTs: Inside Peter Thiel’s Senate fundraising tour</a> Politico: Thiel has been deeply involved in the fundraising efforts for two favored Senate candidates running this year. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
@@ -212,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074664366/democratic-rep-tim-ryan-thinks-its-time-for-democrats-to-reset-their-agenda">Democratic Rep. Tim Ryan thinks it's time for Democrats to reset their agenda</a> NPR: NPR's Debbie Elliott talks to Democratic Rep. Tim Ryan of Ohio about the issues facing the Democrats' agenda, and why President Biden can't seem to get a win on Capitol Hill. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074664303/morning-news-brief">News brief: U.S.-Russia meeting, Roe v. Wade, Joe Rogan podcast criticized</a> NPR: Secretary of State Blinken meets with his Russian counterpart. March for Life organizers hope this year Roe v. Wade is overturned. Spotify asked to crack down on COVID falsehoods in popular podcast. 
  <p class="updated_time"> 04:01 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074413273/end-expanded-child-tax-credit-families-effects">Families are in distress after the first month without the expanded child tax credit</a> NPR: January is the first month since July 2021 that more than 36 million families in the U.S. did not receive money from the expanded child tax credit program. For some, the consequences are already dire. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
@@ -245,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:01 PM CT, Jan. 20 </p> 
@@ -265,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Panel Seeks Testimony From Ivanka Trump</a> NYT: The House committee investigating the Capitol riot requested cooperation from the former president’s daughter and revealed what it has learned about what unfolded inside the White House that day. 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Calls Ivanka Trump</a> NYT: The House committee investigating the Capitol riot requested cooperation from the former president’s daughter and revealed what it has learned about what unfolded inside the White House that day. 
  <p class="updated_time"> 03:32 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html">Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</a> NYT: With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry. 
  <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
- <p class="updated_time"> 11:55 AM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074397162/the-jan-6-panel-wants-to-talk-to-ivanka-trump">The Jan. 6 panel wants to talk to Ivanka Trump</a> NPR: The committee is asking Ivanka Trump to voluntarily cooperate with the panel's investigation. The panel sent her a letter on Thursday. 
  <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 10:12 AM CT, Jan. 20 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
