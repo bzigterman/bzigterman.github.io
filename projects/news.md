@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
  <p class="updated_time"> 03:42 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60091899?at_medium=RSS&at_campaign=KARANGA">Mother sues Meta and Snap over daughter's suicide</a> BBC: A Connecticut woman alleges her daughter's "extreme" addiction to social media led to her death. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
+ <p class="updated_time"> 03:50 PM CT, Jan. 21 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074814640/march-for-life-protest-roe-v-wade">Thousands gather for the March for Life protest, as Supreme Court weighs Roe v. Wade</a> NPR: The annual march in Washington, D.C., occurs around the anniversary of the Roe decision. This year, as the Supreme Court considers overturning some of its protections, protesters say they feel hope. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
@@ -244,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/21/politics/free-covid-test-government-website-errors/index.html">Why some people are having problems ordering free Covid tests</a> CNN: Marisa Diaz y Diaz doesn't understand why her order for the free federal home Covid-19 tests isn't going through. 
  <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
- <p class="updated_time"> 07:27 AM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:25 AM CT, Jan. 21 </p> 
