@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">It’s a gold rush for lobbying firms with Biden ties</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
  <p class="updated_time"> 05:15 PM CT, Jan. 21 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
