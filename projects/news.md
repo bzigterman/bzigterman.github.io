@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
+ <p class="updated_time"> 09:43 AM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">Heard, Felt but Barely Seen: How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
+ <p class="updated_time"> 09:41 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at Prison in Yemen, Officials Say</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
- <p class="updated_time"> 09:16 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: Blinken and Lavrov Pledge to Keep Talking as Military Buildup Continues Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian envoys signaled that diplomatic discussions would continue. Russia denied that it was planning an invasion of Ukraine, even as it sends more troops into neighboring Belarus and the U.S. approves new arms shipments. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 08:59 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 08:30 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
@@ -27,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tells of sea escape from tsunami-struck island</a> BBC: Lisala Folau says he swam for more than a day, clinging to a log at sea, to survive the tsunami. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, acknowledged that any breakthrough on the crisis was unlikely during their discussions on Friday in Geneva. 
+ <p class="updated_time"> 06:41 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
  <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60081853?at_medium=RSS&at_campaign=KARANGA">Serbia revokes Rio Tinto lithium mine permits following protests</a> BBC: The country cancels the mining licence for the Anglo-Australian firm's controversial $2.4bn project. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
@@ -43,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Bat Out Of Hell singer dies at 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
  <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
+ <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Houthis Accuse Saudi-Led Coalition of Killing Dozens in Yemen Airstrike</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
  <p class="updated_time"> 04:03 AM CT, Jan. 21 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">Nuclear-test monitor calls Tonga volcano blast "biggest thing that we've ever seen"</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga in Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 10 megatons. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
- <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/19/us/politics/blinken-us-russia-ukraine.html">As U.S. and Russia Prepare to Talk, Blinken Presents Hard Line</a> NYT: The U.S. secretary of state met with Ukraine’s president and said he would not present a written diplomatic proposal to Russia when he meets with his Russian counterpart on Friday. 
  <p class="updated_time"> 03:53 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Secretary of State Antony Blinken said the U.S. will formally address the Kremlin’s claims that Western powers threaten Russian security, as both sides agreed to continue talks on how to avert a possible invasion of Ukraine. 
  <p class="updated_time"> 03:47 AM CT, Jan. 21 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60058972?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: 'If you protest again, we'll kill you'</a> BBC: Activists in Kazakhstan say they are being arrested and beaten as police crack down after unrest. 
  <p class="updated_time"> 07:02 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60077773?at_medium=RSS&at_campaign=KARANGA">US charges four Belarus officials with aircraft piracy over flight diversion</a> BBC: Prosecutors say the men reported a fake bomb threat to detain an opposition journalist in Minsk. 
- <p class="updated_time"> 06:51 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60065287?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Hundreds write to Kerala nun who lost rape case against bishop</a> BBC: Critics have called the acquittal of powerful Bishop Franco Mulakkal a 'miscarriage of justice'. 
  <p class="updated_time"> 06:48 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60022424?at_medium=RSS&at_campaign=KARANGA">Why an OnlyFans creator could go to jail for posting nudes</a> BBC: Titus Low is one of Singapore's most successful OnlyFans creators - but now he might find himself in jail. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
- <p class="updated_time"> 04:47 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-soviet-11642693621">Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet.</a> WSJ: The former spy chief’s tolerance for risk is tested as he threatens a ground war unseen in Europe since the 1940s. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
  <p class="updated_time"> 08:53 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
- <p class="updated_time"> 08:05 PM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/covid-netherlands-theaters-hairdressers.html">Theaters Open as Hairdressers for a Day to Protest a Dutch Lockdown</a> NYT: The country’s Covid measures were eased last week, but many arts venues had to remain closed and many in the sector are unhappy about it. 
  <p class="updated_time"> 07:31 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html">A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</a> NYT: The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
@@ -204,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State's remarks came after his meeting in Geneva with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/ron-klain-hot-water-527570">It’s Ron Klain’s turn in the barrel</a> Politico: Biden’s chief of staff started strong and earned plaudits. But, increasingly, he’s under scrutiny for the state of the presidency. 
  <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074439272/schumer-insists-failed-votes-on-elections-and-filibuster-were-the-right-thing-to">Schumer insists failed votes on voting rights and filibuster were right thing to do</a> NPR: The Senate majority leader downplayed the risks of holding such a public demonstration of the rift within his caucus ahead of the midterm elections. 
  <p class="updated_time"> 02:38 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/foreign-ambassadors-biden-first-year-527441">What foreign ambassadors really think about Biden’s first year</a> Politico: Pick up the phone, they say: “We're talking about 10 f---ing minutes of your time.” 
- <p class="updated_time"> 02:00 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/sec-anthony-scaramucci-bitcoin-fund-527489">SEC blocks Anthony Scaramucci’s Bitcoin fund</a> Politico: The proposal would have let investors on the New York Stock Exchange buy shares in a fund backed by the Bitcoin digital currency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 01:05 PM CT, Jan. 20 </p> 
