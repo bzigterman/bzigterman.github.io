@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Bat Out Of Hell singer dies at 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
+ <p class="updated_time"> 02:51 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 02:46 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
- <p class="updated_time"> 02:41 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Singer Meat Loaf dies aged 74</a> BBC: The US rock star's Bat Out Of Hell album is one of the best-selling of all time. 
  <p class="updated_time"> 02:28 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings and scattered debris near the mining town of Bogoso. 
  <p class="updated_time"> 02:27 AM CT, Jan. 21 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of 4, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
+ <p class="updated_time"> 09:15 PM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">Blinken to Meet Russia's Foreign Minister Amid Ukraine Border Crisis</a> WSJ: Ukraine’s foreign minister warned that his country’s soldiers and civilians could “pay with their blood” for any delays to a sanctions package that could be imposed on Moscow immediately should it choose to invade. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 08:20 PM CT, Jan. 20 </p> 
@@ -59,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60075265?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: How peaceful protests turned violent</a> BBC: Watch three eyewitnesses describe how the clashes unfolded over three days earlier this month. 
  <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
+ <p class="updated_time"> 04:55 PM CT, Jan. 20 </p> 
+ <a href="https://www.wsj.com/articles/belarusian-officials-charged-with-aircraft-piracy-for-diversion-of-ryanair-flight-11642723692">Belarusian Officials Charged With Aircraft Piracy in Diversion of Ryanair Flight</a> WSJ: U.S. prosecutors are alleging officials used a fake bomb scare to divert the plane so a dissident journalist could be arrested. 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60062835?at_medium=RSS&at_campaign=KARANGA">Infant among four bodies found near US-Canada border</a> BBC: Police say the group perished in freezing "endless fields, large snowdrifts and complete darkness". 
  <p class="updated_time"> 04:52 PM CT, Jan. 20 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
- <p class="updated_time"> 03:33 PM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraines-foreign-minister-says-bidens-minor-incursion-comment-invites-russian-attack-11642686159">Biden Seeks to Reassure Ukraine, Vowing a Strong Response to Russia</a> WSJ: President Biden said any Russian troop movement into Ukraine would be considered an invasion, clarifying earlier remarks about a ‘minor incursion.’ 
  <p class="updated_time"> 03:23 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60072506?at_medium=RSS&at_campaign=KARANGA">UN defines Holocaust denial in new resolution</a> BBC: All countries and social media companies are urged to help fight against anti-Semitism. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
@@ -129,10 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074355457/pope-benedict-xvi-sex-abuse-report">Pope Benedict XVI failed to stop sex abuse when he was an archbishop, law firm says</a> NPR: "In a total of four cases, we reached a consensus there was a failure to act," said attorney Martin Pusch of the law firm that was hired by the church to investigate decades of abuse. 
- <p class="updated_time"> 09:12 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/havana-syndrome-unlikely-caused-by-russia-other-u-s-foes-cia-says-11642686583">Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says</a> WSJ: The agency concluded that other medical conditions, stress or unexplained factors could be behind the ailments that have been reported in roughly 1,000 personnel. 
- <p class="updated_time"> 09:08 AM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/u-s-allows-baltic-states-to-send-arms-to-ukraine-11642705956">U.S. Allows Baltic NATO Members to Send Arms to Ukraine</a> WSJ: The decision will enable Estonia, Lithuania and Latvia to send Javelin antitank weapons and Stinger air-defense systems for Ukraine’s forces. 
  <p class="updated_time"> 08:50 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 08:43 AM CT, Jan. 20 </p> 
