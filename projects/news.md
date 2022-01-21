@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074872862/indias-supreme-court-steps-in-after-hindu-leaders-call-for-violence-against-musl">India's Supreme Court steps in after Hindu leaders call for violence against Muslims</a> NPR: Video from a meeting in northern India shows Hindu leaders calling for attacks on Muslims. The crowd included politicians with ties to Prime Minister Modi. Two men have been arrested for hate speech. 
+ <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 03:13 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
  <p class="updated_time"> 03:10 PM CT, Jan. 21 </p> 
@@ -15,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
+ <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 02:12 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
  <p class="updated_time"> 02:08 PM CT, Jan. 21 </p> 
@@ -71,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Secretary of State Antony Blinken said the U.S. will address the Kremlin’s claims that Western powers threaten Russian security, as both sides agreed to continue talks on the military buildup along Ukraine’s border. 
  <p class="updated_time"> 06:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
- <p class="updated_time"> 06:31 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60081853?at_medium=RSS&at_campaign=KARANGA">Serbia revokes Rio Tinto lithium mine permits following protests</a> BBC: The country cancels the mining licence for the Anglo-Australian firm's controversial $2.4bn project. 
  <p class="updated_time"> 06:26 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-kills-sleeping-iraqi-soldiers-attacks-syrian-prison-11642777892">Islamic State Kills Sleeping Iraqi Soldiers, Attacks Syrian Prison</a> WSJ: Islamic State militants killed 11 Iraqi soldiers in a camp and launched a prison break attempt in Syria, indicating how the extremist group remains a threat despite its territorial defeat in the region. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
@@ -155,14 +159,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500374/how-the-philippine-capitals-no-vaccination-no-ride-public-transit-rule-is-going">How the Philippine capital's 'no vaccination, no ride' public transit rule is going</a> NPR: In the Philippine capital Manila, people without proof of full vaccination or a work exemption can't take public transportation. Human rights activists say the policy discriminates against the poor. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500316/as-the-olympics-near-activists-criticize-chinas-alleged-human-rights-violations">As the Olympics near, activists criticize China's alleged human rights violations</a> NPR: As athletes make final preparations for the Winter Olympics, human rights advocates are ramping up their criticism of host country China's alleged violations, particularly against its Uyghur minority. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
- <p class="updated_time"> 01:13 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
