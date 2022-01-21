@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
+ <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
+ <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074872933/french-diplomat-talks-about-the-stakes-of-the-ongoing-ukraine-conflict">French diplomat talks about the stakes of the ongoing Ukraine conflict</a> NPR: NPR's Mary Louise Kelly speaks with Emmanuel Bonne, the diplomatic and national security advisor to French President Emmanuel Macron, about Russia and Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
  <p class="updated_time"> 04:05 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
- <p class="updated_time"> 04:04 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
  <p class="updated_time"> 04:03 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
  <p class="updated_time"> 04:01 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872940/what-a-ban-from-the-global-messaging-system-for-banks-would-mean-for-russia">What a ban from the global messaging system for banks would mean for Russia</a> NPR: As Russia places troops on the Ukrainian border, there's a financial nuclear weapon that Europe and the U.S. can use: ban Russia from the system most banks use to transfer money internationally. 
  <p class="updated_time"> 04:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
- <p class="updated_time"> 03:58 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
  <p class="updated_time"> 03:42 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60091899?at_medium=RSS&at_campaign=KARANGA">Mother sues Meta and Snap over daughter's suicide</a> BBC: A Connecticut woman alleges her daughter's "extreme" addiction to social media led to her death. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
- <p class="updated_time"> 02:08 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
  <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500395/mexican-journalist-margarito-martinez-has-been-murdered-in-tijuana">Mexican journalist Margarito Martínez has been murdered in Tijuana</a> NPR: The latest journalist to be murdered in Mexico is Tijuana photojournalist Margarito Martínez, a beloved figure in the community. His funeral is Thursday. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500381/secretary-of-state-blinken-talks-with-european-allies-about-russia">Secretary of State Blinken talks with European allies about Russia</a> NPR: Secretary of State Antony Blinken is consulting with European allies in Berlin Thursday. He's there to make sure everyone's on the same page in the event of a Russian attack on Ukraine. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
@@ -197,6 +195,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html">Biden Predicts Russia Will Invade Ukraine</a> NYT: President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade. 
  <p class="updated_time"> 04:38 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html">Russia and Iran Put on a Show of Unity — Against the U.S.</a> NYT: Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington. 
+ <p class="updated_time"> 04:33 PM CT, Jan. 19 </p> 
+ <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
 
@@ -206,7 +206,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
+ <p class="updated_time"> 04:26 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
+ <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 04:13 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/jan-6-committee-ivanka-trump.html">Jan. 6 Committee Calls Ivanka Trump</a> NYT: The House committee investigating the Capitol riot requested cooperation from the former president’s daughter and revealed what it has learned about what unfolded inside the White House that day. 
  <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500402/a-look-at-how-president-biden-has-handled-the-pandemic-through-his-1st-year-in-o">A look at how President Biden has handled the pandemic through his 1st year in office</a> NPR: One year ago, President Biden took the oath of office, with beating COVID at the top of his agenda. Managing the uncertainty of what comes next remains the greatest challenge of his presidency. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074502133/bidens-strict-limits-on-deportations-isnt-necessarily-being-followed">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But advocates say the reality is falling short of that lofty rhetoric. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
