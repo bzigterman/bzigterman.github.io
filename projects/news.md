@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
+ <p class="updated_time"> 12:37 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/01/21/world/russia-us-ukraine">Live Updates: U.S. Will Reply to Russian Demands as Military Buildups Continue Around Ukraine</a> NYT: After meeting in Geneva, the top U.S. and Russian diplomats signaled that talks would continue, even as Russia deploys more troops near Ukraine and the U.S. approves new arms for Kyiv. 
+ <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074792462/chevron-total-myanmar-human-rights">2 big energy firms exit Myanmar over human rights abuses by the military government</a> NPR: Total Energies and Chevron say they are stopping all operations in Myanmar, citing rampant human rights abuses and deteriorating rule of law since the military overthrew the elected government. 
+ <p class="updated_time"> 12:27 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
+ <p class="updated_time"> 12:25 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of four, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 12:22 PM CT, Jan. 21 </p> 
@@ -87,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 02:19 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/a-covid-contact-tracing-contrast-lays-bare-chinas-inequalities-11642771157">A Covid Contact-Tracing Contrast Lays Bare China's Inequalities</a> WSJ: A Chinese man working to support his family and find a missing son tests positive for Covid-19 and is showered with offers of help. “I feel the warmth of society. 
- <p class="updated_time"> 02:10 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 02:03 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182">'Farms Are Failing' as Fertilizer Prices Drive Up Cost of Food</a> WSJ: Farmers across the developing world say they are curtailing production, which means global hunger could worsen. 
  <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghans-housed-at-military-base-in-kosovo-risk-being-denied-entry-to-u-s-for-alleged-terrorist-ties-11642761008">Afghans in Kosovo Risk Being Denied Entry to U.S. for Alleged Terrorist Ties</a> WSJ: A denial would potentially leave the Kabul evacuees without a home country; sending them back to Afghanistan could violate international law. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
- <p class="updated_time"> 10:12 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of 4, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074393133/zara-rutherford-youngest-woman-fly-solo-around-globe">19-year-old lands in Belgium, becoming youngest woman to fly solo around the world</a> NPR: Zara Rutherford set off from Belgium in August to circle the globe in her Shark UL plane. Five months later, she landed back home, having landed in 41 countries on five continents. 
  <p class="updated_time"> 01:07 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60076835?at_medium=RSS&at_campaign=KARANGA">Teen becomes youngest woman to fly solo around the world</a> BBC: Zara Rutherford, 19, has arrived back in Belgium after her five-month journey over 52 countries. 
- <p class="updated_time"> 12:32 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074372201/this-marine-turned-journalist-interviewed-the-taliban-commander-he-had-fought-ag">This Marine-turned-journalist interviewed the Taliban commander he had fought against</a> NPR: Thomas Gibbons-Neff served two tours in Afghanistan, and is now a New York Times reporter. He recently interviewed a high-level Taliban commander about a battle they had both been engaged in. 
  <p class="updated_time"> 12:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html">American Airlines Flight Turns Back Over Passenger Mask Dispute</a> NYT: The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami. 
  <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
@@ -212,8 +212,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/trump-appointee-blocks-biden-federal-worker-vaccine-mandate-527592">Trump appointee blocks Biden federal worker vaccine mandate</a> Politico: The judge ruled that opponents of Biden's vaccination mandate for federal employees were likely to succeed at trial and blocked the government from enforcing the requirement. 
  <p class="updated_time"> 12:54 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/facebook-lobbying-spending-2021-527577">Facebook's lobbying spending surged to a record in 2021</a> Politico: The record lobbying surge — more than $20 million for the year — came as the company faced the most serious political crisis in its history. 
+ <p class="updated_time"> 12:29 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Justice Dept. Charges Texas Man With Threatening Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 12:17 PM CT, Jan. 21 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
- <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
