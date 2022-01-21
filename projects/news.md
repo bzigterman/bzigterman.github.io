@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 02:12 PM CT, Jan. 21 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison run by a U.S.-backed militia in northeastern Syria set off deadly clashes and highlighted the area’s tenuous security. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
- <p class="updated_time"> 11:06 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
  <p class="updated_time"> 10:36 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60074511?at_medium=RSS&at_campaign=KARANGA">Ghana blast: Many feared dead after huge explosion near Bogoso</a> BBC: Videos show many destroyed buildings after a truck carrying explosives to a gold mine hit a motorbike. 
  <p class="updated_time"> 10:28 AM CT, Jan. 21 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html">Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</a> NYT: He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series. 
  <p class="updated_time"> 12:33 PM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html">Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</a> NYT: Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza. 
- <p class="updated_time"> 10:19 AM CT, Jan. 19 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html">Court in Ukraine Declines Request to Arrest Former President</a> NYT: A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia. 
  <p class="updated_time"> 09:03 AM CT, Jan. 19 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html">In Peru, Courts ‘Used Like Whips’ to Silence Journalists</a> NYT: The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics. 
 
@@ -208,16 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
+ <p class="updated_time"> 03:00 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815001/theres-now-a-phone-line-to-order-your-free-at-home-covid-tests">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
  <p class="updated_time"> 01:48 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815838/federal-court-blocks-bidens-vaccine-mandate-for-federal-workers">Federal court blocks Biden's vaccine mandate for federal workers</a> NPR: A federal judge in Texas has blocked President Biden's vaccine mandate for federal workers nationwide. The requirement had been in place since November. 
- <p class="updated_time"> 01:35 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 01:19 PM CT, Jan. 21 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/belarus-aircraft-piracy-journalist-527533">U.S. charges Belarus with air piracy in reporter’s arrest</a> Politico: Belarus forced down a plane to seize an opposition journalist last May. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
