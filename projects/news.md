@@ -112,7 +112,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:09 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60072502?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: President Zelensky hits back at Biden comments</a> BBC: Its president bristles at suggestions a "minor" Russian attack may bring a weaker Western response. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">‘She Was Just Going for a Run’: Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
+ <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 10:27 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html">Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</a> NYT: The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority. 
  <p class="updated_time"> 09:28 AM CT, Jan. 20 </p> 
@@ -198,12 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:27 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/robert-costa-cbs.html">Robert Costa, a Noted Political Reporter, Is Joining CBS News</a> NYT: The longtime Washington Post political reporter will take an on-air role covering campaigns and elections. 
  <p class="updated_time"> 09:26 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
- <p class="updated_time"> 09:09 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:40 PM CT, Jan. 20 </p> 
