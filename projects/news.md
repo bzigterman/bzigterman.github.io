@@ -194,18 +194,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:40 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
+ <p class="updated_time"> 08:35 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 08:18 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:03 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 07:57 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/belarus-aircraft-piracy-journalist-527533">U.S. charges Belarus with air piracy in reporter’s arrest</a> Politico: Belarus forced down a plane to seize an opposition journalist last May. 
  <p class="updated_time"> 07:35 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:30 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
  <p class="updated_time"> 07:06 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who the January 6 committee has subpoenaed or requested to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
@@ -314,6 +314,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president’s press conference was a two hour affair filled with self-analysis, contrition and defiance. 
+ <p class="updated_time"> 04:57 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/maura-healey-campaign-governor-massachusetts-527415">She took on Trump, Juul and the Sacklers. Now she wants to run Massachusetts.</a> Politico: State Attorney General Maura Healey is said to be preparing to launch a campaign for governor on Thursday. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
