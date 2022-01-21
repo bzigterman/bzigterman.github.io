@@ -210,7 +210,9 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">It’s a gold rush for lobbying firms with Biden ties</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
- <p class="updated_time"> 05:15 PM CT, Jan. 21 </p> 
+ <p class="updated_time"> 05:51 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the Justice Department’s task force on election threats. 
+ <p class="updated_time"> 05:46 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/jan-6-fake-trump-electors.html">Jan. 6 Panel and State Officials Seek Answers on Fake Trump Electors</a> NYT: Pressure is mounting on the Justice Department to investigate bogus electors who claimed that Donald J. Trump defeated Joseph R. Biden Jr. in their states. 
  <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling for Native Americans in Oklahoma</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
- <p class="updated_time"> 04:13 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the agency’s task force on election threats. 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:50 PM CT, Jan. 21 </p> 
