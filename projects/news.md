@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074977884/thich-nhat-hanh-dead">Thich Nhat Hanh, Buddhist monk and peace activist, dies at 95</a> NPR: Nhat Hanh distilled Buddhist teachings on compassion and suffering into easily grasped guidance over a lifetime dedicated to working for peace. 
  <p class="updated_time"> 07:06 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60079770?at_medium=RSS&at_campaign=KARANGA">Udupi hijab issue: The Indian girls fighting to wear hijab in college</a> BBC: Six Muslim students say they are not being allowed to attend classes because they wear headscarves. 
  <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60082786?at_medium=RSS&at_campaign=KARANGA">Yemen rebel attack on UAE throws challenge to the region</a> BBC: A fatal drone and missile strike raises questions about the war and security across the Middle East. 
+ <p class="updated_time"> 06:58 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 06:57 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60083684?at_medium=RSS&at_campaign=KARANGA">Kenya's River Yala: Mystery and heartbreak of the dead bodies</a> BBC: At least 19 corpses have been found dumped in western Kenya and relatives want to know how they died. 
  <p class="updated_time"> 06:56 PM CT, Jan. 21 </p> 
@@ -59,16 +63,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 03:13 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
+ <p class="updated_time"> 03:06 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">Two Canadian Tourists Killed, Another Wounded at Mexican Resort Hotel</a> WSJ: Authorities say both victims had criminal records in Canada. 
  <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at Age 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
- <p class="updated_time"> 01:53 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at Age 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
- <p class="updated_time"> 01:29 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">One Canadian Tourist Killed, Two Wounded at Mexican Resort Hotel</a> WSJ: Authorities say shooting on Riviera Maya occurred following an argument among hotel guests. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html">Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</a> NYT: Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
- <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
  <p class="updated_time"> 05:58 AM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59644043?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics: Why are they controversial?</a> BBC: Winter Olympics host China is being criticised over its human rights record. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
@@ -221,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:26 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling for Native Americans in Oklahoma</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:50 PM CT, Jan. 21 </p> 
@@ -287,7 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074621572/sinemas-filibuster-stance-only-adds-to-the-frustrations-of-arizona-progressives">Sinema's filibuster stance only adds to the frustrations of Arizona progressives</a> NPR: Many Arizona Democrats were already talking about primary challenges to Kyrsten Sinema, even before she reiterated her opposition to changing Senate rules, helping to doom voting rights legislation. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Biden as a New F.D.R.? Try L.B.J.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:26 PM CT, Jan. 20 </p> 
