@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 08:21 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60096261?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US 'lethal aid' arrives in Kyiv amid border build-up</a> BBC: The first delivery of a security assistance package includes ammunition for "front line defenders". 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-60079770?at_medium=RSS&at_campaign=KARANGA">Udupi hijab issue: The Indian girls fighting to wear hijab in college</a> BBC: Six Muslim students say they are not being allowed to attend classes because they wear headscarves. 
  <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60082786?at_medium=RSS&at_campaign=KARANGA">Yemen rebel attack on UAE throws challenge to the region</a> BBC: A fatal drone and missile strike raises questions about the war and security across the Middle East. 
- <p class="updated_time"> 06:58 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 06:57 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60083684?at_medium=RSS&at_campaign=KARANGA">Kenya's River Yala: Mystery and heartbreak of the dead bodies</a> BBC: At least 19 corpses have been found dumped in western Kenya and relatives want to know how they died. 
  <p class="updated_time"> 06:56 PM CT, Jan. 21 </p> 
