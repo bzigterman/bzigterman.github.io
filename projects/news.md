@@ -211,11 +211,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:04 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/biden-ukraine-russia-belarus-cyberattacks-527638">Biden’s new Ukraine quandary: What if Russia is outsourcing cyberattacks?</a> Politico: After 70 Ukrainian government websites were attacked, the U.S. government ponders what to do. 
+ <a href="https://www.politico.com/news/2022/01/22/biden-ukraine-russia-belarus-cyberattacks-527638">Suspected Belarus ties to Ukrainian hacks complicate Biden’s quandary</a> Politico: After 70 Ukrainian government websites were attacked, the U.S. government ponders what to do. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. military aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's frontline defenders should Russia choose to invade. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
+ <p class="updated_time"> 08:08 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/new-jersey-new-york-online-sports-betting-1406000">New Jersey leads the nation in online sports betting. Here comes New York.</a> Politico: Two weeks ago, New York became the largest state to allow for sports betting, ramping up the competition as more states fight for their share of the industry. 
  <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
