@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:18 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">‘A Recipe for Hatred’: Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
+ <p class="updated_time"> 11:18 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
@@ -171,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60072418?at_medium=RSS&at_campaign=KARANGA">The radio station bringing worried Tongans together</a> BBC: A community broadcaster in Brisbane, Australia, is bringing information and support following the tsunami. 
- <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
- <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html">The Plans for the World’s Next Largest City Are Incomplete</a> NYT: Delhi is growing far beyond the formal confines of the city, a case study in the complexity of what we call urbanization. 
 
 
 </details>
