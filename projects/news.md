@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
