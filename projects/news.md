@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:41 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:06 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
- <p class="updated_time"> 04:00 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 02:07 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60095057?at_medium=RSS&at_campaign=KARANGA">US police hunt monkeys missing after motorway crash</a> BBC: The monkeys were being transported to a lab in Florida but escaped after the accident in Pennsylvania. 
  <p class="updated_time"> 01:14 AM CT, Jan. 22 </p> 
