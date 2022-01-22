@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:10 PM CT, Jan. 22 </p> 
+ <p class="updated_time"> 05:47 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 05:42 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 04:31 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 08:25 AM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-talks-who-is-playing-for-time-11642874047">In Ukraine Talks, Who Is Playing for Time?</a> WSJ: With talks between the U.S. and Russia over Ukraine continuing into next week, a look under the lid to see who gains more leverage as the diplomatic clock ticks. 
- <p class="updated_time"> 08:21 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60096261?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US 'lethal aid' arrives in Kyiv amid border build-up</a> BBC: The first delivery of a security assistance package includes ammunition for "front line defenders". 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:50 AM CT, Jan. 22 </p> 
@@ -206,7 +206,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:10 PM CT, Jan. 22 </p> 
+ <p class="updated_time"> 06:41 PM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/russia-seeking-replace-ukraine-government-00000471">Britain says Russia seeking to replace Ukraine government</a> Politico: The U.K. government made the claim based on an intelligence assessment, without providing evidence to back it up. 
+ <p class="updated_time"> 05:47 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
- <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State’s remarks came after his highly anticipated meeting with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/ron-klain-hot-water-527570">It’s Ron Klain’s turn in the barrel</a> Politico: Biden’s chief of staff started strong and earned plaudits. But, increasingly, he’s under scrutiny for the state of the presidency. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
