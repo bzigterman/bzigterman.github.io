@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60095057?at_medium=RSS&at_campaign=KARANGA">Search for monkey missing after US motorway crash</a> BBC: The monkey was being transported to a lab in Florida but escaped after the accident in Pennsylvania. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 08:43 AM CT, Jan. 22 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
- <p class="updated_time"> 02:07 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60095057?at_medium=RSS&at_campaign=KARANGA">Search for monkeys missing after US motorway crash</a> BBC: The monkeys were being transported to a lab in Florida but escaped after the accident in Pennsylvania. 
  <p class="updated_time"> 01:14 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
@@ -215,7 +215,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216">A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
@@ -280,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
- <p class="updated_time"> 10:26 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/florida/story/2022/01/21/trump-calls-feud-with-desantis-fake-news-1406402">Trump calls feud with DeSantis ‘fake news’</a> Politico: “I get along great with Ron,” Trump said. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State’s remarks came after his highly anticipated meeting with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
@@ -338,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
+ <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
