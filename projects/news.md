@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:10 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote">Arizona Democrats have censured Kyrsten Sinema over her pro-filibuster vote </a> NPR: The symbolic action comes as Sinema has come under criticism from progressive groups in Arizona after she voted to uphold the filibuster in the Senate. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
- <p class="updated_time"> 09:26 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
