@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
+ <a href="https://www.npr.org/2022/01/21/1074977884/thich-nhat-hanh-dead">Thich Nhat Hanh, Buddhist monk and peace activist, dies at 95</a> NPR: Nhat Hanh distilled Buddhist teachings on compassion and suffering into easily grasped guidance over a lifetime dedicated to working for peace. 
+ <p class="updated_time"> 07:06 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60079770?at_medium=RSS&at_campaign=KARANGA">Udupi hijab issue: The Indian girls fighting to wear hijab in college</a> BBC: Six Muslim students say they are not being allowed to attend classes because they wear headscarves. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60082786?at_medium=RSS&at_campaign=KARANGA">Yemen rebel attack on UAE throws challenge to the region</a> BBC: A fatal drone and missile strike raises questions about the war and security across the Middle East. 
+ <p class="updated_time"> 06:57 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60083684?at_medium=RSS&at_campaign=KARANGA">Kenya's River Yala: Mystery and heartbreak of the dead bodies</a> BBC: At least 19 corpses have been found dumped in western Kenya and relatives want to know how they died. 
+ <p class="updated_time"> 06:56 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60067868?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Long journey home to rebel-run Donetsk</a> BBC: One resident returns to their home city in rebel-held east Ukraine, as tensions with Russia rise. 
+ <p class="updated_time"> 06:39 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60076150?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 15 - 21 January 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 06:25 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Three Canadians shot and one killed at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
@@ -21,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
+ <p class="updated_time"> 04:29 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led airstrike on Yemen prison</a> BBC: The airstrike by a Saudi-led coalition on a detention centre on Friday has killed more than 70 people. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
@@ -47,8 +63,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
+ <p class="updated_time"> 01:53 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at Age 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
+ <p class="updated_time"> 01:29 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">One Canadian Tourist Killed, Two Wounded at Mexican Resort Hotel</a> WSJ: Authorities say shooting on Riviera Maya occurred following an argument among hotel guests. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
@@ -59,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
- <p class="updated_time"> 11:28 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60085359?at_medium=RSS&at_campaign=KARANGA">US comic Louie Anderson dies aged 68</a> BBC: The stand-up comedian appeared in films including Coming to America and Ferris Bueller's Day Off. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
  <p class="updated_time"> 11:06 AM CT, Jan. 21 </p> 
@@ -75,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
  <p class="updated_time"> 09:56 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
- <p class="updated_time"> 09:37 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60082788?at_medium=RSS&at_campaign=KARANGA">Scores killed in Yemen prison air strike carnage</a> BBC: Rescue workers have been pulling bodies from rubble after the site was destroyed in an air strike. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
@@ -87,22 +103,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60083958?at_medium=RSS&at_campaign=KARANGA">Hanifa Abubakar: Nigeria outrage at Kano schoolgirl killing</a> BBC: Hanifa Abubakar was allegedly kidnapped for ransom and then killed by the owner of her school. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
- <p class="updated_time"> 07:29 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60078540?at_medium=RSS&at_campaign=KARANGA">Tonga: Survivor tells of sea escape from tsunami-struck island</a> BBC: Lisala Folau says he swam for more than a day, clinging to a log at sea, to survive the tsunami. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, ended talks in Geneva with no major  breakthroughs but an agreement to keep talking. 
- <p class="updated_time"> 06:41 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60081381?at_medium=RSS&at_campaign=KARANGA">In pictures: Meat Loaf's life on and off stage</a> BBC: The singer, who has died at 74, brushed shoulders with royalty and stars of music, stage and screen. 
- <p class="updated_time"> 06:26 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-kills-sleeping-iraqi-soldiers-attacks-syrian-prison-11642777892">Islamic State Kills Sleeping Iraqi Soldiers, Attacks Syrian Prison</a> WSJ: Islamic State militants killed 11 Iraqi soldiers in a camp and launched a prison break attempt in Syria, indicating how the extremist group remains a threat despite its territorial defeat in the region. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60081134?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Secret rescue network to evade hamster Covid cull</a> BBC: An underground network of animal lovers is helping Hong Kong hamster owners avoid a government cull. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
  <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
- <p class="updated_time"> 04:40 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/60066470?at_medium=RSS&at_campaign=KARANGA">Tonga: Zero-Covid island nation fears aid could bring in virus</a> BBC: Efforts are underway to deliver humanitarian supplies with the minimum risk of infection. 
  <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
@@ -117,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
- <p class="updated_time"> 02:03 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182">'Farms Are Failing' as Fertilizer Prices Drive Up Cost of Food</a> WSJ: Farmers across the developing world say they are curtailing production, which means global hunger could worsen. 
  <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">A Saudi-led airstrike on a Yemen prison kills, injures more than 100, Red Cross says</a> NPR: The strike against a prison run by Yemen's Houthi rebels is part of a pounding aerial offensive that hours earlier saw another airstrike take the Arab world's poorest country off the internet. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
@@ -135,16 +141,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 07:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074593573/u-s-charges-belarus-officials-with-air-piracy-in-reporters-arrest">U.S. charges Belarus officials with air piracy in reporter's arrest</a> NPR: U.S. prosecutors say Belarusian officials diverted a flight to Minsk so they could arrest opposition activist and journalist Raman Pratasevich on charges of inciting riots against the government. 
- <p class="updated_time"> 07:19 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60059542?at_medium=RSS&at_campaign=KARANGA">French elections: Divided left fight doomed race of their own</a> BBC: For the first time in living memory there is no left-wing candidate challenging for the presidency. 
- <p class="updated_time"> 07:14 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60058972?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: 'If you protest again, we'll kill you'</a> BBC: Activists in Kazakhstan say they are being arrested and beaten as police crack down after unrest. 
- <p class="updated_time"> 06:48 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60022424?at_medium=RSS&at_campaign=KARANGA">Why an OnlyFans creator could go to jail for posting nudes</a> BBC: Titus Low is one of Singapore's most successful OnlyFans creators - but now he might find himself in jail. 
  <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60072418?at_medium=RSS&at_campaign=KARANGA">The radio station bringing worried Tongans together</a> BBC: A community broadcaster in Brisbane, Australia, is bringing information and support following the tsunami. 
- <p class="updated_time"> 06:04 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60075265?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: How peaceful protests turned violent</a> BBC: Watch three eyewitnesses describe how the clashes unfolded over three days earlier this month. 
  <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
  <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
@@ -153,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
- <p class="updated_time"> 04:23 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60072540?at_medium=RSS&at_campaign=KARANGA">Texas synagogue: How synagogues stay safe - and still welcoming</a> BBC: The hostage crisis at Congregation Beth Israel has forced worshippers think about safety and faith. 
  <p class="updated_time"> 04:10 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html">Ash From Tonga Volcanic Eruption Still Poses a Threat</a> NYT: Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
@@ -167,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
- <p class="updated_time"> 03:19 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500395/mexican-journalist-margarito-martinez-has-been-murdered-in-tijuana">Mexican journalist Margarito Martínez has been murdered in Tijuana</a> NPR: The latest journalist to be murdered in Mexico is Tijuana photojournalist Margarito Martínez, a beloved figure in the community. His funeral is Thursday. 
  <p class="updated_time"> 03:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html">Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</a> NYT: A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
@@ -185,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
  <p class="updated_time"> 07:04 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html">Syrian Doctor Accused of Atrocities Goes on Trial in Germany</a> NYT: The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection. 
+ <p class="updated_time"> 05:58 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/explainers-59644043?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics: Why are they controversial?</a> BBC: Winter Olympics host China is being criticised over its human rights record. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
  <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
@@ -206,9 +202,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:29 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/arizona-sues-covid-masks.html">Arizona Sues to Stop Treasury From Recouping Relief Funds</a> NYT: Gov. Doug Ducey has been using federal pandemic aid to undermine school mask requirements, which Treasury said violated the law. 
  <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">It’s a gold rush for lobbying firms with Biden ties</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
- <p class="updated_time"> 06:12 PM CT, Jan. 21 </p> 
+ <p class="updated_time"> 06:25 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
  <p class="updated_time"> 06:11 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the Justice Department’s task force on election threats. 
@@ -239,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074815001/theres-now-a-phone-line-to-order-your-free-at-home-covid-tests">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
+ <a href="https://www.npr.org/2022/01/21/1074815001/free-covid-test-kits-phone-number">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
  <p class="updated_time"> 01:48 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815838/federal-court-blocks-bidens-vaccine-mandate-for-federal-workers">Federal court blocks Biden's vaccine mandate for federal workers</a> NPR: A federal judge in Texas has blocked President Biden's vaccine mandate for federal workers nationwide. The requirement had been in place since November. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
@@ -296,14 +294,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/business/fed-digital-currency.html">Fed opens debate over a U.S. central bank digital currency with long-awaited report.</a> NYT: The Federal Reserve issued a paper on the pros and cons of a central bank-backed digital dollar. It’s a first step, but will kick off discussion. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
- <p class="updated_time"> 08:35 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html">Your Inflation Questions, Answered </a> NYT: The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
