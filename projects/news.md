@@ -68,9 +68,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:14 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
+ <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters, which Turkish officials say could mend relations between Washington and Ankara. 
+ <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
  <p class="updated_time"> 10:49 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60092463?at_medium=RSS&at_campaign=KARANGA">Kiribati goes into first lockdown after Covid flight cases</a> BBC: Until last week, the remote island nation of Kiribati had recorded just two Covid cases. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
