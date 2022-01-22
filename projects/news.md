@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:44 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Three Canadians shot and one killed at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
  <p class="updated_time"> 07:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60067868?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Long journey home to rebel-run Donetsk</a> BBC: One resident returns to their home city in rebel-held east Ukraine, as tensions with Russia rise. 
  <p class="updated_time"> 06:39 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60076150?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 15 - 21 January 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 06:25 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Three Canadians shot and one killed at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
  <p class="updated_time"> 04:29 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led airstrike on Yemen prison</a> BBC: The airstrike by a Saudi-led coalition on a detention centre on Friday has killed more than 70 people. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led airstrike on Yemen prison</a> BBC: The airstrike by a Saudi-led coalition on a detention centre on Friday killed more than 70 people. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
@@ -97,6 +97,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
  <p class="updated_time"> 09:56 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
+ <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/germany-blocks-nato-ally-from-transferring-weapons-to-ukraine-11642790772">Germany Bars NATO Ally From Transferring Weapons to Ukraine</a> WSJ: The refusal to permit Estonia to transfer artillery that originated in Germany points to strains in the Western alliance over Ukraine. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 09:08 AM CT, Jan. 21 </p> 
