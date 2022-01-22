@@ -206,8 +206,6 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:06 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/eric-adams-guns-crackdown-00000024">Adams calls on feds to crackdown on guns after NYPD officer killed</a> Politico: The incident is an early inflection point for the new mayor who campaigned on reducing gun violence. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
  <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
@@ -340,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
