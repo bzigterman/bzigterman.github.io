@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 AM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60096261?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US 'lethal aid' arrives in Kyiv amid border build-up</a> BBC: The first delivery of a security assistance package includes ammunition for "front line defenders". 
  <p class="updated_time"> 05:10 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
@@ -212,6 +214,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes, successes or failures detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
  <p class="updated_time"> 05:12 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/jewish-leaders-urge-worship-attendance-after-hostage-siege-00000211">Jewish leaders urge worship attendance after hostage siege</a> Politico: Jewish leaders throughout the U.S. are calling for a strong turnout at this weekend’s worship services as a statement of defiance against antisemitic acts. 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
@@ -268,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
- <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
  <p class="updated_time"> 10:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/states/florida/story/2022/01/21/trump-calls-feud-with-desantis-fake-news-1406402">Trump calls feud with DeSantis ‘fake news’</a> Politico: “I get along great with Ron,” Trump said. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/cartoons/2022/01/21/the-nations-cartoonists-on-the-week-in-politics-000279">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
- <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">‘A bridge too far’: Dems spar over whether to welcome anti-Trump GOP defector</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
+ <p class="updated_time"> 05:34 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/20/florida-gop-led-senate-sets-up-clash-with-desantis-over-congressional-maps-1406232">Florida GOP-led Senate sets up clash with DeSantis over congressional maps</a> Politico: The GOP-led Florida Legislature rarely breaks with DeSantis. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Kyrsten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
  <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
- <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500402/a-look-at-how-president-biden-has-handled-the-pandemic-through-his-1st-year-in-o">A look at how President Biden has handled the pandemic through his 1st year in office</a> NPR: One year ago, President Biden took the oath of office, with beating COVID at the top of his agenda. Managing the uncertainty of what comes next remains the greatest challenge of his presidency. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
