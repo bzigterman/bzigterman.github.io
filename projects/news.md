@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 04:30 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
- <p class="updated_time"> 01:31 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60090991?at_medium=RSS&at_campaign=KARANGA">Do Ukrainians and Russians believe a full-scale war is possible?</a> BBC: Amid growing fears of a Russian invasion, BBC correspondents gauge the public mood in Kyiv and Moscow. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote">Arizona Democrats have censured Kyrsten Sinema over her pro-filibuster vote </a> NPR: The symbolic action comes as Sinema has come under criticism from progressive groups in Arizona after she voted to uphold the filibuster in the Senate. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
- <p class="updated_time"> 12:44 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-biden-civilian-casualties.html">Calling Civilian Casualties a ‘Failure,’ Democrats Urge Biden to Do Better</a> NYT: In a letter to President Biden, dozens of Democrats in Congress raised grave concerns about “repeated civilian casualties arising from secretive and unaccountable lethal operations.” 
  <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
