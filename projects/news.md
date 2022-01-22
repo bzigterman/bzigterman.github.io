@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075108292/former-nsa-mcmaster-proposes-climate-policy-to-pressure-russia">Former NSA McMaster proposes climate policy to pressure Russia</a> NPR: NPR's Michel Martin speaks with former National Security Advisor, General H.R. McMaster, about how climate policy can be used to counter Russian President Vladimir Putin's agenda. 
  <p class="updated_time"> 03:38 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60092300?at_medium=RSS&at_campaign=KARANGA">'Surreal' January wildfire shuts California highway</a> BBC: An unseasonal blaze rages in the Monterey County, forcing evacuations and the closure of Highway 1. 
  <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
@@ -159,12 +163,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">A nuclear-test monitor calls Tonga volcano blast 'biggest thing that we've ever seen'</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga from Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 6-10 megatons. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
- <p class="updated_time"> 03:46 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074669475/dozens-of-former-guests-are-rallying-to-save-a-tonga-resort">Dozens of former guests are rallying to save a Tonga resort</a> NPR: It's just one of the ways the world is rallying to help the people of the remote Pacific island nation rebuild. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
- <p class="updated_time"> 01:46 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">A Saudi-led airstrike on a Yemen prison kills, injures more than 100, Red Cross says</a> NPR: The strike against a prison run by Yemen's Houthi rebels is part of a pounding aerial offensive that hours earlier saw another airstrike take the Arab world's poorest country off the internet. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
