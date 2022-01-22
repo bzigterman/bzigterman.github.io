@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites has allowed some unlikely places to plan their own space industries, but opponents worry about the ecological toll. 
  <p class="updated_time"> 11:22 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor's spokesman confirmed that he was driving the SUV involved in the crash. 
+ <p class="updated_time"> 10:49 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60092463?at_medium=RSS&at_campaign=KARANGA">Kiribati goes into first lockdown after Covid flight cases</a> BBC: Until last week, the remote island nation of Kiribati had recorded just two Covid cases. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
@@ -97,6 +99,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
+ <p class="updated_time"> 01:31 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60090991?at_medium=RSS&at_campaign=KARANGA">Do Ukrainians and Russians believe a full-scale war is possible?</a> BBC: Amid growing fears of a Russian invasion, BBC correspondents gauge the public mood in Kyiv and Moscow. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
  <p class="updated_time"> 12:33 PM CT, Jan. 21 </p> 
@@ -105,14 +109,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of four, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
- <p class="updated_time"> 11:41 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60080934?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: Stars pay tribute to 'one-off' Bat Out Of Hell singer</a> BBC: The Bat Out Of Hell singer is remembered by musicians including Cher, Brian May and Bonnie Tyler. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60082456?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: What exactly is it that the singer would not do for love?</a> BBC: How I'd Do Anything for Love (But I Won't Do That) became one of rock's biggest urban myths. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
  <p class="updated_time"> 11:06 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Washington and Moscow agreed to continue talks, with Secretary of State Antony Blinken saying the U.S. would formally address the Kremlin’s concerns that Western powers threaten Russian security and its demands for the future of NATO. 
- <p class="updated_time"> 10:28 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60077776?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US and Russia hold 'frank' talks</a> BBC: Their top diplomats say they want to pursue dialogue as fears of Russian military action persist. 
  <p class="updated_time"> 10:05 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
