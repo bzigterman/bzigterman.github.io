@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/online-sports-betting-new-york-1406000">New Jersey leads the nation in online sports betting. Here comes New York.</a> Politico: Two weeks ago, New York became the largest state to allow for sports betting, ramping up the competition as more states fight for their share of the industry. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
  <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
