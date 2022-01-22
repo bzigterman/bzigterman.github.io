@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
  <p class="updated_time"> 04:00 AM CT, Jan. 22 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html">The Plans for the World’s Next Largest City Are Incomplete</a> NYT: Delhi is growing far beyond the formal confines of the city, a case study in the complexity of what we call urbanization. 
  <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/special-series/future-self-hindsight.html">Dear People of 2022: What Would You Ask Your Future Self?</a> NYT: Hundreds of notes about the nature of progress left us wondering: What’s possible in a year’s time? 
- <p class="updated_time"> 04:00 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html">1922: Thief Returns Diplomat’s Stolen Wallet</a> NYT: After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact. 
 
 
 </details>
