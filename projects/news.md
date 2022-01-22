@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:50 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049588/ethnic-tensions-are-mounting-in-bosnia-herzegovina-again">Ethnic tensions are mounting in Bosnia-Herzegovina again</a> NPR: A quarter century after the end of a brutal civil war in Bosnia-Herzegovina, tensions are once again on the rise and threatening to tear apart the multi-ethnic government. 
  <p class="updated_time"> 07:45 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60095060?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam defends Covid hamster cull</a> BBC: Carrie Lam says the priority is to control the rise in cases partly caused by an outbreak in pet hamsters. 
- <p class="updated_time"> 07:41 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:06 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
