@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. lethal aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's frontline defenders should Russia choose to invade. 
  <p class="updated_time"> 10:10 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor-politician was unhurt in the collision, as photos show a large SUV on top of other cars. 
  <p class="updated_time"> 09:30 AM CT, Jan. 22 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes">A Saudi-led airstrike on a Yemen prison kills, injures more than 100, Red Cross says</a> NPR: The strike against a prison run by Yemen's Houthi rebels is part of a pounding aerial offensive that hours earlier saw another airstrike take the Arab world's poorest country off the internet. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/modou-fall-senegal.html">This ‘Plastic Man’ Has a Cape and a Superhero’s Mission: Cleaning Up Senegal</a> NYT: Dressed head to toe in plastic, Modou Fall is a familiar sight in Dakar. But however playful his costume, his goal couldn’t be more serious: ridding the capital of the scourge of plastic bags. 
- <p class="updated_time"> 12:16 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. lethal aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's frontline defenders should Russia choose to invade. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
@@ -219,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049511/week-in-politics-biden-hits-1-year-anniversary-in-office">Week in politics: Biden hits 1-year anniversary in office</a> NPR: Did President Joe Biden promise too much when he began his term a year ago? And what role did fellow Democrats, and the media, play in the current sense of disappointment? 
  <p class="updated_time"> 06:00 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes, successes or failures detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
+ <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes, successes and failures that were detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
  <p class="updated_time"> 05:12 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/jewish-leaders-urge-worship-attendance-after-hostage-siege-00000211">Jewish leaders urge worship attendance after hostage siege</a> Politico: Jewish leaders throughout the U.S. are calling for a strong turnout at this weekend’s worship services as a statement of defiance against antisemitic acts. 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074664303/morning-news-brief">News brief: U.S.-Russia meeting, Roe v. Wade, Joe Rogan podcast criticized</a> NPR: Secretary of State Blinken meets with his Russian counterpart. March for Life organizers hope this year Roe v. Wade is overturned. Spotify asked to crack down on COVID falsehoods in popular podcast. 
  <p class="updated_time"> 04:01 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074413273/end-expanded-child-tax-credit-families-effects">Families are in distress after the first month without the expanded child tax credit</a> NPR: January is the first month since July 2021 that more than 36 million families in the U.S. did not receive money from the expanded child tax credit program. For some, the consequences are already dire. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074621572/sinemas-filibuster-stance-only-adds-to-the-frustrations-of-arizona-progressives">Sinema's filibuster stance only adds to the frustrations of Arizona progressives</a> NPR: Many Arizona Democrats were already talking about primary challenges to Kyrsten Sinema, even before she reiterated her opposition to changing Senate rules, helping to doom voting rights legislation. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
