@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216">A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
@@ -406,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
  <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
- <p class="updated_time"> 09:31 AM CT, Jan. 15 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/15/civil-rights-leaders-fume-after-meeting-with-sinema-495741"> Civil rights leaders fume after meeting with Sinema</a> Politico Playbook: And the world waits for Russia's next move. 
 
 
 </details>
