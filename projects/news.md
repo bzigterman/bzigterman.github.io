@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:04 PM CT, Jan. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 12:59 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/business/economy/inflation-biden-pandemic.html">Rapid Inflation Fuels Debate Over What’s to Blame: Pandemic or Policy</a> NYT: The White House is emphasizing that inflation is worldwide. Economists say that’s true — but stimulus-spurred consumer buying is also to blame. 
  <p class="updated_time"> 11:04 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/biden-ukraine-russia-belarus-cyberattacks-527638">Suspected Belarus ties to Ukrainian hacks complicate Biden’s quandary</a> Politico: After 70 Ukrainian government websites were attacked, the U.S. government ponders what to do. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/eric-adams-guns-crackdown-00000024">Adams calls on feds to crackdown on guns after NYPD officer killed</a> Politico: The incident is an early inflection point for the new mayor who campaigned on reducing gun violence. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
- <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:42 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
  <p class="updated_time"> 06:29 PM CT, Jan. 21 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
- <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:34 PM CT, Jan. 20 </p> 
