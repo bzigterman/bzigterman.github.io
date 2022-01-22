@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Two Canadians shot dead at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
  <p class="updated_time"> 11:22 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor's spokesman confirmed that he was driving the SUV involved in the crash. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 08:44 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Three Canadians shot and one killed at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
  <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074977884/thich-nhat-hanh-dead">Thich Nhat Hanh, Buddhist monk and peace activist, dies at 95</a> NPR: Nhat Hanh distilled Buddhist teachings on compassion and suffering into easily grasped guidance over a lifetime dedicated to working for peace. 
  <p class="updated_time"> 07:06 PM CT, Jan. 21 </p> 
@@ -238,6 +238,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -256,6 +258,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
+ <p class="updated_time"> 10:26 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/21/trump-calls-feud-with-desantis-fake-news-1406402">Trump calls feud with DeSantis ‘fake news’</a> Politico: “I get along great with Ron,” Trump said. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State’s remarks came after his highly anticipated meeting with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
@@ -302,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
+ <p class="updated_time"> 07:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/states/california/story/2022/01/20/our-fates-are-intertwined-abortion-rights-activists-warn-roes-fall-will-hit-blue-states-1406288">‘Our fates are intertwined’: abortion rights activists warn Roe’s fall will hit blue states</a> Politico: While a handful of Democratic states have recently advanced measures that protect abortion rights, many of those efforts have been watered down, abortion-rights advocates complain. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
@@ -322,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:26 PM CT, Jan. 20 </p> 
  <a href="https://www.npr.org/2022/01/20/1074500402/a-look-at-how-president-biden-has-handled-the-pandemic-through-his-1st-year-in-o">A look at how President Biden has handled the pandemic through his 1st year in office</a> NPR: One year ago, President Biden took the oath of office, with beating COVID at the top of his agenda. Managing the uncertainty of what comes next remains the greatest challenge of his presidency. 
- <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
