@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
@@ -21,6 +23,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60092429?at_medium=RSS&at_campaign=KARANGA">Two Canadians shot dead at upscale Mexican resort</a> BBC: The incident began as an argument among guests, one of whom was the gunman, at the hotel near Cancún. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, But Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters, which Turkish officials say could mend relations between Washington and Ankara. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
+ <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites has allowed some unlikely places to plan their own space industries, but opponents worry about the ecological toll. 
  <p class="updated_time"> 11:22 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor's spokesman confirmed that he was driving the SUV involved in the crash. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
@@ -85,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 03:06 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">Two Canadian Tourists Killed, Another Wounded at Mexican Resort Hotel</a> WSJ: Authorities say both victims had criminal records in Canada. 
- <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
