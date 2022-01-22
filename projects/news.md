@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60092299?at_medium=RSS&at_campaign=KARANGA">Fans sue Universal Pictures over film without Ana de Armas</a> BBC: The comedy Yesterday has the actress in the trailer, but not the movie itself - to the anger of fans. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
+ <p class="updated_time"> 08:25 AM CT, Jan. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-talks-who-is-playing-for-time-11642874047">In Ukraine Talks, Who Is Playing for Time?</a> WSJ: With talks between the U.S. and Russia over Ukraine continuing into next week, a look under the lid to see who gains more leverage as the diplomatic clock ticks. 
  <p class="updated_time"> 08:21 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60096261?at_medium=RSS&at_campaign=KARANGA">Ukraine tension: US 'lethal aid' arrives in Kyiv amid border build-up</a> BBC: The first delivery of a security assistance package includes ammunition for "front line defenders". 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
@@ -133,16 +135,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60082456?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: What exactly is it that the singer would not do for love?</a> BBC: How I'd Do Anything for Love (But I Won't Do That) became one of rock's biggest urban myths. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
- <p class="updated_time"> 11:06 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-meet-russias-foreign-minister-amid-ukraine-border-crisis-11642752344">U.S., Russia Agree to Keep Negotiating to Defuse Ukraine Crisis</a> WSJ: Washington and Moscow agreed to continue talks, with Secretary of State Antony Blinken saying the U.S. would formally address the Kremlin’s concerns that Western powers threaten Russian security and its demands for the future of NATO. 
  <p class="updated_time"> 10:05 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
  <p class="updated_time"> 09:56 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
- <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/germany-blocks-nato-ally-from-transferring-weapons-to-ukraine-11642790772">Germany Bars NATO Ally From Transferring Weapons to Ukraine</a> WSJ: The refusal to permit Estonia to transfer artillery that originated in Germany points to strains in the Western alliance over Ukraine. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
