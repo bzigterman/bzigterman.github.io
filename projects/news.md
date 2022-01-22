@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Monk, Zen Master and Activist, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049525/saudi-led-airstrike-in-yemen-kills-more-than-70-and-wounds-hundreds">Saudi-led airstrike in Yemen kills more than 70 and wounds hundreds</a> NPR: Saudi-led air strikes on Yemen have intensified and this week took a heavy toll. Aid groups say 70 people being held in detention by Houthi rebels were killed in an attack. 
- <p class="updated_time"> 05:10 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
