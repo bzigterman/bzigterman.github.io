@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
+ <p class="updated_time"> 08:43 AM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60092299?at_medium=RSS&at_campaign=KARANGA">Fans sue Universal Pictures over film without Ana de Armas</a> BBC: The comedy Yesterday has the actress in the trailer, but not the movie itself - to the anger of fans. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 08:21 AM CT, Jan. 22 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
- <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872933/french-diplomat-talks-about-the-stakes-of-the-ongoing-ukraine-conflict">French diplomat talks about the stakes of the ongoing Ukraine conflict</a> NPR: NPR's Mary Louise Kelly speaks with Emmanuel Bonne, the diplomatic and national security advisor to French President Emmanuel Macron, about Russia and Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872940/what-a-ban-from-the-global-messaging-system-for-banks-would-mean-for-russia">What a ban from the global messaging system for banks would mean for Russia</a> NPR: As Russia places troops on the Ukrainian border, there's a financial nuclear weapon that Europe and the U.S. can use: ban Russia from the system most banks use to transfer money internationally. 
  <p class="updated_time"> 04:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
- <p class="updated_time"> 03:42 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60091899?at_medium=RSS&at_campaign=KARANGA">Mother sues Meta and Snap over daughter's suicide</a> BBC: A Connecticut woman alleges her daughter's "extreme" addiction to social media led to her death. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
@@ -384,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
- <p class="updated_time"> 08:08 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/jan-6-committee-on-verge-of-obtaining-some-records-trump-has-tried-to-shield-527350">Jan. 6 committee on verge of obtaining some records Trump has tried to shield</a> Politico: The National Archives plans to release four pages on Wednesday despite the former president’s pending request at the Supreme Court to block the handover. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
