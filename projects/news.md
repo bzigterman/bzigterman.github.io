@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
+ <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
+ <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns deadly air strike on Yemen prison</a> BBC: A Saudi-led coalition denies it struck a detention centre on Friday, killing more than 70 people. 
  <p class="updated_time"> 10:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
- <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:03 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 09:41 PM CT, Jan. 21 </p> 
@@ -47,16 +51,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
- <p class="updated_time"> 04:29 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led air strike on Yemen prison</a> BBC: The air strike by a Saudi-led coalition on a detention centre on Friday killed more than 70 people. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872933/french-diplomat-talks-about-the-stakes-of-the-ongoing-ukraine-conflict">French diplomat talks about the stakes of the ongoing Ukraine conflict</a> NPR: NPR's Mary Louise Kelly speaks with Emmanuel Bonne, the diplomatic and national security advisor to French President Emmanuel Macron, about Russia and Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
- <p class="updated_time"> 04:03 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
  <p class="updated_time"> 04:01 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872940/what-a-ban-from-the-global-messaging-system-for-banks-would-mean-for-russia">What a ban from the global messaging system for banks would mean for Russia</a> NPR: As Russia places troops on the Ukrainian border, there's a financial nuclear weapon that Europe and the U.S. can use: ban Russia from the system most banks use to transfer money internationally. 
  <p class="updated_time"> 04:00 PM CT, Jan. 21 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:42 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
  <p class="updated_time"> 06:29 PM CT, Jan. 21 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
- <p class="updated_time"> 03:50 PM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074814640/march-for-life-protest-roe-v-wade">Thousands gather for the March for Life protest, as Supreme Court weighs Roe v. Wade</a> NPR: The annual march in Washington, D.C., occurs around the anniversary of the Roe decision. This year, as the Supreme Court considers overturning some of its protections, protesters say they feel hope. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
