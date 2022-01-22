@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
  <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
+ <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: Republican donors and fundraisers described a dearth of activity. 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
- <p class="updated_time"> 10:26 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/florida/story/2022/01/21/trump-calls-feud-with-desantis-fake-news-1406402">Trump calls feud with DeSantis ‘fake news’</a> Politico: “I get along great with Ron,” Trump said. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State’s remarks came after his highly anticipated meeting with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
@@ -296,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074621572/sinemas-filibuster-stance-only-adds-to-the-frustrations-of-arizona-progressives">Sinema's filibuster stance only adds to the frustrations of Arizona progressives</a> NPR: Many Arizona Democrats were already talking about primary challenges to Kyrsten Sinema, even before she reiterated her opposition to changing Senate rules, helping to doom voting rights legislation. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
- <p class="updated_time"> 12:01 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/california/whiteboard/2022/01/21/california-bill-would-allow-older-kids-to-be-vaccinated-without-parental-consent-1406369">California proposal would let older kids get vaccines without parental consent</a> Politico: A newly formed legislative vaccine caucus argues many teens would get vaccinated if not for their parents. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:26 PM CT, Jan. 20 </p> 
@@ -306,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 07:09 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/states/california/story/2022/01/20/our-fates-are-intertwined-abortion-rights-activists-warn-roes-fall-will-hit-blue-states-1406288">‘Our fates are intertwined’: abortion rights activists warn Roe’s fall will hit blue states</a> Politico: While a handful of Democratic states have recently advanced measures that protect abortion rights, many of those efforts have been watered down, abortion-rights advocates complain. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
