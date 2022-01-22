@@ -201,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/explainers-59644043?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics: Why are they controversial?</a> BBC: Winter Olympics host China is being criticised over its human rights record. 
  <p class="updated_time"> 05:11 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html">Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</a> NYT: Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting. 
- <p class="updated_time"> 04:02 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html">Predictions Favored Solar Over Wind Power. What Happened?</a> NYT: One lesson: Renewable technology benefits from early, consistent government support. 
 
 
 </details>
