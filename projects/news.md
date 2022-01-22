@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 AM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor-politician was unhurt in the collision, as photos show a large SUV on top of other cars. 
  <p class="updated_time"> 09:30 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60095057?at_medium=RSS&at_campaign=KARANGA">Search for monkey missing after US motorway crash</a> BBC: The monkey was being transported to a lab in Florida but escaped after the accident in Pennsylvania. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
+ <p class="updated_time"> 02:30 AM CT, Jan. 22 </p> 
+ <a href="https://www.wsj.com/articles/a-journey-along-afghanistans-main-highway-leads-through-a-country-in-transition-11642858210">A Journey Along Afghanistan's Main Highway Leads Through a Country in Transition</a> WSJ: While the Taliban limit personal freedoms and persecute critics, the end of fighting has also brought relief to many Afghans. 
  <p class="updated_time"> 01:14 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters, which Turkish officials say could mend relations between Washington and Ankara. 
- <p class="updated_time"> 11:22 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor's spokesman confirmed that he was driving the SUV involved in the crash. 
  <p class="updated_time"> 10:49 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60092463?at_medium=RSS&at_campaign=KARANGA">Kiribati goes into first lockdown after Covid flight cases</a> BBC: Until last week, the remote island nation of Kiribati had recorded just two Covid cases. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 03:06 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">Two Canadian Tourists Killed, Another Wounded at Mexican Resort Hotel</a> WSJ: Authorities say both victims had criminal records in Canada. 
- <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/germany-blocks-nato-ally-from-transferring-weapons-to-ukraine-11642790772">Germany Bars NATO Ally From Transferring Weapons to Ukraine</a> WSJ: The refusal to permit Estonia to transfer artillery that originated in Germany points to strains in the Western alliance over Ukraine. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
- <p class="updated_time"> 08:18 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/china-says-local-officials-underreported-deaths-in-flooding-11642792696">China Says Local Officials Underreported Deaths in Flooding</a> WSJ: The statement by China’s central government was a rare acknowledgment of officials concealing the true death toll in a disaster. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
@@ -167,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074647660/japan-is-ramping-up-covid-19-restrictions-as-omicron-cases-surge">Japan is ramping up COVID-19 restrictions as omicron cases surge</a> NPR: While many Japanese adults are fully vaccinated, few have gotten a booster shot, which has been a vital protection from the highly contagious omicron variant. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
- <p class="updated_time"> 11:30 PM CT, Jan. 20 </p> 
- <a href="https://www.wsj.com/articles/afghans-housed-at-military-base-in-kosovo-risk-being-denied-entry-to-u-s-for-alleged-terrorist-ties-11642761008">Afghans in Kosovo Risk Being Denied Entry to U.S. for Alleged Terrorist Ties</a> WSJ: A denial would potentially leave the Kabul evacuees without a home country; sending them back to Afghanistan could violate international law. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
