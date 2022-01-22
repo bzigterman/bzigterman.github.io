@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. lethal aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's frontline defenders should Russia choose to invade. 
  <p class="updated_time"> 10:10 AM CT, Jan. 22 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns deadly air strike on Yemen prison</a> BBC: A Saudi-led coalition denies it struck a detention centre on Friday, killing more than 70 people. 
  <p class="updated_time"> 10:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
- <p class="updated_time"> 10:03 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
  <p class="updated_time"> 09:20 PM CT, Jan. 21 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:04 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/biden-ukraine-russia-belarus-cyberattacks-527638">Biden’s new Ukraine quandary: What if Russia is outsourcing cyberattacks?</a> Politico: After 70 Ukrainian government websites were attacked, the U.S. government ponders what to do. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. lethal aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's frontline defenders should Russia choose to invade. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
@@ -221,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049511/week-in-politics-biden-hits-1-year-anniversary-in-office">Week in politics: Biden hits 1-year anniversary in office</a> NPR: Did President Joe Biden promise too much when he began his term a year ago? And what role did fellow Democrats, and the media, play in the current sense of disappointment? 
  <p class="updated_time"> 06:00 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes, successes and failures that were detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
+ <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes — and accomplishments — that were detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
  <p class="updated_time"> 05:12 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/jewish-leaders-urge-worship-attendance-after-hostage-siege-00000211">Jewish leaders urge worship attendance after hostage siege</a> Politico: Jewish leaders throughout the U.S. are calling for a strong turnout at this weekend’s worship services as a statement of defiance against antisemitic acts. 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 02:22 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/zoom-school-california-distance-learning-527504">‘Please, Daddy, no more Zoom school.’: California leaders reject distance learning</a> Politico: Gov. Gavin Newsom and Democratic leaders who allowed school shutdowns early in the pandemic are holding firm on keeping classrooms open. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
