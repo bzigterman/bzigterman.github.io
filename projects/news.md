@@ -74,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Zen Master and Political Reformer, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:54 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at Age 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
+ <a href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779">Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at 95</a> WSJ: He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
