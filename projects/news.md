@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 03:57 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/online-sports-betting-new-york-1406000">New Jersey leads the nation in online sports betting. Here comes New York.</a> Politico: Two weeks ago, New York became the largest state to allow for sports betting, ramping up the competition as more states fight for their share of the industry. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
@@ -258,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
  <p class="updated_time"> 11:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/pro-oz-group-mccormick-ad-527571">Pro-Oz group changes ‘You’re Fired’ ad against McCormick</a> Politico: The Pennsylvania Republican complained that the Senate campaign spot lied in saying that Trump had fired him. 
+ <p class="updated_time"> 10:26 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/21/trump-calls-feud-with-desantis-fake-news-1406402">Trump calls feud with DeSantis ‘fake news’</a> Politico: “I get along great with Ron,” Trump said. 
  <p class="updated_time"> 10:08 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/blinken-us-russia-talks-ukraine-527569">Blinken: U.S.-Russia to continue talks on Ukraine crisis</a> Politico: The secretary of State’s remarks came after his highly anticipated meeting with Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
@@ -302,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
+ <p class="updated_time"> 07:09 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/states/california/story/2022/01/20/our-fates-are-intertwined-abortion-rights-activists-warn-roes-fall-will-hit-blue-states-1406288">‘Our fates are intertwined’: abortion rights activists warn Roe’s fall will hit blue states</a> Politico: While a handful of Democratic states have recently advanced measures that protect abortion rights, many of those efforts have been watered down, abortion-rights advocates complain. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
@@ -310,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
+ <p class="updated_time"> 05:34 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/20/florida-gop-led-senate-sets-up-clash-with-desantis-over-congressional-maps-1406232">Florida GOP-led Senate sets up clash with DeSantis over congressional maps</a> Politico: The GOP-led Florida Legislature rarely breaks with DeSantis. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
