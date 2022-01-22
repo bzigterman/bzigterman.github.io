@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
  <p class="updated_time"> 04:29 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led airstrike on Yemen prison</a> BBC: The airstrike by a Saudi-led coalition on a detention centre on Friday killed more than 70 people. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns Saudi-led air strike on Yemen prison</a> BBC: The air strike by a Saudi-led coalition on a detention centre on Friday killed more than 70 people. 
  <p class="updated_time"> 04:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven barrels, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 04:18 PM CT, Jan. 21 </p> 
