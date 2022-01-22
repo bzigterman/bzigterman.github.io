@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
+ <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075049525/saudi-led-airstrike-in-yemen-kills-more-than-70-and-wounds-hundreds">Saudi-led airstrike in Yemen kills more than 70 and wounds hundreds</a> NPR: Saudi-led air strikes on Yemen have intensified and this week took a heavy toll. Aid groups say 70 people being held in detention by Houthi rebels were killed in an attack. 
  <p class="updated_time"> 07:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 06:53 AM CT, Jan. 22 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60072418?at_medium=RSS&at_campaign=KARANGA">The radio station bringing worried Tongans together</a> BBC: A community broadcaster in Brisbane, Australia, is bringing information and support following the tsunami. 
  <p class="updated_time"> 05:05 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html">This Ancient Brew Has Retro Appeal in South Korea</a> NYT: Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns. 
- <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
- <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
@@ -214,6 +214,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075049532/president-biden-is-replacing-federal-judges-at-a-record-breaking-pace">President Biden is replacing federal judges at a record-breaking pace</a> NPR: One area where President Biden has achieved success is getting his judicial appointees confirmed. Scott Simon talks with Hamilton College professor Gbemende Johnson about it. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075049511/week-in-politics-biden-hits-1-year-anniversary-in-office">Week in politics: Biden hits 1-year anniversary in office</a> NPR: Did President Joe Biden promise too much when he began his term a year ago? And what role did fellow Democrats, and the media, play in the current sense of disappointment? 
  <p class="updated_time"> 06:00 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1074976157/for-all-of-bidens-successes-or-failures-its-really-about-covid-stupid">For all of Biden's successes or failures, it's really about 'COVID, stupid'</a> NPR: No matter all the other problems and mistakes, successes or failures detailed and worked over in his exhaustive press conference, as goes COVID, likely so goes the Biden presidency. 
  <p class="updated_time"> 05:12 AM CT, Jan. 22 </p> 
@@ -330,12 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
- <p class="updated_time"> 04:50 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074466148/biden-russia-ukraine-minor-incursion">How Biden is trying to clean up his comments about Russia and Ukraine</a> NPR: President Biden said there was uncertainty among allies about how they would respond to a "minor incursion" by Russia into Ukraine. That led to alarm overseas — and a clean-up at home. 
- <p class="updated_time"> 04:07 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500461/sen-krysten-sinema-is-facing-more-and-more-pushback">Sen. Kyrsten Sinema is facing more and more pushback</a> NPR: Democratic Arizona Sen. Kyrsten Sinema has been facing pushback at home. It all escalated with national groups threatening not to support her over her voting rights and filibuster stances. 
- <p class="updated_time"> 03:42 PM CT, Jan. 20 </p> 
- <a href="https://www.npr.org/2022/01/20/1074500430/what-russian-diplomats-are-saying-about-the-situation-with-ukraine">What Russian diplomats are saying about the situation with Ukraine</a> NPR: While the U.S. sounds the alarm about the threat to Ukraine posed by tens of thousands of Russian troops on the border, Russia says it is NATO's military build-up that's stoking tensions. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
