@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor's spokesman confirmed that he was driving the SUV involved in the crash. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 08:18 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/china-says-local-officials-underreported-deaths-in-flooding-11642792696">China Says Local Officials Underreported Deaths in Flooding</a> WSJ: The statement by China’s central government was a rare acknowledgment of officials concealing the true death toll in a disaster. 
- <p class="updated_time"> 08:16 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60083958?at_medium=RSS&at_campaign=KARANGA">Hanifa Abubakar: Nigeria outrage at Kano schoolgirl killing</a> BBC: Hanifa Abubakar was allegedly kidnapped for ransom and then killed by the owner of her school. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
  <p class="updated_time"> 07:21 AM CT, Jan. 21 </p> 
