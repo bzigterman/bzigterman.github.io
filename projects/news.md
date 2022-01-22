@@ -218,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 03:57 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/online-sports-betting-new-york-1406000">New Jersey leads the nation in online sports betting. Here comes New York.</a> Politico: Two weeks ago, New York became the largest state to allow for sports betting, ramping up the competition as more states fight for their share of the industry. 
+ <p class="updated_time"> 02:06 AM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/eric-adams-guns-crackdown-00000024">Adams calls on feds to crackdown on guns after NYPD officer killed</a> Politico: The incident is an early inflection point for the new mayor who campaigned on reducing gun violence. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
  <p class="updated_time"> 10:20 PM CT, Jan. 21 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
  <p class="updated_time"> 06:01 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1073162105/biden-limits-ice-immigrant-advocates">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But so far, advocates say the reality is falling short of the rhetoric. 
- <p class="updated_time"> 05:00 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/biden-turnaround-plan-527556">Cedric Richmond on Biden's turnaround plan</a> Politico: On this week’s show, Playbook author Eugene Daniels talks to Cedric Richmond, Director of the White House Office of Public Engagement and White House correspondent Laura Barrón-López about how the Biden Administration is trying to rebound. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/cartoons/2022/01/21/the-nations-cartoonists-on-the-week-in-politics-000279">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
