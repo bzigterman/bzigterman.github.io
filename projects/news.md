@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
  <p class="updated_time"> 01:04 PM CT, Jan. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Jan. 22 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
- <p class="updated_time"> 05:34 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/states/florida/story/2022/01/20/florida-gop-led-senate-sets-up-clash-with-desantis-over-congressional-maps-1406232">Florida GOP-led Senate sets up clash with DeSantis over congressional maps</a> Politico: The GOP-led Florida Legislature rarely breaks with DeSantis. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
  <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
