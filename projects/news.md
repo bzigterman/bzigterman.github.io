@@ -155,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
- <p class="updated_time"> 09:56 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/who-kids-covid-vaccine.html">W.H.O. Panel Endorses Pfizer Vaccine for Children 5 to 11</a> NYT: Advisers endorsed the wider use of vaccines for children and boosters for high-risk people, bringing its guidance closer to that of most wealthy nations. 
  <p class="updated_time"> 09:11 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html">Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</a> NYT: A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
