@@ -68,9 +68,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Are Two Weeks Away, but Sponsors Are Keeping Low Profile</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
- <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Are Two Weeks Away, but Sponsors Are Keeping Low Profile</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
  <p class="updated_time"> 12:51 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/saudis-reopen-elementary-schools-after-one-of-the-worlds-longest-covid-shutdowns-11642938685">Saudis Reopen Elementary Schools After One of the World's Longest Covid Shutdowns</a> WSJ: Millions of Saudi children began returning to elementary classrooms for the first time in nearly two years, a period of remote learning that was among the world’s longest and that angered parents. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/democrats-biden-midterms-voting-rights.html">What Mattered This Week</a> NYT: President Biden rebooted. Democrats feuded. And Republicans watched it all with glee. 
  <p class="updated_time"> 05:23 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the Justice Department’s task force on election threats. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
- <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/democrats-biden-midterms-voting-rights.html">What Mattered This Week</a> NYT: President Biden rebooted. Democrats feuded. And Republicans watched it all with glee. 
  <p class="updated_time"> 05:46 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/jan-6-fake-trump-electors.html">Jan. 6 Panel and State Officials Seek Answers on Fake Trump Electors</a> NYT: Pressure is mounting on the Justice Department to investigate bogus electors who claimed that Donald J. Trump defeated Joseph R. Biden Jr. in their states. 
  <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
