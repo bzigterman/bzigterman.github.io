@@ -35,10 +35,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 04:39 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">U.K. Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
+ <p class="updated_time"> 04:04 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/foreign-executives-in-isolated-hong-kong-head-for-exit-sick-of-zero-covid-curbs-11642950280">Foreign Executives in Isolated Hong Kong Head for Exit, Sick of Zero-Covid Curbs</a> WSJ: Flight bans, lengthy quarantine stays for arrivals and repeated school closures are chipping away at the city’s status as a top business hub. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
+ <p class="updated_time"> 03:29 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-backed-forces-struggle-to-contain-islamic-state-in-battle-over-syrian-prison-11642948169">U.S.-Backed Forces Struggle to Contain Islamic State in Battle Over Syrian Prison</a> WSJ: The militant group’s prison attack, which began last week, was one of the most complex and brazen Islamic State operations in Syria and Iraq in the last three years—involving sleeper cells, suicide bombers and an insurrection inside the prison. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
@@ -119,10 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
- <p class="updated_time"> 02:30 AM CT, Jan. 22 </p> 
- <a href="https://www.wsj.com/articles/a-journey-along-afghanistans-main-highway-leads-through-a-country-in-transition-11642858210">A Journey Along Afghanistan's Main Highway Leads Through a Country in Transition</a> WSJ: While the Taliban limit personal freedoms and persecute critics, the end of fighting has also brought relief to many Afghans. 
- <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">Blinken: 'We're prepared either way' to counter Russian aggression</a> Politico: He again warned of consequences if there is a Russian invasion of Ukraine. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
