@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:13 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
+ <p class="updated_time"> 07:11 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60103015?at_medium=RSS&at_campaign=KARANGA">NZ PM Ardern calls off wedding amid Omicron outbreak</a> BBC: New Zealand's Prime Minister Jacinda Ardern has cancelled her wedding after announcing new Covid restrictions. 
+ <p class="updated_time"> 07:08 AM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075168714/why-russian-president-vladimir-putin-is-escalating-the-threat-of-war-with-ukrain">Why Russian President Vladimir Putin is escalating the threat of war with Ukraine</a> NPR: Sarah McCammon talks with U.S. national security expert Andrea Kendall-Taylor about what is motivating Russian President Vladimir Putin as he escalates the threat of war with Ukraine. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Britain says Putin has plans to install a pro-Moscow leader in Ukraine</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
  <p class="updated_time"> 06:40 AM CT, Jan. 23 </p> 
@@ -21,12 +27,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 04:39 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">U.K. Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
- <p class="updated_time"> 04:28 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated with the Northern Lights. 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60067868?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Long journey home to rebel-run Donetsk</a> BBC: One resident returns to their home city in rebel-held east Ukraine, as tensions with Russia rise. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
- <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60078949?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... China's zero-Covid dilemma</a> BBC: Ros Atkins examines China's Covid elimination strategy, while others are learning to live with the virus. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
  <p class="updated_time"> 04:42 PM CT, Jan. 21 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872862/indias-supreme-court-steps-in-after-hindu-leaders-call-for-violence-against-musl">India's Supreme Court steps in after Hindu leaders call for violence against Muslims</a> NPR: Video from a meeting in northern India shows Hindu leaders calling for attacks on Muslims. The crowd included politicians with ties to Prime Minister Modi. Two men have been arrested for hate speech. 
- <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 06:47 AM CT, Jan. 23 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
- <p class="updated_time"> 04:11 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074664366/democratic-rep-tim-ryan-thinks-its-time-for-democrats-to-reset-their-agenda">Democratic Rep. Tim Ryan thinks it's time for Democrats to reset their agenda</a> NPR: NPR's Debbie Elliott talks to Democratic Rep. Tim Ryan of Ohio about the issues facing the Democrats' agenda, and why President Biden can't seem to get a win on Capitol Hill. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
  <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
