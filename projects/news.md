@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">Blinken: 'We're prepared either way' to counter Russian aggression</a> Politico: He again warned of consequences if there is a Russian invasion of Ukraine. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been crippling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/beijing-district-mass-virus-testing-olympics-00000506">Beijing district orders mass virus testing ahead of Olympics</a> Politico: The ruling Communist Party is stepping up enforcement of its “zero tolerance” strategy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 01:19 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/trump-appointee-blocks-biden-federal-worker-vaccine-mandate-527592">Trump appointee blocks Biden federal worker vaccine mandate</a> Politico: The judge ruled that opponents of Biden's vaccination mandate for federal employees were likely to succeed at trial and blocked the government from enforcing the requirement. 
- <p class="updated_time"> 12:54 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/facebook-lobbying-spending-2021-527577">Facebook's lobbying spending surged to a record in 2021</a> Politico: The record lobbying surge — more than $20 million for the year — came as the company faced the most serious political crisis in its history. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/21/politics/kevin-mccarthy-speaker-gop-conference/index.html">Kevin McCarthy's path to speakership enters final but treacherous leg</a> CNN: Kevin McCarthy was done being nice. The House Republican leader cast off his typically sunny demeanor during a December 8 meeting of the GOP conference to deliver a stern warning to his most raucous members: Quit trying to hold your vote for speaker over my head. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
- <p class="updated_time"> 06:01 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1073162105/biden-limits-ice-immigrant-advocates">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But so far, advocates say the reality is falling short of the rhetoric. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
