@@ -112,8 +112,6 @@ permalink: /projects/news/
  <p class="updated_time"> 02:30 AM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/a-journey-along-afghanistans-main-highway-leads-through-a-country-in-transition-11642858210">A Journey Along Afghanistan's Main Highway Leads Through a Country in Transition</a> WSJ: While the Taliban limit personal freedoms and persecute critics, the end of fighting has also brought relief to many Afghans. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters. 
- <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
@@ -208,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/beijing-district-mass-virus-testing-olympics-00000506">Beijing district orders mass virus testing ahead of Olympics</a> Politico: The ruling Communist Party is stepping up enforcement of its “zero tolerance” strategy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
@@ -284,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
- <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
