@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 10:06 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
- <p class="updated_time"> 08:49 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 90 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
