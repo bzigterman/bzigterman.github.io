@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">Blinken: 'We're prepared either way' to counter Russian aggression</a> Politico: He again warned of consequences if there is a Russian invasion of Ukraine. 
+ <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">Blinken: 'We're prepared either way' to counter Russian aggression</a> Politico: Whether the U.S. should have a strong preemptive response was debated Sunday. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been crippling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
@@ -244,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
  <p class="updated_time"> 12:59 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/business/economy/inflation-biden-pandemic.html">Rapid Inflation Fuels Debate Over What’s to Blame: Pandemic or Policy</a> NYT: The White House is emphasizing that inflation is worldwide. Economists say that’s true — but stimulus-spurred consumer buying is also to blame. 
- <p class="updated_time"> 11:04 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/biden-ukraine-russia-belarus-cyberattacks-527638">Suspected Belarus ties to Ukrainian hacks complicate Biden’s quandary</a> Politico: After 70 Ukrainian government websites were attacked, the U.S. government ponders what to do. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. military aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's front-line defenders should Russia choose to invade. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
@@ -328,6 +326,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
