@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:32 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia on Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its aim to be a player in Europe’s security crisis — even as scandals besiege Prime Minister Boris Johnson. 
  <p class="updated_time"> 11:29 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
  <p class="updated_time"> 11:22 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the campaign against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 11:03 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075179985/ukraine-russia-border-britain-allegations-coup">Ukraine crisis deepens after U.K. says Russia may try to install a pro-Kremlin leader</a> NPR: The situation along the Russia-Ukraine border remains tense, with thousands of Russian troops amassed just across the divide and Ukraine preparing for a possible invasion. 
- <p class="updated_time"> 11:01 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 10:21 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
