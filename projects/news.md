@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075199404/yevheniy-murayev-russia-ukraine-british-foreign-office">Who is Yevheniy Murayev, the man the U.K. says Russia wants to install in Ukraine?</a> NPR: The British government named Murayev as one of Russia's top picks to lead Ukraine were it to invade the country. Murayev, a critic of Ukraine's pro-Western government, has dismissed the claim. 
  <p class="updated_time"> 01:13 PM CT, Jan. 23 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Threat of Russian invasion escalates as both sides amass troops at Ukraine border</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
  <p class="updated_time"> 06:48 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-backed-forces-struggle-to-contain-islamic-state-in-battle-over-syrian-prison-11642948169">U.S.-Backed Forces Struggle to Contain Islamic State in Battle Over Syrian Prison</a> WSJ: The militant group’s prison attack, which began last week, was one of the most complex and brazen Islamic State operations in Syria and Iraq in the last three years—involving sleeper cells, suicide bombers and an insurrection inside the prison. 
- <p class="updated_time"> 05:28 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
@@ -204,7 +204,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:41 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 02:52 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
+ <p class="updated_time"> 02:47 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/william-barr-jan6-committee-thompson-00000605">Former Attorney General William Barr has spoken to Jan. 6 panel, chair says</a> Politico: Rep. Bennie Thompson said the committee had also spoken with Pentagon officials about a draft executive order aimed at seizing voting machines. 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
- <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
