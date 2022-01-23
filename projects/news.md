@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
+ <p class="updated_time"> 04:39 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">U.K. Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
  <p class="updated_time"> 04:28 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
- <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
- <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
  <p class="updated_time"> 01:45 AM CT, Jan. 21 </p> 
