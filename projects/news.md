@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60100369?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand PM Ardern cancels wedding amid Omicron wave</a> BBC: New restrictions are set to be introduced after nine Omicron cases were confirmed in the country. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
  <p class="updated_time"> 02:30 AM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/a-journey-along-afghanistans-main-highway-leads-through-a-country-in-transition-11642858210">A Journey Along Afghanistan's Main Highway Leads Through a Country in Transition</a> WSJ: While the Taliban limit personal freedoms and persecute critics, the end of fighting has also brought relief to many Afghans. 
- <p class="updated_time"> 01:14 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
