@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
+ <p class="updated_time"> 10:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso soldiers at bases in Ouagadougou</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
+ <p class="updated_time"> 09:55 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the campaign against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 08:24 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60104010?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel at Amsterdam airport</a> BBC: A man is discovered alive in the wheel section of a plane that landed in Amsterdam from South Africa. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
@@ -23,12 +31,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168714/why-russian-president-vladimir-putin-is-escalating-the-threat-of-war-with-ukrain">Why Russian President Vladimir Putin is escalating the threat of war with Ukraine</a> NPR: Sarah McCammon talks with U.S. national security expert Andrea Kendall-Taylor about what is motivating Russian President Vladimir Putin as he escalates the threat of war with Ukraine. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Britain says Putin has plans to install a pro-Moscow leader in Ukraine</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
- <p class="updated_time"> 06:40 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
  <p class="updated_time"> 05:28 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
- <p class="updated_time"> 05:12 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military bases hit by heavy gunfire</a> BBC: The government denies reports of a coup attempt or that the president had been detained. 
+ <p class="updated_time"> 05:08 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-backed-forces-struggle-to-contain-islamic-state-in-battle-over-syrian-prison-11642948169">U.S.-Backed Forces Struggle to Contain Islamic State in Battle Over Syrian Prison</a> WSJ: The militant group’s prison attack, which began last week, was one of the most complex and brazen Islamic State operations in Syria and Iraq in the last three years—involving sleeper cells, suicide bombers and an insurrection inside the prison. 
  <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
- <p class="updated_time"> 03:29 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-backed-forces-struggle-to-contain-islamic-state-in-battle-over-syrian-prison-11642948169">U.S.-Backed Forces Struggle to Contain Islamic State in Battle Over Syrian Prison</a> WSJ: The militant group’s prison attack, which began last week, was one of the most complex and brazen Islamic State operations in Syria and Iraq in the last three years—involving sleeper cells, suicide bombers and an insurrection inside the prison. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
- <p class="updated_time"> 10:05 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
  <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
- <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
@@ -210,6 +210,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:19 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/23/politico-turns-15-00000032">POLITICO turns 15</a> Politico Playbook: And Arizona Democrats censure Sen. Kyrsten Sinema. 
+ <p class="updated_time"> 11:04 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/sanders-sinema-arizona-democrats-censure-00000544">Sanders backs Arizona Democrats' censure of Sinema</a> Politico: “I think what the Arizona Democrats did was exactly right,” he said. 
+ <p class="updated_time"> 10:56 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/ardern-new-zealand-covid-wedding-00000554">Omicron spreads in New Zealand, spoiling prime minister’s wedding plans</a> Politico: Jacinda Ardern was to have been married next weekend. 
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
@@ -331,8 +337,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
- <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
- <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
  <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
- <p class="updated_time"> 10:20 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/clyburn-election-reform-bills-527201">Clyburn on election reform bills: We're not giving up</a> Politico: “People of goodwill are going to break their silence and help us win this battle,” he said. 
 
 
 </details>
