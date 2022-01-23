@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
  <p class="updated_time"> 07:33 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168742/buckingham-palace-removes-prince-andrews-titles-in-wake-of-sexual-assault-lawsui">Buckingham Palace removes Prince Andrew's titles in wake of sexual assault lawsuit</a> NPR: Sarah McCammon speaks to Sonia Sodha from 'The Guardian' about the sexual abuse lawsuit against Prince Andrew and its impact on the institution of Britain's royal family. 
  <p class="updated_time"> 07:28 AM CT, Jan. 23 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html">U.N. Approves Israeli Measure to Condemn Holocaust Denial</a> NYT: The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html">80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</a> NYT: As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States. 
- <p class="updated_time"> 11:27 AM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/australia/novak-djokovic-australia-expulsion.html">Australia Releases Judges’ Reasoning on Djokovic Expulsion</a> NYT: The ruling ended the tennis star bid for a 21st Grand Slam trophy. 
  <p class="updated_time"> 10:31 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 04:54 AM CT, Jan. 20 </p> 
