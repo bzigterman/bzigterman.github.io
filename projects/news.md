@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Sponsors Caught Between Beijing, U.S.</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
+ <p class="updated_time"> 12:51 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/saudis-reopen-elementary-schools-after-one-of-the-worlds-longest-covid-shutdowns-11642938685">Saudis Reopen Elementary Schools After One of the World's Longest Covid Shutdowns</a> WSJ: Millions of Saudi children began returning to elementary classrooms for the first time in nearly two years, a period of remote learning that was among the world’s longest and that angered parents. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 12:40 AM CT, Jan. 23 </p> 
