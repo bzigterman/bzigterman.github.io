@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
+ <p class="updated_time"> 12:40 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60098576?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: Iranian-Briton to start hunger strike in prison</a> BBC: Anoosheh Ashoori from London hopes the strike will bring attention to those being held in Iran. 
  <p class="updated_time"> 11:39 PM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/omicron-cases-put-new-zealand-on-red-alert-leader-ardern-delays-wedding-11642934342">Omicron Cases Put New Zealand on Red Alert, Leader Ardern Cancels Wedding</a> WSJ: The government is moving to limit the sizes of gatherings as authorities warn the Omicron variant of Covid-19 is circulating in country’s biggest city. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/f-16-sale-could-mend-u-s-turkey-ties-but-tension-with-russia-intrudes-11642847406">F-16 Sale Could Mend U.S., Turkey Ties, but Tension With Russia Intrudes</a> WSJ: Members of Congress who object to Erdogan’s relationship with Putin resist Turkey’s potential purchase of the jet fighters. 
  <p class="updated_time"> 11:30 PM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402">On Scotland's Haunting Coast, a Village Dreams of Space</a> WSJ: A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll. 
- <p class="updated_time"> 10:49 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60092463?at_medium=RSS&at_campaign=KARANGA">Kiribati goes into first lockdown after Covid flight cases</a> BBC: Until last week, the remote island nation of Kiribati had recorded just two Covid cases. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
@@ -328,6 +328,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
