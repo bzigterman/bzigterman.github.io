@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 70 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60082119?at_medium=RSS&at_campaign=KARANGA">Sudan protesters: Ready to die for freedom</a> BBC: Those opposed to the coup say they will stay on the streets until the generals leave power. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor-politician was unhurt in the collision, as photos show a large SUV on top of other cars. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
- <p class="updated_time"> 08:43 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092299?at_medium=RSS&at_campaign=KARANGA">Fans sue Universal Pictures over film without Ana de Armas</a> BBC: The comedy Yesterday has the actress in the trailer, but not the movie itself - to the anger of fans. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
