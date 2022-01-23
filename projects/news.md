@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60082119?at_medium=RSS&at_campaign=KARANGA">Sudan protesters: Ready to die for freedom</a> BBC: Those opposed to the coup say they will stay on the streets until the generals leave power. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099931?at_medium=RSS&at_campaign=KARANGA">Sedef Kabas: Turkish journalist jailed for reciting proverb</a> BBC: Sedef Kabas denies using the proverb to insult President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
@@ -15,6 +17,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/22/1075110846/samoa-kiribati-covid-lockdowns-international-travel">Kiribati and Samoa implement rare lockdowns after travelers test positive</a> NPR: Dozens of travelers from Fiji tested positive in Kiribati, prompting the island nation to implement its first lockdown. Samoa's order followed a cluster of cases in airline passengers from Australia. 
  <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
+ <p class="updated_time"> 06:57 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60086567?at_medium=RSS&at_campaign=KARANGA">Finding love as a trans woman</a> BBC: Trans woman Daniella McDonald had bad experiences dating men until she met Josh - but thinks attitudes are slowly changing. 
+ <p class="updated_time"> 06:57 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated with the Northern Lights. 
  <p class="updated_time"> 06:27 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 06:17 PM CT, Jan. 22 </p> 
@@ -95,16 +101,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60088680?at_medium=RSS&at_campaign=KARANGA">Gen Z marchers praying for an end to US abortion</a> BBC: The young activists are optimistic their movement's long-cherished goal may be within reach. 
  <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074977884/thich-nhat-hanh-dead">Thich Nhat Hanh, Buddhist monk and peace activist, dies at 95</a> NPR: Nhat Hanh distilled Buddhist teachings on compassion and suffering into easily grasped guidance over a lifetime dedicated to working for peace. 
- <p class="updated_time"> 07:06 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60079770?at_medium=RSS&at_campaign=KARANGA">Udupi hijab issue: The Indian girls fighting to wear hijab in college</a> BBC: Six Muslim students say they are not being allowed to attend classes because they wear headscarves. 
  <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60082786?at_medium=RSS&at_campaign=KARANGA">Yemen rebel attack on UAE throws challenge to the region</a> BBC: A fatal drone and missile strike raises questions about the war and security across the Middle East. 
  <p class="updated_time"> 06:57 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60083684?at_medium=RSS&at_campaign=KARANGA">Kenya's River Yala: Mystery and heartbreak of the dead bodies</a> BBC: At least 19 corpses have been found dumped in western Kenya and relatives want to know how they died. 
  <p class="updated_time"> 06:56 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60067868?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Long journey home to rebel-run Donetsk</a> BBC: One resident returns to their home city in rebel-held east Ukraine, as tensions with Russia rise. 
- <p class="updated_time"> 06:39 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60076150?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 15 - 21 January 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074684145/us-russia-ukraine-talks-lavrov-blinken">The U.S. and Russia are talking, and Ukraine's fate hangs in the balance</a> NPR: Secretary of State Antony Blinken and his Russian counterpart, Sergey Lavrov, ended talks in Geneva with no major  breakthroughs but an agreement to keep talking. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
- <p class="updated_time"> 05:03 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
@@ -199,8 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html">Anger in Ireland Over Teacher’s Murder</a> NYT: Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety. 
  <p class="updated_time"> 08:23 AM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html">Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</a> NYT: When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said. 
- <p class="updated_time"> 05:58 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/explainers-59644043?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics: Why are they controversial?</a> BBC: Winter Olympics host China is being criticised over its human rights record. 
+ <p class="updated_time"> 04:54 AM CT, Jan. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59982702?at_medium=RSS&at_campaign=KARANGA">Inflation: Seven reasons the cost of living is going up around the world</a> BBC: Global inflation - the rate at which prices rise - is at its highest since 2008. Here are seven reasons why. 
 
 
 </details>
@@ -274,6 +274,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 08:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Lets Texas Abortion Law Stay in Effect, for Now</a> NYT: In dissent, the three liberal justices said the majority, by allowing a time-consuming legal detour, had created “a disaster for the rule of law.” 
- <p class="updated_time"> 07:09 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/states/california/story/2022/01/20/our-fates-are-intertwined-abortion-rights-activists-warn-roes-fall-will-hit-blue-states-1406288">‘Our fates are intertwined’: abortion rights activists warn Roe’s fall will hit blue states</a> Politico: While a handful of Democratic states have recently advanced measures that protect abortion rights, many of those efforts have been watered down, abortion-rights advocates complain. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
