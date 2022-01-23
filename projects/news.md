@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60104010?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel at Amsterdam airport</a> BBC: A man is discovered alive in the wheel section of a plane that landed in Amsterdam from South Africa. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
  <p class="updated_time"> 07:33 AM CT, Jan. 23 </p> 
