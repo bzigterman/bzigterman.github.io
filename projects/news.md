@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/william-barr-jan6-committee-thompson-00000605">Former Attorney General William Barr has spoken to Jan. 6 panel, chair says</a> Politico: Rep. Bennie Thompson said the committee had also spoken with Pentagon officials about a draft executive order aimed at seizing voting machines. 
  <p class="updated_time"> 11:19 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/23/politico-turns-15-00000032"> POLITICO turns 15</a> Politico Playbook: And Arizona Democrats censure Sen. Kyrsten Sinema. 
  <p class="updated_time"> 11:04 AM CT, Jan. 23 </p> 
@@ -298,16 +300,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
- <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815001/free-covid-test-kits-phone-number">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
  <p class="updated_time"> 01:48 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815838/federal-court-blocks-bidens-vaccine-mandate-for-federal-workers">Federal court blocks Biden's vaccine mandate for federal workers</a> NPR: A federal judge in Texas has blocked President Biden's vaccine mandate for federal workers nationwide. The requirement had been in place since November. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
- <p class="updated_time"> 01:19 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/trump-appointee-blocks-biden-federal-worker-vaccine-mandate-527592">Trump appointee blocks Biden federal worker vaccine mandate</a> Politico: The judge ruled that opponents of Biden's vaccination mandate for federal employees were likely to succeed at trial and blocked the government from enforcing the requirement. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
