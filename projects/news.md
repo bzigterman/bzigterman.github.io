@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">Blinken: 'We're prepared either way' to counter Russian aggression</a> Politico: Whether the U.S. should have a strong preemptive response was debated Sunday. 
+ <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">State Department urges Americans to leave Ukraine</a> Politico: Tony Blinken said the U.S. is prepared to counter whatever Russia might do. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been crippling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
