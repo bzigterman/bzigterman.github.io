@@ -19,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 08:49 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 90 people have been killed in the fighting between militants and Kurdish-led forces. 
+ <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60082119?at_medium=RSS&at_campaign=KARANGA">Sudan protesters: Ready to die for freedom</a> BBC: Those opposed to the coup say they will stay on the streets until the generals leave power. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
  <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 09:20 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60088680?at_medium=RSS&at_campaign=KARANGA">Gen Z marchers praying for an end to US abortion</a> BBC: The young activists are optimistic their movement's long-cherished goal may be within reach. 
  <p class="updated_time"> 07:18 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074977884/thich-nhat-hanh-dead">Thich Nhat Hanh, Buddhist monk and peace activist, dies at 95</a> NPR: Nhat Hanh distilled Buddhist teachings on compassion and suffering into easily grasped guidance over a lifetime dedicated to working for peace. 
  <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
@@ -263,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:26 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling for Native Americans in Oklahoma</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
@@ -326,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
- <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
