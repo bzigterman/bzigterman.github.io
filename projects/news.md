@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:26 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
  <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/22/1075110846/samoa-kiribati-covid-lockdowns-international-travel">Kiribati and Samoa implement rare lockdowns after travelers test positive</a> NPR: Dozens of travelers from Fiji tested positive in Kiribati, prompting the island nation to implement its first lockdown. Samoa's order followed a cluster of cases in airline passengers from Australia. 
- <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 06:57 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60086567?at_medium=RSS&at_campaign=KARANGA">Finding love as a trans woman</a> BBC: Trans woman Daniella McDonald had bad experiences dating men until she met Josh - but thinks attitudes are slowly changing. 
  <p class="updated_time"> 06:57 PM CT, Jan. 22 </p> 
