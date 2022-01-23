@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075168742/buckingham-palace-removes-prince-andrews-titles-in-wake-of-sexual-assault-lawsui">Buckingham Palace removes Prince Andrew's titles in wake of sexual assault lawsuit</a> NPR: Sarah McCammon speaks to Sonia Sodha from 'The Guardian' about the sexual abuse lawsuit against Prince Andrew and its impact on the institution of Britain's royal family. 
+ <p class="updated_time"> 07:28 AM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075168735/in-pakistan-big-trucks-are-the-perfect-canvas-for-intricate-murals">In Pakistan, big trucks are the perfect canvas for intricate murals</a> NPR: We take a look at the colorful Pakistani practice of turning big transport trucks into wildly bright works of art. 
  <p class="updated_time"> 07:13 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 07:11 AM CT, Jan. 23 </p> 
@@ -141,14 +145,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872933/french-diplomat-talks-about-the-stakes-of-the-ongoing-ukraine-conflict">French diplomat talks about the stakes of the ongoing Ukraine conflict</a> NPR: NPR's Mary Louise Kelly speaks with Emmanuel Bonne, the diplomatic and national security advisor to French President Emmanuel Macron, about Russia and Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
- <p class="updated_time"> 04:01 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074872940/what-a-ban-from-the-global-messaging-system-for-banks-would-mean-for-russia">What a ban from the global messaging system for banks would mean for Russia</a> NPR: As Russia places troops on the Ukrainian border, there's a financial nuclear weapon that Europe and the U.S. can use: ban Russia from the system most banks use to transfer money internationally. 
  <p class="updated_time"> 04:00 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
- <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074872862/indias-supreme-court-steps-in-after-hindu-leaders-call-for-violence-against-musl">India's Supreme Court steps in after Hindu leaders call for violence against Muslims</a> NPR: Video from a meeting in northern India shows Hindu leaders calling for attacks on Muslims. The crowd included politicians with ties to Prime Minister Modi. Two men have been arrested for hate speech. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
