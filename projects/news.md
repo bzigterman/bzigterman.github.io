@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075121304/britain-says-russia-is-seeking-to-replace-the-ukraine-government">Britain says Russia is seeking to replace the Ukraine government</a> NPR: Moscow has massed tens of thousands of troops near the Ukraine border, leading to fears of an invasion. The U.K. said it has intelligence that Russia plans to install a pro-Russia rule in Ukraine. 
- <p class="updated_time"> 06:09 PM CT, Jan. 22 </p> 
+ <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60099931?at_medium=RSS&at_campaign=KARANGA">Sedef Kabas: Turkish journalist jailed for reciting proverb</a> BBC: Sedef Kabas denies using the proverb to insult President Recep Tayyip Erdogan. 
+ <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
+ <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/22/1075110846/samoa-kiribati-covid-lockdowns-international-travel">Kiribati and Samoa implement rare lockdowns after travelers test positive</a> NPR: Dozens of travelers from Fiji tested positive in Kiribati, prompting the island nation to implement its first lockdown. Samoa's order followed a cluster of cases in airline passengers from Australia. 
+ <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 06:17 PM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075121304/britain-russia-replace-ukraine-government">Britain says Russia is planning to install a pro-Moscow leader in Ukraine</a> NPR: The U.K. said its claim is based on an intelligence assessment. Russia has massed tens of thousands of troops near the Ukraine border, stoking fears of an invasion. 
  <p class="updated_time"> 06:01 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-60085074?at_medium=RSS&at_campaign=KARANGA">Fundraiser, 83, buys then delivers ambulances across Europe</a> BBC: John Shackleton, who has been fundraising for more than 30 years, says his age won't stop him. 
  <p class="updated_time"> 05:42 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
- <p class="updated_time"> 04:31 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. military aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's front-line defenders should Russia choose to invade. 
  <p class="updated_time"> 10:10 AM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor-politician was unhurt in the collision, as photos show a large SUV on top of other cars. 
- <p class="updated_time"> 09:30 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60095057?at_medium=RSS&at_campaign=KARANGA">Search for monkey missing after US motorway crash</a> BBC: The monkey was being transported to a lab in Florida but escaped after the accident in Pennsylvania. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 08:43 AM CT, Jan. 22 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27469244?at_medium=RSS&at_campaign=KARANGA">The shy man behind the hard-rocking extrovert</a> BBC: The singer who popularised a melodramatic bombastic style of rock music. 
  <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
  <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
- <p class="updated_time"> 04:21 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
@@ -206,9 +208,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:07 PM CT, Jan. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:41 PM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/russia-seeking-replace-ukraine-government-00000471">Britain says Russia seeking to replace Ukraine government</a> Politico: The U.K. government made the claim based on an intelligence assessment, without providing evidence to back it up. 
- <p class="updated_time"> 06:09 PM CT, Jan. 22 </p> 
+ <a href="https://www.politico.com/news/2022/01/22/russia-seeking-replace-ukraine-government-00000471">Britain says Russia seeking to replace Ukraine government</a> Politico: It comes amid a war of words between Moscow and the West over Russia’s designs on Ukraine. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote">Arizona Democrats have censured Kyrsten Sinema over her pro-filibuster vote </a> NPR: The symbolic action comes as Sinema has come under criticism from progressive groups in Arizona after she voted to uphold the filibuster in the Senate. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
- <p class="updated_time"> 01:04 PM CT, Jan. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/business/economy/inflation-biden-pandemic.html">Rapid Inflation Fuels Debate Over What’s to Blame: Pandemic or Policy</a> NYT: The White House is emphasizing that inflation is worldwide. Economists say that’s true — but stimulus-spurred consumer buying is also to blame. 
  <p class="updated_time"> 11:04 AM CT, Jan. 22 </p> 
