@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/foreign-executives-in-isolated-hong-kong-head-for-exit-sick-of-zero-covid-curbs-11642950280">Foreign Executives in Isolated Hong Kong Head for Exit, Sick of Zero-Covid Curbs</a> WSJ: Flight bans, lengthy quarantine stays for arrivals and repeated school closures are chipping away at the city’s status as a top business hub. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
+ <p class="updated_time"> 03:46 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/omicron-pressure-eases-in-some-u-s-states-but-infections-remain-high-11642945822">Omicron Pressure Eases in Some U.S. States, but Infections Remain High</a> WSJ: Pressure has begun to ease on U.S. hospitals hit by the Omicron variant of the coronavirus, while some European governments took steps to reopen activities that were shut during the worst of the wave. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 12:40 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60098576?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: Iranian-Briton starts hunger strike in prison</a> BBC: Anoosheh Ashoori from London hopes the strike will bring attention to those being held in Iran. 
- <p class="updated_time"> 11:39 PM CT, Jan. 22 </p> 
- <a href="https://www.wsj.com/articles/omicron-cases-put-new-zealand-on-red-alert-leader-ardern-delays-wedding-11642934342">Omicron Cases Put New Zealand on Red Alert, Leader Ardern Cancels Wedding</a> WSJ: The government is moving to limit the sizes of gatherings as authorities warn the Omicron variant of Covid-19 is circulating in country’s biggest city. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60100369?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand PM Ardern cancels wedding amid Omicron wave</a> BBC: New restrictions are set to be introduced after nine Omicron cases were confirmed in the country. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
@@ -182,7 +182,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: Remembering Bat Out of Hell star Meat Loaf who has died at the age of 74. 
+ <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: This video has been removed for rights reasons. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 10:21 PM CT, Jan. 20 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
- <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
@@ -392,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
- <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
 
 
 </details>
