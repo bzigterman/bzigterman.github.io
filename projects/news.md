@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 02:50 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. military aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's front-line defenders should Russia choose to invade. 
- <p class="updated_time"> 10:10 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60094246?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger involved in Los Angeles car crash</a> BBC: The actor-politician was unhurt in the collision, as photos show a large SUV on top of other cars. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
@@ -125,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:50 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049588/ethnic-tensions-are-mounting-in-bosnia-herzegovina-again">Ethnic tensions are mounting in Bosnia-Herzegovina again</a> NPR: A quarter century after the end of a brutal civil war in Bosnia-Herzegovina, tensions are once again on the rise and threatening to tear apart the multi-ethnic government. 
- <p class="updated_time"> 07:45 AM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60095060?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam defends Covid hamster cull</a> BBC: Carrie Lam says the priority is to control the rise in cases partly caused by an outbreak in pet hamsters. 
  <p class="updated_time"> 07:06 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
@@ -163,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
- <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
  <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
@@ -189,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
- <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
  <p class="updated_time"> 01:59 PM CT, Jan. 20 </p> 
