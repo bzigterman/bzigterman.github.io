@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:06 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 08:49 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 70 people have been killed in the fighting between militants and Kurdish-led forces. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 90 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60082119?at_medium=RSS&at_campaign=KARANGA">Sudan protesters: Ready to die for freedom</a> BBC: Those opposed to the coup say they will stay on the streets until the generals leave power. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
