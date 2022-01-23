@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 05:12 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military bases hit by heavy gunfire</a> BBC: The government denies reports of a coup attempt or that the president had been detained. 
  <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075121304/britain-russia-replace-ukraine-government">Britain says Russia is planning to install a pro-Moscow leader in Ukraine</a> NPR: The U.K. said its claim is based on an intelligence assessment. Russia has massed tens of thousands of troops near the Ukraine border, stoking fears of an invasion. 
  <p class="updated_time"> 06:01 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-60085074?at_medium=RSS&at_campaign=KARANGA">Fundraiser, 83, buys then delivers ambulances across Europe</a> BBC: John Shackleton, who has been fundraising for more than 30 years, says his age won't stop him. 
- <p class="updated_time"> 05:42 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
@@ -206,14 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:47 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/talks-with-taliban-begin-in-norway-00000488">Talks with Taliban begin in Norway</a> Politico: Afghanistan is desperate for humanitarian aid 
  <p class="updated_time"> 05:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
  <p class="updated_time"> 08:19 PM CT, Jan. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 06:41 PM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/russia-seeking-replace-ukraine-government-00000471">Britain says Russia seeking to replace Ukraine government</a> Politico: It comes amid a war of words between Moscow and the West over Russia’s designs on Ukraine. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
@@ -276,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
- <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -348,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
