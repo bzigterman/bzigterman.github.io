@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:32 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
+ <p class="updated_time"> 11:29 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
  <p class="updated_time"> 11:22 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the campaign against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 11:03 AM CT, Jan. 23 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
- <p class="updated_time"> 10:05 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
  <p class="updated_time"> 10:00 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso soldiers mutiny at bases in Ouagadougou</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
  <p class="updated_time"> 08:24 AM CT, Jan. 23 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
- <p class="updated_time"> 04:39 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">U.K. Pursues More Muscular Role in Standoff With Russia Over Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its intention to be a player in Europe’s security crisis — even as Prime Minister Boris Johnson is besieged by political scandals. 
  <p class="updated_time"> 04:04 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/foreign-executives-in-isolated-hong-kong-head-for-exit-sick-of-zero-covid-curbs-11642950280">Foreign Executives in Isolated Hong Kong Head for Exit, Sick of Zero-Covid Curbs</a> WSJ: Flight bans, lengthy quarantine stays for arrivals and repeated school closures are chipping away at the city’s status as a top business hub. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
@@ -54,9 +54,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
+ <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Are Two Weeks Away, but Sponsors Are Keeping Low Profile</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Sponsors Caught Between Beijing, U.S.</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
+ <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
  <p class="updated_time"> 12:51 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/saudis-reopen-elementary-schools-after-one-of-the-worlds-longest-covid-shutdowns-11642938685">Saudis Reopen Elementary Schools After One of the World's Longest Covid Shutdowns</a> WSJ: Millions of Saudi children began returning to elementary classrooms for the first time in nearly two years, a period of remote learning that was among the world’s longest and that angered parents. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -396,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
  <p class="updated_time"> 12:31 PM CT, Jan. 16 </p> 
  <a href="https://www.politico.com/news/2022/01/16/romney-election-reform-biden-527223">Romney on election reform: I never got a call from the White House</a> Politico: “He’s got to recognize that when he was elected, people were not looking for him to transform America,” he said of President Joe Biden. 
- <p class="updated_time"> 11:36 AM CT, Jan. 16 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/16/a-night-at-the-trump-rally-495742"> A night at the Trump rally</a> Politico Playbook: And all hostages are freed from a Texas synagogue. 
 
 
 </details>
