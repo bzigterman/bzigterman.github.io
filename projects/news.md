@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated with the Northern Lights. 
- <p class="updated_time"> 03:26 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
