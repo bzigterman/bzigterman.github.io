@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 04:39 AM CT, Jan. 23 </p> 
@@ -21,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
+ <p class="updated_time"> 11:39 PM CT, Jan. 22 </p> 
+ <a href="https://www.wsj.com/articles/omicron-cases-put-new-zealand-on-red-alert-leader-ardern-delays-wedding-11642934342">Omicron Cases Put New Zealand on Red Alert, Leader Ardern Cancels Wedding</a> WSJ: The government is moving to limit the sizes of gatherings as authorities warn the Omicron variant of Covid-19 is circulating in country’s biggest city. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60100369?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand PM Ardern cancels wedding amid Omicron wave</a> BBC: New restrictions are set to be introduced after nine Omicron cases were confirmed in the country. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
@@ -63,10 +67,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
  <p class="updated_time"> 01:13 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60097918?at_medium=RSS&at_campaign=KARANGA">Jean-Jacques Savin: French adventurer dies crossing Atlantic Ocean</a> BBC: Jean-Jacques Savin, who was 75, had previously made the voyage in a large barrel. 
+ <p class="updated_time"> 12:24 PM CT, Jan. 22 </p> 
+ <a href="https://www.wsj.com/articles/head-of-german-navy-resigns-after-saying-russia-would-never-return-crimea-11642893893">Head of Germany Navy Resigns After Saying Russia Would Never Return Crimea</a> WSJ: The comments sparked a diplomatic row, with Kyiv accusing Berlin of lack of support in its standoff with Moscow. 
  <p class="updated_time"> 11:54 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
- <p class="updated_time"> 11:52 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 11:30 AM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-hatching-plot-to-replace-ukraine-government-u-k-says-11642890601">Russia Plots to Replace Ukraine Government, U.K. Says</a> WSJ: The allegations come in the midst of warnings that Russia could invade with around 100,000 troops gathered near its neighbor’s border. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872862/indias-supreme-court-steps-in-after-hindu-leaders-call-for-violence-against-musl">India's Supreme Court steps in after Hindu leaders call for violence against Muslims</a> NPR: Video from a meeting in northern India shows Hindu leaders calling for attacks on Muslims. The crowd included politicians with ties to Prime Minister Modi. Two men have been arrested for hate speech. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074723377/ukraine-russia-invasion-fears">Despite fears of a Russian invasion, one Ukrainian family tries to keep life normal</a> NPR: "You have to find ways to live a normal life," says a mother of four in Kyiv. She and her family keep their car full of fuel and plan to take refuge in a village outside the capital if Russia attacks. 
- <p class="updated_time"> 03:06 PM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/one-canadian-tourist-killed-two-wounded-at-mexican-resort-hotel-11642811381">Two Canadian Tourists Killed, Another Wounded at Mexican Resort Hotel</a> WSJ: Authorities say both victims had criminal records in Canada. 
  <p class="updated_time"> 02:50 PM CT, Jan. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60091003?at_medium=RSS&at_campaign=KARANGA">Afghan women taken from their homes after speaking out</a> BBC: The BBC searches for an Afghan woman removed from her home after protesting against Taliban rule. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
- <p class="updated_time"> 04:39 AM CT, Jan. 21 </p> 
- <a href="https://www.wsj.com/articles/houthis-accuse-saudi-led-coalition-of-killing-dozens-in-yemen-airstrike-11642779575">Airstrikes in Yemen Kill At Least 70 People as Saudi-Led Coalition Ramps Up Offensive</a> WSJ: A Saudi-led coalition airstrike on Houthi-controlled territory in Yemen hit a prison, the rebel group said, killing dozens and injuring scores of others. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
  <p class="updated_time"> 08:19 PM CT, Jan. 22 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/president-biden-senate-house.html">Biden the Negotiator Confronts the Cold Reality of Capitol Hill Gridlock</a> NYT: President Biden will retreat from fruitless negotiations with lawmakers and instead emphasize his power to govern, senior White House advisers said. 
- <p class="updated_time"> 05:04 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/business/media/sean-hannity-donald-trump-january-6.html">Sean Hannity Told Trump After Jan. 6: ‘No More Stolen Election Talk’</a> NYT: The Fox News host discussed with the White House press secretary how to dissuade the president from pursuing claims of voter fraud, newly disclosed documents show. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
