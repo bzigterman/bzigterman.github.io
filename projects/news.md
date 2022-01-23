@@ -198,10 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:52 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 04:34 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
- <p class="updated_time"> 02:47 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 04:24 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
+ <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
  <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/william-barr-jan6-committee-thompson-00000605">Former Attorney General William Barr has spoken to Jan. 6 panel, chair says</a> Politico: Rep. Bennie Thompson said the committee had also spoken with Pentagon officials about a draft executive order aimed at seizing voting machines. 
  <p class="updated_time"> 11:19 AM CT, Jan. 23 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
- <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074814640/march-for-life-protest-roe-v-wade">Thousands gather for the March for Life protest, as Supreme Court weighs Roe v. Wade</a> NPR: The annual march in Washington, D.C., occurs around the anniversary of the Roe decision. This year, as the Supreme Court considers overturning some of its protections, protesters say they feel hope. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
@@ -298,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
- <p class="updated_time"> 11:47 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074764509/texas-man-faces-federal-charges-for-allegedly-threatening-georgia-election-offic">Texas man faces federal charges for allegedly threatening Georgia election officials</a> NPR: He allegedly wrote a graphic Craigslist post about killing three officials and harming law enforcement families. The case is the first brought by the Justice Department's election threats task force. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/ron-klain-hot-water-527570">It’s Ron Klain’s turn in the barrel</a> Politico: Biden’s chief of staff started strong and earned plaudits. But, increasingly, he’s under scrutiny for the state of the presidency. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
@@ -336,18 +334,20 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
- <p class="updated_time"> 11:20 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/us-mit-professor-china-527473">U.S. drops case against MIT professor accused of ties to China</a> Politico: The Justice Department dropped its case against a professor charged last year with concealing research ties to the Chinese government, saying it could “no longer meet its burden of proof at trial.” 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/republicans-redistricting-more-ruthless-527445">GOP considers more ruthless redistricting</a> Politico: After months of play-it-safe map-drawing, some Republicans are urging the party to go for the jugular in states yet to complete their congressional redistricting. 
  <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
  <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
+ <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
