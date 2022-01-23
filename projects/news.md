@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:10 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 01:13 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-dead-jean-jacques-savin.html">French Adventurer Dies Attempting to Row Solo Across the Atlantic</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese maritime authorities found him dead in his boat near the Azores. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
@@ -58,9 +58,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Are Two Weeks Away, but Sponsors Are Keeping Low Profile</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
- <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Are Two Weeks Away, but Sponsors Are Keeping Low Profile</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
  <p class="updated_time"> 12:51 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/saudis-reopen-elementary-schools-after-one-of-the-worlds-longest-covid-shutdowns-11642938685">Saudis Reopen Elementary Schools After One of the World's Longest Covid Shutdowns</a> WSJ: Millions of Saudi children began returning to elementary classrooms for the first time in nearly two years, a period of remote learning that was among the world’s longest and that angered parents. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
