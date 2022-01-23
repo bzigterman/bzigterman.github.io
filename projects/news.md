@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 PM CT, Jan. 22 </p> 
+ <p class="updated_time"> 06:17 PM CT, Jan. 22 </p> 
+ <a href="https://www.npr.org/2022/01/22/1075121304/britain-says-russia-is-seeking-to-replace-the-ukraine-government">Britain says Russia is seeking to replace the Ukraine government</a> NPR: Moscow has massed tens of thousands of troops near the Ukraine border, leading to fears of an invasion. The U.K. said it has intelligence that Russia plans to install a pro-Russia rule in Ukraine. 
+ <p class="updated_time"> 06:09 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-60085074?at_medium=RSS&at_campaign=KARANGA">Fundraiser, 83, buys then delivers ambulances across Europe</a> BBC: John Shackleton, who has been fundraising for more than 30 years, says his age won't stop him. 
  <p class="updated_time"> 05:42 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 04:31 PM CT, Jan. 22 </p> 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 11:52 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
+ <p class="updated_time"> 11:30 AM CT, Jan. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-hatching-plot-to-replace-ukraine-government-u-k-says-11642890601">Russia Plots to Replace Ukraine Government, U.K. Says</a> WSJ: The allegations come in the midst of warnings that Russia could invade with around 100,000 troops gathered near its neighbor’s border. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60092299?at_medium=RSS&at_campaign=KARANGA">Fans sue Universal Pictures over film without Ana de Armas</a> BBC: The comedy Yesterday has the actress in the trailer, but not the movie itself - to the anger of fans. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
- <p class="updated_time"> 08:25 AM CT, Jan. 22 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-talks-who-is-playing-for-time-11642874047">In Ukraine Talks, Who Is Playing for Time?</a> WSJ: With talks between the U.S. and Russia over Ukraine continuing into next week, a look under the lid to see who gains more leverage as the diplomatic clock ticks. 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 07:50 AM CT, Jan. 22 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074672489/winter-olympics-beijing-china-limit-torch-relay">China is limiting the Olympics torch relay to three days</a> NPR: The flame will be displayed only in enclosed venues that are deemed "safe and controllable," according to officials. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074438703/nuclear-test-monitor-calls-tonga-volcano-blast-biggest-thing-that-weve-ever-seen">A nuclear-test monitor calls Tonga volcano blast 'biggest thing that we've ever seen'</a> NPR: A station to detect nuclear weapons tests picked up the volcanic eruption in Tonga from Antarctica. Some experts say the blast could be more than 50 megatons, while NASA estimates 6-10 megatons. 
  <p class="updated_time"> 03:55 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html">On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</a> NYT: After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies. 
  <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html">The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</a> NYT: A military report warned that striking the giant structure could cause tens of thousands of deaths. 
  <p class="updated_time"> 09:01 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html">Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</a> NYT: Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers. 
- <p class="updated_time"> 06:05 PM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60072418?at_medium=RSS&at_campaign=KARANGA">The radio station bringing worried Tongans together</a> BBC: A community broadcaster in Brisbane, Australia, is bringing information and support following the tsunami. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
  <p class="updated_time"> 04:25 PM CT, Jan. 20 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:41 PM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/russia-seeking-replace-ukraine-government-00000471">Britain says Russia seeking to replace Ukraine government</a> Politico: The U.K. government made the claim based on an intelligence assessment, without providing evidence to back it up. 
- <p class="updated_time"> 05:47 PM CT, Jan. 22 </p> 
+ <p class="updated_time"> 06:09 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
