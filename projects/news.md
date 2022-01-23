@@ -265,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:26 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
+ <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling for Native Americans in Oklahoma</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 04:06 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/giuliani-associate-prison-foreign-donor-case-527601">Giuliani associate gets year in prison in foreign donor case</a> Politico: Igor Fruman pleaded guilty in September to a single charge of solicitation of a contribution by a foreign national. 
  <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
