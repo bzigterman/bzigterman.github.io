@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:06 PM CT, Jan. 22 </p> 
+ <a href="https://www.nytimes.com/2022/01/20/world/africa/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 08:49 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 70 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html">U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</a> NYT: The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti. 
  <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/hana-horka-covid-czech-singer.html">Czech Singer Dies After Celebrating Her Own Covid Infection</a> NYT: Jak Rek said his mother, Hana Horka, 57, had refused to be vaccinated and sought infection to gain natural immunity. 
- <p class="updated_time"> 03:56 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/lions-covid-south-african-zoo.html">Lions Infected With Covid Spur Concern Over Virus Spread In the Wild</a> NYT: The lions caught the coronavirus from their handlers and showed severe symptoms. An outbreak among big cats in nature preserves could be hard to contain, researchers said. 
  <p class="updated_time"> 03:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html">France Sets Timeline to Lift Covid Restrictions in February</a> NYT: The prime minister announced that the easing of restrictions in February would be done in stages. 
  <p class="updated_time"> 03:41 PM CT, Jan. 20 </p> 
