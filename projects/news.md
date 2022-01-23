@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60100369?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand PM Ardern cancels wedding amid Omicron wave</a> BBC: New restrictions are set to be introduced after nine Omicron cases were confirmed in the country. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/23/1075142002/new-zealand-covid-restrictions-omicron">New Zealand adds new COVID restrictions as omicron spreads</a> NPR: After nine cases were detected in the region, the country will impose gathering size limits and other measures. Until this month, New Zealand had avoided any outbreaks of the omicron variant. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60078949?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... China's zero-Covid dilemma</a> BBC: Ros Atkins examines China's Covid elimination strategy, while others are learning to live with the virus. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
- <p class="updated_time"> 04:56 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092428?at_medium=RSS&at_campaign=KARANGA">Gabby Petito: Boyfriend of blogger 'responsible' for her murder</a> BBC: Brian Laundrie admitted in a journal to killing Gabby Petito during a cross-country trip, says the FBI. 
  <p class="updated_time"> 04:42 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
