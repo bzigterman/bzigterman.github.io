@@ -25,16 +25,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated with the Northern Lights. 
  <p class="updated_time"> 02:44 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-sponsors-caught-between-beijing-u-s-11642939203">Winter Olympics Sponsors Caught Between Beijing, U.S.</a> WSJ: Visa, P&amp;G and Coca-Cola are among the top-tier sponsors of the Winter Games that are keeping a relatively low profile as Washington highlights human rights in China’s Xinjiang region. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 12:40 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60098576?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: Iranian-Briton to start hunger strike in prison</a> BBC: Anoosheh Ashoori from London hopes the strike will bring attention to those being held in Iran. 
+ <a href="https://www.bbc.co.uk/news/uk-60098576?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: Iranian-Briton starts hunger strike in prison</a> BBC: Anoosheh Ashoori from London hopes the strike will bring attention to those being held in Iran. 
  <p class="updated_time"> 11:39 PM CT, Jan. 22 </p> 
  <a href="https://www.wsj.com/articles/omicron-cases-put-new-zealand-on-red-alert-leader-ardern-delays-wedding-11642934342">Omicron Cases Put New Zealand on Red Alert, Leader Ardern Cancels Wedding</a> WSJ: The government is moving to limit the sizes of gatherings as authorities warn the Omicron variant of Covid-19 is circulating in country’s biggest city. 
  <p class="updated_time"> 11:31 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60100369?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand PM Ardern cancels wedding amid Omicron wave</a> BBC: New restrictions are set to be introduced after nine Omicron cases were confirmed in the country. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/23/1075142002/new-zealand-covid-restrictions-omicron">New Zealand adds new COVID restrictions as omicron spreads</a> NPR: After nine cases were detected in the region, the country will impose gathering size limits and other measures. Until this month, New Zealand had avoided any outbreaks of the omicron variant. 
+ <a href="https://www.npr.org/2022/01/23/1075142002/new-zealand-covid-restrictions-omicron">New Zealand adds new restrictions and Ardern delays her wedding as omicron spreads</a> NPR: After nine cases were detected in the region, the country will impose gathering size limits and other measures. Until this month, New Zealand had avoided any outbreaks of the omicron variant. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 10:06 PM CT, Jan. 22 </p> 
@@ -71,12 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
  <p class="updated_time"> 01:13 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60097918?at_medium=RSS&at_campaign=KARANGA">Jean-Jacques Savin: French adventurer dies crossing Atlantic Ocean</a> BBC: Jean-Jacques Savin, who was 75, had previously made the voyage in a large barrel. 
- <p class="updated_time"> 12:24 PM CT, Jan. 22 </p> 
- <a href="https://www.wsj.com/articles/head-of-german-navy-resigns-after-saying-russia-would-never-return-crimea-11642893893">Head of Germany Navy Resigns After Saying Russia Would Never Return Crimea</a> WSJ: The comments sparked a diplomatic row, with Kyiv accusing Berlin of lack of support in its standoff with Moscow. 
  <p class="updated_time"> 11:54 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
- <p class="updated_time"> 11:30 AM CT, Jan. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-hatching-plot-to-replace-ukraine-government-u-k-says-11642890601">Russia Plots to Replace Ukraine Government, U.K. Says</a> WSJ: The allegations come in the midst of warnings that Russia could invade with around 100,000 troops gathered near its neighbor’s border. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
  <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
+ <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 06:47 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/talks-with-taliban-begin-in-norway-00000488">Talks with Taliban begin in Norway</a> Politico: Afghanistan is desperate for humanitarian aid 
  <p class="updated_time"> 05:00 AM CT, Jan. 23 </p> 
@@ -276,6 +280,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/states/california/story/2022/01/21/what-2022-election-california-republicans-grim-on-beating-newsom-1405828">What 2022 election? California Republicans grim on beating Newsom</a> Politico: “A lot of Republicans have given up on California and they put their money into the national scene.” 
  <p class="updated_time"> 02:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/baltic-allies-ukraine-russia-conflict-527594">Baltic states step up in arming Ukraine against potential Russian incursion</a> Politico: The three countries said they “stand united in their commitment to Ukraine’s sovereignty and territorial integrity in face of continued Russian aggression.” 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
@@ -307,8 +313,6 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 AM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1073162105/biden-limits-ice-immigrant-advocates">Biden's limits on ICE offered hope. But immigrant advocates say he's broken promises</a> NPR: The Biden administration promised big changes on immigration enforcement, including limits on whom ICE should arrest and deport. But so far, advocates say the reality is falling short of the rhetoric. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/cartoons/2022/01/21/the-nations-cartoonists-on-the-week-in-politics-000279">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
- <p class="updated_time"> 06:43 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/georgia-trump-election-investigation.html">Atlanta D.A. Requests Special Grand Jury in Trump Election Inquiry</a> NYT: The prosecutor, Fani T. Willis of Fulton County, Ga., is investigating possible election interference by the former president and his allies. 
  <p class="updated_time"> 06:00 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/virginia-glenn-youngkin-governor.html">Winning Virginia Was the Easy Part. Can Glenn Youngkin Govern?</a> NYT: The new governor is converting his education-centric campaign message into policy. Republicans are pleased. Democrats are skeptical. 
  <p class="updated_time"> 05:07 PM CT, Jan. 20 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
  <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
- <p class="updated_time"> 05:35 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-commits-to-harris-as-his-running-mate-2024-527418">Biden commits to Harris as his running mate for 2024</a> Politico: In his press conference Wednesday, the president committed to a run with Harris in 2024 and said he thinks she is doing a great job on facilitating voting rights policies. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
@@ -372,10 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
- <p class="updated_time"> 06:01 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-first-year-report-card-trump-527320">Biden’s first-year report card: Just like Trump’s</a> Politico: Like his predecessor, more voters gave Biden a failing grade than A's or B's in a new POLITICO/Morning Consult poll. 
- <p class="updated_time"> 04:30 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/how-omicron-ruined-new-mayors-honeymoons-527331">How Omicron ruined new mayors’ honeymoons</a> Politico: The Omicron surge didn’t just upend mayors’ inaugural fetes. It’s overtaken their first days and weeks in office, jeopardizing their approval ratings before they get a chance to push their agendas. 
  <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
