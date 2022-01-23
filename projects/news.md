@@ -313,6 +313,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
+ <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">‘A bridge too far’: Dems spar over whether to welcome anti-Trump GOP defector</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
- <p class="updated_time"> 05:03 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-the-gop-epiphany-i-predicted-didnt-come-527414">Biden: The GOP epiphany I predicted didn't come</a> Politico: The president’s press conference was a two hour affair filled with self-analysis, contrition and defiance. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413">Top donors threaten to cut off funding to Sinema</a> Politico: The donors said they will support a primary challenge, and demanded that the senator refund their contributions. 
  <p class="updated_time"> 04:17 PM CT, Jan. 19 </p> 
