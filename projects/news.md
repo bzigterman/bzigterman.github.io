@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 03:36 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
- <p class="updated_time"> 01:13 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60097918?at_medium=RSS&at_campaign=KARANGA">Jean-Jacques Savin: French adventurer dies crossing Atlantic Ocean</a> BBC: Jean-Jacques Savin, who was 75, had previously made the voyage in a large barrel. 
  <p class="updated_time"> 11:54 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
@@ -159,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
- <p class="updated_time"> 04:00 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/ghana-explosion-mining-truck.html">Mining Truck Explodes in Ghana, Killing Dozens</a> NYT: The number of dead is not yet known, but the blast flattened buildings in a small town and left a large crater. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
  <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
@@ -181,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
+ <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: This video has been removed for rights reasons. 
  <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
  <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
