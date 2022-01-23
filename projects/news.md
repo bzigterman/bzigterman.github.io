@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 AM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military bases hit by heavy gunfire</a> BBC: The government denies reports of a coup attempt or that the president had been detained. 
  <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:45 AM CT, Jan. 23 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
- <p class="updated_time"> 10:24 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60092458?at_medium=RSS&at_campaign=KARANGA">UN condemns deadly air strike on Yemen prison</a> BBC: A Saudi-led coalition denies it struck a detention centre on Friday, killing more than 70 people. 
  <p class="updated_time"> 10:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
  <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
