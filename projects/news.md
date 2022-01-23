@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106108?at_medium=RSS&at_campaign=KARANGA">Covid: Clashes at Belgium protest against restrictions</a> BBC: A rally sees violent exchanges in Brussels as tens of thousands marched against Covid restrictions. 
- <p class="updated_time"> 03:05 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 02:50 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
