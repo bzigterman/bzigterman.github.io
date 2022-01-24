@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383856/some-nato-allies-are-sending-military-aid-to-ukraine">Some NATO allies are sending military aid to Ukraine</a> NPR: President Biden let slip that the allies are not all on the same page regarding the standoff between Russia and Ukraine. Indeed, some are already rushing weapons to Ukraine. Others are holding back. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:35 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 03:31 PM CT, Jan. 24 </p> 
@@ -29,12 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
- <p class="updated_time"> 02:36 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is holding hundreds of boys hostage. 
  <p class="updated_time"> 02:23 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
- <p class="updated_time"> 02:17 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
@@ -143,14 +147,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106108?at_medium=RSS&at_campaign=KARANGA">Covid: Clashes at Belgium protest against restrictions</a> BBC: A rally sees violent exchanges in Brussels as tens of thousands marched against Covid restrictions. 
- <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075199404/yevheniy-murayev-russia-ukraine-british-foreign-office">Who is Yevheniy Murayev, the man the U.K. says Russia wants to install in Ukraine?</a> NPR: The British government named Murayev as one of Russia's top picks to lead Ukraine were it to invade the country. Murayev, a critic of Ukraine's pro-Western government, has dismissed the claim. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 11:45 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia on Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its aim to be a player in Europe’s security crisis — even as scandals besiege Prime Minister Boris Johnson. 
- <p class="updated_time"> 11:03 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075179985/ukraine-russia-border-britain-allegations-coup">Ukraine crisis deepens after U.K. says Russia may try to install a pro-Kremlin leader</a> NPR: The situation along the Russia-Ukraine border remains tense, with thousands of Russian troops amassed just across the divide and Ukraine preparing for a possible invasion. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
  <p class="updated_time"> 03:35 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been hobbling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
- <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
