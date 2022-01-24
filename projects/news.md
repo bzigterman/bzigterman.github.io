@@ -192,10 +192,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:54 PM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/sheldon-silver-dies-new-york-00001544">Sheldon Silver, longtime New York power broker and eventual inmate, dies at 77</a> Politico: Silver was the undisputed master of the legislative process in his time as speaker. 
  <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/kerik-jan-6-voting-machines-00001552">Kerik told Jan. 6 panel that former Army colonel came up with idea to seize voting machines</a> Politico: Previously, Phil Waldron was best known for circulating a 38-page PowerPoint presentation that urged Trump to declare a state of emergency in the wake of the election. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/robert-kennedy-holocaust-vaccines-00001548">RFK Jr. remarks on Anne Frank, vaccines draw condemnation</a> Politico: “Those who carelessly invoke Anne Frank, the star badge, and the Nuremberg Trials exploit history and the consequences of hate,” the U.S. Holocaust Memorial Museum said. 
+ <p class="updated_time"> 04:59 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-election-fani-willis-georgia.html">Court Approves Special Grand Jury in Trump Election Inquiry</a> NYT: A district attorney in Georgia is investigating possible election interference by former President Donald J. Trump and his allies. 
  <p class="updated_time"> 04:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
- <p class="updated_time"> 08:15 PM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/taliban-talks-norway-recognition-00000913">Taliban talks in Norway spark new debate about recognition</a> Politico: It is the first time since the Taliban took over in August that their representatives have held official meetings in Europe. 
  <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/jan-6-fake-trump-electors.html">Jan. 6 Panel and State Officials Seek Answers on Fake Trump Electors</a> NYT: Pressure is mounting on the Justice Department to investigate bogus electors who claimed that Donald J. Trump defeated Joseph R. Biden Jr. in their states. 
  <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
- <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
