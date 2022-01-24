@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:54 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 02:11 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
+ <p class="updated_time"> 02:10 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: Hundreds of boys are still being held hostage as the siege of a prison attacked by the Islamic State last week continues. 
+ <p class="updated_time"> 02:09 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
+ <p class="updated_time"> 02:06 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-troops-russia-ukraine.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
- <p class="updated_time"> 01:45 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 01:37 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
- <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 11:51 AM CT, Jan. 24 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60111797?at_medium=RSS&at_campaign=KARANGA">In pictures: Thierry Mugler's life and works</a> BBC: Latex, leather and curves - Mugler reinvented the catwalk with his iconic creations 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 10:04 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Hundreds of boys are still being held hostage as the siege of a prison attacked by the Islamic State last week continues. 
  <p class="updated_time"> 09:46 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Former Lebanese Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
@@ -70,11 +72,13 @@ permalink: /projects/news/
  <p class="updated_time"> 08:40 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 08:31 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. put several hundred troops on standby to potentially deploy to Eastern Europe. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
+ <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: U.A.E. and U.S. forces intercepted two ballistic missiles over Abu Dhabi, a week after a previous attack by Yemen’s Houthi rebels killed three people and injured six others. 
  <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
- <p class="updated_time"> 10:48 PM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/italy-to-decide-on-its-leadershipand-draghis-future-11643017722">Italy to Decide on Its Leadership---and Draghi's Future</a> WSJ: The country’s fractured political class fears that if Prime Minister Mario Draghi becomes president—a mostly symbolic role—then the coalition government he leads could collapse. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
- <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
 
 
 </details>
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:05 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-troops-russia-ukraine.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
+ <p class="updated_time"> 02:00 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Improves Brain Function in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 01:37 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
@@ -283,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin tests positive for Covid, delaying trial against NYTimes</a> NPR: A federal judge pushed back opening arguments to Feb. 3 in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her PAC to a lethal mass shooting in Arizona. 
+ <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin tests positive for COVID, delaying trial against NYTimes</a> NPR: A federal judge pushed back opening arguments to Feb. 3 in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her PAC to a lethal mass shooting in Arizona. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
@@ -310,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/arizona-sues-covid-masks.html">Arizona Sues to Stop Treasury From Recouping Relief Funds</a> NYT: Gov. Doug Ducey has been using federal pandemic aid to undermine school mask requirements, which Treasury said violated the law. 
  <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">Biden-tied lobbying firms raked in the dough during his first year</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
- <p class="updated_time"> 06:11 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/georgia-election-worker-threats-charges.html">Texas Man Charged With Threatening to Kill Georgia Election Officials</a> NYT: A man accused of using Craigslist to call for the assassination of election officials is the first to be charged by the Justice Department’s task force on election threats. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
  <p class="updated_time"> 05:46 PM CT, Jan. 21 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
- <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
