@@ -56,13 +56,13 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60069066?at_medium=RSS&at_campaign=KARANGA">How will Tonga's broken internet cable be mended?</a> BBC: What does its breakage tell us about the problems of getting coverage to remote areas? 
  <p class="updated_time"> 06:02 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60091717?at_medium=RSS&at_campaign=KARANGA">Children as young as 10 are being groomed in Romania, to be trafficked to the UK</a> BBC: BBC correspondent Jean Mackenzie finds children as young as 10 are being groomed in Romania, to be trafficked to the UK. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60091717?at_medium=RSS&at_campaign=KARANGA">Sex trafficking: Children groomed in Romania sent to UK</a> BBC: BBC correspondent Jean Mackenzie finds children as young as 10 are being groomed in Romania, to be trafficked to the UK. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first British woman to swim English Channel</a> BBC: Mercedes Gleitze was the first British woman to swim the English Channel, but kept her accomplishments hidden from her family. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60089165?at_medium=RSS&at_campaign=KARANGA">Gender-based violence: Kenya's 'hidden epidemic'</a> BBC: When the Covid pandemic hit Kenya, cases of gender-based violence exploded. Tom Odula investigates the trauma behind this ‘hidden epidemic’. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60089165?at_medium=RSS&at_campaign=KARANGA">Kenya's 'hidden epidemic': Gender-based violence</a> BBC: When Covid hit Kenya, cases of gender-based violence exploded but many cases still go unreported. 
  <p class="updated_time"> 05:51 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders families of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department also authorized the voluntary departure of nonessential embassy employees at its embassy in Kyiv. 
  <p class="updated_time"> 05:40 PM CT, Jan. 23 </p> 
