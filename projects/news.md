@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 03:22 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso president reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kaboré is reportedly under military arrest. 
  <p class="updated_time"> 03:13 AM CT, Jan. 24 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it has intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">A popular uprising and soldier mutinies challenge Burkina Faso's president</a> NPR: Government officials had sought to reassure people that the situation was under control even as shots rang out for hours at the army base. 
- <p class="updated_time"> 01:09 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
