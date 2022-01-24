@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 01:45 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 01:42 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
+ <p class="updated_time"> 01:37 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 01:24 PM CT, Jan. 24 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
- <p class="updated_time"> 12:33 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
@@ -65,14 +67,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 09:02 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
+ <p class="updated_time"> 08:40 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 08:31 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
- <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
  <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Eruption more powerful than atomic bomb, Nasa says</a> BBC: The eruption earlier this month showered the Pacific nation in ash and triggered a tsunami. 
  <p class="updated_time"> 05:42 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213">On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</a> WSJ: The nation has struggled to maintain a sense of stability since it became an independent country in 1991, and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time. 
- <p class="updated_time"> 05:31 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso's President Is Seized by Troops</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:37 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/california-school-covid-vaccine-mandate-proposal-00001261">California lawmaker proposes Covid vaccine mandate for all schoolchildren</a> Politico: State Sen. Richard Pan’s proposal would go further than Gov. Gavin Newsom’s requirement 
  <p class="updated_time"> 12:43 PM CT, Jan. 24 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">The Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 08:41 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
- <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
@@ -283,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
+ <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin tests positive for Covid, delaying trial against NYTimes</a> NPR: A federal judge pushed back opening arguments to Feb. 3 in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her PAC to a lethal mass shooting in Arizona. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
