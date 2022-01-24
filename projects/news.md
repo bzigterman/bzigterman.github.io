@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv, moves that the Ukraine government called premature. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
  <p class="updated_time"> 04:58 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
  <p class="updated_time"> 04:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso President Kaboré reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kaboré is reportedly under military arrest. 
- <p class="updated_time"> 04:07 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
@@ -192,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983">Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/millionaires-flood-senate-cash-00000895">Army of millionaires flood Senate map in cash</a> Politico: Staggering sums of money are already being spent — and it’s only January. 
  <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
