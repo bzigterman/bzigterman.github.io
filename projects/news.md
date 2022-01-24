@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:41 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
+ <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:18 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 10:42 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French fashion designer created pieces for David Bowie, Sharon Stone and Lady Gaga. 
- <p class="updated_time"> 10:29 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 10:09 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
- <p class="updated_time"> 09:58 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 09:28 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 09:16 PM CT, Jan. 23 </p> 
