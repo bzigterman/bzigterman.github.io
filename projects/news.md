@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:11 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 03:21 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383828/tired-of-forever-wars-the-u-s-weighs-options-if-russia-invades-ukraine">Tired of forever wars, the U.S. weighs options if Russia invades Ukraine</a> NPR: NPR's Asma Khalid speaks with retired U.S. Navy Admiral James Stavridis about how to address a potential Russian invasion of Ukraine. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383807/afghan-families-who-have-been-living-on-u-s-military-bases-are-looking-for-homes">Afghan families who have been living on U.S. military bases are looking for homes</a> NPR: A majority of the Afghans who fled to the U.S. when the Taliban took over last fall have now left the military bases where they've been living and are in the process of finding permanent homes. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383800/protesters-in-cuba-face-severe-sentences-as-crackdown-continues">Protesters in Cuba face severe sentences as crackdown continues</a> NPR: NPR's Asma Khalid talks with Ed Augustin, correspondent for The Guardian in Cuba, about the ongoing trials against hundreds of people who participated in mass protests in the summer of 2021. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
  <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:56 PM CT, Jan. 24 </p> 
@@ -147,14 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
- <p class="updated_time"> 07:33 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075168742/buckingham-palace-removes-prince-andrews-titles-in-wake-of-sexual-assault-lawsui">Buckingham Palace removes Prince Andrew's titles in wake of sexual assault lawsuit</a> NPR: Sarah McCammon speaks to Sonia Sodha from 'The Guardian' about the sexual abuse lawsuit against Prince Andrew and its impact on the institution of Britain's royal family. 
- <p class="updated_time"> 07:28 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075168735/in-pakistan-big-trucks-are-the-perfect-canvas-for-intricate-murals">In Pakistan, big trucks are the perfect canvas for intricate murals</a> NPR: We take a look at the colorful Pakistani practice of turning big transport trucks into wildly bright works of art. 
- <p class="updated_time"> 07:08 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075168714/why-russian-president-vladimir-putin-is-escalating-the-threat-of-war-with-ukrain">Why Russian President Vladimir Putin is escalating the threat of war with Ukraine</a> NPR: Sarah McCammon talks with U.S. national security expert Andrea Kendall-Taylor about what is motivating Russian President Vladimir Putin as he escalates the threat of war with Ukraine. 
- <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Threat of Russian invasion escalates as both sides amass troops at Ukraine border</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
- <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
 
 
 </details>
@@ -198,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
  <p class="updated_time"> 03:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 02:51 PM CT, Jan. 24 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 07:15 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
- <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075049532/president-biden-is-replacing-federal-judges-at-a-record-breaking-pace">President Biden is replacing federal judges at a record-breaking pace</a> NPR: One area where President Biden has achieved success is getting his judicial appointees confirmed. Scott Simon talks with Hamilton College professor Gbemende Johnson about it. 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
