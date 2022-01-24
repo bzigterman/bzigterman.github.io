@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:28 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso president reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kabore is reportedly under military arrest. 
  <p class="updated_time"> 02:01 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid concerns of a Russian invasion. 
  <p class="updated_time"> 02:00 AM CT, Jan. 24 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60106871?at_medium=RSS&at_campaign=KARANGA">Fortescue: Firm owned by Australia's richest man buys Williams F1 battery arm</a> BBC: Fortescue Metals says the deal will help it to achieve its target to be carbon neutral by 2030. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
- <p class="updated_time"> 07:07 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Shots heard near presidential palace</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
  <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-60001143?at_medium=RSS&at_campaign=KARANGA">Vaccine mandates: 'I lost my job for being unvaccinated'</a> BBC: Covid-19 vaccine mandates face stiff resistance in the US, where they are clashing with national ideals of personal freedom. 
  <p class="updated_time"> 06:35 PM CT, Jan. 23 </p> 
