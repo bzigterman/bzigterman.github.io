@@ -7,10 +7,34 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:16 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The boundary-breaking designer created dresses so memorable (Demi Moore’s black dress in the 1993 film “Indecent Proposal,” for one) most people could picture them with their eyes closed. 
+ <p class="updated_time"> 07:16 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
+ <p class="updated_time"> 07:07 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Shots heard near presidential palace</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60001143?at_medium=RSS&at_campaign=KARANGA">Vaccine mandates: 'I lost my job for being unvaccinated'</a> BBC: Covid-19 vaccine mandates face stiff resistance in the US, where they are clashing with national ideals of personal freedom. 
+ <p class="updated_time"> 06:35 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60059543?at_medium=RSS&at_campaign=KARANGA">German Covid protests turn nasty in row over rules and vaccinations</a> BBC: Tens of thousands of Germans take to the streets every week and politicians are being targeted. 
+ <p class="updated_time"> 06:32 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60078516?at_medium=RSS&at_campaign=KARANGA">Beijing 2022 vs 2008: Two Olympics and two very different Chinas</a> BBC: In 2022, the mood, the host government's attitude, and global expectations are all very different to 2008. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60067032?at_medium=RSS&at_campaign=KARANGA">The people deciding to ditch their smartphones</a> BBC: The smartphone users who are ditching their handsets to take back more control of their lives. 
+ <p class="updated_time"> 06:20 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/disability-59879753?at_medium=RSS&at_campaign=KARANGA">Srikanth Bolla: The blind CEO’s £48m company which nearly didn’t happen</a> BBC: As a teenager, blind businessman Srikanth Bolla sued an Indian state to study maths and science. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60069066?at_medium=RSS&at_campaign=KARANGA">How will Tonga's broken internet cable be mended?</a> BBC: What does its breakage tell us about the problems of getting coverage to remote areas? 
+ <p class="updated_time"> 06:02 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60091717?at_medium=RSS&at_campaign=KARANGA">Children as young as 10 are being groomed in Romania, to be trafficked to the UK</a> BBC: BBC correspondent Jean Mackenzie finds children as young as 10 are being groomed in Romania, to be trafficked to the UK. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first woman to swim English Channel</a> BBC: Mercedes Gleitze was the first woman to swim the English Channel, but she kept her fame and accomplishments hidden from her family. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60089165?at_medium=RSS&at_campaign=KARANGA">Gender-based violence: Kenya's 'hidden epidemic'</a> BBC: When the Covid pandemic hit Kenya, cases of gender-based violence exploded. Tom Odula investigates the trauma behind this ‘hidden epidemic’. 
  <p class="updated_time"> 05:51 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders family of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department ordered eligible family members of personnel at its embassy in Kyiv to leave the country. 
- <p class="updated_time"> 05:48 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 05:40 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/snooker/60106607?at_medium=RSS&at_campaign=KARANGA">Vafaei first Iranian to win snooker ranking title</a> BBC: Hossein Vafaei becomes the first Iranian player to win a snooker ranking title, beating Mark Williams in the final of the Snooker Shoot Out. 
  <p class="updated_time"> 05:24 PM CT, Jan. 23 </p> 
@@ -45,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
- <p class="updated_time"> 10:00 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso soldiers mutiny at bases in Ouagadougou</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
  <p class="updated_time"> 07:33 AM CT, Jan. 23 </p> 
@@ -71,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 03:46 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/omicron-pressure-eases-in-some-u-s-states-but-infections-remain-high-11642945822">Omicron Pressure Eases in Some U.S. States, but Infections Remain High</a> WSJ: Pressure has begun to ease on U.S. hospitals hit by the Omicron variant of the coronavirus, while some European governments took steps to reopen activities that were shut during the worst of the wave. 
- <p class="updated_time"> 03:37 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-60028525?at_medium=RSS&at_campaign=KARANGA">The aurora hunters who chase the Northern Lights</a> BBC: Meet the aurora hunters, people fascinated by the spectacular natural phenomenon. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203">Germany's Reliance on Russian Gas Limits Europe's Options in Ukraine Crisis</a> WSJ: Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports. 
  <p class="updated_time"> 01:00 AM CT, Jan. 23 </p> 
@@ -91,16 +111,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
- <p class="updated_time"> 07:19 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60082119?at_medium=RSS&at_campaign=KARANGA">Sudan protesters: Ready to die for freedom</a> BBC: Those opposed to the coup say they will stay on the streets until the generals leave power. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60099931?at_medium=RSS&at_campaign=KARANGA">Sedef Kabas: Turkish journalist jailed for reciting proverb</a> BBC: Sedef Kabas denies using the proverb to insult President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
  <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/22/1075110846/samoa-kiribati-covid-lockdowns-international-travel">Kiribati and Samoa implement rare lockdowns after travelers test positive</a> NPR: Dozens of travelers from Fiji tested positive in Kiribati, prompting the island nation to implement its first lockdown. Samoa's order followed a cluster of cases in airline passengers from Australia. 
- <p class="updated_time"> 06:57 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60086567?at_medium=RSS&at_campaign=KARANGA">Finding love as a trans woman</a> BBC: Trans woman Daniella McDonald had bad experiences dating men until she met Josh - but thinks attitudes are slowly changing. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 06:17 PM CT, Jan. 22 </p> 
@@ -145,12 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
  <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
- <p class="updated_time"> 07:01 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60082786?at_medium=RSS&at_campaign=KARANGA">Yemen rebel attack on UAE throws challenge to the region</a> BBC: A fatal drone and missile strike raises questions about the war and security across the Middle East. 
- <p class="updated_time"> 06:57 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60083684?at_medium=RSS&at_campaign=KARANGA">Kenya's River Yala: Mystery and heartbreak of the dead bodies</a> BBC: At least 19 corpses have been found dumped in western Kenya and relatives want to know how they died. 
- <p class="updated_time"> 06:56 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60067868?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Long journey home to rebel-run Donetsk</a> BBC: One resident returns to their home city in rebel-held east Ukraine, as tensions with Russia rise. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
@@ -163,12 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
- <p class="updated_time"> 01:44 PM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60091928?at_medium=RSS&at_campaign=KARANGA">Five slices of Meat Loaf: Iconic moments on the BBC</a> BBC: He'd do anything for fun... Watch our highlights from Meat Loaf's many BBC appearances over the decades. 
- <p class="updated_time"> 01:00 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/travel/vegan-travel.html">Vegan Travel: It’s Not Fringe Anymore</a> NYT: From Mexico to Greece, plant-centric hotels, restaurants and tours are proliferating. 
- <p class="updated_time"> 12:25 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/four-dead-canada-us-border.html">4 Dead in Brutal Cold at U.S. Border Are Believed to Be Human Smuggling Victims</a> NYT: The authorities believe a family of four, including an infant, froze to death in Manitoba, Canada. A Florida man, arrested while driving a van nearby, was charged with human smuggling. 
  <p class="updated_time"> 12:23 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
@@ -181,14 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
  <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
- <p class="updated_time"> 02:52 AM CT, Jan. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-60081281?at_medium=RSS&at_campaign=KARANGA">Meat Loaf: The music legend's life in video</a> BBC: This video has been removed for rights reasons. 
- <p class="updated_time"> 11:45 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/australia/climate-change-north-queensland-australia.html">Inured to Climate Change in North Queensland</a> NYT: The region has come to expect powerful cyclones to wreak havoc, and that may be why many there aren’t concerned about environmental action. 
- <p class="updated_time"> 04:40 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/world/africa/stampede-liberia.html">Dozens Die in Church Stampede in Liberia</a> NYT: Worshipers were gathered for a revival meeting in the Liberian capital, when word of armed gang members robbing people set off deadly panic. 
- <p class="updated_time"> 04:54 AM CT, Jan. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-59982702?at_medium=RSS&at_campaign=KARANGA">Inflation: Seven reasons the cost of living is going up around the world</a> BBC: Global inflation - the rate at which prices rise - is at its highest since 2008. Here are seven reasons why. 
 
 
 </details>
@@ -196,10 +192,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:15 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/taliban-talks-norway-recognition-00000913">Taliban talks in Norway spark new debate about recognition</a> Politico: It is the first time since the Taliban took over in August that their representatives have held official meetings in Europe. 
+ <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Sarah Palin v. New York Times goes to trial</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/eric-adams-pac-striving-new-york-1406521">PAC with ties to Adams raises over $1M from real estate, nightlife and GOP figures</a> Politico: The PAC, Striving for a Better New York, was created last September by New York City-based Rev. Alfred Cockfield II with the hopes of boosting moderate candidates in upcoming state elections. 
+ <p class="updated_time"> 06:29 PM CT, Jan. 23 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:30 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/democrats-biden-midterms-voting-rights.html">What Mattered This Week</a> NYT: President Biden rebooted. Democrats feuded. And Republicans watched it all with glee. 
- <p class="updated_time"> 05:23 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 04:34 PM CT, Jan. 23 </p> 
@@ -217,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">State Department urges Americans to leave Ukraine</a> Politico: Tony Blinken said the U.S. is prepared to counter whatever Russia might do. 
+ <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">U.S. orders diplomats’ families to leave Ukraine, urges Americans to depart</a> Politico: The authorized and ordered departures followed assurances by Secretary of State Antony Blinken that the U.S. and allied nations are prepared to counter Russia. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been crippling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
@@ -228,14 +234,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
- <p class="updated_time"> 06:47 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/talks-with-taliban-begin-in-norway-00000488">Talks with Taliban begin in Norway</a> Politico: Afghanistan is desperate for humanitarian aid 
  <p class="updated_time"> 05:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
- <p class="updated_time"> 08:19 PM CT, Jan. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
  <p class="updated_time"> 02:11 PM CT, Jan. 21 </p> 
  <a href="https://www.npr.org/2022/01/21/1074815001/free-covid-test-kits-phone-number">There's now a phone line to order your free at-home COVID tests</a> NPR: The phone number — 1-800-232-0233 — follows the launch earlier this week of a federal website to order the tests. 
- <p class="updated_time"> 01:48 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074815838/federal-court-blocks-bidens-vaccine-mandate-for-federal-workers">Federal court blocks Biden's vaccine mandate for federal workers</a> NPR: A federal judge in Texas has blocked President Biden's vaccine mandate for federal workers nationwide. The requirement had been in place since November. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
