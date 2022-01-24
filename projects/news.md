@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
+ <p class="updated_time"> 01:05 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: One dead in gun attack on German students</a> BBC: A gunman in the university town of Heidelberg shoots four people, one fatally, before killing himself. 
+ <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
- <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
- <p class="updated_time"> 12:36 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 12:34 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Roch Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 12:33 PM CT, Jan. 24 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60117202?at_medium=RSS&at_campaign=KARANGA">Sarah Palin's positive Covid test delays New York Times defamation trial</a> BBC: The former US vice-presidential candidate's lawsuit against The New York Times is delayed till February. 
  <p class="updated_time"> 10:51 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
- <p class="updated_time"> 10:46 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: One dead in gun attack on German students</a> BBC: A gunman in the university town of Heidelberg shoots four people, one fatally, before killing himself. 
  <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:11 AM CT, Jan. 24 </p> 
@@ -94,7 +94,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it has intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">Burkina Faso's president is being held by mutinous soldiers</a> NPR: The mutiny came a day after a public demonstration calling for Kabore's resignation. 
+ <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">Soldiers say a military junta now controls Burkina Faso</a> NPR: The mutiny came a day after a public demonstration calling for Kabore's resignation. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
