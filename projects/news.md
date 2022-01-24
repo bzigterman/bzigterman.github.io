@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalitio of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 03:54 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 03:22 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso president reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kaboré is reportedly under military arrest. 
- <p class="updated_time"> 03:13 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 02:31 AM CT, Jan. 24 </p> 
@@ -22,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it has intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">A popular uprising and soldier mutinies challenge Burkina Faso's president</a> NPR: Government officials had sought to reassure people that the situation was under control even as shots rang out for hours at the army base. 
+ <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">Burkina Faso's president is being held by mutinous soldiers</a> NPR: The mutiny came a day after a public demonstration calling for Kabore's resignation. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
@@ -181,10 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
- <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
- <p class="updated_time"> 08:07 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
 
 
 </details>
@@ -192,8 +192,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/millionaires-flood-senate-cash-00000895">Army of millionaires flood Senate map in cash</a> Politico: Staggering sums of money are already being spent — and it’s only January. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/trump-secretary-of-state-campaigns-00000473">Trump followers zero in on secretary of state campaigns</a> Politico: New fundraising reports from Arizona show how much energy from Trump-world is flowing into installing new election administrators. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075264794/why-are-some-members-of-congress-pushing-to-change-a-19th-century-voting-law">Why are some members of Congress pushing to change a 19th century voting law?</a> NPR: NPR's Steve Inskeep talks to former Congressman Zach Wamp, a Republican from Tennessee, about efforts to rewrite the Electoral Count Act. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075264843/what-does-the-white-house-plan-to-do-to-combat-inflation">What does the White House plan to do to combat inflation?</a> NPR: NPR's Rachel Martin talks to Brian Deese, director of the White House National Economic Council, about what the Biden administration is doing to take on inflation. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1074793780/when-are-taxes-due-irs-phones-backlog">The IRS faces backlogs from last year as a new tax filing season begins</a> NPR: The IRS is "in the roughest shape it's been in in 50 years," says former commissioner Mark Everson. The agency, he says, is understaffed, has more work than it can handle and is underfunded. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
  <p class="updated_time"> 10:16 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
@@ -290,16 +302,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/jan-6-fake-trump-electors.html">Jan. 6 Panel and State Officials Seek Answers on Fake Trump Electors</a> NYT: Pressure is mounting on the Justice Department to investigate bogus electors who claimed that Donald J. Trump defeated Joseph R. Biden Jr. in their states. 
  <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
- <p class="updated_time"> 04:26 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074872926/floridas-desantis-proposes-a-voting-map-that-cuts-2-majority-black-voting-distri">Florida's DeSantis proposes a voting map that cuts 2 majority Black voting districts</a> NPR: Governor Ron DeSantis, R-Fla., has weighed into the redistricting fight in Florida by proposing his own controversial congressional redistricting maps that dilute minority voting power. 
  <p class="updated_time"> 04:17 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/supreme-court-native-americans-oklahoma.html">Supreme Court to Consider Limits of Ruling on Oklahoma Tribes</a> NYT: But the justices rejected a request from state officials to revisit a 2020 ruling that much of eastern Oklahoma falls within an Indian reservation. 
- <p class="updated_time"> 03:47 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074814640/march-for-life-protest-roe-v-wade">Thousands gather for the March for Life protest, as Supreme Court weighs Roe v. Wade</a> NPR: The annual march in Washington, D.C., occurs around the anniversary of the Roe decision. This year, as the Supreme Court considers overturning some of its protections, protesters say they feel hope. 
  <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
- <p class="updated_time"> 03:27 PM CT, Jan. 21 </p> 
- <a href="https://www.npr.org/2022/01/21/1074872855/the-great-resignation-is-giving-workers-more-power-labor-secretary-walsh-says">The 'Great Resignation' is giving workers more power, Labor Secretary Walsh says</a> NPR: NPR'S Ailsa Chang talks with Labor Secretary Marty Walsh about the underlying causes of the "Great Resignation" and what he learned this past year from conversations with Americans across the country. 
  <p class="updated_time"> 01:27 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/us-mint-racial-turmoil.html">Racial Turmoil Mars Signs of Progress at the U.S. Mint</a> NYT: A new internal report found that Black employees felt marginalized at the Treasury agency that produces the nation’s coins. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
@@ -317,8 +323,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/michigan-dccc-republicans-house-527546">‘A bridge too far’: Dems spar over whether to welcome anti-Trump GOP defector</a> Politico: Michael Taylor, the mayor of Sterling Heights, is being courted for a new congressional seat in the Detroit suburbs. But not all Democrats are happy about it. 
- <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
- <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
