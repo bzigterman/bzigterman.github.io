@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
+ <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
+ <p class="updated_time"> 07:32 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: Gunman dead after injuring several</a> BBC: Police say the gunman in the university town of Heidelberg was acting alone and is now dead. 
  <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 07:12 AM CT, Jan. 24 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as transport minister in 2020. 
  <p class="updated_time"> 07:03 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 07:02 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
  <p class="updated_time"> 06:46 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 06:32 AM CT, Jan. 24 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/scott-quiner-covid-ventilator-fight.html">Covid Patient Scott Quiner Dies After Fight to Keep Him on a Ventilator </a> NYT: Mercy Hospital in Minnesota wanted to take Scott Quiner off his ventilator. His family moved him to a hospital in Texas. 
  <p class="updated_time"> 04:05 PM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/state-department-tells-families-of-u-s-diplomats-in-ukraine-to-leave-11642983133">State Department Tells Families of U.S. Diplomats in Ukraine to Leave</a> WSJ: Some U.S. Embassy staff members also have been authorized to depart. 
- <p class="updated_time"> 03:36 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
- <p class="updated_time"> 04:42 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/middleeast/yemen-saudi-arabia-airstrike.html">Saudi-Led Airstrikes Kill Scores at a Prison in Yemen</a> NYT: The strikes, which also knocked out the country’s internet, came after Iran-backed Houthi rebels attacked the U.A.E., a key partner in the Saudi-led coalition that has been fighting in Yemen for years. 
  <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
  <p class="updated_time"> 04:14 PM CT, Jan. 21 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
- <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
