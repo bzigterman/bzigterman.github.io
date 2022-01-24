@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:47 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-dead-jean-jacques-savin.html">French Adventurer Disappears While Attempting to Row Solo Across the Atlantic</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
+ <p class="updated_time"> 10:42 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French fashion designer created pieces for David Bowie, Sharon Stone and Lady Gaga. 
+ <p class="updated_time"> 10:29 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 10:09 PM CT, Jan. 23 </p> 
@@ -15,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 09:28 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 09:16 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60106871?at_medium=RSS&at_campaign=KARANGA">Fortescue: Firm owned by Australia's richest man buys Williams F1 battery arm</a> BBC: Fortescue Metals says the deal will help it to achieve its target to be carbon neutral by 2030. 
  <p class="updated_time"> 09:08 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
@@ -65,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075199404/yevheniy-murayev-russia-ukraine-british-foreign-office">Who is Yevheniy Murayev, the man the U.K. says Russia wants to install in Ukraine?</a> NPR: The British government named Murayev as one of Russia's top picks to lead Ukraine were it to invade the country. Murayev, a critic of Ukraine's pro-Western government, has dismissed the claim. 
- <p class="updated_time"> 01:13 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-dead-jean-jacques-savin.html">French Adventurer Dies Attempting to Row Solo Across the Atlantic</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese maritime authorities found him dead in his boat near the Azores. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 11:45 AM CT, Jan. 23 </p> 
@@ -85,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168742/buckingham-palace-removes-prince-andrews-titles-in-wake-of-sexual-assault-lawsui">Buckingham Palace removes Prince Andrew's titles in wake of sexual assault lawsuit</a> NPR: Sarah McCammon speaks to Sonia Sodha from 'The Guardian' about the sexual abuse lawsuit against Prince Andrew and its impact on the institution of Britain's royal family. 
  <p class="updated_time"> 07:28 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168735/in-pakistan-big-trucks-are-the-perfect-canvas-for-intricate-murals">In Pakistan, big trucks are the perfect canvas for intricate murals</a> NPR: We take a look at the colorful Pakistani practice of turning big transport trucks into wildly bright works of art. 
- <p class="updated_time"> 07:13 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60095459?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: UK warns of plot to install pro-Moscow ally</a> BBC: The Foreign Office takes the unusual step of naming a former Ukrainian MP as a potential Kremlin candidate. 
  <p class="updated_time"> 07:11 AM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60103015?at_medium=RSS&at_campaign=KARANGA">NZ PM Ardern calls off wedding amid Omicron outbreak</a> BBC: New Zealand's Prime Minister Jacinda Ardern has cancelled her wedding after announcing new Covid restrictions. 
  <p class="updated_time"> 07:08 AM CT, Jan. 23 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/saudis-reopen-elementary-schools-after-one-of-the-worlds-longest-covid-shutdowns-11642938685">Saudis Reopen Elementary Schools After One of the World's Longest Covid Shutdowns</a> WSJ: Millions of Saudi children began returning to elementary classrooms for the first time in nearly two years, a period of remote learning that was among the world’s longest and that angered parents. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
- <p class="updated_time"> 12:40 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60098576?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: Iranian-Briton starts hunger strike in prison</a> BBC: Anoosheh Ashoori from London hopes the strike will bring attention to those being held in Iran. 
  <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/23/1075142002/new-zealand-covid-restrictions-omicron">New Zealand adds new restrictions and Ardern delays her wedding as omicron spreads</a> NPR: After nine cases were detected in the region, the country will impose gathering size limits and other measures. Until this month, New Zealand had avoided any outbreaks of the omicron variant. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
@@ -197,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:16 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075240355/u-s-weighs-sending-5-000-troops-to-eastern-europe-to-counter-russia">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
+ <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 10:09 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
