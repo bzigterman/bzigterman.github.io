@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:16 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso 'coup attempt' condemned by Ecowas</a> BBC: After gunfire is heard in the capital, President Roch Kaboré's whereabouts are unclear. 
+ <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
+ <p class="updated_time"> 10:04 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Hundreds of boys are still being held hostage as the siege of a prison attacked by the Islamic State last week continues. 
+ <p class="updated_time"> 10:03 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 09:46 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Former Lebanese Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 09:43 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
- <p class="updated_time"> 09:35 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Paramilitary forces in northeastern Syria say they have regained partial control of a prison attacked by the Islamic State last week. Hundreds of boys are being held hostage. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
@@ -35,16 +41,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
  <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
- <p class="updated_time"> 07:03 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 06:32 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso President Kaboré reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kaboré is reportedly under military arrest. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:58 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60109733?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Third journalist killed this year</a> BBC: Lourdes Maldonado López is the second journalist murdered in the city of Tijuana in a week. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Eruption more powerful than atomic bomb, Nasa says</a> BBC: The eruption earlier this month showered the Pacific nation in ash and triggered a tsunami. 
+ <p class="updated_time"> 05:15 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:26 AM CT, Jan. 24 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/julian-assange-can-seek-appeal-in-u-k-supreme-court-against-extradition-to-u-s-11643030614">Julian Assange Can Seek Appeal in U.K. Supreme Court Against Extradition to U.S.</a> WSJ: A U.K. court allowed the WikiLeaks founder to take his appeal against extradition to the country’s Supreme Court, another setback in the U.S.’s yearslong pursuit of him. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
- <p class="updated_time"> 02:31 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 02:00 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/a-love-story-on-netflix-aims-to-show-there-is-more-to-afghanistan-than-war-11643029201">A Love Story on Netflix Aims to Show There Is More to Afghanistan Than War</a> WSJ: ‘Three Songs for Benazir’ tries to avoid politics even as the Taliban takeover of Afghanistan looms over the film. 
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
- <p class="updated_time"> 12:18 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows Europe's Economy but Supply-Chain Strains Ease</a> WSJ: Rising infection rates driven by the faster-spreading Omicron variant of Covid-19 led to economic slowdowns in Europe, Japan and Australia as 2022 got under way, but a further easing of supply-chain strains helped support factory activity. 
  <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:30 PM CT, Jan. 23 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
  <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin tests positive for Covid ahead of New York Times trial</a> Politico: Jury selection is set to begin later Monday in federal court in New York City. 
  <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
