@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:41 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 12:50 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
+ <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
+ <p class="updated_time"> 12:11 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:18 PM CT, Jan. 23 </p> 
@@ -16,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 10:42 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French fashion designer created pieces for David Bowie, Sharon Stone and Lady Gaga. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French fashion designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 10:09 PM CT, Jan. 23 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 09:16 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-60106871?at_medium=RSS&at_campaign=KARANGA">Fortescue: Firm owned by Australia's richest man buys Williams F1 battery arm</a> BBC: Fortescue Metals says the deal will help it to achieve its target to be carbon neutral by 2030. 
- <p class="updated_time"> 09:08 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:07 PM CT, Jan. 23 </p> 
@@ -69,20 +71,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106108?at_medium=RSS&at_campaign=KARANGA">Covid: Clashes at Belgium protest against restrictions</a> BBC: A rally sees violent exchanges in Brussels as tens of thousands marched against Covid restrictions. 
- <p class="updated_time"> 02:50 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60099924?at_medium=RSS&at_campaign=KARANGA">German navy chief resigns over Ukraine comments</a> BBC: Kay-Achim Schönbach said the idea that Russia wanted to invade Ukraine was nonsense. 
  <p class="updated_time"> 01:44 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075199404/yevheniy-murayev-russia-ukraine-british-foreign-office">Who is Yevheniy Murayev, the man the U.K. says Russia wants to install in Ukraine?</a> NPR: The British government named Murayev as one of Russia's top picks to lead Ukraine were it to invade the country. Murayev, a critic of Ukraine's pro-Western government, has dismissed the claim. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 11:45 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia on Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its aim to be a player in Europe’s security crisis — even as scandals besiege Prime Minister Boris Johnson. 
- <p class="updated_time"> 11:29 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60102088?at_medium=RSS&at_campaign=KARANGA">Cameroon nightclub fire: Liv's Night Club in Yaoundé hit by deadly blaze</a> BBC: At least 16 people have been killed and eight others seriously wounded in the blaze. 
  <p class="updated_time"> 11:03 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075179985/ukraine-russia-border-britain-allegations-coup">Ukraine crisis deepens after U.K. says Russia may try to install a pro-Kremlin leader</a> NPR: The situation along the Russia-Ukraine border remains tense, with thousands of Russian troops amassed just across the divide and Ukraine preparing for a possible invasion. 
- <p class="updated_time"> 10:21 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60100364?at_medium=RSS&at_campaign=KARANGA">IS prison break in Syria sparks days of clashes</a> BBC: More than 100 people have been killed in the fighting between militants and Kurdish-led forces. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
