@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The boundary-breaking designer created dresses so memorable (Demi Moore’s black dress in the 1993 film “Indecent Proposal,” for one) most people could picture them with their eyes closed. 
  <p class="updated_time"> 07:34 PM CT, Jan. 23 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/middleeast/isis-prison-syria-jail.html">ISIS Fighters Attack Syria Prison to Free Fellow Jihadists</a> NYT: The attack on a prison in northeastern Syria and a separate attack in Iraq were reminders of the Islamic State’s persistent threat and the unfinished business of the war against it. 
  <p class="updated_time"> 10:21 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-volcano.html">How a Volcano Severed Tonga From the World</a> NYT: The disaster caused by the largest eruption in decades has been defined so far by the nation’s near-complete disconnection in an ever-connected age. 
- <p class="updated_time"> 09:37 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/business/hong-kong-covid-supply-chain.html">Zero-Covid Policy Shakes Hong Kong’s Economy and Its ‘Soul’</a> NYT: Businesses that held on through several outbreaks are now trembling as the highflying metropolitan hub struggles with supply chain issues and a relentless approach to the pandemic. 
  <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 08:15 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/taliban-talks-norway-recognition-00000913">Taliban talks in Norway spark new debate about recognition</a> Politico: It is the first time since the Taliban took over in August that their representatives have held official meetings in Europe. 
  <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/ron-klain-hot-water-527570">It’s Ron Klain’s turn in the barrel</a> Politico: Biden’s chief of staff started strong and earned plaudits. But, increasingly, he’s under scrutiny for the state of the presidency. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/21/politics/free-covid-test-government-website-errors/index.html">Why some people are having problems ordering free Covid tests</a> CNN: Marisa Diaz y Diaz doesn't understand why her order for the free federal home Covid-19 tests isn't going through. 
- <p class="updated_time"> 09:20 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/manchin-democrats.html">With Broad Safety Net Bill Stalled, Democrats Weigh What to Salvage</a> NYT: As discussions resumed over how to whittle down the plan, Senator Joe Manchin, a key holdout, said any talks would be starting with “a clean sheet of paper.” 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:25 AM CT, Jan. 21 </p> 
