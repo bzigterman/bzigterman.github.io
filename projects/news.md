@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:15 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
+ <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
+ <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-military-takeover.html">Military announces takeover in West African nation of Burkina Faso.</a> NYT: It suspended the Constitution and ousted the country’s democratically elected president hours after mutinous soldiers surrounded his home. 
- <p class="updated_time"> 12:15 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 12:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 12:04 PM CT, Jan. 24 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is a 50-acre landmass half a mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
  <p class="updated_time"> 11:38 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
- <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
  <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
@@ -63,6 +67,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
  <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
+ <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
+ <p class="updated_time"> 07:05 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
@@ -71,18 +79,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213">On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</a> WSJ: The nation has struggled to maintain a sense of stability since it became an independent country in 1991, and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time. 
  <p class="updated_time"> 05:31 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso's President Is Seized by Troops</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
- <p class="updated_time"> 05:15 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
- <p class="updated_time"> 04:41 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: A previous attack in Abu Dhabi by Yemen’s Houthi rebels killed three people and injured six others. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
- <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 02:55 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/julian-assange-can-seek-appeal-in-u-k-supreme-court-against-extradition-to-u-s-11643030614">Julian Assange Can Seek Appeal in U.K. Supreme Court Against Extradition to U.S.</a> WSJ: A U.K. court allowed the WikiLeaks founder to take his appeal against extradition to the country’s Supreme Court, another setback in the U.S.’s yearslong pursuit of him. 
+ <a href="https://www.wsj.com/articles/julian-assange-can-seek-appeal-in-u-k-supreme-court-against-extradition-to-u-s-11643030614">Assange Can Seek Appeal in U.K. High Court Against Extradition to U.S.</a> WSJ: A U.K. court allowed the WikiLeaks founder to take his appeal against extradition to the country’s Supreme Court, another setback in the U.S.’s yearslong pursuit of him. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
@@ -194,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/california-school-covid-vaccine-mandate-proposal-00001261">California lawmaker proposes Covid vaccine mandate for all schoolchildren</a> Politico: State Sen. Richard Pan’s proposal would go further than Gov. Gavin Newsom’s requirement 
  <p class="updated_time"> 11:32 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
  <p class="updated_time"> 11:31 AM CT, Jan. 24 </p> 
@@ -240,6 +244,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
+ <p class="updated_time"> 08:30 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/activist-sues-gottheimer-sussex-democrats-over-oath-keeper-allegations-1406408">Activist sues Gottheimer, Sussex Democrats over Oath Keeper allegations</a> Politico: Bill Hayden, a potential candidate for Sussex County commissioner, said statements by Gottheimer and top members of the Democratic Party are “outrageous and false.” 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 08:15 PM CT, Jan. 23 </p> 
@@ -266,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/ardern-new-zealand-covid-wedding-00000554">Omicron spreads in New Zealand, spoiling prime minister’s wedding plans</a> Politico: Jacinda Ardern was to have been married next weekend. 
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
- <p class="updated_time"> 09:52 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/blinken-counter-russian-aggression-00000521">U.S. orders diplomats’ families to leave Ukraine, urges Americans to depart</a> Politico: The authorized and ordered departures followed assurances by Secretary of State Antony Blinken that the U.S. and allied nations are prepared to counter Russia. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been hobbling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
@@ -276,6 +280,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
+ <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
@@ -368,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
- <p class="updated_time"> 05:57 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/biden-free-masks-omicron-surge-527335">Biden plans giveaway of 400M masks as Omicron surges</a> Politico: There are more than 750 million N95 masks in the Strategic National Stockpile, a White House official said. 
  <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
