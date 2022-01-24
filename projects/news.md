@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:21 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Paramilitary forces in northeastern Syria say they have regained control of part of a prison under siege since an Islamic State attack last week. 
+ <p class="updated_time"> 09:46 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Former Lebanese Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
+ <p class="updated_time"> 09:43 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
+ <p class="updated_time"> 09:35 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Paramilitary forces in northeastern Syria say they have regained partial control of a prison attacked by the Islamic State last week. Hundreds of boys are being held hostage. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: Gunman dead after injuring four</a> BBC: Police say the gunman in the university town of Heidelberg was acting alone and is now dead. 
  <p class="updated_time"> 09:02 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
- <p class="updated_time"> 08:51 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
  <p class="updated_time"> 08:36 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin tests positive for Covid ahead of New York Times trial</a> Politico: Jury selection is set to begin later Monday in federal court in New York City. 
  <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
+ <p class="updated_time"> 09:34 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 08:47 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 08:41 AM CT, Jan. 24 </p> 
@@ -276,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
- <p class="updated_time"> 05:00 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
