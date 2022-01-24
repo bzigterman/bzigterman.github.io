@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">A popular uprising and soldier mutinies challenge Burkina Faso's president</a> NPR: Government officials had sought to reassure people that the situation was under control even as shots rang out for hours at the army base. 
  <p class="updated_time"> 01:09 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 01:06 AM CT, Jan. 24 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
- <p class="updated_time"> 10:34 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia">90 tons of U.S. military aid arrives in Ukraine as border tensions with Russia rise</a> NPR: The aid, which includes ammunition, is part of a $200 million package that President Biden approved in December and is meant for Ukraine's front-line defenders should Russia choose to invade. 
  <p class="updated_time"> 08:45 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/americas/peru-oil-spill-tonga-tsunami.html">Oil Spill Triggered by Tsunami Devastates Coast of Peru</a> NYT: Initially said to be seven gallons, the oil spill turned out to be 6,000, the environment ministry said, and has led Peru to call for international aid. 
  <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
