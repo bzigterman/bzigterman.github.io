@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:55 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv, moves that the Ukraine government called premature. 
+ <p class="updated_time"> 07:47 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
  <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 07:12 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
- <p class="updated_time"> 07:10 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as transport minister in 2020. 
  <p class="updated_time"> 07:03 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 06:46 AM CT, Jan. 24 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60109733?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Third journalist killed this year</a> BBC: Lourdes Maldonado López is the second journalist murdered in the city of Tijuana in a week. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Eruption more powerful than atomic bomb, Nasa says</a> BBC: The eruption earlier this month showered the Pacific nation in ash and triggered a tsunami. 
- <p class="updated_time"> 05:32 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv, moves that the Ukraine government called premature. 
  <p class="updated_time"> 05:30 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
