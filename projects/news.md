@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
+ <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
+ <p class="updated_time"> 01:24 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 01:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
- <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
  <p class="updated_time"> 01:05 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 01:02 PM CT, Jan. 24 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
- <p class="updated_time"> 12:34 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Roch Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 12:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
@@ -63,18 +65,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 09:02 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
+ <p class="updated_time"> 08:31 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
- <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
- <p class="updated_time"> 07:05 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
