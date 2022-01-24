@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 02:31 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 02:28 AM CT, Jan. 24 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60091717?at_medium=RSS&at_campaign=KARANGA">Children as young as 10 are being groomed in Romania, to be trafficked to the UK</a> BBC: BBC correspondent Jean Mackenzie finds children as young as 10 are being groomed in Romania, to be trafficked to the UK. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first woman to swim English Channel</a> BBC: Mercedes Gleitze was the first woman to swim the English Channel, but kept her accomplishments hidden from her family. 
+ <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first British woman to swim English Channel</a> BBC: Mercedes Gleitze was the first British woman to swim the English Channel, but kept her accomplishments hidden from her family. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 04:42 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/scott-quiner-covid-ventilator-fight.html">Covid Patient Scott Quiner Dies After Fight to Keep Him on a Ventilator </a> NYT: Mercy Hospital in Minnesota wanted to take Scott Quiner off his ventilator. His family moved him to a hospital in Texas. 
- <p class="updated_time"> 04:10 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 03:36 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60092306?at_medium=RSS&at_campaign=KARANGA">Auschwitz: Dutch tourist fined over Nazi salute at former death camp</a> BBC: A 29-year-old woman - who says it was a bad joke - is charged with engaging in Nazi propaganda. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
