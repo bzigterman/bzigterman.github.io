@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 04:49 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 04:26 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
@@ -192,9 +192,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/kerik-jan-6-voting-machines-00001552">Kerik told Jan. 6 panel that former Army colonel came up with idea to seize voting machines</a> Politico: Previously, Phil Waldron was best known for circulating a 38-page PowerPoint presentation that urged Trump to declare a state of emergency in the wake of the election. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/robert-kennedy-holocaust-vaccines-00001548">RFK Jr. remarks on Anne Frank, vaccines draw condemnation</a> Politico: “Those who carelessly invoke Anne Frank, the star badge, and the Nuremberg Trials exploit history and the consequences of hate,” the U.S. Holocaust Memorial Museum said. 
- <p class="updated_time"> 03:47 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 04:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/23/politico-turns-15-00000032"> POLITICO turns 15</a> Politico Playbook: And Arizona Democrats censure Sen. Kyrsten Sinema. 
  <p class="updated_time"> 11:04 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sanders-sinema-arizona-democrats-censure-00000544">Sanders backs Arizona Democrats' censure of Sinema</a> Politico: “I think what the Arizona Democrats did was exactly right,” he said. 
- <p class="updated_time"> 10:56 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/ardern-new-zealand-covid-wedding-00000554">Omicron spreads in New Zealand, spoiling prime minister’s wedding plans</a> Politico: Jacinda Ardern was to have been married next weekend. 
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
