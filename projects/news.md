@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 03:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
+ <p class="updated_time"> 03:44 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60117763?at_medium=RSS&at_campaign=KARANGA">George Floyd: Three ex-officers face civil rights trial</a> BBC: Federal prosecutors allege the former officers "wilfully deprived" George Floyd of his civil rights. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 03:31 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
- <p class="updated_time"> 03:21 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383828/tired-of-forever-wars-the-u-s-weighs-options-if-russia-invades-ukraine">Tired of forever wars, the U.S. weighs options if Russia invades Ukraine</a> NPR: NPR's Asma Khalid speaks with retired U.S. Navy Admiral James Stavridis about how to address a potential Russian invasion of Ukraine. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
@@ -67,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075327651/crystal-cruises-arrest-warrant-bahamas">A luxury cruise ship rerouted to the Bahamas over an arrest warrant for unpaid fuel</a> NPR: The Crystal Symphony was supposed to dock in Miami, but ended up in the Bahamas after a U.S. judge granted an order to seize the ship as part of a breach-of-contract lawsuit. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
+ <p class="updated_time"> 11:11 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. ordered thousands of troops to prepare for possible deployment. 
  <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 10:59 AM CT, Jan. 24 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
- <p class="updated_time"> 08:31 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. put several hundred troops on standby to potentially deploy to Eastern Europe. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
@@ -92,13 +94,13 @@ permalink: /projects/news/
  <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: U.A.E. and U.S. forces intercepted two ballistic missiles over Abu Dhabi, a week after a previous attack by Yemen’s Houthi rebels killed three people and injured six others. 
  <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe, Asia also felt an impact from the new Covid-19 variant. 
+ <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe and Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Eruption more powerful than atomic bomb, Nasa says</a> BBC: The eruption earlier this month showered the Pacific nation in ash and triggered a tsunami. 
  <p class="updated_time"> 05:42 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213">On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</a> WSJ: The nation has struggled to maintain a sense of stability since it became an independent country in 1991, and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time. 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213">On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</a> WSJ: The nation has struggled to maintain a sense of stability since it became an independent country in 1991 and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">Soldiers say a military junta now controls Burkina Faso</a> NPR: The mutiny came a day after a public demonstration calling for Kabore's resignation. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
- <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
  <p class="updated_time"> 09:42 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
- <p class="updated_time"> 06:16 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
 
 
 </details>
