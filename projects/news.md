@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 PM CT, Jan. 23 </p> 
+ <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders family of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department ordered eligible family members of personnel at its embassy in Kyiv to leave the country. 
+ <p class="updated_time"> 05:48 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
+ <p class="updated_time"> 05:40 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/sport/snooker/60106607?at_medium=RSS&at_campaign=KARANGA">Vafaei first Iranian to win snooker ranking title</a> BBC: Hossein Vafaei becomes the first Iranian player to win a snooker ranking title, beating Mark Williams in the final of the Snooker Shoot Out. 
  <p class="updated_time"> 05:24 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60104010?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel at Amsterdam airport</a> BBC: A man is discovered alive in the wheel section of a plane that landed in Amsterdam from South Africa. 
  <p class="updated_time"> 04:55 PM CT, Jan. 23 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075108292/former-nsa-mcmaster-proposes-climate-policy-to-pressure-russia">Former NSA McMaster proposes climate policy to pressure Russia</a> NPR: NPR's Michel Martin speaks with former National Security Advisor, General H.R. McMaster, about how climate policy can be used to counter Russian President Vladimir Putin's agenda. 
- <p class="updated_time"> 03:38 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60092300?at_medium=RSS&at_campaign=KARANGA">'Surreal' January wildfire shuts California highway</a> BBC: An unseasonal blaze rages in the Monterey County, forcing evacuations and the closure of Highway 1. 
  <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Monk, Zen Master and Activist, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075049588/ethnic-tensions-are-mounting-in-bosnia-herzegovina-again">Ethnic tensions are mounting in Bosnia-Herzegovina again</a> NPR: A quarter century after the end of a brutal civil war in Bosnia-Herzegovina, tensions are once again on the rise and threatening to tear apart the multi-ethnic government. 
  <p class="updated_time"> 07:06 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049567/nato-is-threatening-russia-with-sanctions-to-protect-ukraine-but-do-sanctions-wo">NATO is threatening Russia with sanctions to protect Ukraine, but do sanctions work?</a> NPR: Sanctions that the West has imposed on Russia since 2014 seem to have had only a limited effect. So why does NATO believe it can prevent an invasion of Ukraine by threatening similar actions? 
- <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075049525/saudi-led-airstrike-in-yemen-kills-more-than-70-and-wounds-hundreds">Saudi-led airstrike in Yemen kills more than 70 and wounds hundreds</a> NPR: Saudi-led air strikes on Yemen have intensified and this week took a heavy toll. Aid groups say 70 people being held in detention by Houthi rebels were killed in an attack. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
