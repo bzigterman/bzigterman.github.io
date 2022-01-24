@@ -73,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60117202?at_medium=RSS&at_campaign=KARANGA">Sarah Palin's positive Covid test delays New York Times defamation trial</a> BBC: The former US vice-presidential candidate's lawsuit against The New York Times is delayed till February. 
  <p class="updated_time"> 10:51 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
+ <p class="updated_time"> 10:44 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:11 AM CT, Jan. 24 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
- <p class="updated_time"> 08:40 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 08:31 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. put several hundred troops on standby to potentially deploy to Eastern Europe. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
@@ -194,14 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
  <p class="updated_time"> 03:35 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
- <p class="updated_time"> 03:08 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 02:18 PM CT, Jan. 24 </p> 
