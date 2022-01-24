@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
  <p class="updated_time"> 01:05 PM CT, Jan. 24 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Roch Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 12:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
- <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:51 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60118887?at_medium=RSS&at_campaign=KARANGA">Bob Dylan sells his master recordings to Sony Music</a> BBC: The deal covers the rights to all of Dylan's albums, as well as "multiple future new releases". 
  <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is a 50-acre landmass half a mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
+ <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is made up of 50 acres a half-mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
  <p class="updated_time"> 11:38 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
@@ -276,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been hobbling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
- <p class="updated_time"> 08:18 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/beijing-district-mass-virus-testing-olympics-00000506">Beijing district orders mass virus testing ahead of Olympics</a> Politico: The ruling Communist Party is stepping up enforcement of its “zero tolerance” strategy. 
  <p class="updated_time"> 07:00 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/21/new-jersey-toxic-drinking-water-527621">How a toxic chemical ended up in the drinking water supply for 13 million people</a> Politico: Officials found a gap in state and federal regulations that allowed an unsafe chemical to end up in an essential water supply. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
