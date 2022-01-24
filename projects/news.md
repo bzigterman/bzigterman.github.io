@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:09 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
+ <p class="updated_time"> 01:06 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:50 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
- <p class="updated_time"> 12:11 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
  <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:18 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
- <p class="updated_time"> 10:42 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French fashion designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 10:09 PM CT, Jan. 23 </p> 
@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60091717?at_medium=RSS&at_campaign=KARANGA">Children as young as 10 are being groomed in Romania, to be trafficked to the UK</a> BBC: BBC correspondent Jean Mackenzie finds children as young as 10 are being groomed in Romania, to be trafficked to the UK. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first woman to swim English Channel</a> BBC: Mercedes Gleitze was the first woman to swim the English Channel, but she kept her fame and accomplishments hidden from her family. 
+ <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first woman to swim English Channel</a> BBC: Mercedes Gleitze was the first woman to swim the English Channel, but kept her accomplishments hidden from her family. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
