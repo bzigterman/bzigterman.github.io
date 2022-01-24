@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 02:28 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso president reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kabore is reportedly under military arrest. 
  <p class="updated_time"> 02:01 AM CT, Jan. 24 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">A popular uprising and soldier mutinies challenge Burkina Faso's president</a> NPR: Government officials had sought to reassure people that the situation was under control even as shots rang out for hours at the army base. 
  <p class="updated_time"> 01:09 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 84% of population affected by ash fall and tsunami</a> BBC: The latest update from the Tongan government confirms the scope of damage and the arrival of aid. 
- <p class="updated_time"> 01:06 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075258307/french-fashion-designer-thierry-mugler-dies-at-73">French fashion designer Thierry Mugler dies at 73</a> NPR: "May his soul Rest In Peace," his Instagram said in a post that was all black with no image. It did not give a cause of death. 
  <p class="updated_time"> 12:30 AM CT, Jan. 24 </p> 
@@ -28,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:18 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with Western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
  <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
