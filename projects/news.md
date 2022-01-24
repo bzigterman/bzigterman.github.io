@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
+ <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
+ <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
+ <p class="updated_time"> 11:18 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075327651/crystal-cruises-arrest-warrant-bahamas">A luxury cruise ship rerouted to the Bahamas over an arrest warrant for unpaid fuel</a> NPR: The Crystal Symphony was supposed to dock in Miami, but ended up in the Bahamas after a U.S. judge granted an order to seize the ship as part of a breach-of-contract lawsuit. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
  <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: One dead in gun attack on German students</a> BBC: A gunman in the university town of Heidelberg shoots four people, one fatally, before killing himself. 
  <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
- <p class="updated_time"> 10:27 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
  <p class="updated_time"> 10:16 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso 'coup attempt' condemned by Ecowas</a> BBC: After gunfire is heard in the capital, President Roch Kaboré's whereabouts are unclear. 
  <p class="updated_time"> 10:11 AM CT, Jan. 24 </p> 
@@ -45,10 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
- <p class="updated_time"> 07:55 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv, moves that the Ukraine government called premature. 
- <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
  <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
- <p class="updated_time"> 06:59 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/22/1075110846/samoa-kiribati-covid-lockdowns-international-travel">Kiribati and Samoa implement rare lockdowns after travelers test positive</a> NPR: Dozens of travelers from Fiji tested positive in Kiribati, prompting the island nation to implement its first lockdown. Samoa's order followed a cluster of cases in airline passengers from Australia. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:32 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
  <p class="updated_time"> 11:31 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-climate-banks-2103097">Biden's climate warriors put banks on edge as new rules loom</a> Politico: Among other moves, regulators are likely to press banks to prepare for the fallout from a warming planet by stepping up scrutiny of fossil fuel financing. 
  <p class="updated_time"> 11:22 AM CT, Jan. 24 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/us/politics/democrats-biden-midterms-voting-rights.html">What Mattered This Week</a> NYT: President Biden rebooted. Democrats feuded. And Republicans watched it all with glee. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
- <p class="updated_time"> 04:34 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
  <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
