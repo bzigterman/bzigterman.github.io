@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The boundary-breaking designer created dresses so memorable (Demi Moore’s black dress in the 1993 film “Indecent Proposal,” for one) most people could picture them with their eyes closed. 
  <p class="updated_time"> 07:34 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
- <p class="updated_time"> 07:33 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 07:07 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Shots heard near presidential palace</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
  <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:18 PM CT, Jan. 23 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 08:15 PM CT, Jan. 23 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
  <p class="updated_time"> 02:00 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-agenda-fdr-lbj.html">Why Biden's Agenda Brings Him Closer to L.B.J. Than F.D.R.</a> NYT: The president’s agenda — big progressive change — has placed Democratic priorities over the voters’ desire for practical help on the pandemic and inflation. 
- <p class="updated_time"> 09:35 PM CT, Jan. 20 </p> 
- <a href="https://www.nytimes.com/2022/01/20/us/politics/voting-rights-cory-booker-tim-scott.html">‘I Will Not Sit Quietly’: 3 Black Senators in Spotlight on Voting Rights</a> NYT: Senators Cory Booker, Tim Scott and Raphael Warnock brought vastly different perspectives to proceedings that highlighted the Senate’s striking lack of diversity. 
  <p class="updated_time"> 09:04 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/fact-check-mcconnell-black-turnout.html">Fact-Checking McConnell’s Comparison of Black Turnout Rates</a> NYT: The Republican leader’s claim about high voter turnout in previous elections wasn’t too far off base, but that doesn’t mean voting access is assured. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
