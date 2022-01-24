@@ -7,24 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
+ <p class="updated_time"> 05:25 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
+ <p class="updated_time"> 05:21 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Six people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
- <p class="updated_time"> 05:02 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 04:26 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
  <p class="updated_time"> 03:44 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60117763?at_medium=RSS&at_campaign=KARANGA">George Floyd: Three ex-officers face civil rights trial</a> BBC: Federal prosecutors allege the former officers "wilfully deprived" George Floyd of his civil rights. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383856/some-nato-allies-are-sending-military-aid-to-ukraine">Biden reports unanimity among European allies following call about Ukraine and Russia</a> NPR: After a video call with European allies, President Biden said there's unanimity on the threat posed by Russian troops on Ukraine's borders. Some allies are sending weapons to Ukraine. Others are not. 
- <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:31 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
  <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
- <p class="updated_time"> 08:36 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/europe/ireland-covid-restrictions-st-patricks-day.html">Ireland Relaxes Covid Restrictions and Plans for St. Patrick's Day</a> NYT: Pubs and restaurants can return to regular hours, but face masks are still required in public spaces. 
  <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
  <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
- <p class="updated_time"> 09:42 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
 
 
 </details>
@@ -196,6 +196,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/sheldon-silver-dies-new-york-00001544">Sheldon Silver, longtime New York power broker and eventual inmate, dies at 77</a> Politico: Silver was the undisputed master of the legislative process in his time as speaker. 
  <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/kerik-jan-6-voting-machines-00001552">Kerik told Jan. 6 panel that former Army colonel came up with idea to seize voting machines</a> Politico: Previously, Phil Waldron was best known for circulating a 38-page PowerPoint presentation that urged Trump to declare a state of emergency in the wake of the election. 
+ <p class="updated_time"> 05:25 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
  <p class="updated_time"> 05:21 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
@@ -238,6 +240,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:35 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/oath-keepers-founder-insurrection-sedition-charges-00000977">Judge mulls release for militia leader facing sedition charges in Jan. 6 attack</a> Politico: A year long delay in charging Oath Keepers founder may have hurt the case for keeping him in jail. 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
  <p class="updated_time"> 06:29 PM CT, Jan. 23 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 05:30 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/democrats-biden-midterms-voting-rights.html">What Mattered This Week</a> NYT: President Biden rebooted. Democrats feuded. And Republicans watched it all with glee. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
