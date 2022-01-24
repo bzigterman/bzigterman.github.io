@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is holding hundreds of boys hostage. 
  <p class="updated_time"> 02:30 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
- <p class="updated_time"> 02:28 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: Hundreds of boys are still being held hostage as the siege of a prison attacked by the Islamic State last week continues. 
  <p class="updated_time"> 02:23 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 02:17 PM CT, Jan. 24 </p> 
