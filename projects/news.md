@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:11 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
+ <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:56 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 02:51 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
- <p class="updated_time"> 02:49 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 02:43 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 02:42 PM CT, Jan. 24 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60111797?at_medium=RSS&at_campaign=KARANGA">In pictures: Thierry Mugler's life and works</a> BBC: Latex, leather and curves - Mugler reinvented the catwalk with his iconic creations 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 09:46 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Former Lebanese Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 08:40 AM CT, Jan. 24 </p> 
@@ -198,7 +198,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
- <p class="updated_time"> 02:59 PM CT, Jan. 24 </p> 
+ <p class="updated_time"> 03:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 02:51 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
