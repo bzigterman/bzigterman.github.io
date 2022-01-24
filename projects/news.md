@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:48 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
+ <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
@@ -21,10 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
- <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
- <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-military-takeover.html">Military announces takeover in West African nation of Burkina Faso.</a> NYT: It suspended the Constitution and ousted the country’s democratically elected president hours after mutinous soldiers surrounded his home. 
  <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
@@ -35,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is a 50-acre landmass half a mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
  <p class="updated_time"> 11:38 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
- <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
  <p class="updated_time"> 11:18 AM CT, Jan. 24 </p> 
@@ -189,6 +187,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
+ <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
+ <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
 
 
 </details>
@@ -198,10 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/california-school-covid-vaccine-mandate-proposal-00001261">California lawmaker proposes Covid vaccine mandate for all schoolchildren</a> Politico: State Sen. Richard Pan’s proposal would go further than Gov. Gavin Newsom’s requirement 
+ <p class="updated_time"> 12:43 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
  <p class="updated_time"> 11:32 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
  <p class="updated_time"> 11:31 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/biden-climate-banks-2103097">Biden's climate warriors put banks on edge as new rules loom</a> Politico: Among other moves, regulators are likely to press banks to prepare for the fallout from a warming planet by stepping up scrutiny of fossil fuel financing. 
+ <a href="https://www.politico.com/news/2022/01/24/biden-climate-banks-2103097">'Big shift': Biden moves to rewrite the rules on climate threat</a> Politico: Among other moves, regulators are likely to press banks to prepare for the fallout from a warming planet by stepping up scrutiny of fossil fuel financing. 
  <p class="updated_time"> 11:22 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-affirmative-action-harvard-unc-00001236">Supreme Court will take up Harvard, UNC affirmative action challenge</a> Politico: In the lawsuit SFFA asked the high court to overturn its ruling in a landmark affirmative action case that has shaped college admissions policies for nearly two decades. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin's defamation suit against 'The New York Times' gets its day in court</a> NPR: Jury selection begins Monday in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her political action committee to the shooting that wounded Rep. Gabby Giffords. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
- <p class="updated_time"> 04:35 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/us/politics/sinema-censure-arizona-democrats.html">Arizona Democrats Censure Sinema After Filibuster Vote</a> NYT: Kyrsten Sinema, a first-term Arizona senator, was rebuked by fellow Democrats in her state after her vote on the filibuster helped sink the party’s voting-rights legislation. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote">Arizona Democrats have censured Kyrsten Sinema over her pro-filibuster vote </a> NPR: The symbolic action comes as Sinema has come under criticism from progressive groups in Arizona after she voted to uphold the filibuster in the Senate. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
