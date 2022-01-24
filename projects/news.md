@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
+ <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
  <p class="updated_time"> 04:19 AM CT, Jan. 24 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075121304/britain-russia-replace-ukraine-government">Britain says Russia is planning to install a pro-Moscow leader in Ukraine</a> NPR: The U.K. said its claim is based on an intelligence assessment. Russia has massed tens of thousands of troops near the Ukraine border, stoking fears of an invasion. 
  <p class="updated_time"> 06:01 PM CT, Jan. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-60085074?at_medium=RSS&at_campaign=KARANGA">Fundraiser, 83, buys then delivers ambulances across Europe</a> BBC: John Shackleton, who has been fundraising for more than 30 years, says his age won't stop him. 
- <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
  <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Monk, Zen Master and Activist, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-rebel-territories.html">Ukraine Accuses Russia of Sending Mercenaries to Rebel Territories</a> NYT: The claim of soldiers for hire joining Russian-backed separatists in eastern Ukraine adds fuel to fears that Moscow will start a new offensive. 
  <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
- <p class="updated_time"> 10:03 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/arts/music/anna-von-hausswolff-satanist.html">A ‘High Priestess of Satanic Art’? This Organist Can Only Laugh.</a> NYT: For more than a decade, Anna von Hausswolff has been bringing the sound of pipe organs to rock fans. But Roman Catholic extremists have tried to stop her playing shows in churches. 
 
 
 </details>
