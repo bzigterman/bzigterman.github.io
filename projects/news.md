@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">U.A.E says it has intercepted two missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">A popular uprising and soldier mutinies challenge Burkina Faso's president</a> NPR: Government officials had sought to reassure people that the situation was under control even as shots rang out for hours at the army base. 
  <p class="updated_time"> 01:09 AM CT, Jan. 24 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-60085074?at_medium=RSS&at_campaign=KARANGA">Fundraiser, 83, buys then delivers ambulances across Europe</a> BBC: John Shackleton, who has been fundraising for more than 30 years, says his age won't stop him. 
  <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075108299/why-russias-thawing-permafrost-is-a-global-problem">Why Russia's thawing permafrost is a global problem</a> NPR: NPR's Michel Martin speaks with Joshua Yaffa, Moscow correspondent for the New Yorker, about a major climate change threat confronting Russia. 
- <p class="updated_time"> 04:04 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075108292/former-nsa-mcmaster-proposes-climate-policy-to-pressure-russia">Former NSA McMaster proposes climate policy to pressure Russia</a> NPR: NPR's Michel Martin speaks with former National Security Advisor, General H.R. McMaster, about how climate policy can be used to counter Russian President Vladimir Putin's agenda. 
  <p class="updated_time"> 02:51 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/thich-nhat-hanh-dead.html">Thich Nhat Hanh, Monk, Zen Master and Activist, Dies at 95</a> NYT: A monk with global influence and an ally of Martin Luther King, he championed what he called “engaged Buddhism,” applying its principles in pressing for peace. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
