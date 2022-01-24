@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:16 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 07:59 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The boundary-breaking designer created dresses so memorable (Demi Moore’s black dress in the 1993 film “Indecent Proposal,” for one) most people could picture them with their eyes closed. 
- <p class="updated_time"> 07:16 PM CT, Jan. 23 </p> 
+ <p class="updated_time"> 07:34 PM CT, Jan. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60106407?at_medium=RSS&at_campaign=KARANGA">Taliban begin talks with western officials in Oslo</a> BBC: The talks, set to last three days, will cover human rights and the humanitarian crisis in the country. 
+ <p class="updated_time"> 07:33 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: US orders families of embassy staff to leave</a> BBC: The State Department has also urged US citizens in Ukraine to consider leaving. 
  <p class="updated_time"> 07:07 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60102087?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Shots heard near presidential palace</a> BBC: The government denies reports of a coup attempt or that the president has been detained. 
@@ -34,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60089165?at_medium=RSS&at_campaign=KARANGA">Gender-based violence: Kenya's 'hidden epidemic'</a> BBC: When the Covid pandemic hit Kenya, cases of gender-based violence exploded. Tom Odula investigates the trauma behind this ‘hidden epidemic’. 
  <p class="updated_time"> 05:51 PM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders family of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department ordered eligible family members of personnel at its embassy in Kyiv to leave the country. 
+ <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders families of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department also authorized the voluntary departure of nonessential embassy employees at its embassy in Kyiv. 
  <p class="updated_time"> 05:40 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/snooker/60106607?at_medium=RSS&at_campaign=KARANGA">Vafaei first Iranian to win snooker ranking title</a> BBC: Hossein Vafaei becomes the first Iranian player to win a snooker ranking title, beating Mark Williams in the final of the Snooker Shoot Out. 
  <p class="updated_time"> 05:24 PM CT, Jan. 23 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/taiwan-fire-ghost-building-suspect.html">Suspect Charged in Taiwan's Deadly ‘Ghost Building’ Fire </a> NYT: Prosecutors say the suspect, seeking revenge on her partner after a quarrel, poured hot ashes on a sofa. The resulting fire killed 46 people. 
  <p class="updated_time"> 06:08 AM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/russia-invade-ukraine.html">Here's One Way Russia and Ukraine Could Go to War</a> NYT: How hostilities might start has been, by design, something of a guessing game. But a Russian proposal suggests one possibility. 
- <p class="updated_time"> 04:00 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/china-zero-covid-policy.html">China Holds the Line on ‘Zero Covid,’ but Some Wonder for How Long</a> NYT: More people are being caught up in the country’s virus-control dragnet. Some think the no-tolerance policy is unsustainable. 
 
 
 </details>
@@ -326,6 +326,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
  <a href="https://www.nytimes.com/2022/01/20/us/politics/democrats-voting-rights.html">On Voting Rights Bill, Democrats Say They Had to Go Down Swinging</a> NYT: Senator Chuck Schumer, the majority leader, chose to plunge ahead because of the importance of the issue even after the outcome became preordained. 
+ <p class="updated_time"> 05:34 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/20/florida-gop-led-senate-sets-up-clash-with-desantis-over-congressional-maps-1406232">Florida GOP-led Senate sets up clash with DeSantis over congressional maps</a> Politico: The GOP-led Florida Legislature rarely breaks with DeSantis. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
