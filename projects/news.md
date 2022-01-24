@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 08:49 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Paramilitary forces in northeastern Syria say they have regained control of part of a prison under siege since an Islamic State attack last week. 
  <p class="updated_time"> 08:36 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how the man got onto the flight from Johannesburg via Nairobi. 
  <p class="updated_time"> 07:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
- <p class="updated_time"> 07:12 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 07:03 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 06:46 AM CT, Jan. 24 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders families of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department also authorized the voluntary departure of nonessential embassy employees at its embassy in Kyiv. 
  <p class="updated_time"> 04:55 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
- <p class="updated_time"> 04:42 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/scott-quiner-covid-ventilator-fight.html">Covid Patient Scott Quiner Dies After Fight to Keep Him on a Ventilator </a> NYT: Mercy Hospital in Minnesota wanted to take Scott Quiner off his ventilator. His family moved him to a hospital in Texas. 
  <p class="updated_time"> 04:05 PM CT, Jan. 23 </p> 
  <a href="https://www.wsj.com/articles/state-department-tells-families-of-u-s-diplomats-in-ukraine-to-leave-11642983133">State Department Tells Families of U.S. Diplomats in Ukraine to Leave</a> WSJ: Some U.S. Embassy staff members also have been authorized to depart. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
