@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin tests positive for Covid ahead of New York Times trial</a> Politico: Jury selection is set to begin later Monday in federal court in New York City. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 08:47 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 08:41 AM CT, Jan. 24 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
- <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/eric-adams-pac-striving-new-york-1406521">PAC with ties to Adams raises over $1M from real estate, nightlife and GOP figures</a> Politico: The PAC, Striving for a Better New York, was created last September by New York City-based Rev. Alfred Cockfield II with the hopes of boosting moderate candidates in upcoming state elections. 
  <p class="updated_time"> 06:29 PM CT, Jan. 23 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:30 PM CT, Jan. 23 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
- <p class="updated_time"> 06:27 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/trump-supreme-court-records-527421">Supreme Court rejects Trump’s bid to shield records from Jan. 6 committee</a> Politico: The only member of the high court who signaled he would have granted Trump’s request was Justice Clarence Thomas. 
  <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
  <p class="updated_time"> 04:51 PM CT, Jan. 19 </p> 
