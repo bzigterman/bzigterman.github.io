@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is a 50-acre landmass half a mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
+ <p class="updated_time"> 11:38 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
  <p class="updated_time"> 11:28 AM CT, Jan. 24 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60117202?at_medium=RSS&at_campaign=KARANGA">Sarah Palin's positive Covid test delays New York Times defamation trial</a> BBC: The former US vice-presidential candidate's lawsuit against The New York Times is delayed till February. 
  <p class="updated_time"> 10:51 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
- <p class="updated_time"> 10:50 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 10:46 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: One dead in gun attack on German students</a> BBC: A gunman in the university town of Heidelberg shoots four people, one fatally, before killing himself. 
  <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
- <p class="updated_time"> 11:04 PM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/23/1075142002/new-zealand-covid-restrictions-omicron">New Zealand adds new restrictions and Ardern delays her wedding as omicron spreads</a> NPR: After nine cases were detected in the region, the country will impose gathering size limits and other measures. Until this month, New Zealand had avoided any outbreaks of the omicron variant. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/europe/ukraine-russia-us-blinken-lavrov.html">U.S. and Russia Take More Measured Stance in Ukraine Talks</a> NYT: The conciliatory tone and absence of ultimatums suggested that both sides were trying to keep tensions in check and give diplomacy time. 
  <p class="updated_time"> 03:38 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/syrian-refugee-family-italy.html">Viral Photograph of Munzir El Nezzel Helps Bring Syrian Refugee Family to Italy</a> NYT: A Syrian family portrayed in an award-winning photo has come to Italy for treatment and better lives. 
- <p class="updated_time"> 11:08 AM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/australia/tonga-man-tsunami-floating.html">Tongan Man Swept Away by Tsunami Survived After 26 Hours Afloat</a> NYT: Lisala Folau, a retired carpenter, spent a night and day at sea after an undersea volcanic eruption sent waves crashing through his home on the island of Atata. 
 
 
 </details>
