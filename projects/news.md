@@ -7,22 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
+ <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
+ <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
+ <p class="updated_time"> 12:36 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
+ <p class="updated_time"> 12:34 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Roch Kaboré has been overthrown and the government and parliament dissolved, the army says. 
+ <p class="updated_time"> 12:33 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Live Updates: Military Seizes Power in Burkina Faso</a> NYT: Mutinous soldiers ousted the West African nation’s democratically elected president hours after surrounding his home. It is the latest in a string of coups across the African continent. 
  <p class="updated_time"> 12:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-military-takeover.html">Military announces takeover in West African nation of Burkina Faso.</a> NYT: It suspended the Constitution and ousted the country’s democratically elected president hours after mutinous soldiers surrounded his home. 
- <p class="updated_time"> 12:22 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 12:19 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Biden to video call European allies over Ukraine</a> BBC: The US president will hold a secure call with leaders of the UK, France and Germany, among others. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
- <p class="updated_time"> 12:04 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: The coup comes a day after troops attacked barracks and gunshots were heard in the capital. 
- <p class="updated_time"> 12:03 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 11:51 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60118887?at_medium=RSS&at_campaign=KARANGA">Bob Dylan sells his master recordings to Sony Music</a> BBC: The deal covers the rights to all of Dylan's albums, as well as "multiple future new releases". 
  <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
@@ -125,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60089165?at_medium=RSS&at_campaign=KARANGA">Kenya's 'hidden epidemic': Gender-based violence</a> BBC: When Covid hit Kenya, cases of gender-based violence exploded but many cases still go unreported. 
  <p class="updated_time"> 05:51 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders families of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department also authorized the voluntary departure of nonessential embassy employees at its embassy in Kyiv. 
- <p class="updated_time"> 04:55 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168714/why-russian-president-vladimir-putin-is-escalating-the-threat-of-war-with-ukrain">Why Russian President Vladimir Putin is escalating the threat of war with Ukraine</a> NPR: Sarah McCammon talks with U.S. national security expert Andrea Kendall-Taylor about what is motivating Russian President Vladimir Putin as he escalates the threat of war with Ukraine. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Threat of Russian invasion escalates as both sides amass troops at Ukraine border</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
- <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/health/covid-boosters-cdc-omicron.html">As Omicron Crests, Booster Shots Are Keeping Americans Out of Hospitals</a> NYT: Extra vaccine doses were expected to lower infection rates. But the shots also seem to be preventing severe illness caused by the new variant, the C.D.C. reported. 
  <p class="updated_time"> 05:22 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/world/europe/anatoly-kvashnin-dead.html">Anatoly Kvashnin, Russian General in a Pivotal Era, Dies at 75</a> NYT: His brutal campaign in Chechnya left a legacy of embittered civilians and vengeful leaders. But he was also part of a warming toward the West after the Soviet Union fell. 
- <p class="updated_time"> 04:39 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/americas/honduras-castro-congress-rebellion.html">Xiomara Castro's Party in Honduras Splits, Threatening Reform Agenda</a> NYT: A split in the party of the president-elect, Xiomara Castro, has left her with little political means to fight corruption and organized crime. 
 
 
 </details>
