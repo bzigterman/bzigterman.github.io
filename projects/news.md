@@ -7,18 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:58 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
- <p class="updated_time"> 08:49 AM CT, Jan. 24 </p> 
+ <p class="updated_time"> 09:21 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">Syrian-Kurdish Forces Retake Part of Prison Held by ISIS</a> NYT: Paramilitary forces in northeastern Syria say they have regained control of part of a prison under siege since an Islamic State attack last week. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 09:09 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: Gunman dead after injuring four</a> BBC: Police say the gunman in the university town of Heidelberg was acting alone and is now dead. 
+ <p class="updated_time"> 09:02 AM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
+ <p class="updated_time"> 08:51 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60113271?at_medium=RSS&at_campaign=KARANGA">UK PM warns invasion of Ukraine would be 'disastrous'</a> BBC: Boris Johnson says an invasion would be painful and bloody for Russia - but war is not inevitable. 
  <p class="updated_time"> 08:36 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">Boris Johnson Orders Inquiry Into Lawmaker’s Claim of Islamophobia</a> NYT: Nusrat Ghani said that her “Muslimness” had been given as one reason for her losing her job as a transport minister in 2020. 
  <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
+ <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Intervenes to Repel Air Attack on United Arab Emirates</a> NYT: The attack came amid rising tensions between the Emirates and Iran-backed Houthi rebels in Yemen. The United Arab Emirates is part of the Saudi-led coalition that has been fighting the Houthis for years. 
- <p class="updated_time"> 08:07 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: Gunman dead after injuring several</a> BBC: Police say the gunman in the university town of Heidelberg was acting alone and is now dead. 
  <p class="updated_time"> 07:55 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv, moves that the Ukraine government called premature. 
  <p class="updated_time"> 07:42 AM CT, Jan. 24 </p> 
@@ -27,32 +35,32 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 07:03 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 06:46 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60110891?at_medium=RSS&at_campaign=KARANGA">Pakistan's first female Supreme Court judge sworn in</a> BBC: Ayesha Malik now sits on a bench with 16 other male colleagues in the country's top court. 
  <p class="updated_time"> 06:32 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60109234?at_medium=RSS&at_campaign=KARANGA">Burkina Faso President Kaboré reportedly detained by military</a> BBC: After gunfire is heard in the capital, President Roch Kaboré is reportedly under military arrest. 
- <p class="updated_time"> 06:29 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:58 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60109733?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Third journalist killed this year</a> BBC: Lourdes Maldonado López is the second journalist murdered in the city of Tijuana in a week. 
  <p class="updated_time"> 05:53 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60106981?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Eruption more powerful than atomic bomb, Nasa says</a> BBC: The eruption earlier this month showered the Pacific nation in ash and triggered a tsunami. 
- <p class="updated_time"> 05:30 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60106416?at_medium=RSS&at_campaign=KARANGA">Ukraine: UK withdrawing some embassy staff from Kyiv</a> BBC: About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:26 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091586?at_medium=RSS&at_campaign=KARANGA">Hundreds of children held by IS in besieged prison in Syria</a> BBC: Kurdish-led forces say they are being used as human shields in the jail they have surrounded in Syria. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering the alliance’s eastern flank in response to Russia’s military buildup around Ukraine, as the European Union set out plans for loans and grants for Kyiv worth more than $1.3 billion. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
+ <p class="updated_time"> 02:55 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/julian-assange-can-seek-appeal-in-u-k-supreme-court-against-extradition-to-u-s-11643030614">Julian Assange Can Seek Appeal in U.K. Supreme Court Against Extradition to U.S.</a> WSJ: A U.K. court allowed the WikiLeaks founder to take his appeal against extradition to the country’s Supreme Court, another setback in the U.S.’s yearslong pursuit of him. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 02:31 AM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60107017?at_medium=RSS&at_campaign=KARANGA">Thierry Mugler: French fashion designer dies aged 73</a> BBC: The French designer's theatrical creations were worn by David Bowie, Beyoncé and Lady Gaga. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/a-love-story-on-netflix-aims-to-show-there-is-more-to-afghanistan-than-war-11643029201">A Love Story on Netflix Aims to Show There Is More to Afghanistan Than War</a> WSJ: ‘Three Songs for Benazir’ tries to avoid politics even as the Taliban takeover of Afghanistan looms over the film. 
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it has intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
@@ -63,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60078517?at_medium=RSS&at_campaign=KARANGA">Australian Open: Navratilova blasts Peng Shuai T-shirt ban</a> BBC: Australian Open organisers asked a spectator to remove a T-shirt mentioning the Chinese player. 
  <p class="updated_time"> 12:18 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows Europe's Economy but Supply-Chain Strains Ease</a> WSJ: Rising infection rates driven by the faster-spreading Omicron variant of Covid-19 led to economic slowdowns in Europe, Japan and Australia as 2022 got under way, but a further easing of supply-chain strains helped support factory activity. 
- <p class="updated_time"> 12:05 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: A previous attack in Abu Dhabi by Yemen’s Houthi rebels killed three people and injured six others. 
  <p class="updated_time"> 11:37 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60107053?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man pleads guilty to kidnapping Australian girl</a> BBC: The four-year-old girl was taken from a campsite and held in a locked house for 18 days. 
  <p class="updated_time"> 11:30 PM CT, Jan. 23 </p> 
@@ -101,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075224256/ukraine-russia-border-us-embassy">State Department orders families of embassy staff to leave Ukraine</a> NPR: Citing a "continued threat of Russian military action," the U.S. State Department also authorized the voluntary departure of nonessential embassy employees at its embassy in Kyiv. 
  <p class="updated_time"> 04:55 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
- <p class="updated_time"> 04:05 PM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/state-department-tells-families-of-u-s-diplomats-in-ukraine-to-leave-11642983133">State Department Tells Families of U.S. Diplomats in Ukraine to Leave</a> WSJ: Some U.S. Embassy staff members also have been authorized to depart. 
  <p class="updated_time"> 03:26 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-christians-idlib.html">‘Now There Is No One’: The Lament of One of the Last Christians in a Syrian City</a> NYT: Michel Butros al-Jisri is among the few Christians left from a once-vibrant community in Idlib on the brink of disappearing. The city, in the only territory in Syria still controlled by rebels, is ruled by Islamists. 
  <p class="updated_time"> 03:19 PM CT, Jan. 23 </p> 
@@ -123,16 +127,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075168742/buckingham-palace-removes-prince-andrews-titles-in-wake-of-sexual-assault-lawsui">Buckingham Palace removes Prince Andrew's titles in wake of sexual assault lawsuit</a> NPR: Sarah McCammon speaks to Sonia Sodha from 'The Guardian' about the sexual abuse lawsuit against Prince Andrew and its impact on the institution of Britain's royal family. 
  <p class="updated_time"> 07:28 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168735/in-pakistan-big-trucks-are-the-perfect-canvas-for-intricate-murals">In Pakistan, big trucks are the perfect canvas for intricate murals</a> NPR: We take a look at the colorful Pakistani practice of turning big transport trucks into wildly bright works of art. 
- <p class="updated_time"> 07:11 AM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60103015?at_medium=RSS&at_campaign=KARANGA">NZ PM Ardern calls off wedding amid Omicron outbreak</a> BBC: New Zealand's Prime Minister Jacinda Ardern has cancelled her wedding after announcing new Covid restrictions. 
  <p class="updated_time"> 07:08 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168714/why-russian-president-vladimir-putin-is-escalating-the-threat-of-war-with-ukrain">Why Russian President Vladimir Putin is escalating the threat of war with Ukraine</a> NPR: Sarah McCammon talks with U.S. national security expert Andrea Kendall-Taylor about what is motivating Russian President Vladimir Putin as he escalates the threat of war with Ukraine. 
  <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075168707/britain-says-putin-has-plans-to-install-a-pro-moscow-leader-in-ukraine">Threat of Russian invasion escalates as both sides amass troops at Ukraine border</a> NPR: Ukraine's military is preparing for a potential Russian invasion. Meanwhile, the UK's foreign ministry issues a communique on Russian plans to install a pro-Moscow leader after a possible invasion. 
  <p class="updated_time"> 04:50 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
- <p class="updated_time"> 04:04 AM CT, Jan. 23 </p> 
- <a href="https://www.wsj.com/articles/foreign-executives-in-isolated-hong-kong-head-for-exit-sick-of-zero-covid-curbs-11642950280">Foreign Executives in Isolated Hong Kong Head for Exit, Sick of Zero-Covid Curbs</a> WSJ: Flight bans, lengthy quarantine stays for arrivals and repeated school closures are chipping away at the city’s status as a top business hub. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Jan. 24 </p> 
+ <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 08:41 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/22/1075049574/biden-champions-intels-plan-for-new-semiconductor-plants-to-help-supply-chain-is">Biden champions Intel's plan for new semiconductor plants to help supply chain issues</a> NPR: With his other legislative priorities stalled, President Biden is turning to a bill that would provide incentives for semiconductor plants, like the one Intel announced for Ohio on Friday. 
  <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075049532/president-biden-is-replacing-federal-judges-at-a-record-breaking-pace">President Biden is replacing federal judges at a record-breaking pace</a> NPR: One area where President Biden has achieved success is getting his judicial appointees confirmed. Scott Simon talks with Hamilton College professor Gbemende Johnson about it. 
- <p class="updated_time"> 07:02 AM CT, Jan. 22 </p> 
- <a href="https://www.npr.org/2022/01/22/1075049511/week-in-politics-biden-hits-1-year-anniversary-in-office">Week in politics: Biden hits 1-year anniversary in office</a> NPR: Did President Joe Biden promise too much when he began his term a year ago? And what role did fellow Democrats, and the media, play in the current sense of disappointment? 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
