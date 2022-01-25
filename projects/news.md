@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Who Took On Apartheid’s Crimes, Dies at 72</a> NYT: One of South Africa’s most lauded police officials, he investigated crimes by the authorities and dug into cold cases from the days of white nationalist rule. 
+ <p class="updated_time"> 12:34 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 12:28 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
  <p class="updated_time"> 12:18 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
- <p class="updated_time"> 12:17 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075357281/kyiv-or-kiev-why-people-disagree-about-how-to-pronounce-the-ukrainian-capitals-n">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
  <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
- <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
 
 
 </details>
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
+ <p class="updated_time"> 12:42 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/business/osha-vaccine-mandate.html">OSHA withdraws its workplace vaccine rule.</a> NYT: In pulling the rule, the Biden administration acknowledged what most businesses expected: the plan to make companies mandate vaccines-or-tests is over. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075489010/democrats-try-to-stop-gop-gains-with-latino-voters-in-new-congressional-district">Ahead of midterms, Colorado Democrats try to stop GOP gains with Latino voters </a> NPR: A new congressional district in Colorado is the state's most heavily Latino district. In the intense battle for Congress, Democrats are trying to stop recent Republican support from Latino voters. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss">Prosecutors in multiple states are investigating false Electoral College submissions</a> NPR: Legal experts say the illegitimate submissions should motivate Congress to update the Electoral Count Act and "firm up the guardrails" of democracy. 
- <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
  <p class="updated_time"> 10:51 PM CT, Jan. 24 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
  <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
- <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
