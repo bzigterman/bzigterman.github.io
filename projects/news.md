@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:55 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
+ <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60121538?at_medium=RSS&at_campaign=KARANGA">The Beatles and John Lennon memorabilia to be sold as NFTs</a> BBC: John Lennon's eldest son Julian will keep the physical items as he sells digital versions of them. 
  <p class="updated_time"> 10:23 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Eight people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
  <p class="updated_time"> 10:11 PM CT, Jan. 24 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075389920/us-troops-eastern-europe-russia-ukraine">The U.S. is placing 8,500 troops on alert for possible deployment to Eastern Europe</a> NPR: The Pentagon said no final decision has been made, but Defense Secretary Lloyd Austin wanted U.S. forces to be ready "just in case" of a Russian invasion of Ukraine. 
  <p class="updated_time"> 05:35 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
- <p class="updated_time"> 05:32 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
  <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
- <p class="updated_time"> 10:11 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60111797?at_medium=RSS&at_campaign=KARANGA">In pictures: Thierry Mugler's life and works</a> BBC: Latex, leather and curves - Mugler reinvented the catwalk with his iconic creations 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 10:51 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/alabama-redistricting-map-rejected-00001687">Alabama’s new congressional map blocked by judges</a> Politico: The state's congressional delegation now consists of six Republicans elected from heavily white districts and one Democrat elected from the only majority-Black district. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-fox-reporter-profanity-00001578">“Stupid son of a …”: Biden makes plain his opinion of Fox reporter’s question</a> Politico: The president didn’t appear to be speaking directly to Peter Doocy but was bluntly sarcastic after being asked about the political implications of inflation. 
- <p class="updated_time"> 06:16 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
  <p class="updated_time"> 05:54 PM CT, Jan. 24 </p> 
