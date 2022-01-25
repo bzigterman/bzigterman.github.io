@@ -7,30 +7,40 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:31 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
+ <p class="updated_time"> 07:23 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
+ <p class="updated_time"> 07:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
+ <p class="updated_time"> 07:15 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
+ <p class="updated_time"> 07:13 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 07:06 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
+ <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
+ <p class="updated_time"> 06:21 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60108274?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: Why deadly cow attacks are an issue in Indian state election</a> BBC: Uttar Pradesh banned cow slaughter. Now, stray cattle are destroying crops and attacking people. 
+ <p class="updated_time"> 06:18 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60117763?at_medium=RSS&at_campaign=KARANGA">George Floyd: Three ex-officers face civil rights trial</a> BBC: Federal prosecutors allege the former officers "wilfully deprived" George Floyd of his civil rights. 
  <p class="updated_time"> 06:15 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60111142?at_medium=RSS&at_campaign=KARANGA">How Covid disinformation has fuelled attacks on Czech doctors</a> BBC: Knowing how to deal with aggressive patients has become even more important during the pandemic. 
- <p class="updated_time"> 06:14 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
  <p class="updated_time"> 06:10 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60109427?at_medium=RSS&at_campaign=KARANGA">Beijing takes to the ice as Winter Olympics approach</a> BBC: The BBC's Stephen McDonell spends a day on the ice with some local enthusiasts in Beijing. 
  <p class="updated_time"> 05:43 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075389920/us-troops-eastern-europe-russia-ukraine">The U.S. is placing 8,500 troops on alert for possible deployment to Eastern Europe</a> NPR: The Pentagon said no final decision has been made, but Defense Secretary Lloyd Austin wanted U.S. forces to be ready "just in case" of a Russian invasion of Ukraine. 
  <p class="updated_time"> 05:35 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
- <p class="updated_time"> 05:33 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 05:32 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
- <p class="updated_time"> 05:21 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Six people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
- <p class="updated_time"> 03:44 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60117763?at_medium=RSS&at_campaign=KARANGA">George Floyd: Three ex-officers face civil rights trial</a> BBC: Federal prosecutors allege the former officers "wilfully deprived" George Floyd of his civil rights. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
@@ -173,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
- <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
@@ -196,14 +204,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:17 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
+ <p class="updated_time"> 07:13 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
+ <p class="updated_time"> 06:48 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
+ <p class="updated_time"> 06:35 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-fox-reporter-profanity-00001578">“Stupid son of a …”: Biden makes plain his opinion of Fox reporter’s question</a> Politico: The president didn’t appear to be speaking directly to Peter Doocy but was bluntly sarcastic after being asked about the political implications of inflation. 
+ <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
+ <p class="updated_time"> 06:21 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 06:16 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
- <p class="updated_time"> 06:13 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
  <p class="updated_time"> 05:54 PM CT, Jan. 24 </p> 
@@ -216,10 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-grand-jury-fani-willis-georgia.html">Court Approves Special Grand Jury in Trump Election Inquiry</a> NYT: A district attorney in Georgia is investigating possible election interference by former President Donald J. Trump and his allies. 
  <p class="updated_time"> 05:30 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075434688/appeals-court-reinstates-drop-boxes-for-wisconsins-february-primary">Appeals court reinstates drop boxes for Wisconsin's February primary</a> NPR: The ruling temporarily blocks a judge's order that would have banned the use of absentee ballot drop boxes in the swing state. 
- <p class="updated_time"> 05:25 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
- <p class="updated_time"> 05:21 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/robert-kennedy-holocaust-vaccines-00001548">RFK Jr. remarks on Anne Frank, vaccines draw condemnation</a> Politico: “Those who carelessly invoke Anne Frank, the star badge, and the Nuremberg Trials exploit history and the consequences of hate,” the U.S. Holocaust Memorial Museum said. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
@@ -255,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:35 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/oath-keepers-founder-insurrection-sedition-charges-00000977">Judge mulls release for militia leader facing sedition charges in Jan. 6 attack</a> Politico: A year long delay in charging Oath Keepers founder may have hurt the case for keeping him in jail. 
+ <a href="https://www.politico.com/news/2022/01/24/oath-keepers-founder-insurrection-sedition-charges-00000977">Judge mulls release for militia leader facing sedition charges in Jan. 6 attack</a> Politico: A yearlong delay in charging Oath Keepers founder may have hurt the case for keeping him in jail. 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
@@ -284,6 +298,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
@@ -306,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1074164937/new-york-times-sarah-palin-trial-begins">Sarah Palin tests positive for COVID, delaying trial against 'New York Times'</a> NPR: A federal judge pushed back opening arguments to Feb. 3 in the former Alaska governor's case. A 2017 Times editorial wrongly connected an ad from her PAC to a lethal mass shooting in Arizona. 
- <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 03:03 PM CT, Jan. 22 </p> 
  <a href="https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote">Arizona Democrats have censured Kyrsten Sinema over her pro-filibuster vote </a> NPR: The symbolic action comes as Sinema has come under criticism from progressive groups in Arizona after she voted to uphold the filibuster in the Senate. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
@@ -318,10 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
- <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
- <p class="updated_time"> 06:29 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/arizona-sues-covid-masks.html">Arizona Sues to Stop Treasury From Recouping Relief Funds</a> NYT: Gov. Doug Ducey has been using federal pandemic aid to undermine school mask requirements, which Treasury said violated the law. 
  <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">Biden-tied lobbying firms raked in the dough during his first year</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
