@@ -7,12 +7,34 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:37 PM CT, Jan. 25 </p> 
+ <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
+ <p class="updated_time"> 03:45 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Who Took On Apartheid’s Crimes, Dies at 72</a> NYT: One of South Africa’s most lauded police officials, he investigated crimes by the authorities and dug into cold cases from the days of white nationalist rule. 
- <p class="updated_time"> 12:34 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
- <p class="updated_time"> 12:28 PM CT, Jan. 25 </p> 
+ <p class="updated_time"> 03:44 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
+ <p class="updated_time"> 03:14 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin if Russia invades, Biden says</a> BBC: The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine. 
+ <p class="updated_time"> 02:13 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60130389?at_medium=RSS&at_campaign=KARANGA">IS militants surrender as Kurdish-led forces surround Syria prison</a> BBC: But dozens remain holed up along with hundreds of children after six days of fierce fighting. 
+ <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
+ <p class="updated_time"> 01:47 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/25/1074100175/readers-global-wishes-for-2022-more-kindness-more-nature-and-kitties">Readers' global wishes for 2022: More kindness, more nature ... and kitties!</a> NPR: What could the world achieve this year if we had a limitless budget and full support from global leaders? Our audience shares their heartfelt ideas. 
+ <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
  <p class="updated_time"> 12:18 PM CT, Jan. 25 </p> 
@@ -25,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075548540/at-least-6-people-are-reported-dead-from-a-crush-at-an-african-cup-soccer-match">At least 6 people are reported dead from a crush at an African Cup soccer match </a> NPR: The apparent stampede outside of a stadium in Cameroon has renewed the focus on prior warnings that the nation was ill-equipped to host the continent's biggest sporting event. 
- <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -39,12 +59,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
  <p class="updated_time"> 10:55 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60128838?at_medium=RSS&at_campaign=KARANGA">Bollywood's Shilpa Shetty cleared of obscenity over Richard Gere kiss</a> BBC: The Bollywood star had faced charges after actor Richard Gere kissed her on a Delhi stage in 2007. 
+ <p class="updated_time"> 10:54 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia if It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 10:43 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091592?at_medium=RSS&at_campaign=KARANGA">Benjamin Brière: French tourist jailed in Iran on spying charges</a> BBC: France says his conviction for flying a drone while on holiday in a border area is "unacceptable". 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">The U.S. is planning to ban tech exports to Russia if it invades Ukraine</a> NPR: The Biden administration filled in some details of threatened actions if Russia moves against Ukraine. Targeted sectors include artificial intelligence, quantum computing, defense and aerospace. 
+ <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">President Biden says a Russian invasion of Ukraine 'would change the world'</a> NPR: Biden said should Russian President Putin move in using the more than 100,000 Russian troops surrounding Ukraine, "it would be the largest invasion since World War II. It would change the world." 
+ <p class="updated_time"> 10:23 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
  <p class="updated_time"> 09:42 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
  <p class="updated_time"> 09:37 AM CT, Jan. 25 </p> 
@@ -69,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60127134?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Nato is not a threat to Russia - Estonian PM Kallas</a> BBC: Russia does not get to determine who is part of the alliance, Prime Minister Kaja Kallas tells the BBC. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
- <p class="updated_time"> 07:27 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia If It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
@@ -81,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
  <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How Boris Johnson Could Lose His Job as U.K. Prime Minister: Latest Details</a> NYT: Parties while Britain was under Covid lockdown have pushed Mr. Johnson into two apologies and prompted a police investigation. Here’s a guide to how he could be forced out, or fight on. 
- <p class="updated_time"> 06:03 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60091590?at_medium=RSS&at_campaign=KARANGA">Netflix: First Arabic movie sparks morality row</a> BBC: The film, which includes a scene of an actress removing her underwear, stirs anger in Egypt. 
  <p class="updated_time"> 05:58 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60126614?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'I should be ready to defend the country'</a> BBC: Marta is getting military training for a possible Russian invasion, but says she doesn't want war. 
  <p class="updated_time"> 05:44 AM CT, Jan. 25 </p> 
@@ -91,14 +111,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
  <p class="updated_time"> 05:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60124931?at_medium=RSS&at_campaign=KARANGA">Bataclan survivor finds NFT of her X-ray for sale online</a> BBC: The surgeon had put an image of a patient's X-ray on a website that sells NFTs without her consent. 
- <p class="updated_time"> 04:50 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on alert as West voices unity</a> BBC: Western allies agree to sanctions against Russia if it invades, as thousands of troops stand by. 
  <p class="updated_time"> 04:16 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60124599?at_medium=RSS&at_campaign=KARANGA">Guatemala convicts ex-soldiers for raping indigenous women</a> BBC: Five ex-paramilitary soldiers are given 30-year jail terms for raping dozens of women in the 1980s. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1068149767/virginia-afghanistan-refugee-family-america">From Kabul to Virginia: An Afghan family is starting over in America</a> NPR: In only a matter of days, the lives of an Afghan family changed forever. After the Taliban took control of Kabul, they were forced to start over in a foreign country. 
- <p class="updated_time"> 03:47 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-suspected-cruise-missiles-11643102172">North Korea Launches Suspected Cruise Missiles</a> WSJ: Such launches aren’t covered by U.N. resolutions that govern Pyongyang’s weapons activity. The Kim Jong Un regime previously conducted four ballistic-missile tests this month. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
@@ -141,16 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
- <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383856/some-nato-allies-are-sending-military-aid-to-ukraine">Some European allies send weapons to Ukraine while Germany holds back</a> NPR: After a video call with European allies, President Biden said there's unanimity on the threat posed by Russian troops on Ukraine's borders. Some allies are sending weapons to Ukraine. Others are not. 
- <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383828/tired-of-forever-wars-the-u-s-weighs-options-if-russia-invades-ukraine">Tired of forever wars, the U.S. weighs options if Russia invades Ukraine</a> NPR: NPR's Asma Khalid speaks with retired U.S. Navy Admiral James Stavridis about how to address a potential Russian invasion of Ukraine. 
- <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383807/afghan-families-who-have-been-living-on-u-s-military-bases-are-looking-for-homes">Afghan families who have been living on U.S. military bases are looking for homes</a> NPR: A majority of the Afghans who fled to the U.S. when the Taliban took over last fall have now left the military bases where they've been living and are in the process of finding permanent homes. 
- <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383800/protesters-in-cuba-face-severe-sentences-as-crackdown-continues">Protesters in Cuba face severe sentences as crackdown continues</a> NPR: NPR's Asma Khalid talks with Ed Augustin, correspondent for The Guardian in Cuba, about the ongoing trials against hundreds of people who participated in mass protests in the summer of 2021. 
- <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
  <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
@@ -191,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60069066?at_medium=RSS&at_campaign=KARANGA">How will Tonga's broken internet cable be mended?</a> BBC: What does its breakage tell us about the problems of getting coverage to remote areas? 
  <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first British woman to swim English Channel</a> BBC: Mercedes Gleitze was the first British woman to swim the English Channel, but kept her accomplishments hidden from her family. 
- <p class="updated_time"> 06:00 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
@@ -204,10 +208,36 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/brazen-cuellar-pro-00001991">Cuellar on FBI raid: I intend to win reelection, the investigation will clear me</a> Politico: The defiant statement from the conservative Democrat comes as progressive challenger Jessica Cisneros picks up some key endorsements. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/business/osha-vaccine-mandate.html">OSHA Withdraws Its Workplace Vaccine Rule</a> NYT: In pulling the rule, the Biden administration acknowledged what most businesses expected: the plan to make companies mandate vaccines-or-tests is over. 
+ <p class="updated_time"> 03:03 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/rep-jim-cooper-retires-tennessee-00001924">Rep. Jim Cooper retires after Tennessee district dismantled</a> Politico: The veteran Democratic congressman said gerrymandering in Nashville was ending his career. 
+ <p class="updated_time"> 03:02 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/paid-sick-leave-ca-california.html">California Leaders Agree to Once Again Require Extra Paid Sick Leave</a> NYT: The agreement would reinstate a benefit passed by the state in 2021 that expired at the end of September. 
+ <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
+ <p class="updated_time"> 02:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
+ <p class="updated_time"> 02:30 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
+ <p class="updated_time"> 01:56 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/business/economy/chips-semiconductors-shortage.html">Commerce Dept. Survey Uncovers ‘Alarming’ Chip Shortages</a> NYT: Increased demand for the semiconductors that power cars, electronics and electrical grids have stoked inflation and could cause more factory shutdowns in the United States. 
+ <p class="updated_time"> 01:51 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/unusual-origins-news-site-00001776">The unusual origins behind the splashiest, newest political news site</a> Politico: The website Grid has several ties to the United Arab Emirates. 
+ <p class="updated_time"> 01:24 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 12:44 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
- <p class="updated_time"> 12:42 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/osha-vaccine-mandate.html">OSHA withdraws its workplace vaccine rule.</a> NYT: In pulling the rule, the Biden administration acknowledged what most businesses expected: the plan to make companies mandate vaccines-or-tests is over. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
@@ -215,17 +245,13 @@ permalink: /projects/news/
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/aerojet-lockheed-acquisition-ftc-lawsuit-00001744">FTC moves to block Lockheed Martin-Aerojet mega merger</a> Politico: The move will be closely watched by other companies as they weigh future corporate mergers against potential blowback by the FTC. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">Russia says U.S. ‘escalating tensions’ by putting troops on alert</a> Politico: “We are watching these U.S. actions with great concern,” said Kremlin spokesperson Dmitry Peskov. 
+ <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: “We are watching these U.S. actions with great concern,” said Kremlin spokesperson Dmitry Peskov. 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 11:13 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
- <p class="updated_time"> 10:59 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">The U.S. is planning to ban tech exports to Russia if it invades Ukraine</a> NPR: The Biden administration filled in some details of threatened actions if Russia moves against Ukraine. Targeted sectors include artificial intelligence, quantum computing, defense and aerospace. 
- <p class="updated_time"> 10:29 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/economy/chips-semiconductors-shortage.html">Commerce Department Survey Uncovers ‘Alarming’ Chip Shortages</a> NYT: Increased demand for the semiconductors that power cars, electronics and electrical grids have stoked inflation and could cause more factory shutdowns in the United States. 
+ <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">President Biden says a Russian invasion of Ukraine 'would change the world'</a> NPR: Biden said should Russian President Putin move in using the more than 100,000 Russian troops surrounding Ukraine, "it would be the largest invasion since World War II. It would change the world." 
  <p class="updated_time"> 09:06 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/desantis-biden-covid-treatments-00001729">DeSantis opens new battle with Biden over Covid treatments</a> Politico: The U.S. Food and Drug Administration on Monday cut Florida’s weekly allotment of monoclonal antibody cocktails. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
@@ -236,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
  <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
- <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 05:30 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation">The Great Resignation? More like The Great Renegotiation</a> NPR: "The Great Resignation" looks mostly like workers negotiating for a better deal. 
  <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
@@ -268,22 +292,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
- <p class="updated_time"> 06:35 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
- <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/biden-fox-reporter-profanity-00001578">“Stupid son of a …”: Biden makes plain his opinion of Fox reporter’s question</a> Politico: The president didn’t appear to be speaking directly to Peter Doocy but was bluntly sarcastic after being asked about the political implications of inflation. 
  <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
- <p class="updated_time"> 05:54 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/sheldon-silver-dies-new-york-00001544">Sheldon Silver, longtime New York power broker and eventual inmate, dies at 77</a> Politico: Silver was the undisputed master of the legislative process in his time as speaker. 
- <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/kerik-jan-6-voting-machines-00001552">Kerik told Jan. 6 panel that former Army colonel came up with idea to seize voting machines</a> Politico: Previously, Phil Waldron was best known for circulating a 38-page PowerPoint presentation that urged Trump to declare a state of emergency in the wake of the election. 
  <p class="updated_time"> 05:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-grand-jury-fani-willis-georgia.html">Court Approves Special Grand Jury in Trump Election Inquiry</a> NYT: A district attorney in Georgia is investigating possible election interference by former President Donald J. Trump and his allies. 
  <p class="updated_time"> 05:30 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075434688/appeals-court-reinstates-drop-boxes-for-wisconsins-february-primary">Appeals court reinstates drop boxes for Wisconsin's February primary</a> NPR: The ruling temporarily blocks a judge's order that would have banned the use of absentee ballot drop boxes in the swing state. 
- <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/robert-kennedy-holocaust-vaccines-00001548">RFK Jr. remarks on Anne Frank, vaccines draw condemnation</a> Politico: “Those who carelessly invoke Anne Frank, the star badge, and the Nuremberg Trials exploit history and the consequences of hate,” the U.S. Holocaust Memorial Museum said. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:05 PM CT, Jan. 24 </p> 
@@ -310,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075264773/biden-weighs-sending-5-000-troops-to-eastern-europe-to-counter-russia">Biden weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: The Biden administration is considering a plan to send several thousand additional U.S. troops into NATO countries in eastern Europe, near both Russia and Ukraine. 
- <p class="updated_time"> 06:06 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
@@ -319,13 +331,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075264794/1-republican-argues-for-a-narrower-approach-to-changing-19th-century-voting-law">1 Republican argues for a narrower approach to changing a 19th century voting law</a> NPR: NPR's Steve Inskeep talks to former Congressman Zach Wamp, a Republican from Tennessee, about efforts to rewrite the Electoral Count Act. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1074793780/when-are-taxes-due-irs-phones-backlog">The IRS faces backlogs from last year as a new tax filing season begins</a> NPR: The IRS is "in the roughest shape it's been in in 50 years," says former commissioner Mark Everson. The agency, he says, is understaffed, has more work than it can handle and is underfunded. 
- <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
- <p class="updated_time"> 10:12 PM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
- <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
  <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
@@ -398,10 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/19/what-reporters-want-to-ask-biden-at-his-presser-495767"> What reporters want to ask Biden at his presser</a> Politico Playbook: And the Jan. 6 committee subpoenas phone records of Eric Trump and Kimberly Guilfoyle. 
- <p class="updated_time"> 03:11 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
- <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
 
 
 </details>
