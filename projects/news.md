@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:52 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the Australian ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
+ <p class="updated_time"> 09:07 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
- <p class="updated_time"> 08:30 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 09:07 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
+ <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
+ <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/india-leprosy-treatment-sivananda.html">Leprosy Hospital Offers Healing, and a Haven, to the Shunned</a> NYT: While leprosy is now easily treated, those who have the disease are still often ostracized. But they’re always welcome at this refuge in India, a nation that records over half the world’s cases. 
+ <p class="updated_time"> 09:01 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 08:27 AM CT, Jan. 25 </p> 
@@ -37,10 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
  <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How Boris Johnson Could Lose His Job as U.K. Prime Minister: Latest Details</a> NYT: Parties while Britain was under Covid lockdown have pushed Mr. Johnson into two apologies and prompted a police investigation. Here’s a guide to how he could be forced out, or fight on. 
- <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
- <p class="updated_time"> 06:09 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 06:03 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091590?at_medium=RSS&at_campaign=KARANGA">Netflix: First Arabic movie sparks morality row</a> BBC: The film, which includes a scene of an actress removing her underwear, stirs anger in Egypt. 
  <p class="updated_time"> 05:58 AM CT, Jan. 25 </p> 
@@ -87,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 07:23 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
- <p class="updated_time"> 07:13 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
  <p class="updated_time"> 06:33 PM CT, Jan. 24 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60109427?at_medium=RSS&at_campaign=KARANGA">Beijing takes to the ice as Winter Olympics approach</a> BBC: The BBC's Stephen McDonell spends a day on the ice with some local enthusiasts in Beijing. 
  <p class="updated_time"> 05:43 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075389920/us-troops-eastern-europe-russia-ukraine">The U.S. is placing 8,500 troops on alert for possible deployment to Eastern Europe</a> NPR: The Pentagon said no final decision has been made, but Defense Secretary Lloyd Austin wanted U.S. forces to be ready "just in case" of a Russian invasion of Ukraine. 
- <p class="updated_time"> 05:35 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
- <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
 
 
 </details>
