@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075556977/ayesha-malik-pakistan-supreme-court">Meet Justice Ayesha Malik, Pakistan's first female Supreme Court judge</a> NPR: Malik was sworn in on Monday, shattering a glass ceiling in a country where only about 17% of judges are women. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075548540/at-least-6-people-are-reported-dead-from-a-crush-at-an-african-cup-soccer-match">At least 6 people are reported dead from a crush at an African Cup soccer match </a> NPR: The apparent stampede outside of a stadium in Cameroon has renewed the focus on prior warnings that the nation was ill-equipped to host the continent's biggest sporting event. 
  <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">As West Mobilizes, Ukraine’s Leaders Play Down Russia Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075327651/crystal-cruises-arrest-warrant-bahamas">A luxury cruise ship rerouted to the Bahamas over an arrest warrant for unpaid fuel</a> NPR: The Crystal Symphony was supposed to dock in Miami, but ended up in the Bahamas after a U.S. judge granted an order to seize the ship as part of a breach-of-contract lawsuit. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
- <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/senate-dems-filibuster-showdown-election-reform-527308">Manchin: Primary me if you want, I won't go 'nuclear'</a> Politico: Democrats are likely to try to revive the "talking filibuster" in a doomed bid to pass election reform. Their two centrists still aren't on board. 
  <p class="updated_time"> 02:25 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
- <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
 
 
 </details>
