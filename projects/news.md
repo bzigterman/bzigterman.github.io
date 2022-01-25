@@ -282,6 +282,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
+ <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/california-school-covid-vaccine-mandate-proposal-00001261">California lawmaker proposes Covid vaccine mandate for all schoolchildren</a> Politico: State Sen. Richard Pan’s proposal would go further than Gov. Gavin Newsom’s requirement 
  <p class="updated_time"> 11:31 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-climate-banks-2103097">'Big shift': Biden moves to rewrite the rules on climate threat</a> Politico: Among other moves, regulators are likely to press banks to prepare for the fallout from a warming planet by stepping up scrutiny of fossil fuel financing. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 06:06 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
- <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/trump-secretary-of-state-campaigns-00000473">Trump followers zero in on secretary of state campaigns</a> Politico: New fundraising reports from Arizona show how much energy from Trump-world is flowing into installing new election administrators. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
