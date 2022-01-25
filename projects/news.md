@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">An Unknown Civil Servant May Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
@@ -145,10 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
- <p class="updated_time"> 06:35 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60059543?at_medium=RSS&at_campaign=KARANGA">German Covid protests turn nasty in row over rules and vaccinations</a> BBC: Tens of thousands of Germans take to the streets every week and politicians are being targeted. 
- <p class="updated_time"> 06:32 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60078516?at_medium=RSS&at_campaign=KARANGA">Beijing 2022 vs 2008: Two Olympics and two very different Chinas</a> BBC: In 2022, the mood, the host government's attitude, and global expectations are all very different to 2008. 
  <p class="updated_time"> 06:27 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-60067032?at_medium=RSS&at_campaign=KARANGA">The people deciding to ditch their smartphones</a> BBC: The smartphone users who are ditching their handsets to take back more control of their lives. 
  <p class="updated_time"> 06:20 PM CT, Jan. 23 </p> 
@@ -194,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">The filibuster's archnemesis</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber's vaunted 60-vote threshold. And he doesn't mind if that's used against his own party in the future. 
  <p class="updated_time"> 10:59 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 10:51 PM CT, Jan. 24 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751"> Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
  <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
- <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/dems-stare-down-another-failure-527155">Dems stare down another failure to deliver for their base</a> Politico: Party lawmakers are starting to acknowledge the looming election reform defeat their leaders won't publicly concede. What to tell voters is the big question. 
 
 
 </details>
