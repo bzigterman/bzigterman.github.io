@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 07:45 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
- <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
+ <p class="updated_time"> 07:38 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
  <p class="updated_time"> 07:26 AM CT, Jan. 25 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60121538?at_medium=RSS&at_campaign=KARANGA">The Beatles and John Lennon memorabilia to be sold as NFTs</a> BBC: John Lennon's eldest son Julian will keep the physical items as he sells digital versions of them. 
  <p class="updated_time"> 10:16 PM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-cruise-missiles-11643102172">North Korea Launches Suspected Cruise Missiles</a> WSJ: Such launches aren’t covered by U.N. resolutions that govern Pyongyang’s weapons activity. Kim Jong Un regime previously conducted four ballistic-missile tests this month. 
- <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075471526/internet-to-tongas-main-island-cut-by-volcano-could-be-restored-in-2-weeks">COVID outbreak on relief ship causes fears of spread in Tonga</a> NPR: Since the pandemic began, Tonga has reported just a single case of COVID-19 and has avoided any outbreaks. 
  <p class="updated_time"> 08:33 PM CT, Jan. 24 </p> 
@@ -106,7 +106,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383856/some-nato-allies-are-sending-military-aid-to-ukraine">Biden reports unanimity among European allies following call about Ukraine and Russia</a> NPR: After a video call with European allies, President Biden said there's unanimity on the threat posed by Russian troops on Ukraine's borders. Some allies are sending weapons to Ukraine. Others are not. 
+ <a href="https://www.npr.org/2022/01/24/1075383856/some-nato-allies-are-sending-military-aid-to-ukraine">Some European allies send weapons to Ukraine while Germany holds back</a> NPR: After a video call with European allies, President Biden said there's unanimity on the threat posed by Russian troops on Ukraine's borders. Some allies are sending weapons to Ukraine. Others are not. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383828/tired-of-forever-wars-the-u-s-weighs-options-if-russia-invades-ukraine">Tired of forever wars, the U.S. weighs options if Russia invades Ukraine</a> NPR: NPR's Asma Khalid speaks with retired U.S. Navy Admiral James Stavridis about how to address a potential Russian invasion of Ukraine. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/langevin-reelection-rhode-island-527311">Langevin won't seek reelection, opening Rhode Island seat</a> Politico: Langevin’s departure is shocking in part because Rhode Island defied most reapportionment projections to keep its second House district after the 2020 Census. 
  <p class="updated_time"> 12:00 PM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
- <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
