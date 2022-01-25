@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people were injured in the crush outside a football stadium in Cameroon. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 12:10 AM CT, Jan. 25 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60121538?at_medium=RSS&at_campaign=KARANGA">The Beatles and John Lennon memorabilia to be sold as NFTs</a> BBC: John Lennon's eldest son Julian will keep the physical items as he sells digital versions of them. 
- <p class="updated_time"> 10:23 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Eight people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
