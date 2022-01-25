@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 04:50 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on alert as West voices unity</a> BBC: Western allies agree to sanctions against Russia if it invades, as thousands of troops stand by. 
  <p class="updated_time"> 04:49 AM CT, Jan. 25 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:47 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">An Unknown Civil Servant May Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">Sue Gray’s Report Could Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
- <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
@@ -125,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 10:44 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
- <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
@@ -189,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
- <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
- <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
 
 
 </details>
@@ -200,14 +194,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/trump-ohio-governorship-00001603">Trump conquered Ohio. Now his followers want the governorship.</a> Politico: Ex-Rep. Jim Renacci is challenging Gov. Mike DeWine in a primary, betting GOP voters want someone more closely aligned with Donald Trump. 
  <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/virginia-education-wars-florida-governors-race-1406401">Virginia's education wars emerge in Florida governor's race</a> Politico: Education has become one of the most heated political issues. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">The filibuster's archnemesis</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber's vaunted 60-vote threshold. And he doesn't mind if that's used against his own party in the future. 
+ <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who's breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber's vaunted 60-vote threshold. And he doesn't mind if that's used against his own party in the future. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Cisneros lassos new momentum in battle with bruised Cuellar</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
+ <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Texas primary showdown bursts open after FBI raid</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss">Prosecutors in multiple states are investigating false Electoral College submissions</a> NPR: Legal experts say the illegitimate submissions should motivate Congress to update the Electoral Count Act and "firm up the guardrails" of democracy. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
@@ -276,6 +272,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-affirmative-action-harvard-unc-00001236">Supreme Court will take up Harvard, UNC affirmative action challenge</a> Politico: In the lawsuit SFFA asked the high court to overturn its ruling in a landmark affirmative action case that has shaped college admissions policies for nearly two decades. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
+ <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin's positive Covid test postpones libel case against New York Times</a> Politico: Jury selection, originally set for Monday, will be held Feb. 3. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 08:47 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">The Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 06:06 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/trump-secretary-of-state-campaigns-00000473">Trump followers zero in on secretary of state campaigns</a> Politico: New fundraising reports from Arizona show how much energy from Trump-world is flowing into installing new election administrators. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
- <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/eric-adams-pac-striving-new-york-1406521">PAC with ties to Adams raises over $1M from real estate, nightlife and GOP figures</a> Politico: The PAC, Striving for a Better New York, was created last September by New York City-based Rev. Alfred Cockfield II with the hopes of boosting moderate candidates in upcoming state elections. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
  <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
@@ -322,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
  <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been hobbling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
- <p class="updated_time"> 06:59 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075168672/politics-chat-facing-blockers-in-congress-biden-goes-directly-to-the-people">Politics chat: Facing blockers in Congress, Biden goes directly to the people</a> NPR: We look at President Biden's pivot the past week, from focusing on legislation and negotiating with Congress to focusing on communicating directly with American voters. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
