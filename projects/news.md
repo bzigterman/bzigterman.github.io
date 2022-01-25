@@ -358,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
