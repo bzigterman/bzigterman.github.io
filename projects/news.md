@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:29 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075548540/at-least-6-people-are-reported-dead-from-a-crush-at-an-african-cup-soccer-match">At least 6 people are reported dead from a crush at an African Cup soccer match </a> NPR: The apparent stampede outside of a stadium in Cameroon has renewed the focus on prior warnings that the nation was ill-equipped to host the continent's biggest sporting event. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
+ <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">As West Mobilizes, Ukraine’s Leaders Play Down Russia Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
- <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 11:10 AM CT, Jan. 25 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
- <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60092069?at_medium=RSS&at_campaign=KARANGA">Beach Boys star Brian Wilson looks back at his life in new film</a> BBC: The Beach Boys star, who turns 80 this year, tells the BBC why he decided to make a documentary. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
- <p class="updated_time"> 11:45 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/europe/uk-russia-ukraine.html">Britain Pursues More Muscular Role in Standoff With Russia on Ukraine</a> NYT: With a late-night announcement about Russian meddling in Ukraine, the U.K. signaled its aim to be a player in Europe’s security crisis — even as scandals besiege Prime Minister Boris Johnson. 
  <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
  <p class="updated_time"> 07:51 AM CT, Jan. 23 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
+ <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/aerojet-lockheed-acquisition-ftc-lawsuit-00001744">FTC moves to block Lockheed Martin-Aerojet mega merger</a> Politico: The move will be closely watched by other companies as they weigh future corporate mergers against potential blowback by the FTC. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/alabama-redistricting-map-rejected-00001687">Alabama’s new congressional map blocked by judges</a> Politico: The state's congressional delegation now consists of six Republicans elected from heavily white districts and one Democrat elected from the only majority-Black district. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
- <p class="updated_time"> 10:18 PM CT, Jan. 24 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:07 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/business/media/biden-peter-doocy-fox.html">Biden, Caught on Hot Mic, Has Harsh Words for Peter Doocy of Fox News</a> NYT: The president later called Peter Doocy and “cleared the air,” Mr. Doocy said. 
  <p class="updated_time"> 09:24 PM CT, Jan. 24 </p> 
