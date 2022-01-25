@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624855/remembering-trailblazing-fashion-designer-thierry-mugler-dead-at-73">Remembering trailblazing fashion designer Thierry Mugler, dead at 73</a> NPR: French fashion designer Thierry Mugler reshaped the fashion world, centering wildly inventive concepts and creating space for queer voices. On Sunday, he died at the age of 73. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
+ <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624827/american-troops-battle-isis-for-control-of-syrian-prison">American troops battle ISIS for control of Syrian prison</a> NPR: American forces are fighting the Islamic State for control of a prison in northeastern Syria, in the most substantial military engagement with ISIS since it lost the last of its territory in 2019. 
+ <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624806/if-russia-doesnt-invade-ukraine-with-troops-it-could-still-launch-a-cyberattack">If Russia doesn't invade Ukraine with troops, it could still launch a cyberattack</a> NPR: With U.S. troops on heightened alert and NATO forces on standby, fears of a Russian invasion of Ukraine remain. But even if Putin doesn't send troops in, he could still launch a crippling cyberattack. 
+ <p class="updated_time"> 03:59 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60129830?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands to ease restrictions despite rising case numbers</a> BBC: Dutch hospitality venues, including bars and restaurants, have been closed since 18 December. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
@@ -19,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
- <p class="updated_time"> 03:31 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 03:17 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 03:14 PM CT, Jan. 25 </p> 
@@ -129,12 +137,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">Sue Gray’s Report Could Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
- <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
- <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075471526/internet-to-tongas-main-island-cut-by-volcano-could-be-restored-in-2-weeks">COVID outbreak on relief ship causes fears of spread in Tonga</a> NPR: Since the pandemic began, Tonga has reported just a single case of COVID-19 and has avoided any outbreaks. 
  <p class="updated_time"> 08:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 07:31 PM CT, Jan. 24 </p> 
@@ -147,16 +151,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60111142?at_medium=RSS&at_campaign=KARANGA">How Covid disinformation has fuelled attacks on Czech doctors</a> BBC: Knowing how to deal with aggressive patients has become even more important during the pandemic. 
  <p class="updated_time"> 06:10 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60109427?at_medium=RSS&at_campaign=KARANGA">Beijing takes to the ice as Winter Olympics approach</a> BBC: The BBC's Stephen McDonell spends a day on the ice with some local enthusiasts in Beijing. 
- <p class="updated_time"> 05:43 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075389920/us-troops-eastern-europe-russia-ukraine">The U.S. is placing 8,500 troops on alert for possible deployment to Eastern Europe</a> NPR: The Pentagon said no final decision has been made, but Defense Secretary Lloyd Austin wanted U.S. forces to be ready "just in case" of a Russian invasion of Ukraine. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
- <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075383863/the-big-wins-losses-and-off-court-drama-you-may-have-missed-from-the-australian-">The big wins, losses and off-court drama you may have missed from the Australian Open</a> NPR: NPR's Ari Shapiro speaks with Washington Post sports reporter Liz Clarke to get an update on the Australian Open, the first Grand Slam of 2022. 
  <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:25 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/brazen-cuellar-pro-00001991">Cuellar on FBI raid: I intend to win reelection, the investigation will clear me</a> Politico: The defiant statement from the conservative Democrat comes as progressive challenger Jessica Cisneros picks up some key endorsements. 
+ <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624841/after-10-days-in-office-virginia-gov-youngkin-is-facing-blowback-over-new-polici">After 10 days in office, Virginia Gov. Youngkin is facing blowback over new policies</a> NPR: Republican Virginia Gov. Glenn Youngkin's administration is pushing a conservative agenda including banning masks in schools, firing professors and urging parents to report critical race theory. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
@@ -245,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/aerojet-lockheed-acquisition-ftc-lawsuit-00001744">FTC moves to block Lockheed Martin-Aerojet mega merger</a> Politico: The move will be closely watched by other companies as they weigh future corporate mergers against potential blowback by the FTC. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: “We are watching these U.S. actions with great concern,” said Kremlin spokesperson Dmitry Peskov. 
+ <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: Meanwhile, Russia accused the United States of “escalating tensions.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 11:13 AM CT, Jan. 25 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">The Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:35 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/oath-keepers-founder-insurrection-sedition-charges-00000977">Judge mulls release for militia leader facing sedition charges in Jan. 6 attack</a> Politico: A yearlong delay in charging Oath Keepers founder may have hurt the case for keeping him in jail. 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
@@ -328,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075264843/what-does-the-white-house-plan-to-do-to-combat-inflation">What does the White House plan to do to combat inflation?</a> NPR: NPR's Rachel Martin talks to Brian Deese, director of the White House National Economic Council, about what the Biden administration is doing to take on inflation. 
- <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075264794/1-republican-argues-for-a-narrower-approach-to-changing-19th-century-voting-law">1 Republican argues for a narrower approach to changing a 19th century voting law</a> NPR: NPR's Steve Inskeep talks to former Congressman Zach Wamp, a Republican from Tennessee, about efforts to rewrite the Electoral Count Act. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
@@ -374,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
