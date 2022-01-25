@@ -208,8 +208,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/brazen-cuellar-pro-00001991">Cuellar on FBI raid: I intend to win reelection, the investigation will clear me</a> Politico: The defiant statement from the conservative Democrat comes as progressive challenger Jessica Cisneros picks up some key endorsements. 
+ <p class="updated_time"> 04:23 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075645745/testimony-begins-in-the-dueling-defamation-suits-over-roy-moore-molestation-clai">Testimony begins in the dueling defamation suits over Roy Moore molestation claims</a> NPR: The allegations overshadowed Moore's 2017 campaign as he fell in a stunning defeat to Doug Jones, the first Alabama Democrat elected to the Senate in 25 years. 
+ <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075624848/critics-say-infrastructure-projects-won-t-make-a-big-enough-impact-on-climate-ch">Critics say infrastructure projects won't make a big enough impact on climate change</a> NPR: As Washington gears up to dole out hundreds of billions of dollars in new infrastructure funds, critics say not enough will go to projects addressing climate change and issues of racial inequality. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624841/after-10-days-in-office-virginia-gov-youngkin-is-facing-blowback-over-new-polici">After 10 days in office, Virginia Gov. Youngkin is facing blowback over new policies</a> NPR: Republican Virginia Gov. Glenn Youngkin's administration is pushing a conservative agenda including banning masks in schools, firing professors and urging parents to report critical race theory. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
@@ -270,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/trump-ohio-governorship-00001603">Trump conquered Ohio. Now his followers want the governorship.</a> Politico: Ex-Rep. Jim Renacci is challenging Gov. Mike DeWine in a primary, betting GOP voters want someone more closely aligned with Donald Trump. 
- <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/virginia-education-wars-florida-governors-race-1406401">Virginia's education wars emerge in Florida governor's race</a> Politico: Education has become one of the most heated political issues. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
@@ -322,14 +326,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
- <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075264773/biden-weighs-sending-5-000-troops-to-eastern-europe-to-counter-russia">Biden weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: The Biden administration is considering a plan to send several thousand additional U.S. troops into NATO countries in eastern Europe, near both Russia and Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
- <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075264843/what-does-the-white-house-plan-to-do-to-combat-inflation">What does the White House plan to do to combat inflation?</a> NPR: NPR's Rachel Martin talks to Brian Deese, director of the White House National Economic Council, about what the Biden administration is doing to take on inflation. 
- <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/business/energy-environment/california-rooftop-solar-utilities.html">A Fight Over Rooftop Solar Threatens California’s Climate Goals</a> NYT: Utility regulators have proposed slashing the incentives homeowners receive to install solar panels, a long-sought goal of utilities and labor unions. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
  <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
