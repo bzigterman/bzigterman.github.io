@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:23 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Eight people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
+ <p class="updated_time"> 10:11 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 08:15 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60121558?at_medium=RSS&at_campaign=KARANGA">US black man mistaken for older white suspect - lawsuit</a> BBC: Shane Lee Brown was freed from jail after a judge compared photos of the two men, legal action says. 
- <p class="updated_time"> 08:01 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Six people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
  <p class="updated_time"> 07:31 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 07:23 PM CT, Jan. 24 </p> 
@@ -27,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/ukraine-russia-coup-britain.html">Britain Says Moscow Is Plotting to Install a Pro-Russian Leader in Ukraine</a> NYT: In a highly unusual public statement, backed by U.S. officials, London named the putative head of a potential puppet government but few other details. 
  <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
+ <p class="updated_time"> 06:33 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60120997?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag: Australian government secures copyright after row</a> BBC: Aboriginal Australians say the symbol of identity was previously "held hostage" by lease agreements. 
  <p class="updated_time"> 06:21 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60108274?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: Why deadly cow attacks are an issue in Indian state election</a> BBC: Uttar Pradesh banned cow slaughter. Now, stray cattle are destroying crops and attacking people. 
  <p class="updated_time"> 06:18 PM CT, Jan. 24 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
- <p class="updated_time"> 11:51 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60118887?at_medium=RSS&at_campaign=KARANGA">Bob Dylan sells his master recordings to Sony Music</a> BBC: The deal covers the rights to all of Dylan's albums, as well as "multiple future new releases". 
  <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is made up of 50 acres a half-mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
@@ -115,10 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60111797?at_medium=RSS&at_campaign=KARANGA">In pictures: Thierry Mugler's life and works</a> BBC: Latex, leather and curves - Mugler reinvented the catwalk with his iconic creations 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 08:26 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60114968?at_medium=RSS&at_campaign=KARANGA">Stowaway found in South Africa plane wheel is 22-year-old Kenyan</a> BBC: A man found alive in the wheel section of a plane that landed in Amsterdam from South Africa is identified. 
- <p class="updated_time"> 08:15 AM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60113233?at_medium=RSS&at_campaign=KARANGA">Ireland tells Russia live-fire naval exercise is 'not welcome'</a> BBC: Ireland's defence minister says Russian tests off the coast are unwanted, but cannot be stopped. 
  <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: U.A.E. and U.S. forces intercepted two ballistic missiles over Abu Dhabi, a week after a previous attack by Yemen’s Houthi rebels killed three people and injured six others. 
  <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
@@ -210,10 +208,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/alabama-redistricting-map-rejected-00001687">Alabama’s new congressional map blocked by judges</a> Politico: The state's congressional delegation now consists of six Republicans elected from heavily white districts and one Democrat elected from the only majority-Black district. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
+ <p class="updated_time"> 10:18 PM CT, Jan. 24 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 10:03 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War May Loom, but Are There Offramps?</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
- <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/court-alabama-redistricting-map.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
  <p class="updated_time"> 09:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 09:05 PM CT, Jan. 24 </p> 
@@ -236,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/sheldon-silver-dies-new-york-00001544">Sheldon Silver, longtime New York power broker and eventual inmate, dies at 77</a> Politico: Silver was the undisputed master of the legislative process in his time as speaker. 
  <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/kerik-jan-6-voting-machines-00001552">Kerik told Jan. 6 panel that former Army colonel came up with idea to seize voting machines</a> Politico: Previously, Phil Waldron was best known for circulating a 38-page PowerPoint presentation that urged Trump to declare a state of emergency in the wake of the election. 
- <p class="updated_time"> 05:41 PM CT, Jan. 24 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-grand-jury-fani-willis-georgia.html">Court Approves Special Grand Jury in Trump Election Inquiry</a> NYT: A district attorney in Georgia is investigating possible election interference by former President Donald J. Trump and his allies. 
  <p class="updated_time"> 05:30 PM CT, Jan. 24 </p> 
