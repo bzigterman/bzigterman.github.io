@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60111142?at_medium=RSS&at_campaign=KARANGA">How Covid disinformation has fuelled attacks on Czech doctors</a> BBC: Knowing how to deal with aggressive patients has become even more important during the pandemic. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
+ <p class="updated_time"> 06:10 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60109427?at_medium=RSS&at_campaign=KARANGA">Beijing takes to the ice as Winter Olympics approach</a> BBC: The BBC's Stephen McDonell spends a day on the ice with some local enthusiasts in Beijing. 
  <p class="updated_time"> 05:43 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075389920/us-troops-eastern-europe-russia-ukraine">The U.S. is placing 8,500 troops on alert for possible deployment to Eastern Europe</a> NPR: The Pentagon said no final decision has been made, but Defense Secretary Lloyd Austin wanted U.S. forces to be ready "just in case" of a Russian invasion of Ukraine. 
  <p class="updated_time"> 05:35 PM CT, Jan. 24 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 05:32 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
- <p class="updated_time"> 05:25 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/01/24/world/burkina-faso-coup-hfo">Military Seizes Power in Burkina Faso</a> NYT: Ousting President Roch Marc Christian Kaboré from power, mutinous soldiers cited broad public discontent over his ability to stop attacks by Islamist militants. 
  <p class="updated_time"> 05:21 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 01:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
+ <p class="updated_time"> 01:05 PM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. ordered thousands of troops to prepare for possible deployment. 
  <p class="updated_time"> 01:02 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60111141?at_medium=RSS&at_campaign=KARANGA">Heidelberg shooting: One dead in gun attack on German students</a> BBC: A gunman in the university town of Heidelberg shoots four people, one fatally, before killing himself. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
@@ -83,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075327651/crystal-cruises-arrest-warrant-bahamas">A luxury cruise ship rerouted to the Bahamas over an arrest warrant for unpaid fuel</a> NPR: The Crystal Symphony was supposed to dock in Miami, but ended up in the Bahamas after a U.S. judge granted an order to seize the ship as part of a breach-of-contract lawsuit. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
- <p class="updated_time"> 11:11 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. ordered thousands of troops to prepare for possible deployment. 
  <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 10:59 AM CT, Jan. 24 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis">U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: Biden is considering sending up to 5,000 troops to Eastern European countries, including Romania and Poland, a U.S. official told NPR. Russia has stationed 100,000 troops near Ukraine. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
- <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-60001143?at_medium=RSS&at_campaign=KARANGA">Vaccine mandates: 'I lost my job for being unvaccinated'</a> BBC: Covid-19 vaccine mandates face stiff resistance in the US, where they are clashing with national ideals of personal freedom. 
  <p class="updated_time"> 06:35 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60059543?at_medium=RSS&at_campaign=KARANGA">German Covid protests turn nasty in row over rules and vaccinations</a> BBC: Tens of thousands of Germans take to the streets every week and politicians are being targeted. 
  <p class="updated_time"> 06:32 PM CT, Jan. 23 </p> 
@@ -167,6 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
+ <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
  <p class="updated_time"> 06:28 PM CT, Jan. 22 </p> 
@@ -193,9 +197,15 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">Eight senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
+ <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-fox-reporter-profanity-00001578">“Stupid son of a …”: Biden makes plain his opinion of Fox reporter’s question</a> Politico: The president didn’t appear to be speaking directly to Peter Doocy but was bluntly sarcastic after being asked about the political implications of inflation. 
+ <p class="updated_time"> 06:16 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
  <p class="updated_time"> 05:54 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/sheldon-silver-dies-new-york-00001544">Sheldon Silver, longtime New York power broker and eventual inmate, dies at 77</a> Politico: Silver was the undisputed master of the legislative process in his time as speaker. 
  <p class="updated_time"> 05:44 PM CT, Jan. 24 </p> 
@@ -216,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:05 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075429352/special-grand-jury-fulton-county-da-trump-election-probe">A special grand jury has been granted in Fulton County's Trump investigation</a> NPR: The decision comes after Fulton District Attorney Fani Willis requested one. A special grand jury has subpoena power and the authority to obtain documents. It will begin on May 2. 
- <p class="updated_time"> 04:47 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
@@ -244,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/michigan-litter-box-school.html">Litter Boxes for Students Who Identify as Furries? Not So, Says School Official</a> NYT: A Michigan school superintendent debunked the rumor after a video from a December school board meeting resurfaced in which a speaker airs concerns about students who “identify as cats.” 
  <p class="updated_time"> 08:47 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">The Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
- <p class="updated_time"> 08:41 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:35 AM CT, Jan. 24 </p> 
@@ -278,14 +284,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
  <p class="updated_time"> 07:09 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
- <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
  <p class="updated_time"> 04:46 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
  <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/william-barr-jan6-committee-thompson-00000605">Former Attorney General William Barr has spoken to Jan. 6 panel, chair says</a> Politico: Rep. Bennie Thompson said the committee had also spoken with Pentagon officials about a draft executive order aimed at seizing voting machines. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
+ <a href="https://www.cnn.com/2022/01/23/politics/filibuster-60-vote-senate-rule/index.html">How a group of senators in 1975 came up with a rule that changed the chamber forever</a> CNN: Democrats failed spectacularly this week to change filibuster rules in the Senate. 
  <p class="updated_time"> 11:19 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/23/politico-turns-15-00000032"> POLITICO turns 15</a> Politico Playbook: And Arizona Democrats censure Sen. Kyrsten Sinema. 
  <p class="updated_time"> 11:04 AM CT, Jan. 23 </p> 
@@ -314,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 10:52 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/video/us/politics/100000008170996/voices-from-the-march-for-life.html">Voices From the March for Life</a> NYT: Protesters at this year’s anti-abortion rally expressed excitement about a coming Supreme Court ruling that could overturn Roe v. Wade. 
- <p class="updated_time"> 09:42 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/us/politics/biden-intel-semiconductors-china.html">Biden Looks to Intel’s U.S. Investment to Buoy His China Agenda</a> NYT: The president said passage of a China competition bill was needed “for the sake of our economic competitiveness and our national security.” 
  <p class="updated_time"> 06:29 PM CT, Jan. 21 </p> 
  <a href="https://www.nytimes.com/2022/01/21/us/politics/arizona-sues-covid-masks.html">Arizona Sues to Stop Treasury From Recouping Relief Funds</a> NYT: Gov. Doug Ducey has been using federal pandemic aid to undermine school mask requirements, which Treasury said violated the law. 
  <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
- <p class="updated_time"> 12:29 PM CT, Jan. 20 </p> 
- <a href="https://www.cnn.com/2022/01/19/politics/biden-democrats-midterm-election/index.html">Biden leaves Democrats hanging as midterms burst into full swing</a> CNN: President Joe Biden spotted Rep. Sean Patrick Maloney on the White House campus last June and called out to the House Democratic campaign chair loudly enough for several others to hear: "I really want to talk to you about the races!" he shouted.  
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
