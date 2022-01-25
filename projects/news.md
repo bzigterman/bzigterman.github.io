@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:58 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 08:11 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
+ <p class="updated_time"> 08:06 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
+ <p class="updated_time"> 08:03 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
  <p class="updated_time"> 07:49 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 07:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
- <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
  <p class="updated_time"> 07:38 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-60129268?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 'We hope for the best for our families back home'</a> BBC: Tongans living in Fiji are collecting donations to support those impacted by the volcano and tsunami. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60127466?at_medium=RSS&at_campaign=KARANGA">Indonesia: Brawl and fire in West Papua nightclub leaves 18 dead</a> BBC: Victims were trapped by the blaze after rival groups fought with machetes in West Papua province. 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
  <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
  <p class="updated_time"> 06:09 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
+ <p class="updated_time"> 06:03 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60091590?at_medium=RSS&at_campaign=KARANGA">Netflix: First Arabic movie sparks morality row</a> BBC: The film, which includes a scene of an actress removing her underwear, stirs anger in Egypt. 
  <p class="updated_time"> 05:58 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60126614?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'I should be ready to defend the country'</a> BBC: Marta is getting military training for a possible Russian invasion, but says she doesn't want war. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
@@ -65,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/many-countries-fail-to-counter-corruption-despite-promises-antigraft-group-says-11643106606">Many Countries Fail to Counter Corruption Despite Promises, Antigraft Group Says</a> WSJ: As many as 131 countries failed to make any meaningful progress on corruption, with the reputation of over two dozen reaching an all-time low. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
- <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-60121538?at_medium=RSS&at_campaign=KARANGA">The Beatles and John Lennon memorabilia to be sold as NFTs</a> BBC: John Lennon's eldest son Julian will keep the physical items as he sells digital versions of them. 
  <p class="updated_time"> 10:16 PM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-cruise-missiles-11643102172">North Korea Launches Suspected Cruise Missiles</a> WSJ: Such launches aren’t covered by U.N. resolutions that govern Pyongyang’s weapons activity. The Kim Jong Un regime previously conducted four ballistic-missile tests this month. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 02:23 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
- <p class="updated_time"> 02:03 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60120061?at_medium=RSS&at_campaign=KARANGA">US woman finds $3m lottery ticket in junk email folder</a> BBC: "I was looking for a missing email from someone, so I checked the spam folder," said winner Laura Spears. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
- <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
 
