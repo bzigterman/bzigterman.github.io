@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">An Unknown Civil Servant May Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
+ <p class="updated_time"> 01:59 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on alert as West voices unity</a> BBC: Western allies agree to sanctions against Russia if it invades, as thousands of troops stand by. 
  <p class="updated_time"> 01:36 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people were injured in the crush outside a football stadium in Cameroon. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
- <p class="updated_time"> 12:10 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: Western leaders declare unity against Russia threat</a> BBC: US President Joe Biden said there is "total unanimity" with allies over a possible Russian invasion. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
- <p class="updated_time"> 12:42 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html">English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer</a> NYT: On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
- <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
 
 
 </details>
