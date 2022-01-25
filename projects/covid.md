@@ -1157,7 +1157,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">764.0K</td>
-<td class="gt_row gt_right">731.0K</td>
+<td class="gt_row gt_right">732.0K</td>
 <td class="gt_row gt_right">&minus;4&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">142.0K</td>
