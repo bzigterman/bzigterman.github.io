@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
+ <p class="updated_time"> 05:29 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60124931?at_medium=RSS&at_campaign=KARANGA">Bataclan survivor finds NFT of her X-ray for sale online</a> BBC: The surgeon had put an image of a patient's X-ray on a website that sells NFTs without her consent. 
  <p class="updated_time"> 05:08 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 04:50 AM CT, Jan. 25 </p> 
@@ -31,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
+ <p class="updated_time"> 12:23 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Downing Street Lockdown Parties to Be Investigated by U.K. Police</a> WSJ: The investigation further raises pressure on Prime Minister Boris Johnson, whose popularity has fallen sharply in the wake of the revelations. 
  <p class="updated_time"> 11:30 PM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/many-countries-fail-to-counter-corruption-despite-promises-antigraft-group-says-11643106606">Many Countries Fail to Counter Corruption Despite Promises, Antigraft Group Says</a> WSJ: As many as 131 countries failed to make any meaningful progress on corruption, with the reputation of over two dozen reaching an all-time low. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:56 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
- <p class="updated_time"> 02:43 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60118993?at_medium=RSS&at_campaign=KARANGA">Burkina Faso military says it has seized power</a> BBC: President Kaboré has been overthrown and the government and parliament dissolved, the army says. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 02:23 PM CT, Jan. 24 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60120061?at_medium=RSS&at_campaign=KARANGA">US woman finds $3m lottery ticket in junk email folder</a> BBC: "I was looking for a missing email from someone, so I checked the spam folder," said winner Laura Spears. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
- <p class="updated_time"> 01:45 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60118019?at_medium=RSS&at_campaign=KARANGA">Luxury cruise ship changes course to dodge seizure</a> BBC: Passengers on the Crystal Symphony were treated to an extra night due to a US arrest warrant. 
  <p class="updated_time"> 01:38 PM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/singapore-central-bank-tightens-policy-in-surprise-move-11643071139">Singapore Central Bank Tightens Policy in Surprise Move</a> WSJ: Singapore’s central bank on Tuesday unexpectedly tightened its currency policy, a pre-emptive move to stem the inflationary impact of supply-side constraints and rising commodity prices. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
