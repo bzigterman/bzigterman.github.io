@@ -209,11 +209,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075489010/democrats-try-to-stop-gop-gains-with-latino-voters-in-new-congressional-district">Ahead of midterms, Colorado Democrats try to stop GOP gains with Latino voters </a> NPR: A new congressional district in Colorado is the state's most heavily Latino district. In the intense battle for Congress, Democrats are trying to stop recent Republican support from Latino voters. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Fed’s Policy Pivot May Prove Late and Abrupt, Critics Fret</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
+ <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
+ <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Fed’s Policy Pivot May Prove Late and Abrupt, Critics Fret</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
  <p class="updated_time"> 10:59 PM CT, Jan. 24 </p> 
