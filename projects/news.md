@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:28 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
+ <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
  <p class="updated_time"> 09:13 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the Australian ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
- <p class="updated_time"> 09:07 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
  <p class="updated_time"> 09:07 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
@@ -57,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60124931?at_medium=RSS&at_campaign=KARANGA">Bataclan survivor finds NFT of her X-ray for sale online</a> BBC: The surgeon had put an image of a patient's X-ray on a website that sells NFTs without her consent. 
  <p class="updated_time"> 04:50 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on alert as West voices unity</a> BBC: Western allies agree to sanctions against Russia if it invades, as thousands of troops stand by. 
+ <p class="updated_time"> 04:18 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Considers 'Potent' Export Controls Against Russia</a> WSJ: The Biden administration would target Russia’s defense, aerospace, artificial intelligence and other key sectors in response to an invasion of Ukraine, U.S. officials said. 
  <p class="updated_time"> 04:16 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60124599?at_medium=RSS&at_campaign=KARANGA">Guatemala convicts ex-soldiers for raping indigenous women</a> BBC: Five ex-paramilitary soldiers are given 30-year jail terms for raping dozens of women in the 1980s. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
@@ -67,8 +71,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075493673/yemens-houthis-have-launched-two-attacks-against-the-u-a-e-heres-why">Yemen's Houthis have launched two attacks against the U.A.E. — here's why</a> NPR: The attacks underscore how Yemen's civil war, which has ground on for over seven years, can flare into a regional danger. 
- <p class="updated_time"> 02:47 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
+ <p class="updated_time"> 03:03 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/inflation-supply-chain-omicron-expected-to-take-a-bigger-toll-on-global-growth-11643119381">Inflation, Supply Chain, Omicron Expected to Take a Bigger Toll on Global Growth</a> WSJ: The IMF scales back its 2022 outlook, with the U.S. getting the biggest downgrade of any major country. 
  <p class="updated_time"> 02:04 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/chinas-common-prosperity-to-squeeze-cash-strapped-local-governments-11643115843">China's 'Common Prosperity' to Squeeze Cash-Strapped Local Governments</a> WSJ: Local governments in China have long been weighed down by debts. Xi Jinping’s push for “common prosperity” now is putting more pressure on them—while removing some of their most reliable sources of income. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Downing Street Lockdown Parties to Be Investigated by U.K. Police</a> WSJ: The investigation further raises pressure on Prime Minister Boris Johnson, whose popularity has fallen sharply in the wake of the revelations. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
- <p class="updated_time"> 11:30 PM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/many-countries-fail-to-counter-corruption-despite-promises-antigraft-group-says-11643106606">Many Countries Fail to Counter Corruption Despite Promises, Antigraft Group Says</a> WSJ: As many as 131 countries failed to make any meaningful progress on corruption, with the reputation of over two dozen reaching an all-time low. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
@@ -155,12 +157,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
  <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
- <p class="updated_time"> 10:19 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/differences-splinter-u-s-team-negotiating-with-iran-on-nuclear-deal-11643059183">Differences Splinter U.S. Team in Talks With Iran on Nuclear Deal</a> WSJ: Some members of the U.S. negotiating team have left or stepped back after urging a tougher line on Tehran in stalled talks to restore the 2015 nuclear agreement. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
- <p class="updated_time"> 05:42 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213">On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</a> WSJ: The nation has struggled to maintain a sense of stability since it became an independent country in 1991 and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time. 
  <p class="updated_time"> 04:51 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
