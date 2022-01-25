@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
  <p class="updated_time"> 01:20 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
+ <p class="updated_time"> 11:30 PM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/many-countries-fail-to-counter-corruption-despite-promises-antigraft-group-says-11643106606">Many Countries Fail to Counter Corruption Despite Promises, Antigraft Group Says</a> WSJ: As many as 131 countries failed to make any meaningful progress on corruption, with the reputation of over two dozen reaching an all-time low. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
@@ -99,12 +101,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 01:45 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60118019?at_medium=RSS&at_campaign=KARANGA">Luxury cruise ship changes course to dodge seizure</a> BBC: Passengers on the Crystal Symphony were treated to an extra night due to a US arrest warrant. 
+ <p class="updated_time"> 01:38 PM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/singapore-central-bank-tightens-policy-in-surprise-move-11643071139">Singapore Central Bank Tightens Policy in Surprise Move</a> WSJ: Singapore’s central bank on Tuesday unexpectedly tightened its currency policy, a pre-emptive move to stem the inflationary impact of supply-side constraints and rising commodity prices. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
  <p class="updated_time"> 01:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
- <p class="updated_time"> 01:05 PM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/nato-to-send-ships-jet-fighters-to-eastern-europe-amid-standoff-with-russia-11643026393">NATO to Send Ships, Jet Fighters to Eastern Europe</a> WSJ: Allies are bolstering NATO’s eastern flank in response to Russia’s military buildup around Ukraine, the EU set out plans for loans and grants for Kyiv worth more than $1.3 billion and the U.S. ordered thousands of troops to prepare for possible deployment. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
@@ -123,14 +125,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
  <p class="updated_time"> 11:03 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
- <p class="updated_time"> 10:44 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
+ <p class="updated_time"> 10:19 AM CT, Jan. 24 </p> 
+ <a href="https://www.wsj.com/articles/differences-splinter-u-s-team-negotiating-with-iran-on-nuclear-deal-11643059183">Differences Splinter U.S. Team in Talks With Iran on Nuclear Deal</a> WSJ: Some members of the U.S. negotiating team have left or stepped back after urging a tougher line on Tehran in stalled talks to restore the 2015 nuclear agreement. 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-intercepts-two-ballistic-missiles-over-capital-as-gulf-tensions-escalate-11643007328">Houthis Attack U.A.E. Again in Threat to Business and Tourism Hub</a> WSJ: U.A.E. and U.S. forces intercepted two ballistic missiles over Abu Dhabi, a week after a previous attack by Yemen’s Houthi rebels killed three people and injured six others. 
- <p class="updated_time"> 07:13 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/omicron-slows-europes-economy-but-supply-chain-strains-ease-11643023131">Omicron Slows the Global Economy, Hitting the U.S. Particularly Hard</a> WSJ: The U.S. saw a pullback in services and manufacturing growth, while services sectors in Europe and Asia also felt an impact from the new Covid-19 variant. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:42 AM CT, Jan. 24 </p> 
@@ -139,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075273872/afghanistans-taliban-have-started-their-first-talks-in-europe-since-takeover">Afghanistan's Taliban have started their first talks in Europe since takeover</a> NPR: Taliban representatives will be certain to press their demand that nearly $10 billion frozen by the United States be released as Afghanistan faces a precarious humanitarian situation. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
- <p class="updated_time"> 02:55 AM CT, Jan. 24 </p> 
- <a href="https://www.wsj.com/articles/julian-assange-can-seek-appeal-in-u-k-supreme-court-against-extradition-to-u-s-11643030614">Assange Can Seek Appeal in U.K. High Court Against Extradition to U.S.</a> WSJ: A U.K. court allowed the WikiLeaks founder to take his appeal against extradition to the country’s Supreme Court, another setback in the U.S.’s yearslong pursuit of him. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
@@ -194,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation">The Great Resignation? More like The Great Renegotiation</a> NPR: "The Great Resignation" looks mostly like workers negotiating for a better deal. 
  <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
@@ -205,17 +203,17 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Texas primary showdown bursts open after FBI raid</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss">Prosecutors in multiple states are investigating false Electoral College submissions</a> NPR: Legal experts say the illegitimate submissions should motivate Congress to update the Electoral Count Act and "firm up the guardrails" of democracy. 
- <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075489010/democrats-try-to-stop-gop-gains-with-latino-voters-in-new-congressional-district">Ahead of midterms, Colorado Democrats try to stop GOP gains with Latino voters </a> NPR: A new congressional district in Colorado is the state's most heavily Latino district. In the intense battle for Congress, Democrats are trying to stop recent Republican support from Latino voters. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss">Prosecutors in multiple states are investigating false Electoral College submissions</a> NPR: Legal experts say the illegitimate submissions should motivate Congress to update the Electoral Count Act and "firm up the guardrails" of democracy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Fed’s Policy Pivot May Prove Late and Abrupt, Critics Fret</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
- <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
  <p class="updated_time"> 10:59 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 10:51 PM CT, Jan. 24 </p> 
@@ -290,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 06:06 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
- <p class="updated_time"> 04:31 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/trump-secretary-of-state-campaigns-00000473">Trump followers zero in on secretary of state campaigns</a> Politico: New fundraising reports from Arizona show how much energy from Trump-world is flowing into installing new election administrators. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/tom-emmers-nrcc-midterms-527627">Tom Emmer's on a roll. He won't say where to.</a> Politico: The House GOP campaigns chief who exceeded expectations in 2020 is poised for a bigger 2022 — and a path up the ranks, if he grabs it. 
  <p class="updated_time"> 04:05 AM CT, Jan. 24 </p> 
@@ -320,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/sanders-sinema-arizona-democrats-censure-00000544">Sanders backs Arizona Democrats' censure of Sinema</a> Politico: “I think what the Arizona Democrats did was exactly right,” he said. 
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
- <p class="updated_time"> 09:13 AM CT, Jan. 23 </p> 
- <a href="https://www.npr.org/2022/01/23/1075090558/bidens-predecessors-could-have-felt-his-first-year-pain">Biden's predecessors could have felt his first-year pain</a> NPR: Yet these early reversals haven't always been hobbling. On the contrary, three of the past four presidents elected — and five of the past eight — have recovered from shaky starts to win re-election. 
  <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
