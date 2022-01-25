@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Prison Attack in Syria Is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
+ <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
+ <p class="updated_time"> 04:52 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
- <p class="updated_time"> 04:35 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624855/remembering-trailblazing-fashion-designer-thierry-mugler-dead-at-73">Remembering trailblazing fashion designer Thierry Mugler, dead at 73</a> NPR: French fashion designer Thierry Mugler reshaped the fashion world, centering wildly inventive concepts and creating space for queer voices. On Sunday, he died at the age of 73. 
  <p class="updated_time"> 04:04 PM CT, Jan. 25 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
- <p class="updated_time"> 03:17 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 03:14 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
@@ -52,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:18 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075357281/kyiv-or-kiev-why-people-disagree-about-how-to-pronounce-the-ukrainian-capitals-n">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
+ <a href="https://www.npr.org/2022/01/25/1075357281/how-do-you-pronounce-kyiv">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
  <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075556977/ayesha-malik-pakistan-supreme-court">Meet Justice Ayesha Malik, Pakistan's first female Supreme Court judge</a> NPR: Malik was sworn in on Monday, shattering a glass ceiling in a country where only about 17% of judges are women. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
- <p class="updated_time"> 12:44 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
@@ -212,12 +212,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
+ <p class="updated_time"> 04:52 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075623146/federal-court-says-alabamas-congressional-map-disadvantages-black-voters">Federal court says Alabama's congressional map disadvantages Black voters</a> NPR: Blocking the new congressional map from taking effect, a panel of judges says Alabama needs at least two, not one, congressional districts in which Black voters are the majority, or close to it. 
  <p class="updated_time"> 04:40 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
- <p class="updated_time"> 04:35 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/brazen-cuellar-pro-00001991">Cuellar on FBI raid: I intend to win reelection, the investigation will clear me</a> Politico: The defiant statement from the conservative Democrat comes as progressive challenger Jessica Cisneros picks up some key endorsements. 
  <p class="updated_time"> 04:23 PM CT, Jan. 25 </p> 
@@ -253,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:24 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
+ <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075429352/special-grand-jury-fulton-county-da-trump-election-probe">A special grand jury has been granted in Fulton County's Trump investigation</a> NPR: The decision comes after Fulton District Attorney Fani Willis requested one. A special grand jury has subpoena power and the authority to obtain documents. It will begin on May 2. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
- <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
  <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
