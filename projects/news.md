@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 12:10 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: Western leaders declare unity against Russia threat</a> BBC: US President Joe Biden said there is "total unanimity" with his European allies over Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: Western leaders declare unity against Russia threat</a> BBC: US President Joe Biden said there is "total unanimity" with allies over a possible Russian invasion. 
  <p class="updated_time"> 11:26 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
