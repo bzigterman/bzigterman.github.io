@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:44 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 10:22 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
+ <p class="updated_time"> 10:21 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
- <p class="updated_time"> 09:43 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 10:18 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 09:42 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
  <p class="updated_time"> 09:37 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60129827?at_medium=RSS&at_campaign=KARANGA">Greece Snowstorm: Thousands of drivers left stranded as storm hits Athens</a> BBC: Authorities in the Greek capital worked overnight to rescue some 300 people left stranded in cars. 
- <p class="updated_time"> 09:34 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/business/economy/chips-semiconductors-shortage.html">Commerce Department Survey Uncovers ‘Alarming’ Chip Shortages</a> NYT: Increased demand for the semiconductors that power cars, electronics and electrical grids have stoked inflation and could cause more factory shutdowns in the United States. 
  <p class="updated_time"> 09:06 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/desantis-biden-covid-treatments-00001729">DeSantis opens new battle with Biden over Covid treatments</a> Politico: The U.S. Food and Drug Administration on Monday cut Florida’s weekly allotment of monoclonal antibody cocktails. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075264773/biden-weighs-sending-5-000-troops-to-eastern-europe-to-counter-russia">Biden weighs sending 5,000 troops to Eastern Europe to counter Russia</a> NPR: The Biden administration is considering a plan to send several thousand additional U.S. troops into NATO countries in eastern Europe, near both Russia and Ukraine. 
- <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 06:06 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html">Top Jan. 6 Investigator Fired From Post at the University of Virginia</a> NYT: Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot. 
  <p class="updated_time"> 04:30 AM CT, Jan. 24 </p> 
