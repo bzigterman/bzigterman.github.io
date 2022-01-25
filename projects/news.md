@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 10:55 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60118193?at_medium=RSS&at_campaign=KARANGA">Ukraine: US troops on high alert over stand-off</a> BBC: Some 8,500 combat-ready US troops are on high alert to deploy at short notice, the Pentagon says. 
  <p class="updated_time"> 10:47 PM CT, Jan. 24 </p> 
@@ -18,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075471526/internet-to-tongas-main-island-cut-by-volcano-could-be-restored-in-2-weeks">Internet to Tonga's main island cut by volcano could be restored in 2 weeks</a> NPR: A second, domestic fiber-optic cable that connects Tonga's smaller islands to the main island could prove much more difficult to repair. 
+ <a href="https://www.npr.org/2022/01/24/1075471526/internet-to-tongas-main-island-cut-by-volcano-could-be-restored-in-2-weeks">COVID outbreak on relief ship causes fears of spread in Tonga</a> NPR: Since the pandemic began, Tonga has reported just a single case of COVID-19 and has avoided any outbreaks. 
  <p class="updated_time"> 08:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
  <p class="updated_time"> 08:15 PM CT, Jan. 24 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60117202?at_medium=RSS&at_campaign=KARANGA">Sarah Palin's positive Covid test delays New York Times defamation trial</a> BBC: The former US vice-presidential candidate's lawsuit against The New York Times is delayed till February. 
  <p class="updated_time"> 10:44 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/burkina-fasos-president-is-seized-by-troops-11643041909">Burkina Faso Soldiers Seize Power and Detain President</a> WSJ: The detention follows a wave of street protests against the government’s failure to stem the advance of Islamist militants in the north of the West African nation. 
- <p class="updated_time"> 10:42 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/asia/winter-olympics-china-beijing-xi-jinping.html">How China's Xi Jinping Is Staging the Beijing Olympics on His Terms</a> NYT: From Beijing’s unexpected bid through the coronavirus pandemic, China has managed to fulfill its promises and cow its critics. 
  <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 08:11 AM CT, Jan. 24 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
- <p class="updated_time"> 12:44 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/asia/tonga-tsunami-volcano.html">Tonga Tsunami Brought Catastrophe to 3 Tiny Islands </a> NYT: The sparsely populated islets of Nomuka, Mango and Fonoifua were hit by waves almost 50 feet high, a Red Cross official said. 
  <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
  <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
@@ -187,16 +185,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/europe/coronavirus-boris-johnson-novak-djokovic-hypocrisy.html">Why Boris Johnson May Finally Have Gone Too Far</a> NYT: Moral hypocrisy, such as lying about parties held during Britain’s lockdown, is the ultimate sin in human society, with a special power to enrage. 
  <p class="updated_time"> 01:15 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
- <p class="updated_time"> 10:58 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/remdesivir-fda-approval-expanded-covid.html">F.D.A. Approves Remdesivir for Patients Not Hospitalized</a> NYT: The treatment must be given via intravenous infusion over three consecutive days, generally at a hospital or clinic. 
- <p class="updated_time"> 08:12 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/europe/chernobyl-ukraine-invasion-russia.html">What a Potential Russian Invasion Means in Chernobyl </a> NYT: Ukraine has initiated a defensive strategy for the Chernobyl Exclusion Zone, one of the most radioactive places on Earth, which lies on the shortest path between Russia and Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
  <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
- <p class="updated_time"> 10:31 PM CT, Jan. 21 </p> 
- <a href="https://www.nytimes.com/2022/01/21/world/the-fugees-are-latest-artists-to-cancel-shows-over-the-pandemic.html">Fugees Cancel Reunion Tour, Citing the Pandemic</a> NYT: A tour to recognize the 25th anniversary of a career-defining album will have to wait. 
 
 
 </details>
