@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:34 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
+ <p class="updated_time"> 08:30 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
+ <p class="updated_time"> 08:27 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60091592?at_medium=RSS&at_campaign=KARANGA">French tourist Benjamin Brière jailed in Iran on spying charges</a> BBC: The 36-year-old was arrested for flying a drone while on holiday nearly two years ago. 
  <p class="updated_time"> 08:27 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60127134?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Nato is not a threat to Russia - Estonian PM Kallas</a> BBC: Russia does not get to determine who is part of the alliance, Prime Minister Kaja Kallas tells the BBC. 
- <p class="updated_time"> 08:26 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: With U.S. Troops on ‘High Alert,’ Russia Announces New Military Drills</a> NYT: President Biden held a video conference with European leaders as fears of a Russian invasion of Ukraine deepened. NATO is sending more jets and ships to the region as the West tries to present a united front. 
  <p class="updated_time"> 08:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
- <p class="updated_time"> 08:06 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Fighting Between ISIS and U.S.-Backed Forces Spreads</a> NYT: A battle over a prison has turned into the biggest confrontation between the United States and the Islamic State since the group’s caliphate fell in 2019. 
  <p class="updated_time"> 07:49 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 07:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
- <p class="updated_time"> 07:38 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
  <p class="updated_time"> 07:26 AM CT, Jan. 25 </p> 
@@ -30,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-60129268?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 'We hope for the best for our families back home'</a> BBC: Tongans living in Fiji are collecting donations to support those impacted by the volcano and tsunami. 
  <p class="updated_time"> 06:54 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60127466?at_medium=RSS&at_campaign=KARANGA">Indonesia: Brawl and fire in West Papua nightclub leaves 18 dead</a> BBC: Victims were trapped by the blaze after rival groups fought with machetes in West Papua province. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60127466?at_medium=RSS&at_campaign=KARANGA">Indonesia: Brawl and fire in West Papua nightclub leaves 19 dead</a> BBC: Victims were trapped by the blaze after rival groups fought with machetes in West Papua province. 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
  <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60120997?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag: Australian government secures copyright after row</a> BBC: Aboriginal Australians say the symbol of identity was previously "held hostage" by lease agreements. 
  <p class="updated_time"> 06:21 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60108274?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: Why deadly cow attacks are an issue in Indian state election</a> BBC: Uttar Pradesh banned cow slaughter. Now, stray cattle are destroying crops and attacking people. 
- <p class="updated_time"> 06:18 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60117763?at_medium=RSS&at_campaign=KARANGA">George Floyd: Three ex-officers face civil rights trial</a> BBC: Federal prosecutors allege the former officers "wilfully deprived" George Floyd of his civil rights. 
  <p class="updated_time"> 06:15 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60111142?at_medium=RSS&at_campaign=KARANGA">How Covid disinformation has fuelled attacks on Czech doctors</a> BBC: Knowing how to deal with aggressive patients has become even more important during the pandemic. 
  <p class="updated_time"> 06:10 PM CT, Jan. 24 </p> 
@@ -204,12 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:06 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/desantis-biden-covid-treatments-00001729">DeSantis opens new battle with Biden over Covid treatments</a> Politico: The U.S. Food and Drug Administration on Monday cut Florida’s weekly allotment of monoclonal antibody cocktails. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War May Loom, but Are There Offramps?</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:38 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War May Loom, but Are There Offramps?</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
  <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
