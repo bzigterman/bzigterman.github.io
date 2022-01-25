@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:28 AM CT, Jan. 25 </p> 
+ <p class="updated_time"> 09:44 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
+ <p class="updated_time"> 09:43 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
+ <p class="updated_time"> 09:42 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
+ <p class="updated_time"> 09:37 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60129827?at_medium=RSS&at_campaign=KARANGA">Greece Snowstorm: Thousands of drivers left stranded as storm hits Athens</a> BBC: Authorities in the Greek capital worked overnight to rescue some 300 people left stranded in cars. 
+ <p class="updated_time"> 09:34 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
@@ -29,16 +39,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60091592?at_medium=RSS&at_campaign=KARANGA">French tourist Benjamin Brière jailed in Iran on spying charges</a> BBC: The 36-year-old was arrested for flying a drone while on holiday nearly two years ago. 
  <p class="updated_time"> 08:27 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60127134?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Nato is not a threat to Russia - Estonian PM Kallas</a> BBC: Russia does not get to determine who is part of the alliance, Prime Minister Kaja Kallas tells the BBC. 
- <p class="updated_time"> 08:19 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
- <p class="updated_time"> 07:49 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 07:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
- <p class="updated_time"> 07:26 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
@@ -71,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075493673/yemens-houthis-have-launched-two-attacks-against-the-u-a-e-heres-why">Yemen's Houthis have launched two attacks against the U.A.E. — here's why</a> NPR: The attacks underscore how Yemen's civil war, which has ground on for over seven years, can flare into a regional danger. 
+ <p class="updated_time"> 03:26 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
  <p class="updated_time"> 03:03 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/inflation-supply-chain-omicron-expected-to-take-a-bigger-toll-on-global-growth-11643119381">Inflation, Supply Chain, Omicron Expected to Take a Bigger Toll on Global Growth</a> WSJ: The IMF scales back its 2022 outlook, with the U.S. getting the biggest downgrade of any major country. 
  <p class="updated_time"> 02:04 AM CT, Jan. 25 </p> 
@@ -89,12 +95,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075471526/internet-to-tongas-main-island-cut-by-volcano-could-be-restored-in-2-weeks">COVID outbreak on relief ship causes fears of spread in Tonga</a> NPR: Since the pandemic began, Tonga has reported just a single case of COVID-19 and has avoided any outbreaks. 
  <p class="updated_time"> 08:33 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/burkina-faso-military-coup.html">Burkina Faso President Ousted in Military Coup</a> NYT: Mutinous officers said the public was fed up with President Roch Marc Christian Kaboré because of his inability to stop attacks by Islamist militants. 
- <p class="updated_time"> 08:15 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60121558?at_medium=RSS&at_campaign=KARANGA">US black man mistaken for older white suspect - lawsuit</a> BBC: Shane Lee Brown was freed from jail after a judge compared photos of the two men, legal action says. 
  <p class="updated_time"> 07:31 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
- <p class="updated_time"> 07:23 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
  <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
  <p class="updated_time"> 06:33 PM CT, Jan. 24 </p> 
