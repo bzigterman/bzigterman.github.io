@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:26 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
  <p class="updated_time"> 10:55 PM CT, Jan. 24 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60121538?at_medium=RSS&at_campaign=KARANGA">The Beatles and John Lennon memorabilia to be sold as NFTs</a> BBC: John Lennon's eldest son Julian will keep the physical items as he sells digital versions of them. 
  <p class="updated_time"> 10:23 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Eight people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
- <p class="updated_time"> 10:11 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60121668?at_medium=RSS&at_campaign=KARANGA">Australian Open: Peng Shuai T-shirt ban reversed after outcry</a> BBC: The turnaround comes less than 24 hours after organisers banned the shirt for being "political". 
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:54 PM CT, Jan. 24 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/22/world/olympic-torch-relay-covid-safety.html">Winter Olympic Torch Relay Shrinks to ‘Prioritize Safety.’</a> NYT: The relay, usually global and lasting for months, will take place over just three days, be mostly local, and only select members of the public will be able to attend. 
  <p class="updated_time"> 05:00 AM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/canada/drake-course-toronto-ryerson-university.html">Drake Put Toronto on the Map. A University Put Him in the Syllabus</a> NYT: The hip-hop star’s influence on Toronto has been enormous and now includes a Ryerson University course deconstructing him. 
- <p class="updated_time"> 04:22 AM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/asia/thich-nhat-hanh-quotes.html">Thich Nhat Hanh: Quotes From a Zen Master</a> NYT: “People talk about entering nirvana, but we are already there,” said the Buddhist monk, who died on Saturday. Here is a short selection of his remarks. 
 
 
 </details>
