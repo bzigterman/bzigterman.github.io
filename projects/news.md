@@ -202,8 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/trump-ohio-governorship-00001603">Trump conquered Ohio. Now his followers want the governorship.</a> Politico: Ex-Rep. Jim Renacci is challenging Gov. Mike DeWine in a primary, betting GOP voters want someone more closely aligned with Donald Trump. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/virginia-education-wars-florida-governors-race-1406401">Virginia's education wars emerge in Florida governor's race</a> Politico: Education has become one of the most heated political issues. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">The filibuster's archnemesis</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber's vaunted 60-vote threshold. And he doesn't mind if that's used against his own party in the future. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Cisneros lassos new momentum in battle with bruised Cuellar</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075489010/democrats-try-to-stop-gop-gains-with-latino-voters-in-new-congressional-district">Democrats try to stop GOP gains with Latino voters in new congressional district</a> NPR: The new congressional district is also the state's most heavily Latino district. In the intense battle for Congress, Democrats are trying to stop recent Republican gains with Latino voters. 
  <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
@@ -256,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:05 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075429352/special-grand-jury-fulton-county-da-trump-election-probe">A special grand jury has been granted in Fulton County's Trump investigation</a> NPR: The decision comes after Fulton District Attorney Fani Willis requested one. A special grand jury has subpoena power and the authority to obtain documents. It will begin on May 2. 
- <p class="updated_time"> 03:45 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/us-troops-eastern-europe-deployment-00001485">U.S. puts 8,500 troops on alert as Russia tensions ramp up</a> Politico: The move comes as NATO allies deploy ships and aircraft to Eastern Europe. 
  <p class="updated_time"> 03:17 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075383785/biden-consults-with-european-allies-about-deterring-a-russian-invasion-of-ukrain">Biden consults with European allies about deterring a Russian invasion of Ukraine</a> NPR: President Biden confers with U.S. allies on Ukraine on Monday, as the U.S. pulls diplomatic families out of Kyiv and weighs beefing up troop deployments in the region over fears of a Russian invasion. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
@@ -266,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/business/media/sarah-palin-libel-suit-nyt.html">Sarah Palin v. New York Times Spotlights Push to Loosen Libel Law</a> NYT: The trial comes at a time when those who argue that news outlets should pay a steeper price for getting something wrong are more emboldened than they’ve been in decades. 
  <p class="updated_time"> 01:08 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/california-school-covid-vaccine-mandate-proposal-00001261">California lawmaker proposes Covid vaccine mandate for all schoolchildren</a> Politico: State Sen. Richard Pan’s proposal would go further than Gov. Gavin Newsom’s requirement 
- <p class="updated_time"> 11:31 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/biden-climate-banks-2103097">'Big shift': Biden moves to rewrite the rules on climate threat</a> Politico: Among other moves, regulators are likely to press banks to prepare for the fallout from a warming planet by stepping up scrutiny of fossil fuel financing. 
  <p class="updated_time"> 11:22 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-affirmative-action-harvard-unc-00001236">Supreme Court will take up Harvard, UNC affirmative action challenge</a> Politico: In the lawsuit SFFA asked the high court to overturn its ruling in a landmark affirmative action case that has shaped college admissions policies for nearly two decades. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1003049852/supreme-court-adds-affirmative-action-to-its-potential-hit-list">The Supreme Court adds affirmative action to its potential hit list</a> NPR: With the court already having heard arguments this term on abortion and guns, this case marks yet another politically charged issue that threatens to uproot decades of legal doctrine. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:35 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/oath-keepers-founder-insurrection-sedition-charges-00000977">Judge mulls release for militia leader facing sedition charges in Jan. 6 attack</a> Politico: A yearlong delay in charging Oath Keepers founder may have hurt the case for keeping him in jail. 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/24/biden-confronts-major-troop-decision-00000983"> Biden confronts major troop decision</a> Politico Playbook: And Tom Emmer looks poised for a big year. 
  <p class="updated_time"> 06:22 AM CT, Jan. 24 </p> 
@@ -312,6 +312,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/23/1075219215/jan-6-panel-is-investigating-a-trump-administration-plan-to-seize-voting-machine">Jan. 6 panel is investigating a Trump administration plan to seize voting machines</a> NPR: Rep. Bennie Thompson of Mississippi confirmed Sunday that an executive order was drafted for Trump to sign that would have used the military to seize machines in battleground states. 
  <p class="updated_time"> 07:01 PM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/sarah-palin-new-york-times-00000541">Palin v. New York Times pushes new boundaries on libel suits</a> Politico: The libel case focuses on a 2017 editorial that suggested a link between a PAC’s map and a deadly Arizona shooting. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 23 </p> 
+ <a href="https://www.politico.com/news/2022/01/23/eric-adams-pac-striving-new-york-1406521">PAC with ties to Adams raises over $1M from real estate, nightlife and GOP figures</a> Politico: The PAC, Striving for a Better New York, was created last September by New York City-based Rev. Alfred Cockfield II with the hopes of boosting moderate candidates in upcoming state elections. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
  <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
@@ -358,6 +360,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
@@ -398,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751"> Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
- <p class="updated_time"> 04:30 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/news/2022/01/18/gop-majority-congress-biden-2023-527117">How a GOP majority in Congress might handle Biden in 2023</a> Politico: Republicans emboldened about their prospects to retake the House and maybe even the Senate, too, are already gauging their governing relationship with the president. 
 
 
 </details>
