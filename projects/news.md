@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:01 PM CT, Jan. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Six people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
  <p class="updated_time"> 07:31 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 07:23 PM CT, Jan. 24 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
- <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Deadly crush reported at Cameroon stadium</a> BBC: Six people are reportedly killed and dozens hurt in a crush outside a stadium in Cameroon. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-covid-strategy.html">Biden’s Pandemic Fight: Inside the Setbacks of the First Year</a> NYT: The administration has gotten much right, but its response has been hampered by confusing messaging, a lack of focus on testing, fear of political blowback and the coronavirus’s unpredictability. 
  <p class="updated_time"> 04:19 PM CT, Jan. 23 </p> 
  <a href="https://www.npr.org/2022/01/23/1075216835/west-virginias-plan-to-fight-2022-misinformation">West Virginia's plan to fight 2022 misinformation</a> NPR: NPR's Michel Martin speaks with Mac Warner, West Virginia's secretary of state, about a bipartisan campaign by state election officials to fight misinformation ahead of the 2022 vote. 
- <p class="updated_time"> 01:07 PM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/william-barr-jan6-committee-thompson-00000605">Former Attorney General William Barr has spoken to Jan. 6 panel, chair says</a> Politico: Rep. Bennie Thompson said the committee had also spoken with Pentagon officials about a draft executive order aimed at seizing voting machines. 
  <p class="updated_time"> 12:10 PM CT, Jan. 23 </p> 
  <a href="https://www.cnn.com/2022/01/23/politics/filibuster-60-vote-senate-rule/index.html">How a group of senators in 1975 came up with a rule that changed the chamber forever</a> CNN: Democrats failed spectacularly this week to change filibuster rules in the Senate. 
  <p class="updated_time"> 11:19 AM CT, Jan. 23 </p> 
