@@ -134,7 +134,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 01:36 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it has intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
+ <a href="https://www.npr.org/2022/01/24/1075261342/u-a-e-intercepted-two-missiles-from-yemens-houthis">UAE says it intercepted 2 missiles from Yemen's Houthis</a> NPR: The missile fire further escalates tensions across the Persian Gulf, which previously had seen a series of assaults near Emirati soil. 
  <p class="updated_time"> 01:18 AM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075259448/possible-coup-burkina-faso-president">Soldiers say a military junta now controls Burkina Faso</a> NPR: A spokesman for the junta said soldiers took over because President Roch Marc Christian Kabore could not manage the country's deteriorating security situation. 
  <p class="updated_time"> 12:56 AM CT, Jan. 24 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:24 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 09:05 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
  <p class="updated_time"> 08:29 PM CT, Jan. 24 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 06:32 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/biden-fox-reporter-profanity-00001578">“Stupid son of a …”: Biden makes plain his opinion of Fox reporter’s question</a> Politico: The president didn’t appear to be speaking directly to Peter Doocy but was bluntly sarcastic after being asked about the political implications of inflation. 
- <p class="updated_time"> 06:21 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 06:16 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/child-tax-credit-brain-function.html">Cash Aid to Poor Mothers Increases Brain Activity in Babies, Study Finds</a> NYT: The research could have policy implications as President Biden pushes to revive his proposal to expand the child tax credit. 
  <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
