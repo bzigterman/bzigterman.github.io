@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:09 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
+ <p class="updated_time"> 05:58 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60126614?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'I should be ready to defend the country'</a> BBC: Marta is getting military training to prepare for a possible Russian invasion but says she doesn't want war. 
  <p class="updated_time"> 05:47 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60123178?at_medium=RSS&at_campaign=KARANGA">Central Asia blackout leaves millions without power</a> BBC: A surge disconnects a major power line from the shared grid, causing chaos across the region. 
+ <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
  <p class="updated_time"> 05:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60124931?at_medium=RSS&at_campaign=KARANGA">Bataclan survivor finds NFT of her X-ray for sale online</a> BBC: The surgeon had put an image of a patient's X-ray on a website that sells NFTs without her consent. 
  <p class="updated_time"> 05:08 AM CT, Jan. 25 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/24/1075323349/julian-assange-appeal-us-extradition">A court in the U.K. says Julian Assange can keep fighting his extradition to the U.S.</a> NPR: Lawyers for the WikiLeaks founder have 14 days to submit their application to the U.K.'s Supreme Court, which will decide whether to hear the case. His supporters see the ruling as a partial win. 
  <p class="updated_time"> 10:19 AM CT, Jan. 24 </p> 
  <a href="https://www.wsj.com/articles/differences-splinter-u-s-team-negotiating-with-iran-on-nuclear-deal-11643059183">Differences Splinter U.S. Team in Talks With Iran on Nuclear Deal</a> WSJ: Some members of the U.S. negotiating team have left or stepped back after urging a tougher line on Tehran in stalled talks to restore the 2015 nuclear agreement. 
- <p class="updated_time"> 10:09 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 05:42 AM CT, Jan. 24 </p> 
@@ -175,10 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/cameroon-nightclub-fire.html">Cameroon Nightclub Fire Kills at Least 16</a> NYT: The blaze was caused by explosions from fireworks used in the venue, the government said in a statement reported by news agencies. 
  <p class="updated_time"> 04:00 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/books/ana-iris-simon-feria-spain.html">How a Nostalgic Novel About Spain’s Heartland Joined the Political Fray</a> NYT: Ana Iris Simón wrote “Feria” to depict a way of life she fears is vanishing. She didn’t expect its message to be embraced by conservatives in her country. 
- <p class="updated_time"> 10:48 PM CT, Jan. 22 </p> 
- <a href="https://www.nytimes.com/2022/01/22/world/asia/afghanistan-girls-school-taliban.html">‘Why Was I Born a Girl?’ An Afghan Poem Inspires U.S. Students</a> NYT: A Zoom connection between high schoolers in Afghanistan and San Diego opens a window for mutual support. 
- <p class="updated_time"> 07:38 PM CT, Jan. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60100461?at_medium=RSS&at_campaign=KARANGA">Californian wildfires force evacuations along Big Sur coast</a> BBC: 'Surreal' January wildfires burned around 1,500 acres and caused Highway 1 to close. 
  <p class="updated_time"> 07:00 PM CT, Jan. 22 </p> 
  <a href="https://www.nytimes.com/2022/01/22/world/europe/china-serbia-vietnamese-workers.html">‘Miserable and Dangerous’: A Failed Chinese Promise in Serbia</a> NYT: Poor conditions for Vietnamese workers building a $900 million tire factory underscore a chasm between the promise of investment from China and grim realities on the ground. 
  <p class="updated_time"> 02:04 PM CT, Jan. 22 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
+ <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
+ <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 05:30 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation">The Great Resignation? More like The Great Renegotiation</a> NPR: "The Great Resignation" looks mostly like workers negotiating for a better deal. 
  <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
@@ -226,16 +230,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
  <p class="updated_time"> 10:18 PM CT, Jan. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 10:03 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
  <p class="updated_time"> 10:02 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War May Loom, but Are There Offramps?</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 09:24 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/supreme-court-affirmative-action-harvard-unc.html">Supreme Court Will Hear Challenge to Affirmative Action at Harvard and U.N.C.</a> NYT: The court’s new conservative supermajority may be skeptical of admissions programs that take account of race to foster educational diversity. 
  <p class="updated_time"> 09:05 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
- <p class="updated_time"> 06:48 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html">‘In the End, You’re Treated Like a Spy,’ Says M.I.T. Scientist</a> NYT: Gang Chen was arrested a year ago on charges of hiding his links to China. The charges were dismissed, but he said the damage — to him, and to American science — has lingered. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 06:35 PM CT, Jan. 24 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/18/gop-covid-biden-527288">GOP takes a potent but risky new path: Hitting Biden on Covid</a> Politico: Republicans are betting — despite Donald Trump's past pandemic stumbles — that spiking cases and public exhaustion can help their case against the president. 
  <p class="updated_time"> 07:44 AM CT, Jan. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/18/democrats-try-to-go-it-alone-again-495753">Democrats try to go it alone, again</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:16 AM CT, Jan. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/18/outlook-remains-dreary-for-dems-this-week-495751"> Outlook remains dreary for Dems this week</a> Politico Playbook: And Republicans are looking ahead to 2023. 
 
 
 </details>
