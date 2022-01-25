@@ -7,16 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:28 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
+ <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
+ <p class="updated_time"> 12:18 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
+ <p class="updated_time"> 12:17 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
+ <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
+ <a href="https://www.npr.org/2022/01/25/1075357281/kyiv-or-kiev-why-people-disagree-about-how-to-pronounce-the-ukrainian-capitals-n">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
  <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075556977/ayesha-malik-pakistan-supreme-court">Meet Justice Ayesha Malik, Pakistan's first female Supreme Court judge</a> NPR: Malik was sworn in on Monday, shattering a glass ceiling in a country where only about 17% of judges are women. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075548540/at-least-6-people-are-reported-dead-from-a-crush-at-an-african-cup-soccer-match">At least 6 people are reported dead from a crush at an African Cup soccer match </a> NPR: The apparent stampede outside of a stadium in Cameroon has renewed the focus on prior warnings that the nation was ill-equipped to host the continent's biggest sporting event. 
  <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/ukraine-russia-us">Ukraine Live Updates: Russia Holds Large Military Drills Amid No Sign of Diplomatic Progress</a> NYT: The Russian drills were announced a day after U.S. troops were placed on “high alert” and NATO said it would send jets and ships to the region. President Biden held talks with European leaders as fears of a Russian invasion deepened. 
- <p class="updated_time"> 11:45 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Syria Live Updates: Prison Attack is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
- <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -29,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
  <p class="updated_time"> 10:55 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60128838?at_medium=RSS&at_campaign=KARANGA">Bollywood's Shilpa Shetty cleared of obscenity over Richard Gere kiss</a> BBC: The Bollywood star had faced charges after actor Richard Gere kissed her on a Delhi stage in 2007. 
- <p class="updated_time"> 10:53 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 10:43 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
@@ -61,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60127134?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Nato is not a threat to Russia - Estonian PM Kallas</a> BBC: Russia does not get to determine who is part of the alliance, Prime Minister Kaja Kallas tells the BBC. 
  <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
+ <p class="updated_time"> 07:27 AM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia If It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
@@ -79,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Police Probe of Lockdown Parties Puts Boris Johnson on Defensive</a> WSJ: The announcement by police of an investigation into parties that took place in Downing Street raises pressure on the British prime minister, whose popularity has fallen sharply and who faces calls to resign. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
- <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Considers 'Potent' Export Controls Against Russia</a> WSJ: The Biden administration would target Russia’s defense, aerospace, artificial intelligence and other key sectors in response to an invasion of Ukraine, U.S. officials said. 
  <p class="updated_time"> 05:29 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60124931?at_medium=RSS&at_campaign=KARANGA">Bataclan survivor finds NFT of her X-ray for sale online</a> BBC: The surgeon had put an image of a patient's X-ray on a website that sells NFTs without her consent. 
  <p class="updated_time"> 04:50 AM CT, Jan. 25 </p> 
@@ -163,12 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/africa/burkina-faso-mutiny-gunfire.html">Gunfire Rattles Burkina Faso’s Capital as Soldiers Revolt</a> NYT: The government denied rumors of a coup, but soldiers who want changes to the fight against Islamists appear to have taken control of several military bases. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
- <p class="updated_time"> 11:41 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075330261/piel-island-landlord-pub-king-application">So you want to be the landlord-king of a remote English island</a> NPR: Piel Island is made up of 50 acres a half-mile off England's northwestern coast, home to wildlife, castle ruins and a centuries-old pub. It's looking for a new landlord, who will also be crowned king. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
- <p class="updated_time"> 11:18 AM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075327651/crystal-cruises-arrest-warrant-bahamas">A luxury cruise ship rerouted to the Bahamas over an arrest warrant for unpaid fuel</a> NPR: The Crystal Symphony was supposed to dock in Miami, but ended up in the Bahamas after a U.S. judge granted an order to seize the ship as part of a breach-of-contract lawsuit. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
  <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
- <p class="updated_time"> 06:27 PM CT, Jan. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-60067032?at_medium=RSS&at_campaign=KARANGA">The people deciding to ditch their smartphones</a> BBC: The smartphone users who are ditching their handsets to take back more control of their lives. 
  <p class="updated_time"> 06:20 PM CT, Jan. 23 </p> 
  <a href="https://www.bbc.co.uk/news/disability-59879753?at_medium=RSS&at_campaign=KARANGA">Srikanth Bolla: The blind CEO’s £48m company which nearly didn’t happen</a> BBC: As a teenager, blind businessman Srikanth Bolla sued an Indian state to study maths and science. 
  <p class="updated_time"> 06:13 PM CT, Jan. 23 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
+ <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: Democratic strategists say these attacks, while baseless, may prove effective, further hampering the party’s efforts to retain its slim congressional majorities. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
