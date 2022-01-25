@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
  <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/01/25/world/syria-news-hostages">Prison Attack in Syria Is Latest Sign of ISIS Resurgence</a> NYT: ISIS has mounted a series of sophisticated attacks recently in both Syria and Iraq, suggesting the group is re-emerging as a serious threat three years after it was driven out. 
  <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:52 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
- <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
+ <p class="updated_time"> 04:38 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60133416?at_medium=RSS&at_campaign=KARANGA">New Orleans Saints: Sean Payton leaves after 16 years as head coach</a> BBC: Sean Payton is leaving the New Orleans Saints after 16 years as their head coach 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624855/remembering-trailblazing-fashion-designer-thierry-mugler-dead-at-73">Remembering trailblazing fashion designer Thierry Mugler, dead at 73</a> NPR: French fashion designer Thierry Mugler reshaped the fashion world, centering wildly inventive concepts and creating space for queer voices. On Sunday, he died at the age of 73. 
  <p class="updated_time"> 04:04 PM CT, Jan. 25 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60091382?at_medium=RSS&at_campaign=KARANGA">Mercedes Gleitze: Film celebrates first British woman to swim English Channel</a> BBC: Mercedes Gleitze was the first British woman to swim the English Channel, but kept her accomplishments hidden from her family. 
  <p class="updated_time"> 11:54 AM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/greece-domestic-violence-abuse.html">In Greece, a String of Killings Pushes Domestic Abuse Into the Spotlight</a> NYT: Several deadly assaults on women by their partners appear to have encouraged more victims to speak up in a country where such attacks have rarely been publicly discussed. 
- <p class="updated_time"> 10:15 AM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/asia/wuhan-first-lockdown-anniversary.html">In Wuhan, China, Anniversary of First Covid Lockdown Passes Quietly</a> NYT: As China battles the highly contagious Omicron variant shortly before the Winter Olympics are set to begin in Beijing, Wuhan has so far been spared. 
 
 
 </details>
@@ -212,6 +212,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:48 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/10-times-presidents-heated-exchanges-press-00001803">10 times presidents got testy with the press</a> Politico: President Joe Biden called Fox’s Peter Doocy “a stupid son of a …” on Monday, but that was hardly the only uncomfortable exchange between reporters and commanders in chief. 
+ <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/new-york-mask-mandate-court-ruling-00001864">New York successfully halts court ruling that ended indoor mask mandate</a> Politico: In a press conference shortly before the stay order, Gov. Kathy Hochul said “we disagree 100 percent” with the earlier ruling, and that “we believe this will be settled very shortly.” 
  <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:52 PM CT, Jan. 25 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss">Prosecutors in multiple states are investigating false Electoral College submissions</a> NPR: Legal experts say the illegitimate submissions should motivate Congress to update the Electoral Count Act and "firm up the guardrails" of democracy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
- <p class="updated_time"> 10:51 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/alabama-redistricting-map-rejected-00001687">Alabama’s new congressional map blocked by judges</a> Politico: The state's congressional delegation now consists of six Republicans elected from heavily white districts and one Democrat elected from the only majority-Black district. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
  <p class="updated_time"> 10:07 PM CT, Jan. 24 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
- <p class="updated_time"> 04:30 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/news/2022/01/22/big-weed-brink-scoring-political-wins-527604">Big Weed is on the brink of scoring big political wins. So where are they?</a> Politico: Competing agendas have stifled the effectiveness of the burgeoning industry on Capitol Hill. 
  <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">Biden-tied lobbying firms raked in the dough during his first year</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
