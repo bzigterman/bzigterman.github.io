@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
- <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
  <p class="updated_time"> 04:48 AM CT, Jan. 26 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
- <p class="updated_time"> 06:10 PM CT, Jan. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60109427?at_medium=RSS&at_campaign=KARANGA">Beijing takes to the ice as Winter Olympics approach</a> BBC: The BBC's Stephen McDonell spends a day on the ice with some local enthusiasts in Beijing. 
  <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
