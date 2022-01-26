@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:03 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 02:26 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
+ <p class="updated_time"> 02:25 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 01:57 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 01:29 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says said an invasion would have "enormous consequences" for the world. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
- <p class="updated_time"> 03:44 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:29 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
  <p class="updated_time"> 11:39 PM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:33 PM CT, Jan. 25 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Madison Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 07:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/house-china-bill-trade-title-00001366">House China bill includes aggressive trade provisions</a> Politico: The long-awaited bill tees up a flurry of corporate lobbying and intense negotiations with the Senate over final legislative language. 
- <p class="updated_time"> 07:13 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
  <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:38 PM CT, Jan. 25 </p> 
