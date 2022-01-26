@@ -208,14 +208,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:16 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/pressure-irs-supply-taxpayer-relief-00002408">Pressure mounts in Congress for IRS to give taxpayers' relief</a> Politico: The mountainous paperwork problem has been compounded by underlying troubles plaguing the IRS for years. 
+ <p class="updated_time"> 02:44 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
+ <p class="updated_time"> 02:40 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates at its March meeting. 
  <p class="updated_time"> 02:32 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-supreme-court-murkowski-collins-graham.html">Few Republicans in Play to Confirm Biden Supreme Court Nominee</a> NYT: Many Senate Republicans have, as a matter of course, opposed Mr. Biden’s nominees for seats on the lower federal courts. 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-supreme-court.html">Which Republicans Might Support a Biden Nominee for the Supreme Court? Few, if any.</a> NYT: Many Senate Republicans have, as a matter of course, opposed Mr. Biden’s nominees for seats on the lower federal courts. 
  <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
  <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/j-michelle-childs.html">Judge J. Michelle Childs: Another Favorite to Replace Breyer</a> NYT: Representative James E. Clyburn, Democrat of South Carolina, supports a little-known federal judge in his home state: J. Michelle Childs. 
- <p class="updated_time"> 02:18 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates at its March meeting. 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/j-michelle-childs.html">Why Judge J. Michelle Childs is Another Favorite to Replace Breyer</a> NYT: Representative James E. Clyburn, Democrat of South Carolina, supports a little-known federal judge in his home state: J. Michelle Childs. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
@@ -237,15 +239,13 @@ permalink: /projects/news/
  <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/florida-collectibles-dealer-gaetz-probe-00002353">Florida collectibles dealer connected to Gaetz probe to plead guilty</a> Politico: A Florida collectibles dealer connected to the ongoing federal investigation into Rep. Matt Gaetz has agreed to plead guilty to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 01:08 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner – and perhaps – more aggressively after inflation reached the highest in nearly 40 years. 
+ <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner and — perhaps — more aggressively after inflation reached the highest in nearly 40 years. 
  <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Decision Reasserts Voting Rights Act</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2021/10/14/politics/stephen-breyer-cnn-interview-supreme-court-georgetown-law/index.html">Stephen Breyer says now isn't the time to lose faith in the Supreme Court</a> CNN: Justice Stephen Breyer is not giving up on the Supreme Court. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
- <p class="updated_time"> 12:15 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Kristin Richardson Jordan, a Harlem councilwoman who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
