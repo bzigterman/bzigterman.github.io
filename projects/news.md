@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:14 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
- <p class="updated_time"> 08:08 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: The Syrian Democratic Forces alliance says all IS militants inside the facility have surrendered. 
- <p class="updated_time"> 08:04 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 08:24 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
- <p class="updated_time"> 07:50 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 08:22 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: President Joe Biden says he would consider imposing personal sanctions on his Russian counterpart. 
+ <p class="updated_time"> 08:20 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
+ <p class="updated_time"> 08:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
+ <p class="updated_time"> 08:08 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60138866?at_medium=RSS&at_campaign=KARANGA">China changes Fight Club film ending so the authorities win</a> BBC: In China, the final scene of the 1999 film says the subversive plot fails and the authorities win. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
- <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: President Joe Biden says he would consider imposing personal sanctions on his Russian counterpart. 
  <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
  <p class="updated_time"> 04:48 AM CT, Jan. 26 </p> 
@@ -49,6 +49,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
+ <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison from Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
+ <p class="updated_time"> 03:26 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/indian-opposition-figure-rahul-gandhi-says-his-twitter-following-was-restricted-11643207184">Indian Opposition Figure Says His Twitter Following Was Restricted</a> WSJ: Rahul Gandhi, one of India’s most prominent opposition politicians, has written to Twitter’s chief executive alleging he is the victim of a government campaign to limit his ability to attract followers on the platform. 
  <p class="updated_time"> 02:52 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 02:51 AM CT, Jan. 26 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
- <p class="updated_time"> 12:28 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S. Troops Join Fight to Dislodge Islamic State From Syrian Prison</a> WSJ: Fighting has raged for almost a week following an attempted prison break in the city of Hasakah. More than 100 people have been killed and some 850 children held in the prison have been trapped during the violence. 
  <p class="updated_time"> 11:45 PM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/russias-attempts-to-sanction-proof-its-economy-have-exposed-a-weak-spot-11643193911">Russia's Attempts to Sanction-Proof Economy Have Exposed Weak Spot</a> WSJ: A raft of hard-hitting measures in case of a renewed Russian incursion into Ukraine could test Moscow’s efforts to insulate itself from sanctions and cause broad economic pain. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
@@ -198,10 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:21 AM CT, Jan. 26 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 08:01 AM CT, Jan. 26 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/virginia-education-wars-florida-governors-race-1406401">Virginia's education wars emerge in Florida governor's race</a> Politico: Education has become one of the most heated political issues. 
- <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/trump-ohio-governorship-00001603">Trump conquered Ohio. Now his followers want the governorship.</a> Politico: Ex-Rep. Jim Renacci is challenging Gov. Mike DeWine in a primary, betting GOP voters want someone more closely aligned with Donald Trump. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
