@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:09 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
+ <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
- <p class="updated_time"> 03:22 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 02:52 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 02:51 AM CT, Jan. 26 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
- <p class="updated_time"> 03:41 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/uk-boris-johnson-ghani-islamophobia.html">A Newly Reported Gathering, and a New Headache for Johnson</a> NYT: The news came the same day as Mr. Johnson ordered an inquiry into a lawmaker’s claim of Islamophobia. 
  <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
