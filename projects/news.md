@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis/syria-prison-isis-hostages">A Kurdish-led militia says it’s recaptured a Syrian prison from ISIS.</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka, days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 07:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
- <p class="updated_time"> 07:32 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-isis-hostages.html">Kurdish-led Militia in Syria Says It Has Retaken Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 06:31 AM CT, Jan. 26 </p> 
@@ -398,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371">White House to Dems: Tout the $2.4T you got passed, ignore the infighting</a> Politico: The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill. 
  <p class="updated_time"> 02:14 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/health-care-workers-hospitals-vaccinated-527392">How many health care workers are vaccinated? It’s anyone’s guess.</a> Politico: Without more precise data, “you don’t know what’s happening and you don’t have the ability to say how at risk is the health care workforce,” said Celine Gounder. 
- <p class="updated_time"> 07:47 AM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/19/dems-feel-heat-ahead-of-nuclear-defeat-495769">Dems feel heat ahead of 'nuclear' defeat</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
