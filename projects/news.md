@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:19 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 07:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 07:32 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-isis-hostages.html">Kurdish-led Militia in Syria Says It Has Retaken Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 06:31 AM CT, Jan. 26 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 01:32 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347">After Volcano Eruption Spewed Ash, Tonga Needs Rain and More Brooms</a> WSJ: On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health. 
+ <a href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347">Tonga Needs Rain and More Brooms After Volcano Eruption Spewed Ash</a> WSJ: On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
- <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
 
