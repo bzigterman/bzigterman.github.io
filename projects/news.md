@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:09 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
+ <p class="updated_time"> 04:48 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60124600?at_medium=RSS&at_campaign=KARANGA">Cuba says more than 700 charged over anti-government protests</a> BBC: More than 170 people have already been convicted after trials criticised by activists as unfair. 
  <p class="updated_time"> 04:46 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -20,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. Now their lives are in danger. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">The Spotlight Shifted Away From Peng Shuai. Some Players and Fans Want It Back.</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
+ <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
  <p class="updated_time"> 03:57 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075723170/uks-boris-johnson-braces-for-partygate-investigation-report">U.K.'s Boris Johnson braces for 'partygate' investigation report</a> NPR: Senior civil servant Sue Gray could turn in her report to the government as soon as Wednesday. Prime Minister Boris Johnson's office promised to publish its findings. 
  <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
@@ -133,10 +139,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/imf-urges-el-salvador-to-ditch-bitcoins-legal-tender-status-11643148210">IMF Urges El Salvador to Ditch Bitcoin's Legal Tender Status</a> WSJ: After adopting bitcoin as national currency, the Central American country plans to issue bonds backed by bitcoin as negotiations with the IMF stall. 
  <p class="updated_time"> 10:57 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
- <p class="updated_time"> 10:55 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60128838?at_medium=RSS&at_campaign=KARANGA">Bollywood's Shilpa Shetty cleared of obscenity over Richard Gere kiss</a> BBC: The Bollywood star had faced charges after actor Richard Gere kissed her on a Delhi stage in 2007. 
- <p class="updated_time"> 10:43 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 10:23 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
  <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
- <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
@@ -201,13 +201,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">The Veep who detests D.C. bubble mulls her escape</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Harris tries to navigate the D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
- <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">A Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
