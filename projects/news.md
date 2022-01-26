@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:03 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
+ <p class="updated_time"> 01:57 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 01:29 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says said an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
- <p class="updated_time"> 12:59 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
@@ -46,11 +48,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60129018?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: A football celebration overshadowed by tragedy</a> BBC: Monday's deadly stampede exposed the troubling side of the Africa Cup of Nations, writes Maher Mezahi. 
  <p class="updated_time"> 06:21 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60111564?at_medium=RSS&at_campaign=KARANGA">Republic Day: What the grand parade means to India</a> BBC: Every year, India celebrates 26 January with a huge show of its military might and diversity. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60111564?at_medium=RSS&at_campaign=KARANGA">Republic Day: How India's military parade became a spectacle</a> BBC: Every year, India celebrates Republic Day on 26 January with a show of military might and diversity. 
  <p class="updated_time"> 06:17 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/60067690?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Will the Beijing Games be 'green and clean'?</a> BBC: China is promising a greener Winter Olympics, although critics are not sure if it can deliver. 
  <p class="updated_time"> 06:14 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60075421?at_medium=RSS&at_campaign=KARANGA">'As an adult I discovered I have siblings, but I grew up in care, alone'</a> BBC: Ashley John-Baptiste grew up in care, unaware he had siblings. His new documentary is called Split Up in Care: Life Without Siblings. 
+ <a href="https://www.bbc.co.uk/news/uk-60075421?at_medium=RSS&at_campaign=KARANGA">'I grew up in care alone - why did no-one tell me I had siblings?'</a> BBC: Ashley John-Baptiste grew up in care, unaware he had siblings. His new documentary is called Split Up in Care: Life Without Siblings. 
  <p class="updated_time"> 06:10 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60129897?at_medium=RSS&at_campaign=KARANGA">The rejected Dragons' Den contestant now making millions</a> BBC: From being rejected on Dragons' Den to making millions, Alex Savelli shares his secrets to success. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
- <p class="updated_time"> 09:13 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the Australian ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
