@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
+ <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
+ <p class="updated_time"> 09:32 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60111319?at_medium=RSS&at_campaign=KARANGA">BBC Komla Dumor Award 2022 launched</a> BBC: The BBC is seeking a future star of African journalism for the BBC World News Komla Dumor Award 2022. 
  <p class="updated_time"> 08:51 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 08:32 PM CT, Jan. 25 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60132765?at_medium=RSS&at_campaign=KARANGA">Unvaccinated man denied heart transplant by Boston hospital</a> BBC: The 31-year-old father-of-two refuses to get the shot; the hospital says it is following policy. 
  <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
- <p class="updated_time"> 05:23 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/american-football/60133416?at_medium=RSS&at_campaign=KARANGA">New Orleans Saints: Sean Payton leaves after 16 years as head coach</a> BBC: Sean Payton is leaving the New Orleans Saints after 16 years as their head coach 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624855/remembering-trailblazing-fashion-designer-thierry-mugler-dead-at-73">Remembering trailblazing fashion designer Thierry Mugler, dead at 73</a> NPR: French fashion designer Thierry Mugler reshaped the fashion world, centering wildly inventive concepts and creating space for queer voices. On Sunday, he died at the age of 73. 
- <p class="updated_time"> 04:04 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624827/american-troops-battle-isis-for-control-of-syrian-prison">American troops battle ISIS for control of Syrian prison</a> NPR: American forces are fighting the Islamic State for control of a prison in northeastern Syria, in the most substantial military engagement with ISIS since it lost the last of its territory in 2019. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
@@ -77,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/25/1074100175/readers-global-wishes-for-2022-more-kindness-more-nature-and-kitties">Readers' global wishes for 2022: More kindness, more nature ... and kitties!</a> NPR: What could the world achieve this year if we had a limitless budget and full support from global leaders? Our audience shares their heartfelt ideas. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
+ <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/canadian-indigenous-group-finds-possible-unmarked-graves-at-ex-school-site-11643157449">Indigenous Group Finds Possible Unmarked Graves at Ex-School Site</a> WSJ: Report follows a series of similar discoveries near former residential schools over the past year in Canada. 
  <p class="updated_time"> 12:44 PM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia if It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Police Probe of Lockdown Parties Puts Boris Johnson on Defensive</a> WSJ: The announcement by police of an investigation into parties that took place in Downing Street raises pressure on the British prime minister, whose popularity has fallen sharply and who faces calls to resign. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
- <p class="updated_time"> 04:16 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60124599?at_medium=RSS&at_campaign=KARANGA">Guatemala convicts ex-soldiers for raping indigenous women</a> BBC: Five ex-paramilitary soldiers are given 30-year jail terms for raping dozens of women in the 1980s. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1068149767/virginia-afghanistan-refugee-family-america">From Kabul to Virginia: An Afghan family is starting over in America</a> NPR: In only a matter of days, the lives of an Afghan family changed forever. After the Taliban took control of Kabul, they were forced to start over in a foreign country. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
