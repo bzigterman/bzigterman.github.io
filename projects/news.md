@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 11:28 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar him from entering the country, but experts say such moves wouldn’t change the Russian leader’s thinking. 
+ <p class="updated_time"> 11:25 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire - reports</a> BBC: Liberal US Supreme Court Justice Stephen Breyer to retire later this year, reports say 
+ <p class="updated_time"> 11:20 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">2 More Arrested in U.K. in Case Linked to Texas Synagogue Standoff</a> NYT: The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60145970?at_medium=RSS&at_campaign=KARANGA">LGBT rights: New French law to criminalise 'conversion therapy'</a> BBC: Anyone convicted under the law could face fines of up to €30,000 (£25,000) and two years in jail. 
  <p class="updated_time"> 10:56 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
  <p class="updated_time"> 10:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60146334?at_medium=RSS&at_campaign=KARANGA">500 acres of California forestland returned to indigenous tribes</a> BBC: The 523 acres were donated back to the Sinkyone people, land they were once forcibly removed from. 
- <p class="updated_time"> 10:52 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 10:42 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60145990?at_medium=RSS&at_campaign=KARANGA">Paris Fashion Week: Monaco royal Charlotte Casiraghi rides her horse on Chanel catwalk</a> BBC: Monaco royal and accomplished show jumper Charlotte Casiraghi opened the brand's Haute Couture show. 
  <p class="updated_time"> 10:38 AM CT, Jan. 26 </p> 
@@ -31,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 09:52 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
- <p class="updated_time"> 09:37 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">2 More Arrested in U.K. in Case Linked to Texas Synagogue Standoff</a> NYT: The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people. 
  <p class="updated_time"> 09:30 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">U.K.’s Other Health Crisis: A Huge Backlog of Delayed Non-Covid Care</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
- <p class="updated_time"> 08:50 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar him from entering the country, but experts say such moves wouldn’t change the Russian leader’s thinking. 
  <p class="updated_time"> 08:34 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 08:22 AM CT, Jan. 26 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
- <p class="updated_time"> 04:48 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60124600?at_medium=RSS&at_campaign=KARANGA">Cuba says more than 700 charged over anti-government protests</a> BBC: More than 170 people have already been convicted after trials criticised by activists as unfair. 
  <p class="updated_time"> 04:46 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
- <p class="updated_time"> 09:32 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60111319?at_medium=RSS&at_campaign=KARANGA">BBC Komla Dumor Award 2022 launched</a> BBC: The BBC is seeking a future star of African journalism for the BBC World News Komla Dumor Award 2022. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/greece-turkey-snow.html">Heavy Snow Strands Motorists in Greece and Turkey</a> NYT: In areas more used to dealing with extreme heat, blizzard conditions caused chaos on roads and at airports. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer Retires From Supreme Court</a> NYT: The vacancy will give President Biden his first chance to name a new justice. He has promised to nominate a Black woman. 
+ <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 10:48 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
- <p class="updated_time"> 02:37 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
- <p class="updated_time"> 04:10 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075489010/democrats-try-to-stop-gop-gains-with-latino-voters-in-new-congressional-district">Ahead of midterms, Colorado Democrats try to stop GOP gains with Latino voters </a> NPR: A new congressional district in Colorado is the state's most heavily Latino district. In the intense battle for Congress, Democrats are trying to stop recent Republican support from Latino voters. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
