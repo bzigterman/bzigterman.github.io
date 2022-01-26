@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:02 PM CT, Jan. 25 </p> 
+ <p class="updated_time"> 08:32 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
+ <p class="updated_time"> 08:13 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
+ <p class="updated_time"> 08:11 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin if Russia invades, Biden says</a> BBC: The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
- <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
  <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
  <p class="updated_time"> 03:14 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
- <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin if Russia invades, Biden says</a> BBC: The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine. 
  <p class="updated_time"> 02:16 PM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
  <p class="updated_time"> 02:13 PM CT, Jan. 25 </p> 
@@ -201,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
- <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
 
@@ -217,11 +215,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:13 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
  <p class="updated_time"> 06:58 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/cawthorn-insurrectionist-jan-6-republicans.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Madison Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:38 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/justice-department-fake-trump-electors.html">Justice Dept. Is Reviewing Role of Fake Trump Electors, Top Official Says</a> NYT: Lisa O. Monaco, the deputy attorney general, told CNN that she could not “say anything more on ongoing investigations.” 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/justice-department-trump.html">Justice Dept. Is Reviewing Role of Fake Trump Electors, Top Official Says</a> NYT: Lisa O. Monaco, the deputy attorney general, told CNN that she could not “say anything more on ongoing investigations.” 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 06:04 PM CT, Jan. 25 </p> 
@@ -241,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:54 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Tensions With Ukraine</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075623146/federal-court-says-alabamas-congressional-map-disadvantages-black-voters">Federal court says Alabama's congressional map disadvantages Black voters</a> NPR: Blocking the new congressional map from taking effect, a panel of judges says Alabama needs at least two, not one, congressional districts in which Black voters are the majority, or close to it. 
  <p class="updated_time"> 04:40 PM CT, Jan. 25 </p> 
@@ -278,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/aerojet-lockheed-acquisition-ftc-lawsuit-00001744">FTC moves to block Lockheed Martin-Aerojet mega merger</a> Politico: The move will be closely watched by other companies as they weigh future corporate mergers against potential blowback by the FTC. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: Meanwhile, Russia accused the United States of “escalating tensions.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -300,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation">The Great Resignation? More like The Great Renegotiation</a> NPR: "The Great Resignation" looks mostly like workers negotiating for a better deal. 
  <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
+ <p class="updated_time"> 04:31 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/virginia-education-wars-florida-governors-race-1406401">Virginia's education wars emerge in Florida governor's race</a> Politico: Education has become one of the most heated political issues. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
