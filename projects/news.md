@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
+ <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:44 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
- <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar the Russian president from entering the country, but experts say such moves wouldn’t change his thinking. 
  <p class="updated_time"> 12:23 PM CT, Jan. 26 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement - he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 12:08 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
- <p class="updated_time"> 12:04 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/mexico-journalists-killings.html">Killing Spree Spurs Outrage Among Journalists in Mexico</a> NYT: The killing of three media workers in less than a month triggered protests in cities across the county this week demanding an end to the violence. 
  <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
@@ -101,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347">Tonga Needs Rain and More Brooms After Volcano Eruption Spewed Ash</a> WSJ: On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
- <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
@@ -208,12 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/us-russia-ukraine-written-response-00002414">U.S. delivers written response to Russian demands amid Ukraine crisis</a> Politico: The written response was “fully coordinated” with Ukraine and European allies, Secretary of State Antony Blinken said. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/florida-collectibles-dealer-gaetz-probe-00002353">Florida collectibles dealer connected to Gaetz probe to plead guilty</a> Politico: A Florida collectibles dealer connected to the ongoing federal investigation into Rep. Matt Gaetz has agreed to plead guilty to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire and indicated he would follow up with an official letter, the person briefed on the justice’s plans said. 
+ <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 12:25 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-nomination-biden-democrats.html">Democrats Can Seat a New Supreme Court Justice, Even if Republicans Unite in Opposition </a> NYT: Recent changes in Senate rules mean a nominee can be confirmed with a bare majority, but Democrats will have to hold their narrow ranks together. 
  <p class="updated_time"> 12:15 PM CT, Jan. 26 </p> 
@@ -243,11 +243,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/democrats-spending-hurts-infrastructure-victory-00001920">Bridges don’t build themselves: How Dems' spending flop hurts their infrastructure victory</a> Politico: Democrats have pinned part of their election hopes on infrastructure progress. But they're lacking a pot of money essential to carrying out that vision. 
- <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
+ <a href="https://www.politico.com/news/2022/01/26/democrats-spending-hurts-infrastructure-victory-00001920">Bridges don’t build themselves: How Dems' spending flop hurts their infrastructure victory</a> Politico: Democrats have pinned part of their election hopes on infrastructure progress. But they're lacking a pot of money essential to carrying out that vision. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
