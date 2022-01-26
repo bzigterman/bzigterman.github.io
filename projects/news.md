@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075916066/a-texas-man-is-accused-of-selling-gun-used-to-take-synagogue-hostages">A Texas man is accused of selling gun used to take synagogue hostages</a> NPR: Earlier Wednesday, British police said they arrested two more men in Manchester related to the hostage-taking incident. 
  <p class="updated_time"> 04:32 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: She transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624827/american-troops-battle-isis-for-control-of-syrian-prison">American troops battle ISIS for control of Syrian prison</a> NPR: American forces are fighting the Islamic State for control of a prison in northeastern Syria, in the most substantial military engagement with ISIS since it lost the last of its territory in 2019. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624806/if-russia-doesnt-invade-ukraine-with-troops-it-could-still-launch-a-cyberattack">If Russia doesn't invade Ukraine with troops, it could still launch a cyberattack</a> NPR: With U.S. troops on heightened alert and NATO forces on standby, fears of a Russian invasion of Ukraine remain. But even if Putin doesn't send troops in, he could still launch a crippling cyberattack. 
- <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
