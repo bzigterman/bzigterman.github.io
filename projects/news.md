@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60135905?at_medium=RSS&at_campaign=KARANGA">Global chip shortage: US says firms' stocks have plunged</a> BBC: The shortage of semiconductors is continuing to have a major impact on industries around the world. 
+ <p class="updated_time"> 09:51 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60136457?at_medium=RSS&at_campaign=KARANGA">Ukraine: Biden says Russian invasion 'would change the world'</a> BBC: The US President says Russian troops entering Ukraine "would be the largest invasion since World War Two". 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 09:32 PM CT, Jan. 25 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
- <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-60129268?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 'We hope for the best for our families back home'</a> BBC: Tongans living in Fiji are collecting donations to support those impacted by the volcano and tsunami. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
