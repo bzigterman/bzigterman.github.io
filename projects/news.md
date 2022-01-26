@@ -197,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
- <p class="updated_time"> 06:16 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html">Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics</a> NYT: The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
@@ -225,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 06:04 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">Ahead of Midterms, Some Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
  <p class="updated_time"> 06:00 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">A Political Scientist Warns the Democratic Party Is Off Course </a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
  <p class="updated_time"> 05:54 PM CT, Jan. 25 </p> 
