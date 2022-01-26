@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 05:53 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60138866?at_medium=RSS&at_campaign=KARANGA">China changes Fight Club film ending so the authorities win</a> BBC: In China, the final scene of the 1999 film says the subversive plot fails and the authorities win. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 05:25 AM CT, Jan. 26 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
  <p class="updated_time"> 02:16 PM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
- <p class="updated_time"> 02:13 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60130389?at_medium=RSS&at_campaign=KARANGA">IS militants surrender as Kurdish-led forces surround Syria prison</a> BBC: But dozens remain holed up along with hundreds of children after six days of fierce fighting. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
  <p class="updated_time"> 01:47 PM CT, Jan. 25 </p> 
