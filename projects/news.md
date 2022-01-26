@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 07:19 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
@@ -207,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">The Veep who detests DC bubble mulls her escape</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">The Veep who detests D.C. bubble mulls her escape</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
