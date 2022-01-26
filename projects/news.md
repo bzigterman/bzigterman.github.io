@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:27 PM CT, Jan. 26 </p> 
+ <p class="updated_time"> 12:44 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar the Russian president from entering the country, but experts say such moves wouldn’t change his thinking. 
  <p class="updated_time"> 12:23 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 12:21 PM CT, Jan. 26 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/americas/mexico-journalists-killings.html">Killing Spree Spurs Outrage Among Journalists in Mexico</a> NYT: The killing of three media workers in less than a month triggered protests in cities across the county this week demanding an end to the violence. 
  <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
- <p class="updated_time"> 11:28 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar him from entering the country, but experts say such moves wouldn’t change the Russian leader’s thinking. 
  <p class="updated_time"> 11:00 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145970?at_medium=RSS&at_campaign=KARANGA">LGBT rights: New French law to criminalise 'conversion therapy'</a> BBC: Anyone convicted under the law could face fines of up to €30,000 (£25,000) and two years in jail. 
  <p class="updated_time"> 10:56 AM CT, Jan. 26 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60141195?at_medium=RSS&at_campaign=KARANGA">Who is Burkina Faso coup leader Lt-Col Damiba?</a> BBC: Lt-Col Damiba took power in Burkina Faso just three weeks after his 41st birthday - what else do we know? 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 10:05 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 09:30 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
