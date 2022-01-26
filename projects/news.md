@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881061/journalist-killings-in-mexico-raise-concerns-among-colleagues">Journalist killings in Mexico raise concerns among colleagues</a> NPR: Three journalist have been killed in Mexico this year, two of them occurring in Tijuana. NPR's Asma Khalid talks with 'Tijuana Press' editor Vicente Calderón about the city's pattern of violence. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:33 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
- <p class="updated_time"> 03:31 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 03:28 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:44 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
+ <p class="updated_time"> 12:44 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/60143661?at_medium=RSS&at_campaign=KARANGA">California firearms: City rules gun owners must have liability cover</a> BBC: In a US first, San Jose, California will make gun owners insure themselves against injury or accident. 
  <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar the Russian president from entering the country, but experts say such moves wouldn’t change his thinking. 
  <p class="updated_time"> 12:21 PM CT, Jan. 26 </p> 
@@ -63,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
+ <p class="updated_time"> 10:08 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/prince-andrew-demands-jury-trial-in-sex-abuse-suit-11643231288">Prince Andrew Demands Jury Trial in Sex-Abuse Suit</a> WSJ: The British royal formally denied allegations that he sexually assaulted Jeffrey Epstein accuser Virginia Giuffre when she was a teen. 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 09:28 AM CT, Jan. 26 </p> 
@@ -85,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60138866?at_medium=RSS&at_campaign=KARANGA">China changes Fight Club film ending so the authorities win</a> BBC: In China, the final scene of the 1999 film says the subversive plot fails and the authorities win. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
- <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -155,12 +161,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
- <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
- <p class="updated_time"> 01:47 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/25/1074100175/readers-global-wishes-for-2022-more-kindness-more-nature-and-kitties">Readers' global wishes for 2022: More kindness, more nature ... and kitties!</a> NPR: What could the world achieve this year if we had a limitless budget and full support from global leaders? Our audience shares their heartfelt ideas. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/russia-ukraine-weapons-00002422">Lawmakers' answer to the Russia-Ukraine crisis: Weapons made in their states</a> Politico: Members push tanks and submarines as vital for deterring Moscow. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:28 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/cfpb-junk-fees.html">The federal consumer bureau wants to stamp out what it calls ‘junk fees.’</a> NYT: Late payment charges, hotel resort fees and other tacked-on expenses collectively add billions to what Americans pay for goods and services. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624848/critics-say-infrastructure-projects-won-t-make-a-big-enough-impact-on-climate-ch">Critics say infrastructure projects won't make a big enough impact on climate change</a> NPR: As Washington gears up to dole out hundreds of billions of dollars in new infrastructure funds, critics say not enough will go to projects addressing climate change and issues of racial inequality. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624841/after-10-days-in-office-virginia-gov-youngkin-is-facing-blowback-over-new-polici">After 10 days in office, Virginia Gov. Youngkin is facing blowback over new policies</a> NPR: Republican Virginia Gov. Glenn Youngkin's administration is pushing a conservative agenda including banning masks in schools, firing professors and urging parents to report critical race theory. 
- <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
  <p class="updated_time"> 03:02 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/paid-sick-leave-ca-california.html">California Leaders Agree to Once Again Require Extra Paid Sick Leave</a> NYT: The agreement would reinstate a benefit passed by the state in 2021 that expired at the end of September. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
