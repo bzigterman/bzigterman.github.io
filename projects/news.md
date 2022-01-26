@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60135552?at_medium=RSS&at_campaign=KARANGA">IMF urges El Salvador to remove Bitcoin as legal tender</a> BBC: Officials say the decision poses risks to financial stability and consumer protection in the country. 
  <p class="updated_time"> 10:34 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
  <p class="updated_time"> 09:42 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
- <p class="updated_time"> 09:37 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60129827?at_medium=RSS&at_campaign=KARANGA">Greece Snowstorm: Thousands of drivers left stranded as storm hits Athens</a> BBC: Authorities in the Greek capital worked overnight to rescue some 300 people left stranded in cars. 
  <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
