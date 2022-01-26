@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
+ <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
  <p class="updated_time"> 03:22 AM CT, Jan. 26 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
  <p class="updated_time"> 05:58 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60132765?at_medium=RSS&at_campaign=KARANGA">Unvaccinated man denied heart transplant by Boston hospital</a> BBC: The 31-year-old father-of-two refuses to get the shot, but the hospital says it is following policy. 
- <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
- <p class="updated_time"> 07:29 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60129265?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Football fans run towards Paul Biya stadium before crush</a> BBC: At least eight people have been killed in a crush outside an Africa Cup of Nations football match in Cameroon. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
