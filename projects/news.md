@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 11:49 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:38 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:36 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60141195?at_medium=RSS&at_campaign=KARANGA">Who is Burkina Faso coup leader Lt-Col Damiba?</a> BBC: Lt-Col Damiba has had training from the US and France but wants Africa to be responsible for its security. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60141195?at_medium=RSS&at_campaign=KARANGA">Who is Burkina Faso coup leader Lt-Col Damiba?</a> BBC: Lt-Col Damiba took power in Burkina Faso just three weeks after his 41st birthday - what else do we know? 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
  <p class="updated_time"> 10:11 AM CT, Jan. 26 </p> 
@@ -208,8 +208,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire and indicated he would follow up with an official letter, the person briefed on the justice’s plans said. 
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
- <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer Retires From Supreme Court</a> NYT: The vacancy will give President Biden his first chance to name a new justice. He has promised to nominate a Black woman. 
+ <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Fed chief faces volatile markets and thorny questions</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 10:48 AM CT, Jan. 26 </p> 
@@ -294,14 +294,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
- <p class="updated_time"> 03:03 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/rep-jim-cooper-retires-tennessee-00001924">Rep. Jim Cooper retires after Tennessee district dismantled</a> Politico: The veteran Democratic congressman said gerrymandering in Nashville was ending his career. 
  <p class="updated_time"> 03:02 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/paid-sick-leave-ca-california.html">California Leaders Agree to Once Again Require Extra Paid Sick Leave</a> NYT: The agreement would reinstate a benefit passed by the state in 2021 that expired at the end of September. 
- <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
+ <p class="updated_time"> 02:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -380,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
