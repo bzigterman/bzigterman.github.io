@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:49 PM CT, Jan. 26 </p> 
+ <p class="updated_time"> 04:56 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
+ <p class="updated_time"> 04:54 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
  <p class="updated_time"> 04:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">Man Faces Weapons Charge in Texas Synagogue Standoff</a> NYT: The announcement came hours after two men had been arrested in Britain as part of an investigation by counterterrorism officers in which several people have been questioned. 
- <p class="updated_time"> 04:45 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 04:36 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075916066/a-texas-man-is-accused-of-selling-gun-used-to-take-synagogue-hostages">A Texas man is accused of selling gun used to take synagogue hostages</a> NPR: Earlier Wednesday, British police said they arrested two more men in Manchester related to the hostage-taking incident. 
  <p class="updated_time"> 04:32 PM CT, Jan. 26 </p> 
