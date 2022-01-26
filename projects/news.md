@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:33 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 09:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
- <p class="updated_time"> 09:33 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 09:39 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 09:37 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">2 More Arrested in U.K. in Case Linked to Texas Synagogue Standoff</a> NYT: The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people. 
+ <p class="updated_time"> 09:30 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 09:28 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
- <p class="updated_time"> 09:16 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">2 More Arrested in U.K. in Case Linked to Texas Synagogue Standoff</a> NYT: The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people. 
- <p class="updated_time"> 09:15 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">U.K.’s Other Health Crisis: A Huge Backlog of Delayed Non-Covid Care</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 09:03 AM CT, Jan. 26 </p> 
@@ -225,6 +225,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/democrats-spending-hurts-infrastructure-victory-00001920">Bridges don’t build themselves: How Dems' spending flop hurts their infrastructure victory</a> Politico: Democrats have pinned part of their election hopes on infrastructure progress. But they're lacking a pot of money essential to carrying out that vision. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 07:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/house-china-bill-trade-title-00001366">House China bill includes aggressive trade provisions</a> Politico: The long-awaited bill tees up a flurry of corporate lobbying and intense negotiations with the Senate over final legislative language. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:38 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/justice-department-trump.html">Justice Dept. Is Reviewing Role of Fake Trump Electors, Top Official Says</a> NYT: Lisa O. Monaco, the deputy attorney general, told CNN that she could not “say anything more on ongoing investigations.” 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
@@ -376,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 20 </p> 
+ <a href="https://www.politico.com/news/2022/01/20/oath-keeper-jan-6-weapons-jailed-527532">Oath Keeper charged with overseeing Jan. 6 weapons stockpile jailed pending trial</a> Politico: His recent social media activity may have played a role in the judge's decision. 
  <p class="updated_time"> 01:42 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
