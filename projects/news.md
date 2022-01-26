@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:21 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-led Forces End Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
+ <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
+ <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
+ <p class="updated_time"> 05:02 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 04:56 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
- <p class="updated_time"> 04:54 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
  <p class="updated_time"> 04:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">Man Faces Weapons Charge in Texas Synagogue Standoff</a> NYT: The announcement came hours after two men had been arrested in Britain as part of an investigation by counterterrorism officers in which several people have been questioned. 
  <p class="updated_time"> 04:36 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075916066/a-texas-man-is-accused-of-selling-gun-used-to-take-synagogue-hostages">A Texas man is accused of selling gun used to take synagogue hostages</a> NPR: Earlier Wednesday, British police said they arrested two more men in Manchester related to the hostage-taking incident. 
- <p class="updated_time"> 04:32 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: She transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 04:13 PM CT, Jan. 26 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075881068/the-significance-of-beijing-hosting-both-the-summer-and-winter-olympics">The significance of Beijing hosting both the Summer and Winter Olympics</a> NPR: Next week, Beijing will become the first city to host both Summer and Winter Olympics. To China, it's a big deal — even if a handful of countries are protesting China's human rights record. 
  <p class="updated_time"> 04:02 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
- <p class="updated_time"> 03:58 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">Sue Gray’s Report Could Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/north-korea-launches-missiles-kim.html">Why Is North Korea Suddenly Launching So Many Missiles?</a> NYT: Experience has shown Kim Jong-un that saber-rattling is the best way to get Washington’s attention, especially when global affairs are already in a precarious state. 
- <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:22 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-china-competitiveness-bill.html">Democrats Renew Push for Industrial Policy Bill Aimed a China</a> NYT: A major competitiveness bill passed the Senate last year with bipartisan support, only to stall. Democrats hope to revive it in the House, but first they will have to bridge big differences. 
+ <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
+ <p class="updated_time"> 05:00 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
  <p class="updated_time"> 04:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
@@ -222,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
  <p class="updated_time"> 03:16 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/pressure-irs-supply-taxpayer-relief-00002408">Pressure mounts in Congress for IRS to give taxpayers relief</a> Politico: The mountainous paperwork problem has been compounded by underlying troubles plaguing the IRS for years. 
- <p class="updated_time"> 03:14 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
  <p class="updated_time"> 02:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/j-michelle-childs.html">Why Judge J. Michelle Childs is Another Favorite to Replace Breyer</a> NYT: Representative James E. Clyburn, Democrat of South Carolina, supports a little-known federal judge in his home state: J. Michelle Childs. 
  <p class="updated_time"> 02:44 PM CT, Jan. 26 </p> 
@@ -263,7 +267,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
  <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Powell faces volatile markets as Fed signals March rate hike</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
+ <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Translating Powell's words: The Fed chair's real message on rate-hike plans</a> Politico: Powell faced reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">Confessions of a Liberal Heretic</a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
  <p class="updated_time"> 05:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/robert-kennedy-anne-frank-remarks-00002055">RFK Jr. apologizes for widely condemned Anne Frank comment</a> Politico: "To the extent my remarks caused hurt, I am truly and deeply sorry," he said. 
- <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075623146/federal-court-says-alabamas-congressional-map-disadvantages-black-voters">Federal court says Alabama's congressional map disadvantages Black voters</a> NPR: Blocking the new congressional map from taking effect, a panel of judges says Alabama needs at least two, not one, congressional districts in which Black voters are the majority, or close to it. 
  <p class="updated_time"> 04:23 PM CT, Jan. 25 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
  <p class="updated_time"> 09:29 PM CT, Jan. 19 </p> 
  <a href="https://www.politico.com/news/2022/01/19/mccarthy-washington-fundraiser-527442">McCarthy raises $9.5M at major Washington fundraiser</a> Politico: The House minority leader and his party are aiming to win control of Congress in the fall. 
- <p class="updated_time"> 05:18 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/biden-defends-school-policies-downplays-shutdowns-527416">Biden defends school policies, downplays recent shutdowns</a> Politico: The president maintained that schools can and should operate even as the pandemic continues. 
 
 
 </details>
