@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
+ <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
+ <p class="updated_time"> 11:38 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire - reports</a> BBC: Liberal US Supreme Court Justice Stephen Breyer to retire later this year, reports say 
  <p class="updated_time"> 11:28 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 11:28 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us/putin-sanctions">Here's What US Sanctions on Putin Might Look Like</a> NYT: The U.S. could seize assets or bar him from entering the country, but experts say such moves wouldn’t change the Russian leader’s thinking. 
- <p class="updated_time"> 11:25 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire - reports</a> BBC: Liberal US Supreme Court Justice Stephen Breyer to retire later this year, reports say 
  <p class="updated_time"> 11:20 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">2 More Arrested in U.K. in Case Linked to Texas Synagogue Standoff</a> NYT: The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people. 
  <p class="updated_time"> 11:00 AM CT, Jan. 26 </p> 
@@ -35,10 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 10:01 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
- <p class="updated_time"> 09:58 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
- <p class="updated_time"> 09:52 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
  <p class="updated_time"> 09:30 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/imf-urges-el-salvador-to-ditch-bitcoins-legal-tender-status-11643148210">IMF Urges El Salvador to Ditch Bitcoin's Legal Tender Status</a> WSJ: After adopting bitcoin as national currency, the Central American country plans to issue bonds backed by bitcoin as negotiations with the IMF stall. 
  <p class="updated_time"> 10:57 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
- <p class="updated_time"> 10:23 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
@@ -206,7 +204,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:26 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire and indicated he would follow up with an official letter, the person briefed on the justice’s plans said. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
+ <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer Retires From Supreme Court</a> NYT: The vacancy will give President Biden his first chance to name a new justice. He has promised to nominate a Black woman. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
- <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: Meanwhile, Russia accused the United States of “escalating tensions.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
