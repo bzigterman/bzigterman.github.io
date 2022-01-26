@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:02 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
  <p class="updated_time"> 05:58 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60132765?at_medium=RSS&at_campaign=KARANGA">Unvaccinated man denied heart transplant by Boston hospital</a> BBC: The 31-year-old father-of-two refuses to get the shot; the hospital said it was following policy. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60132765?at_medium=RSS&at_campaign=KARANGA">Unvaccinated man denied heart transplant by Boston hospital</a> BBC: The 31-year-old father-of-two refuses to get the shot; the hospital says it is following policy. 
  <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 05:23 PM CT, Jan. 25 </p> 
@@ -65,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin if Russia invades, Biden says</a> BBC: The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine. 
+ <p class="updated_time"> 02:16 PM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
  <p class="updated_time"> 02:13 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60130389?at_medium=RSS&at_campaign=KARANGA">IS militants surrender as Kurdish-led forces surround Syria prison</a> BBC: But dozens remain holed up along with hundreds of children after six days of fierce fighting. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075493673/yemens-houthis-have-launched-two-attacks-against-the-u-a-e-heres-why">Yemen's Houthis have launched two attacks against the U.A.E. — here's why</a> NPR: The attacks underscore how Yemen's civil war, which has ground on for over seven years, can flare into a regional danger. 
- <p class="updated_time"> 03:26 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
  <p class="updated_time"> 03:03 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/inflation-supply-chain-omicron-expected-to-take-a-bigger-toll-on-global-growth-11643119381">Inflation, Supply Chain, Omicron Expected to Take a Bigger Toll on Global Growth</a> WSJ: The IMF scales back its 2022 outlook, with the U.S. getting the biggest downgrade of any major country. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
  <p class="updated_time"> 02:49 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/23/world/middleeast/syria-prison-isis.html">As U.S. Strikes Syria Prison Held by ISIS, Young Detainees Are Caught in Crossfire</a> NYT: Almost 700 child detainees are being held in the prison still under siege four days after ISIS launched an attack to free detainees 
- <p class="updated_time"> 10:59 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/world/europe/french-atlantic-rower-missing-jean-jacques-savin.html">French Adventurer Attempting to Row Solo Across the Atlantic Is Missing</a> NYT: Jean-Jacques Savin, 75, activated distress beacons on Thursday and Friday, his team said. On Saturday, the Portuguese Navy found his boat, but not his body, near the Azores. 
  <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
  <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
 
@@ -275,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:51 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/unusual-origins-news-site-00001776">The unusual origins behind the splashiest, newest political news site</a> Politico: The website Grid has several ties to the United Arab Emirates. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">GOP say Democrats’ virus drug guidance is anti-white</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
+ <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:32 AM CT, Jan. 25 </p> 
