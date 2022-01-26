@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
+ <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
+ <p class="updated_time"> 11:16 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60123921?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China eases Covid testing rules amid rise in cases</a> BBC: Organisers lower testing benchmarks while the rest of the city faces harsher Covid restrictions. 
  <p class="updated_time"> 10:54 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60135552?at_medium=RSS&at_campaign=KARANGA">IMF urges El Salvador to remove Bitcoin as legal tender</a> BBC: Officials say the decision poses risks to financial stability and consumer protection in the country. 
  <p class="updated_time"> 10:34 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
+ <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60135905?at_medium=RSS&at_campaign=KARANGA">Global chip shortage: US says firms' stocks have plunged</a> BBC: The shortage of semiconductors is continuing to have a major impact on industries around the world. 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 09:32 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60111319?at_medium=RSS&at_campaign=KARANGA">BBC Komla Dumor Award 2022 launched</a> BBC: The BBC is seeking a future star of African journalism for the BBC World News Komla Dumor Award 2022. 
- <p class="updated_time"> 08:51 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 08:32 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 08:13 PM CT, Jan. 25 </p> 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60075421?at_medium=RSS&at_campaign=KARANGA">'As an adult I discovered I have siblings, but I grew up in care, alone'</a> BBC: Ashley John-Baptiste grew up in care, unaware he had siblings. His new documentary is called Split Up in Care: Life Without Siblings. 
  <p class="updated_time"> 06:10 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60129897?at_medium=RSS&at_campaign=KARANGA">The rejected Dragons' Den contestant now making millions</a> BBC: From being rejected on Dragons' Den to making millions, Alex Savelli shares his secrets to success. 
- <p class="updated_time"> 06:10 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Who Took On Apartheid’s Crimes, Dies at 72</a> NYT: One of South Africa’s most lauded police officials, he investigated crimes by the authorities and dug into cold cases from the days of white nationalist rule. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
  <p class="updated_time"> 05:58 PM CT, Jan. 25 </p> 
@@ -112,13 +116,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:43 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60120367?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: At least eight killed in crush at Cameroon stadium</a> BBC: Dozens more people are injured in the incident outside a football stadium in Cameroon. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60091592?at_medium=RSS&at_campaign=KARANGA">Benjamin Brière: French tourist jailed in Iran on spying charges</a> BBC: France says his conviction for flying a drone while on holiday in a border area is "unacceptable". 
- <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">President Biden says a Russian invasion of Ukraine 'would change the world'</a> NPR: Biden said should Russian President Putin move in using the more than 100,000 Russian troops surrounding Ukraine, "it would be the largest invasion since World War II. It would change the world." 
  <p class="updated_time"> 10:23 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
- <p class="updated_time"> 09:42 AM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60121132?at_medium=RSS&at_campaign=KARANGA">Taylor Swift calls out Damon Albarn over songwriting comments</a> BBC: The lead singer of Blur and Gorillaz made the false claim that Swift does not write her own songs. 
  <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
