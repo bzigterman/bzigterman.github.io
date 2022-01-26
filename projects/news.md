@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 08:36 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
- <p class="updated_time"> 08:36 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
  <p class="updated_time"> 08:34 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 08:22 AM CT, Jan. 26 </p> 
@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
+ <p class="updated_time"> 06:36 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/60142977?at_medium=RSS&at_campaign=KARANGA">Afcon stadium crush: 'The force behind forced us to fall'</a> BBC: An eyewitness caught in the stadium crush that killed eight people at the Africa Cup of Nations in Cameroon describes the moment things went wrong. 
  <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/26/1075621526/satellite-images-show-the-aftermath-of-tonga-volcanos-eruption">Satellite images show the aftermath of Tonga volcano's eruption</a> NPR: The images show populated areas in the archipelago with heavily damaged or destroyed buildings and homes and at least one island covered with ash. 
  <p class="updated_time"> 05:30 AM CT, Jan. 26 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
  <p class="updated_time"> 11:16 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60123921?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China eases Covid testing rules amid rise in cases</a> BBC: Organisers lower testing benchmarks while the rest of the city faces harsher Covid restrictions. 
- <p class="updated_time"> 10:54 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60135552?at_medium=RSS&at_campaign=KARANGA">IMF urges El Salvador to remove Bitcoin as legal tender</a> BBC: Officials say the decision poses risks to financial stability and consumer protection in the country. 
  <p class="updated_time"> 10:34 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
@@ -119,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624827/american-troops-battle-isis-for-control-of-syrian-prison">American troops battle ISIS for control of Syrian prison</a> NPR: American forces are fighting the Islamic State for control of a prison in northeastern Syria, in the most substantial military engagement with ISIS since it lost the last of its territory in 2019. 
  <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624806/if-russia-doesnt-invade-ukraine-with-troops-it-could-still-launch-a-cyberattack">If Russia doesn't invade Ukraine with troops, it could still launch a cyberattack</a> NPR: With U.S. troops on heightened alert and NATO forces on standby, fears of a Russian invasion of Ukraine remain. But even if Putin doesn't send troops in, he could still launch a crippling cyberattack. 
- <p class="updated_time"> 03:59 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60129830?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands to ease restrictions despite rising case numbers</a> BBC: Dutch hospitality venues, including bars and restaurants, have been closed since 18 December. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
@@ -278,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
+ <p class="updated_time"> 02:37 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
