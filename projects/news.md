@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 02:52 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 02:51 AM CT, Jan. 26 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 02:25 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
- <p class="updated_time"> 01:29 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
