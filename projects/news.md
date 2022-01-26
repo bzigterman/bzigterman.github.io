@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 06:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">UN calls for evacuation of children trapped in besieged Syrian prison</a> BBC: The UN has received reports of deaths among the hundreds of boys at a jail seized by IS militants. 
  <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
+ <p class="updated_time"> 01:32 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347">After Volcano Eruption Spewed Ash, Tonga Needs Rain and More Brooms</a> WSJ: On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
@@ -59,6 +63,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
+ <p class="updated_time"> 12:28 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S. Troops Join Fight to Dislodge Islamic State From Syrian Prison</a> WSJ: Fighting has raged for almost a week following an attempted prison break in the city of Hasakah. More than 100 people have been killed and some 850 children held in the prison have been trapped during the violence. 
+ <p class="updated_time"> 11:45 PM CT, Jan. 25 </p> 
+ <a href="https://www.wsj.com/articles/russias-attempts-to-sanction-proof-its-economy-have-exposed-a-weak-spot-11643193911">Russia's Attempts to Sanction-Proof Economy Have Exposed Weak Spot</a> WSJ: A raft of hard-hitting measures in case of a renewed Russian incursion into Ukraine could test Moscow’s efforts to insulate itself from sanctions and cause broad economic pain. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
  <p class="updated_time"> 11:16 PM CT, Jan. 25 </p> 
@@ -117,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
- <p class="updated_time"> 02:16 PM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/mexican-journalist-who-told-countrys-president-she-feared-for-her-life-is-killed-11643120797">Mexican Journalist Who Told Country's President She Feared for Her Life Is Killed</a> WSJ: The shooting death of well-known journalist Lourdes Maldonado in Tijuana, the third killing of a journalist in Mexico this year, underscores the country’s reputation as one of the most dangerous places in the world for reporters to work. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
  <p class="updated_time"> 01:47 PM CT, Jan. 25 </p> 
@@ -127,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/canadian-indigenous-group-finds-possible-unmarked-graves-at-ex-school-site-11643157449">Indigenous Group Finds Possible Unmarked Graves at Ex-School Site</a> WSJ: Report follows a series of similar discoveries near former residential schools over the past year in Canada. 
- <p class="updated_time"> 12:44 PM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia if It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
  <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
  <p class="updated_time"> 10:23 AM CT, Jan. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-city-tries-to-ward-off-russia-by-promising-a-better-future-11643135362">Ukrainian City Tries to Ward Off Russia by Promising a Better Future</a> WSJ: Mariupol, a port city near the front line with a breakaway region, preserves some scars of earlier fighting but has added parks and restaurants. 
- <p class="updated_time"> 09:33 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 09:27 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60112043?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Why soldiers have overthrown President Kaboré</a> BBC: The military takeover, driven by insecurity, resembles what happened in neighbouring Mali. 
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/cia-afghan-fighters-commandos.html">C.I.A.-Backed Afghan Fighters Are Still Waiting to Reach U.S.</a> NYT: Commandos who played a key role in helping American forces are waiting for visas in the United Arab Emirates, and are among the last of the evacuated Afghans to get a chance to reach the United States. 
  <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">President Biden says a Russian invasion of Ukraine 'would change the world'</a> NPR: Biden said should Russian President Putin move in using the more than 100,000 Russian troops surrounding Ukraine, "it would be the largest invasion since World War II. It would change the world." 
- <p class="updated_time"> 09:06 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/desantis-biden-covid-treatments-00001729">DeSantis opens new battle with Biden over Covid treatments</a> Politico: The U.S. Food and Drug Administration on Monday cut Florida’s weekly allotment of monoclonal antibody cocktails. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
