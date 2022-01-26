@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:21 PM CT, Jan. 26 </p> 
+ <p class="updated_time"> 01:24 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 01:17 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60141195?at_medium=RSS&at_campaign=KARANGA">Who is Burkina Faso coup leader Lt-Col Damiba?</a> BBC: Lt-Col Damiba took power in Burkina Faso just three weeks after his 41st birthday - what else do we know? 
@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-gray-report-lockdown-parties.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement - he has previously pledged to nominate a black woman. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 01:04 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: US sends Moscow formal response over crisis</a> BBC: The secretary of state says he has offered Russia a serious diplomatic path but will help defend Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
@@ -228,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner – and perhaps – more aggressively after inflation reached the highest in nearly 40 years. 
  <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Decision Reasserts Voting Rights Act</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
+ <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
+ <a href="https://www.cnn.com/2021/10/14/politics/stephen-breyer-cnn-interview-supreme-court-georgetown-law/index.html">Stephen Breyer says now isn't the time to lose faith in the Supreme Court</a> CNN: Justice Stephen Breyer is not giving up on the Supreme Court. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 12:15 PM CT, Jan. 26 </p> 
@@ -235,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
  <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Fed chief faces volatile markets and thorny questions</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
+ <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">UPDATED: Powell faces volatile markets as Fed signals March rate hike</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
- <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/21/politics/free-covid-test-government-website-errors/index.html">Why some people are having problems ordering free Covid tests</a> CNN: Marisa Diaz y Diaz doesn't understand why her order for the free federal home Covid-19 tests isn't going through. 
  <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:25 AM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/2022/01/21/politics/kevin-mccarthy-speaker-gop-conference/index.html">Kevin McCarthy's path to speakership enters final but treacherous leg</a> CNN: Kevin McCarthy was done being nice. The House Republican leader cast off his typically sunny demeanor during a December 8 meeting of the GOP conference to deliver a stern warning to his most raucous members: Quit trying to hold your vote for speaker over my head. 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
  <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
