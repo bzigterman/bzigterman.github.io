@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
+ <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
- <p class="updated_time"> 02:26 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 02:25 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
- <p class="updated_time"> 01:57 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 01:29 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says an invasion would have "enormous consequences" for the world. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
@@ -136,8 +136,6 @@ permalink: /projects/news/
  <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/julian-assange-extradition-appeal.html">Julian Assange Can Appeal Decision to Extradite Him to U.S., U.K. Court Rules</a> NYT: The WikiLeaks founder has argued that American prison conditions would be harmful to his mental health. He faces a lengthy sentence if convicted on espionage charges. 
- <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/india-leprosy-treatment-sivananda.html">Leprosy Hospital Offers Healing, and a Haven, to the Shunned</a> NYT: While leprosy is now easily treated, those who have the disease are still often ostracized. But they’re always welcome at this refuge in India, a nation that records over half the world’s cases. 
  <p class="updated_time"> 09:01 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/syria-prison-isis-hasaka.html">US Troops Join Kurdish-Led Forces in Assault on Prison Held by ISIS</a> NYT: The Islamic State seized a prison in Syria to try to free thousands of fellow jihadists and is using hundreds of imprisoned boys as human shields. 
@@ -149,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
  <p class="updated_time"> 07:18 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-60129268?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 'We hope for the best for our families back home'</a> BBC: Tongans living in Fiji are collecting donations to support those impacted by the volcano and tsunami. 
- <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How Boris Johnson Could Lose His Job as U.K. Prime Minister: Latest Details</a> NYT: Parties while Britain was under Covid lockdown have pushed Mr. Johnson into two apologies and prompted a police investigation. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
@@ -181,10 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
- <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/health/covid-health-worker-immigration.html">Rich Countries Lure Health Workers From Low-Income Nations to Fight Shortages</a> NYT: Huge pay incentives and immigration fast-tracks are leading many to leave countries whose health systems urgently need their expertise. 
- <p class="updated_time"> 01:22 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/travel/welsh-mountain-ponies.html">Can a New Line of Work Help Save These Wild Welsh Ponies?</a> NYT: A longstanding source of local pride and affection, Welsh mountain ponies have seen many of their traditional roles vanish. A new initiative aims to ensure their continued survival. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
@@ -195,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/stowaway-airplane-wheel-well.html">Stowaway Survives Flight to Amsterdam in a Plane's Wheel Bay</a> NYT: The police are investigating how a 22-year-old man from Kenya got onto the flight, which took off in Johannesburg and stopped in Nairobi. 
  <p class="updated_time"> 11:16 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
- <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
 
 
 </details>
