@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
- <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 11:16 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60123921?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: China eases Covid testing rules amid rise in cases</a> BBC: Organisers lower testing benchmarks while the rest of the city faces harsher Covid restrictions. 
  <p class="updated_time"> 10:54 PM CT, Jan. 25 </p> 
