@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881026/heres-what-some-people-in-kyiv-ukraine-have-to-say-about-the-tension-with-russia">Here's what some people in Kyiv, Ukraine, have to say about the tension with Russia</a> NPR: NPR's Mary Louise Kelly talks with people in Kyiv about the possibility of a Russian invasion into Ukraine. 
+ <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
+ <p class="updated_time"> 03:10 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
+ <p class="updated_time"> 03:06 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
+ <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the moon where it will explode. 
  <p class="updated_time"> 02:49 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: She transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 02:47 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: US sends Moscow formal response over crisis</a> BBC: The secretary of state says he has offered Russia a serious diplomatic path but will help defend Ukraine. 
- <p class="updated_time"> 02:36 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 02:34 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
- <p class="updated_time"> 02:33 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew demands jury trial in US</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
  <p class="updated_time"> 01:58 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 01:17 PM CT, Jan. 26 </p> 
@@ -79,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 04:54 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60133105?at_medium=RSS&at_campaign=KARANGA">Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems</a> BBC: Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders. 
- <p class="updated_time"> 04:46 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html">For Ukrainian Soldiers, a Nervous Guessing Game on the Front</a> NYT: Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge. 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60129897?at_medium=RSS&at_campaign=KARANGA">The rejected Dragons' Den contestant now making millions</a> BBC: From being rejected on Dragons' Den to making millions, Alex Savelli shares his secrets to success. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
- <p class="updated_time"> 05:58 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60132765?at_medium=RSS&at_campaign=KARANGA">Unvaccinated man denied heart transplant by Boston hospital</a> BBC: The 31-year-old father-of-two refuses to get the shot, but the hospital says it is following policy. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
@@ -159,12 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/25/1074100175/readers-global-wishes-for-2022-more-kindness-more-nature-and-kitties">Readers' global wishes for 2022: More kindness, more nature ... and kitties!</a> NPR: What could the world achieve this year if we had a limitless budget and full support from global leaders? Our audience shares their heartfelt ideas. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
- <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/canadian-indigenous-group-finds-possible-unmarked-graves-at-ex-school-site-11643157449">Indigenous Group Finds Possible Unmarked Graves at Ex-School Site</a> WSJ: Report follows a series of similar discoveries near former residential schools over the past year in Canada. 
- <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
- <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075357281/how-do-you-pronounce-kyiv">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
@@ -195,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/africa/african-cup-crush-cameroon.html">At Least 6 Killed in Crush at African Cup Match</a> NYT: Witnesses said the stadium stewards closed the gates and stopped allowing people in, setting off the crush. 
  <p class="updated_time"> 06:34 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/omicron-pandemic-who.html">Omicron Offers Hope Pandemic Could Stabilize, W.H.O. Official Says.</a> NYT: The rapid spread of the variant means far more people will have some immunity, at least for now, which might bode well this year for highly vaccinated countries in Europe. 
- <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:08 PM CT, Jan. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
 
@@ -206,10 +200,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/russia-ukraine-weapons-00002422">Lawmakers' answer to the Russia-Ukraine crisis: Weapons made in their states</a> Politico: Members push tanks and submarines as vital for deterring Moscow. 
+ <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a voting rights debate by planning to reduce polling sites</a> NPR: A debate about poll closures — that voting rights advocates say would make it harder to vote — in a rural Georgia county underscores how divisive any and all voting issues have become. 
+ <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075881002/why-u-s-supreme-court-justice-stephen-breyer-is-retiring-now">Why U.S. Supreme Court Justice Stephen Breyer is retiring now</a> NPR: U.S. Supreme Court Justice Stephen Breyer is retiring. With a potential red wave coming in the midterm election, his move to step down now is about politics and the ideological direction of the court. 
+ <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
  <p class="updated_time"> 03:16 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/pressure-irs-supply-taxpayer-relief-00002408">Pressure mounts in Congress for IRS to give taxpayers' relief</a> Politico: The mountainous paperwork problem has been compounded by underlying troubles plaguing the IRS for years. 
+ <p class="updated_time"> 03:14 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
+ <p class="updated_time"> 02:57 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/climate/epa-environmental-justice-regan.html">E.P.A. Chief Vows to ‘Do Better’ to Protect Poor Communities</a> NYT: The Environmental Protection Agency on Wednesday will announce stepped-up enforcement and monitoring to help disadvantaged communities struggling with polluted air and water. 
  <p class="updated_time"> 02:52 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates at its March meeting. 
+ <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase in March, Citing Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates at its March meeting. 
  <p class="updated_time"> 02:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/j-michelle-childs.html">Why Judge J. Michelle Childs is Another Favorite to Replace Breyer</a> NYT: Representative James E. Clyburn, Democrat of South Carolina, supports a little-known federal judge in his home state: J. Michelle Childs. 
  <p class="updated_time"> 02:44 PM CT, Jan. 26 </p> 
@@ -248,6 +254,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
+ <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Powell faces volatile markets as Fed signals March rate hike</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
@@ -293,19 +301,15 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 06:00 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">A Political Scientist Warns the Democratic Party Is Off Course </a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">Confessions of a Liberal Heretic</a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
  <p class="updated_time"> 05:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/robert-kennedy-anne-frank-remarks-00002055">RFK Jr. apologizes for widely condemned Anne Frank comment</a> Politico: "To the extent my remarks caused hurt, I am truly and deeply sorry," he said. 
  <p class="updated_time"> 05:48 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/10-times-presidents-heated-exchanges-press-00001803">10 times presidents got testy with the press</a> Politico: President Joe Biden called Fox’s Peter Doocy “a stupid son of a …” on Monday, but that was hardly the only uncomfortable exchange between reporters and commanders in chief. 
- <p class="updated_time"> 05:42 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/economy/chips-semiconductors-shortage.html">Commerce Dept. Survey Uncovers ‘Alarming’ Chip Shortages</a> NYT: Increased demand for the semiconductors that power cars, electronics and electrical grids have stoked inflation and could cause more factory shutdowns in the United States. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075623146/federal-court-says-alabamas-congressional-map-disadvantages-black-voters">Federal court says Alabama's congressional map disadvantages Black voters</a> NPR: Blocking the new congressional map from taking effect, a panel of judges says Alabama needs at least two, not one, congressional districts in which Black voters are the majority, or close to it. 
- <p class="updated_time"> 04:40 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
  <p class="updated_time"> 04:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075645745/testimony-begins-in-the-dueling-defamation-suits-over-roy-moore-molestation-clai">Testimony begins in the dueling defamation suits over Roy Moore molestation claims</a> NPR: The allegations overshadowed Moore's 2017 campaign as he fell in a stunning defeat to Doug Jones, the first Alabama Democrat elected to the Senate in 25 years. 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
@@ -314,20 +318,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624841/after-10-days-in-office-virginia-gov-youngkin-is-facing-blowback-over-new-polici">After 10 days in office, Virginia Gov. Youngkin is facing blowback over new policies</a> NPR: Republican Virginia Gov. Glenn Youngkin's administration is pushing a conservative agenda including banning masks in schools, firing professors and urging parents to report critical race theory. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
- <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
- <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624764/the-military-is-now-in-charge-of-the-west-african-country-of-burkina-faso">The military is now in charge of the West African country of Burkina Faso</a> NPR: In Western Africa, a military coup has removed Burkina Faso's democratically elected president from office. 
  <p class="updated_time"> 03:02 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/paid-sick-leave-ca-california.html">California Leaders Agree to Once Again Require Extra Paid Sick Leave</a> NYT: The agreement would reinstate a benefit passed by the state in 2021 that expired at the end of September. 
- <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
- <p class="updated_time"> 10:37 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075529632/the-u-s-is-planning-to-ban-tech-exports-to-russia-if-it-invades-ukraine">President Biden says a Russian invasion of Ukraine 'would change the world'</a> NPR: Biden said should Russian President Putin move in using the more than 100,000 Russian troops surrounding Ukraine, "it would be the largest invasion since World War II. It would change the world." 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
@@ -338,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin's positive Covid test postpones libel case against New York Times</a> Politico: Jury selection, originally set for Monday, will be held Feb. 3. 
  <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
