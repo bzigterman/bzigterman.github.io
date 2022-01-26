@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. Now their lives are in danger. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">The Spotlight Shifted Away From Peng Shuai. Some Players and Fans Want It Back.</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
+ <p class="updated_time"> 03:57 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075723170/uks-boris-johnson-braces-for-partygate-investigation-report">U.K.'s Boris Johnson braces for 'partygate' investigation report</a> NPR: Senior civil servant Sue Gray could turn in her report to the government as soon as Wednesday. Prime Minister Boris Johnson's office promised to publish its findings. 
  <p class="updated_time"> 03:36 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60135547?at_medium=RSS&at_campaign=KARANGA">Disney responds to Peter Dinklage's criticism of Snow White remake</a> BBC: Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs "backwards". 
  <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
@@ -117,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075556977/ayesha-malik-pakistan-supreme-court">Meet Justice Ayesha Malik, Pakistan's first female Supreme Court judge</a> NPR: Malik was sworn in on Monday, shattering a glass ceiling in a country where only about 17% of judges are women. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
- <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075548540/at-least-6-people-are-reported-dead-from-a-crush-at-an-african-cup-soccer-match">At least 6 people are reported dead from a crush at an African Cup soccer match </a> NPR: The apparent stampede outside of a stadium in Cameroon has renewed the focus on prior warnings that the nation was ill-equipped to host the continent's biggest sporting event. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
- <p class="updated_time"> 12:47 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/ukraine-nato-russia-embassies.html">NATO Steps Up Readiness in Eastern Europe to Reassure Allies</a> NYT: The alliance is sending more jets and ships to the region. The decision comes as Britain joined the U.S. in withdrawing the families of diplomats in Kyiv. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
  <p class="updated_time"> 11:23 AM CT, Jan. 24 </p> 
@@ -194,6 +196,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris travels to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership will help address the root causes of migration from the region. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">A Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/magazine/michael-fanone-cnn.html">To Hell and Back, Then to CNN</a> NYT: Once an ordinary citizen stumbles into the culture war, it can be hard to get back out. Just ask Michael Fanone. 
  <p class="updated_time"> 02:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
  <p class="updated_time"> 11:39 PM CT, Jan. 25 </p> 
@@ -298,16 +308,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
  <p class="updated_time"> 10:07 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/business/media/biden-peter-doocy-fox.html">Biden, Caught on Hot Mic, Has Harsh Words for Peter Doocy of Fox News</a> NYT: The president later called Peter Doocy and “cleared the air,” Mr. Doocy said. 
- <p class="updated_time"> 09:05 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/border-patrol-critical-incident-teams.html">Democrats in Congress Seek Review of Teams Within the Border Patrol</a> NYT: Lawmakers asked the Government Accountability Office to review “critical incident teams,” and two House committees will conduct a separate investigation. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
- <p class="updated_time"> 06:00 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
- <p class="updated_time"> 05:30 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075434688/appeals-court-reinstates-drop-boxes-for-wisconsins-february-primary">Appeals court reinstates drop boxes for Wisconsin's February primary</a> NPR: The ruling temporarily blocks a judge's order that would have banned the use of absentee ballot drop boxes in the swing state. 
- <p class="updated_time"> 05:05 PM CT, Jan. 24 </p> 
- <a href="https://www.npr.org/2022/01/24/1075429352/special-grand-jury-fulton-county-da-trump-election-probe">A special grand jury has been granted in Fulton County's Trump investigation</a> NPR: The decision comes after Fulton District Attorney Fani Willis requested one. A special grand jury has subpoena power and the authority to obtain documents. It will begin on May 2. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
  <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
