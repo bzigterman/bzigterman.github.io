@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-gray-report-lockdown-parties.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 01:04 PM CT, Jan. 26 </p> 
@@ -214,12 +214,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/crypto-advocates-house-china-bill-ransomware-00002383">Crypto advocates blast House China bill for ransomware proposal</a> Politico: The bill includes language that would grant the Treasury secretary more authority to freeze or monitor financial accounts used for cross-border illegal activity. 
  <p class="updated_time"> 01:51 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/us-russia-ukraine-written-response-00002414">U.S. delivers written response to Russian demands amid Ukraine crisis</a> Politico: The written response was “fully coordinated” with Ukraine and European allies, Secretary of State Antony Blinken said. 
+ <p class="updated_time"> 01:37 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Markets expect the Fed to raise interest rates at their next meeting in March, and possibly four times this year, amid high inflation. 
+ <p class="updated_time"> 01:31 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-supreme-court-black-woman.html">Biden Promised to Put a Black Woman on the Supreme Court</a> NYT: Biden, then a candidate with a struggling campaign for the Democratic nomination, made the promise ahead of his party’s primary in South Carolina. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 01:21 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/ketanji-brown-jackson-supreme-court.html">Who Is Judge Ketanji Brown Jackson? A Leading Candidate to Succeed Justice Breyer</a> NYT: Judge Jackson, 51, already successfully went through the Senate confirmation process last year. 
- <p class="updated_time"> 01:17 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Markets expect the Fed to raise interest rates at their next meeting in March, and possibly four times this year, amid high inflation. 
  <p class="updated_time"> 01:16 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075827266/us-russia-ukraine-tension-latest-blinken">The U.S. says it will stand firm against major Russian demands as tension rises</a> NPR: Among the demands from Russia was a guarantee that Ukraine be permanently barred from NATO membership. That would violate a U.S. "core principle," Secretary of State Antony Blinken said Wednesday. 
  <p class="updated_time"> 01:14 PM CT, Jan. 26 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-poll-social-spending-inflation-00001785">POLITICO-Harvard poll: Big domestic spending bills seen as stoking inflation</a> Politico: At a time when inflation is a growing concern, the survey found more than four in 10 people believe that both the BBB and the infrastructure bill will increase inflation.  
  <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">UPDATED: Powell faces volatile markets as Fed signals March rate hike</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
+ <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Powell faces volatile markets as Fed signals March rate hike</a> Politico: Powell will face reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
- <p class="updated_time"> 06:13 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
