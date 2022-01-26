@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:24 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 08:36 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
+ <p class="updated_time"> 08:36 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 08:34 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 08:22 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: President Joe Biden says he would consider imposing personal sanctions on his Russian counterpart. 
- <p class="updated_time"> 08:20 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 08:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
  <p class="updated_time"> 08:08 AM CT, Jan. 26 </p> 
@@ -50,13 +52,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison from Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
+ <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
  <p class="updated_time"> 03:26 AM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/indian-opposition-figure-rahul-gandhi-says-his-twitter-following-was-restricted-11643207184">Indian Opposition Figure Says His Twitter Following Was Restricted</a> WSJ: Rahul Gandhi, one of India’s most prominent opposition politicians, has written to Twitter’s chief executive alleging he is the victim of a government campaign to limit his ability to attract followers on the platform. 
  <p class="updated_time"> 02:52 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
- <p class="updated_time"> 02:51 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
  <p class="updated_time"> 03:00 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
- <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
  <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
@@ -280,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
- <p class="updated_time"> 02:37 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/trump-documents-jan-6-committee.html">What the Trump Documents Might Tell the Jan. 6 Committee</a> NYT: Following last week’s Supreme Court ruling, the House panel has received material that it hopes could flesh out how the attack on the Capitol came about. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
