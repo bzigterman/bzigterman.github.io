@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 01:42 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Syria Live Updates: Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 01:24 PM CT, Jan. 26 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 09:30 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 09:28 AM CT, Jan. 26 </p> 
@@ -212,12 +212,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/crypto-advocates-house-china-bill-ransomware-00002383">Crypto advocates blast House China bill for ransomware proposal</a> Politico: The bill includes language that would grant the Treasury secretary more authority to freeze or monitor financial accounts used for cross-border illegal activity. 
- <p class="updated_time"> 01:51 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/us-russia-ukraine-written-response-00002414">U.S. delivers written response to Russian demands amid Ukraine crisis</a> Politico: The written response was “fully coordinated” with Ukraine and European allies, Secretary of State Antony Blinken said. 
- <p class="updated_time"> 01:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Markets expect the Fed to raise interest rates at their next meeting in March, and possibly four times this year, amid high inflation. 
- <p class="updated_time"> 01:44 PM CT, Jan. 26 </p> 
+ <p class="updated_time"> 01:59 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-supreme-court-black-woman.html">Biden Promised to Put a Black Woman on the Supreme Court</a> NYT: Biden, then a candidate with a struggling campaign for the Democratic nomination, made the promise ahead of his party’s primary in South Carolina. 
+ <p class="updated_time"> 01:58 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Markets expect the Fed to raise interest rates at their next meeting in March, and possibly four times this year, amid high inflation. 
+ <p class="updated_time"> 01:51 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/us-russia-ukraine-written-response-00002414">U.S. delivers written response to Russian demands amid Ukraine crisis</a> Politico: The document was “fully coordinated” with Ukraine and European allies, Secretary of State Antony Blinken said. 
+ <p class="updated_time"> 01:50 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-stephen-breyer.html">Justice Breyer’s Legacy: A Liberal Who Rejected Labels Like ‘Liberal’</a> NYT: His voting over the years was generally similar to that of other Democratic appointees, if perhaps a little more conservative. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 01:21 PM CT, Jan. 26 </p> 
@@ -273,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/magazine/michael-fanone-cnn.html">To Hell and Back, Then to CNN</a> NYT: Once an ordinary citizen stumbles into the culture war, it can be hard to get back out. Just ask Michael Fanone. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075509175/flaws-plague-a-tool-meant-to-help-low-risk-federal-prisoners-win-early-release">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
+ <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
  <p class="updated_time"> 02:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
  <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/justice-department-trump.html">Justice Dept. Is Reviewing Role of Fake Trump Electors, Top Official Says</a> NYT: Lisa O. Monaco, the deputy attorney general, told CNN that she could not “say anything more on ongoing investigations.” 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
- <p class="updated_time"> 06:04 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html">Ahead of Midterms, Some Democrats Search for New Message on Virus</a> NYT: Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus. 
  <p class="updated_time"> 06:00 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">A Political Scientist Warns the Democratic Party Is Off Course </a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
  <p class="updated_time"> 05:54 PM CT, Jan. 25 </p> 
