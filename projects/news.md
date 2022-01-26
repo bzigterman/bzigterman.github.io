@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: US president Joe Biden says said an invasion would have "enormous consequences" for the world. 
+ <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
+ <p class="updated_time"> 01:10 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 12:59 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 08:13 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
- <p class="updated_time"> 08:11 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin if Russia invades, Biden says</a> BBC: The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">Dozens feared lost as 'smuggling' boat capsizes off Florida</a> BBC: US officials say the vessel may have been part of a "human smuggling venture". 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Police Probe of Lockdown Parties Puts Boris Johnson on Defensive</a> WSJ: The announcement by police of an investigation into parties that took place in Downing Street raises pressure on the British prime minister, whose popularity has fallen sharply and who faces calls to resign. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
- <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1068149767/virginia-afghanistan-refugee-family-america">From Kabul to Virginia: An Afghan family is starting over in America</a> NPR: In only a matter of days, the lives of an Afghan family changed forever. After the Taliban took control of Kabul, they were forced to start over in a foreign country. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 03:03 AM CT, Jan. 25 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/saad-hariri-lebanon-quits.html">Saad Hariri, Lebanon’s Former Prime Minister, Quits Politics</a> NYT: He was the leader of the country’s Sunni Muslims, one of the three main sects that share power, and the scion of a prominent political dynasty. 
  <p class="updated_time"> 02:40 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/middleeast/us-air-force-uae-attack.html">U.S. Helps Thwart Attack by Yemen Rebels on American Air Base in U.A.E.</a> NYT: The Houthi rebels fired two missiles at a base in Abu Dhabi where 2,000 Americans are stationed, the latest salvo in their escalating war with a Saudi-led coalition that includes the United Arab Emirates. 
- <p class="updated_time"> 02:23 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/asia/afghan-women-taliban-protests.html">Threatened and Beaten, Afghan Women Defy Taliban With Protests</a> NYT: The Taliban have begun cracking down harder as women insist on their rights and as Western governments call for reforms. 
  <p class="updated_time"> 01:47 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/pope-benedict-child-abuse.html">Benedict Admits Being at Meeting About Priest Accused of Abuse</a> NYT: A statement by the former pope contradicted a previous statement to a law firm investigating allegations of child sex abuse by priests when he was an archbishop. 
  <p class="updated_time"> 01:33 PM CT, Jan. 24 </p> 
@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/eastman-jan-6-panel-ruling-00002184">Federal judge rejects challenge to ‘weighty and urgent’ Jan. 6  committee</a> Politico: The California-based jurist also became the first to reject a Trump ally’s challenge to the panel’s structure. 
  <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Madison Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 07:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/house-china-bill-trade-title-00001366">House China bill includes aggressive trade provisions</a> Politico: The long-awaited bill tees up a flurry of corporate lobbying and intense negotiations with the Senate over final legislative language. 
  <p class="updated_time"> 07:13 PM CT, Jan. 25 </p> 
@@ -285,7 +285,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:06 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/desantis-biden-covid-treatments-00001729">DeSantis opens new battle with Biden over Covid treatments</a> Politico: The U.S. Food and Drug Administration on Monday cut Florida’s weekly allotment of monoclonal antibody cocktails. 
  <p class="updated_time"> 08:29 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War May Loom, but Are There Offramps?</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
@@ -320,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/ro-khanna-tech.html">Ro Khanna Wants to Save Silicon Valley From Itself</a> NYT: The Democratic congressman’s new book is a striking manifesto for an age of digital anxiety. 
  <p class="updated_time"> 05:30 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075434688/appeals-court-reinstates-drop-boxes-for-wisconsins-february-primary">Appeals court reinstates drop boxes for Wisconsin's February primary</a> NPR: The ruling temporarily blocks a judge's order that would have banned the use of absentee ballot drop boxes in the swing state. 
+ <p class="updated_time"> 05:20 PM CT, Jan. 24 </p> 
+ <a href="https://www.nytimes.com/2022/01/24/us/politics/russia-ukraine-us-troops.html">Pentagon Puts 8,500 Troops on ‘High Alert’ Amid Ukraine Tensions</a> NYT: The move signals a shift for the Biden administration as the United States and NATO allies brace for possible Russian military action. 
  <p class="updated_time"> 05:05 PM CT, Jan. 24 </p> 
  <a href="https://www.npr.org/2022/01/24/1075429352/special-grand-jury-fulton-county-da-trump-election-probe">A special grand jury has been granted in Fulton County's Trump investigation</a> NPR: The decision comes after Fulton District Attorney Fani Willis requested one. A special grand jury has subpoena power and the authority to obtain documents. It will begin on May 2. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
