@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
- <p class="updated_time"> 09:51 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 09:32 PM CT, Jan. 25 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:33 PM CT, Jan. 25 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Ruling Sparks Hopes for Democrats</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/eastman-jan-6-panel-ruling-00002184">Federal judge rejects challenge to ‘weighty and urgent’ Jan. 6  committee</a> Politico: The California-based jurist also became the first to reject a Trump ally’s challenge to the panel’s structure. 
  <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/ruy-teixeira-democrats.html">A Political Scientist Warns the Democratic Party Is Off Course </a> NYT: Ruy Teixeira was co-author of one of the most influential political books of the 21st century. Now, he says, Democrats are getting its lessons all wrong. 
  <p class="updated_time"> 05:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/robert-kennedy-anne-frank-remarks-00002055">RFK Jr. apologizes for widely condemned Anne Frank comment</a> Politico: "To the extent my remarks caused hurt, I am truly and deeply sorry," he said. 
- <p class="updated_time"> 05:48 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Ruling Sparks Hopes for Democrats</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 05:48 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/10-times-presidents-heated-exchanges-press-00001803">10 times presidents got testy with the press</a> Politico: President Joe Biden called Fox’s Peter Doocy “a stupid son of a …” on Monday, but that was hardly the only uncomfortable exchange between reporters and commanders in chief. 
  <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
