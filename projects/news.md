@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:53 AM CT, Jan. 26 </p> 
+ <p class="updated_time"> 06:14 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: Russia Dismisses U.S. Threat to Sanction Putin Personally as Bluster</a> NYT: The war of words between Washington and Moscow escalated as President Biden sought to deter the Russian leader from ordering an invasion of Ukraine. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/01/26/1075621526/satellite-images-show-the-aftermath-of-tonga-volcanos-eruption">Satellite images show the aftermath of Tonga volcano's eruption</a> NPR: The images show populated areas in the archipelago with heavily damaged or destroyed buildings and homes and at least one island covered with ash. 
  <p class="updated_time"> 05:30 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60138866?at_medium=RSS&at_campaign=KARANGA">China changes Fight Club film ending so the authorities win</a> BBC: In China, the final scene of the 1999 film says the subversive plot fails and the authorities win. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
  <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075357281/how-do-you-pronounce-kyiv">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
- <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075556977/ayesha-malik-pakistan-supreme-court">Meet Justice Ayesha Malik, Pakistan's first female Supreme Court judge</a> NPR: Malik was sworn in on Monday, shattering a glass ceiling in a country where only about 17% of judges are women. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
  <p class="updated_time"> 11:28 AM CT, Jan. 25 </p> 
