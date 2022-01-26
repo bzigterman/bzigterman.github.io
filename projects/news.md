@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:39 PM CT, Jan. 25 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:33 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Ruling Sparks Hopes for Democrats</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/unusual-origins-news-site-00001776">The unusual origins behind the splashiest, newest political news site</a> Politico: The website Grid has several ties to the United Arab Emirates. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
- <p class="updated_time"> 11:46 AM CT, Jan. 25 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:27 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe</a> Politico: Meanwhile, Russia accused the United States of “escalating tensions.” 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
