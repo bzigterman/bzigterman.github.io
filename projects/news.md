@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 02:26 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Coronavirus Outbreak Is Reported on Aid Ship Bound for Tonga</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 02:25 AM CT, Jan. 26 </p> 
@@ -149,14 +151,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60129268?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: 'We hope for the best for our families back home'</a> BBC: Tongans living in Fiji are collecting donations to support those impacted by the volcano and tsunami. 
  <p class="updated_time"> 06:34 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How Boris Johnson Could Lose His Job as U.K. Prime Minister: Latest Details</a> NYT: Parties while Britain was under Covid lockdown have pushed Mr. Johnson into two apologies and prompted a police investigation. Here’s a guide to how he could be forced out, or fight on. 
- <p class="updated_time"> 05:44 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-to-be-investigated-by-u-k-police-11643109832">Police Probe of Lockdown Parties Puts Boris Johnson on Defensive</a> WSJ: The announcement by police of an investigation into parties that took place in Downing Street raises pressure on the British prime minister, whose popularity has fallen sharply and who faces calls to resign. 
  <p class="updated_time"> 05:36 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/monoclonal-antibody-fda-covid.html">U.S. Officials Limit Anitbody Treatments That Don’t Work on Omicron</a> NYT: New and other treatments remain effective but are reaching doctors in quantities that are no match for the Omicron surge. 
  <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
- <p class="updated_time"> 03:03 AM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/inflation-supply-chain-omicron-expected-to-take-a-bigger-toll-on-global-growth-11643119381">Inflation, Supply Chain, Omicron Expected to Take a Bigger Toll on Global Growth</a> WSJ: The IMF scales back its 2022 outlook, with the U.S. getting the biggest downgrade of any major country. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">Sue Gray’s Report Could Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
@@ -199,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/world/americas/covid-19-education-unicef.html">Covid setbacks to schooling are ‘nearly insurmountable,’ the U.N. says.</a> NYT: Many millions of children have “significantly missed out” on the academic learning they would have acquired in the classroom, the United Nations Children’s Fund said in a new report. 
  <p class="updated_time"> 04:00 AM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/germany-vaccine-mandate-antivax-movement.html">Germany's Vaccine Mandate Forges Unlikely Coalition of Protestors</a> NYT: The prospect of a vaccine mandate has galvanized a nationwide protest movement attracting naturalists, neo-Nazis and ordinary citizens alike. 
- <p class="updated_time"> 08:27 PM CT, Jan. 23 </p> 
- <a href="https://www.nytimes.com/2022/01/23/us/politics/ukraine-us-embassy-russia.html">U.S. Orders Family Members of Embassy Staff to Leave Ukraine</a> NYT: The State Department warned that the United States would “not be in a position” to evacuate U.S. citizens should Russia invade. 
 
 
 </details>
