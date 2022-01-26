@@ -93,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-considers-potent-export-controls-against-russia-11643122300">U.S. Plans Sanctions, Export Controls Against Russia if It Invades Ukraine</a> WSJ: The Biden administration is working to mitigate market shocks if Russia withholds energy supplies in retaliation. 
  <p class="updated_time"> 12:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075558469/shark-bites-pandemic">Shark bites surged in 2021, rebounding from a drop earlier in the pandemic</a> NPR: Still, the Florida Museum of Natural History's International Shark Attack File says the high number of shark bites and deaths last year was on par with long-term averages. 
- <p class="updated_time"> 12:18 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/23/style/thierry-mugler-dead.html">Thierry Mugler, Genre-Busting French Fashion Designer, Dies at 73</a> NYT: The dominatrix-loving couturier turned sex into a style weapon. 
  <p class="updated_time"> 12:11 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075357281/how-do-you-pronounce-kyiv">Kyiv or Kiev? Why people disagree about how to pronounce the Ukrainian capital's name</a> NPR: What's the correct way to call a foreign city — by its English name, if it has one, or by its name in the local language? For the people involved, it can be a serious matter entwined with geopolitics. 
  <p class="updated_time"> 11:56 AM CT, Jan. 25 </p> 
