@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:04 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: US sends Moscow formal response over crisis</a> BBC: The secretary of state says he has offered Russia a serious diplomatic path but will help defend Ukraine. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-gray-report-lockdown-parties.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 12:53 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
@@ -55,8 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">U.K.’s Other Health Crisis: A Huge Backlog of Delayed Non-Covid Care</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 08:34 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
- <p class="updated_time"> 08:22 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60134295?at_medium=RSS&at_campaign=KARANGA">Ukraine: US could sanction Putin personally if Russia invades, Biden says</a> BBC: President Joe Biden says he would consider imposing personal sanctions on his Russian counterpart. 
+ <p class="updated_time"> 08:01 AM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
  <p class="updated_time"> 07:18 AM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/italian-executives-meet-with-putin-amid-tension-over-ukraine-11643215623">Italian Executives Meet With Putin Amid Tension Over Ukraine</a> WSJ: European companies seek to maintain ties with Russia as the West responds to Moscow’s moves in Eastern Europe. 
  <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
- <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
  <p class="updated_time"> 03:26 AM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/indian-opposition-figure-rahul-gandhi-says-his-twitter-following-was-restricted-11643207184">Indian Opposition Figure Says His Twitter Following Was Restricted</a> WSJ: Rahul Gandhi, one of India’s most prominent opposition politicians, has written to Twitter’s chief executive alleging he is the victim of a government campaign to limit his ability to attract followers on the platform. 
  <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60118675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Ukraine tensions</a> BBC: As US troops are placed on high alert, Ros Atkins looks at the causes behind the tension on Ukraine's border. 
  <p class="updated_time"> 12:53 PM CT, Jan. 24 </p> 
  <a href="https://www.nytimes.com/2022/01/24/world/europe/irish-police-investigate-mysterious-death-in-post-office.html">Irish Police Investigate Mysterious Death in Post Office</a> NYT: The police said a man was found dead in a post office where pensions were collected. Witnesses told the Irish media that two men had brought him there to collect his funds. 
- <p class="updated_time"> 12:08 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/world/europe/italy-president-election.html">Italians Vote for a President. Here’s Why It Matters.</a> NYT: The normally mundane ritual of electing a president every seven years has turned more fateful this year, with Italy’s political stability potentially hanging in the balance. 
 
 
 </details>
@@ -206,16 +206,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
+ <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/crypto-advocates-house-china-bill-ransomware-00002383">Crypto advocates blast House China bill for ransomware proposal</a> Politico: The bill includes language that would grant the Treasury secretary more authority to freeze or monitor financial accounts used for cross-border illegal activity. 
  <p class="updated_time"> 01:51 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/us-russia-ukraine-written-response-00002414">U.S. delivers written response to Russian demands amid Ukraine crisis</a> Politico: The written response was “fully coordinated” with Ukraine and European allies, Secretary of State Antony Blinken said. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
+ <p class="updated_time"> 01:14 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-nomination-biden-democrats.html">Democrats Can Seat a New Supreme Court Justice, Even if Republicans Unite in Opposition </a> NYT: Recent changes in Senate rules mean a nominee can be confirmed with a bare majority, but Democrats will have to hold their narrow ranks together. 
  <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/florida-collectibles-dealer-gaetz-probe-00002353">Florida collectibles dealer connected to Gaetz probe to plead guilty</a> Politico: A Florida collectibles dealer connected to the ongoing federal investigation into Rep. Matt Gaetz has agreed to plead guilty to conspiracy to commit fraud and drug charges. 
+ <p class="updated_time"> 01:08 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner – and perhaps – more aggressively after inflation reached the highest in nearly 40 years. 
+ <p class="updated_time"> 01:05 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase ‘Soon,’  Citing High Inflation and Strong Job Market</a> NYT: Markets expect the Fed to raise interest rates at their next meeting in March, and possibly four times this year, amid high inflation. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Decision Reasserts Voting Rights Act</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
- <p class="updated_time"> 12:25 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-nomination-biden-democrats.html">Democrats Can Seat a New Supreme Court Justice, Even if Republicans Unite in Opposition </a> NYT: Recent changes in Senate rules mean a nominee can be confirmed with a bare majority, but Democrats will have to hold their narrow ranks together. 
  <p class="updated_time"> 12:15 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Kristin Richardson Jordan, a Harlem councilwoman who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 12:00 PM CT, Jan. 26 </p> 
@@ -256,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075509175/flaws-plague-a-tool-meant-to-help-low-risk-federal-prisoners-win-early-release">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
  <p class="updated_time"> 02:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
- <p class="updated_time"> 10:33 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/alabama-redistricting-map-court.html">Alabama Redistricting Decision Reasserts Voting Rights Act</a> NYT: Three federal judges in Alabama ruled that a new congressional map drawn by G.O.P. state lawmakers violated the Voting Rights Act. 
  <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/eastman-jan-6-panel-ruling-00002184">Federal judge rejects challenge to ‘weighty and urgent’ Jan. 6  committee</a> Politico: The California-based jurist also became the first to reject a Trump ally’s challenge to the panel’s structure. 
  <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
@@ -276,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/robert-kennedy-anne-frank-remarks-00002055">RFK Jr. apologizes for widely condemned Anne Frank comment</a> Politico: "To the extent my remarks caused hurt, I am truly and deeply sorry," he said. 
  <p class="updated_time"> 05:48 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/10-times-presidents-heated-exchanges-press-00001803">10 times presidents got testy with the press</a> Politico: President Joe Biden called Fox’s Peter Doocy “a stupid son of a …” on Monday, but that was hardly the only uncomfortable exchange between reporters and commanders in chief. 
- <p class="updated_time"> 05:44 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/new-york-mask-mandate-court-ruling-00001864">New York successfully halts court ruling that ended indoor mask mandate</a> Politico: In a press conference shortly before the stay order, Gov. Kathy Hochul said “we disagree 100 percent” with the earlier ruling, and that “we believe this will be settled very shortly.” 
  <p class="updated_time"> 05:42 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/economy/chips-semiconductors-shortage.html">Commerce Dept. Survey Uncovers ‘Alarming’ Chip Shortages</a> NYT: Increased demand for the semiconductors that power cars, electronics and electrical grids have stoked inflation and could cause more factory shutdowns in the United States. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
@@ -286,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075623146/federal-court-says-alabamas-congressional-map-disadvantages-black-voters">Federal court says Alabama's congressional map disadvantages Black voters</a> NPR: Blocking the new congressional map from taking effect, a panel of judges says Alabama needs at least two, not one, congressional districts in which Black voters are the majority, or close to it. 
  <p class="updated_time"> 04:40 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html">Why Critics Fear the Fed's Policy Shift May Prove Late and Abrupt</a> NYT: The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough. 
- <p class="updated_time"> 04:25 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/brazen-cuellar-pro-00001991">Cuellar on FBI raid: I intend to win reelection, the investigation will clear me</a> Politico: The defiant statement from the conservative Democrat comes as progressive challenger Jessica Cisneros picks up some key endorsements. 
  <p class="updated_time"> 04:23 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075645745/testimony-begins-in-the-dueling-defamation-suits-over-roy-moore-molestation-clai">Testimony begins in the dueling defamation suits over Roy Moore molestation claims</a> NPR: The allegations overshadowed Moore's 2017 campaign as he fell in a stunning defeat to Doug Jones, the first Alabama Democrat elected to the Senate in 25 years. 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
@@ -322,16 +326,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html">Court Throws Out Alabama’s New Congressional Map</a> NYT: A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice. 
  <p class="updated_time"> 05:30 AM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation">The Great Resignation? More like The Great Renegotiation</a> NPR: "The Great Resignation" looks mostly like workers negotiating for a better deal. 
- <p class="updated_time"> 04:53 AM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075495603/anti-abortion-groups-fundraising-supreme-court">Anti-abortion groups are raking in fundraising as Supreme Court decision looms</a> NPR: Susan B. Anthony List secured $20 million in pledged financial contributions, five times more than it has had at the outset of an election year over its 30-year history, 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 04:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/crypto-mayors.html">The Rise of the Crypto Mayors</a> NYT: This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects. 
  <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
- <p class="updated_time"> 10:07 PM CT, Jan. 24 </p> 
- <a href="https://www.nytimes.com/2022/01/24/business/media/biden-peter-doocy-fox.html">Biden, Caught on Hot Mic, Has Harsh Words for Peter Doocy of Fox News</a> NYT: The president later called Peter Doocy and “cleared the air,” Mr. Doocy said. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
