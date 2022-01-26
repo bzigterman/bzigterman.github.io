@@ -210,8 +210,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/eastman-jan-6-panel-ruling-00002184">Federal judge rejects challenge to ‘weighty and urgent’ Jan. 6  committee</a> Politico: The California-based jurist also became the first to reject a Trump ally’s challenge to the panel’s structure. 
  <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Madison Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
+ <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 07:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/house-china-bill-trade-title-00001366">House China bill includes aggressive trade provisions</a> Politico: The long-awaited bill tees up a flurry of corporate lobbying and intense negotiations with the Senate over final legislative language. 
  <p class="updated_time"> 07:13 PM CT, Jan. 25 </p> 
