@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 PM CT, Jan. 26 </p> 
+ <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075793833/former-ukrainian-prime-minister-discusses-the-possibility-of-an-attack-from-russ">Former Ukrainian prime minister discusses the possibility of an attack from Russia</a> NPR: NPR's Mary Louise Kelly talks with former Ukrainian Prime Minister Arseniy Yatsenyuk about the threat of a Russian invasion. 
+ <p class="updated_time"> 03:49 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">Ukraine Live Updates: U.S. Answers Russian Demands, Offers ‘Diplomatic Path’</a> NYT: The response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881061/journalist-killings-in-mexico-raise-concerns-among-colleagues">Journalist killings in Mexico raise concerns among colleagues</a> NPR: Three journalist have been killed in Mexico this year, two of them occurring in Tijuana. NPR's Asma Khalid talks with 'Tijuana Press' editor Vicente Calderón about the city's pattern of violence. 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/25/1075624799/2-recent-incidents-have-put-a-spotlight-on-brazils-relationship-with-race">2 recent incidents have put a spotlight on Brazil's relationship with race</a> NPR: An American music producer was attacked as he waited to check in to a hotel in Rio de Janeiro. He is Black, the attackers are white. It is another example of Brazil's fraught relationship with race. 
  <p class="updated_time"> 03:47 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624785/how-the-ukraine-crisis-could-reset-the-global-balance-of-power">How the Ukraine crisis could reset the global balance of power</a> NPR: NPR's Ari Shapiro speaks with Gideon Rachman of 'The Financial Times' about how China and Russia could leverage the Ukraine crisis to reduce U.S. influence around the world and reset the world order. 
- <p class="updated_time"> 03:37 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624771/mexico-has-become-a-world-leader-of-gender-equality-in-politics">Mexico has become a world leader of gender equality in politics</a> NPR: In Mexico, half of Congress is now female and seven of the country's 32 governors are women. This is partly due to changing attitudes but also to federally mandated gender equality laws. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
  <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
