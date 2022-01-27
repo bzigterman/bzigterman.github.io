@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:16 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 08:31 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near the island of South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
+ <p class="updated_time"> 08:26 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 08:14 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
- <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
  <p class="updated_time"> 07:18 PM CT, Jan. 26 </p> 
@@ -186,6 +186,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:56 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/u-s-economy-grew-2021-2020-recession-00002678">U.S. economy grew 5.7 percent in 2021 in rebound from 2020 recession</a> Politico: It was the strongest calendar-year growth since a 7.2 percent surge in 1984 after a previous recession. 
+ <p class="updated_time"> 08:55 AM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/russia-conflict-us-written-response-00002668">‘Little ground for optimism’: Kremlin says U.S. document doesn’t meet Russian security demands</a> Politico: The paper “contains no positive response on the main issue,” said Russian Foreign Minister Sergey Lavrov. 
+ <p class="updated_time"> 08:28 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
  <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
@@ -197,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Electoral Count Act group breathing room</a> Politico: The majority leader isn't crushing the group of 16 members working to alter the Electoral Count Act, despite prior statements that it was “unacceptably insufficient" compared to needed voting reforms. 
+ <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the group of 16 members working to alter the Electoral Count Act, despite prior statements that it was “unacceptably insufficient" compared to needed voting reforms. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 07:12 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer to Retire From Supreme Court</a> NYT: The decision gives President Biden a window to fulfill a campaign pledge to nominate a Black woman to the court. 
- <p class="updated_time"> 07:07 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
