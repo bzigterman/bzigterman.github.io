@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:43 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
+ <p class="updated_time"> 06:53 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 06:43 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
+ <p class="updated_time"> 06:41 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed</a> BBC: Germany and the US threaten the future of the Nord Stream 2 gas pipeline if Russia invades Ukraine. 
  <p class="updated_time"> 06:22 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: Kurdish-led forces said that up to 90 ISIS fighters were still holed up in the prison in Hasaka in northeastern Syria, despite earlier claims that they had retaken full control of the complex. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
@@ -29,14 +33,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 04:41 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
- <p class="updated_time"> 04:37 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: Russia says the response does not address its concerns about Nato, but "gives hope" over other issues. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
@@ -47,20 +49,26 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60150733?at_medium=RSS&at_campaign=KARANGA">Fukushima youth sue after developing cancer</a> BBC: The plaintiffs, aged between six and 16 at the time of the disaster, argue they got cancer from radiation. 
  <p class="updated_time"> 01:42 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
+ <p class="updated_time"> 01:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-bulked-up-military-is-still-outgunned-by-russia-11643286624">Ukraine's Bulked-Up Military Is Still Outgunned by Russia</a> WSJ: Eight years after Russia seized Ukraine’s Crimean peninsula and fomented war in the country’s east, Kyiv’s once-feeble military is bigger and better armed. 
+ <p class="updated_time"> 01:28 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/beijing-steps-up-covid-19-control-measures-ahead-of-lunar-new-year-winter-olympics-11643286485">Beijing Steps Up Covid-19 Control Measures Ahead of Lunar New Year, Winter Olympics</a> WSJ: Chinese health authorities are ramping up testing and tightening containment protocols in Beijing as the capital prepares for two major events set to unfold in the coming days. 
+ <p class="updated_time"> 01:25 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-dials-back-one-of-worlds-longest-covid-19-quarantines-11643286301">Hong Kong Dials Back Lengthy Covid-19 Quarantine</a> WSJ: Arriving travelers will spend two weeks instead of three in isolation from Feb. 5, shortening stays that have been criticized by business groups. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140561?at_medium=RSS&at_campaign=KARANGA">Lithuania-China row: EU escalates trade dispute with Beijing</a> BBC: Brussels says China is acting illegally in a dispute with Lithuania, one of the EU's smallest states. 
+ <p class="updated_time"> 12:05 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/eu-takes-china-to-wto-over-lithuania-trade-restrictions-11643271938">EU Hits Back at China Over Trade Limits, Taking Lithuania Fight Global</a> WSJ: The dispute has opened a new front in the global battle over Beijing’s use of economic pressure to advance political objectives. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/sensing-opportunity-in-syria-u-a-e-leads-arab-efforts-to-do-business-with-assad-11643279401">U.A.E. Leads Arab Efforts to Do Business With Syria</a> WSJ: Commercial ties are multiplying a decade after the onset of Syria’s civil war, as business leaders bet that Bashar al-Assad is there to stay. 
  <p class="updated_time"> 11:18 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60150542?at_medium=RSS&at_campaign=KARANGA">Australia scientists find 'spooky' spinning object in Milky Way</a> BBC: Australian scientists say the spinning object is unlike anything astronomers have seen before. 
- <p class="updated_time"> 11:09 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Fires Short-Range Missiles in Sixth Weapons Test of New Year</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile launches. 
  <p class="updated_time"> 11:04 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
- <p class="updated_time"> 09:22 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
  <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -105,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075793833/former-ukrainian-prime-minister-discusses-the-possibility-of-an-attack-from-russ">Former Ukrainian prime minister discusses the possibility of an attack from Russia</a> NPR: NPR's Mary Louise Kelly talks with former Ukrainian Prime Minister Arseniy Yatsenyuk about the threat of a Russian invasion. 
- <p class="updated_time"> 03:43 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/indian-opposition-figure-rahul-gandhi-says-his-twitter-following-was-restricted-11643207184">India's Gandhi Says His Twitter Following Was Squashed by Modi Government</a> WSJ: Rahul Gandhi, one of India’s most prominent opposition politicians, has written to Twitter’s chief executive alleging he is the victim of a government campaign to limit his ability to attract followers on the platform. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881061/journalist-killings-in-mexico-raise-concerns-among-colleagues">Journalist killings in Mexico raise concerns among colleagues</a> NPR: Three journalist have been killed in Mexico this year, two of them occurring in Tijuana. NPR's Asma Khalid talks with 'Tijuana Press' editor Vicente Calderón about the city's pattern of violence. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
@@ -131,26 +137,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 10:08 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/prince-andrew-demands-jury-trial-in-sex-abuse-suit-11643231288">Prince Andrew Demands Jury Trial in Sex-Abuse Suit</a> WSJ: The British royal formally denied allegations that he sexually assaulted Jeffrey Epstein accuser Virginia Giuffre when she was a teen. 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 09:28 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">U.K.’s Other Health Crisis: A Huge Backlog of Delayed Non-Covid Care</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
- <p class="updated_time"> 08:01 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
- <p class="updated_time"> 07:18 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/italian-executives-meet-with-putin-amid-tension-over-ukraine-11643215623">Italian Executives Meet With Putin Amid Tension Over Ukraine</a> WSJ: European companies seek to maintain ties with Russia as the West responds to Moscow’s moves in Eastern Europe. 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/26/1075621526/satellite-images-show-the-aftermath-of-tonga-volcanos-eruption">Satellite images show the aftermath of Tonga volcano's eruption</a> NPR: The images show populated areas in the archipelago with heavily damaged or destroyed buildings and homes and at least one island covered with ash. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
- <p class="updated_time"> 04:44 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
  <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
@@ -161,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
- <p class="updated_time"> 11:45 PM CT, Jan. 25 </p> 
- <a href="https://www.wsj.com/articles/russias-attempts-to-sanction-proof-its-economy-have-exposed-a-weak-spot-11643193911">Russia's Attempts to Sanction-Proof Economy Have Exposed Weak Spot</a> WSJ: A raft of hard-hitting measures in case of a renewed Russian incursion into Ukraine could test Moscow’s efforts to insulate itself from sanctions and cause broad economic pain. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
@@ -205,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
