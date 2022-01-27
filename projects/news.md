@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:10 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 03:24 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
+ <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 03:01 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 02:56 PM CT, Jan. 27 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134761/international-holocaust-remembrance-day-2022">On International Holocaust Remembrance Day, revisit NPR's stories from survivors</a> NPR: The annual day of commemoration comes admist a rise in antisemitic incidents and Holocaust denialism in the U.S. and other parts of the world. 
- <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 11:49 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134150/eu-nato-ukraine-russia-updates">The U.S. and NATO stress unity on Ukraine as EU leaders worry about divisions</a> NPR: European leaders are working their own diplomatic avenues to end the tensions and worry that talk of a Russian invasion of Ukraine could be deepening divisions among them. 
  <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
- <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
@@ -200,10 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/austin-orders-more-focus-on-limiting-civilian-casualties-00002971">Austin orders more focus on limiting civilian casualties</a> Politico: Defense Secretary Lloyd Austin said in a memo to senior civilian and military officials that he wants the plan to reach his office within 90 days. 
+ <p class="updated_time"> 03:25 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076181431/senate-confirmation-battle-looms-for-justice-breyers-replacement">Senate confirmation battle looms for Justice Breyer's replacement</a> NPR: The eventual nominee to replace Supreme Court Justice Stephen Breyer will need to face the Senate Judiciary Committee in order to be confirmed. Host Asma Khalid talks with Senator Sheldon Whitehouse, a Rhode Island Democrat on the committee, about what comes next. 
+ <p class="updated_time"> 03:24 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:16 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/fannie-mae-pushes-for-flood-risk-disclosure-standard-00002019">Fannie Mae urges new flood disclosures for homebuyers</a> Politico: The mortgage giant said potentially relevant disclosure could cover “a property’s current flood zone designation, past property flooding events, and current flood insurance coverage on the home.” 
- <p class="updated_time"> 03:10 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
