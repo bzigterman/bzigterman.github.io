@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076166457/coast-guard-florida-search-ending-bodies">Coast Guard finds 4 more bodies off Florida coast but will call off search</a> NPR: Authorities have found a total of five bodies, leaving 34 missing. The Coast Guard says it will call off its active search for survivors at sunset Thursday if it doesn't receive any new information. 
  <p class="updated_time"> 01:22 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 01:13 PM CT, Jan. 27 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
- <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075793833/former-ukrainian-prime-minister-discusses-the-possibility-of-an-attack-from-russ">Former Ukrainian prime minister discusses the possibility of an attack from Russia</a> NPR: NPR's Mary Louise Kelly talks with former Ukrainian Prime Minister Arseniy Yatsenyuk about the threat of a Russian invasion. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
