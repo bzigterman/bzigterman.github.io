@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
+ <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60140561?at_medium=RSS&at_campaign=KARANGA">Lithuania-China row: EU escalates trade dispute with Beijing</a> BBC: Brussels says China is acting illegally in a dispute with Lithuania, one of the EU's smallest states. 
  <p class="updated_time"> 11:04 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 10:28 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell, in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
  <p class="updated_time"> 08:57 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
- <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075710006/russia-named-jailed-opposition-leader-alexei-navalny-terrorist">Russia has officially named jailed opposition leader Alexei Navalny a terrorist</a> NPR: Navalny and eight of his allies — including top aides Lyubov Sobol and Georgy Alburov — were on Tuesday added to the registry by Russia's Federal Financial Monitoring Service. 
  <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
  <p class="updated_time"> 11:45 PM CT, Jan. 25 </p> 
