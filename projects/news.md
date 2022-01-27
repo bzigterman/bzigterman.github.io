@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Conservatives unlikely to go scorched earth over Breyer replacement fight</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
+ <p class="updated_time"> 09:14 PM CT, Jan. 26 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/house-moderates-00002253">House moderates inch toward extinction</a> Politico: The number of House centrists is likely to shrink even more after November. 
  <p class="updated_time"> 09:21 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/democrats-biden-memo-student-debt-cancellation-00002193">Dozens of Democrats demand Biden release legal memo on student debt cancellation</a> Politico: Warren, Schumer and other top progressives want answers on what Education Department lawyers think about erasing large swaths of student debt. 
- <p class="updated_time"> 08:21 AM CT, Jan. 26 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
