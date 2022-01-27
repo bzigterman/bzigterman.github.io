@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:30 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 05:39 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
+ <p class="updated_time"> 05:35 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 04:57 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">U.K.’s Other Health Crisis: A Huge Backlog of Delayed Non-Covid Care</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
- <p class="updated_time"> 08:34 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html">Australian Aid Ship Docks in Tonga With a Covid Outbreak</a> NYT: Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic. 
  <p class="updated_time"> 08:01 AM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
  <p class="updated_time"> 07:18 AM CT, Jan. 26 </p> 
