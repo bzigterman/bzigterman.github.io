@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <p class="updated_time"> 02:36 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-dials-back-one-of-worlds-longest-covid-19-quarantines-11643286301">Hong Kong Dials Back Lengthy Covid-19 Quarantine</a> WSJ: Arriving travelers will spend two weeks instead of three in isolation from Feb. 5, shortening stays that have been criticized by business groups. 
  <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ukraines-bulked-up-military-is-still-outgunned-by-russia-11643286624">Ukraine's Bulked-Up Military Is Still Outgunned by Russia</a> WSJ: Eight years after Russia seized Ukraine’s Crimean peninsula and fomented war in the country’s east, Kyiv’s once-feeble military is bigger and better armed. 
  <p class="updated_time"> 01:28 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/beijing-steps-up-covid-19-control-measures-ahead-of-lunar-new-year-winter-olympics-11643286485">Beijing Steps Up Covid-19 Control Measures Ahead of Lunar New Year, Winter Olympics</a> WSJ: Chinese health authorities are ramping up testing and tightening containment protocols in Beijing as the capital prepares for two major events set to unfold in the coming days. 
- <p class="updated_time"> 01:25 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-dials-back-one-of-worlds-longest-covid-19-quarantines-11643286301">Hong Kong Dials Back Lengthy Covid-19 Quarantine</a> WSJ: Arriving travelers will spend two weeks instead of three in isolation from Feb. 5, shortening stays that have been criticized by business groups. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
