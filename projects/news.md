@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 01:13 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076140207/idaho-man-says-he-completed-his-goal-of-breaking-52-world-records-in-a-single-ye">Idaho man says he completed his goal of breaking 52 world records in a single year</a> NPR: Author and speaker David Rush so far earned 43 official Guinness World Records in 2021, including fastest time to arrange a chess set and most juggling catches while on a balance board, blindfolded. 
  <p class="updated_time"> 01:09 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 01:08 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
- <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 01:02 PM CT, Jan. 27 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/business/neil-young-spotify-remove-music.html">Neil Young posts and removes a letter demanding Spotify remove his music.</a> NYT: “They can have Rogan or Young,” Neil Young wrote to his management team and record label in a letter that he has since removed from his website, according to Rolling Stone. “Not both.” 
  <p class="updated_time"> 03:54 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075793833/former-ukrainian-prime-minister-discusses-the-possibility-of-an-attack-from-russ">Former Ukrainian prime minister discusses the possibility of an attack from Russia</a> NPR: NPR's Mary Louise Kelly talks with former Ukrainian Prime Minister Arseniy Yatsenyuk about the threat of a Russian invasion. 
- <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881061/journalist-killings-in-mexico-raise-concerns-among-colleagues">Journalist killings in Mexico raise concerns among colleagues</a> NPR: Three journalist have been killed in Mexico this year, two of them occurring in Tijuana. NPR's Asma Khalid talks with 'Tijuana Press' editor Vicente Calderón about the city's pattern of violence. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
@@ -302,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-supreme-court-black-woman.html">Biden Promised to Put a Black Woman on the Supreme Court</a> NYT: Biden, then a candidate with a struggling campaign for the Democratic nomination, made the promise ahead of his party’s primary in South Carolina. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
- <p class="updated_time"> 01:21 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/ketanji-brown-jackson-supreme-court.html">Who Is Judge Ketanji Brown Jackson? A Leading Candidate to Succeed Justice Breyer</a> NYT: Judge Jackson, 51, already successfully went through the Senate confirmation process last year. 
  <p class="updated_time"> 01:16 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075827266/us-russia-ukraine-tension-latest-blinken">The U.S. says it will stand firm against major Russian demands as tension rises</a> NPR: Among the demands from Russia was a guarantee that Ukraine be permanently barred from NATO membership. That would violate a U.S. "core principle," Secretary of State Antony Blinken said Wednesday. 
  <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
