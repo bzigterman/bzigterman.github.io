@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:18 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
+ <p class="updated_time"> 11:37 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
- <p class="updated_time"> 11:18 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The man was a young national guard soldier who opened fire “for undetermined reasons,” the authorities said, at an aerospace and rocket facility that has been a focus of weapons proliferation concerns. 
+ <p class="updated_time"> 11:32 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076129133/ash-barty-australian-open">Ash Barty breaks a 42-year drought by reaching the Australian Open final</a> NPR: She'll be the the first Australian woman to reach the final of her home major tournament in more than four decades. 
+ <p class="updated_time"> 11:32 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia battling the extremists said up to 90 ISIS fighters remained in the prison in Hasaka, despite earlier claims that it had regained full control of the complex. 
+ <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
+ <p class="updated_time"> 11:21 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
+ <p class="updated_time"> 11:21 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 10:47 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F35-C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets the Abyss." 
  <p class="updated_time"> 10:44 AM CT, Jan. 27 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
- <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia battling the extremists said up to 90 ISIS fighters remained in the prison in Hasaka, despite earlier claims that it had regained full control of the complex. 
  <p class="updated_time"> 09:40 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
  <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
@@ -103,6 +111,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
+ <p class="updated_time"> 05:33 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-china-competitiveness-bill.html">Democrats Renew Push for Industrial Policy Bill Aimed at China</a> NYT: A major competitiveness bill passed the Senate last year with bipartisan support, only to stall. Democrats hope to revive it in the House, but first they will have to bridge big differences. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
@@ -149,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
  <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
- <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/01/26/1075621526/satellite-images-show-the-aftermath-of-tonga-volcanos-eruption">Satellite images show the aftermath of Tonga volcano's eruption</a> NPR: The images show populated areas in the archipelago with heavily damaged or destroyed buildings and homes and at least one island covered with ash. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -189,7 +197,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
  <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer is expected to formally announce his retirement Thursday</a> NPR: Supreme Court Justice Stephen Breyer and President Biden are speaking at the White House Thursday. His retirement gives Biden his first opportunity to nominate a justice to the court. 
+ <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer has formally announced his retirement</a> NPR: Supreme Court Justice Stephen Breyer and President Biden are speaking at the White House Thursday. His retirement gives Biden his first opportunity to nominate a justice to the court. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 09:39 AM CT, Jan. 27 </p> 
@@ -225,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
+ <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
