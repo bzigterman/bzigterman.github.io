@@ -7,10 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:29 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: A flurry of missile activity has raised tensions in the region at a sensitive time. 
+ <p class="updated_time"> 06:22 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075926933/russia-ukraine-united-states">Americans should back Ukraine's fight against Russia, former wartime leader says</a> NPR: Ukraine's former prime minister Arseniy Yatsenyuk says the military is stronger than it was the last time Russia invaded in 2014. But he still thinks the U.S. should help should Russia make advances. 
+ <p class="updated_time"> 06:16 PM CT, Jan. 26 </p> 
+ <a href="https://www.npr.org/2022/01/26/1075966557/prince-andrew-again-seeks-dismissal-of-sexual-abuse-suit-demands-a-trial-if-its-">Prince Andrew again seeks dismissal of sexual abuse suit, demands a trial if it's not</a> NPR: Among Andrew's grounds for dismissal is that if any sexual activity did occur between the prince and Virginia Giuffre, it was consensual. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
+ <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
+ <p class="updated_time"> 05:56 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 05:48 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to ban Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
  <p class="updated_time"> 05:36 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
@@ -19,14 +33,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/26/world/syria-prison-isis">Kurdish-Led Militia Claims to Retake Prison Stormed by ISIS</a> NYT: The Syrian Democratic Forces said they had regained control of a prison in the northeastern Syrian city of Hasaka days after it was attacked by Islamic State fighters. 
  <p class="updated_time"> 04:56 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
- <p class="updated_time"> 04:48 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html">Man Faces Weapons Charge in Texas Synagogue Standoff</a> NYT: The announcement came hours after two men had been arrested in Britain as part of an investigation by counterterrorism officers in which several people have been questioned. 
  <p class="updated_time"> 04:36 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075916066/a-texas-man-is-accused-of-selling-gun-used-to-take-synagogue-hostages">A Texas man is accused of selling gun used to take synagogue hostages</a> NPR: Earlier Wednesday, British police said they arrested two more men in Manchester related to the hostage-taking incident. 
- <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
  <p class="updated_time"> 04:13 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/mexico-journalists-killings.html">Killing Spree Spurs Outrage Among Journalists in Mexico</a> NYT: The killing of three media workers in less than a month triggered protests in cities across the county this week demanding an end to the violence. 
  <p class="updated_time"> 04:04 PM CT, Jan. 26 </p> 
@@ -49,12 +59,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the moon where it will explode. 
- <p class="updated_time"> 01:58 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 01:17 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60141195?at_medium=RSS&at_campaign=KARANGA">Who is Burkina Faso coup leader Lt-Col Damiba?</a> BBC: Lt-Col Damiba took power in Burkina Faso just three weeks after his 41st birthday - what else do we know? 
  <p class="updated_time"> 01:12 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
+ <p class="updated_time"> 12:57 PM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Conducts Suspected Weapons Test</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile tests. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:44 PM CT, Jan. 26 </p> 
@@ -121,14 +133,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 03:27 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075720551/jakarta-indonesia-sinking-into-java-sea-new-capital">Indonesia's capital is rapidly sinking into the sea</a> NPR: Now the government is leaving, and moving the country's capital to the island of Borneo. 
- <p class="updated_time"> 03:26 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/indian-opposition-figure-rahul-gandhi-says-his-twitter-following-was-restricted-11643207184">Indian Opposition Figure Says His Twitter Following Was Restricted</a> WSJ: Rahul Gandhi, one of India’s most prominent opposition politicians, has written to Twitter’s chief executive alleging he is the victim of a government campaign to limit his ability to attract followers on the platform. 
  <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
- <p class="updated_time"> 01:32 AM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347">Tonga Needs Rain and More Brooms After Volcano Eruption Spewed Ash</a> WSJ: On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health. 
  <p class="updated_time"> 01:17 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075712845/a-town-in-mexico-survives-entirely-on-money-sent-back-by-u-s-migrants">A town in Mexico survives entirely on money sent back by U.S. migrants</a> NPR: The money has allowed their families to remain in Comachuen, a town in the Michoacan mountains rather than moving to other parts of Mexico for work. 
  <p class="updated_time"> 12:34 AM CT, Jan. 26 </p> 
@@ -163,14 +171,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
  <p class="updated_time"> 04:22 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075624855/remembering-trailblazing-fashion-designer-thierry-mugler-dead-at-73">Remembering trailblazing fashion designer Thierry Mugler, dead at 73</a> NPR: French fashion designer Thierry Mugler reshaped the fashion world, centering wildly inventive concepts and creating space for queer voices. On Sunday, he died at the age of 73. 
- <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624827/american-troops-battle-isis-for-control-of-syrian-prison">American troops battle ISIS for control of Syrian prison</a> NPR: American forces are fighting the Islamic State for control of a prison in northeastern Syria, in the most substantial military engagement with ISIS since it lost the last of its territory in 2019. 
- <p class="updated_time"> 04:02 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075624806/if-russia-doesnt-invade-ukraine-with-troops-it-could-still-launch-a-cyberattack">If Russia doesn't invade Ukraine with troops, it could still launch a cyberattack</a> NPR: With U.S. troops on heightened alert and NATO forces on standby, fears of a Russian invasion of Ukraine remain. But even if Putin doesn't send troops in, he could still launch a crippling cyberattack. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
- <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 11:52 AM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-18023383?at_medium=RSS&at_campaign=KARANGA">Ukraine: What is Nato and why doesn't Russia trust it?</a> BBC: Nato countries are trying to help Ukraine in the face of a possible Russian invasion. 
  <p class="updated_time"> 11:23 AM CT, Jan. 25 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/24/us/politics/us-russia-ukraine-war.html">War Looms Between Russia and Ukraine, but Diplomatic Options Remain</a> NYT: Fears of a Russian invasion of Ukraine are growing, but diplomatic options remain. 
  <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
- <p class="updated_time"> 03:46 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/australia/scott-morrison-wechat-account.html">How Scott Morrison Lost Control of His WeChat Account</a> NYT: A Chinese electronics company said it had bought the WeChat account legitimately, but some Australian officials said it was hijacked, and urged a boycott. 
  <p class="updated_time"> 02:00 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-sue-gray-report.html">Sue Gray’s Report Could Determine Boris Johnson’s Fate</a> NYT: Sue Gray, who oversees the British government’s ethics inquiries, will deliver a report on Downing Street parties that could topple the prime minister. 
  <p class="updated_time"> 11:22 PM CT, Jan. 24 </p> 
@@ -200,8 +200,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:24 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/breyers-retirement-gives-democrats-a-dose-of-cautious-optimism.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
+ <p class="updated_time"> 06:22 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
+ <p class="updated_time"> 06:21 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/stewart-rhodes-oath-keepers.html">Stewart Rhodes, Oath Keepers Leader, Is Denied Bail on Sedition Charge</a> NYT: A federal judge said Mr. Rhodes, who was charged in connection with the Jan. 6 attack on the Capitol, was a flight risk partly because of “elaborate escape tunnels” in his backyard. 
  <p class="updated_time"> 06:18 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/texas-gun-hostages-charge-00002590">Feds accuse Texas man of selling gun used to take hostages</a> Politico: Also, British police said they arrested another two men in the investigation into the hostage-taking incident at a Texas synagogue. 
+ <p class="updated_time"> 06:18 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer to Retire From Supreme Court</a> NYT: The decision gives President Biden a window to fulfill a campaign pledge to nominate a Black woman to the court. 
+ <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/tucker-carlson-russia-ukraine.html">Biden Gets to Name a New Supreme Court Justice</a> NYT: Plus, Tucker Carlson assures us that he’s “not an agent of Russia.” 
+ <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/austin-fast-tracks-hypersonic-missiles-as-china-russia-make-gains-00002584">Austin pushes to fast-track hypersonic missiles as China, Russia make gains</a> Politico: A planned meeting with CEOs is a “‘no kidding, we're getting our butts kicked by China and we need to do better’ kind of meeting,” one person said. 
  <p class="updated_time"> 05:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 05:38 PM CT, Jan. 26 </p> 
@@ -214,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
  <p class="updated_time"> 05:00 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
- <p class="updated_time"> 04:48 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/climate/epa-environmental-justice-regan.html">E.P.A. Chief Vows to ‘Do Better’ to Protect Poor Communities</a> NYT: The Environmental Protection Agency on Wednesday will announce stepped-up enforcement and monitoring to help disadvantaged communities struggling with polluted air and water. 
  <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
@@ -240,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-supreme-court.html">Which Republicans Might Support a Biden Nominee for the Supreme Court? Few, if any.</a> NYT: Many Senate Republicans have, as a matter of course, opposed Mr. Biden’s nominees for seats on the lower federal courts. 
  <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
- <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer Retires From Supreme Court</a> NYT: He pledged during the 2020 campaign to nominate a Black woman to the court. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
@@ -300,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
  <p class="updated_time"> 02:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/melania-trump-auction-hat-cryptocurrency.html">Melania Trump’s Auction of Hat Hit by Plunge in Cryptocurrency</a> NYT: The former first lady is selling a hat she wore for a visit by the French president amid volatility in the value of the digital currency being used for the auction. 
- <p class="updated_time"> 10:07 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/eastman-jan-6-panel-ruling-00002184">Federal judge rejects challenge to ‘weighty and urgent’ Jan. 6  committee</a> Politico: The California-based jurist also became the first to reject a Trump ally’s challenge to the panel’s structure. 
  <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 07:58 PM CT, Jan. 25 </p> 
