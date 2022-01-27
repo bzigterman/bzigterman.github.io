@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-soldiers-shooting.html">Ukraine Soldier Kills 5 People at Military Factory</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 02:21 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60150733?at_medium=RSS&at_campaign=KARANGA">Fukushima youth sue after developing cancer</a> BBC: The plaintiffs, aged between six and 16 at the time of the disaster, argue they got cancer from radiation. 
  <p class="updated_time"> 01:42 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
- <p class="updated_time"> 01:31 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-soldiers-shooting.html">Ukraine Soldier Kills 5 Fellow Soldiers at Military Factory</a> NYT: A national guard soldier opened fire at a missile and rocket factory in the eastern part of the country “for undetermined reasons,” the police said. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
