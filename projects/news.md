@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:39 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 11:18 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 11:18 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The man was a young national guard soldier who opened fire “for undetermined reasons,” the authorities said, at an aerospace and rocket facility that has been a focus of weapons proliferation concerns. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F35-C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets the Abyss." 
+ <p class="updated_time"> 10:44 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60156212?at_medium=RSS&at_campaign=KARANGA">Holocaust Memorial Day: Israeli politician ends Bundestag prayer in tears</a> BBC: Michael Levy wept as he recited a prayer for the dead in Germany's parliament on Holocaust Memorial Day. 
  <p class="updated_time"> 10:32 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:24 AM CT, Jan. 27 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60157537?at_medium=RSS&at_campaign=KARANGA">Storm Ana kills dozens in Malawi, Madagascar and Mozambique</a> BBC: Some 100,000 people have lost their homes in Madagascar, while parts of Malawi are disaster zones. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
- <p class="updated_time"> 07:26 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
  <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/beijing-steps-up-covid-19-control-measures-ahead-of-lunar-new-year-winter-olympics-11643286485">Beijing Steps Up Covid-19 Control Measures Ahead of Lunar New Year, Winter Olympics</a> WSJ: Chinese health authorities are ramping up testing and tightening containment protocols in Beijing as the capital prepares for two major events set to unfold in the coming days. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
- <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60140561?at_medium=RSS&at_campaign=KARANGA">Lithuania-China row: EU escalates trade dispute with Beijing</a> BBC: Brussels says China is acting illegally in a dispute with Lithuania, one of the EU's smallest states. 
  <p class="updated_time"> 12:05 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/eu-takes-china-to-wto-over-lithuania-trade-restrictions-11643271938">EU Hits Back at China Over Trade Limits, Taking Lithuania Fight Global</a> WSJ: The dispute has opened a new front in the global battle over Beijing’s use of economic pressure to advance political objectives. 
  <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
- <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
@@ -188,12 +188,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/government-watchdog-hhs-pandemic-response-00002732">Government watchdog says HHS at 'high risk' of bungling public health crises</a> Politico: The deficiencies include failures to outline roles and responsibilities for other entities involved in a response. 
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
+ <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer is expected to formally announce his retirement Thursday</a> NPR: Supreme Court Justice Stephen Breyer and President Biden are speaking at the White House Thursday. His retirement gives Biden his first opportunity to nominate a justice to the court. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-woman-black.html">Biden Not First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 09:39 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
- <p class="updated_time"> 09:38 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/stephen-breyer-retire-supreme-court.html">Stephen Breyer to Retire From Supreme Court</a> NYT: The decision gives President Biden a window to fulfill a campaign pledge to nominate a Black woman to the court. 
  <p class="updated_time"> 09:19 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
  <p class="updated_time"> 08:56 AM CT, Jan. 27 </p> 
@@ -318,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
- <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
- <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
