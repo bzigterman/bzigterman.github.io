@@ -11,6 +11,7 @@ library(rvest)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
+recent_year <- ymd((today() - years(1)))
 recent_years <- ymd((today() - years(5)))
 less_recent_years <- ymd((today() - years(6)))
 past_ten_years <- ymd((today() - years(11)))
@@ -20,7 +21,7 @@ past_ten_years <- ymd((today() - years(11)))
 ## initial unemployment claims ----
 data <- fredr(series_id = "ICSA")
 recent_data <- data %>%
-  filter(date > recent_years) %>%
+  filter(date > recent_year) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = TRUE),
                             day(date)))
 
