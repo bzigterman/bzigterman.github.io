@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:47 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 03:38 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-soldiers-shooting.html">Ukraine Soldier Kills 5 People at Military Factory</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 02:21 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
