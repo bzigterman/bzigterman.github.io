@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Conservatives unlikely to go scorched earth over Breyer replacement fight</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
