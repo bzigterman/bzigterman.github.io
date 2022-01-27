@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/judge-limits-testimony-at-trial-professor-accused-hiding-chinese-ties-00003013">Judge limits testimony at trial of professor accused of hiding Chinese ties</a> Politico: Allowing talk of China's quest for U.S. technology could feed 'Sinophobia,' court rules. 
+ <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 04:23 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side from the Roosevelt Room, Mr. Biden hailed his three decades on the federal bench, including almost 28 years on the Supreme Court. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/austin-orders-more-focus-on-limiting-civilian-casualties-00002971">Austin orders more focus on limiting civilian casualties</a> Politico: Defense Secretary Lloyd Austin said in a memo to senior civilian and military officials that he wants the plan to reach his office within 90 days. 
- <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:42 PM CT, Jan. 27 </p> 
