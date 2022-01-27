@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <p class="updated_time"> 03:40 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
  <p class="updated_time"> 02:30 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/hundreds-of-women-executed-as-witches-pardoned-in-catalonia-11643290230">Hundreds of Women Executed as Witches Pardoned in Catalonia</a> WSJ: The Spanish region’s parliament has passed a resolution to pardon hundreds of women who were tortured and executed as witches between the 15th and 18th centuries. 
  <p class="updated_time"> 02:27 AM CT, Jan. 27 </p> 
