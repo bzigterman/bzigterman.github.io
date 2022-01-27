@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60163804?at_medium=RSS&at_campaign=KARANGA">Aldo Moro: Note announcing murdered Italy PM's abduction sold at auction</a> BBC: The note, which sold for €26,000, announced Aldo Moro's abduction by communist insurgents in 1978. 
  <p class="updated_time"> 03:29 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 03:24 PM CT, Jan. 27 </p> 
@@ -91,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-ukraine-meet-in-paris-to-discuss-possible-off-ramp-to-crisis-11643305653">Fresh Russia-Ukraine Talks Point to Possible Off-Ramp in Crisis</a> WSJ: The two sides, along with France and Germany, are in discussions to revive a dormant agreement that Ukraine fears could be a ‘Trojan horse’ to give Russia sway in its future. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
- <p class="updated_time"> 06:03 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60153696?at_medium=RSS&at_campaign=KARANGA">Tennessee school board bans teaching of Holocaust graphic novel Maus</a> BBC: The board in Tennessee objected to swear words and depictions of nude mice in the graphic novel Maus. 
  <p class="updated_time"> 05:31 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">Ukraine: What sanctions could be imposed on Russia?</a> BBC: Western diplomats are refusing to be explicit about specific penalties to keep the Kremlin guessing. 
  <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075916066/a-texas-man-is-accused-of-selling-gun-used-to-take-synagogue-hostages">A Texas man is accused of selling gun used to take synagogue hostages</a> NPR: Earlier Wednesday, British police said they arrested two more men in Manchester related to the hostage-taking incident. 
  <p class="updated_time"> 04:13 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/mexico-journalists-killings.html">Killing Spree Spurs Outrage Among Journalists in Mexico</a> NYT: The killing of three media workers in less than a month triggered protests in cities across the county this week demanding an end to the violence. 
- <p class="updated_time"> 04:04 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881068/the-significance-of-beijing-hosting-both-the-summer-and-winter-olympics">The significance of Beijing hosting both the Summer and Winter Olympics</a> NPR: Next week, Beijing will become the first city to host both Summer and Winter Olympics. To China, it's a big deal — even if a handful of countries are protesting China's human rights record. 
  <p class="updated_time"> 04:02 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/austin-orders-more-focus-on-limiting-civilian-casualties-00002971">Austin orders more focus on limiting civilian casualties</a> Politico: Defense Secretary Lloyd Austin said in a memo to senior civilian and military officials that he wants the plan to reach his office within 90 days. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/technology/fcc-china-unicom.html">F.C.C. revokes the ability of China Unicom to operate in the U.S.</a> NYT: The agency cited national security in revoking the license for the American subsidiary of a state-owned Chinese telecom operator. 
  <p class="updated_time"> 03:25 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076181431/senate-confirmation-battle-looms-for-justice-breyers-replacement">Senate confirmation battle looms for Justice Breyer's replacement</a> NPR: The eventual nominee to replace Supreme Court Justice Stephen Breyer will need to face the Senate Judiciary Committee in order to be confirmed. Host Asma Khalid talks with Senator Sheldon Whitehouse, a Rhode Island Democrat on the committee, about what comes next. 
  <p class="updated_time"> 03:24 PM CT, Jan. 27 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
- <p class="updated_time"> 01:59 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-supreme-court-black-woman.html">Biden Promised to Put a Black Woman on the Supreme Court</a> NYT: Biden, then a candidate with a struggling campaign for the Democratic nomination, made the promise ahead of his party’s primary in South Carolina. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 01:16 PM CT, Jan. 26 </p> 
