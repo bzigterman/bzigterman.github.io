@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60155634?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras' first female president sworn in</a> BBC: Xiomara Castro has promised sweeping changes but she already faces a political crisis. 
  <p class="updated_time"> 01:44 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/johnson-vows-to-release-full-report-on-lockdown-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
  <p class="updated_time"> 01:41 PM CT, Jan. 27 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/eu-takes-china-to-wto-over-lithuania-trade-restrictions-11643271938">EU Hits Back at China Over Trade Limits, Taking Lithuania Fight Global</a> WSJ: The dispute has opened a new front in the global battle over Beijing’s use of economic pressure to advance political objectives. 
  <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/sensing-opportunity-in-syria-u-a-e-leads-arab-efforts-to-do-business-with-assad-11643279401">U.A.E. Leads Arab Efforts to Do Business With Syria</a> WSJ: Commercial ties are multiplying a decade after the onset of Syria’s civil war, as business leaders bet that Bashar al-Assad is there to stay. 
- <p class="updated_time"> 11:18 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60150542?at_medium=RSS&at_campaign=KARANGA">Australia scientists find 'spooky' spinning object in Milky Way</a> BBC: Australian scientists say the spinning object is unlike anything astronomers have seen before. 
  <p class="updated_time"> 11:04 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
+ <p class="updated_time"> 01:47 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076162088/read-stephen-breyer-retirement-supreme-court">Read Justice Breyer's remarks on retiring and his hope in the American 'experiment'</a> NPR: In a White House remarks, Breyer seemed to acknowledge some of the challenges facing the country, quoting the Gettysburg address and professing hope in the future of American democracy. 
  <p class="updated_time"> 01:40 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
- <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
