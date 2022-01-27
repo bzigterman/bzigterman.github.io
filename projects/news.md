@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
+ <p class="updated_time"> 10:28 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell, in US court files</a> BBC: In US court files, Prince Andrew, who denies sexual assault claims, also demands a jury trial in Virginia Giuffre's lawsuit. 
  <p class="updated_time"> 08:57 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
- <p class="updated_time"> 06:57 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 06:55 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075985908/north-korea-fires-two-suspected-missiles-in-sixth-round-of-launches-this-month">North Korea fires two suspected missiles in sixth round of launches this month</a> NPR: North Korea last week issued a veiled threat to resume  testing nuclear explosives and long-range missiles targeting the U.S. 
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
  <p class="updated_time"> 05:36 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
- <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Lawyers demand US jury trial in Virginia Giuffre case</a> BBC: Lawyers for the Duke of York, who denies allegations of sexual assault, write to a New York judge. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 09:14 PM CT, Jan. 26 </p> 
@@ -299,9 +301,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/democrats-spending-hurts-infrastructure-victory-00001920">Bridges don’t build themselves: How Dems' spending flop hurts their infrastructure victory</a> Politico: Democrats have pinned part of their election hopes on infrastructure progress. But they're lacking a pot of money essential to carrying out that vision. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
@@ -388,10 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/gallery/2022/01/19/biden-harris-first-year-003761">Biden and Harris’ first year in the White House</a> Politico: From the inauguration of President Joe Biden and Vice President Kamala Harris to Biden’s Jan. 19 press conference, POLITICO compiled photos that capture key moments in Biden and Harris’ first year. 
- <p class="updated_time"> 10:37 PM CT, Jan. 19 </p> 
- <a href="https://www.politico.com/news/2022/01/19/schumer-filibuster-fight-he-couldnt-win-527428">Why Schumer picked a filibuster fight he couldn't win</a> Politico: The Democratic leader, who'd used the Senate's 60-vote margin to his advantage in the past, took his time — and peeled off dozens of skeptics. 
 
 
 </details>
