@@ -39,7 +39,7 @@ ggplot(data = data,
                      labels = label_comma(suffix = "M",
                                           accuracy = 1)) +
   scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
+  facet_zoom(x = date > recent_year,
              zoom.size = 4,
              ylim = c(min(recent_data$value/1000000),
                       max(recent_data$value/1000000)),
