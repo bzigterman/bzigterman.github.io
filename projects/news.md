@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
- <p class="updated_time"> 09:13 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
  <p class="updated_time"> 08:35 AM CT, Jan. 27 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
  <p class="updated_time"> 08:56 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/u-s-economy-grew-2021-2020-recession-00002678">U.S. economy grew 5.7 percent in 2021 in rebound from 2020 recession</a> Politico: It was the strongest calendar-year growth since a 7.2 percent surge in 1984 after a previous recession. 
  <p class="updated_time"> 08:55 AM CT, Jan. 27 </p> 
@@ -211,15 +213,17 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
+ <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
@@ -233,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Senate Democrats Plan to Move Quickly on Successor to Justice Breyer</a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
  <p class="updated_time"> 06:18 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/texas-gun-hostages-charge-00002590">Feds accuse Texas man of selling gun used to take hostages</a> Politico: Also, British police said they arrested another two men in the investigation into the hostage-taking incident at a Texas synagogue. 
  <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase in March, Citing Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates imminently as officials cut back help for the economy. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
- <p class="updated_time"> 05:00 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
  <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/russia-ukraine-weapons-00002422">Lawmakers' answer to the Russia-Ukraine crisis: Weapons made in their states</a> Politico: Members push tanks and submarines as vital for deterring Moscow. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/10/14/politics/stephen-breyer-cnn-interview-supreme-court-georgetown-law/index.html">Stephen Breyer says now isn't the time to lose faith in the Supreme Court</a> CNN: Justice Stephen Breyer is not giving up on the Supreme Court. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
- <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Translating Powell's words: The Fed chair's real message on rate-hike plans</a> Politico: Powell faced reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
  <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
