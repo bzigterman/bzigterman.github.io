@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 01:09 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <p class="updated_time"> 01:08 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
+ <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 12:07 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
- <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134761/international-holocaust-remembrance-day-2022">On International Holocaust Remembrance Day, revisit NPR's stories from survivors</a> NPR: The annual day of commemoration comes admist a rise in antisemitic incidents and Holocaust denialism in the U.S. and other parts of the world. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
- <p class="updated_time"> 11:52 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 11:49 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134150/eu-nato-ukraine-russia-updates">The U.S. and NATO stress unity on Ukraine as EU leaders worry about divisions</a> NPR: European leaders are working their own diplomatic avenues to end the tensions and worry that talk of a Russian invasion of Ukraine could be deepening divisions among them. 
  <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
  <p class="updated_time"> 11:21 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
- <p class="updated_time"> 11:21 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 10:47 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F35-C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets the Abyss." 
  <p class="updated_time"> 10:44 AM CT, Jan. 27 </p> 
@@ -53,12 +55,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near the island of South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
  <p class="updated_time"> 08:09 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60157537?at_medium=RSS&at_campaign=KARANGA">Storm Ana kills dozens in Malawi, Madagascar and Mozambique</a> BBC: Some 100,000 people have lost their homes in Madagascar, while parts of Malawi are disaster zones. 
+ <p class="updated_time"> 08:08 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, but they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
- <p class="updated_time"> 07:07 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, but they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
  <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
  <p class="updated_time"> 09:28 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html">Dozens Are Reported Missing After Boat Capsizes Off Florida Coast</a> NYT: The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued. 
- <p class="updated_time"> 09:14 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140392?at_medium=RSS&at_campaign=KARANGA">Viral videos, stoicism and stockpiling on Ukraine’s uneasy borders</a> BBC: With an estimated 100,000 Russian soldiers now on Ukraine's border, what do Ukrainians make of it all? 
  <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
@@ -196,12 +196,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
+ <p class="updated_time"> 01:09 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/justice-breyer-official-retirement-plans-00002818">'Great honor': Breyer makes his retirement plans official</a> Politico: The move will give President Joe Biden an opportunity to install the first Black woman to the Supreme Court. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
- <p class="updated_time"> 11:52 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 11:28 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/government-watchdog-hhs-pandemic-response-00002732">Government watchdog says HHS at 'high risk' of bungling public health crises</a> Politico: The deficiencies include failures to outline roles and responsibilities for other entities involved in a response. 
  <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-stephen-breyer.html">Justice Breyer’s Legacy: A Liberal Who Rejected Labels Like ‘Liberal’</a> NYT: His voting over the years was generally similar to that of other Democratic appointees, if perhaps a little more conservative. 
  <p class="updated_time"> 05:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-china-competitiveness-bill.html">Democrats Renew Push for Industrial Policy Bill Aimed at China</a> NYT: A major competitiveness bill passed the Senate last year with bipartisan support, only to stall. Democrats hope to revive it in the House, but first they will have to bridge big differences. 
- <p class="updated_time"> 05:29 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html">Fed Signals Rate Increase in March, Citing Inflation and Strong Job Market</a> NYT: Jerome H. Powell, the Fed chair, said the central bank could raise rates imminently as officials cut back help for the economy. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
  <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
- <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
@@ -346,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
