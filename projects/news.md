@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:27 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Ukrainian Soldier Kills 5 at Rocket Factory, Raising Tensions</a> NYT: There was no immediate sign of a connection between the shooting and Russia’s military buildup at the border. The incident came hours after the U.S. offered a written response to Russian demands over Eastern Europe. 
+ <p class="updated_time"> 04:38 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
@@ -253,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:28 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/cfpb-junk-fees.html">The federal consumer bureau wants to stamp out what it calls ‘junk fees.’</a> NYT: Late payment charges, hotel resort fees and other tacked-on expenses collectively add billions to what Americans pay for goods and services. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: A debate about poll closures in a rural Georgia county underscores how divisive any and all voting issues have become. 
+ <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: Concerns over Lincoln County's proposal suggest many election administration decisions will now be viewed through a lens of growing mistrust. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881002/why-u-s-supreme-court-justice-stephen-breyer-is-retiring-now">Why U.S. Supreme Court Justice Stephen Breyer is retiring now</a> NPR: U.S. Supreme Court Justice Stephen Breyer is retiring. With a potential red wave coming in the midterm election, his move to step down now is about politics and the ideological direction of the court. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
