@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
+ <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60163804?at_medium=RSS&at_campaign=KARANGA">Aldo Moro: Note announcing murdered Italy PM's abduction sold at auction</a> BBC: The note, which sold for €26,000, announced Aldo Moro's abduction by communist insurgents in 1978. 
- <p class="updated_time"> 03:29 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 03:40 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/judge-limits-testimony-at-trial-professor-accused-hiding-chinese-ties-00003013">Judge limits testimony at trial of professor accused of hiding Chinese ties</a> Politico: Allowing talk of China's quest for U.S. technology could feed 'Sinophobia,' court rules. 
+ <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <p class="updated_time"> 04:50 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Is Unlikely to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
  <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 04:23 PM CT, Jan. 27 </p> 
@@ -269,8 +273,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination-breyer-replacement">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs like food, clothing and utility bills. 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: Concerns over Lincoln County's proposal suggest many election administration decisions will now be viewed through a lens of growing mistrust. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881002/why-u-s-supreme-court-justice-stephen-breyer-is-retiring-now">Why U.S. Supreme Court Justice Stephen Breyer is retiring now</a> NPR: U.S. Supreme Court Justice Stephen Breyer is retiring. With a potential red wave coming in the midterm election, his move to step down now is about politics and the ideological direction of the court. 
- <p class="updated_time"> 02:32 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-supreme-court.html">Which Republicans Might Support a Biden Nominee for the Supreme Court? Few, if any.</a> NYT: Many Senate Republicans have, as a matter of course, opposed Mr. Biden’s nominees for seats on the lower federal courts. 
  <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
