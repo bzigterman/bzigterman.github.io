@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:22 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 02:46 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 02:46 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 02:35 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 02:14 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 02:09 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155634?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras' first female president sworn in</a> BBC: Xiomara Castro has promised sweeping changes but she already faces a political crisis. 
- <p class="updated_time"> 01:59 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 01:53 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60163352?at_medium=RSS&at_campaign=KARANGA">'He stole from me' - Stormy Daniels testifies at her ex-lawyers trial</a> BBC: The porn star who says she had sex with Donald Trump is a witness in a court case against her ex-lawyer. 
  <p class="updated_time"> 01:50 PM CT, Jan. 27 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/johnson-vows-to-release-full-report-on-lockdown-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
  <p class="updated_time"> 01:41 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
- <p class="updated_time"> 01:40 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 01:35 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076166457/coast-guard-florida-search-ending-bodies">Coast Guard finds 4 more bodies off Florida coast but will call off search</a> NPR: Authorities have found a total of five bodies, leaving 34 missing. The Coast Guard says it will call off its active search for survivors at sunset Thursday if it doesn't receive any new information. 
  <p class="updated_time"> 01:13 PM CT, Jan. 27 </p> 
@@ -81,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
- <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60153666?at_medium=RSS&at_campaign=KARANGA">Instagram: Iran arrests 17 pranksters over social media videos</a> BBC: The videos showed faked murders and cake being thrown at members of the public in Tehran. 
  <p class="updated_time"> 06:47 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-meet-in-paris-to-discuss-possible-off-ramp-to-crisis-11643305653">Fresh Russia-Ukraine Talks Point to Possible Off-Ramp in Crisis</a> WSJ: The two sides, along with France and Germany, are in discussions to revive a dormant agreement that Ukraine fears could be a ‘Trojan horse’ to give Russia sway in its future. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
@@ -177,6 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html">Where Is Germany in the Ukraine Standoff? Its Allies Wonder.</a> NYT: Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
+ <p class="updated_time"> 12:31 AM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60129089?at_medium=RSS&at_campaign=KARANGA">Missing girl meets her rescuer again decades later</a> BBC: Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
