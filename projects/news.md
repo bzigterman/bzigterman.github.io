@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 02:36 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-dials-back-one-of-worlds-longest-covid-19-quarantines-11643286301">Hong Kong Dials Back Lengthy Covid-19 Quarantine</a> WSJ: Arriving travelers will spend two weeks instead of three in isolation from Feb. 5, shortening stays that have been criticized by business groups. 
+ <p class="updated_time"> 02:27 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Says It Sees Little Scope for Optimism in U.S. Proposals on Ukraine</a> WSJ: The Kremlin’s remarks came after the U.S. and NATO delivered written responses to security demands from Moscow, including that former Soviet states be barred from joining the alliance and hosting U.S. military bases. 
  <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
  <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
- <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
