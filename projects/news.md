@@ -196,14 +196,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:16 PM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/fannie-mae-pushes-for-flood-risk-disclosure-standard-00002019">Fannie Mae urges new flood disclosures for homebuyers</a> Politico: The mortgage giant said potentially relevant disclosure could cover “a property’s current flood zone designation, past property flooding events, and current flood insurance coverage on the home.” 
+ <p class="updated_time"> 02:35 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
  <p class="updated_time"> 01:47 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076162088/read-stephen-breyer-retirement-supreme-court">Read Justice Breyer's remarks on retiring and his hope in the American 'experiment'</a> NPR: In a White House remarks, Breyer seemed to acknowledge some of the challenges facing the country, quoting the Gettysburg address and professing hope in the future of American democracy. 
- <p class="updated_time"> 01:40 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/justice-breyer-official-retirement-plans-00002818">'Great honor': Breyer makes his retirement plans official</a> Politico: The move will give President Joe Biden an opportunity to install the first Black woman to the Supreme Court. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 01:16 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075827266/us-russia-ukraine-tension-latest-blinken">The U.S. says it will stand firm against major Russian demands as tension rises</a> NPR: Among the demands from Russia was a guarantee that Ukraine be permanently barred from NATO membership. That would violate a U.S. "core principle," Secretary of State Antony Blinken said Wednesday. 
- <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/florida-collectibles-dealer-gaetz-probe-00002353">Florida collectibles dealer connected to Gaetz probe to plead guilty</a> Politico: A Florida collectibles dealer connected to the ongoing federal investigation into Rep. Matt Gaetz has agreed to plead guilty to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 01:08 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner and — perhaps — more aggressively after inflation reached the highest in nearly 40 years. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
