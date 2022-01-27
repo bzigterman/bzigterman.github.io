@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:39 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 10:32 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:24 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60149951?at_medium=RSS&at_campaign=KARANGA">Spotify removes Neil Young after he calls for Joe Rogan to go</a> BBC: The Harvest Moon singer says airing Rogan's podcast amounts to "lies being sold for money". 
  <p class="updated_time"> 10:11 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to stop the opening of a lucrative gas line between Russia and Western Europe. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia battling the extremists said up to 90 ISIS fighters remained in the prison in Hasaka, despite earlier claims that it had regained full control of the complex. 
- <p class="updated_time"> 10:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 09:40 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
  <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 07:18 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60149778?at_medium=RSS&at_campaign=KARANGA">Catalonia pardons women executed for witchcraft</a> BBC: The regional parliament pardons hundreds of women executed during the 15th to 18th centuries. 
  <p class="updated_time"> 07:05 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60138129?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: Return of the military strongmen to West Africa</a> BBC: Burkina Faso is the latest country to experience a coup in a region where democracy had seemed entrenched. 
  <p class="updated_time"> 07:04 PM CT, Jan. 26 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/government-watchdog-hhs-pandemic-response-00002732">Government watchdog says HHS at 'high risk' of bungling public health crises</a> Politico: The deficiencies include failures to outline roles and responsibilities for other entities involved in a response. 
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
@@ -207,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:20 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076049801/biden-was-slow-to-move-on-russia-ukraine-crisis-rep-malliotakis-says">Biden was slow to move on Russia-Ukraine crisis, Rep. Malliotakis says</a> NPR: NPR's Steve Inskeep asks Republican Rep. Nicole Malliotakis of New York if the Biden administration is doing enough to prevent or limit Russian aggression against Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
+ <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden’s diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
