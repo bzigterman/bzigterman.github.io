@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
  <p class="updated_time"> 05:56 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: President Biden would pick a replacement, and he has previously pledged to nominate a black woman. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60144505?at_medium=RSS&at_campaign=KARANGA">US Supreme Court Justice Stephen Breyer to retire</a> BBC: The White House confirms President Biden would stand by his pledge to nominate a black woman. 
  <p class="updated_time"> 05:48 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
  <p class="updated_time"> 05:36 PM CT, Jan. 26 </p> 
@@ -71,10 +71,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075881026/heres-what-some-people-in-kyiv-ukraine-have-to-say-about-the-tension-with-russia">Here's what some people in Kyiv, Ukraine, have to say about the tension with Russia</a> NPR: NPR's Mary Louise Kelly talks with people in Kyiv about the possibility of a Russian invasion into Ukraine. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
+ <p class="updated_time"> 03:23 PM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Fires Short-Range Missiles in Sixth Weapons Test of New Year</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile launches. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the moon where it will explode. 
- <p class="updated_time"> 01:40 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Fires Short-Range Missiles in Sixth Weapons Test of New Year</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile launches. 
  <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
@@ -192,10 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
+ <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 08:04 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 07:12 PM CT, Jan. 26 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:02 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/austin-fast-tracks-hypersonic-missiles-as-china-russia-make-gains-00002584">Austin pushes to fast-track hypersonic missiles as China, Russia make gains</a> Politico: A planned meeting with CEOs is a “‘no kidding, we're getting our butts kicked by China and we need to do better’ kind of meeting,” one person said. 
- <p class="updated_time"> 05:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 05:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-stephen-breyer.html">Justice Breyer’s Legacy: A Liberal Who Rejected Labels Like ‘Liberal’</a> NYT: His voting over the years was generally similar to that of other Democratic appointees, if perhaps a little more conservative. 
  <p class="updated_time"> 05:33 PM CT, Jan. 26 </p> 
@@ -306,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/magazine/michael-fanone-cnn.html">To Hell and Back, Then to CNN</a> NYT: Once an ordinary citizen stumbles into the culture war, it can be hard to get back out. Just ask Michael Fanone. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
- <p class="updated_time"> 08:47 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/madison-cawthorn-jan-6.html">Cawthorn Challenge Raises the Question: Who Is an ‘Insurrectionist’?</a> NYT: The challenge to Representative Madison Cawthorn’s re-election bid could set a precedent to challenge other Republicans who encouraged the Jan. 6 attack. 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
