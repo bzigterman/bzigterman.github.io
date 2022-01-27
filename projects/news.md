@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:39 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
+ <p class="updated_time"> 04:53 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 04:37 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60106144?at_medium=RSS&at_campaign=KARANGA">Ghostly monkey and crocodile newts among new Mekong area species</a> BBC: A list of 224 newly discovered species is published by the World Wildlife Fund conservation group. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
- <p class="updated_time"> 03:57 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075723170/uks-boris-johnson-braces-for-partygate-investigation-report">U.K.'s Boris Johnson braces for 'partygate' investigation report</a> NPR: Senior civil servant Sue Gray could turn in her report to the government as soon as Wednesday. Prime Minister Boris Johnson's office promised to publish its findings. 
  <p class="updated_time"> 03:33 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60138383?at_medium=RSS&at_campaign=KARANGA">Father on unvaccinated son's heart transplant denial</a> BBC: David Ferguson says his son has "gone to the edge of death" to stick to his principles. 
  <p class="updated_time"> 02:50 AM CT, Jan. 26 </p> 
@@ -203,13 +203,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
+ <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
@@ -310,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 04:43 PM CT, Jan. 25 </p> 
