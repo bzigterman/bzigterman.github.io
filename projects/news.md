@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:05 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 05:30 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 04:57 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-troops-join-fight-to-dislodge-islamic-state-from-syrian-prison-11643196503">U.S.-Backed Forces Retake Syrian Prison From Islamic State</a> WSJ: U.S.-backed Syrian forces said they retook full control over a prison after a weeklong battle with Islamic State fighters who attacked the facility in their worst assault in the country in nearly three years. 
  <p class="updated_time"> 07:18 AM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/italian-executives-meet-with-putin-amid-tension-over-ukraine-11643215623">Italian Executives Meet With Putin Amid Tension Over Ukraine</a> WSJ: European companies seek to maintain ties with Russia as the West responds to Moscow’s moves in Eastern Europe. 
- <p class="updated_time"> 07:02 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/kyiv-pronunciation.html">How Do You Pronounce Kyiv?</a> NYT: “When I see American media, it’s always different, it’s always new, always a surprise,” said a teacher of Ukrainian and Russian languages. 
  <p class="updated_time"> 06:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/26/1075621526/satellite-images-show-the-aftermath-of-tonga-volcanos-eruption">Satellite images show the aftermath of Tonga volcano's eruption</a> NPR: The images show populated areas in the archipelago with heavily damaged or destroyed buildings and homes and at least one island covered with ash. 
  <p class="updated_time"> 05:26 AM CT, Jan. 26 </p> 
@@ -161,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russias-attempts-to-sanction-proof-its-economy-have-exposed-a-weak-spot-11643193911">Russia's Attempts to Sanction-Proof Economy Have Exposed Weak Spot</a> WSJ: A raft of hard-hitting measures in case of a renewed Russian incursion into Ukraine could test Moscow’s efforts to insulate itself from sanctions and cause broad economic pain. 
  <p class="updated_time"> 11:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/frank-dutton-dead.html">Frank Dutton, Detective Who Took On Apartheid Crimes, Dies at 72</a> NYT: A lauded South Africa police official, he dug into cold cases from the days of white rule. “The finest detective that this country has ever produced.” 
- <p class="updated_time"> 10:11 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/uk-boris-johnson-parties-police.html">U.K. Police Say They Are Investigating Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson has come under fire over revelations that he and his staff attended parties while the country was in a coronavirus lockdown. 
  <p class="updated_time"> 09:35 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
@@ -179,12 +175,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 10:57 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
- <p class="updated_time"> 09:15 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/israel-fourth-covid-dose.html">Israeli Experts Recommend Offering a Fourth Vaccine Dose to People Age 18 and Over</a> NYT: The Health Ministry cited early signs that a fourth shot might help protect against serious illness, but has yet to approve the panel’s recommendation. 
  <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/asia/india-leprosy-treatment-sivananda.html">Leprosy Hospital Offers Healing, and a Haven, to the Shunned</a> NYT: While leprosy is now easily treated, those who have the disease are still often ostracized. But they’re always welcome at this refuge in India, a nation that records over half the world’s cases. 
- <p class="updated_time"> 07:19 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/fighter-jet-accident-south-china-sea.html">U.S. Navy Fighter Jet Accident in South China Sea Injures 7</a> NYT: The military said it was investigating the cause of a “landing mishap” during routine operations. 
 
 
 </details>
@@ -192,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
