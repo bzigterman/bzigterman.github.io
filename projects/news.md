@@ -196,12 +196,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/biden-pressed-move-fast-scotus-nominee-00003044">‘Somebody in the Senate could die’: Biden pressed to move fast on SCOTUS</a> Politico: The president said his intention is to name a nominee by the end of February. His party’s already getting antsy. 
  <p class="updated_time"> 06:07 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/nyc-mayor-blasts-palin-for-dining-while-infected-with-covid-19-00003020">NYC mayor blasts Palin for dining while infected with Covid-19</a> Politico: Palin sat for at least three al fresco meals over the last week while ignoring the city's rules and recommendations to prevent the spread of the virus. 
+ <p class="updated_time"> 05:40 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/supreme-court-senate.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
+ <p class="updated_time"> 05:38 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side, Mr. Biden hailed his decades on the federal bench, including almost 28 years on the Supreme Court. 
  <p class="updated_time"> 05:38 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/judge-limits-testimony-at-trial-professor-accused-hiding-chinese-ties-00003013">Judge limits testimony at trial of professor accused of hiding Chinese ties</a> Politico: Allowing talk of China's quest for U.S. technology could feed 'Sinophobia,' court rules. 
- <p class="updated_time"> 05:25 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/supreme-court-senate.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
  <p class="updated_time"> 05:05 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/democrats-voting-rights-bill-negotiation.html">Are New Voting Bill Talks for Real or for Show?</a> NYT: Senators involved in the negotiations underway say the discussions are serious and substantive, but some Democrats remain wary. 
  <p class="updated_time"> 05:04 PM CT, Jan. 27 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
- <p class="updated_time"> 04:23 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side from the Roosevelt Room, Mr. Biden hailed his three decades on the federal bench, including almost 28 years on the Supreme Court. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
- <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
