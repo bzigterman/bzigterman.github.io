@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60140561?at_medium=RSS&at_campaign=KARANGA">Lithuania-China row: EU escalates trade dispute with Beijing</a> BBC: Brussels says China is acting illegally in a dispute with Lithuania, one of the EU's smallest states. 
+ <p class="updated_time"> 11:18 PM CT, Jan. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60150542?at_medium=RSS&at_campaign=KARANGA">Australia scientists find 'spooky' spinning object in Milky Way</a> BBC: Australian scientists say the spinning object is unlike anything astronomers have seen before. 
  <p class="updated_time"> 11:04 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
@@ -161,12 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 06:23 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/greece-turkey-snow.html">Heavy Snow Strands Motorists in Greece and Turkey</a> NYT: In areas more used to dealing with extreme heat, blizzard conditions caused chaos on roads and at airports. 
- <p class="updated_time"> 06:17 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/60067690?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Will the Beijing Games be 'green and clean'?</a> BBC: China is promising a greener Winter Olympics, although critics are not sure if it can deliver. 
- <p class="updated_time"> 06:14 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60075421?at_medium=RSS&at_campaign=KARANGA">'I grew up in care alone - why did no-one tell me I had siblings?'</a> BBC: Ashley John-Baptiste grew up in care, unaware he had siblings. His new documentary is called Split Up in Care: Life Without Siblings. 
- <p class="updated_time"> 06:10 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60129897?at_medium=RSS&at_campaign=KARANGA">The rejected Dragons' Den contestant now making millions</a> BBC: From being rejected on Dragons' Den to making millions, Alex Savelli shares his secrets to success. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
