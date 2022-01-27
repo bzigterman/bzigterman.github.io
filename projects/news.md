@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 04:57 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
  <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
- <p class="updated_time"> 04:53 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 04:41 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers attempted to cross into the kingdom under the cover of heavy snow. 
  <p class="updated_time"> 04:37 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
- <p class="updated_time"> 10:28 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
  <p class="updated_time"> 09:22 PM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
  <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:17 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/arts/music/sweden-kpop-bts-red-velvet.html">Sweden’s Songwriters Look to K-Pop</a> NYT: Dozens of songwriters and producers in Stockholm make a living from K-pop — even if they can’t speak Korean. 
- <p class="updated_time"> 11:39 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60139851?at_medium=RSS&at_campaign=KARANGA">Kurdish-led forces say they have retaken Syrian prison seized by IS</a> BBC: All IS militants inside the jail have surrendered after six days of fierce fighting, the SDF says. 
  <p class="updated_time"> 11:00 AM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60145970?at_medium=RSS&at_campaign=KARANGA">LGBT rights: New French law to criminalise 'conversion therapy'</a> BBC: Anyone convicted under the law could face fines of up to €30,000 (£25,000) and two years in jail. 
  <p class="updated_time"> 10:56 AM CT, Jan. 26 </p> 
@@ -250,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/justice-leondra-r-kruger.html">Justice Leondra Kruger Among Possible Supreme Court Nominees</a> NYT: At 45, she would be younger than all but one of the current justices were when they were nominated. 
  <p class="updated_time"> 05:00 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/biden-scotus-nominee-filibuster.html">Why Republicans Can't Filibuster Biden's Supreme Court Nominee</a> NYT: Though Democrats do not need to worry about Republicans using a filibuster against the forthcoming nominee, winning confirmation is no slam dunk. 
- <p class="updated_time"> 04:29 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/climate/epa-environmental-justice-regan.html">E.P.A. Chief Vows to ‘Do Better’ to Protect Poor Communities</a> NYT: The Environmental Protection Agency on Wednesday will announce stepped-up enforcement and monitoring to help disadvantaged communities struggling with polluted air and water. 
  <p class="updated_time"> 03:55 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/russia-ukraine-weapons-00002422">Lawmakers' answer to the Russia-Ukraine crisis: Weapons made in their states</a> Politico: Members push tanks and submarines as vital for deterring Moscow. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
@@ -270,6 +268,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/j-michelle-childs.html">Why Judge J. Michelle Childs is Another Favorite to Replace Breyer</a> NYT: Representative James E. Clyburn, Democrat of South Carolina, supports a little-known federal judge in his home state: J. Michelle Childs. 
  <p class="updated_time"> 02:32 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-supreme-court.html">Which Republicans Might Support a Biden Nominee for the Supreme Court? Few, if any.</a> NYT: Many Senate Republicans have, as a matter of course, opposed Mr. Biden’s nominees for seats on the lower federal courts. 
+ <p class="updated_time"> 02:19 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/potential-names-biden-supreme-court-shortlist-00002455">Biden's Supreme Court shortlist</a> Politico: The president has said he would nominate a Black woman to the nation's highest court — a historic first. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/biden-gun-violence-eric-adams-new-york-00002460">Biden to talk gun violence with Adams in visit to NYC</a> Politico: The planned summit comes as Adams is scrambling to combat a surge in gun violence in the city and deliver on his key campaign promise of restoring public safety. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075598074/federal-reserve-decision-statement-jerome-powell-inflation-jobs-unemployment">Game time: The Fed unveils a tougher plan to fight stubbornly high inflation</a> NPR: The Federal Reserve is preparing to raise interest rates sooner and — perhaps — more aggressively after inflation reached the highest in nearly 40 years. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2021/10/14/politics/stephen-breyer-cnn-interview-supreme-court-georgetown-law/index.html">Stephen Breyer says now isn't the time to lose faith in the Supreme Court</a> CNN: Justice Stephen Breyer is not giving up on the Supreme Court. 
+ <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/powell-fed-questions-00002190">Translating Powell's words: The Fed chair's real message on rate-hike plans</a> Politico: Powell faced reporters Wednesday after two days of Fed meetings at a pivotal moment for the central bank, President Joe Biden and the broader economy. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
@@ -298,10 +300,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/ukraine-envoy-russian-invasion-threat-00002266">‘There is no contradiction’: Ukraine envoy says Kyiv and Washington agree on Russian invasion threat</a> Politico: U.S. officials have recently escalated their warnings about further aggression, while Ukrainian officials have urged calm. 
  <p class="updated_time"> 09:37 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/house-moderates-00002253">House moderates inch toward extinction</a> Politico: The number of House centrists is likely to shrink even more after November. 
+ <p class="updated_time"> 09:21 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/democrats-biden-memo-student-debt-cancellation-00002193">Dozens of Democrats demand Biden release legal memo on student debt cancellation</a> Politico: Warren, Schumer and other top progressives want answers on what Education Department lawyers think about erasing large swaths of student debt. 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
@@ -326,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
- <p class="updated_time"> 10:40 PM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/eastman-ruling-jan6-subpoena-00001681">Judge rejects effort by Trump ally Eastman to sideline Jan. 6  committee subpoena</a> Politico: At issue are documents connected to John Eastman's work at Chapman University. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -356,14 +360,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
  <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
- <p class="updated_time"> 06:26 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/its-a-gold-rush-for-lobbying-firms-with-biden-ties-527635">Biden-tied lobbying firms raked in the dough during his first year</a> Politico: Shops that employed former aides to the current president saw massive increases in clients and fees in 2021. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
  <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
- <p class="updated_time"> 03:39 PM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/biden-nominates-former-stacey-abrams-lawyer-for-campaign-finance-watchdog-527599">Biden nominates former Stacey Abrams lawyer for campaign finance watchdog</a> Politico: If confirmed, she would replace longtime commissioner Steven Walther. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 09:55 AM CT, Jan. 21 </p> 
