@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
  <p class="updated_time"> 07:07 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
+ <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, but they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
  <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/justice-breyer-official-retirement-plans-00002818">'Great honor': Breyer makes his retirement plans official</a> Politico: The move will give President Joe Biden an opportunity to install the first Black woman to the Supreme Court. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
  <p class="updated_time"> 11:52 AM CT, Jan. 27 </p> 
@@ -207,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
  <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer has formally announced his retirement</a> NPR: At a White House event with Breyer, President Biden said it was his intention is to name a nominee to replace him by the end of February and that it will be a Black woman. 
+ <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Biden reiterates his vow to nominate a Black woman to the Supreme Court</a> NPR: At a White House event with Breyer, President Biden said it was his intention is to name a nominee to replace him by the end of February. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 09:39 AM CT, Jan. 27 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/russia-ukraine-weapons-00002422">Lawmakers' answer to the Russia-Ukraine crisis: Weapons made in their states</a> Politico: Members push tanks and submarines as vital for deterring Moscow. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
- <p class="updated_time"> 03:28 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/cfpb-junk-fees.html">The federal consumer bureau wants to stamp out what it calls ‘junk fees.’</a> NYT: Late payment charges, hotel resort fees and other tacked-on expenses collectively add billions to what Americans pay for goods and services. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: Concerns over Lincoln County's proposal suggest many election administration decisions will now be viewed through a lens of growing mistrust. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
@@ -308,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/ketanji-brown-jackson-supreme-court.html">Who Is Judge Ketanji Brown Jackson? A Leading Candidate to Succeed Justice Breyer</a> NYT: Judge Jackson, 51, already successfully went through the Senate confirmation process last year. 
  <p class="updated_time"> 01:16 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075827266/us-russia-ukraine-tension-latest-blinken">The U.S. says it will stand firm against major Russian demands as tension rises</a> NPR: Among the demands from Russia was a guarantee that Ukraine be permanently barred from NATO membership. That would violate a U.S. "core principle," Secretary of State Antony Blinken said Wednesday. 
- <p class="updated_time"> 01:14 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-nomination-biden-democrats.html">Democrats Can Seat a New Supreme Court Justice, Even if Republicans Unite in Opposition </a> NYT: Recent changes in Senate rules mean a nominee can be confirmed with a bare majority, but Democrats will have to hold their narrow ranks together. 
  <p class="updated_time"> 01:10 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/florida-collectibles-dealer-gaetz-probe-00002353">Florida collectibles dealer connected to Gaetz probe to plead guilty</a> Politico: A Florida collectibles dealer connected to the ongoing federal investigation into Rep. Matt Gaetz has agreed to plead guilty to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 01:08 PM CT, Jan. 26 </p> 
@@ -320,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 11:03 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075781724/justice-stephen-breyer-supreme-court-retires">Justice Stephen Breyer, an influential liberal on the Supreme Court, to retire</a> NPR: Behind the scenes, Breyer, 83, pushed and prodded his fellow justices for consensus. His decision gives President Biden his first opportunity to name a new justice to the court. 
- <p class="updated_time"> 09:46 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/ukraine-envoy-russian-invasion-threat-00002266">‘There is no contradiction’: Ukraine envoy says Kyiv and Washington agree on Russian invasion threat</a> Politico: U.S. officials have recently escalated their warnings about further aggression, while Ukrainian officials have urged calm. 
  <p class="updated_time"> 09:21 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/democrats-biden-memo-student-debt-cancellation-00002193">Dozens of Democrats demand Biden release legal memo on student debt cancellation</a> Politico: Warren, Schumer and other top progressives want answers on what Education Department lawyers think about erasing large swaths of student debt. 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
