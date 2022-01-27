@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 03:10 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <p class="updated_time"> 03:01 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 02:56 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/boris-johnson-report-downing-street-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
  <p class="updated_time"> 02:46 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
- <p class="updated_time"> 02:35 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
- <p class="updated_time"> 02:14 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 02:09 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155634?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras' first female president sworn in</a> BBC: Xiomara Castro has promised sweeping changes but she already faces a political crisis. 
  <p class="updated_time"> 01:53 PM CT, Jan. 27 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60160424?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: The women in the running to replace Stephen Breyer</a> BBC: A Washington DC federal judge and a California Supreme Court justice are considered top contenders. 
  <p class="updated_time"> 12:07 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
@@ -65,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149145?at_medium=RSS&at_campaign=KARANGA">US Navy officer 'bribed by cash and prostitutes'</a> BBC: Dozens of officials were part of what has been called the worst corruption case in US navy history. 
  <p class="updated_time"> 09:40 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
+ <p class="updated_time"> 09:24 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/kamala-harris-meets-with-new-honduran-leader-amid-rising-migration-11643315057">Kamala Harris Meets With New Honduran Leader Amid Rising Migration</a> WSJ: Xiomara Castro, Honduras’s first female president, campaigned on promises to fight corruption and endemic gang violence. 
  <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
  <p class="updated_time"> 08:57 AM CT, Jan. 27 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
  <p class="updated_time"> 01:32 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/60151516?at_medium=RSS&at_campaign=KARANGA">Statue of Kobe Bryant and daughter at crash site</a> BBC: A sculptor places a statue of Los Angeles Lakers legend Kobe Bryant and his daughter Gianna at the site of their helicopter crash. 
- <p class="updated_time"> 01:28 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/beijing-steps-up-covid-19-control-measures-ahead-of-lunar-new-year-winter-olympics-11643286485">Beijing Steps Up Covid-19 Control Measures Ahead of Lunar New Year, Winter Olympics</a> WSJ: Chinese health authorities are ramping up testing and tightening containment protocols in Beijing as the capital prepares for two major events set to unfold in the coming days. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
@@ -200,7 +202,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/austin-orders-more-focus-on-limiting-civilian-casualties-00002971">Austin orders more focus on limiting civilian casualties</a> Politico: Defense Secretary Lloyd Austin said in a memo to senior civilian and military officials that he wants the plan to reach his office within 90 days. 
  <p class="updated_time"> 03:16 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/fannie-mae-pushes-for-flood-risk-disclosure-standard-00002019">Fannie Mae urges new flood disclosures for homebuyers</a> Politico: The mortgage giant said potentially relevant disclosure could cover “a property’s current flood zone designation, past property flooding events, and current flood insurance coverage on the home.” 
- <p class="updated_time"> 02:35 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 03:10 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
