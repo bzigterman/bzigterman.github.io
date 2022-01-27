@@ -7,10 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:07 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
+ <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076134761/international-holocaust-remembrance-day-2022">On International Holocaust Remembrance Day, revisit NPR's stories from survivors</a> NPR: The annual day of commemoration comes admist a rise in antisemitic incidents and Holocaust denialism in the U.S. and other parts of the world. 
+ <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <p class="updated_time"> 11:49 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076134150/eu-nato-ukraine-russia-updates">The U.S. and NATO stress unity on Ukraine as EU leaders worry about divisions</a> NPR: European leaders are working their own diplomatic avenues to end the tensions and worry that talk of a Russian invasion of Ukraine could be deepening divisions among them. 
+ <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
- <p class="updated_time"> 11:37 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 11:32 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076129133/ash-barty-australian-open">Ash Barty breaks a 42-year drought by reaching the Australian Open final</a> NPR: She'll be the the first Australian woman to reach the final of her home major tournament in more than four decades. 
  <p class="updated_time"> 11:32 AM CT, Jan. 27 </p> 
@@ -29,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:24 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60149951?at_medium=RSS&at_campaign=KARANGA">Spotify removes Neil Young after he calls for Joe Rogan to go</a> BBC: The Harvest Moon singer says airing Rogan's podcast amounts to "lies being sold for money". 
- <p class="updated_time"> 10:11 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
  <p class="updated_time"> 09:40 AM CT, Jan. 27 </p> 
@@ -47,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
+ <p class="updated_time"> 07:07 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
  <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
@@ -65,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 03:40 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
- <p class="updated_time"> 02:27 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Says It Sees Little Scope for Optimism in U.S. Proposals on Ukraine</a> WSJ: The Kremlin’s remarks came after the U.S. and NATO delivered written responses to security demands from Moscow, including that former Soviet states be barred from joining the alliance and hosting U.S. military bases. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 01:55 AM CT, Jan. 27 </p> 
@@ -131,14 +141,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075793833/former-ukrainian-prime-minister-discusses-the-possibility-of-an-attack-from-russ">Former Ukrainian prime minister discusses the possibility of an attack from Russia</a> NPR: NPR's Mary Louise Kelly talks with former Ukrainian Prime Minister Arseniy Yatsenyuk about the threat of a Russian invasion. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881061/journalist-killings-in-mexico-raise-concerns-among-colleagues">Journalist killings in Mexico raise concerns among colleagues</a> NPR: Three journalist have been killed in Mexico this year, two of them occurring in Tijuana. NPR's Asma Khalid talks with 'Tijuana Press' editor Vicente Calderón about the city's pattern of violence. 
- <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
- <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881026/heres-what-some-people-in-kyiv-ukraine-have-to-say-about-the-tension-with-russia">Here's what some people in Kyiv, Ukraine, have to say about the tension with Russia</a> NPR: NPR's Mary Louise Kelly talks with people in Kyiv about the possibility of a Russian invasion into Ukraine. 
- <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075880940/biden-administration-is-offering-to-negotiate-with-russia-over-the-crisis-in-ukr">Biden administration is offering to negotiate with Russia over the crisis in Ukraine</a> NPR: The Biden administration has delivered a plan to Russia offering a diplomatic way to resolve the crisis over Ukraine. NPR's Ari Shapiro talks with State Dept. spokesman Ned Price about the situation. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the Moon where it will explode. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
@@ -192,12 +196,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 11:28 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/government-watchdog-hhs-pandemic-response-00002732">Government watchdog says HHS at 'high risk' of bungling public health crises</a> Politico: The deficiencies include failures to outline roles and responsibilities for other entities involved in a response. 
+ <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/breyer-resignation-letter-scotus.html">Read Justice Breyer’s Letter Resigning From the Supreme Court</a> NYT: The associate justice was appointed to the Supreme Court in 1994 by President Bill Clinton. 
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
  <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer has formally announced his retirement</a> NPR: Supreme Court Justice Stephen Breyer and President Biden are speaking at the White House Thursday. His retirement gives Biden his first opportunity to nominate a justice to the court. 
+ <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer has formally announced his retirement</a> NPR: At a White House event with Breyer, President Biden said it was his intention is to name a nominee to replace him by the end of February and that it will be a Black woman. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 09:39 AM CT, Jan. 27 </p> 
@@ -244,6 +254,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
+ <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
@@ -324,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717128/harris-travels-to-honduras-for-the-inauguration-of-xiomara-castro">Harris will travel to Honduras for the inauguration of Xiomara Castro</a> NPR: Vice President Harris' trip to Honduras is seen as a signal that the White House hopes new leadership in the country will help to address the root causes of migration from the region. 
  <p class="updated_time"> 04:10 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
- <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
  <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/judge-april-trial-oath-keepers-00001922">Judge presses ahead with April trial for several Oath Keepers</a> Politico: The case includes defendants facing obstruction charges, rather than those who were recently charged with seditious conspiracy in the Jan. 6 insurrection. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
@@ -342,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 10:24 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/palin-positive-covid-new-york-times-trial-00001252">Palin's positive Covid test postpones libel case against New York Times</a> Politico: Jury selection, originally set for Monday, will be held Feb. 3. 
  <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
@@ -388,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/mccarthy-electoral-count-act-reform-527485">McCarthy open to Electoral Count Act reform</a> Politico: The House GOP leader joins Mitch McConnell in indicating openness to changing a 135-year-old law leveraged by Donald Trump allies. 
  <p class="updated_time"> 12:51 PM CT, Jan. 20 </p> 
  <a href="https://www.cnn.com/2022/01/19/politics/free-government-home-covid-tests-wellness/index.html">How to get free at-home Covid-19 tests from the government</a> CNN: Americans can now sign up to get free home Covid-19 tests from the federal government. 
- <p class="updated_time"> 12:05 PM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
 
 
 </details>
