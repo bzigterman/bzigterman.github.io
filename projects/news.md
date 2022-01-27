@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
+ <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">Russia’s Military, Once Creaky, Is Modern and Lethal</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 01:55 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60150733?at_medium=RSS&at_campaign=KARANGA">Fukushima youth sue after developing cancer</a> BBC: The plaintiffs, aged between six and 16 at the time of the disaster, argue they got cancer from radiation. 
- <p class="updated_time"> 01:50 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 01:42 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding US end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
+ <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
  <p class="updated_time"> 01:31 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-soldiers-shooting.html">Ukraine Soldier Kills 5 Fellow Soldiers at Military Factory</a> NYT: A national guard soldier opened fire at a missile and rocket factory in the eastern part of the country “for undetermined reasons,” the police said. 
- <p class="updated_time"> 01:22 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/26/world/ukraine-russia-us">U.S. Offers ‘Diplomatic Path’ in Answer to Russian Demands</a> NYT: The U.S. response was not made public but Secretary of State Antony J. Blinken said it contained “core principles” on Ukraine’s sovereignty. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 12:08 AM CT, Jan. 27 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 10:28 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
+ <p class="updated_time"> 09:22 PM CT, Jan. 26 </p> 
+ <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
  <p class="updated_time"> 08:54 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -94,9 +96,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Fires Short-Range Missiles in Sixth Weapons Test of New Year</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile launches. 
  <p class="updated_time"> 03:00 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the moon where it will explode. 
- <p class="updated_time"> 12:56 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/wto-arbiter-sides-with-china-in-tariff-fight-with-u-s-11643241414">WTO Arbiter Sides With China in Tariff Fight With U.S.</a> WSJ: The decision allows China to collect $645 million in retaliatory tariffs in a dispute over U.S. levies on Chinese products. 
+ <a href="https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&at_campaign=KARANGA">Elon Musk SpaceX rocket on collision course with moon</a> BBC: Astronomers say that a rocket in space since 2015 is hurtling towards the Moon where it will explode. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:43 PM CT, Jan. 26 </p> 
