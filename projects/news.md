@@ -7,32 +7,38 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:54 AM CT, Jan. 27 </p> 
+ <p class="updated_time"> 06:17 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
+ <p class="updated_time"> 06:12 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: Kurdish-led forces said that up to 90 ISIS fighters were still holed up in the prison in Hasaka in northeastern Syria, despite earlier claims that they had retaken full control of the complex. 
+ <p class="updated_time"> 06:03 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60153696?at_medium=RSS&at_campaign=KARANGA">Tennessee school board bans teaching of Holocaust graphic novel Maus</a> BBC: The board in Tennessee objected to swear words and depictions of nude mice in the graphic novel Maus. 
+ <p class="updated_time"> 06:01 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 05:39 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
  <p class="updated_time"> 05:31 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">Ukraine: What sanctions could be imposed on Russia?</a> BBC: Western diplomats are refusing to be explicit about specific penalties to keep Russia guessing. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">Ukraine: What sanctions could be imposed on Russia?</a> BBC: Western diplomats are refusing to be explicit about specific penalties to keep the Kremlin guessing. 
  <p class="updated_time"> 04:57 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60149024?at_medium=RSS&at_campaign=KARANGA">Prince Andrew denies close friendship with Ghislaine Maxwell in US court files</a> BBC: In US court files, the prince, who denies assault claims, also asks for a jury trial in his accuser's lawsuit. 
  <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 04:41 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers attempted to cross into the kingdom under the cover of heavy snow. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
  <p class="updated_time"> 04:37 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: The US offers no concessions to Russian demands on resolving the Ukraine crisis. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60145159?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato</a> BBC: Russia says the response does not address its concerns about Nato, but "gives hope" over other issues. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
- <p class="updated_time"> 03:51 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 02:17 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots five at military factory</a> BBC: Five people were killed after a National Guard conscript opened fire at an aerospace plant in Dnipro. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">Russia’s Military, Once Creaky, Is Modern and Lethal</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
+ <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 01:55 AM CT, Jan. 27 </p> 
@@ -115,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:17 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/arts/music/sweden-kpop-bts-red-velvet.html">Sweden’s Songwriters Look to K-Pop</a> NYT: Dozens of songwriters and producers in Stockholm make a living from K-pop — even if they can’t speak Korean. 
- <p class="updated_time"> 11:00 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60145970?at_medium=RSS&at_campaign=KARANGA">LGBT rights: New French law to criminalise 'conversion therapy'</a> BBC: Anyone convicted under the law could face fines of up to €30,000 (£25,000) and two years in jail. 
  <p class="updated_time"> 10:56 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html">New Research Hints at 4 Factors That May Increase Chances of Long Covid</a> NYT: If further study confirms the findings, they could lead to ways to prevent and treat the complex condition. 
  <p class="updated_time"> 10:42 AM CT, Jan. 26 </p> 
@@ -171,12 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
  <p class="updated_time"> 02:10 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/movies/compartment-no-6-review.html">‘Compartment No. 6’ Review: Strangers on a Russian Train</a> NYT: A young Finnish woman embarks on a journey of self-discovery that takes her (and you) through richly detailed and surprising terrain. 
- <p class="updated_time"> 01:37 PM CT, Jan. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60132641?at_medium=RSS&at_campaign=KARANGA">Turkey: Airport warehouse roof collapses in snowstorm</a> BBC: Heavy snowfall across parts of Turkey has caused an airport warehouse roof to collapse. 
  <p class="updated_time"> 10:57 AM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/europe/kazakhstan-nursultan-nazarbayev.html">Kazakhstan’s Longtime Leader Is Gone, but Still Seemingly Everywhere</a> NYT: Nursultan Nazarbayev, the autocratic former president, all but vanished after violent protests this month. But with his legacy so pervasive, will anything change? 
- <p class="updated_time"> 09:04 AM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/asia/india-leprosy-treatment-sivananda.html">Leprosy Hospital Offers Healing, and a Haven, to the Shunned</a> NYT: While leprosy is now easily treated, those who have the disease are still often ostracized. But they’re always welcome at this refuge in India, a nation that records over half the world’s cases. 
 
 
 </details>
@@ -189,7 +189,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's new bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the group of 16 members working to alter the Electoral Count Act, despite prior statements that it was “unacceptably insufficient" compared to needed voting reforms. 
+ <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Electoral Count Act group breathing room</a> Politico: The majority leader isn't crushing the group of 16 members working to alter the Electoral Count Act, despite prior statements that it was “unacceptably insufficient" compared to needed voting reforms. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
@@ -380,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/20/jan-6-panel-ivanka-trump-questioning-527474">Jan. 6 panel will target Ivanka Trump for questioning</a> Politico: Investigators want to know more about her intervention to try to convince former President Donald Trump to address the Capitol mob during the attack. 
  <p class="updated_time"> 07:54 AM CT, Jan. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/20/democrats-head-home-with-filibuster-effort-sunk-495790">Democrats head home with filibuster effort sunk</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:10 AM CT, Jan. 20 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/20/biden-breaks-up-with-bernie-495787"> Biden breaks up with Bernie</a> Politico Playbook: And the Supreme Court allows for the release of Trump White House records related to Jan. 6. 
 
 
 </details>
