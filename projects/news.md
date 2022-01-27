@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
- <p class="updated_time"> 08:38 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 08:35 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia battling the extremists said up to 90 ISIS fighters were still in the prison in Hasaka, despite earlier claims that it had regained full control of the complex. 
  <p class="updated_time"> 08:31 AM CT, Jan. 27 </p> 
@@ -19,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed</a> BBC: Germany and the US threaten the future of the Nord Stream 2 gas pipeline if Russia invades Ukraine. 
  <p class="updated_time"> 08:14 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
+ <p class="updated_time"> 08:09 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60157537?at_medium=RSS&at_campaign=KARANGA">Storm Ana kills dozens in Malawi, Madagascar and Mozambique</a> BBC: Some 100,000 people have lost their homes in Madagascar, while parts of Malawi are disaster zones. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 08:02 AM CT, Jan. 27 </p> 
@@ -95,14 +99,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075926933/russia-ukraine-united-states">Americans should back Ukraine's fight against Russia, former wartime leader says</a> NPR: Ukraine's former prime minister Arseniy Yatsenyuk says the military is stronger than it was the last time Russia invaded in 2014. But he still thinks the U.S. should help should Russia make advances. 
  <p class="updated_time"> 06:16 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075966557/prince-andrew-again-seeks-dismissal-of-sexual-abuse-suit-demands-a-trial-if-its-">Prince Andrew again seeks dismissal of sexual abuse suit, demands a trial if it's not</a> NPR: Among Andrew's grounds for dismissal is that if any sexual activity did occur between the prince and Virginia Giuffre, it was consensual. 
- <p class="updated_time"> 06:05 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">One dead, dozens missing after boat capsizes off Florida</a> BBC: US officials say the vessel, which capsized on Sunday, may have been part of a "smuggling venture". 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
- <p class="updated_time"> 05:36 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:47 PM CT, Jan. 26 </p> 
@@ -203,9 +203,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/mulvaney-heitkamp-k-street-00002640">Mulvaney and Heitkamp join K St. heavy hitters at new shop</a> Politico: The backbone of the new firm, called Actum, will be formed by former partners at Mercury Public Affairs. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
@@ -220,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs, like food, clothing and utility bills. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
- <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
@@ -318,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075717107/gop-senator-from-north-dakota-wants-to-tackle-climate-change">GOP senator from North Dakota wants to tackle climate change</a> NPR: NPR's Steve Inskeep talks to Sen. Kevin Cramer of North Dakota about climate change. Unlike some Republicans, Cramer says he's willing to combat the problem by reducing carbon emissions. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act">Flaws plague a tool meant to help low-risk federal prisoners win early release</a> NPR: The Justice Department created an algorithm to measure a person's risk of committing a new crime after leaving prison. But even after multiple tweaks, the tool is leading to racial disparities. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 06:08 PM CT, Jan. 25 </p> 
  <a href="https://www.npr.org/2022/01/25/1075657198/nancy-pelosi-reelection">Pelosi is running for reelection but is silent on a bid to retain her leadership post</a> NPR: House Speaker Nancy Pelosi, D-Calif., who's 81, did not say whether she will stick by a pledge she made in 2018 to limit her tenure in elected leadership. 
  <p class="updated_time"> 02:58 PM CT, Jan. 25 </p> 
