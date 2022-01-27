@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:35 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia battling the extremists said up to 90 ISIS fighters were still in the prison in Hasaka, despite earlier claims that it had regained full control of the complex. 
  <p class="updated_time"> 08:31 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near the island of South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
+ <p class="updated_time"> 08:28 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed</a> BBC: Germany and the US threaten the future of the Nord Stream 2 gas pipeline if Russia invades Ukraine. 
  <p class="updated_time"> 08:26 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
  <p class="updated_time"> 08:14 AM CT, Jan. 27 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 08:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
- <p class="updated_time"> 07:27 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: Kurdish-led forces said that up to 90 ISIS fighters were still holed up in the prison in Hasaka in northeastern Syria, despite earlier claims that they had retaken full control of the complex. 
  <p class="updated_time"> 07:26 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The gunman, a national guard soldier, opened fire “for undetermined reasons,” the police said, at an aerospace facility that has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60153666?at_medium=RSS&at_campaign=KARANGA">Instagram: Iran arrests 17 pranksters over social media videos</a> BBC: The videos showed faked murders and cake being thrown at members of the public in Tehran. 
- <p class="updated_time"> 06:41 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed</a> BBC: Germany and the US threaten the future of the Nord Stream 2 gas pipeline if Russia invades Ukraine. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
  <p class="updated_time"> 06:03 AM CT, Jan. 27 </p> 
@@ -47,8 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some locals are uneasy. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
- <p class="updated_time"> 02:36 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-dials-back-one-of-worlds-longest-covid-19-quarantines-11643286301">Hong Kong Dials Back Lengthy Covid-19 Quarantine</a> WSJ: Arriving travelers will spend two weeks instead of three in isolation from Feb. 5, shortening stays that have been criticized by business groups. 
+ <p class="updated_time"> 02:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-of-women-executed-as-witches-pardoned-in-catalonia-11643290230">Hundreds of Women Executed as Witches Pardoned in Catalonia</a> WSJ: The Spanish region’s parliament has passed a resolution to pardon hundreds of women who were tortured and executed as witches between the 15th and 18th centuries. 
  <p class="updated_time"> 02:27 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Says It Sees Little Scope for Optimism in U.S. Proposals on Ukraine</a> WSJ: The Kremlin’s remarks came after the U.S. and NATO delivered written responses to security demands from Moscow, including that former Soviet states be barred from joining the alliance and hosting U.S. military bases. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-diplomats-russia-putin-00002641">Biden's diplomats are flooding the zone on Russia. But even some allies aren’t convinced.</a> Politico: From Europe to the Middle East to Asia, the Biden administration is pressing for a hard line against Russia. So far, Vladimir Putin isn’t blinking. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the group of 16 members working to alter the Electoral Count Act, despite prior statements that it was “unacceptably insufficient" compared to needed voting reforms. 
+ <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
