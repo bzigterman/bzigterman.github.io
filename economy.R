@@ -37,7 +37,7 @@ ggplot(data = data,
   ylab(NULL) +
   scale_y_continuous(position = "right",
                      labels = label_comma(suffix = "M",
-                                          accuracy = .01)) +
+                                          accuracy = .1)) +
   scale_x_date(expand = expansion(mult = c(0, 0))) +
   facet_zoom(x = date > recent_year,
              zoom.size = 4,
