@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:22 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 02:14 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 02:09 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155634?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras' first female president sworn in</a> BBC: Xiomara Castro has promised sweeping changes but she already faces a political crisis. 
  <p class="updated_time"> 01:59 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Live Updates: Moscow Pessimistic U.S. Will Meet Demands; Shooting at Ukraine Rocket Factory Raises Tensions</a> NYT: There was no immediate sign of a connection between the deadly shooting and Russia’s military buildup. After the U.S. responded in writing to Russian demands surrounding Ukraine, the Kremlin said there was “not much cause for optimism” that its terms would be met. 
+ <p class="updated_time"> 01:53 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60163352?at_medium=RSS&at_campaign=KARANGA">'He stole from me' - Stormy Daniels testifies at her ex-lawyers trial</a> BBC: The porn star who says she had sex with Donald Trump is a witness in a court case against her ex-lawyer. 
  <p class="updated_time"> 01:50 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60162451?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras swears in its first female president</a> BBC: Xiomara Castro's arrival marks the end to the right-wing National Party's 12-year reign. 
  <p class="updated_time"> 01:44 PM CT, Jan. 27 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 01:35 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076166457/coast-guard-florida-search-ending-bodies">Coast Guard finds 4 more bodies off Florida coast but will call off search</a> NPR: Authorities have found a total of five bodies, leaving 34 missing. The Coast Guard says it will call off its active search for survivors at sunset Thursday if it doesn't receive any new information. 
- <p class="updated_time"> 01:34 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 01:13 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076140207/idaho-man-says-he-completed-his-goal-of-breaking-52-world-records-in-a-single-ye">Idaho man says he completed his goal of breaking 52 world records in a single year</a> NPR: Author and speaker David Rush so far earned 43 official Guinness World Records in 2021, including fastest time to arrange a chess set and most juggling catches while on a balance board, blindfolded. 
  <p class="updated_time"> 01:08 PM CT, Jan. 27 </p> 
@@ -57,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60149951?at_medium=RSS&at_campaign=KARANGA">Spotify removes Neil Young after he calls for Joe Rogan to go</a> BBC: The Harvest Moon singer says airing Rogan's podcast amounts to "lies being sold for money". 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
+ <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60149145?at_medium=RSS&at_campaign=KARANGA">US Navy officer 'bribed by cash and prostitutes'</a> BBC: Dozens of officials were part of what has been called the worst corruption case in US navy history. 
  <p class="updated_time"> 09:40 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152005?at_medium=RSS&at_campaign=KARANGA">Ukraine: Conscript shoots dead five at aerospace factory</a> BBC: Another five people were injured after a National Guard conscript opened fire in the city of Dnipro. 
  <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 07:19 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60147224?at_medium=RSS&at_campaign=KARANGA">Jordanian army says it killed 27 drug smugglers from Syria</a> BBC: The army says the smugglers tried to cross into the kingdom under the cover of heavy snow. 
- <p class="updated_time"> 07:06 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-invasion.html">How Ukraine’s Leaders Are Responding to Russian Threat</a> NYT: The ‘‘stay calm” posture has left analysts guessing about its leadership’s motivation, but some say that after eight years of war, the country simply calculates the risks differently. 
  <p class="updated_time"> 06:58 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60153666?at_medium=RSS&at_campaign=KARANGA">Instagram: Iran arrests 17 pranksters over social media videos</a> BBC: The videos showed faked murders and cake being thrown at members of the public in Tehran. 
  <p class="updated_time"> 06:47 AM CT, Jan. 27 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
- <p class="updated_time"> 01:55 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60150733?at_medium=RSS&at_campaign=KARANGA">Fukushima youth sue after developing cancer</a> BBC: The plaintiffs, aged between six and 16 at the time of the disaster, argue they got cancer from radiation. 
  <p class="updated_time"> 01:42 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
  <p class="updated_time"> 01:32 AM CT, Jan. 27 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
  <a href="https://www.wsj.com/articles/sensing-opportunity-in-syria-u-a-e-leads-arab-efforts-to-do-business-with-assad-11643279401">U.A.E. Leads Arab Efforts to Do Business With Syria</a> WSJ: Commercial ties are multiplying a decade after the onset of Syria’s civil war, as business leaders bet that Bashar al-Assad is there to stay. 
- <p class="updated_time"> 11:04 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60149781?at_medium=RSS&at_campaign=KARANGA">Biden expected to nominate first black woman to Supreme Court</a> BBC: The announcement comes amid news that Justice Stephen Breyer is expected to retire in June. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:47 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076162088/read-stephen-breyer-retirement-supreme-court">Read Justice Breyer's remarks on retiring and his hope in the American 'experiment'</a> NPR: In a White House remarks, Breyer seemed to acknowledge some of the challenges facing the country, quoting the Gettysburg address and professing hope in the future of American democracy. 
  <p class="updated_time"> 01:40 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/justice-breyer-official-retirement-plans-00002818">'Great honor': Breyer makes his retirement plans official</a> Politico: The move will give President Joe Biden an opportunity to install the first Black woman to the Supreme Court. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
