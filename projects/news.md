@@ -7,6 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Adds Forces to the Front; Biden Seeks to Reassure Ukraine</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 04:21 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Proud Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
+ <p class="updated_time"> 03:58 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 03:46 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152007?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin's geopolitical jigsaw</a> BBC: Invasion or fear strategy: the Russian leader keeps everyone guessing on his real plans for Ukraine. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
@@ -17,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 02:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
- <p class="updated_time"> 02:33 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
@@ -77,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-says-it-sees-little-scope-for-optimism-in-u-s-proposals-on-ukraine-11643290065">Russia Sends Medical Units to Ukrainian Front</a> WSJ: The moves don’t mean an attack is certain, but they are prerequisites for battle and have intensified debates among Western allies over Russian President Vladimir Putin’s intentions. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/boris-johnson-report-downing-street-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
- <p class="updated_time"> 02:46 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 02:09 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155634?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras' first female president sworn in</a> BBC: Xiomara Castro has promised sweeping changes but she already faces a political crisis. 
  <p class="updated_time"> 01:50 PM CT, Jan. 27 </p> 
@@ -143,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
- <p class="updated_time"> 01:42 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -153,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
- <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
@@ -179,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
- <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
 
@@ -192,6 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, job creation and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 11:48 PM CT, Jan. 27 </p> 
@@ -292,24 +306,18 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs like food, clothing and utility bills. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
- <p class="updated_time"> 08:38 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/winred-investigation-republican-fundraising.html">Judge Says States Can Investigate WinRed’s Fund-Raising Tactics</a> NYT: The Republican digital donation platform is facing inquiries from four state attorneys general into its use of prechecked boxes to withdraw donations automatically. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
- <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/republicans-ukraine.html">Republican Rift on Ukraine Could Undercut U.S. Appeals to Allies</a> NYT: G.O.P. leaders are attacking President Biden for what they call a weak response to Russian aggression, but their far-right flank is questioning U.S. involvement, and even its alliance with Kyiv. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
  <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/tucker-carlson-russia-ukraine.html">Biden Gets to Name a New Supreme Court Justice</a> NYT: Plus, Tucker Carlson assures us that he’s “not an agent of Russia.” 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
- <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: Concerns over Lincoln County's proposal suggest many election administration decisions will now be viewed through a lens of growing mistrust. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
