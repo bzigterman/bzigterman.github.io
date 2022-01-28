@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:32 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 03:03 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
+ <p class="updated_time"> 02:58 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
+ <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
  <p class="updated_time"> 02:22 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden visited the collapsed structure during a pre-planned visit to discuss infrastructure. 
- <p class="updated_time"> 02:00 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 01:49 PM CT, Jan. 28 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
- <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 04:02 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
@@ -223,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:18 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pennsylvania-court-strikes-mail-voting-law-00003179">Pennsylvania voting fight escalates as court strikes down mail ballot law</a> Politico: The order is expected to be appealed. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden visits site of collapsed bridge in Pittsburgh during visit</a> Politico: Public safety officials warned residents to avoid the area and reported that they had cut a natural gas line. 
+ <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076343656/pittsburgh-bridge-collapse-biden-visit">A bridge in Pittsburgh collapsed on the day of Biden's planned infrastructure visit</a> NPR: Officials said 10 people suffered minor injuries and at least three were taken to the hospital after the collapse, which appears to have involved several vehicles and a Port Authority bus. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
