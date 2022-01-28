@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076300244/china-is-using-the-beijing-olympics-to-push-a-winter-sports-boom">China is using the Beijing Olympics to push a winter sports boom</a> NPR: The ruling Communist Party is using the Games to promote winter sports, many of which are new to most Chinese, for fitness and business opportunities. 
  <p class="updated_time"> 12:25 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spread of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted in a first this week. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
- <p class="updated_time"> 06:55 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075985908/north-korea-fires-two-suspected-missiles-in-sixth-round-of-launches-this-month">North Korea fires two suspected missiles in sixth round of launches this month</a> NPR: North Korea last week issued a veiled threat to resume  testing nuclear explosives and long-range missiles targeting the U.S. 
  <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
