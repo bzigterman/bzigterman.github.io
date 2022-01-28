@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:30 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 05:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Adds Forces to the Front; Biden Seeks to Reassure Ukraine</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 05:51 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 05:12 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimono shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
  <p class="updated_time"> 02:52 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
- <p class="updated_time"> 02:41 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 02:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
- <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
@@ -191,10 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
- <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/australia/aboriginal-flag.html">Australian Government Buys Copyright to Indigenous Flag</a> NYT: The flag had been at the center of a dispute, but the move allows anyone to reproduce its design without seeking permission or paying a fee. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
 
@@ -226,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076306233/morning-news-brief">News brief: voices from Ukraine, Biden to visit Pa., economic preview</a> NPR: As Ukrainians carry on with their daily lives, most believe a war with Russia in inevitable. President Biden travels to Pittsburgh. A lot of U.S. economic data is being released on Friday. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -332,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
- <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 02:44 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
