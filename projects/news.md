@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
+ <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:43 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
- <p class="updated_time"> 04:17 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Alarmism Over Russia Strains Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 04:13 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Russia Has Troops at Ukraine’s Borders for Large-Scale Invasion, Pentagon Says</a> NYT: The more than 100,000 Russian troops at Ukraine’s border could move throughout the country, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
@@ -192,7 +192,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/risky-and-significant-canadian-capital-braces-for-trucker-protests-pro-00003364">'Risky and significant': Canadian capital braces for trucker protests</a> Politico: What started as a convoy against vaccine mandates has evolved into a free-wheeling demonstration against a long list of grievances. 
- <p class="updated_time"> 04:54 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
