@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
+ <p class="updated_time"> 02:39 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 02:33 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
- <p class="updated_time"> 02:15 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 100,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 06:47 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: Mystery of why tennis star’s positive test was out of sequence with other test codes from Serbia. 
- <p class="updated_time"> 06:42 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 06:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60150121?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: What does Kim Jong-un want?</a> BBC: Pyongyang has conducted six missile tests so far this year - but why now, and what do they want? 
  <p class="updated_time"> 06:36 PM CT, Jan. 27 </p> 
