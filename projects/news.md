@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Adds Forces to the Front; Biden Seeks to Reassure Ukraine</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 06:45 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Macron Speaks With Putin, Seeking to Cool Ukraine Tensions</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 06:25 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
+ <p class="updated_time"> 06:19 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
+ <p class="updated_time"> 06:07 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 06:04 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-police-parties.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
- <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
  <p class="updated_time"> 03:58 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 03:46 AM CT, Jan. 28 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: The BBC has uncovered fresh evidence questioning the timing of Novak Djokovic’s positive Covid test used to enter Australia. 
  <p class="updated_time"> 06:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60150121?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: What does Kim Jong-un want?</a> BBC: Pyongyang has conducted six missile tests so far this year - but why now, and what do they want? 
- <p class="updated_time"> 06:32 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60164442?at_medium=RSS&at_campaign=KARANGA">Tennessee school board defends ban of Holocaust novel Maus</a> BBC: The Tennessee board objected to profanity, nudity and depictions of suicide in the graphic novel Maus. 
  <p class="updated_time"> 06:04 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60129088?at_medium=RSS&at_campaign=KARANGA">Former Nazi speaks in new BBC documentary</a> BBC: Hans Werk features in a new documentary about the last living generation of Germans in Hitler’s Third Reich. 
  <p class="updated_time"> 05:28 PM CT, Jan. 27 </p> 
@@ -204,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076323003/biden-cat-white-house-willow">Meet Willow, the Bidens' new, very presidential-looking cat</a> NPR: First lady Jill Biden met the cat when it interrupted a stump speech she was giving at a Pennsylvania farm during President Biden's 2020 campaign. 
  <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
@@ -322,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination-breyer-replacement">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d">The expanded child tax credit briefly slashed child poverty. Here's what else it did</a> NPR: The monthly cash payments reached more than 61 million kids in December alone. Most low-income families spent the money on basic needs like food, clothing and utility bills. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
- <p class="updated_time"> 02:44 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/kristin-richardson-jordan-nypd.html">Staunch Critic of the N.Y.P.D. Grapples With Deaths of 2 Officers</a> NYT: Harlem Councilwoman Kristin Richardson Jordan, who has equated the policing system to slavery, is now considering how to deliver her message in a district mourning for two officers. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
