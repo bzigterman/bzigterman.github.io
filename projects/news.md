@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
+ <p class="updated_time"> 08:34 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 08:19 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
- <p class="updated_time"> 08:18 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 08:17 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
- <p class="updated_time"> 08:13 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:51 AM CT, Jan. 28 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
- <p class="updated_time"> 06:46 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-prison-hostage-boys-isis.html">Boys Held as Hostages by ISIS Worry Rights Activists</a> NYT: About 700 boys have been held for years in a prison in Syria because their parents joined the Islamic State. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Bridge collapses in Pittsburgh hours before Biden’s infrastructure visit</a> Politico: Public safety officials warned residents to avoid the area and reported that they had cut a natural gas line. 
  <p class="updated_time"> 08:21 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are growing at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/soros-pours-125m-into-super-pac-ahead-of-midterms-00002847">Soros pours $125M into super PAC ahead of midterms</a> Politico: The mammoth donation is fueling investment in Democratic political groups and races from Senate to secretary of state around the country. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">A suicide hotline’s use of data echoes Silicon Valley’s privacy debates</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. What happens next raises complex ethical questions. 
+ <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">Suicide hotline shares data with for-profit spinoff, raising ethical questions</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. What happens next raises complex ethical questions. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/gallery/2022/01/28/the-nations-cartoonists-on-the-week-in-politics-00000022">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/justice-breyer-official-retirement-plans-00002818">'Great honor': Breyer makes his retirement plans official</a> Politico: The move will give President Joe Biden an opportunity to install the first Black woman to the Supreme Court. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
- <p class="updated_time"> 11:28 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/government-watchdog-hhs-pandemic-response-00002732">Government watchdog says HHS at 'high risk' of bungling public health crises</a> Politico: The deficiencies include failures to outline roles and responsibilities for other entities involved in a response. 
  <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/breyer-resignation-letter-scotus.html">Read Justice Breyer’s Letter Resigning From the Supreme Court</a> NYT: The associate justice was appointed to the Supreme Court in 1994 by President Bill Clinton. 
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
