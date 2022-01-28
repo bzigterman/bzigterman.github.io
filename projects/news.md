@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:03 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
+ <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076514207/pentagon-hopes-diplomacy-will-work-as-concern-over-an-invasion-of-ukraine-grows">Pentagon hopes diplomacy will work as concern over an invasion of Ukraine grows</a> NPR: Pentagon leaders said they hoped diplomacy could end the possibility of an invasion of Ukraine. But they cautioned if an invasion occurs, it could be horrific. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
  <p class="updated_time"> 02:58 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
+ <p class="updated_time"> 02:35 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Russia Has Troops at Ukraine’s Borders for Large-Scale Invasion, Pentagon Says</a> NYT: The more than 100,000 Russian troops at Ukraine’s border could move throughout the country, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -149,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
- <p class="updated_time"> 11:32 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076129133/ash-barty-australian-open">Ash Barty breaks a 42-year drought by reaching the Australian Open final</a> NPR: She'll be the the first Australian woman to reach the final of her home major tournament in more than four decades. 
  <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
  <p class="updated_time"> 10:44 AM CT, Jan. 27 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
- <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
- <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
 
 
 </details>
@@ -192,8 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as former President Donald Trump sought to stay in office after losing the 2020 election. 
+ <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as President Donald Trump sought to stay in office after losing the 2020 election. 
  <p class="updated_time"> 02:40 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 02:35 PM CT, Jan. 28 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
  <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/breyer-resignation-letter-scotus.html">Read Justice Breyer’s Letter Resigning From the Supreme Court</a> NYT: The associate justice was appointed to the Supreme Court in 1994 by President Bill Clinton. 
- <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer formally announces his retirement</a> NPR: At a White House event with Breyer, President Biden said it was his intention is to name a nominee to replace him by the end of February. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
