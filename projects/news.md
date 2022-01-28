@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60174684?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Don't create panic, Zelensky tells West</a> BBC: President Volodymyr Zelensky says warnings of a Russian invasion are putting the economy at risk. 
  <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
+ <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173502?at_medium=RSS&at_campaign=KARANGA">'Tiger King' murder-for-hire plot sentence shortened</a> BBC: The star of Netflix's Tiger King was convicted of hiring men to kill rival Carole Baskin in 2020 
  <p class="updated_time"> 01:01 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
  <p class="updated_time"> 12:39 PM CT, Jan. 28 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076267324/russia-sees-little-ground-for-optimism-in-the-u-s-s-response-on-ukraine-crisis">Russia sees 'little ground for optimism' in the U.S.'s response on Ukraine crisis</a> NPR: All eyes are now on Vladimir Putin, who will decide how Russia will respond amid fears that Europe could again be plunged into war. 
  <p class="updated_time"> 07:13 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60136347?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Global sponsors quiet ahead of Beijing Games</a> BBC: A week before the Beijing Games start global partners are lying low amid a US-China diplomatic spat. 
- <p class="updated_time"> 06:47 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: The BBC has uncovered fresh evidence questioning the timing of Novak Djokovic’s positive Covid test used to enter Australia. 
  <p class="updated_time"> 06:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60150121?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: What does Kim Jong-un want?</a> BBC: Pyongyang has conducted six missile tests so far this year - but why now, and what do they want? 
  <p class="updated_time"> 06:04 PM CT, Jan. 27 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
- <p class="updated_time"> 06:01 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
  <p class="updated_time"> 04:02 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
