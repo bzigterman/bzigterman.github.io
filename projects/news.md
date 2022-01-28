@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:54 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spread of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted in a first this week. 
+ <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 11:21 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 08:54 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
- <p class="updated_time"> 08:42 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 08:32 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">The story behind the picture of this lone survivor</a> BBC: Juan Esteban Montoya's younger sister was among dozens lost in the migrant boat tragedy. 
  <p class="updated_time"> 07:26 PM CT, Jan. 27 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/25/world/africa/burkina-faso-coup-russians.html">After Coup in Burkina Faso, Protesters Turn to Russia for Help</a> NYT: Fed up with the failure of their government, and France, to stop the violence caused by militants, some citizens now call for Russia to intervene. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
- <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
 
 
 </details>
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 PM CT, Jan. 27 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076281662/federal-judge-canceled-gulf-oil-and-gas-leases-climate-change">A federal judge canceled major oil and gas leases over climate change</a> NPR: The ruling revokes leases sold in the Gulf of Mexico, in the largest oil and gas lease sale in U.S. history. It says the Interior Department failed to consider the greenhouse gases it would produce. 
  <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 09:59 PM CT, Jan. 27 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881040/a-georgia-county-set-off-a-voting-rights-debate-by-planning-to-reduce-polling-si">A Georgia county set off a tense debate by planning to reduce polling sites</a> NPR: Concerns over Lincoln County's proposal suggest many election administration decisions will now be viewed through a lens of growing mistrust. 
- <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
- <a href="https://www.npr.org/2022/01/26/1075881002/why-u-s-supreme-court-justice-stephen-breyer-is-retiring-now">Why U.S. Supreme Court Justice Stephen Breyer is retiring now</a> NPR: U.S. Supreme Court Justice Stephen Breyer is retiring. With a potential red wave coming in the midterm election, his move to step down now is about politics and the ideological direction of the court. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
