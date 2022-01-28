@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
  <p class="updated_time"> 04:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Adds Forces to the Front; Biden Seeks to Reassure Ukraine</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
  <p class="updated_time"> 04:21 AM CT, Jan. 28 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076300244/china-is-using-the-beijing-olympics-to-push-a-winter-sports-boom">China is using the Beijing Olympics to push a winter sports boom</a> NPR: The ruling Communist Party is using the Games to promote winter sports, many of which are new to most Chinese, for fitness and business opportunities. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/as-hunger-spreads-in-afghanistan-hospitals-fill-with-premature-dying-babies-11643365807">As Hunger Spreads in Afghanistan, Hospitals Fill With Premature, Dying Babies</a> WSJ: Half of the country’s population faces acute hunger, according to the United Nations, with one million children in danger of dying from malnutrition, following an economic collapse under Taliban rule and Western sanctions. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
@@ -75,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60129088?at_medium=RSS&at_campaign=KARANGA">Former Nazi speaks in new BBC documentary</a> BBC: Hans Werk features in a new documentary about the last living generation of Germans in Hitler’s Third Reich. 
  <p class="updated_time"> 05:28 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60160424?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: The women in the running to replace Stephen Breyer</a> BBC: A Washington DC federal judge and a California Supreme Court justice are considered top contenders. 
+ <p class="updated_time"> 05:26 PM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/beijing-steps-up-covid-19-control-measures-ahead-of-lunar-new-year-winter-olympics-11643286485">Beijing Steps Up Covid-19 Control Measures Ahead of Lunar New Year, Winter Olympics</a> WSJ: Chinese health authorities are ramping up testing and tightening containment protocols in Beijing as the capital prepares for two major events set to unfold in the coming days. 
  <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
@@ -127,10 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/kamala-harris-meets-with-new-honduran-leader-amid-rising-migration-11643315057">Kamala Harris Meets With New Honduran Leader Amid Rising Migration</a> WSJ: Xiomara Castro, Honduras’s first female president, campaigned on promises to fight corruption and endemic gang violence. 
- <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/north-korea-conducts-suspected-weapons-test-11643241472">North Korea Fires Short-Range Missiles in Sixth Weapons Test of New Year</a> WSJ: The Kim Jong Un regime has never started a calendar year with so many missile launches. 
- <p class="updated_time"> 10:47 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F35-C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets the Abyss." 
  <p class="updated_time"> 10:44 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60156212?at_medium=RSS&at_campaign=KARANGA">Holocaust Memorial Day: Israeli politician ends Bundestag prayer in tears</a> BBC: Michael Levy wept as he recited a prayer for the dead in Germany's parliament on Holocaust Memorial Day. 
  <p class="updated_time"> 10:32 AM CT, Jan. 27 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html">An Extraordinary Iceberg Is Gone, but Not Forgotten</a> NYT: A chunk of Antarctic ice that was one of the biggest icebergs ever seen has met its end near the island of South Georgia. Scientists will be studying its effects on the ecosystem around the island for some time. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
- <p class="updated_time"> 06:47 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-meet-in-paris-to-discuss-possible-off-ramp-to-crisis-11643305653">Fresh Russia-Ukraine Talks Point to Possible Off-Ramp in Crisis</a> WSJ: The two sides, along with France and Germany, are in discussions to revive a dormant agreement that Ukraine fears could be a ‘Trojan horse’ to give Russia sway in its future. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
  <p class="updated_time"> 05:31 AM CT, Jan. 27 </p> 
@@ -155,8 +155,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
- <p class="updated_time"> 03:40 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-standoff-prompts-europe-to-enlist-u-s-help-securing-gas-11643294410">Russia Standoff Prompts Europe to Enlist U.S. Help Securing Gas</a> WSJ: European officials are scrambling to lock down energy supplies they would need to keep their economies churning if hostilities around Ukraine imperil natural gas piped from Russia. 
+ <p class="updated_time"> 02:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-of-women-executed-as-witches-pardoned-in-catalonia-11643290230">Women Executed as Witches Centuries Ago Are Pardoned in Catalonia</a> WSJ: The Spanish region’s parliament has passed a resolution to pardon hundreds of women who were tortured and executed as witches between the 15th and 18th centuries. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130">Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC plans to spend $20M</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
