@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
  <p class="updated_time"> 05:16 PM CT, Jan. 25 </p> 
  <a href="https://www.nytimes.com/2022/01/25/us/politics/us-europe-fuel-supply-russian-cutoff.html">U.S. to Bolster Europe’s Fuel Supply to Blunt Threat of Russian Cutoff</a> NYT: Many European officials suspect President Vladimir V. Putin instigated the crisis in the winter in part to leverage his threat to turn off Russian fuel sales to Europe. 
- <p class="updated_time"> 04:57 PM CT, Jan. 25 </p> 
- <a href="https://www.nytimes.com/2022/01/25/world/americas/guatemala-crimes-against-humanity.html">Guatemalan Militia Men Get 30 Years for Wartime Atrocities</a> NYT: Five members of a pro-government paramilitary group were convicted of crimes against humanity that were committed against five Indigenous women during the country’s civil war. 
 
 
 </details>
