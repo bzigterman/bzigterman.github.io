@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
- <p class="updated_time"> 08:34 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 08:19 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 08:17 AM CT, Jan. 28 </p> 
@@ -210,8 +210,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Bridge collapses in Pittsburgh hours before Biden’s infrastructure visit</a> Politico: Public safety officials warned residents to avoid the area and reported that they had cut a natural gas line. 
- <p class="updated_time"> 08:21 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 08:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are growing at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
+ <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076343656/pittsburgh-bridge-collapse-biden-visit">A bridge in Pittsburgh collapsed on the day of Biden's planned infrastructure visit</a> NPR: Officials said 10 people suffered minor injuries and three were taken to the hospital as a result of the bridge collapse, which appears to have involved several vehicles and a Port Authority bus. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:26 AM CT, Jan. 28 </p> 
@@ -226,12 +228,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC backed by Anthony Scaramucci’s firm targets midterms</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/a-former-nato-ambassador-gets-inside-putins-head-00003081">A former NATO ambassador gets inside Putin’s head</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to former U.S. ambassador to NATO Kurt Volker and Russian Ukrainian journalist Uliana Pavlova about the state of affairs in the Ukrainian crisis. 
- <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">Russian invasion of Ukraine could redefine cyber warfare</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/adams-nypd-crime-00002011">Eric Adams’ war against crime sparks Democratic unrest</a> Politico: A series of high-profile and deadly incidents this year have given momentum to Adams’ public safety platform. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/soros-pours-125m-into-super-pac-ahead-of-midterms-00002847">Soros pours $125M into super PAC ahead of midterms</a> Politico: The mammoth donation is fueling investment in Democratic political groups and races from Senate to secretary of state around the country. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">Russian invasion of Ukraine could redefine cyber warfare</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">Suicide hotline shares data with for-profit spinoff, raising ethical questions</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. What happens next raises complex ethical questions. 
+ <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">Suicide hotline shares data with for-profit spinoff, raising ethical questions</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/gallery/2022/01/28/the-nations-cartoonists-on-the-week-in-politics-00000022">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/dot-traffic-deaths-plan.html">Transportation Dept. Outlines Plan to Address Rising Traffic Deaths</a> NYT: The department said it would use new funding in the infrastructure law to carry out the strategy, which touches on issues ranging from speed limits to emergency medical care. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination-breyer-replacement">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
@@ -370,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
