@@ -7,9 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:06 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 08:19 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
+ <p class="updated_time"> 08:18 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
- <p class="updated_time"> 08:03 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 08:17 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
+ <p class="updated_time"> 08:13 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 07:46 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
- <p class="updated_time"> 07:27 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 07:22 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/olympic-sponsors-china-beijing.html">For Olympic Sponsors, ‘China Is an Exception’</a> NYT: Pressure is mounting on companies to condemn the country’s human rights violations, but executives say the Games should not be politicized. 
- <p class="updated_time"> 05:51 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 05:12 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimino shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 03:46 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60152007?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin's geopolitical jigsaw</a> BBC: Invasion or fear strategy: the Russian leader keeps everyone guessing on his real plans for Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60152007?at_medium=RSS&at_campaign=KARANGA">What is Putin's next move on Ukraine?</a> BBC: Invasion or fear strategy: the Russian leader keeps everyone guessing on his real plans for Ukraine. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -208,8 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:06 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are grew at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
+ <p class="updated_time"> 08:21 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are growing at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:26 AM CT, Jan. 28 </p> 
