@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 PM CT, Jan. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: The president believes there is a "distinct possibility" Russia could invade, the White House says. 
  <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60163804?at_medium=RSS&at_campaign=KARANGA">Aldo Moro: Note announcing murdered Italy PM's abduction sold at auction</a> BBC: The note, which sold for €26,000, announced Aldo Moro's abduction by communist insurgents in 1978. 
- <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60151839?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 pipeline could be axed, US warns</a> BBC: Washington threatens to halt a lucrative gas pipeline between Russia and Western Europe. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 03:05 PM CT, Jan. 27 </p> 
