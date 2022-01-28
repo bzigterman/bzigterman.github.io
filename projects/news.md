@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:05 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 11:27 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Cautions U.S. Against War Talk</a> NYT: “I think it has to be quiet military preparation and quiet diplomacy,” said President Volodymyr Zelensky of Ukraine. President Emmanuel Macron of France spoke with President Vladimir V. Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 11:24 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Joe Biden is due in the area later on Friday to talk about his infrastructure legislation. 
+ <p class="updated_time"> 11:16 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 11:12 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
  <p class="updated_time"> 10:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
- <p class="updated_time"> 09:55 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Joe Biden is due in the area later on Friday to talk about his infrastructure legislation. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 09:20 AM CT, Jan. 28 </p> 
@@ -39,12 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
- <p class="updated_time"> 08:17 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
- <p class="updated_time"> 07:51 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 07:46 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, Ukrainian officials are trying to keep the public calm. 
+ <p class="updated_time"> 11:13 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision deals a temporary blow to voting access in a critical battleground state. Democrats pledged an appeal. 
  <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 11:00 AM CT, Jan. 28 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 10:18 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pennsylvania-court-strikes-mail-voting-law-00003179">Pennsylvania voting fight escalates as court strikes down mail ballot law</a> Politico: The order is expected to be appealed. 
- <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision deals a temporary blow to voting access in a critical battleground state. Democrats pledged an appeal. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Bridge collapses in Pittsburgh hours before Biden’s infrastructure visit</a> Politico: Public safety officials warned residents to avoid the area and reported that they had cut a natural gas line. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
@@ -293,7 +293,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199838/ukrainian-politician-discusses-ukraines-relationship-with-the-world">Ukrainian politician discusses Ukraine's relationship with the world</a> NPR: NPR's Mary Louise Kelly talks with Ukrainian politician Ivanna Klympush-Tsintsadze about Ukraine's relationship with the world, which she and many others are counting on as Russia threatens to invade. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Austin Orders U.S. Military to Step Up Efforts to Prevent Civilian Harm</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/austin-orders-more-focus-on-limiting-civilian-casualties-00002971">Austin orders more focus on limiting civilian casualties</a> Politico: Defense Secretary Lloyd Austin said in a memo to senior civilian and military officials that he wants the plan to reach his office within 90 days. 
  <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
