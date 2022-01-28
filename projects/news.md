@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 02:41 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 02:39 AM CT, Jan. 28 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
- <p class="updated_time"> 08:54 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 08:32 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">The story behind the picture of this lone survivor</a> BBC: Juan Esteban Montoya's younger sister was among dozens lost in the migrant boat tragedy. 
  <p class="updated_time"> 07:26 PM CT, Jan. 27 </p> 
