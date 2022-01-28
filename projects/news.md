@@ -74,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:53 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 100,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 06:47 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: Mystery of why tennis star’s positive test was out of sequence with other test codes from Serbia. 
+ <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: The BBC has uncovered fresh evidence questioning the timing of Novak Djokovic’s positive Covid test used to enter Australia. 
  <p class="updated_time"> 06:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60150121?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: What does Kim Jong-un want?</a> BBC: Pyongyang has conducted six missile tests so far this year - but why now, and what do they want? 
  <p class="updated_time"> 06:32 PM CT, Jan. 27 </p> 
@@ -155,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
- <p class="updated_time"> 02:30 AM CT, Jan. 27 </p> 
- <a href="https://www.wsj.com/articles/hundreds-of-women-executed-as-witches-pardoned-in-catalonia-11643290230">Women Executed as Witches Centuries Ago Are Pardoned in Catalonia</a> WSJ: The Spanish region’s parliament has passed a resolution to pardon hundreds of women who were tortured and executed as witches between the 15th and 18th centuries. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
@@ -206,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
@@ -238,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/nuclear-fears-mount-ukraine-crisis-deepens-00003088">Nuclear fears mount as Ukraine crisis deepens</a> Politico: Officials and experts are warning that a Russian invasion could inadvertently trigger a nuclear exchange with the U.S. 
  <p class="updated_time"> 08:40 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/walker-trump-north-carolina-senate-race-00003097">Walker defies Trump, says he’ll stay in N.C. Senate race</a> Politico: The former president sought to clear the field for his endorsed candidate, Rep. Ted Budd. 
- <p class="updated_time"> 08:36 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/supreme-court-senate-elections-00003085">What will a Supreme Court pick mean for Senate races? Maybe nothing.</a> Politico: The prospect of a quick confirmation and an electorate focused on inflation and the economy may combine to diminish the electoral impact of a high court nomination. 
  <p class="updated_time"> 07:28 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side, Mr. Biden hailed his decades on the federal bench, including almost 28 years on the Supreme Court. 
  <p class="updated_time"> 06:53 PM CT, Jan. 27 </p> 
