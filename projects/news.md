@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 05:06 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately", says the U.S. charge d'affaires Kristina Kvien. 
  <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:43 PM CT, Jan. 28 </p> 
@@ -61,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
+ <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-60171632?at_medium=RSS&at_campaign=KARANGA">Chris Brown accused of drugging and raping woman on yacht</a> BBC: The singer is being sued for $20m over the alleged assault in Miami in 2020. 
  <p class="updated_time"> 10:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199838/ukrainian-politician-discusses-ukraines-relationship-with-the-world">Ukrainian politician discusses Ukraine's relationship with the world</a> NPR: NPR's Mary Louise Kelly talks with Ukrainian politician Ivanna Klympush-Tsintsadze about Ukraine's relationship with the world, which she and many others are counting on as Russia threatens to invade. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
- <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
@@ -192,6 +194,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/risky-and-significant-canadian-capital-braces-for-trucker-protests-pro-00003364">'Risky and significant': Canadian capital braces for trucker protests</a> Politico: What started as a convoy against vaccine mandates has evolved into a free-wheeling demonstration against a long list of grievances. 
+ <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
+ <p class="updated_time"> 05:06 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
+ <p class="updated_time"> 05:05 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
@@ -200,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 04:18 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
- <p class="updated_time"> 04:13 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Russia Has Troops at Ukraine’s Borders for Large-Scale Invasion, Pentagon Says</a> NYT: The more than 100,000 Russian troops at Ukraine’s border could move throughout the country, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as President Donald Trump sought to stay in office after losing the 2020 election. 
- <p class="updated_time"> 02:40 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:21 PM CT, Jan. 28 </p> 
@@ -268,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076281662/federal-judge-canceled-gulf-oil-and-gas-leases-climate-change">A federal judge canceled major oil and gas leases over climate change</a> NPR: The ruling revokes leases sold in the Gulf of Mexico in the largest oil and gas lease sale in U.S. history. It says the Interior Department failed to consider the greenhouse gases it would produce. 
  <p class="updated_time"> 09:59 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/democrats-voting-rights-bill-negotiation.html">Are New Voting Bill Talks for Real or for Show?</a> NYT: Senators involved in the negotiations underway say the discussions are serious and substantive, but some Democrats remain wary. 
- <p class="updated_time"> 07:28 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side, Mr. Biden hailed his decades on the federal bench, including almost 28 years on the Supreme Court. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
