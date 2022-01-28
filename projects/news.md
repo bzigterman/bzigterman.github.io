@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
  <p class="updated_time"> 11:43 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
+ <p class="updated_time"> 11:35 AM CT, Jan. 28 </p> 
+ <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden's Sanctions Plan Targets Russian Banks, Companies and Imports if Ukraine Is Attacked</a> WSJ: The Biden administration is finalizing its targets for a barrage of economic sanctions should Russia attack Ukraine—hitting major Russian banks, state companies and needed imports. 
  <p class="updated_time"> 11:16 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 11:12 AM CT, Jan. 28 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
- <p class="updated_time"> 08:05 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden's Sanctions Plan Targets Russian Banks, Companies and Imports if Ukraine Is Attacked</a> WSJ: The Biden administration is finalizing its targets for a barrage of economic sanctions should Russia attack Ukraine—hitting major Russian banks, state companies and needed imports. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
