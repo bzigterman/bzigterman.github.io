@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:11 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076301064/iraqi-kurds-are-learning-mandarin-to-take-advantage-of-jobs-from-chinese-compani">Iraqi Kurds are learning Mandarin to take advantage of jobs from Chinese companies</a> NPR: Dozens of contracts signed in recent years ensure China's growing footprint, even as major Western companies, including the U.S., plot their exit. 
  <p class="updated_time"> 01:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
  <p class="updated_time"> 12:59 AM CT, Jan. 28 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076047424/china-is-demanding-us-end-its-interference-in-beijing-olympics">China is demanding the U.S. end its 'interference' in Beijing Olympics</a> NPR: The Foreign Ministry said Minister Wang Yi made the demand in a phone call with U.S. Secretary of State Antony Blinken on Thursday Beijing time. 
  <p class="updated_time"> 01:32 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/60151516?at_medium=RSS&at_campaign=KARANGA">Statue of Kobe Bryant and daughter at crash site</a> BBC: A sculptor places a statue of Los Angeles Lakers legend Kobe Bryant and his daughter Gianna at the site of their helicopter crash. 
- <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
