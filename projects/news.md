@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:45 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 06:52 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 06:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Macron Speaks With Putin, Seeking to Cool Ukraine Tensions</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60170962?at_medium=RSS&at_campaign=KARANGA">Chicago trains drive over flaming tracks</a> BBC: The tracks are set alight to prevent them from freezing over in snowy weather. 
  <p class="updated_time"> 06:25 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
  <p class="updated_time"> 06:19 AM CT, Jan. 28 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
- <p class="updated_time"> 03:58 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 03:46 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60152007?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin's geopolitical jigsaw</a> BBC: Invasion or fear strategy: the Russian leader keeps everyone guessing on his real plans for Ukraine. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
  <p class="updated_time"> 12:17 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/arts/music/sweden-kpop-bts-red-velvet.html">Sweden’s Songwriters Look to K-Pop</a> NYT: Dozens of songwriters and producers in Stockholm make a living from K-pop — even if they can’t speak Korean. 
- <p class="updated_time"> 10:42 AM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60145990?at_medium=RSS&at_campaign=KARANGA">Paris Fashion Week: Monaco royal Charlotte Casiraghi rides her horse on Chanel catwalk</a> BBC: Monaco royal and accomplished show jumper Charlotte Casiraghi opened the brand's Haute Couture show. 
  <p class="updated_time"> 10:38 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:57 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076323003/biden-cat-white-house-willow">Meet Willow, the Bidens' new, very presidential-looking cat</a> NPR: First lady Jill Biden met the cat when it interrupted a stump speech she was giving at a Pennsylvania farm during President Biden's 2020 campaign. 
  <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
@@ -215,15 +217,13 @@ permalink: /projects/news/
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC plans to spend $20M</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
+ <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC backed by Anthony Scaramucci’s firm targets midterms</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/a-former-nato-ambassador-gets-inside-putins-head-00003081">A former NATO ambassador gets inside Putin’s head</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to former U.S. ambassador to NATO Kurt Volker and Russian Ukrainian journalist Uliana Pavlova about the state of affairs in the Ukrainian crisis. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">‘A very dark day’: What happens if Russia unleashes its cyber army on Ukraine</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
+ <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">Russian invasion of Ukraine could redefine cyber warfare</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/soros-pours-125m-into-super-pac-ahead-of-midterms-00002847">Soros pours $125M into super PAC ahead of midterms</a> Politico: The mammoth donation is fueling investment in Democratic political groups and races from Senate to secretary of state around the country. 
- <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">A suicide hotline’s use of data echoes Silicon Valley’s privacy debates</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. What happens next raises complex ethical questions. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
