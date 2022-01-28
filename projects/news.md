@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/28/1076338622/top-sundance-prize-goes-to-midwives-about-a-buddhist-midwife-and-her-muslim-trai">Sundance prize goes to 'Midwives' — about a Buddhist midwife and her Muslim apprentice</a> NPR: The documentary follows a Buddhist and a Muslim — who don't always get along — as they provide health care to Muslim women and children despite growing political and religious tensions in Myanmar. 
  <p class="updated_time"> 05:29 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 05:24 PM CT, Jan. 28 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
- <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076199838/ukrainian-politician-discusses-ukraines-relationship-with-the-world">Ukrainian politician discusses Ukraine's relationship with the world</a> NPR: NPR's Mary Louise Kelly talks with Ukrainian politician Ivanna Klympush-Tsintsadze about Ukraine's relationship with the world, which she and many others are counting on as Russia threatens to invade. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
