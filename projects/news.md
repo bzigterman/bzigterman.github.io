@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60147656?at_medium=RSS&at_campaign=KARANGA">Life under the Taliban: Yalda Hakim's journey back to Afghanistan</a> BBC: With access to the new Taliban government, Yalda Hakim travels back to Afghanistan to find out what the country is like under their rule. 
  <p class="updated_time"> 05:11 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
- <p class="updated_time"> 04:13 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/americas/mexico-journalists-killings.html">Killing Spree Spurs Outrage Among Journalists in Mexico</a> NYT: The killing of three media workers in less than a month triggered protests in cities across the county this week demanding an end to the violence. 
  <p class="updated_time"> 04:02 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/putin-ukraine.html">The World Awaits Putin’s Word on Ukraine, but on That, He Is Silent</a> NYT: The Russian president appears on camera almost daily, talking about things like cryptocurrency, green energy and the World’s Fair. But not about Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
@@ -240,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC backed by Anthony Scaramucci’s firm targets midterms</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
  <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/adams-nypd-crime-00002011">Eric Adams’ war against crime sparks Democratic unrest</a> Politico: A series of high-profile and deadly incidents this year have given momentum to Adams’ public safety platform. 
- <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/soros-pours-125m-into-super-pac-ahead-of-midterms-00002847">Soros pours $125M into super PAC ahead of midterms</a> Politico: The mammoth donation is fueling investment in Democratic political groups and races from Senate to secretary of state around the country. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">Russian invasion of Ukraine could redefine cyber warfare</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
@@ -340,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
