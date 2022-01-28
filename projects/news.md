@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:22 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 04:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Adds Forces to the Front; Biden Seeks to Reassure Ukraine</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
  <p class="updated_time"> 04:21 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
@@ -200,10 +200,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, job creation and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
+ <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC plans to spend $20M</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">‘A very dark day’: What happens if Russia unleashes its cyber army on Ukraine</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/soros-pours-125m-into-super-pac-ahead-of-midterms-00002847">Soros pours $125M into super PAC ahead of midterms</a> Politico: The mammoth donation is fueling investment in Democratic political groups and races from Senate to secretary of state around the country. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">A suicide hotline’s use of data echoes Silicon Valley’s privacy debates</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. What happens next raises complex ethical questions. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -258,10 +268,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076181431/senate-confirmation-battle-looms-for-justice-breyers-replacement">Senate confirmation battle looms for Justice Breyer's replacement</a> NPR: The eventual nominee to replace Supreme Court Justice Stephen Breyer will need to face the Senate Judiciary Committee in order to be confirmed. Host Asma Khalid talks with Senator Sheldon Whitehouse, a Rhode Island Democrat on the committee, about what comes next. 
  <p class="updated_time"> 03:16 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/fannie-mae-pushes-for-flood-risk-disclosure-standard-00002019">Fannie Mae urges new flood disclosures for homebuyers</a> Politico: The mortgage giant said potentially relevant disclosure could cover “a property’s current flood zone designation, past property flooding events, and current flood insurance coverage on the home.” 
- <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
- <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
  <p class="updated_time"> 01:47 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076162088/read-stephen-breyer-retirement-supreme-court">Read Justice Breyer's remarks on retiring and his hope in the American 'experiment'</a> NPR: In a White House remarks, Breyer seemed to acknowledge some of the challenges facing the country, quoting the Gettysburg address and professing hope in the future of American democracy. 
  <p class="updated_time"> 12:54 PM CT, Jan. 27 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
  <p class="updated_time"> 08:56 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/u-s-economy-grew-2021-2020-recession-00002678">U.S. economy grew 5.7 percent in 2021 in rebound from 2020 recession</a> Politico: It was the strongest calendar-year growth since a 7.2 percent surge in 1984 after a previous recession. 
- <p class="updated_time"> 08:55 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/russia-conflict-us-written-response-00002668">‘Little ground for optimism’: Kremlin says U.S. document doesn’t meet Russian security demands</a> Politico: The paper “contains no positive response on the main issue,” said Russian Foreign Minister Sergey Lavrov. 
  <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
@@ -292,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
  <p class="updated_time"> 06:20 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076049801/biden-was-slow-to-move-on-russia-ukraine-crisis-rep-malliotakis-says">Biden was slow to move on Russia-Ukraine crisis, Rep. Malliotakis says</a> NPR: NPR's Steve Inskeep asks Republican Rep. Nicole Malliotakis of New York if the Biden administration is doing enough to prevent or limit Russian aggression against Ukraine. 
- <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
- <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/tucker-carlson-russia-ukraine.html">Biden Gets to Name a New Supreme Court Justice</a> NYT: Plus, Tucker Carlson assures us that he’s “not an agent of Russia.” 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
@@ -334,6 +334,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
@@ -344,6 +348,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Texas primary showdown bursts open after FBI raid</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
@@ -384,10 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/21/suspicious-trump-weighs-dual-endorsements-495803"> Suspicious Trump weighs dual endorsements</a> Politico Playbook: And Peter Thiel brings a new approach to fundraising. 
- <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528">'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors</a> Politico: GOP officials in five states illegitimately claimed to be qualified to declare Donald Trump the winner in 2020. And Trump allies were openly involved. 
- <p class="updated_time"> 04:30 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/news/2022/01/21/democrats-back-to-back-failures-ambitions-527514">Democrats slim down ambitions after back-to-back failures</a> Politico: They'll try to revive their domestic spending bill and they want to keep fighting for election reform. None of that's expected to play out soon. 
 
 
 </details>
