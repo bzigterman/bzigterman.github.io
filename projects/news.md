@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514207/pentagon-hopes-diplomacy-will-work-as-concern-over-an-invasion-of-ukraine-grows">Pentagon hopes diplomacy will work as concern over an invasion of Ukraine grows</a> NPR: Pentagon leaders said they hoped diplomacy could end the possibility of an invasion of Ukraine. But they cautioned if an invasion occurs, it could be horrific. 
- <p class="updated_time"> 03:37 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
  <p class="updated_time"> 02:58 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -192,6 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
+ <p class="updated_time"> 03:49 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
@@ -204,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:21 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/governors-covid-climate-change-campaigns-00003325">Here's what 5 governors have to say on Covid, climate change and campaign plans</a> Politico: POLITICO reporters interviewed five governors as on the issues in their states and their administrations' relationship to the federal government. 
- <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
  <p class="updated_time"> 05:04 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Will Have Little Power to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
- <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
  <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
