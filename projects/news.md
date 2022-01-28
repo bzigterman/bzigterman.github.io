@@ -9,8 +9,6 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:17 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Alarmism Over Russia Strains Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 04:14 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
  <p class="updated_time"> 04:13 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Russia Has Troops at Ukraine’s Borders for Large-Scale Invasion, Pentagon Says</a> NYT: The more than 100,000 Russian troops at Ukraine’s border could move throughout the country, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
@@ -24,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
  <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden visited the collapsed structure during a pre-planned visit to discuss infrastructure. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden saw the collapsed structure during a pre-planned visit to discuss infrastructure. 
  <p class="updated_time"> 03:50 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
@@ -80,7 +78,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
  <p class="updated_time"> 08:05 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden Sanctions Plan Targets Russian Banks, Companies and Imports If Ukraine Is Attacked</a> WSJ: The Biden administration is narrowing its possible economic sanctions. The plan, which is still being finalized, would prohibit a range of activities. 
+ <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden's Sanctions Plan Targets Russian Banks, Companies and Imports if Ukraine Is Attacked</a> WSJ: The Biden administration is finalizing its targets for a barrage of economic sanctions should Russia attack Ukraine—hitting major Russian banks, state companies and needed imports. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
@@ -194,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
+ <p class="updated_time"> 04:23 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 04:18 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
  <p class="updated_time"> 04:17 PM CT, Jan. 28 </p> 
@@ -206,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
  <p class="updated_time"> 03:57 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
- <p class="updated_time"> 03:49 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
@@ -279,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:48 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
  <p class="updated_time"> 05:04 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Will Have Little Power to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
+ <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Is Unlikely to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
  <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
