@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:54 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 12:25 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spread of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted in a first this week. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
