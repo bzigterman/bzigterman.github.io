@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as former President Donald Trump sought to stay in office after losing the 2020 election. 
  <p class="updated_time"> 02:40 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 02:35 PM CT, Jan. 28 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
- <p class="updated_time"> 06:20 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076049801/biden-was-slow-to-move-on-russia-ukraine-crisis-rep-malliotakis-says">Biden was slow to move on Russia-Ukraine crisis, Rep. Malliotakis says</a> NPR: NPR's Steve Inskeep asks Republican Rep. Nicole Malliotakis of New York if the Biden administration is doing enough to prevent or limit Russian aggression against Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
