@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
  <p class="updated_time"> 02:15 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
- <p class="updated_time"> 02:13 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/27/world/ukraine-russia-us">Moscow Is Pessimistic About Reaching Accord With U.S. on Ukraine, but Talk Continues</a> NYT: A deadly shooting at a missile factory in Ukraine added to the air of tension, but there was no immediate sign of a connection to Russia’s military buildup. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
