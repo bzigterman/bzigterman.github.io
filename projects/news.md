@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Official Cautions U.S. Against War Talk</a> NYT: The diplomatic push continued, with Russia’s foreign minister suggesting there was space to negotiate with the U.S. on limited security issues. President Emmanuel Macron of France spoke with President Vladimir Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 09:29 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 09:20 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076341285/australian-open-rafael-nadal-djokovic-final">Rafael Nadal needs one more win to break the record he shares with Djokovic</a> NPR: "Being very honest, for me it's much more important to have the chance to play tennis than win [number] 21," Nadal said after Friday's semifinal win. 
  <p class="updated_time"> 09:16 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
- <p class="updated_time"> 09:14 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Official Cautions U.S. Against War Talk</a> NYT: The diplomatic push continued, with Russia’s foreign minister suggesting there was space to negotiate with the U.S. on limited security issues. President Emmanuel Macron of France spoke with President Vladimir Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
  <p class="updated_time"> 09:07 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
  <p class="updated_time"> 09:06 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173481?at_medium=RSS&at_campaign=KARANGA">Palestinians vent against Hamas in rare online event</a> BBC: It is rare to hear criticism of Hamas in Gaza, but Palestinians have found a way to air their anger. 
- <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:18 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pennsylvania-court-strikes-mail-voting-law-00003179">Pennsylvania voting fight escalates as court strikes down mail ballot law</a> Politico: The order is expected to be appealed. 
+ <p class="updated_time"> 09:43 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision deals a temporary blow to voting access in a critical battleground state. Democrats pledged an appeal. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076343656/pittsburgh-bridge-collapse-biden-visit">A bridge in Pittsburgh collapsed on the day of Biden's planned infrastructure visit</a> NPR: Officials said 10 people suffered minor injuries and three were taken to the hospital as a result of the bridge collapse, which appears to have involved several vehicles and a Port Authority bus. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:26 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076323003/biden-cat-white-house-willow">Meet Willow, the Bidens' new, very presidential-looking cat</a> NPR: First lady Jill Biden met the cat when it interrupted a stump speech she was giving at a Pennsylvania farm during President Biden's 2020 campaign. 
  <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
