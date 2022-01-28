@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:47 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/59999541?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Doubts over timing of Covid test</a> BBC: Mystery of why tennis star’s positive test was out of sequence with other test codes from Serbia. 
  <p class="updated_time"> 06:42 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: New leader gives first speech since ousting president</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 06:41 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60150121?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: What does Kim Jong-un want?</a> BBC: Pyongyang has conducted six missile tests so far this year - but why now, and what do they want? 
  <p class="updated_time"> 06:36 PM CT, Jan. 27 </p> 
@@ -304,6 +304,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
  <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/tucker-carlson-russia-ukraine.html">Biden Gets to Name a New Supreme Court Justice</a> NYT: Plus, Tucker Carlson assures us that he’s “not an agent of Russia.” 
+ <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
