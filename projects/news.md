@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:50 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
+ <p class="updated_time"> 01:01 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Cautions U.S. Against War Talk</a> NYT: “I think it has to be quiet military preparation and quiet diplomacy,” said President Volodymyr Zelensky of Ukraine. President Emmanuel Macron of France spoke with President Vladimir V. Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 12:39 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
- <p class="updated_time"> 12:34 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Cautions U.S. Against War Talk</a> NYT: “I think it has to be quiet military preparation and quiet diplomacy,” said President Volodymyr Zelensky of Ukraine. President Emmanuel Macron of France spoke with President Vladimir V. Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 12:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: West African leaders suspend the country from the regional bloc and call for the ousted leader to be freed. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
- <p class="updated_time"> 10:12 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
  <p class="updated_time"> 10:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
  <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
