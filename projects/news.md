@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 08:06 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 08:03 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
+ <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 07:46 AM CT, Jan. 28 </p> 
@@ -32,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:51 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 05:12 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimono shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimino shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
  <p class="updated_time"> 04:21 AM CT, Jan. 28 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60152007?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin's geopolitical jigsaw</a> BBC: Invasion or fear strategy: the Russian leader keeps everyone guessing on his real plans for Ukraine. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
- <p class="updated_time"> 02:39 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199838/ukrainian-politician-discusses-ukraines-relationship-with-the-world">Ukrainian politician discusses Ukraine's relationship with the world</a> NPR: NPR's Mary Louise Kelly talks with Ukrainian politician Ivanna Klympush-Tsintsadze about Ukraine's relationship with the world, which she and many others are counting on as Russia threatens to invade. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
- <p class="updated_time"> 03:49 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
@@ -208,8 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:48 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Runs at Fastest Pace Since 1982 and Wages Rise</a> NYT: Inflation is still coming in high and wages are strong, trends that may prod the Federal Reserve to increases rates several times this year. 
+ <p class="updated_time"> 08:06 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are grew at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:26 AM CT, Jan. 28 </p> 
