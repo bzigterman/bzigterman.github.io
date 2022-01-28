@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 08:54 PM CT, Jan. 27 </p> 
@@ -75,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/coronavirus-uk-nhs-backlog.html">In UK, Covid Has Made NHS Delays for Other Illnesses Much Worse</a> NYT: The free health care system was known for delays, caused in part by whittled-down funding. But Covid made waits for transplants, cancer treatments and other essential care even longer. 
  <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-seeks-to-confront-russia-atu-n-security-council-over-ukraine-11643324475">U.S. Seeks to Confront Russia atU.N. Security Council Over Ukraine</a> WSJ: The Monday meeting would occur just one day before Moscow takes over the rotating presidency of the council. 
  <p class="updated_time"> 12:07 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/basketball/60151516?at_medium=RSS&at_campaign=KARANGA">Statue of Kobe Bryant and daughter at crash site</a> BBC: A sculptor places a statue of Los Angeles Lakers legend Kobe Bryant and his daughter Gianna at the site of their helicopter crash. 
  <p class="updated_time"> 12:31 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076042771/iran-mass-vaccination-as-omicron-looms">Iran is undergoing a mass vaccination campaign as omicron looms</a> NPR: Iran has found a rare, if fleeting, respite from the anxiety and trauma of the pandemic. 
- <p class="updated_time"> 11:30 PM CT, Jan. 26 </p> 
- <a href="https://www.wsj.com/articles/sensing-opportunity-in-syria-u-a-e-leads-arab-efforts-to-do-business-with-assad-11643279401">U.A.E. Leads Arab Efforts to Do Business With Syria</a> WSJ: Commercial ties are multiplying a decade after the onset of Syria’s civil war, as business leaders bet that Bashar al-Assad is there to stay. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
  <p class="updated_time"> 09:29 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html">As ISIS Resurges, US is Drawn Back Into the Fray</a> NYT: “ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so. 
- <p class="updated_time"> 04:45 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html">Russia Steps Up Propaganda War Amid Ukraine Tensions</a> NYT: The disinformation campaign includes claims that NATO and Ukrainian forces are preparing to attack Russian speakers in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
  <p class="updated_time"> 02:35 AM CT, Jan. 26 </p> 
