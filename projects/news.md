@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:09 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
+ <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
+ <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
+ <p class="updated_time"> 02:22 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden visited the collapsed structure during a pre-planned visit to discuss infrastructure. 
  <p class="updated_time"> 02:00 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 01:49 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60174684?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Don't create panic, Zelensky tells West</a> BBC: President Volodymyr Zelensky says warnings of a Russian invasion are putting the economy at risk. 
- <p class="updated_time"> 01:46 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden visited the collapsed structure during a pre-planned visit to discuss infrastructure. 
  <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
  <p class="updated_time"> 01:01 PM CT, Jan. 28 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 11:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
- <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 10:03 AM CT, Jan. 28 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
- <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
  <p class="updated_time"> 03:51 AM CT, Jan. 28 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
- <p class="updated_time"> 10:38 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
 
 
 </details>
@@ -198,10 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
+ <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 02:21 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/governors-covid-climate-change-campaigns-00003325">Here's what 5 governors have to say on Covid, climate change and campaign plans</a> Politico: POLITICO reporters interviewed five governors as on the issues in their states and their administrations' relationship to the federal government. 
- <p class="updated_time"> 02:11 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
@@ -216,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/biden-admin-blocks-military-aid-to-egypt-over-human-rights-concerns-00003242">Biden admin blocks military aid to Egypt over human rights concerns</a> Politico: Democratic lawmakers had pressured the White House, wanting to see Egypt’s leaders address human rights abuses before receiving additional security assistance. 
  <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, officials in Kyiv are trying to keep the public calm. 
- <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 11:00 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/washington-football-navy-admirals-00002985">Can the Washington Football Team toss the Navy a lifeline?</a> Politico: Rumors are swirling that the team’s new name could be "The Admirals." But would that really be a win for the sea service? 
  <p class="updated_time"> 10:58 AM CT, Jan. 28 </p> 
@@ -240,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC backed by Anthony Scaramucci’s firm targets midterms</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
- <p class="updated_time"> 05:01 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/a-former-nato-ambassador-gets-inside-putins-head-00003081">A former NATO ambassador gets inside Putin’s head</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to former U.S. ambassador to NATO Kurt Volker and Russian Ukrainian journalist Uliana Pavlova about the state of affairs in the Ukrainian crisis. 
  <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/adams-nypd-crime-00002011">Eric Adams’ war against crime sparks Democratic unrest</a> Politico: A series of high-profile and deadly incidents this year have given momentum to Adams’ public safety platform. 
  <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
