@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:06 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 05:29 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
+ <p class="updated_time"> 05:24 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
+ <p class="updated_time"> 05:24 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60174684?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Don't create panic, Zelensky tells West</a> BBC: President Volodymyr Zelensky says warnings of a Russian invasion are putting the economy at risk. 
+ <p class="updated_time"> 05:22 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately", says the U.S. charge d'affaires Kristina Kvien. 
+ <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately," says the U.S. charge d'affaires Kristina Kvien. 
  <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 04:43 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
- <p class="updated_time"> 04:03 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60174684?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Don't create panic, Zelensky tells West</a> BBC: President Volodymyr Zelensky says warnings of a Russian invasion are putting the economy at risk. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514305/she-helped-fight-for-ukraines-democracy-she-hopes-it-survives">She helped fight for Ukraine's democracy. She hopes it survives</a> NPR: NPR's Mary Louise Kelly talks with Hanna Hopko, an original leader of Ukraine's EuroMaidan protests in 2014 about whether Ukrainians can stand up to the threat of Russian aggression. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 11:35 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden's Sanctions Plan Targets Russian Banks, Companies and Imports if Ukraine Is Attacked</a> WSJ: The Biden administration is finalizing its targets for a barrage of economic sanctions should Russia attack Ukraine—hitting major Russian banks, state companies and key imports. 
- <p class="updated_time"> 11:16 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
@@ -74,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
  <p class="updated_time"> 09:09 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/putin-says-u-s-ignored-his-ukraine-demands-11643388212">Pentagon Warns Russia Could Seize Ukrainian Cities, While Kyiv Pleads for Calm</a> WSJ: The Pentagon warned Friday that Russia has amassed sufficient combat power to take cities and substantial swaths of territory in Ukraine, whose leaders warned the U.S. was overstating the Russian threat. 
+ <a href="https://www.wsj.com/articles/putin-says-u-s-ignored-his-ukraine-demands-11643388212">Pentagon Warns Russia Could Seize Ukrainian Cities, While Kyiv Pleads for Calm</a> WSJ: The Pentagon warned that Russia has amassed sufficient combat power to take cities and substantial swaths of territory in Ukraine, whose leaders warned the U.S. was overstating the Russian threat. 
  <p class="updated_time"> 09:07 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
  <p class="updated_time"> 09:06 AM CT, Jan. 28 </p> 
@@ -194,10 +194,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/risky-and-significant-canadian-capital-braces-for-trucker-protests-pro-00003364">'Risky and significant': Canadian capital braces for trucker protests</a> Politico: What started as a convoy against vaccine mandates has evolved into a free-wheeling demonstration against a long list of grievances. 
+ <p class="updated_time"> 05:24 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
- <p class="updated_time"> 05:06 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:05 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
