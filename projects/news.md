@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 07:39 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 07:27 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
