@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:16 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Macron Speaks With Putin, Seeking to Cool Ukraine Tensions</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 06:52 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
- <p class="updated_time"> 06:51 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Macron Speaks With Putin, Seeking to Cool Ukraine Tensions</a> NYT: President Biden told President Volodymyr Zelensky of Ukraine that the U.S. was ready to respond forcefully to any Russian aggression. The Pentagon said Russia continued to deploy forces to the region. 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60170962?at_medium=RSS&at_campaign=KARANGA">Chicago trains drive over flaming tracks</a> BBC: The tracks are set alight to prevent them from freezing over in snowy weather. 
  <p class="updated_time"> 06:25 AM CT, Jan. 28 </p> 
@@ -38,8 +42,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
- <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076301064/iraqi-kurds-are-learning-mandarin-to-take-advantage-of-jobs-from-chinese-compani">Iraqi Kurds are learning Mandarin to take advantage of jobs from Chinese companies</a> NPR: Dozens of contracts signed in recent years ensure China's growing footprint, even as major Western companies, including the U.S., plot their exit. 
  <p class="updated_time"> 12:51 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076300244/china-is-using-the-beijing-olympics-to-push-a-winter-sports-boom">China is using the Beijing Olympics to push a winter sports boom</a> NPR: The ruling Communist Party is using the Games to promote winter sports, many of which are new to most Chinese, for fitness and business opportunities. 
+ <p class="updated_time"> 12:32 AM CT, Jan. 28 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-finds-its-missile-tests-have-lost-their-shock-value-11643369551">North Korea Finds Its Missile Tests Have Lost Their Shock Value</a> WSJ: In the past, missile tests have won Pyongyang diplomatic attention. This time might be different. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 11:30 PM CT, Jan. 27 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
  <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
- <p class="updated_time"> 04:00 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html">Where Is Peng Shuai? Tennis Players and Fans Still Want to Know</a> NYT: A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China. 
  <p class="updated_time"> 06:01 PM CT, Jan. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60122063?at_medium=RSS&at_campaign=KARANGA">Aboriginal Tent Embassy: A powerful beacon of protest for 50 years</a> BBC: A protest that began 50 years ago with a beach umbrella remains a potent symbol of Aboriginal activism. 
 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
  <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
  <a href="https://www.cnn.com/2022/01/21/politics/free-covid-test-government-website-errors/index.html">Why some people are having problems ordering free Covid tests</a> CNN: Marisa Diaz y Diaz doesn't understand why her order for the free federal home Covid-19 tests isn't going through. 
- <p class="updated_time"> 07:26 AM CT, Jan. 21 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/21/happy-hour-drama-on-capitol-hill-495806">Happy hour drama on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
