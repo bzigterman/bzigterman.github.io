@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:57 PM CT, Jan. 27 </p> 
+ <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
  <p class="updated_time"> 08:54 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
@@ -344,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
