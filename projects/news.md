@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 09:43 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Official Cautions U.S. Against War Talk</a> NYT: The diplomatic push continued, with Russia’s foreign minister suggesting there was space to negotiate with the U.S. on limited security issues. President Emmanuel Macron of France spoke with President Vladimir Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 09:29 AM CT, Jan. 28 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimino shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
- <p class="updated_time"> 04:21 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
