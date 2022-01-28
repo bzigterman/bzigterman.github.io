@@ -7,24 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:39 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 07:53 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Ukraine Live Updates: U.S. Warns That Russia Continues to Deploy Troops; Moscow Hints at Diplomatic Opening</a> NYT: Russia’s foreign minister said that there was “a kernel of rationality” in the U.S. written response to its demands. President Emmanuel Macron of France has spoken with President Vladimir Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 07:51 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 07:46 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
  <p class="updated_time"> 07:27 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 07:22 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
- <p class="updated_time"> 06:52 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60170962?at_medium=RSS&at_campaign=KARANGA">Chicago trains drive over flaming tracks</a> BBC: The tracks are set alight to prevent them from freezing over in snowy weather. 
  <p class="updated_time"> 06:25 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
  <p class="updated_time"> 06:19 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
- <p class="updated_time"> 06:04 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">U.K. Police Ask for Report on Boris Johnson to Withhold Details</a> NYT: The request would mean that the senior civil servant Sue Gray’s report on her investigation into Downing Street parties is unlikely to lay out the most serious accusations in full. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:48 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Runs at Fastest Pace Since 1982 and Wages Rise</a> NYT: Inflation is still coming in high and wages are strong, trends that may prod the Federal Reserve to increases rates several times this year. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:26 AM CT, Jan. 28 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-nominee-black-woman.html">Biden Is Not the First President to Promise a Court Nominee From a Demographic Group</a> NYT: President Biden’s pledge to nominate a Black woman to the Supreme Court has drawn conservatives’ criticism. But they may just have a short memory. 
  <p class="updated_time"> 09:39 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
- <p class="updated_time"> 08:56 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/u-s-economy-grew-2021-2020-recession-00002678">U.S. economy grew 5.7 percent in 2021 in rebound from 2020 recession</a> Politico: It was the strongest calendar-year growth since a 7.2 percent surge in 1984 after a previous recession. 
  <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
@@ -332,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075823476/biden-supreme-court-nomination-breyer-replacement">Biden will get a chance to fill a Supreme Court vacancy. Here's what to expect</a> NPR: With Justice Stephen Breyer stepping down, President Biden has his first nomination to the high court. He campaigned on picking a Black woman for the lifetime appointment. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
- <p class="updated_time"> 08:18 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-stephen-breyer-retirement.html">Breyer’s Retirement Gives Democrats a Dose of (Cautious) Optimism</a> NYT: After a series of legislative losses, the chance for President Biden to fulfill a promise by nominating a Black woman was seen by progressives as a chance to show he could still bring about change. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
@@ -356,6 +354,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/senate-confirmation-biden-judicial-nominees-00001682">How Senate Dems reaped the benefits from 2 little-known GOP maneuvers</a> Politico: They may have lost their latest filibuster fight, but the president's party is helping stock the federal bench for him — thanks in part to Republicans. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
