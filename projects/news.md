@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:29 PM CT, Jan. 28 </p> 
+ <p class="updated_time"> 01:45 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Cautions U.S. Against War Talk</a> NYT: “I think it has to be quiet military preparation and quiet diplomacy,” said President Volodymyr Zelensky of Ukraine. President Emmanuel Macron of France spoke with President Vladimir V. Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
@@ -61,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60170962?at_medium=RSS&at_campaign=KARANGA">Chicago trains drive over flaming tracks</a> BBC: The tracks are set alight to prevent them from freezing over in snowy weather. 
+ <p class="updated_time"> 06:27 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
@@ -185,12 +189,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/us-kurds-syria.html">For  U.S. Military and Syria's Kurds, a Tangled History as Allies</a> NYT: American and Kurdish-led forces once beat back the Islamic State in Syria. Now they are fighting together again. 
  <p class="updated_time"> 12:48 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/middleeast/palestinian-american-dies-israel-autopsy.html">Palestinian American Held by Israel Died of Heart Attack, Autopsy Shows</a> NYT: The coroner’s report suggested that Omar Assad, 78, had a stress-induced heart attack as a result of injuries he sustained while in Israeli military custody. 
- <p class="updated_time"> 12:17 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/arts/music/sweden-kpop-bts-red-velvet.html">Sweden’s Songwriters Look to K-Pop</a> NYT: Dozens of songwriters and producers in Stockholm make a living from K-pop — even if they can’t speak Korean. 
  <p class="updated_time"> 10:38 AM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/macron-algeria-pieds-noirs.html">Macron’s Comments on Algeria Resonate as Elections Loom</a> NYT: The French president acknowledged the suffering of colonists who fled Algeria after the war of independence, a group that has long voted heavily in favor of the right in France. 
- <p class="updated_time"> 10:18 AM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/americas/olavo-de-carvalho-dead.html">Olavo de Carvalho, Bolsonaro’s Far-Right Guru, Dies at 74</a> NYT: He was the intellectual leader of Brazil’s far-right movement and a conspiracy theorist who mocked the pandemic. He died days after announcing he had Covid. 
 
 
 </details>
@@ -198,6 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/governors-covid-climate-change-campaigns-00003325">Here's what 5 governors have to say on Covid, climate change and campaign plans</a> Politico: POLITICO reporters interviewed five governors as on the issues in their states and their administrations' relationship to the federal government. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
+ <p class="updated_time"> 01:43 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Russia Has Troops at Ukraine Border for Large-Scale Invasion, Pentagon Says</a> NYT: The more than 100,000 Russian troops at Ukraine’s border could move throughout the country, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 12:32 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
  <p class="updated_time"> 12:18 PM CT, Jan. 28 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/washington-football-navy-admirals-00002985">Can the Washington Football Team toss the Navy a lifeline?</a> Politico: Rumors are swirling that the team’s new name could be "The Admirals." But would that really be a win for the sea service? 
  <p class="updated_time"> 10:58 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/west-virginia-governor-state-of-the-state-00003200">Critics can kiss Babydog's 'hiney,' West Virginia governor says in State of the State address</a> Politico: In his second annual address to the state, West Virginia governor Jim Justice used his young bulldog to respond to haters, most notably actress Bette Midler. 
- <p class="updated_time"> 10:48 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/supreme-court-nominee-black-woman.html">Biden Expected to Nominate a Black Woman to the Supreme Court</a> NYT: The president’s promise highlights a group that has struggled to become part of the very small pool of elite judges in the nation’s higher federal courts. 
  <p class="updated_time"> 10:28 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Wages Rise at Fastest Pace Since 2002 as Inflation Continues to Run Hot</a> NYT: Inflation is rapid and wages are growing at the fastest pace in two decades, trends that may prod the Federal Reserve to lift rates several times this year. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/nyc-mayor-blasts-palin-for-dining-while-infected-with-covid-19-00003020">NYC mayor blasts Palin for dining while infected with Covid-19</a> Politico: Palin sat for at least three al fresco meals over the last week while ignoring the city's rules and recommendations to prevent the spread of the virus. 
  <p class="updated_time"> 05:48 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
- <p class="updated_time"> 05:38 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/judge-limits-testimony-at-trial-professor-accused-hiding-chinese-ties-00003013">Judge limits testimony at trial of professor accused of hiding Chinese ties</a> Politico: Allowing talk of China's quest for U.S. technology could feed "Sinophobia," the court rules. 
  <p class="updated_time"> 05:04 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Will Have Little Power to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
  <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
