@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:20 AM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076341285/australian-open-rafael-nadal-djokovic-final">Rafael Nadal needs one more win to break the record he shares with Djokovic</a> NPR: "Being very honest, for me it's much more important to have the chance to play tennis than win [number] 21," Nadal said after Friday's semifinal win. 
+ <p class="updated_time"> 09:16 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 09:14 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Official Cautions U.S. Against War Talk</a> NYT: The diplomatic push continued, with Russia’s foreign minister suggesting there was space to negotiate with the U.S. on limited security issues. President Emmanuel Macron of France spoke with President Vladimir Putin of Russia to try to ease tensions. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
  <p class="updated_time"> 09:07 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
+ <p class="updated_time"> 09:06 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60173481?at_medium=RSS&at_campaign=KARANGA">Palestinians vent against Hamas in rare online event</a> BBC: It is rare to hear criticism of Hamas in Gaza, but Palestinians have found a way to air their anger. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
- <p class="updated_time"> 08:19 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60164531?at_medium=RSS&at_campaign=KARANGA">Burkina Faso coup: New leader Damiba gives first speech</a> BBC: Lt-Col Paul-Henri Damiba says constitutional order will return when the conditions are right. 
  <p class="updated_time"> 08:17 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
@@ -75,16 +81,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
- <p class="updated_time"> 09:32 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
  <p class="updated_time"> 09:00 PM CT, Jan. 27 </p> 
  <a href="https://www.wsj.com/articles/imf-says-chinas-economic-imbalances-have-worsened-11643356801">IMF Says China's Economic Imbalances Have Worsened</a> WSJ: Chinese growth in 2022 now forecast at 4.8%, down from the International Monetary Fund’s prior outlook of 5.7%. 
  <p class="updated_time"> 08:32 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">The story behind the picture of this lone survivor</a> BBC: Juan Esteban Montoya's younger sister was among dozens lost in the migrant boat tragedy. 
  <p class="updated_time"> 07:14 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076267324/russia-sees-little-ground-for-optimism-in-the-u-s-s-response-on-ukraine-crisis">Russia sees 'little ground for optimism' in the U.S.'s response on Ukraine crisis</a> NPR: All eyes are now on Vladimir Putin, who will decide how Russia will respond amid fears that Europe could again be plunged into war. 
- <p class="updated_time"> 07:01 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60154098?at_medium=RSS&at_campaign=KARANGA">Portugal focuses on post-pandemic politics ahead of poll</a> BBC: A snap election has been called on Sunday after the national assembly rejected the government's 2022 draft budget. 
  <p class="updated_time"> 06:53 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 100,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 06:47 PM CT, Jan. 27 </p> 
@@ -159,20 +161,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 06:16 AM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60154351?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: BBC tries to track down official bomb shelters in Kyiv</a> BBC: Ukrainian authorities have mapped out Kyiv's bomb shelters, but can the BBC's Sarah Rainsford find them? 
- <p class="updated_time"> 05:31 AM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">Ukraine: What sanctions could be imposed on Russia?</a> BBC: Western diplomats are refusing to be explicit about specific penalties to keep the Kremlin guessing. 
  <p class="updated_time"> 04:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076056335/who-staffers-accused-western-pacific-director-of-racism-and-abuse">WHO staffers accused its Western Pacific director of racism and abuse</a> NPR: The allegations were laid out in an internal complaint sent by unidentified "concerned WHO staff" to senior leadership. 
- <p class="updated_time"> 04:00 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1075900070/vice-president-harris-looks-for-a-fresh-start-on-migration-issues-in-honduras">Vice President Harris looks for a fresh start on migration issues in Honduras</a> NPR: The fact that Vice President Harris is even attending the inauguration is a sign of the importance the White House is placing on finding a partner in the fight against root causes of migration. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
  <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 07:04 PM CT, Jan. 26 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&at_campaign=KARANGA">What is the quantum apocalypse and should we be scared?</a> BBC: Security experts say a quantum computing leap could crack open all our secrets - so should we worry? 
  <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
@@ -204,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:18 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/pennsylvania-court-strikes-mail-voting-law-00003179">Pennsylvania voting fight escalates as court strikes down mail ballot law</a> Politico: The order is expected to be appealed. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision deals a temporary blow to voting access in a critical battleground state. Democrats pledged an appeal. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Bridge collapses in Pittsburgh hours before Biden’s infrastructure visit</a> Politico: Public safety officials warned residents to avoid the area and reported that they had cut a natural gas line. 
  <p class="updated_time"> 08:51 AM CT, Jan. 28 </p> 
@@ -260,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/white-house-covid-paid-leave-00002994">White House mulling scaled-down, Covid-related paid leave plan</a> Politico: Advocates are pushing for Congress to pass provisions to provide all workers with two weeks of Covid-related sick leave at full pay and 12 weeks of Covid-related family and medical leave at two-thirds pay. 
  <p class="updated_time"> 06:42 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-maga-revolt-endorsement-00003050">Trump faces MAGA revolt over endorsement</a> Politico: The former president's pick in an open congressional primary has sparked pushback from some of Trump's closest House allies and MAGA activists. 
+ <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
+ <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/biden-pressed-move-fast-scotus-nominee-00003044">Dems to Biden: Move fast on SCOTUS; a tragedy could ensue</a> Politico: The president said his intention is to name a nominee by the end of February. His party’s already getting antsy. 
  <p class="updated_time"> 06:12 PM CT, Jan. 27 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076134760/capitol-police-officer-eugene-goodman-gives-his-first-interview-since-jan-6">Capitol Police Officer Eugene Goodman gives his first interview since Jan. 6</a> NPR: Goodman, widely seen as a hero for his bravery during the attack on the U.S. Capitol, praised other law enforcement officers for their restraint.  "It could have easily been a bloodbath," he said. 
  <p class="updated_time"> 11:23 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/breyer-resignation-letter-scotus.html">Read Justice Breyer’s Letter Resigning From the Supreme Court</a> NYT: The associate justice was appointed to the Supreme Court in 1994 by President Bill Clinton. 
- <p class="updated_time"> 11:19 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/irs-backlog-business-relief-00002582">IRS backlog delayed emergency relief for businesses</a> Politico: The holdup required the IRS to shell out tens of millions of dollars in interest on top of the refunds. 
  <p class="updated_time"> 11:13 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076091746/supreme-court-justice-breyer-retire-announce-biden-white-house">Supreme Court Justice Breyer formally announces his retirement</a> NPR: At a White House event with Breyer, President Biden said it was his intention is to name a nominee to replace him by the end of February. 
  <p class="updated_time"> 10:02 AM CT, Jan. 27 </p> 
@@ -334,8 +334,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
- <p class="updated_time"> 06:45 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
+ <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
+ <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 12:32 PM CT, Jan. 26 </p> 
@@ -354,6 +354,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
+ <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
+ <a href="https://www.cnn.com/2022/01/25/politics/child-tax-credit-irs-letter/index.html">Parents: Don't throw away this IRS letter</a> CNN: Attention parents: Hold onto that Internal Revenue Service letter about your enhanced child tax credit payments. You'll need it when you file your 2021 tax return. 
  <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
@@ -388,12 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
  <p class="updated_time"> 06:00 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/rochelle-walensky-cdc-overhaul-public-health-covid-527630">‘The CDC alone can’t fix this’: Walensky calls for overhaul of U.S. public health system</a> Politico: If the pandemic is to turn endemic — a situation top Biden health officials say they could more easily control — the U.S. needs to overhaul the nation’s public health workforce, she said. 
- <p class="updated_time"> 05:10 PM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/2022/01/19/politics/senior-citizens-medicare-free-covid-tests-retailers/index.html">Senior citizens are fuming that Medicare won't pay for Covid-19 tests at retailers</a> CNN: Peggy Matthews-Forney cannot believe that, unlike private insurers, Medicare is not reimbursing senior citizens for the home Covid-19 tests they buy at retailers. 
  <p class="updated_time"> 12:21 PM CT, Jan. 21 </p> 
  <a href="https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572">Read the never-issued Trump order that would have seized voting machines</a> Politico: The Jan. 6 select panel has obtained the draft order and a document titled "Remarks on National Healing." Both are reported here in detail for the first time. 
- <p class="updated_time"> 09:24 AM CT, Jan. 21 </p> 
- <a href="https://www.cnn.com/2022/01/21/politics/free-covid-test-government-website-errors/index.html">Why some people are having problems ordering free Covid tests</a> CNN: Marisa Diaz y Diaz doesn't understand why her order for the free federal home Covid-19 tests isn't going through. 
 
 
 </details>
