@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
  <p class="updated_time"> 03:48 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Russia Is Positioned to Invade All of Ukraine, U.S. Says, but Kyiv Downplays War Talk</a> NYT: The Russian military buildup around Ukraine is unlike anything since “the Cold War days” said Gen. Mark A. Milley, chairman of the U.S. Joint Chiefs of Staff. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1075936067/mexico-murder-tijuana-journalists">Reporting on your colleagues' murders changes how you work</a> NPR: The murder of two journalists in Tijuana in less than a week has shocked reporters there and sparked outrage nationwide. 
  <p class="updated_time"> 11:54 AM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076134761/international-holocaust-remembrance-day-2022">On International Holocaust Remembrance Day, revisit NPR's stories from survivors</a> NPR: The annual day of commemoration comes admist a rise in antisemitic incidents and Holocaust denialism in the U.S. and other parts of the world. 
- <p class="updated_time"> 11:49 AM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076134150/eu-nato-ukraine-russia-updates">The U.S. and NATO stress unity on Ukraine as EU leaders worry about divisions</a> NPR: European leaders are working their own diplomatic avenues to end the tensions and worry that talk of a Russian invasion of Ukraine could be deepening divisions among them. 
  <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
@@ -192,10 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
  <p class="updated_time"> 03:49 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 03:49 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html">Inflation Continued to Run Hot and Consumer Spending Fell in December</a> NYT: Prices are rising rapidly, wages are growing and consumers are glum as a fraught economic moment poses big challenges for policymakers. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
