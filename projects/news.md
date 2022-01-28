@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
  <p class="updated_time"> 02:52 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 02:41 AM CT, Jan. 28 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/business/olympic-sponsors-china-beijing.html">For Olympic Sponsors, ‘China Is an Exception’</a> NYT: Pressure is mounting on companies to condemn the country’s human rights violations, but executives say the Games should not be politicized. 
  <p class="updated_time"> 01:11 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076301064/iraqi-kurds-are-learning-mandarin-to-take-advantage-of-jobs-from-chinese-compani">Iraqi Kurds are learning Mandarin to take advantage of jobs from Chinese companies</a> NPR: Dozens of contracts signed in recent years ensure China's growing footprint, even as major Western companies, including the U.S., plot their exit. 
- <p class="updated_time"> 12:59 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spread of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted in a first this week. 
  <p class="updated_time"> 12:51 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076300244/china-is-using-the-beijing-olympics-to-push-a-winter-sports-boom">China is using the Beijing Olympics to push a winter sports boom</a> NPR: The ruling Communist Party is using the Games to promote winter sports, many of which are new to most Chinese, for fitness and business opportunities. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
