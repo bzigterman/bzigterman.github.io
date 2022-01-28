@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 09:59 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/democrats-voting-rights-bill-negotiation.html">Are New Voting Bill Talks for Real or for Show?</a> NYT: Senators involved in the negotiations underway say the discussions are serious and substantive, but some Democrats remain wary. 
  <p class="updated_time"> 08:48 PM CT, Jan. 27 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/us/politics/senate-democrats-breyer-vacancy.html">Democrats Plan to Move Quickly on Justice Breyer's Successor </a> NYT: Given their tenuous majority, Democrats intend to act fast, anticipating roadblocks from Senator Mitch McConnell and Republicans. 
  <p class="updated_time"> 06:04 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/tucker-carlson-russia-ukraine.html">Biden Gets to Name a New Supreme Court Justice</a> NYT: Plus, Tucker Carlson assures us that he’s “not an agent of Russia.” 
- <p class="updated_time"> 05:33 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/democrats-china-competitiveness-bill.html">Democrats Renew Push for Industrial Policy Bill Aimed at China</a> NYT: A major competitiveness bill passed the Senate last year with bipartisan support, only to stall. Democrats hope to revive it in the House, but first they will have to bridge big differences. 
  <p class="updated_time"> 03:42 PM CT, Jan. 26 </p> 
  <a href="https://www.npr.org/2022/01/26/1075881054/the-messaging-from-ukrainian-officials-is-that-a-russian-invasion-isnt-imminent">The messaging from Ukrainian officials is that a Russian invasion isn't imminent</a> NPR: Ukrainian officials are downplaying the threat of an imminent Russian invasion in their messaging to the public, even as the United States delivers more Javelin missiles to Kyiv. 
  <p class="updated_time"> 03:25 PM CT, Jan. 26 </p> 
