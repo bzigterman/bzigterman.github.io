@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:27 AM CT, Jan. 28 </p> 
+ <p class="updated_time"> 11:37 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/01/28/world/ukraine-russia-news">Live Updates: Pentagon Warns of Continued Russian Buildup; Ukraine Cautions U.S. Against War Talk</a> NYT: “I think it has to be quiet military preparation and quiet diplomacy,” said President Volodymyr Zelensky of Ukraine. President Emmanuel Macron of France spoke with President Vladimir V. Putin of Russia to try to ease tensions. 
  <p class="updated_time"> 11:24 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Joe Biden is due in the area later on Friday to talk about his infrastructure legislation. 
  <p class="updated_time"> 11:16 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
+ <p class="updated_time"> 11:14 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60174684?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Don't create panic, Ukraine tells West</a> BBC: President Volodymyr Zelensky says warnings of a Russian invasion are putting the economy at risk. 
  <p class="updated_time"> 11:12 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
- <p class="updated_time"> 10:24 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60173191?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: US ignored Russia's security concerns, Putin says</a> BBC: The president's comments come after the US rejected Moscow's main demands over Ukraine. 
  <p class="updated_time"> 10:19 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 10:12 AM CT, Jan. 28 </p> 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Notorious Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
  <p class="updated_time"> 04:00 AM CT, Jan. 28 </p> 
@@ -202,8 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:18 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/biden-admin-blocks-military-aid-to-egypt-over-human-rights-concerns-00003242">Biden admin blocks military aid to Egypt over human rights concerns</a> Politico: Democratic lawmakers had pressured the White House, wanting to see Egypt’s leaders address human rights abuses before receiving additional security assistance. 
  <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, Ukrainian officials are trying to keep the public calm. 
+ <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, officials in Kyiv are trying to keep the public calm. 
  <p class="updated_time"> 11:13 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision deals a temporary blow to voting access in a critical battleground state. Democrats pledged an appeal. 
  <p class="updated_time"> 11:04 AM CT, Jan. 28 </p> 
@@ -249,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:25 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076093825/kenneth-polite-profile-justice-department-criminal-division">His brother was killed in 2004. Now he fights violent crime as a top Justice official</a> NPR: Kenneth Polite, head of the Criminal Division since July, wants to take the most dangerous people off the streets and spend more on preventing violence. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">What We Learned About Pegasus, the Smartphone Cracker</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
+ <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Explored Hacking U.S. Phones With Notorious Spyware</a> NYT: Israel used the NSO Group’s cyberweapon as a tool of diplomacy. The F.B.I. tested it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/walker-trump-north-carolina-senate-race-00003097">Walker defies Trump, says he’ll stay in N.C. Senate race</a> Politico: The former president sought to clear the field for his endorsed candidate, Rep. Ted Budd. 
  <p class="updated_time"> 07:28 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/biden-breyer-retire.html">Biden to Name Breyer's Supreme Court Successor Soon</a> NYT: Speaking with Justice Stephen Breyer by his side, Mr. Biden hailed his decades on the federal bench, including almost 28 years on the Supreme Court. 
- <p class="updated_time"> 06:53 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/white-house-covid-paid-leave-00002994">White House mulling scaled-down, Covid-related paid leave plan</a> Politico: Advocates are pushing for Congress to pass provisions to provide all workers with two weeks of Covid-related sick leave at full pay and 12 weeks of Covid-related family and medical leave at two-thirds pay. 
  <p class="updated_time"> 06:42 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-maga-revolt-endorsement-00003050">Trump faces MAGA revolt over endorsement</a> Politico: The former president's pick in an open congressional primary has sparked pushback from some of Trump's closest House allies and MAGA activists. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
