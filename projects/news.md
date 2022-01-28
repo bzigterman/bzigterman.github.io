@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 01:11 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076301064/iraqi-kurds-are-learning-mandarin-to-take-advantage-of-jobs-from-chinese-compani">Iraqi Kurds are learning Mandarin to take advantage of jobs from Chinese companies</a> NPR: Dozens of contracts signed in recent years ensure China's growing footprint, even as major Western companies, including the U.S., plot their exit. 
  <p class="updated_time"> 01:03 AM CT, Jan. 28 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076300244/china-is-using-the-beijing-olympics-to-push-a-winter-sports-boom">China is using the Beijing Olympics to push a winter sports boom</a> NPR: The ruling Communist Party is using the Games to promote winter sports, many of which are new to most Chinese, for fitness and business opportunities. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
- <p class="updated_time"> 11:21 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60164537?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden warns Russia may invade next month</a> BBC: Tens of thousands of Russian troops are at Ukraine's border, sparking fears of an invasion. 
  <p class="updated_time"> 11:00 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
