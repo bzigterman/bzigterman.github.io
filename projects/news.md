@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:50 PM CT, Jan. 28 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
- <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/biden-move-troops-eastern-europe-00003426">Biden says he'll move troops to Eastern Europe in 'near term'</a> Politico: The president’s comments come as the Pentagon says it has notified as many as 8,500 troops to standby for a potential deployment. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:13 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as President Donald Trump sought to stay in office after losing the 2020 election. 
- <p class="updated_time"> 02:26 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 02:21 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/governors-covid-climate-change-campaigns-00003325">Here's what 5 governors have to say on Covid, climate change and campaign plans</a> Politico: POLITICO reporters interviewed five governors as on the issues in their states and their administrations' relationship to the federal government. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
