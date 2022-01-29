@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
  <p class="updated_time"> 12:32 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
+ <p class="updated_time"> 12:26 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60184843?at_medium=RSS&at_campaign=KARANGA">Russia: Military drill moved further from Irish shore</a> BBC: Simon Coveney says the news was "welcome" following days of speculation over the exercise. 
  <p class="updated_time"> 11:53 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
@@ -71,6 +73,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/in-italy-no-dolce-vita-for-the-unvaccinated-11643457604">In Italy, No Dolce Vita for the Unvaccinated</a> WSJ: As travel and other restrictions tighten on Italians who aren’t inoculated against Covid-19, workarounds include flying abroad to reach a domestic destination. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205">Ukraine's 'Weekend Army' Trains as Last Defense Against Russia</a> WSJ: Ukraine is building up local forces to take on Russia’s military if it breaches front-line defenses, aiming to establish a brigade of reservists in each of the country’s regions. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-sanctions-on-russia-could-ensnarl-western-oil-companies-11643452201">U.S., EU Sanctions on Russia Could Ensnarl Western Oil Companies</a> WSJ: Washington and Brussels aren’t targeting oil or gas exports, but broader restrictions could still hit firms with big business in Russia. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
@@ -114,8 +120,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
  <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173771?at_medium=RSS&at_campaign=KARANGA">Ten people injured in Pittsburgh bridge collapse</a> BBC: President Biden saw the collapsed structure during a pre-planned visit to discuss infrastructure. 
- <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60155002?at_medium=RSS&at_campaign=KARANGA">Why Germany isn't sending weapons to Ukraine</a> BBC: Germany's refusal to arm Ukraine has puzzled and angered some allies. Here's what's behind it. 
  <p class="updated_time"> 03:50 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
@@ -153,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
- <p class="updated_time"> 04:53 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476">Ukraine's Growing Sense of National Identity Puts It in Putin's Crosshairs</a> WSJ: The Russian leader has long said the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence. Now Moscow is threatening a new invasion. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -204,10 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:11 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
- <p class="updated_time"> 12:56 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 12:30 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 11:57 AM CT, Jan. 29 </p> 
