@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
  <p class="updated_time"> 09:58 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
  <p class="updated_time"> 09:07 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
- <p class="updated_time"> 09:06 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60173481?at_medium=RSS&at_campaign=KARANGA">Palestinians vent against Hamas in rare online event</a> BBC: It is rare to hear criticism of Hamas in Gaza, but Palestinians have found a way to air their anger. 
  <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
