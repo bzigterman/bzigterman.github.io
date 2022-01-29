@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:51 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down as 'bombogenesis' snowstorm hits</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 07:47 AM CT, Jan. 29 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
- <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514207/pentagon-hopes-diplomacy-will-work-as-concern-over-an-invasion-of-ukraine-grows">Pentagon hopes diplomacy will work as concern over an invasion of Ukraine grows</a> NPR: Pentagon leaders said they hoped diplomacy could end the possibility of an invasion of Ukraine. But they cautioned if an invasion occurs, it could be horrific. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:51 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 07:56 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">SEC’s crypto crusade at risk in looming legal battles</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
