@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 10:20 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president set to stay on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
- <p class="updated_time"> 09:58 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
  <p class="updated_time"> 09:27 AM CT, Jan. 29 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663927/russia-could-cyberattack-ukraine-again-and-disrupt-the-entire-world">Russia could cyberattack Ukraine — again — and disrupt the entire world</a> NPR: Security analysts are concerned that Russia could launch cyberattacks against Ukraine, as it did in 2017. That could compromise government agencies, banks, and energy infrastructure. 
  <p class="updated_time"> 06:12 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60180738?at_medium=RSS&at_campaign=KARANGA">Storm Ana: Deadly Africa storm shows climate crisis reality - UN</a> BBC: Rescue workers in southern Africa are trying to reach thousands stranded as more are found dead. 
+ <p class="updated_time"> 06:07 AM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Sait Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
  <p class="updated_time"> 06:06 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60180955?at_medium=RSS&at_campaign=KARANGA">Australian Open: Ashleigh Barty wins first Melbourne title by beating Danielle Collins</a> BBC: Ashleigh Barty ends the home nation's 44-year wait for a Grand Slam women's singles champion by beating Danielle Collins to win the Australian Open title. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60180226?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption bigger than previously thought</a> BBC: The ecological disaster, linked to Tonga's tsunami, is said to be double the size first reported. 
  <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol. 
- <p class="updated_time"> 12:41 AM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Suat Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
@@ -202,10 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Winter storm lashes East Coast with deep snow, high winds</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
+ <p class="updated_time"> 11:21 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 11:01 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 11:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money in Politics, but Used It to Defeat Trump</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
  <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/west-virginia-governor-state-of-the-state-00003200">Critics can kiss Babydog's 'hiney,' West Virginia governor says in State of the State address</a> Politico: In his second annual address to the state, West Virginia governor Jim Justice used his young bulldog to respond to haters, most notably actress Bette Midler. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
- <p class="updated_time"> 10:18 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/pennsylvania-court-strikes-mail-voting-law-00003179">Pennsylvania voting fight escalates as court strikes down mail ballot law</a> Politico: The order is expected to be appealed. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
