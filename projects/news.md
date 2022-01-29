@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
+ <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
  <p class="updated_time"> 09:27 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 09:12 AM CT, Jan. 29 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076193616/ukraine-crisis-russia-history-nato-expansion">Explaining NATO and Ukraine: How a 30-year-old debate still drives Putin today</a> NPR: Here is how the history of NATO, Russia and Ukraine got so complicated. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1072718452/amanda-gorman-poetry-translated-hungary-roma">Hungarian Roma are translating Amanda Gorman; her poetry speaks to their experience</a> NPR: White European translators have hesitated to work on Gorman's poetry because of criticism that their race makes them inappropriate for the job. In Hungary, a marginalized community steps up. 
- <p class="updated_time"> 05:30 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
  <p class="updated_time"> 04:56 AM CT, Jan. 29 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
- <p class="updated_time"> 09:16 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/middleeast/syria-isis.html">Kurdish-Led Forces End Syria Prison Siege, Defeating ISIS Fighters</a> NYT: The six-day battle put a spotlight on the humanitarian and security issues left unresolved after the Islamic State’s so-called caliphate was destroyed. 
  <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
@@ -204,7 +204,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:51 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 10:06 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
