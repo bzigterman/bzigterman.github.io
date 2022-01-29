@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down as 'bombogenesis' snowstorm hits</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
+ <p class="updated_time"> 03:32 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 03:15 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 03:09 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 02:00 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60180226?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption bigger than previously thought</a> BBC: The ecological disaster, linked to Tonga's tsunami, is said to be double the size first reported. 
  <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
- <p class="updated_time"> 11:45 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down for 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">Sri Lanka to Coalisland: 'We felt like only people of colour in our town'</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How General Motors crushed an electric car dream</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
+ <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How an electric car dream was crushed</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 06:01 PM CT, Jan. 28 </p> 
