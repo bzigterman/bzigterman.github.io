@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Say They Have Agreed to Re-Elect Sergio Mattarella as President</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
+ <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses following clashes in the Kasai region. 
  <p class="updated_time"> 12:35 PM CT, Jan. 29 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president set to stay on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 09:12 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Say They Have Agreed to Re-Elect Sergio Mattarella as President</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60155002?at_medium=RSS&at_campaign=KARANGA">Why Germany isn't sending weapons to Ukraine</a> BBC: Germany's refusal to arm Ukraine has puzzled and angered some allies. Here's what's behind it. 
  <p class="updated_time"> 03:50 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
- <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -206,8 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:11 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 01:26 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
+ <p class="updated_time"> 01:18 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
+ <p class="updated_time"> 01:17 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money in Politics, but Used It to Defeat Trump</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
  <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
  <p class="updated_time"> 12:30 PM CT, Jan. 29 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Winter storm lashes East Coast with deep snow, high winds</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 11:00 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money in Politics, but Used It to Defeat Trump</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
  <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
@@ -260,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
  <p class="updated_time"> 04:23 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 04:18 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
- <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
