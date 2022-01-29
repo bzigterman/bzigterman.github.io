@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 10:20 AM CT, Jan. 29 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60166748?at_medium=RSS&at_campaign=KARANGA">Uganda's huge rolex sets Guinness world record</a> BBC: Guinness World Records has officially recognised the world's biggest rolex - but it's not a watch. 
  <p class="updated_time"> 06:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
- <p class="updated_time"> 06:17 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60167947?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the rising cost of UK living</a> BBC: Ros Atkins explains why households are being hit by rising prices and why it is likely to get worse. 
  <p class="updated_time"> 06:13 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 06:12 PM CT, Jan. 28 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
- <p class="updated_time"> 10:33 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
 
@@ -206,8 +204,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 11:01 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money in Politics, but Used It to Defeat Trump</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
+ <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -310,10 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/us/politics/trump-arizona-primary.html">The Man at the Center of Arizona’s Primary Is Donald Trump</a> NYT: Spoiler alert: It’s Donald Trump. 
  <p class="updated_time"> 05:48 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
- <p class="updated_time"> 05:04 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/new-justice-supreme-court.html">New Justice Is Unlikely to Thwart Supreme Court’s Rightward Lurch</a> NYT: The replacement of Justice Stephen G. Breyer with another liberal is unlikely to alter the basic dynamic at the court or to slow its accelerating conservative ambitions. 
- <p class="updated_time"> 04:43 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/business/economy/biden-economy-politics.html">Biden's Economy Is Surging but Voters Still See Gloom</a> NYT: President Biden is suffering in the polls as high inflation saps confidence in the economy, even as growth comes in strong. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
