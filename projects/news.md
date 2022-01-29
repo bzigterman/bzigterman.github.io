@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60180955?at_medium=RSS&at_campaign=KARANGA">Australian Open: Ashleigh Barty wins first Melbourne title by beating Danielle Collins</a> BBC: Ashleigh Barty ends the home nation's 44-year wait for a Grand Slam women's singles champion by beating Danielle Collins to win the Australian Open title. 
  <p class="updated_time"> 04:05 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘We’re Afraid of Everything’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Amid fears of an escalation with Russia, mourners in Mariupol, Ukraine, gathered to remember the 30 people who were killed in 2015 when rockets believed to have been fired from separatist-controlled territory struck a neighborhood. The mourners told us they were resolved to defend their city. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
- <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173502?at_medium=RSS&at_campaign=KARANGA">'Tiger King' murder-for-hire plot sentence shortened</a> BBC: The star of Netflix's Tiger King was convicted of hiring men to kill rival Carole Baskin in 2020 
  <p class="updated_time"> 01:01 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
  <p class="updated_time"> 12:39 PM CT, Jan. 28 </p> 
