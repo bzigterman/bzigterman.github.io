@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:07 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60141865?at_medium=RSS&at_campaign=KARANGA">'I fear bumping into my torturers in the street'</a> BBC: Syrian refugees saw Europe as a sanctuary - but now some are afraid of coming face to face with their torturers. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">We felt like only people of colour in our town</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">Sri Lanka to Coalisland: 'We felt like only people of colour in our town'</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How General Motors crushed an electric car dream</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
