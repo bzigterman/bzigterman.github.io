@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down as 'bombogenesis' snowstorm hits</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
+ <p class="updated_time"> 07:47 AM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076663969/kyiv-braces-for-russian-attacks-physical-and-beyond">Kyiv braces for Russian attacks, physical and beyond</a> NPR: City officials in Ukraine's capital are considering a wide range of possible actions by Russia: invasion, siege, hybrid warfare, cyberattacks and disinformation campaigns. 
+ <p class="updated_time"> 07:42 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">Sri Lanka to Coalisland: 'We felt like only people of colour in our town'</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 07:40 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘We’re Afraid of Everything’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:10 AM CT, Jan. 29 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076193616/ukraine-crisis-russia-history-nato-expansion">Explaining NATO and Ukraine: How a 30-year-old debate still drives Putin today</a> NPR: Here is how the history of NATO, Russia and Ukraine got so complicated. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1072718452/amanda-gorman-poetry-translated-hungary-roma">Hungarian Roma are translating Amanda Gorman; her poetry speaks to their experience</a> NPR: White European translators have hesitated to work on Gorman's poetry because of criticism their race makes them inappropriate for the job. In Hungary, a marginalized community steps up. 
- <p class="updated_time"> 05:59 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down as 'bombogenesis' snowstorm hits</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 05:30 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-60123219?at_medium=RSS&at_campaign=KARANGA">Beating Retreat: British hymn 'Abide with Me' causing a stir in India</a> BBC: India has dropped a colonial-era tune from Beating Retreat celebrations to "decolonise" the event. 
  <p class="updated_time"> 06:07 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60141865?at_medium=RSS&at_campaign=KARANGA">'I fear bumping into my torturers in the street'</a> BBC: Syrian refugees saw Europe as a sanctuary - but now some are afraid of coming face to face with their torturers. 
- <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">Sri Lanka to Coalisland: 'We felt like only people of colour in our town'</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How an electric car dream was crushed</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
- <p class="updated_time"> 09:20 AM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076341285/australian-open-rafael-nadal-djokovic-final">Rafael Nadal needs one more win to break the record he shares with Djokovic</a> NPR: "Being very honest, for me it's much more important to have the chance to play tennis than win [No.] 21," Nadal said after Friday's semifinal win. 
  <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:36 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 07:51 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">SEC’s crypto crusade at risk in looming legal battles</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
