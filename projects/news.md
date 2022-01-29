@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:53 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president set to stay on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 09:27 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 09:12 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Say They Have Agreed to Re-Elect Sergio Mattarella as President</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
+ <p class="updated_time"> 12:11 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 11:57 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/business/biden-peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
  <p class="updated_time"> 11:48 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Winter storm lashes East Coast with deep snow, high winds</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
- <p class="updated_time"> 11:46 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 11:00 AM CT, Jan. 29 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/cryptocurrency-industry-fights-proposed-ny-moratorium-here-is-whats-at-stake-00001994">Cryptocurrency industry fights proposed NY moratorium. Here is what's at stake.</a> Politico: The industry is warning that the proposed moratorium would lock New York out of the benefits of an innovative new technology. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
- <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/business/biden-peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, officials in Kyiv are trying to keep the public calm. 
- <p class="updated_time"> 10:58 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/west-virginia-governor-state-of-the-state-00003200">Critics can kiss Babydog's 'hiney,' West Virginia governor says in State of the State address</a> Politico: In his second annual address to the state, West Virginia governor Jim Justice used his young bulldog to respond to haters, most notably actress Bette Midler. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
