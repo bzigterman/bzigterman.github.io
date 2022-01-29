@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 29 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down for 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
- <p class="updated_time"> 09:58 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
