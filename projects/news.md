@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:19 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076730068/a-call-for-mexico-to-investigate-murders-of-journalists">A call for Mexico to investigate murders of journalists</a> NPR: NPR's Michel Martin speaks with Paula Saucedo from the Mexican press freedom organization Article 19, about the recent murders of two Mexican journalists and the state of the free press in Mexico. 
  <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730040/political-instability-in-africas-sahel-region-is-tied-to-rising-extremism">Political instability in Africa's Sahel region is tied to rising extremism</a> NPR: NPR's Michel Martin speaks with Andrew Lebovich, a Sahel expert at the European Council on Foreign Relations, about the coup in Burkina Faso and other similar ones to hit the region. 
  <p class="updated_time"> 03:50 PM CT, Jan. 29 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514305/she-helped-fight-for-ukraines-democracy-she-hopes-it-survives">She helped fight for Ukraine's democracy. She hopes it survives</a> NPR: NPR's Mary Louise Kelly talks with Hanna Hopko, an original leader of Ukraine's EuroMaidan protests in 2014 about whether Ukrainians can stand up to the threat of Russian aggression. 
- <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
  <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60155002?at_medium=RSS&at_campaign=KARANGA">Why Germany isn't sending weapons to Ukraine</a> BBC: Germany's refusal to arm Ukraine has puzzled and angered some allies. Here's what's behind it. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:06 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:21 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
