@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:12 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Say They Have Agreed to Re-Elect Sergio Mattarella as President</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -45,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
+ <p class="updated_time"> 03:00 AM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803">Deadly Mining Disaster Still Tests Vale Three Years Later</a> WSJ: The mining company is considering its metals future as costs from the Brumadinho disaster continue to rise—along with tensions with locals, regulators and investors. 
  <p class="updated_time"> 02:00 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60180226?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption bigger than previously thought</a> BBC: The ecological disaster, linked to Tonga's tsunami, is said to be double the size first reported. 
  <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Suat Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
- <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205">Ukraine's 'Weekend Army' Trains as Last Defense Against Russia</a> WSJ: Ukraine is building up local forces to take on Russia’s military if it breaches front-line defenses, aiming to establish a brigade of reservists in each of the country’s regions. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
  <p class="updated_time"> 11:43 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
- <p class="updated_time"> 11:35 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/biden-sanctions-plan-targets-russian-banks-companies-and-imports-if-ukraine-is-attacked-11643387219">Biden's Sanctions Plan Targets Russian Banks, Companies and Imports if Ukraine Is Attacked</a> WSJ: The Biden administration is finalizing its targets for a barrage of economic sanctions should Russia attack Ukraine—hitting major Russian banks, state companies and key imports. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
@@ -149,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 04:53 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476">Ukraine's Growing Sense of National Identity Puts It in Putin's Crosshairs</a> WSJ: The Russian leader has long said the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence. Now Moscow is threatening a new invasion. 
- <p class="updated_time"> 03:51 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-plotted-comeback-long-before-syria-prison-attack-11643381486">Islamic State Plotted Comeback Long Before Syria Prison Attack</a> WSJ: Islamic State has been slowly preparing for a comeback in the Syrian and Iraqi territory that it lost nearly three years ago. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
  <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
@@ -199,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
 
 
 </details>
@@ -208,7 +204,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:51 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 09:16 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
