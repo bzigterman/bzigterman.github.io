@@ -208,12 +208,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:21 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:31 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html">Pennsylvania Court Says State’s Mail Voting Law Is Unconstitutional</a> NYT: The decision, which could deal a blow to voting access in a critical battleground state, was immediately appealed. 
  <p class="updated_time"> 01:17 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money in Politics, but Used It to Defeat Trump</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money. Then They Won With It in 2020.</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
  <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
  <p class="updated_time"> 12:30 PM CT, Jan. 29 </p> 
