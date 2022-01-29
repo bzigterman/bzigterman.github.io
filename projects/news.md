@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:51 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
+ <p class="updated_time"> 11:45 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down for 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 11:04 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60177933?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell wants songs off Spotify in Covid row</a> BBC: The singer asks that her songs are removed from the platform in protest against Covid misinformation. 
  <p class="updated_time"> 09:58 PM CT, Jan. 28 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 06:01 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60169386?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 22 - 28 January 2022</a> BBC: A selection of images from all over the globe, taken this week. 
- <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down for 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/26/world/asia/north-korea-missile-test.html">North Korea Launches 2 Ballistic Missiles, South Korea Says</a> NYT: It was the North’s ​sixth missile test this month, the South Korean military said. 
  <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
- <p class="updated_time"> 07:01 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/world/europe/boris-johnson-lockdown-party.html">Awaiting Report on Parties, Johnson Faces Fire Over an Afghan Evacuation</a> NYT: Email messages made public by Parliament suggest the British prime minister authorized the evacuation of cats and dogs from an animal charity, despite denying doing so. 
  <p class="updated_time"> 06:03 PM CT, Jan. 26 </p> 
  <a href="https://www.nytimes.com/2022/01/26/us/politics/computer-chip-shortage-taiwan.html">How the Computer Chip Shortage Could Incite a U.S. Conflict With China</a> NYT: A war game and study by a think tank illustrate how dependent the world is on Taiwan’s semiconductor foundries. 
  <p class="updated_time"> 03:26 PM CT, Jan. 26 </p> 
