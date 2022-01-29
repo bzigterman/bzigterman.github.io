@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
+ <p class="updated_time"> 10:20 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president set to stay on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 09:58 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
- <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-60171632?at_medium=RSS&at_campaign=KARANGA">Chris Brown accused of drugging and raping woman on yacht</a> BBC: The singer is being sued for $20m over the alleged assault in Miami in 2020. 
  <p class="updated_time"> 10:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60165816?at_medium=RSS&at_campaign=KARANGA">Thermal waterfall freezes in Romania</a> BBC: The Toplița thermal waterfall is 10m high and famed in the country for its beauty. 
- <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:06 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
+ <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
  <p class="updated_time"> 02:53 PM CT, Jan. 22 </p> 
  <a href="https://www.politico.com/news/2022/01/22/arizona-democratic-party-censures-sinema-for-stance-on-voting-rights-00000405">Arizona Democratic Party censures Sinema over voting rights stance</a> Politico: Top donors have threatened to stop funding the senator if she didn’t reevaluate her opposition to a filibuster carve-out. 
- <p class="updated_time"> 10:30 AM CT, Jan. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/22/a-saturday-morning-grab-bag-00000216"> A Saturday morning grab bag</a> Politico Playbook: And a U.S. shipment of lethal aid arrives in Ukraine. 
 
 
 </details>
