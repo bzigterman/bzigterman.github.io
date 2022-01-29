@@ -208,8 +208,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:11 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 05:21 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
+ <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
@@ -268,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
- <p class="updated_time"> 04:23 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/biden-pressed-move-fast-scotus-nominee-00003044">Dems to Biden: Move fast on SCOTUS; a tragedy could ensue</a> Politico: The president said his intention is to name a nominee by the end of February. His party’s already getting antsy. 
- <p class="updated_time"> 06:12 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/trump-arizona-primary.html">The Man at the Center of Arizona’s Primary Is Donald Trump</a> NYT: Spoiler alert: It’s Donald Trump. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
