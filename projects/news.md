@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 28 </p> 
+ <a href="https://www.npr.org/2022/01/28/1076546117/5g-cleared-for-takeoff-near-more-airports-but-some-regional-jets-might-be-ground">5G cleared for takeoff near more airports, but some regional jets might be grounded</a> NPR: The FAA says Verizon and AT&T can turn on more 5G cell phone towers as safety concerns over interference with planes eases. But some smaller regional jets still face restrictions. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60178089?at_medium=RSS&at_campaign=KARANGA">Mike Lynch: Priti Patel approves extradition of Autonomy founder</a> BBC: Mike Lynch lost a multibillion-dollar fraud action on Friday over the sale of Autonomy in 2011. 
+ <p class="updated_time"> 06:38 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60166748?at_medium=RSS&at_campaign=KARANGA">Uganda's huge rolex sets Guinness world record</a> BBC: Guinness World Records has officially recognised the world's biggest rolex - but it's not a watch. 
  <p class="updated_time"> 06:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
  <p class="updated_time"> 06:17 PM CT, Jan. 28 </p> 
@@ -19,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-60123219?at_medium=RSS&at_campaign=KARANGA">Beating Retreat: British hymn 'Abide with Me' causing a stir in India</a> BBC: India has dropped a colonial-era tune from Beating Retreat celebrations to "decolonise" the event. 
  <p class="updated_time"> 06:07 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60141865?at_medium=RSS&at_campaign=KARANGA">'I fear bumping into my torturers in the street'</a> BBC: Syrian refugees saw Europe as a sanctuary - but now some are afraid of coming face to face with their torturers. 
+ <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">We felt like only people of colour in our town</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How General Motors crushed an electric car dream</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
@@ -27,10 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-60169386?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 22 - 28 January 2022</a> BBC: A selection of images from all over the globe, taken this week. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
- <p class="updated_time"> 05:46 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
- <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60178089?at_medium=RSS&at_campaign=KARANGA">Mike Lynch: Priti Patel approves extradition of Autonomy founder</a> BBC: Dr Mike Lynch lost a multibillion-dollar fraud action on Friday over the sale of Autonomy in 2011. 
  <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/28/1076338622/top-sundance-prize-goes-to-midwives-about-a-buddhist-midwife-and-her-muslim-trai">Sundance prize goes to 'Midwives' — about a Buddhist midwife and her Muslim apprentice</a> NPR: The documentary follows a Buddhist and a Muslim — who don't always get along — as they provide health care to Muslim women and children despite growing political and religious tensions in Myanmar. 
  <p class="updated_time"> 05:24 PM CT, Jan. 28 </p> 
@@ -113,6 +119,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
+ <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60170962?at_medium=RSS&at_campaign=KARANGA">Chicago trains drive over flaming tracks</a> BBC: The tracks are set alight to prevent them from freezing over in snowy weather. 
  <p class="updated_time"> 06:27 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
@@ -123,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimino shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:53 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476">Ukraine's Growing Sense of National Identity Puts It in Putin's Crosshairs</a> WSJ: Russian leader has long argued that the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence from their former overlords. Now Moscow is threatening a new invasion. 
- <p class="updated_time"> 04:47 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60148482?at_medium=RSS&at_campaign=KARANGA">F-35C fighter jet: Race is on to reach sunken US plane... before China</a> BBC: The $100m jet is fair game, in international waters. "It's the Hunt for Red October meets The Abyss." 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
  <p class="updated_time"> 03:51 AM CT, Jan. 28 </p> 
@@ -149,16 +155,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
- <p class="updated_time"> 08:32 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60135487?at_medium=RSS&at_campaign=KARANGA">The story behind the picture of this lone survivor</a> BBC: Juan Esteban Montoya's younger sister was among dozens lost in the migrant boat tragedy. 
  <p class="updated_time"> 07:14 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076267324/russia-sees-little-ground-for-optimism-in-the-u-s-s-response-on-ukraine-crisis">Russia sees 'little ground for optimism' in the U.S.'s response on Ukraine crisis</a> NPR: All eyes are now on Vladimir Putin, who will decide how Russia will respond amid fears that Europe could again be plunged into war. 
  <p class="updated_time"> 06:04 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60129088?at_medium=RSS&at_campaign=KARANGA">Former Nazi speaks in new BBC documentary</a> BBC: Hans Werk features in a new documentary about the last living generation of Germans in Hitler’s Third Reich. 
  <p class="updated_time"> 04:53 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/north-korea-biden-missile-tests.html">Can Biden Avert a Crisis With North Korea?</a> NYT: Kim Jong-un, the North Korean leader, has done six missile tests this month — equal to all of 2021 — and called on the nation to prepare for “long-term confrontation.” 
- <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
@@ -204,12 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/biden-move-troops-eastern-europe-00003426">Biden says he'll move troops to Eastern Europe in 'near term'</a> Politico: The president’s comments come as the Pentagon says it has notified as many as 8,500 troops to standby for a potential deployment. 
+ <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076579467/the-white-house-sees-a-broad-field-of-candidates-for-the-supreme-court-vacancy">The White House sees a broad field of candidates for the Supreme Court vacancy</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/what-mattered-this-week.html">What Mattered This Week</a> NYT: Democrats’ not-so-terrible news, the limits of Trump’s power and the allure of ’24. 
- <p class="updated_time"> 05:58 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:46 PM CT, Jan. 28 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/crypto-super-pac-20-million-00003049">Crypto super PAC backed by Anthony Scaramucci’s firm targets midterms</a> Politico: The crypto super PAC's backers include SkyBridge Capital, the hedge fund led by former Trump communications director Anthony Scaramucci. 
  <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/adams-nypd-crime-00002011">Eric Adams’ war against crime sparks Democratic unrest</a> Politico: A series of high-profile and deadly incidents this year have given momentum to Adams’ public safety platform. 
- <p class="updated_time"> 04:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/russia-cyber-army-ukraine-00003051">Russian invasion of Ukraine could redefine cyber warfare</a> Politico: As Russian troops mass on the Ukrainian border, experts outline the worst-case scenario for cyberattacks and counterstrikes. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617">Suicide hotline shares data with for-profit spinoff, raising ethical questions</a> Politico: The Crisis Text Line’s AI-driven chat service has gathered troves of data from its conversations with people suffering life’s toughest situations. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
@@ -350,6 +352,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
+ <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
@@ -366,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
+ <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
