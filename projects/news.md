@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 06:01 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60169386?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 22 - 28 January 2022</a> BBC: A selection of images from all over the globe, taken this week. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast hunkers down for 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered the region's first blizzard warnings since 2018. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
@@ -213,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076579467/the-white-house-sees-a-broad-field-of-candidates-for-the-supreme-court-vacancy">The White House sees a broad field of candidates for the Supreme Court vacancy</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
+ <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/what-mattered-this-week.html">What Mattered This Week</a> NYT: Democrats’ not-so-terrible news, the limits of Trump’s power and the allure of ’24. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
