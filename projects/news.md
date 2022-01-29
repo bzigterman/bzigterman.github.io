@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses following clashes in the Kasai region. 
+ <p class="updated_time"> 12:35 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
  <p class="updated_time"> 12:32 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
  <p class="updated_time"> 11:53 AM CT, Jan. 29 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:50 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076546117/5g-cleared-for-takeoff-near-more-airports-but-some-regional-jets-might-be-ground">5G cleared for takeoff near more airports, but some regional jets might be grounded</a> NPR: The FAA says Verizon and AT&T can turn on more 5G cell phone towers as safety concerns over interference with planes eases. But some smaller regional jets still face restrictions. 
- <p class="updated_time"> 06:43 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60178089?at_medium=RSS&at_campaign=KARANGA">Mike Lynch: Priti Patel approves extradition of Autonomy founder</a> BBC: Mike Lynch lost a multibillion-dollar fraud action on Friday over the sale of Autonomy in 2011. 
  <p class="updated_time"> 06:38 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60166748?at_medium=RSS&at_campaign=KARANGA">Uganda's huge rolex sets Guinness world record</a> BBC: Guinness World Records has officially recognised the world's biggest rolex - but it's not a watch. 
  <p class="updated_time"> 06:22 PM CT, Jan. 28 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-russia-nato-smith-ambassador.html">A ‘NATO Nerd’ Thrown Into the Crisis Over Russia and Ukraine</a> NYT: Julianne Smith is the new U.S. ambassador to NATO, a post empty for a year, trying to consult and lead while bandaging the wounds of the Trump years. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
- <p class="updated_time"> 08:39 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60169326?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Doctors among those begging for food in Tigray</a> BBC: As the UN sounds the alarm over hunger in northern Ethiopia, a doctor describes what health workers face. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
  <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
@@ -206,7 +206,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
- <p class="updated_time"> 12:36 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 12:56 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 12:30 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
