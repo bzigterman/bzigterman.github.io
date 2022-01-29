@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
+ <p class="updated_time"> 03:09 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 02:00 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60180226?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption bigger than previously thought</a> BBC: The ecological disaster, linked to Tonga's tsunami, is said to be double the size first reported. 
- <p class="updated_time"> 02:00 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately," says the U.S. charge d'affaires Kristina Kvien. 
- <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/risky-and-significant-canadian-capital-braces-for-trucker-protests-pro-00003364">'Risky and significant': Canadian capital braces for trucker protests</a> Politico: What started as a convoy against vaccine mandates has evolved into a free-wheeling demonstration against a long list of grievances. 
  <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
- <p class="updated_time"> 04:59 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
  <p class="updated_time"> 04:23 PM CT, Jan. 28 </p> 
