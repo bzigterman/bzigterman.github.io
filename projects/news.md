@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses following clashes in the Kasai region. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses after clashes in the Kasai region. 
  <p class="updated_time"> 12:35 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
  <p class="updated_time"> 12:32 PM CT, Jan. 29 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:41 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 01:51 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
