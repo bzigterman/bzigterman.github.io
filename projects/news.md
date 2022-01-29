@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:23 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:41 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60180955?at_medium=RSS&at_campaign=KARANGA">Australian Open: Ashleigh Barty wins first Melbourne title by beating Danielle Collins</a> BBC: Ashleigh Barty ends the home nation's 44-year wait for a Grand Slam women's singles champion by beating Danielle Collins to win the Australian Open title. 
- <p class="updated_time"> 04:05 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:40 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘We’re Afraid of Everything’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Amid fears of an escalation with Russia, mourners in Mariupol, Ukraine, gathered to remember the 30 people who were killed in 2015 when rockets believed to have been fired from separatist-controlled territory struck a neighborhood. The mourners told us they were resolved to defend their city. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
