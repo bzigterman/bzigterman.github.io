@@ -209,12 +209,12 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">Emboldened crypto industry plots legal assault on SEC</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
+ <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">SEC’s crypto crusade at risk in looming legal battles</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/cryptocurrency-industry-fights-proposed-ny-moratorium-here-is-whats-at-stake-00001994">Cryptocurrency industry fights proposed NY moratorium. Here is what's at stake.</a> Politico: The industry is warning that the proposed moratorium would lock New York out of the benefits of an innovative new technology. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
- <p class="updated_time"> 06:36 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 06:56 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/business/peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
@@ -260,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
- <p class="updated_time"> 12:18 PM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/biden-admin-blocks-military-aid-to-egypt-over-human-rights-concerns-00003242">Biden admin blocks military aid to Egypt over human rights concerns</a> Politico: Democratic lawmakers had pressured the White House, wanting to see Egypt’s leaders address human rights abuses before receiving additional security assistance. 
  <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, officials in Kyiv are trying to keep the public calm. 
  <p class="updated_time"> 10:58 AM CT, Jan. 28 </p> 
@@ -278,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:38 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076323003/biden-cat-white-house-willow">Meet Willow, the Bidens' new, very presidential-looking cat</a> NPR: First lady Jill Biden met the cat when it interrupted a stump speech she was giving at a Pennsylvania farm during President Biden's 2020 campaign. 
+ <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
- <p class="updated_time"> 09:21 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/democrats-biden-memo-student-debt-cancellation-00002193">Dozens of Democrats demand Biden release legal memo on student debt cancellation</a> Politico: Warren, Schumer and other top progressives want answers on what Education Department lawyers think about erasing large swaths of student debt. 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
