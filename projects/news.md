@@ -208,16 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:21 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 05:31 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/democrats-iowa-caucuses-on-blast-00003444">Dems put Iowa caucuses on trial</a> Politico: At a party rules meeting, DNC members called for the first-in-the-nation state to be toppled from its perch. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/governors-enjoy-cash-deluge-reelection-00002107">Governors enjoy cash deluge right before they face the voters</a> Politico: From "Walz checks" to nurse bonuses, state leaders are pushing money out the door in a competitive reelection year. 
  <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
