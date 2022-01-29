@@ -208,8 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:36 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 08:46 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
- <p class="updated_time"> 03:42 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/technology/fcc-china-unicom.html">F.C.C. revokes the ability of China Unicom to operate in the U.S.</a> NYT: The agency cited national security in revoking the license for the American subsidiary of a state-owned Chinese telecom operator. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
