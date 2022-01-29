@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years on, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076663934/a-mexican-journalist-remembers-her-2-colleagues-murdered-in-tijuana-this-month">A Mexican journalist remembers her 2 colleagues murdered in Tijuana this month</a> NPR: Scott Simon talks with Tijuana journalist Gabriela Martinez about the recent murders of two colleagues, and the continuing violence against journalists there and in other parts of Mexico. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076663927/russia-could-cyberattack-ukraine-again-and-disrupt-the-entire-world">Russia could cyberattack Ukraine — again — and disrupt the entire world</a> NPR: Security analysts are concerned that Russia could launch cyberattacks against Ukraine, as it did in 2017. That could compromise government agencies, banks, and energy infrastructure. 
  <p class="updated_time"> 06:12 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60180738?at_medium=RSS&at_campaign=KARANGA">Storm Ana: Deadly Africa storm shows climate crisis reality - UN</a> BBC: Rescue workers in southern Africa are trying to reach thousands stranded as more are found dead. 
  <p class="updated_time"> 06:06 AM CT, Jan. 29 </p> 
@@ -141,12 +147,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
- <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/business/olympic-sponsors-china-beijing.html">For Olympic Sponsors, ‘China Is an Exception’</a> NYT: Pressure is mounting on companies to condemn the country’s human rights violations, but executives say the Games should not be politicized. 
  <p class="updated_time"> 04:53 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476">Ukraine's Growing Sense of National Identity Puts It in Putin's Crosshairs</a> WSJ: The Russian leader has long said the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence. Now Moscow is threatening a new invasion. 
- <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076246311/chinas-ambassador-to-the-u-s-warns-of-military-conflict-over-taiwan">China's ambassador to the U.S. warns of 'military conflict' over Taiwan</a> NPR: In his first one-on-one interview since assuming his post in Washington, D.C., last July, Ambassador Qin Gang has an unusually blunt message for the U.S. 
  <p class="updated_time"> 03:51 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-plotted-comeback-long-before-syria-prison-attack-11643381486">Islamic State Plotted Comeback Long Before Syria Prison Attack</a> WSJ: Islamic State has been slowly preparing for a comeback in the Syrian and Iraqi territory that it lost nearly three years ago. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 02:11 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60165816?at_medium=RSS&at_campaign=KARANGA">Thermal waterfall freezes in Romania</a> BBC: The Toplița thermal waterfall is 10m high and famed in the country for its beauty. 
- <p class="updated_time"> 01:11 AM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076301064/iraqi-kurds-are-learning-mandarin-to-take-advantage-of-jobs-from-chinese-compani">Iraqi Kurds are learning Mandarin to take advantage of jobs from Chinese companies</a> NPR: Dozens of contracts signed in recent years ensure China's growing footprint, even as major Western companies, including the U.S., plot their exit. 
  <p class="updated_time"> 11:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
@@ -208,14 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:16 AM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">SEC’s crypto crusade at risk in looming legal battles</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/infrastructure-bridge-collapse-00003174">Infrastructure bonanza might not head off future bridge collapses</a> Politico: The reason: States will largely decide how they want to spend the money they get from the new infrastructure law. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/cryptocurrency-industry-fights-proposed-ny-moratorium-here-is-whats-at-stake-00001994">Cryptocurrency industry fights proposed NY moratorium. Here is what's at stake.</a> Politico: The industry is warning that the proposed moratorium would lock New York out of the benefits of an innovative new technology. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
- <p class="updated_time"> 06:56 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/business/peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
@@ -314,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/27/1076199852/how-a-new-bill-aims-to-counter-the-growing-economic-threat-of-china">A new bill aims to counter the growing economic threat of China</a> NPR: NPR's Asma Khalid speaks with Republican Sen. Todd Young of Indiana, about the America Competes Act of 2022, which the House introduced. He was a co-sponsor of the bi-partisan version in 2021. 
  <p class="updated_time"> 03:53 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199838/ukrainian-politician-discusses-ukraines-relationship-with-the-world">Ukrainian politician discusses Ukraine's relationship with the world</a> NPR: NPR's Mary Louise Kelly talks with Ukrainian politician Ivanna Klympush-Tsintsadze about Ukraine's relationship with the world, which she and many others are counting on as Russia threatens to invade. 
- <p class="updated_time"> 03:45 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/27/1076199817/where-president-zelenskys-popularity-stands-with-people-in-ukraine">Where President Zelensky's popularity stands with people in Ukraine</a> NPR: Amid the crisis with Russia, some Ukrainians say their president has come up short. Others, like some of the ones skating in front of the office of the president, say they still support him. 
  <p class="updated_time"> 03:42 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/technology/fcc-china-unicom.html">F.C.C. revokes the ability of China Unicom to operate in the U.S.</a> NYT: The agency cited national security in revoking the license for the American subsidiary of a state-owned Chinese telecom operator. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
- <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/cuellar-cisneros-primary-challenge-00001579">Texas primary showdown bursts open after FBI raid</a> Politico: After a near-miss in 2020, Rep. Henry Cuellar's repeat primary challenge is getting a burst of energy after the FBI raided Cuellar's house. 
  <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
  <p class="updated_time"> 06:46 PM CT, Jan. 24 </p> 
