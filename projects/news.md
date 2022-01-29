@@ -67,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514256/the-top-u-s-diplomat-in-ukraine-still-hopes-putin-chooses-diplomacy">The top U.S. Diplomat in Ukraine still hopes Putin chooses diplomacy</a> NPR: NPR's Mary Louise Kelly talks with Kristina Kvien who, as the Charge d'Affaires at the U.S. Embassy in Ukraine, is the top American official on the ground in Kyiv. 
  <p class="updated_time"> 03:40 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514207/pentagon-hopes-diplomacy-will-work-as-concern-over-an-invasion-of-ukraine-grows">Pentagon hopes diplomacy will work as concern over an invasion of Ukraine grows</a> NPR: Pentagon leaders said they hoped diplomacy could end the possibility of an invasion of Ukraine. But they cautioned if an invasion occurs, it could be horrific. 
+ <p class="updated_time"> 03:38 PM CT, Jan. 28 </p> 
+ <a href="https://www.wsj.com/articles/putin-says-u-s-ignored-his-ukraine-demands-11643388212">Pentagon Warns Russia Could Seize Ukrainian Cities, While Kyiv Pleads for Calm</a> WSJ: The Pentagon warned that Russia has amassed sufficient combat power to take cities and substantial swaths of territory in Ukraine, whose leaders warned the U.S. was overstating the Russian threat. 
  <p class="updated_time"> 02:58 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/26/business/media/jana-bennett-dead.html">Jana Bennett, Former Director of BBC Television, Dies at 66</a> NYT: An American-born executive who transformed the presentation of science on TV and was considered one of the most influential women in her industry. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076341285/australian-open-rafael-nadal-djokovic-final">Rafael Nadal needs one more win to break the record he shares with Djokovic</a> NPR: "Being very honest, for me it's much more important to have the chance to play tennis than win [No.] 21," Nadal said after Friday's semifinal win. 
  <p class="updated_time"> 09:13 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60162500?at_medium=RSS&at_campaign=KARANGA">Family who died in freezing cold by US-Canada border identified</a> BBC: The four Indian nationals were trying to cross the Canada-US border on foot. 
- <p class="updated_time"> 09:09 AM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/putin-says-u-s-ignored-his-ukraine-demands-11643388212">Pentagon Warns Russia Could Seize Ukrainian Cities, While Kyiv Pleads for Calm</a> WSJ: The Pentagon warned that Russia has amassed sufficient combat power to take cities and substantial swaths of territory in Ukraine, whose leaders warned the U.S. was overstating the Russian threat. 
  <p class="updated_time"> 09:07 AM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60169196?at_medium=RSS&at_campaign=KARANGA">Disney: Minnie Mouse to swap her dress for a trouser suit</a> BBC: The iconic cartoon mouse is getting a temporary outfit makeover, to mixed reviews from Disney fans. 
  <p class="updated_time"> 09:06 AM CT, Jan. 28 </p> 
