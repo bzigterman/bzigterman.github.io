@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076730040/political-instability-in-africas-sahel-region-is-tied-to-rising-extremism">Political instability in Africa's Sahel region is tied to rising extremism</a> NPR: NPR's Michel Martin speaks with Andrew Lebovich, a Sahel expert at the European Council on Foreign Relations, about the coup in Burkina Faso and other similar ones to hit the region. 
+ <p class="updated_time"> 03:50 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/americas/long-island-nurses-fake-vaccine-cards.html">Long Island Nurses Accused of Making $1.5 Million in Fake Vaccine Card Scheme</a> NYT: The nurses sold fake vaccination cards and entered false information into New York’s immunization database. 
  <p class="updated_time"> 03:39 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 03:37 PM CT, Jan. 29 </p> 
@@ -125,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
  <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60155002?at_medium=RSS&at_campaign=KARANGA">Why Germany isn't sending weapons to Ukraine</a> BBC: Germany's refusal to arm Ukraine has puzzled and angered some allies. Here's what's behind it. 
- <p class="updated_time"> 03:50 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514263/the-philippines-is-lifting-its-ban-on-foreign-tourists">The Philippines is lifting its ban on foreign tourists</a> NPR: The Philippines is losing restrictions on travel to the country. The change would affect tourists from 150 countries, including the U.S. where the largest diaspora of Filipinos live. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
- <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
- <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
 
 
 </details>
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:51 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:06 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:57 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/business/biden-peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
  <p class="updated_time"> 11:48 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Winter storm lashes East Coast with deep snow, high winds</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
+ <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Blizzard buffets East Coast with deep snow, winds, flooding</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
