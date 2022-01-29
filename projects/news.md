@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076193616/ukraine-crisis-russia-history-nato-expansion">Explaining NATO and Ukraine: How a 30-year-old debate still drives Putin today</a> NPR: Here is how the history of NATO, Russia and Ukraine got so complicated. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1072718452/amanda-gorman-poetry-translated-hungary-roma">Hungarian Roma are translating Amanda Gorman; her poetry speaks to their experience</a> NPR: White European translators have hesitated to work on Gorman's poetry because of criticism their race makes them inappropriate for the job. In Hungary, a marginalized community steps up. 
+ <a href="https://www.npr.org/2022/01/29/1072718452/amanda-gorman-poetry-translated-hungary-roma">Hungarian Roma are translating Amanda Gorman; her poetry speaks to their experience</a> NPR: White European translators have hesitated to work on Gorman's poetry because of criticism that their race makes them inappropriate for the job. In Hungary, a marginalized community steps up. 
  <p class="updated_time"> 05:30 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:46 AM CT, Jan. 29 </p> 
+ <p class="updated_time"> 08:51 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
