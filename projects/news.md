@@ -7,20 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60185291?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great expected to retire after winning seven Super Bowls</a> BBC: Tom Brady, one of the greatest players in NFL history and the winner of seven Super Bowls, is expected to retire. 
  <p class="updated_time"> 04:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730068/a-call-for-mexico-to-investigate-murders-of-journalists">A call for Mexico to investigate murders of journalists</a> NPR: NPR's Michel Martin speaks with Paula Saucedo from the Mexican press freedom organization Article 19, about the recent murders of two Mexican journalists and the state of the free press in Mexico. 
  <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730040/political-instability-in-africas-sahel-region-is-tied-to-rising-extremism">Political instability in Africa's Sahel region is tied to rising extremism</a> NPR: NPR's Michel Martin speaks with Andrew Lebovich, a Sahel expert at the European Council on Foreign Relations, about the coup in Burkina Faso and other similar ones to hit the region. 
- <p class="updated_time"> 03:50 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/americas/long-island-nurses-fake-vaccine-cards.html">Long Island Nurses Accused of Making $1.5 Million in Fake Vaccine Card Scheme</a> NYT: The nurses sold fake vaccination cards and entered false information into New York’s immunization database. 
  <p class="updated_time"> 03:39 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 03:37 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
  <p class="updated_time"> 03:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
- <p class="updated_time"> 03:01 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60185291?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great set to retire after winning seven Super Bowls</a> BBC: Tom Brady, one of the greatest players in NFL history and the winner of seven Super Bowls, is set to retire aged 44. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
@@ -201,6 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
  <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
+ <p class="updated_time"> 08:05 PM CT, Jan. 26 </p> 
+ <a href="https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html">U.S. and NATO Respond to Putin’s Demands as Ukraine Tensions Mount</a> NYT: The formal responses offered President Vladimir V. Putin of Russia a choice: negotiate or risk facing punishing economic sanctions. 
 
 
 </details>
@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:41 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 04:51 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
