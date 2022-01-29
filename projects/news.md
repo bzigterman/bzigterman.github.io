@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:24 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
+ <p class="updated_time"> 02:16 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60185291?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great retires after winning seven Super Bowls</a> BBC: Tom Brady, one of the greatest players in NFL history and the winner of seven Super Bowls, retires aged 44. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
+ <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
- <p class="updated_time"> 01:24 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Say They Have Agreed to Re-Elect Sergio Mattarella as President</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
@@ -19,20 +25,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses after clashes in the Kasai region. 
  <p class="updated_time"> 12:35 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
- <p class="updated_time"> 12:32 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
  <p class="updated_time"> 12:26 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60184843?at_medium=RSS&at_campaign=KARANGA">Russia: Military drill moved further from Irish shore</a> BBC: Simon Coveney says the news was "welcome" following days of speculation over the exercise. 
  <p class="updated_time"> 11:53 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
- <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/italy-opts-to-keep-the-same-leaders-averting-political-chaos-11643480296">Italy Opts to Keep Same Leaders, Averting Political Chaos</a> WSJ: Italian lawmakers ended a week of quarreling over how to fill the country’s mainly ceremonial position of president, re-electing Sergio Mattarella as head of state. Mario Draghi will remain prime minister for another year. 
  <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -69,12 +73,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 03:00 AM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803">Deadly Mining Disaster Still Tests Vale Three Years Later</a> WSJ: The mining company is considering its metals future as costs from the Brumadinho disaster continue to rise—along with tensions with locals, regulators and investors. 
- <p class="updated_time"> 02:00 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60180226?at_medium=RSS&at_campaign=KARANGA">Peru oil spill after Tonga eruption bigger than previously thought</a> BBC: The ecological disaster, linked to Tonga's tsunami, is said to be double the size first reported. 
  <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol. 
- <p class="updated_time"> 01:00 AM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/in-italy-no-dolce-vita-for-the-unvaccinated-11643457604">In Italy, No Dolce Vita for the Unvaccinated</a> WSJ: As travel and other restrictions tighten on Italians who aren’t inoculated against Covid-19, workarounds include flying abroad to reach a domestic destination. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
@@ -208,8 +208,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:51 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 02:26 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
+ <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
+ <p class="updated_time"> 01:54 PM CT, Jan. 29 </p> 
+ <a href="https://www.cnn.com/2022/01/26/politics/shortlist-breyer-replacement-supreme-court/index.html">Biden said he will put a Black woman on the Supreme Court. Here's who he could pick.</a> CNN: In what will be one of the most monumental endeavors of Joe Biden's presidency, the retirement of Stephen Breyer sets the stage for an immensely important decision by the President. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 01:18 PM CT, Jan. 29 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Winter storm lashes East Coast with deep snow, high winds</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 10:57 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 08:43 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/biden-pressed-move-fast-scotus-nominee-00003044">Dems to Biden: Move fast on SCOTUS; a tragedy could ensue</a> Politico: The president said his intention is to name a nominee by the end of February. His party’s already getting antsy. 
  <p class="updated_time"> 06:12 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/trump-arizona-primary.html">The Man at the Center of Arizona’s Primary Is Donald Trump</a> NYT: Spoiler alert: It’s Donald Trump. 
- <p class="updated_time"> 05:48 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/mcconnell-supreme-court-nominee.html">McConnell Warns Against ‘Radical’ Supreme Court Pick</a> NYT: Lawmakers from both parties and interest groups swung into gear to influence President Biden’s choice for the first Black woman to serve on the nation’s highest court. 
  <p class="updated_time"> 04:17 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/27/1076199866/justice-breyer-announced-his-retirement-and-biden-spoke-about-who-hell-nominate">Justice Breyer announced his retirement, and Biden spoke about who he'll nominate</a> NPR: Justice Stephen Breyer announced his retirement Thursday. President Biden says he hasn't decided who will fill the vacancy, but says he will keep his promise to name a Black woman to the bench. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
  <p class="updated_time"> 12:13 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/scotus-confirmation-white-house-breyer/index.html">Inside Biden's calculated response to Breyer's retirement</a> CNN: President Joe Biden received a much-needed political opening on Wednesday. But neither he, nor anyone close to him, appeared ready to celebrate it. 
- <p class="updated_time"> 12:06 PM CT, Jan. 27 </p> 
- <a href="https://www.cnn.com/2022/01/26/politics/shortlist-breyer-replacement-supreme-court/index.html">Biden said he will put a Black woman on the Supreme Court. Here's who he could pick.</a> CNN: In what will be one of the most monumental endeavors of Joe Biden's presidency, the retirement of Stephen Breyer sets the stage for an immensely important decision by the President. 
  <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
