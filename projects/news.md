@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol, his spokesman says. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 11:45 PM CT, Jan. 28 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/business/olympic-sponsors-china-beijing.html">For Olympic Sponsors, ‘China Is an Exception’</a> NYT: Pressure is mounting on companies to condemn the country’s human rights violations, but executives say the Games should not be politicized. 
- <p class="updated_time"> 05:12 AM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60167643?at_medium=RSS&at_campaign=KARANGA">Fujimino shooting: Japanese doctor killed in rare gun violence</a> BBC: Police arrest a 66-year-old man they say attacked a group of medical workers invited to his home. 
  <p class="updated_time"> 04:53 AM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476">Ukraine's Growing Sense of National Identity Puts It in Putin's Crosshairs</a> WSJ: Russian leader has long argued that the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence from their former overlords. Now Moscow is threatening a new invasion. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
