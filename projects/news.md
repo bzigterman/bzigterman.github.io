@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/biden-move-troops-eastern-europe-00003426">Biden says he'll move troops to Eastern Europe in 'near term'</a> Politico: The president’s comments come as the Pentagon says it has notified as many as 8,500 troops to standby for a potential deployment. 
+ <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/what-mattered-this-week.html">What Mattered This Week</a> NYT: Democrats’ not-so-terrible news, the limits of Trump’s power and the allure of ’24. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
- <p class="updated_time"> 05:46 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 05:38 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/risky-and-significant-canadian-capital-braces-for-trucker-protests-pro-00003364">'Risky and significant': Canadian capital braces for trucker protests</a> Politico: What started as a convoy against vaccine mandates has evolved into a free-wheeling demonstration against a long list of grievances. 
  <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
