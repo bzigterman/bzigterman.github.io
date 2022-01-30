@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
  <p class="updated_time"> 02:25 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple will keep an £18m content deal and continue to lobby for changes on misinformation. 
  <p class="updated_time"> 01:40 PM CT, Jan. 30 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
  <p class="updated_time"> 01:15 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
- <p class="updated_time"> 01:14 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/europe/russia-ukraine-britain-sanctions-ireland.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
  <p class="updated_time"> 12:32 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday victims remembered on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 12:16 PM CT, Jan. 30 </p> 
@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:18 AM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Spying. Human Rights. Covid-19. Beijing Olympic Athletes Face the Most Complex Games Ever</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all. 
+ <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Spying. Human Rights. Covid-19. Beijing Olympic Athletes Face the Most Complex Games Ever.</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/senate-nears-completion-of-measures-targeting-russian-economy-in-event-of-ukraine-invasion-11643565671">Senate Nears Completion of Measures Targeting Russian Economy in Event of Ukraine Invasion</a> WSJ: The legislation under negotiation among members of the Senate Foreign Relations Committee and others would target major Russian banks, hit Russians’ savings and pensions and limit the market for Russia’s sovereign debt. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:48 PM CT, Jan. 30 </p> 
+ <p class="updated_time"> 02:51 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
