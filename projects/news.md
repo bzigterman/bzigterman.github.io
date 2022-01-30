@@ -210,7 +210,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:21 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:26 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
