@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:33 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England extends vaccines to vulnerable children ages 5 to 11.</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
+ <p class="updated_time"> 10:30 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian frontline city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 10:01 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Police are working to "establish the full circumstances" after a woman posted accusations on social media. 
+ <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Mason Greenwood will not train or play until further notice, after the accusations on social media. 
  <p class="updated_time"> 10:00 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 09:58 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple say they will keep their £18m content deal, despite their warning over misinformation. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple will keep an £18m content deal and continue to lobby for changes on misinformation. 
  <p class="updated_time"> 09:58 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
  <p class="updated_time"> 09:49 AM CT, Jan. 30 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:47 AM CT, Jan. 29 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
  <p class="updated_time"> 08:03 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/russia-military-putin-ukraine.html">How Putin Is Using Russia’s Military as a Tool for Foreign Policy</a> NYT: A significantly upgraded military has emerged as a key tool of Vladimir Putin’s foreign policy, as he flexes his might around the globe and, most ominously, on the Ukraine border. 
- <p class="updated_time"> 02:00 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/health/omicron-covid-pandemic.html">Yes, Omicron Is Loosening Its Hold. But the Pandemic Has Not Ended.</a> NYT: With spotty immunity in the population and a churn of new variants, the coronavirus is likely to become a persistent but hopefully manageable threat. 
 
 
 </details>
@@ -210,8 +210,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS seat</a> Politico: "There is no affirmative action component if you pick her," the GOP senator said. 
  <p class="updated_time"> 10:59 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/israel-president-on-first-visit-to-uae-amid-regional-tensions-00003468">Israel president on first visit to UAE amid regional tensions</a> Politico: The nations normalized relations in the fall of 2020, part of a series of U.S.-brokered diplomatic deals between Israel and Arab states. 
+ <p class="updated_time"> 10:19 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 09:43 AM CT, Jan. 30 </p> 
@@ -228,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/beijing-china-covid-sealed-off-00003452">Beijing seals off more residential areas over Covid</a> Politico: China is on high alert as it prepares to host the Olympic Games opening  Friday. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
- <p class="updated_time"> 07:20 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-long-range-missile-00003451">North Korea tests longest-range missile since 2017</a> Politico: It seems to be pushing the West for concessions. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -314,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
+ <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076343656/pittsburgh-bridge-collapse-biden-visit">A bridge in Pittsburgh collapsed on the day of Biden's planned infrastructure visit</a> NPR: Officials said 10 people suffered minor injuries and at least three were taken to the hospital after the collapse, which appears to have involved several vehicles and a Port Authority bus. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
- <p class="updated_time"> 12:26 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393">Breyer retirement hands Biden open Supreme Court seat</a> Politico: Justice Stephen Breyer, 83, informed the president last week of his intention to retire, a person briefed on the justice’s plans said. 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
