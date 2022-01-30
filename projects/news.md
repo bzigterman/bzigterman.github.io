@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60188509?at_medium=RSS&at_campaign=KARANGA">Nato's Jens Stoltenberg: No plans for combat troops in Ukraine</a> BBC: Nato's secretary general calls for "a balanced approach", amid heighten tensions in Eastern Europe. 
+ <p class="updated_time"> 02:57 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/60186075?at_medium=RSS&at_campaign=KARANGA">Women's Ashes: England and Australia draw Test in incredible finale</a> BBC: England and Australia draw the one-off Women's Ashes Test in one of the most incredible finales cricket has seen. 
  <p class="updated_time"> 02:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
  <p class="updated_time"> 01:44 AM CT, Jan. 30 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60159622?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What’s at stake for the UK?</a> BBC: From the disruption of gas supplies to the risk of broader war, the Ukraine crisis matters to the UK. 
- <p class="updated_time"> 06:50 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60185733?at_medium=RSS&at_campaign=KARANGA">UK PM mulls bigger troop offer amid Ukraine crisis</a> BBC: A possible offer to bolster Nato forces comes as ministers prepare a diplomatic blitz on Moscow. 
  <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/americas/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” had driven across Canada to reach the capital. The demonstrations on Saturday were raucous but largely peaceful. 
  <p class="updated_time"> 06:37 PM CT, Jan. 29 </p> 
@@ -208,12 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
+ <p class="updated_time"> 07:26 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
+ <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/beijing-china-covid-sealed-off-00003452">Beijing seals off more residential areas over Covid</a> Politico: China is on high alert as it prepares to host the Olympic Games opening  Friday. 
- <p class="updated_time"> 07:06 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 07:20 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
- <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 11:43 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
- <p class="updated_time"> 07:07 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/crypto-industry-lawsuits-sec-00002580">SEC’s crypto crusade at risk in looming legal battles</a> Politico: Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
  <p class="updated_time"> 07:01 AM CT, Jan. 29 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/biden-move-troops-eastern-europe-00003426">Biden says he'll move troops to Eastern Europe in 'near term'</a> Politico: The president’s comments come as the Pentagon says it has notified as many as 8,500 troops to standby for a potential deployment. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
@@ -318,16 +318,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
- <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/gallery/2022/01/28/the-nations-cartoonists-on-the-week-in-politics-00000022">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:25 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076093825/kenneth-polite-profile-justice-department-criminal-division">His brother was killed in 2004. Now he fights violent crime as a top Justice official</a> NPR: Kenneth Polite, head of the Criminal Division since July, wants to take the most dangerous people off the streets and spend more on preventing violence. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306233/morning-news-brief">News brief: voices from Ukraine, Biden to visit Pa., economic preview</a> NPR: As Ukrainians carry on with their daily lives, most believe a war with Russia in inevitable. President Biden travels to Pittsburgh. A lot of U.S. economic data is being released on Friday. 
- <p class="updated_time"> 11:48 PM CT, Jan. 27 </p> 
- <a href="https://www.npr.org/2022/01/28/1076281662/federal-judge-canceled-gulf-oil-and-gas-leases-climate-change">A federal judge canceled major oil and gas leases over climate change</a> NPR: The ruling revokes leases sold in the Gulf of Mexico in the largest oil and gas lease sale in U.S. history. It says the Interior Department failed to consider the greenhouse gases it would produce. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
@@ -348,6 +344,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
+ <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
+ <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
+ <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
+ <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
