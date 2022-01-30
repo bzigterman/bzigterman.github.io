@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea launched a suspected missile — its 7th test this month</a> NPR: North Korea on Sunday fired at least one suspected ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:41 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 05:04 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately," says the U.S. charge d'affaires Kristina Kvien. 
- <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:41 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 08:11 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
