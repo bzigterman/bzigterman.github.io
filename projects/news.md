@@ -44,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:56 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60190484?at_medium=RSS&at_campaign=KARANGA">Hundreds of Houthi rebel child soldiers dead in Yemen war - UN</a> BBC: Nearly 1,500 children recruited by Houthi rebels died in fighting against the government in 2020. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern frontlines, in the deep winter cold, soldiers and civilians await Russia's next move. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern front lines, in the deep winter cold, soldiers and civilians await Russia's next move. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meet Western diplomats in 1st major international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
