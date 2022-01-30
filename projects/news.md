@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/spotify-advisories-covid-podcast-young-rogan-00003502">Spotify modified: Advisories are to be added to podcasts discussing Covid</a> Politico: Neil Young and other musicians had pulled their music because of Joe Rogan's podcasts. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
  <p class="updated_time"> 04:05 PM CT, Jan. 30 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
- <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
