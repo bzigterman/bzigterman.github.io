@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:31 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
  <p class="updated_time"> 06:03 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Irish PM lays wreath at Bloody Sunday memorial</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
- <p class="updated_time"> 05:49 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 04:48 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
  <p class="updated_time"> 04:19 AM CT, Jan. 30 </p> 
@@ -29,8 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
  <p class="updated_time"> 11:47 PM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633">In Eastern Ukraine's Largest City, Pro-Russia Sympathies Wither</a> WSJ: While Kharkiv may have been a relatively easy target for Russia in the past, sentiment in the industrial city of 1.4 million has since shifted dramatically against the Kremlin. 
- <p class="updated_time"> 10:46 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-covid-19-hospitalizations-retreat-but-deaths-keep-rising-11643536011">U.S. Covid-19 Hospitalizations Retreat, but Deaths Keep Rising</a> WSJ: Latest government figures showed the seven-day average of hospital patients with confirmed or suspected Covid-19 was about 8% down from a Jan. 20 peak. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/before-ukraine-standoff-u-s-pitched-its-freedom-gas-to-europe-and-found-few-takers-11643538604">Before Ukraine Standoff, U.S. Pitched Its 'Freedom Gas' to Europe and Found Few Takers</a> WSJ: American efforts to export LNG to the continent as an alternative to Russian supplies achieved mixed results. As conflict looms, options to send more gas now are limited. 
  <p class="updated_time"> 10:41 PM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 09:13 AM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/italy-opts-to-keep-the-same-leaders-averting-political-chaos-11643480296">Italy Opts to Keep Same Leaders, Averting Political Chaos</a> WSJ: Italian lawmakers ended a week of quarreling over how to fill the country’s mainly ceremonial position of president, re-electing Sergio Mattarella as head of state. Mario Draghi will remain prime minister for another year. 
  <p class="updated_time"> 08:10 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian front-line city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
@@ -103,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663934/a-mexican-journalist-remembers-her-2-colleagues-murdered-in-tijuana-this-month">A Mexican journalist remembers her 2 colleagues murdered in Tijuana this month</a> NPR: Scott Simon talks with Tijuana journalist Gabriela Martinez about the recent murders of two colleagues, and the continuing violence against journalists there and in other parts of Mexico. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663927/russia-could-cyberattack-ukraine-again-and-disrupt-the-entire-world">Russia could cyberattack Ukraine — again — and disrupt the entire world</a> NPR: Security analysts are concerned that Russia could launch cyberattacks against Ukraine, as it did in 2017. That could compromise government agencies, banks, and energy infrastructure. 
- <p class="updated_time"> 06:07 AM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Sait Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076193616/ukraine-crisis-russia-history-nato-expansion">Explaining NATO and Ukraine: How a 30-year-old debate still drives Putin today</a> NPR: Here is how the history of NATO, Russia and Ukraine got so complicated. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
@@ -115,14 +111,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 03:00 AM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803">Deadly Mining Disaster Still Tests Vale Three Years Later</a> WSJ: The mining company is considering its metals future as costs from the Brumadinho disaster continue to rise—along with tensions with locals, regulators and investors. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205">Ukraine's 'Weekend Army' Trains as Last Defense Against Russia</a> WSJ: Ukraine is building up local forces to take on Russia’s military if it breaches front-line defenses, aiming to establish a brigade of reservists in each of the country’s regions. 
- <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-sanctions-on-russia-could-ensnarl-western-oil-companies-11643452201">U.S., EU Sanctions on Russia Could Ensnarl Western Oil Companies</a> WSJ: Washington and Brussels aren’t targeting oil or gas exports, but broader restrictions could still hit firms with big business in Russia. 
  <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
@@ -216,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/beijing-china-covid-sealed-off-00003452">Beijing seals off more residential areas over Covid</a> Politico: China is on high alert as it prepares to host the Olympic Games opening  Friday. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-long-range-missile-00003451">North Korea tests longest-range missile since 2017</a> Politico: It seems to be pushing the West for concessions. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
@@ -224,7 +218,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
- <p class="updated_time"> 06:26 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 06:51 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
@@ -306,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
- <p class="updated_time"> 11:31 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/ukrainian-president-downplays-imminent-invasion-00003219">Ukrainian president downplays U.S. assessment of imminent invasion</a> Politico: As Russian troops continue to mass along the border, officials in Kyiv are trying to keep the public calm. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
@@ -396,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/23/sanders-sinema-arizona-democrats-censure-00000544">Sanders backs Arizona Democrats' censure of Sinema</a> Politico: “I think what the Arizona Democrats did was exactly right,” he said. 
  <p class="updated_time"> 10:44 AM CT, Jan. 23 </p> 
  <a href="https://www.politico.com/news/2022/01/23/ernst-republicans-voting-rights-00000543">GOP senator: Dems need to worry about voting rights in their home states</a> Politico: Iowa’s Joni Ernst pushed back on complaints about newly enacted state laws. 
- <p class="updated_time"> 06:55 AM CT, Jan. 23 </p> 
- <a href="https://www.politico.com/news/2022/01/23/covid-pills-treatment-pfizer-merck-527609">Game-changing Covid pills remain out of reach for some patients</a> Politico: A flurry of regulatory, testing and logistical issues is complicating the rollout. 
 
 
 </details>
