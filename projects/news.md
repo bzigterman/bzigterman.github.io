@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
+ <p class="updated_time"> 05:11 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 04:40 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076839081/northern-ireland-50-years-bloody-sunday">Northern Ireland marks 50 years since the Bloody Sunday killings</a> NPR: British soldiers shot and killed 13 people and wounded others during a 1972 civil rights protest. The shootings exacerbated the conflict in Northern Ireland, which left thousands dead over decades. 
  <p class="updated_time"> 04:21 PM CT, Jan. 30 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years On, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
  <p class="updated_time"> 10:44 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
- <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
  <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 10:30 AM CT, Jan. 30 </p> 
