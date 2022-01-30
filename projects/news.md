@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday victims remembered on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 12:16 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60192303?at_medium=RSS&at_campaign=KARANGA">Mason Greenwood: Man Utd player arrested over rape claim</a> BBC: Greater Manchester Police says a man in his 20s is being held following allegations on social media. 
- <p class="updated_time"> 12:14 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076821209/u-s-russia-ukraine-crisis-u-n-security-council">U.S. officials say Russia will face pressure at the U.N. over Ukraine </a> NPR: The U.S. ambassador to the United Nations says the U.N. Security Council will press Russia hard in a Monday session to discuss its massing of troops near Ukraine ahead of a possible invasion. 
  <p class="updated_time"> 10:50 AM CT, Jan. 30 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
- <p class="updated_time"> 10:32 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
  <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
