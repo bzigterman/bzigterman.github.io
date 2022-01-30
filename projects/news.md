@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple will keep an £18m content deal and continue to lobby for changes on misinformation. 
  <p class="updated_time"> 01:40 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 01:36 PM CT, Jan. 30 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 10:30 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian frontline city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
- <p class="updated_time"> 09:58 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple will keep an £18m content deal and continue to lobby for changes on misinformation. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
  <p class="updated_time"> 09:16 AM CT, Jan. 30 </p> 
