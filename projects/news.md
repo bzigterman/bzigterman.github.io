@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
+ <p class="updated_time"> 08:56 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60190484?at_medium=RSS&at_campaign=KARANGA">Hundreds of Houthi rebel child soldiers dead in Yemen war - UN</a> BBC: Nearly 1,500 children recruited by Houthi rebels died in fighting against the government in 2020. 
  <p class="updated_time"> 08:42 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
- <p class="updated_time"> 08:38 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 08:37 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 05:07 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076737436/security-experts-doubt-ukraine-readiness-against-russian-cyber-attack">Security experts doubt Ukraine readiness against Russian cyber attack</a> NPR: Ukrainian officials prepare civil defense in the event of a Russian invasion or hybrid warfare. 
- <p class="updated_time"> 04:45 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60185291?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great expected to retire after winning seven Super Bowls</a> BBC: Tom Brady, one of the greatest players in NFL history and the winner of seven Super Bowls, is expected to retire. 
  <p class="updated_time"> 04:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730068/a-call-for-mexico-to-investigate-murders-of-journalists">A call for Mexico to investigate murders of journalists</a> NPR: NPR's Michel Martin speaks with Paula Saucedo from the Mexican press freedom organization Article 19, about the recent murders of two Mexican journalists and the state of the free press in Mexico. 
  <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
@@ -211,7 +211,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Durbin defends Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: He referenced Ronald Reagan and Donald Trump in defending the president. 
+ <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 08:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
- <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
