@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
+ <p class="updated_time"> 06:03 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Irish PM lays wreath at Bloody Sunday memorial</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
+ <p class="updated_time"> 05:49 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 04:48 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
  <p class="updated_time"> 04:19 AM CT, Jan. 30 </p> 
@@ -21,8 +27,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: The storm dumps feet of snow, with high winds and flooding leaving tens of thousands without power. 
  <p class="updated_time"> 01:25 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
+ <p class="updated_time"> 11:47 PM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633">In Eastern Ukraine's Largest City, Pro-Russia Sympathies Wither</a> WSJ: While Kharkiv may have been a relatively easy target for Russia in the past, sentiment in the industrial city of 1.4 million has since shifted dramatically against the Kremlin. 
+ <p class="updated_time"> 10:46 PM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-covid-19-hospitalizations-retreat-but-deaths-keep-rising-11643536011">U.S. Covid-19 Hospitalizations Retreat, but Deaths Keep Rising</a> WSJ: Latest government figures showed the seven-day average of hospital patients with confirmed or suspected Covid-19 was about 8% down from a Jan. 20 peak. 
  <p class="updated_time"> 10:41 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Medium-Range Missile, Its Most Powerful Test in Years</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
+ <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
@@ -93,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663934/a-mexican-journalist-remembers-her-2-colleagues-murdered-in-tijuana-this-month">A Mexican journalist remembers her 2 colleagues murdered in Tijuana this month</a> NPR: Scott Simon talks with Tijuana journalist Gabriela Martinez about the recent murders of two colleagues, and the continuing violence against journalists there and in other parts of Mexico. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663927/russia-could-cyberattack-ukraine-again-and-disrupt-the-entire-world">Russia could cyberattack Ukraine — again — and disrupt the entire world</a> NPR: Security analysts are concerned that Russia could launch cyberattacks against Ukraine, as it did in 2017. That could compromise government agencies, banks, and energy infrastructure. 
- <p class="updated_time"> 06:12 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60180738?at_medium=RSS&at_campaign=KARANGA">Storm Ana: Deadly Africa storm shows climate crisis reality - UN</a> BBC: Rescue workers in southern Africa are trying to reach thousands stranded as more are found dead. 
  <p class="updated_time"> 06:07 AM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Sait Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
@@ -103,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1072718452/amanda-gorman-poetry-translated-hungary-roma">Hungarian Roma are translating Amanda Gorman; her poetry speaks to their experience</a> NPR: White European translators have hesitated to work on Gorman's poetry because of criticism that their race makes them inappropriate for the job. In Hungary, a marginalized community steps up. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
- <p class="updated_time"> 04:56 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60180507?at_medium=RSS&at_campaign=KARANGA">Hong Kong: One of city's last Tiananmen Square memorials covered up</a> BBC: The University of Hong Kong hides a pavement tribute, citing only routine maintenance. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
@@ -187,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/boris-johnson-report-downing-street-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
- <p class="updated_time"> 01:50 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60162451?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras swears in its first female president</a> BBC: Xiomara Castro's arrival marks the end to the right-wing National Party's 12-year reign. 
  <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
@@ -212,7 +216,15 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:56 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/north-korea-long-range-missile-00003451">North Korea tests longest-range missile since 2017</a> Politico: It seems to be pushing the West for concessions. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
+ <p class="updated_time"> 06:26 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
@@ -260,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/infrastructure-bridge-collapse-00003174">Infrastructure bonanza might not head off future bridge collapses</a> Politico: The reason: States will largely decide how they want to spend the money they get from the new infrastructure law. 
  <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
- <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/cryptocurrency-industry-fights-proposed-ny-moratorium-here-is-whats-at-stake-00001994">Cryptocurrency industry fights proposed NY moratorium. Here is what's at stake.</a> Politico: The industry is warning that the proposed moratorium would lock New York out of the benefits of an innovative new technology. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
@@ -312,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
- <p class="updated_time"> 05:00 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/adams-nypd-crime-00002011">Eric Adams’ war against crime sparks Democratic unrest</a> Politico: A series of high-profile and deadly incidents this year have given momentum to Adams’ public safety platform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/gallery/2022/01/28/the-nations-cartoonists-on-the-week-in-politics-00000022">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:25 AM CT, Jan. 28 </p> 
@@ -348,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
- <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
@@ -378,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 09:58 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/news/2022/01/24/supreme-court-proxy-voting-house-00001243">Supreme Court denies Kevin McCarthy's challenge to proxy voting in House</a> Politico: The decision marks the final nail in the coffin for challenges to the chamber’s absentee voting procedures prompted by the coronavirus pandemic. 
  <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 24 </p> 
