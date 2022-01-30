@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
+ <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798464/theres-a-complication-in-sanctioning-russia-it-could-cut-europes-gas-supply">There's a complication in sanctioning Russia — it could cut Europe's gas supply</a> NPR: The U.S. is working to help Europe find alternative energy sources should war in Ukraine lead Russia to cut off natural gas supplies. 
  <p class="updated_time"> 06:59 AM CT, Jan. 30 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
- <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/28/1076338622/top-sundance-prize-goes-to-midwives-about-a-buddhist-midwife-and-her-muslim-trai">Sundance prize goes to 'Midwives' — about a Buddhist midwife and her Muslim apprentice</a> NPR: The documentary follows a Buddhist and a Muslim — who don't always get along — as they provide health care to Muslim women and children despite growing political and religious tensions in Myanmar. 
  <p class="updated_time"> 05:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
- <p class="updated_time"> 07:26 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 07:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
@@ -221,9 +221,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:20 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
- <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-long-range-missile-00003451">North Korea tests longest-range missile since 2017</a> Politico: It seems to be pushing the West for concessions. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
+ <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
