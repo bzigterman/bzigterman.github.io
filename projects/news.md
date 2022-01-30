@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
  <p class="updated_time"> 09:08 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 08:56 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60190484?at_medium=RSS&at_campaign=KARANGA">Hundreds of Houthi rebel child soldiers dead in Yemen war - UN</a> BBC: Nearly 1,500 children recruited by Houthi rebels died in fighting against the government in 2020. 
- <p class="updated_time"> 08:42 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
  <p class="updated_time"> 08:37 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
  <p class="updated_time"> 04:48 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
+ <p class="updated_time"> 04:20 AM CT, Jan. 30 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 04:19 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Sunday's launch is the seventh this month, and is thought to be the largest in almost five years. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633">In Eastern Ukraine's Largest City, Pro-Russia Sympathies Wither</a> WSJ: While Kharkiv may have been a relatively easy target for Russia in the past, sentiment in the industrial city of 1.4 million has since shifted dramatically against the Kremlin. 
  <p class="updated_time"> 11:30 PM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/before-ukraine-standoff-u-s-pitched-its-freedom-gas-to-europe-and-found-few-takers-11643538604">Before Ukraine Standoff, U.S. Pitched Its 'Freedom Gas' to Europe and Found Few Takers</a> WSJ: American efforts to export LNG to the continent as an alternative to Russian supplies achieved mixed results. As conflict looms, options to send more gas now are limited. 
- <p class="updated_time"> 10:41 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
