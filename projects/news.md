@@ -7,6 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/americas/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” had driven across Canada to reach the capital. The demonstrations on Saturday were raucous but largely peaceful. 
+ <p class="updated_time"> 06:37 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60122629?at_medium=RSS&at_campaign=KARANGA">The US shrine that claims to hold Gandhi's ashes</a> BBC: Keeping the ashes without dispersing them goes against Gandhi's own wishes, his family says. 
+ <p class="updated_time"> 06:34 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60083687?at_medium=RSS&at_campaign=KARANGA">Liberia prisons: Where inmates are short of food, space and uniforms</a> BBC: Liberia's main jail stopped taking new inmates recently because it couldn't give them anything to eat. 
+ <p class="updated_time"> 06:28 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60137053?at_medium=RSS&at_campaign=KARANGA">Myanmar: Why once peaceful protesters are now choosing violence</a> BBC: One year on, resistance to military rule is unrecognisable from its boisterous, colourful start. 
+ <p class="updated_time"> 06:21 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59773808?at_medium=RSS&at_campaign=KARANGA">Jamie Oliver: I'm not a fan of cookery competition shows</a> BBC: The TV chef says he had to be persuaded to launch his new cookery talent contest series on Channel 4. 
+ <p class="updated_time"> 06:12 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60159622?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What’s at stake for the UK?</a> BBC: From the disruption of gas supplies to the risk of broader war, the Ukraine crisis matters to the UK. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
+ <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60173066?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Five things to know</a> BBC: Covid bubbles, artificial snow and human rights are making 2022's Winter Olympics hit the headlines. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-bristol-60163456?at_medium=RSS&at_campaign=KARANGA">Joe Jenkins: YouTube star on piano-playing popularity</a> BBC: A 20-year-old piano player has an online following of nearly four million enjoying his musical stunts. 
  <p class="updated_time"> 05:41 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60185963?at_medium=RSS&at_campaign=KARANGA">Allison Fluke-Ekren: US woman held for leading female IS group</a> BBC: Allison Fluke-Ekren is suspected of training women and children to use AK-47s and suicide vests. 
  <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
@@ -23,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 03:37 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
- <p class="updated_time"> 03:18 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” began as a response to Covid vaccine requirements for some truckers, but its political aims have since broadened. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
@@ -51,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:47 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663969/kyiv-braces-for-russian-attacks-physical-and-beyond">Kyiv braces for Russian attacks, physical and beyond</a> NPR: City officials in Ukraine's capital are considering a wide range of possible actions by Russia: invasion, siege, hybrid warfare, cyberattacks and disinformation campaigns. 
- <p class="updated_time"> 07:42 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60147850?at_medium=RSS&at_campaign=KARANGA">Sri Lanka to Coalisland: 'We felt like only people of colour in our town'</a> BBC: The story of two adopted siblings from Sri Lanka who were brought up in a rural town in Northern Ireland. 
  <p class="updated_time"> 07:10 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years on, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
@@ -97,24 +111,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:50 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076546117/5g-cleared-for-takeoff-near-more-airports-but-some-regional-jets-might-be-ground">5G cleared for takeoff near more airports, but some regional jets might be grounded</a> NPR: The FAA says Verizon and AT&T can turn on more 5G cell phone towers as safety concerns over interference with planes eases. But some smaller regional jets still face restrictions. 
- <p class="updated_time"> 06:38 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60166748?at_medium=RSS&at_campaign=KARANGA">Uganda's huge rolex sets Guinness world record</a> BBC: Guinness World Records has officially recognised the world's biggest rolex - but it's not a watch. 
  <p class="updated_time"> 06:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/australia/tonga-diaspora-recovery.html">Tonga’s Diaspora Confronts Daunting Challenge of Disaster Response</a> NYT: Tens of thousands of overseas Tongans, intimately tied to their homeland, are contending with the pandemic, snarled supply chains and limited communications. 
  <p class="updated_time"> 06:13 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 06:12 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60171335?at_medium=RSS&at_campaign=KARANGA">Peter Tatchell on his life-long fight for gay rights</a> BBC: Peter Tatchell's high-profile activism has seen him take on archbishops, presidents and boxers. 
- <p class="updated_time"> 06:11 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60123219?at_medium=RSS&at_campaign=KARANGA">Beating Retreat: British hymn 'Abide with Me' causing a stir in India</a> BBC: India has dropped a colonial-era tune from Beating Retreat celebrations to "decolonise" the event. 
- <p class="updated_time"> 06:07 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60141865?at_medium=RSS&at_campaign=KARANGA">'I fear bumping into my torturers in the street'</a> BBC: Syrian refugees saw Europe as a sanctuary - but now some are afraid of coming face to face with their torturers. 
- <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/stories-60160474?at_medium=RSS&at_campaign=KARANGA">EV1: How an electric car dream was crushed</a> BBC: When the EV1 was cancelled, many thought the electric car era was over. But its death inspired Tesla 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
- <p class="updated_time"> 06:01 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60169386?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 22 - 28 January 2022</a> BBC: A selection of images from all over the globe, taken this week. 
  <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:36 PM CT, Jan. 28 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
- <p class="updated_time"> 04:01 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60155002?at_medium=RSS&at_campaign=KARANGA">Why Germany isn't sending weapons to Ukraine</a> BBC: Germany's refusal to arm Ukraine has puzzled and angered some allies. Here's what's behind it. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -210,8 +212,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:56 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 06:46 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 06:19 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
@@ -221,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Cloud of Supreme Court Confirmation Bitterness Hangs Over Coming Fight</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Democrats Decried Dark Money. Then They Won With It in 2020.</a> NYT: A New York Times analysis reveals how the left outdid the right at raising and spending millions from undisclosed donors to defeat Donald Trump and win power in Washington. 
  <p class="updated_time"> 01:03 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
- <p class="updated_time"> 12:30 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 11:57 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/business/biden-peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
  <p class="updated_time"> 11:48 AM CT, Jan. 29 </p> 
