@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
  <p class="updated_time"> 02:09 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Sunday's launch is the seventh this month, and is thought to be the largest in almost five years. 
  <p class="updated_time"> 02:00 AM CT, Jan. 30 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
- <p class="updated_time"> 06:27 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/sarah-palin-covid-nyc-unvaccinated.html">Sarah Palin, Who is Unvaccinated, Dined Outdoors in N.Y.C. After Testing Positive</a> NYT: The unvaccinated former Alaska governor returned to Elio’s, the Upper East Side restaurant where she had been seen dining indoors on Saturday despite the city’s requirement that indoor guests show proof of vaccination. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/boris-johnson-report-downing-street-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
  <p class="updated_time"> 01:50 PM CT, Jan. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60162451?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras swears in its first female president</a> BBC: Xiomara Castro's arrival marks the end to the right-wing National Party's 12-year reign. 
- <p class="updated_time"> 01:06 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-shooting-soldier.html">Ukraine Police Arrest Suspect in Military Factory Shooting</a> NYT: The authorities identified the man as a young national guard soldier and said he opened fire on fellow soldiers “for undetermined reasons.” The site has been a focus of weapons proliferation concerns. 
  <p class="updated_time"> 11:42 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
@@ -216,8 +216,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:56 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 04:16 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 11:43 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
@@ -266,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/cryptocurrency-industry-fights-proposed-ny-moratorium-here-is-whats-at-stake-00001994">Cryptocurrency industry fights proposed NY moratorium. Here is what's at stake.</a> Politico: The industry is warning that the proposed moratorium would lock New York out of the benefits of an innovative new technology. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 09:17 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 07:44 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/biden-move-troops-eastern-europe-00003426">Biden says he'll move troops to Eastern Europe in 'near term'</a> Politico: The president’s comments come as the Pentagon says it has notified as many as 8,500 troops to standby for a potential deployment. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
