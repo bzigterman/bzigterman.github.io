@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:01 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Police are working to "establish the full circumstances" after a woman posted accusations on social media. 
+ <p class="updated_time"> 10:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple say they will keep their £18m content deal, despite their warning over misinformation. 
+ <p class="updated_time"> 09:58 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
+ <p class="updated_time"> 09:49 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
  <p class="updated_time"> 09:16 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
- <p class="updated_time"> 09:08 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 08:56 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60190484?at_medium=RSS&at_campaign=KARANGA">Hundreds of Houthi rebel child soldiers dead in Yemen war - UN</a> BBC: Nearly 1,500 children recruited by Houthi rebels died in fighting against the government in 2020. 
- <p class="updated_time"> 08:37 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern frontlines, in the deep winter cold, soldiers and civilians await Russia's next move. 
- <p class="updated_time"> 08:16 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Police are working to "establish the full circumstances" after a woman posted accusations on social media. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meets Western diplomats in first international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
- <p class="updated_time"> 04:48 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/isis-prison-syria.html">U.S. Forces Return to Combat as Allies Struggle to Subdue ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the ISIS caliphate. 
  <p class="updated_time"> 04:20 AM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 04:19 AM CT, Jan. 30 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076699748/ukraine-russian-attack-preparation">Is Ukraine ready for a Russian attack? It depends what kind</a> NPR: As experts and officials in Ukraine's capital consider a range of possible actions by Russia — including invasion, cyberattacks and disinformation campaigns — they say Ukraine lacks critical defenses. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
- <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses after clashes in the Kasai region. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/israel-president-on-first-visit-to-uae-amid-regional-tensions-00003468">Israel president on first visit to UAE amid regional tensions</a> Politico: The nations normalized relations in the fall of 2020, part of a series of U.S.-brokered diplomatic deals between Israel and Arab states. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 09:43 AM CT, Jan. 30 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
- <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076343656/pittsburgh-bridge-collapse-biden-visit">A bridge in Pittsburgh collapsed on the day of Biden's planned infrastructure visit</a> NPR: Officials said 10 people suffered minor injuries and at least three were taken to the hospital after the collapse, which appears to have involved several vehicles and a Port Authority bus. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
