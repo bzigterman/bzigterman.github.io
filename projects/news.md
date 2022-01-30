@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:48 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 09:04 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that a launch carried out Sunday was the North’s most powerful since 2017. South Korea said the projectile was a medium-range ballistic missile. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea launched a suspected missile — its 7th test this month</a> NPR: North Korea on Sunday fired at least one suspected ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
+ <p class="updated_time"> 01:36 PM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Launches Suspected Ballistic Missile Off Its East Coast</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 01:21 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076699748/ukraine-russian-attack-preparation">Is Ukraine ready for a Russian attack? It depends what kind</a> NPR: As experts and officials in Ukraine's capital consider a range of possible actions by Russia — including invasion, cyberattacks and disinformation campaigns — they say Ukraine lacks critical defenses. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
@@ -212,7 +214,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:50 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 09:06 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
