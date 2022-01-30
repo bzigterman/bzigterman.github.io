@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: The storm dumps feet of snow, with high winds and flooding leaving tens of thousands without power. 
  <p class="updated_time"> 01:25 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
+ <p class="updated_time"> 10:41 PM CT, Jan. 29 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Medium-Range Missile, Its Most Powerful Test in Years</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60185963?at_medium=RSS&at_campaign=KARANGA">Allison Fluke-Ekren: US woman held for leading female IS group</a> BBC: Allison Fluke-Ekren is suspected of training women and children to use AK-47s and suicide vests. 
  <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
- <p class="updated_time"> 05:16 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Medium-Range Missile, Its Most Powerful Test in Years</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 05:07 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076737436/security-experts-doubt-ukraine-readiness-against-russian-cyber-attack">Security experts doubt Ukraine readiness against Russian cyber attack</a> NPR: Ukrainian officials prepare civil defense in the event of a Russian invasion or hybrid warfare. 
  <p class="updated_time"> 04:45 PM CT, Jan. 29 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:36 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 03:46 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 11:43 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
