@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Pyongyang says it launched a Hwasong-12 intermediate range ballistic missile, last tested in 2017. 
  <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
  <p class="updated_time"> 04:20 AM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
- <p class="updated_time"> 04:19 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Sunday's launch is the seventh this month, and is thought to be the largest in almost five years. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
@@ -212,8 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:05 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/nyc-covid-cases-decline-00003482">NYC sees rapid decline in Covid-19 cases. Here are the latest figures.</a> Politico: The city's positivity rate Saturday was 4.83 percent, the lowest of any region in the state. 
- <p class="updated_time"> 02:51 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Election Deniers Are Running for Secretary of State Across the Country</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
