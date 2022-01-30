@@ -147,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60171335?at_medium=RSS&at_campaign=KARANGA">Peter Tatchell on his life-long fight for gay rights</a> BBC: Peter Tatchell's high-profile activism has seen him take on archbishops, presidents and boxers. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
- <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -201,6 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/germany-5000-helmets-ukraine.html">Germany Draws Mockery for Promising 5,000 Helmets to Help Ukraine</a> NYT: Critics saw it as a sign of Germany’s reticence to confront Russia. One asked: “What support are they going to send next? Pillows?” 
  <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
+ <p class="updated_time"> 10:32 AM CT, Jan. 27 </p> 
+ <a href="https://www.nytimes.com/2022/01/27/travel/dominican-republic-tourism-pandemic.html">Why Is Everyone Going to the Dominican Republic?</a> NYT: The country is a rare pandemic success story, with recent visitor numbers far surpassing those of most other Caribbean destinations. Easy entry rules are a draw, but some residents are uneasy. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
  <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 PM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/nyc-covid-cases-decline-00003482">NYC sees rapid decline in Covid-19 cases. Here are the latest figures.</a> Politico: The city's positivity rate Saturday was 4.83 percent, the lowest of any region in the state. 
  <p class="updated_time"> 02:51 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/29/kansas-woman-all-female-islamic-state-battalion-00003443">Feds: Kansas woman led all-female Islamic State battalion</a> Politico: The U.S. Attorney in Alexandria, Virginia, announced Saturday that Allison Fluke-Ekren, 42, has been charged with providing material support to a terrorist organization. 
  <p class="updated_time"> 11:57 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/business/biden-peter-doocy-fox-news.html">Joe Biden and Peter Doocy Is the Rivalry Everyone Can Love</a> NYT: A notably unscripted exchange between President Biden and a Fox News correspondent went viral — and turned into what these days counts as a heartwarming civic moment. 
- <p class="updated_time"> 11:48 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/winter-storm-east-coast-00003441">Blizzard buffets East Coast with deep snow, winds, flooding</a> Politico: Parts of 10 states and some major population centers — including Philadelphia, New York and Boston — were pummeled by the storm. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
