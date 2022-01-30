@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that a launch carried out Sunday was the North’s most powerful since 2017. South Korea said the projectile was an intermediate-range ballistic missile. 
  <p class="updated_time"> 10:41 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Sunday's launch is the seventh this month, and is thought to be the largest in almost five years. 
- <p class="updated_time"> 09:04 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that a launch carried out Sunday was the North’s most powerful since 2017. South Korea said the projectile was a medium-range ballistic missile. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:41 PM CT, Jan. 29 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 05:16 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Launches Suspected Ballistic Missile Off Its East Coast</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
+ <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Medium-Range Missile, Its Most Powerful Test in Years</a> WSJ: It marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 05:07 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076737436/security-experts-doubt-ukraine-readiness-against-russian-cyber-attack">Security experts doubt Ukraine readiness against Russian cyber attack</a> NPR: Ukrainian officials prepare civil defense in the event of a Russian invasion or hybrid warfare. 
  <p class="updated_time"> 04:45 PM CT, Jan. 29 </p> 
@@ -214,8 +214,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:26 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 11:41 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 11:32 PM CT, Jan. 29 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306233/morning-news-brief">News brief: voices from Ukraine, Biden to visit Pa., economic preview</a> NPR: As Ukrainians carry on with their daily lives, most believe a war with Russia in inevitable. President Biden travels to Pittsburgh. A lot of U.S. economic data is being released on Friday. 
- <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 11:48 PM CT, Jan. 27 </p> 
  <a href="https://www.npr.org/2022/01/28/1076281662/federal-judge-canceled-gulf-oil-and-gas-leases-climate-change">A federal judge canceled major oil and gas leases over climate change</a> NPR: The ruling revokes leases sold in the Gulf of Mexico in the largest oil and gas lease sale in U.S. history. It says the Interior Department failed to consider the greenhouse gases it would produce. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
