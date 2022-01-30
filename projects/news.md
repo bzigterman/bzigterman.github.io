@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:21 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
+ <p class="updated_time"> 08:17 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
+ <p class="updated_time"> 08:16 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Police are working to "establish the full circumstances" after a woman posted accusations on social media. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meets Western diplomats in first international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
- <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester United player Mason Greenwood accused of attacking woman</a> BBC: Manchester United says it is aware of allegations against Mason Greenwood which police are looking into. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -208,7 +210,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:11 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:21 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
@@ -217,9 +219,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
- <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/beijing-china-covid-sealed-off-00003452">Beijing seals off more residential areas over Covid</a> Politico: China is on high alert as it prepares to host the Olympic Games opening  Friday. 
+ <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
+ <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:20 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
