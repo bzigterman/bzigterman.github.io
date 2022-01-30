@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:41 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
+ <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60159622?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What’s at stake for the UK?</a> BBC: From the disruption of gas supplies to the risk of broader war, the Ukraine crisis matters to the UK. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60185733?at_medium=RSS&at_campaign=KARANGA">UK PM mulls bigger troop offer amid Ukraine crisis</a> BBC: A possible offer to bolster Nato forces comes as ministers prepare a diplomatic blitz on Moscow. 
  <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/americas/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” had driven across Canada to reach the capital. The demonstrations on Saturday were raucous but largely peaceful. 
  <p class="updated_time"> 06:37 PM CT, Jan. 29 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60137053?at_medium=RSS&at_campaign=KARANGA">Myanmar: Why once peaceful protesters are now choosing violence</a> BBC: One year on, resistance to military rule is unrecognisable from its boisterous, colourful start. 
  <p class="updated_time"> 06:21 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59773808?at_medium=RSS&at_campaign=KARANGA">Jamie Oliver: I'm not a fan of cookery competition shows</a> BBC: The TV chef says he had to be persuaded to launch his new cookery talent contest series on Channel 4. 
- <p class="updated_time"> 06:12 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60159622?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What’s at stake for the UK?</a> BBC: From the disruption of gas supplies to the risk of broader war, the Ukraine crisis matters to the UK. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
@@ -45,14 +49,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
+ <p class="updated_time"> 01:21 PM CT, Jan. 29 </p> 
+ <a href="https://www.npr.org/2022/01/29/1076699748/ukraine-russian-attack-preparation">Is Ukraine ready for a Russian attack? It depends what kind</a> NPR: As experts and officials in Ukraine's capital consider a range of possible actions by Russia — including invasion, cyberattacks and disinformation campaigns — they say Ukraine lacks critical defenses. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses after clashes in the Kasai region. 
  <p class="updated_time"> 12:26 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60184843?at_medium=RSS&at_campaign=KARANGA">Russia: Military drill moved further from Irish shore</a> BBC: Simon Coveney says the news was "welcome" following days of speculation over the exercise. 
- <p class="updated_time"> 11:53 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60177979?at_medium=RSS&at_campaign=KARANGA">US East Coast blanketed by 'bombogenesis' snowstorm</a> BBC: Packing hurricane-force winds, the storm has triggered blizzard warnings and left thousands without power. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60180507?at_medium=RSS&at_campaign=KARANGA">Hong Kong: One of city's last Tiananmen Square memorials covered up</a> BBC: The University of Hong Kong hides a pavement tribute, citing only routine maintenance. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
- <p class="updated_time"> 03:15 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-60177929?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack would be 'horrific', US warns</a> BBC: Top US General Mark Milley says the build-up of Russian troops is the largest since the Cold War. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 03:00 AM CT, Jan. 29 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076495657/russia-ukraine-border-united-states-kyiv">Russia has just two options in front of it, says the top U.S. official in Ukraine</a> NPR: It Russia takes the path of aggression, it will face "extremely severe consequences immediately," says the U.S. charge d'affaires Kristina Kvien. 
  <p class="updated_time"> 04:11 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076519056/ukraine-zelenskyy-russia-invasion">Ukraine's Zelenskyy urges calm as world leaders work to avert Russian invasion</a> NPR: With more than 100,000 Russian troops on his borders, President Volodymyr Zelenskyy said Friday that the reaction of world leaders had created a "panic" in his country. 
- <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -212,9 +212,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:46 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 07:41 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
- <p class="updated_time"> 06:19 PM CT, Jan. 29 </p> 
+ <p class="updated_time"> 07:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
