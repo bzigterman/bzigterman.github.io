@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:21 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
- <p class="updated_time"> 08:17 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:38 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
+ <p class="updated_time"> 08:37 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
+ <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern frontlines, in the deep winter cold, soldiers and civilians await Russia's next move. 
  <p class="updated_time"> 08:16 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester Utd's Mason Greenwood accused of assaulting woman</a> BBC: Police are working to "establish the full circumstances" after a woman posted accusations on social media. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60188509?at_medium=RSS&at_campaign=KARANGA">Nato's Jens Stoltenberg: No plans for combat troops in Ukraine</a> BBC: Nato's secretary general calls for "a balanced approach", amid heighten tensions in Eastern Europe. 
- <p class="updated_time"> 02:57 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60186075?at_medium=RSS&at_campaign=KARANGA">Women's Ashes: England and Australia draw Test in incredible finale</a> BBC: England and Australia draw the one-off Women's Ashes Test in one of the most incredible finales cricket has seen. 
  <p class="updated_time"> 02:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
  <p class="updated_time"> 01:44 AM CT, Jan. 30 </p> 
@@ -210,7 +210,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:26 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
