@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
  <p class="updated_time"> 08:38 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 08:37 AM CT, Jan. 30 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076730068/a-call-for-mexico-to-investigate-murders-of-journalists">A call for Mexico to investigate murders of journalists</a> NPR: NPR's Michel Martin speaks with Paula Saucedo from the Mexican press freedom organization Article 19, about the recent murders of two Mexican journalists and the state of the free press in Mexico. 
  <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730040/political-instability-in-africas-sahel-region-is-tied-to-rising-extremism">Political instability in Africa's Sahel region is tied to rising extremism</a> NPR: NPR's Michel Martin speaks with Andrew Lebovich, a Sahel expert at the European Council on Foreign Relations, about the coup in Burkina Faso and other similar ones to hit the region. 
- <p class="updated_time"> 03:39 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60183929?at_medium=RSS&at_campaign=KARANGA">Sergio Mattarella: At 80, Italy president re-elected on amid successor row</a> BBC: Sergio Mattarella agreed to stay on after ruling parties failed to find a compromise candidate. 
  <p class="updated_time"> 03:37 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60164561?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Why Canadian truckers are protesting in Ottawa</a> BBC: The 'Freedom Convoy' is protesting vaccine mandates but police are worried about fringe elements. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Durbin defends Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: He referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 08:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
