@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
+ <p class="updated_time"> 09:43 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 08:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
- <p class="updated_time"> 11:43 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
