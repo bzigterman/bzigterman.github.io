@@ -212,7 +212,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:36 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 05:42 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
@@ -362,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
  <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
- <p class="updated_time"> 06:50 PM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/dr-oz-senate-race-stumbles-00002056">Dr. Oz stumbles out of the gate in Senate race</a> Politico: In his first tests as a candidate, the celebrity physician fails to impress Pennsylvania GOP activists. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
