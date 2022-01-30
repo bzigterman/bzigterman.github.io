@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday victims remembered on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 12:14 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076821209/u-s-russia-ukraine-crisis-u-n-security-council">U.S. officials say Russia will face pressure at the U.N. over Ukraine </a> NPR: The U.S. ambassador to the United Nations says the U.N. Security Council will press Russia hard in a Monday session to discuss its massing of troops near Ukraine ahead of a possible invasion. 
- <p class="updated_time"> 11:16 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 11:12 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 10:50 AM CT, Jan. 30 </p> 
@@ -210,8 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:21 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 11:59 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
