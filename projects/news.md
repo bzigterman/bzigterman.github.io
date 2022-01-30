@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
+ <p class="updated_time"> 12:44 PM CT, Jan. 30 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:59 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
  <p class="updated_time"> 12:13 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/scotus-confirmation-white-house-breyer/index.html">Inside Biden's calculated response to Breyer's retirement</a> CNN: President Joe Biden received a much-needed political opening on Wednesday. But neither he, nor anyone close to him, appeared ready to celebrate it. 
- <p class="updated_time"> 07:36 AM CT, Jan. 27 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
