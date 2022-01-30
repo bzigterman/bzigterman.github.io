@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meets Western diplomats in first international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester United player Mason Greenwood accused of attacking woman</a> BBC: Manchester United says it is aware of allegations against Mason Greenwood which police are looking into. 
- <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -208,12 +208,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:11 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
+ <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
- <p class="updated_time"> 07:51 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076093825/kenneth-polite-profile-justice-department-criminal-division">His brother was killed in 2004. Now he fights violent crime as a top Justice official</a> NPR: Kenneth Polite, head of the Criminal Division since July, wants to take the most dangerous people off the streets and spend more on preventing violence. 
  <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076306261/in-pittsburgh-biden-to-talk-about-inflation-job-creation-and-supreme-court-vacan">In Pittsburgh, Biden to talk about inflation, jobs and Supreme Court vacancy</a> NPR: President Biden heads to Pennsylvania after saying he needs to get out of Washington more. Two big stories — the Supreme Court vacancy and the Russia-Ukraine conflict — are commanding attention. 
- <p class="updated_time"> 04:09 AM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076306233/morning-news-brief">News brief: voices from Ukraine, Biden to visit Pa., economic preview</a> NPR: As Ukrainians carry on with their daily lives, most believe a war with Russia in inevitable. President Biden travels to Pittsburgh. A lot of U.S. economic data is being released on Friday. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 06:29 PM CT, Jan. 27 </p> 
