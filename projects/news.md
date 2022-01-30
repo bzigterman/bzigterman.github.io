@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-manchester-60188668?at_medium=RSS&at_campaign=KARANGA">Manchester United striker Mason Greenwood accused of attacking woman</a> BBC: Manchester United says it is aware of allegations against Mason Greenwood which police are looking into. 
+ <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Families remember victims on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798464/theres-a-complication-in-sanctioning-russia-it-could-cut-europes-gas-supply">There's a complication in sanctioning Russia — it could cut Europe's gas supply</a> NPR: The U.S. is working to help Europe find alternative energy sources should war in Ukraine lead Russia to cut off natural gas supplies. 
- <p class="updated_time"> 06:59 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday: Irish PM lays wreath at Bloody Sunday memorial</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 06:31 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 12:47 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60183952?at_medium=RSS&at_campaign=KARANGA">DR Congo issues death sentences for murder of UN experts</a> BBC: Zaida Catalan and Michael Sharp had been investigating abuses after clashes in the Kasai region. 
- <p class="updated_time"> 12:26 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60184843?at_medium=RSS&at_campaign=KARANGA">Russia: Military drill moved further from Irish shore</a> BBC: Simon Coveney says the news was "welcome" following days of speculation over the exercise. 
  <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
- <p class="updated_time"> 07:36 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 07:41 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
