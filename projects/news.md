@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
  <p class="updated_time"> 07:18 AM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Beijing Olympics Athletes Brace for the Most Complex Games Ever</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict Covid protocols. At the center are athletes navigating it all. 
+ <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Spying. Human Rights. Covid-19. Beijing Olympic Athletes Face the Most Complex Games Ever</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/senate-nears-completion-of-measures-targeting-russian-economy-in-event-of-ukraine-invasion-11643565671">Senate Nears Completion of Measures Targeting Russian Economy in Event of Ukraine Invasion</a> WSJ: The legislation under negotiation among members of the Senate Foreign Relations Committee and others would target major Russian banks, hit Russians’ savings and pensions and limit the market for Russia’s sovereign debt. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as President Donald Trump sought to stay in office after losing the 2020 election. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
- <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 08:48 AM CT, Jan. 28 </p> 
