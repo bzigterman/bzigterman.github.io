@@ -214,7 +214,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: "There is no affirmative action component if you pick her," the GOP senator said. 
- <p class="updated_time"> 11:11 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 11:36 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 10:59 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/israel-president-on-first-visit-to-uae-amid-regional-tensions-00003468">Israel president on first visit to UAE amid regional tensions</a> Politico: The nations normalized relations in the fall of 2020, part of a series of U.S.-brokered diplomatic deals between Israel and Arab states. 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:43 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a Texas speech, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York take action against him. 
  <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact 'Test To Stay' programs in schools. 
+ <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact "Test To Stay" programs in schools. 
  <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
