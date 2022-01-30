@@ -210,12 +210,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:51 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
+ <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html">For Ketanji Brown Jackson, View of Criminal Justice Was Shaped by Family</a> NYT: The story of an uncle’s cocaine conviction formed only part of Judge Jackson’s understanding of the system’s complexities. She is now seen as a contender to be President Biden’s Supreme Court pick. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: "There is no affirmative action component if you pick her," the GOP senator said. 
- <p class="updated_time"> 11:36 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 10:59 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/israel-president-on-first-visit-to-uae-amid-regional-tensions-00003468">Israel president on first visit to UAE amid regional tensions</a> Politico: The nations normalized relations in the fall of 2020, part of a series of U.S.-brokered diplomatic deals between Israel and Arab states. 
  <p class="updated_time"> 10:19 AM CT, Jan. 30 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076444561/the-jan-6-panel-subpoenas-14-people-in-fake-electors-scheme-tied-to-trump">The Jan. 6 panel subpoenas 14 people in fake electors scheme tied to Trump</a> NPR: The 14 people are tied to an effort to put forth false electors as President Donald Trump sought to stay in office after losing the 2020 election. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
- <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
  <p class="updated_time"> 10:22 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-cat-willow.html">Relax, America: Willow, the White House Cat, Has Arrived</a> NYT: She interrupted a campaign speech. Jill Biden wanted to keep her. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
