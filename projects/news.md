@@ -95,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60180738?at_medium=RSS&at_campaign=KARANGA">Storm Ana: Deadly Africa storm shows climate crisis reality - UN</a> BBC: Rescue workers in southern Africa are trying to reach thousands stranded as more are found dead. 
  <p class="updated_time"> 06:07 AM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-fires-statistics-chief-after-record-inflation-11643456492">Turkey's Erdogan Fires Statistics Chief After Record Inflation</a> WSJ: The president of the Turkish statistical institute, Sait Dincer, was removed from office and replaced by Erhan Cetinkaya, who had been deputy president of Turkey’s Banking Regulation and Supervision Agency. 
- <p class="updated_time"> 06:06 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60180955?at_medium=RSS&at_campaign=KARANGA">Australian Open: Ashleigh Barty wins first Melbourne title by beating Danielle Collins</a> BBC: Ashleigh Barty ends the home nation's 44-year wait for a Grand Slam women's singles champion by beating Danielle Collins to win the Australian Open title. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076193616/ukraine-crisis-russia-history-nato-expansion">Explaining NATO and Ukraine: How a 30-year-old debate still drives Putin today</a> NPR: Here is how the history of NATO, Russia and Ukraine got so complicated. 
  <p class="updated_time"> 06:00 AM CT, Jan. 29 </p> 
@@ -111,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 03:00 AM CT, Jan. 29 </p> 
  <a href="https://www.wsj.com/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803">Deadly Mining Disaster Still Tests Vale Three Years Later</a> WSJ: The mining company is considering its metals future as costs from the Brumadinho disaster continue to rise—along with tensions with locals, regulators and investors. 
- <p class="updated_time"> 01:30 AM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60180296?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Gun used in Kenosha shootings to be destroyed</a> BBC: Mr Rittenhouse wants the assault rifle destroyed to stop it becoming a political symbol. 
  <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 11:30 PM CT, Jan. 28 </p> 
@@ -216,7 +212,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:16 AM CT, Jan. 30 </p> 
+ <p class="updated_time"> 05:31 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html">Can You Gerrymander Your Party to Power?</a> NYT: Gerrymandering has been criticized for disenfranchising voters and fueling polarization. To help you understand it better, we created an imaginary state called Hexapolis, where your only mission is to gerrymander your party to power. 
  <p class="updated_time"> 04:00 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/treasury-bond-yields-inflation.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
