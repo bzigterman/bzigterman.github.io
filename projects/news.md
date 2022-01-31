@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Report on Downing Street Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 04:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
- <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
 
 
 </details>
@@ -208,10 +208,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:12 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/navy-secretary-del-toro-tests-positive-covid-00003901">Navy Secretary Del Toro tests positive for Covid</a> Politico: He returned from official travel last week. 
  <p class="updated_time"> 05:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/diem-facebook-cryptocurrency-meta-00003871">Facebook’s crypto project sold after political backlash</a> Politico: The announcement caps a nearly three-year odyssey on the part of Facebook and its partners to launch a digital currency. 
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/trudeau-trucker-protest-00003858">Trudeau on trucker protest: 'We are not intimidated'</a> Politico: Demonstrators are threatening to disrupt downtown Ottawa for as long as necessary. 
+ <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-pandemic-policy.html">Fed Officials Make It Clear: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
  <p class="updated_time"> 04:18 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off for several weeks, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 04:16 PM CT, Jan. 31 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
- <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/biden-breyer-retirement.html">As Breyer Pondered Retirement, Biden Bet on a Hands-Off Strategy</a> NYT: The president believed pressuring the court’s oldest justice to retire might backfire. A chorus of liberals took a different approach. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/2022/01/25/politics/child-tax-credit-irs-letter/index.html">Parents: Don't throw away this IRS letter</a> CNN: Attention parents: Hold onto that Internal Revenue Service letter about your enhanced child tax credit payments. You'll need it when you file your 2021 tax return. 
- <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
