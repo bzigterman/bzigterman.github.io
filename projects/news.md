@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
+ <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture “on a massive scale.” 
+ <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
+ <p class="updated_time"> 04:47 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us/ukraine-security-council">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
  <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Joe Rogan pledges to try harder after Neil Young Spotify row</a> BBC: The podcaster supports the streaming giant's move to add warnings to podcasts discussing Covid-19. 
- <p class="updated_time"> 04:20 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us/ukraine-security-council">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 19 and destroy homes</a> BBC: About 500 families have been left homeless in São Paulo state after the latest deadly floods. 
  <p class="updated_time"> 04:17 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 04:05 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076012108/from-stalin-to-putin-ukraine-is-still-trying-to-break-free-from-moscow">From Stalin to Putin, Ukraine is still trying to break free from Moscow</a> NPR: Josef Stalin caused a famine when he tried to remake Ukraine's farms. Vladimir Putin is threatening to invade Ukraine — again. For a century, Ukraine has been trying to escape Moscow's grip. 
- <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture “on a massive scale.” 
  <p class="updated_time"> 03:25 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
@@ -73,14 +79,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
- <p class="updated_time"> 02:25 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60191264?at_medium=RSS&at_campaign=KARANGA">Harry and Meghan reveal Spotify Covid row concerns</a> BBC: The couple will keep an £18m content deal and continue to lobby for changes on misinformation. 
  <p class="updated_time"> 01:36 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60190452?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Truckers cause chaos in Ottawa after second day of protests</a> BBC: Truckers blocked streets around parliament in a second day of protests against a vaccine mandate. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
- <p class="updated_time"> 01:15 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076821209/u-s-russia-ukraine-crisis-u-n-security-council">U.S. officials say Russia will face pressure at the U.N. over Ukraine </a> NPR: The U.S. ambassador to the United Nations says the U.N. Security Council will press Russia hard in a Monday session to discuss its massing of troops near Ukraine ahead of a possible invasion. 
  <p class="updated_time"> 11:38 AM CT, Jan. 30 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian frontline city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
- <p class="updated_time"> 09:16 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern front lines, in the deep winter cold, soldiers and civilians await Russia's next move. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
@@ -104,8 +104,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:18 AM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Spying. Human Rights. Covid-19. Beijing Olympic Athletes Face the Most Complex Games Ever.</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/senate-nears-completion-of-measures-targeting-russian-economy-in-event-of-ukraine-invasion-11643565671">Senate Nears Completion of Measures Targeting Russian Economy in Event of Ukraine Invasion</a> WSJ: The legislation under negotiation among members of the Senate Foreign Relations Committee and others would target major Russian banks, hit Russians’ savings and pensions and limit the market for Russia’s sovereign debt. 
- <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798464/theres-a-complication-in-sanctioning-russia-it-could-cut-europes-gas-supply">There's a complication in sanctioning Russia — it could cut Europe's gas supply</a> NPR: The U.S. is working to help Europe find alternative energy sources should war in Ukraine lead Russia to cut off natural gas supplies. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
@@ -113,10 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/russia-un-security-us-ukraine.html">Russia Says U.N. Security Council Meeting Is Just a U.S. Stunt</a> NYT: U.S. officials see the meeting, scheduled for Monday, as a chance to expose Russia to criticism on a global stage. They expressed confidence that it would go ahead as planned. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60188509?at_medium=RSS&at_campaign=KARANGA">Nato's Jens Stoltenberg: No plans for combat troops in Ukraine</a> BBC: Nato's secretary general calls for "a balanced approach", amid heighten tensions in Eastern Europe. 
- <p class="updated_time"> 11:47 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633">In Eastern Ukraine's Largest City, Pro-Russia Sympathies Wither</a> WSJ: While Kharkiv may have been a relatively easy target for Russia in the past, sentiment in the industrial city of 1.4 million has since shifted dramatically against the Kremlin. 
- <p class="updated_time"> 11:30 PM CT, Jan. 29 </p> 
- <a href="https://www.wsj.com/articles/before-ukraine-standoff-u-s-pitched-its-freedom-gas-to-europe-and-found-few-takers-11643538604">Before Ukraine Standoff, U.S. Pitched Its 'Freedom Gas' to Europe and Found Few Takers</a> WSJ: American efforts to export LNG to the continent as an alternative to Russian supplies achieved mixed results. As conflict looms, options to send more gas now are limited. 
  <p class="updated_time"> 08:12 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076751251/north-korea-missile-launch">North Korea tests longest-range missile since 2017</a> NPR: North Korea fired a suspected intermediate-range ballistic missile into the sea, in an apparent attempt to pressure the Biden administration over long-stalled nuclear negotiations. 
  <p class="updated_time"> 07:05 PM CT, Jan. 29 </p> 
@@ -129,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60173066?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Five things to know</a> BBC: Covid bubbles, artificial snow and human rights are making 2022's Winter Olympics hit the headlines. 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-bristol-60163456?at_medium=RSS&at_campaign=KARANGA">Joe Jenkins: YouTube star on piano-playing popularity</a> BBC: A 20-year-old piano player has an online following of nearly four million enjoying his musical stunts. 
- <p class="updated_time"> 05:41 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60185963?at_medium=RSS&at_campaign=KARANGA">Allison Fluke-Ekren: US woman held for leading female IS group</a> BBC: Allison Fluke-Ekren is suspected of training women and children to use AK-47s and suicide vests. 
  <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 05:07 PM CT, Jan. 29 </p> 
@@ -171,6 +163,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 06:12 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60171335?at_medium=RSS&at_campaign=KARANGA">Peter Tatchell on his life-long fight for gay rights</a> BBC: Peter Tatchell's high-profile activism has seen him take on archbishops, presidents and boxers. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 05:22 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
@@ -213,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/boris-johnson-report-downing-street-parties.html">Johnson Vows to Release Full Report on Lockdown Parties</a> NYT: The findings of an inquiry into the parties at Downing Street have yet to be made public. Information that may compromise a police investigation is currently being removed from the report. 
- <p class="updated_time"> 11:40 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
 
 
 </details>
@@ -222,6 +214,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/31/congress-confronts-a-february-deluge-00003559">Congress confronts a February deluge</a> Politico Playbook: And 
+ <p class="updated_time"> 05:00 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/priorities-usa-pac-30m-digital-ads-00003524">Top Democratic group unveils a $30M digital ad blitz</a> Politico: Priorities USA is looking to keep the Biden coalition intact and educate voters about new election laws in their states. 
  <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-democrats-pivot-economy-legislative-win-00003385">House Democrats pivot to economy in search of next legislative win</a> Politico: With battleground-district members especially anxious over rising inflation and a snarled supply chain, they're set to push a sweeping manufacturing bill to the floor. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
@@ -266,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
- <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact "Test To Stay" programs in schools. 
  <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
@@ -278,6 +272,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
@@ -286,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
@@ -308,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
- <p class="updated_time"> 07:01 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/infrastructure-bridge-collapse-00003174">Infrastructure bonanza might not head off future bridge collapses</a> Politico: The reason: States will largely decide how they want to spend the money they get from the new infrastructure law. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
