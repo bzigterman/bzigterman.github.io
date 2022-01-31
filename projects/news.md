@@ -224,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/north-korea-missile-test-guam-00003531">North Korea confirms test of missile capable of striking Guam</a> Politico: The launch was North Korea's most significant in years. 
  <p class="updated_time"> 08:19 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a speech in Texas, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York took action against him. 
+ <p class="updated_time"> 06:24 PM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/new-york-democrats-redistricting-00003503">New York Democrats could pick up 3 congressional seats under new maps</a> Politico: New York’s 27-member congressional delegation currently has 19 Democrats and eight Republicans. That delegation is due to decrease to 26 members after the state’s population grew less rapidly than other states’. 
  <p class="updated_time"> 05:34 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/spotify-advisories-covid-podcast-young-rogan-00003502">Spotify modified: Advisories are to be added to podcasts discussing Covid</a> Politico: Neil Young and other musicians had pulled their music because of Joe Rogan's podcasts. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
  <p class="updated_time"> 07:01 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/infrastructure-bridge-collapse-00003174">Infrastructure bonanza might not head off future bridge collapses</a> Politico: The reason: States will largely decide how they want to spend the money they get from the new infrastructure law. 
- <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
