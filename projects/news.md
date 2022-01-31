@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60204868?at_medium=RSS&at_campaign=KARANGA">Anne Frank's betrayal: Dutch publisher apologises for book</a> BBC: The book identifies a person who may have betrayed Anne Frank and her family to the Nazis. 
+ <p class="updated_time"> 12:35 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173504?at_medium=RSS&at_campaign=KARANGA">Former Miss USA dead at 30 </a> BBC: Attorney, TV personality and pageant winner Cheslie Kryst is believed to have taken her own life 
  <p class="updated_time"> 12:31 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 12:25 PM CT, Jan. 31 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 21 and destroy homes</a> BBC: More than 600 families have been left homeless in São Paulo state after the latest deadly floods. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60199911?at_medium=RSS&at_campaign=KARANGA">Mandera attack: Seven killed in Kenyan bus ambush</a> BBC: Attackers open fire on a minibus after it was hit by a roadside bomb in northern Kenya, police say. 
- <p class="updated_time"> 08:02 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60201844?at_medium=RSS&at_campaign=KARANGA">Maus: Graphic novel tops Amazon best-sellers after school ban</a> BBC: Maus, a graphic novel about the Holocaust, was banned by a school board in Tennessee this month. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
  <p class="updated_time"> 06:36 AM CT, Jan. 31 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/metoo-voice-holland-netherlands.html">#MeToo Scandal at a Dutch TV Show Spurs a Sexual Assault Reckoning</a> NYT: The allegations against four men appearing on the Dutch version of “The Voice” talent show have helped to prompt a surge in reports of sexual assaults, victims’ groups say. 
  <p class="updated_time"> 05:37 AM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/tax-haven-u-a-e-to-introduce-levy-on-corporate-profits-11643647029">Tax Haven U.A.E. to Introduce Levy on Corporate Profits</a> WSJ: The United Arab Emirates is set to introduce a tax on corporate profits, as it juggles the need to remain an attractive for international business with its agreement to support global tax transparency. 
- <p class="updated_time"> 05:15 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60090861?at_medium=RSS&at_campaign=KARANGA">Iguanas fall from trees as cold snap hits Florida</a> BBC: Warnings are issued as unusually cold temperatures in the US state cause the lizards to freeze. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
  <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
@@ -137,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meet Western diplomats in 1st major international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798513/what-is-the-state-of-russias-military">What is the state of Russia's military?</a> NPR: Juana Summers talks to Dmitry Gorenburg, senior research scientist at the non-profit think tank CNA, about Russia's military capability in the event of a war with Ukraine. 
- <p class="updated_time"> 07:18 AM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434">Spying. Human Rights. Covid-19. Beijing Olympic Athletes Face the Most Complex Games Ever.</a> WSJ: The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798464/theres-a-complication-in-sanctioning-russia-it-could-cut-europes-gas-supply">There's a complication in sanctioning Russia — it could cut Europe's gas supply</a> NPR: The U.S. is working to help Europe find alternative energy sources should war in Ukraine lead Russia to cut off natural gas supplies. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
