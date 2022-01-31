@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:11 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 02:53 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 02:51 PM CT, Jan. 31 </p> 
@@ -43,14 +45,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
- <p class="updated_time"> 11:17 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
+ <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. and its allies criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage over the military standoff. 
  <p class="updated_time"> 09:36 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/irish-fishermen-russia.html">Russia Cancels Plan for Naval Drills That Upset Irish Fishermen</a> NYT: The plan to conduct military exercises next week in international waters had drawn protests from fishing groups and the Irish government. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
- <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage over the military standoff. 
  <p class="updated_time"> 05:50 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/omicron-asia-lunar-new-year.html">Omicron Surge in Asia Restricts Travel for Lunar New Year</a> NYT: The Omicron variant has dampened the plans of tens of millions of people across several Asian countries to travel for the holiday. 
  <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
@@ -210,12 +210,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/biden-qatar-ally-gulf-00003828">Biden to designate Qatar a ‘major non-NATO ally’</a> Politico: The announcement comes amid discussions on a European energy contingency plan should Russian troops invade Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/dems-miscount-votes-pa-senate-endorsement-meeting-00003830">Dems miscount votes in Pa. Senate endorsement meeting</a> Politico: Party officials say a handful of votes were not tabulated, but it had no material effect on the outcome. 
  <p class="updated_time"> 03:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
+ <p class="updated_time"> 03:03 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
- <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:54 PM CT, Jan. 29 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
- <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
