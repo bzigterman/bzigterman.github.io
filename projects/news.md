@@ -7,14 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:54 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: North Korean state media publishes photos its says were taken from its biggest missile launch since 2017. 
+ <p class="updated_time"> 06:30 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win the Most Seats in Parliament, but Not the Majority</a> NYT: The governing party emerged victorious from a snap election, but without the majority needed to avoid forming a coalition in the fractious parliament. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
+ <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60173061?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: How will the Covid bubbles work?</a> BBC: To combat the risk of Covid, a huge army of volunteers and security staff will help implement enormous, strict separation bubbles. 
+ <p class="updated_time"> 06:11 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60150533?at_medium=RSS&at_campaign=KARANGA">Shankar the elephant: Plea to send lonely African animal home from India</a> BBC: A teenager has petitioned a court to release an African elephant living in isolation at an Indian zoo. 
+ <p class="updated_time"> 06:03 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60156257?at_medium=RSS&at_campaign=KARANGA">The Belgians getting the right to disconnect from work</a> BBC: From next month, Belgium's civil servants may not be contacted outside working hours. 
+ <p class="updated_time"> 06:03 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60153129?at_medium=RSS&at_campaign=KARANGA">True story? Lie detection systems go high-tech</a> BBC: A number of teams are working on advanced ways to tell more accurately if someone is lying. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60036739?at_medium=RSS&at_campaign=KARANGA">How the high cost of living is hitting Singapore's poor</a> BBC: Asia's rising food costs are hitting the region's poor, despite the fall in rice prices in 2021. 
+ <p class="updated_time"> 06:01 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
  <p class="updated_time"> 05:15 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
  <p class="updated_time"> 05:11 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 04:40 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076839081/northern-ireland-50-years-bloody-sunday">Northern Ireland marks 50 years since the Bloody Sunday killings</a> NPR: British soldiers shot and killed 13 people and wounded others during a 1972 civil rights protest. The shootings exacerbated the conflict in Northern Ireland, which left thousands dead over decades. 
- <p class="updated_time"> 04:21 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-pacific-60186538?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Biggest launch since 2017</a> BBC: Pyongyang says it launched a Hwasong-12 intermediate range ballistic missile, last tested in 2017. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844656/as-khmer-rouge-tribunal-winds-down-cambodian-experts-see-small-measure-of-justic">As Khmer Rouge tribunal winds down, Cambodian experts see 'small measure of justice'</a> NPR: The Khmer Rouge killed as many as 2 million Cambodians in the 70s. Decades later, a tribunal was set up to help find justice. 15 years later, it's ending having found just three people guilty. 
  <p class="updated_time"> 03:57 PM CT, Jan. 30 </p> 
@@ -85,14 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60159622?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What’s at stake for the UK?</a> BBC: From the disruption of gas supplies to the risk of broader war, the Ukraine crisis matters to the UK. 
  <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/americas/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” had driven across Canada to reach the capital. The demonstrations on Saturday were raucous but largely peaceful. 
- <p class="updated_time"> 06:37 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60122629?at_medium=RSS&at_campaign=KARANGA">Mahatma Gandhi: The US shrine that claims to hold India independence leader's ashes</a> BBC: Keeping the ashes without dispersing them goes against Gandhi's own wishes, his family says. 
- <p class="updated_time"> 06:34 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60083687?at_medium=RSS&at_campaign=KARANGA">Liberia prisons: Where inmates are short of food, space and uniforms</a> BBC: Liberia's main jail stopped taking new inmates recently because it couldn't give them anything to eat. 
- <p class="updated_time"> 06:28 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60137053?at_medium=RSS&at_campaign=KARANGA">Myanmar: Why once peaceful protesters are now choosing violence</a> BBC: One year on, resistance to military rule is unrecognisable from its boisterous, colourful start. 
- <p class="updated_time"> 06:21 PM CT, Jan. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59773808?at_medium=RSS&at_campaign=KARANGA">Jamie Oliver: I'm not a fan of cookery competition shows</a> BBC: The TV chef says he had to be persuaded to launch his new cookery talent contest series on Channel 4. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
@@ -189,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
- <p class="updated_time"> 06:04 PM CT, Jan. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60129088?at_medium=RSS&at_campaign=KARANGA">Former Nazi speaks in new BBC documentary</a> BBC: Hans Werk features in a new documentary about the last living generation of Germans in Hitler’s Third Reich. 
  <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
@@ -219,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/nyc-covid-cases-decline-00003482">NYC sees rapid decline in Covid-19 cases. Here are the latest figures.</a> Politico: The city's positivity rate Saturday was 4.83 percent, the lowest of any region in the state. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Election Deniers Are Running for Secretary of State Across the Country</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
