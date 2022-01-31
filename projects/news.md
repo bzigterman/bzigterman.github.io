@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures, published in state media, were allegedly taken during Sunday's missile launch. 
+ <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 10:17 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
  <p class="updated_time"> 07:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
- <p class="updated_time"> 06:54 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures, published in state media, were allegedly taken during Sunday's missile launch. 
  <p class="updated_time"> 06:30 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win the Most Seats in Parliament, but Not the Majority</a> NYT: The governing party emerged victorious from a snap election, but without the majority needed to avoid forming a coalition in the fractious parliament. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
@@ -222,7 +224,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:08 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-missile-test-guam-00003531">North Korea confirms test of missile capable of striking Guam</a> Politico: The launch was North Korea's most significant in years. 
- <p class="updated_time"> 08:19 PM CT, Jan. 30 </p> 
+ <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a speech in Texas, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York took action against him. 
  <p class="updated_time"> 06:24 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/new-york-democrats-redistricting-00003503">New York Democrats could pick up 3 congressional seats under new maps</a> Politico: New York’s 27-member congressional delegation currently has 19 Democrats and eight Republicans. That delegation is due to decrease to 26 members after the state’s population grew less rapidly than other states’. 
