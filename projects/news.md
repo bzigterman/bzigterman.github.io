@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
+ <p class="updated_time"> 02:51 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
+ <p class="updated_time"> 02:50 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
  <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
- <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
- <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 02:35 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
- <p class="updated_time"> 02:23 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
  <p class="updated_time"> 02:18 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato-eu-defend-europe.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
  <p class="updated_time"> 02:13 PM CT, Jan. 31 </p> 
@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
+ <p class="updated_time"> 01:30 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation - we look at some of his claims. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077003325/united-nations-afghanistan-taliban-takeover-extrajudicial-killings">U.N. says over 100 ex-Afghan officials have been slain since the Taliban's takeover</a> NPR: A new U.N. report finds that "more than two-thirds" of those who died were victims of extrajudicial killings by the Taliban or its affiliates. 
  <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-communist-party-quietly-inserts-itself-into-everyday-life-11643644801">China's Communist Party Quietly Inserts Itself Into Everyday Life</a> WSJ: More than 100,000 “civilization practice centers” have been rolled out nationwide in the past four years as part of a sprawling propaganda effort that casts new light on the party’s drive to mold Chinese into model citizens. 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
- <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Joe Rogan pledges to try harder after Neil Young Spotify row</a> BBC: The podcaster supports the streaming giant's move to add warnings to podcasts discussing Covid-19. 
  <p class="updated_time"> 04:05 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/biden-qatar-ally-gulf-00003828">Biden to designate Qatar a ‘major non-NATO ally’</a> Politico: The announcement comes amid discussions on a European energy contingency plan should Russian troops invade Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/dems-miscount-votes-pa-senate-endorsement-meeting-00003830">Dems miscount votes in Pa. Senate endorsement meeting</a> Politico: Party officials say a handful of votes were not tabulated, but it had no material effect on the outcome. 
  <p class="updated_time"> 03:17 PM CT, Jan. 31 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
- <p class="updated_time"> 07:45 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/oath-keepers-founder-detained-jan-6-riot-00002603">Oath Keepers founder is ordered detained pending trial in Jan. 6 riot</a> Politico: A federal magistrate judge in Texas says Stewart Rhodes poses a danger to the public. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
