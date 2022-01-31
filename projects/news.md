@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:17 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: The United States confronts Russia at a gathering of the U.N. Security Council. Russia, in opening remarks, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
- <p class="updated_time"> 09:15 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 09:33 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Live Updates: Initial Report on U.K. Lockdown Parties Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached lockdown rules. The police are also investigating 12 such events, including at least two where Mr. Johnson was present. 
- <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 09:33 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
+ <p class="updated_time"> 09:32 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
+ <p class="updated_time"> 09:19 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 21 and destroy homes</a> BBC: More than 600 families have been left homeless in São Paulo state after the latest deadly floods. 
+ <p class="updated_time"> 09:17 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">New truckers' vaccine mandate protest in Ottawa</a> BBC: Police cited "traffic, noise and safety issues" as they asked the public to avoid the downtown area. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60199911?at_medium=RSS&at_campaign=KARANGA">Mandera attack: Seven killed in Kenyan bus ambush</a> BBC: Attackers open fire on a minibus after it was hit by a roadside bomb in northern Kenya, police say. 
  <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
  <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Joe Rogan pledges to try harder after Neil Young Spotify row</a> BBC: The podcaster supports the streaming giant's move to add warnings to podcasts discussing Covid-19. 
- <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 19 and destroy homes</a> BBC: About 500 families have been left homeless in São Paulo state after the latest deadly floods. 
  <p class="updated_time"> 04:05 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
@@ -63,12 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
- <p class="updated_time"> 12:06 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60194265?at_medium=RSS&at_campaign=KARANGA">India's Modi faces questions over spyware snooping</a> BBC: Fresh allegations have emerged that India bought spyware from Israel as part of a defence deal. 
  <p class="updated_time"> 11:30 PM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-shoots-down-missile-fired-by-yemens-houthis-during-israeli-visit-11643586459">U.A.E. Shoots Down Missile Fired by Yemen's Houthis During Israeli Visit</a> WSJ: The intercepted strike was the third attack this month against the Emirati capital, Abu Dhabi. 
- <p class="updated_time"> 11:27 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/business-60193954?at_medium=RSS&at_campaign=KARANGA">Macau police arrest leading casino boss amid crackdown</a> BBC: Macau Legend Development's share price plunged by as much as 30% in Hong Kong on Monday. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
@@ -236,6 +234,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden delivered a booming economy. Now he needs the Fed to deal with the fallout.</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
@@ -292,8 +292,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 05:04 PM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/29/democrats-iowa-caucuses-on-blast-00003444">Dems put Iowa caucuses on trial</a> Politico: At a party rules meeting, DNC members called for the first-in-the-nation state to be toppled from its perch. 
+ <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
+ <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
- <p class="updated_time"> 07:00 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/news/2022/01/28/suozzi-hochul-governor-primary-00003068">The New York Democrat who is quitting Congress for a longshot governor bid</a> Politico: The three-term congressman said he won’t be daunted by the perceived long odds. 
  <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
@@ -360,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
  <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
- <p class="updated_time"> 12:13 PM CT, Jan. 27 </p> 
- <a href="https://www.cnn.com/2022/01/26/politics/scotus-confirmation-white-house-breyer/index.html">Inside Biden's calculated response to Breyer's retirement</a> CNN: President Joe Biden received a much-needed political opening on Wednesday. But neither he, nor anyone close to him, appeared ready to celebrate it. 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
