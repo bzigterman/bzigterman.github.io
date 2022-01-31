@@ -222,6 +222,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 PM CT, Jan. 30 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:08 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-missile-test-guam-00003531">North Korea confirms test of missile capable of striking Guam</a> Politico: The launch was North Korea's most significant in years. 
  <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html">For Ketanji Brown Jackson, View of Criminal Justice Was Shaped by Family</a> NYT: The story of an uncle’s cocaine conviction formed only part of Judge Jackson’s understanding of the system’s complexities. She is now seen as a contender to be President Biden’s Supreme Court pick. 
- <p class="updated_time"> 12:44 PM CT, Jan. 30 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
