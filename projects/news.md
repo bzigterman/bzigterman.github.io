@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:39 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 07:27 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden calls on Fed to put the fire out as inflation rages</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">One in four Americans say violence against the government is sometimes okay</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
+ <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
  <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
@@ -262,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: ”There is no affirmative action component if you pick her," the Republican senator said. 
- <p class="updated_time"> 10:59 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/israel-president-on-first-visit-to-uae-amid-regional-tensions-00003468">UAE intercepts Yemeni missile as Israeli president visits</a> Politico: Israeli President Isaac Herzog is in the country on a state visit. 
  <p class="updated_time"> 10:19 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
@@ -290,6 +288,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/democrats-iowa-caucuses-on-blast-00003444">Dems put Iowa caucuses on trial</a> Politico: At a party rules meeting, DNC members called for the first-in-the-nation state to be toppled from its perch. 
  <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
