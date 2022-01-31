@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844656/as-khmer-rouge-tribunal-winds-down-cambodian-experts-see-small-measure-of-justic">As Khmer Rouge tribunal winds down, Cambodian experts see 'small measure of justice'</a> NPR: The Khmer Rouge killed as many as 2 million Cambodians in the 70s. Decades later, a tribunal was set up to help find justice. 15 years later, it's ending having found just three people guilty. 
  <p class="updated_time"> 03:57 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60190444?at_medium=RSS&at_campaign=KARANGA">In Pictures: US cities clear-up after big-freeze</a> BBC: Some areas saw over two feet (61cm) of snow as the region was hit by the biggest storm in years. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60190444?at_medium=RSS&at_campaign=KARANGA">In Pictures: US cities clear up after big freeze</a> BBC: Some areas saw over two feet (61cm) of snow as the region was hit by the biggest storm in years. 
  <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
