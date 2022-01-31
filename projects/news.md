@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Receives Report Into U.K. Lockdown Parties</a> NYT: The findings by Sue Gray, a senior civil servant, could inflict further political damage on the prime minister. He is accused of lying to Parliament about what he knew about the parties, which breached England’s lockdown rules in 2020. 
+ <p class="updated_time"> 07:31 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
+ <p class="updated_time"> 07:27 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
+ <p class="updated_time"> 07:17 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Receives Report Into U.K. Lockdown Parties</a> NYT: The findings could inflict further political damage on the prime minister, who is accused of lying about what he knew about parties that breached England’s Covid rules in 2020. Mr. Johnson is scheduled to appear before Parliament on Monday. 
  <p class="updated_time"> 07:04 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:57 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
- <p class="updated_time"> 06:51 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 05:50 AM CT, Jan. 31 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
  <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60194080?at_medium=RSS&at_campaign=KARANGA">Xuzhou mother: Video of chained woman in hut outrages China internet</a> BBC: The viral video has prompted demands the authorities intervene to help the mother of eight. 
- <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture “on a massive scale.” 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
  <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
