@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 05:35 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
