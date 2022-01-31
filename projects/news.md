@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Initial Report on U.K. Lockdown Parties Spares Boris Johnson</a> NYT: A highly anticipated report describes heavy workplace drinking at Downing Street but does not directly implicate the prime minister in parties that breached lockdown rules. The police are also investigating, and Mr. Johnson is scheduled to appear before Parliament on Monday. 
+ <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
- <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
- <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Live Updates: Report on U.K. Lockdown Parties Is Released</a> NYT: The findings could inflict further political damage on the prime minister, who is accused of lying about what he knew about the parties, which breached England’s lockdown rules in 2020. Mr. Johnson is scheduled to appear before Parliament on Monday. 
  <p class="updated_time"> 08:02 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60201844?at_medium=RSS&at_campaign=KARANGA">Maus: Graphic novel tops Amazon best-sellers after school ban</a> BBC: Maus, a graphic novel about the Holocaust, was banned by a school board in Tennessee this month. 
  <p class="updated_time"> 07:04 AM CT, Jan. 31 </p> 
