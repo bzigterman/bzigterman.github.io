@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076699748/ukraine-russian-attack-preparation">Is Ukraine ready for a Russian attack? It depends what kind</a> NPR: As experts and officials in Ukraine's capital consider a range of possible actions by Russia — including invasion, cyberattacks and disinformation campaigns — they say Ukraine lacks critical defenses. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
- <p class="updated_time"> 11:24 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 10:41 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/americas/harris-honduras-migration.html">Vice President Harris Seeks Ally in Honduras as She Revisits Central America</a> NYT: Vice President Kamala Harris’s trip was viewed as more than just showcasing the U.S. presence at the inauguration of Xiomara Castro, the first female head of state in Honduras. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
