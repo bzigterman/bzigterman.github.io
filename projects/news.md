@@ -244,6 +244,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/north-korea-missile-test-guam-00003531">North Korea confirms test of missile capable of striking Guam</a> Politico: The launch was North Korea's most significant in years. 
  <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a speech in Texas, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York took action against him. 
+ <p class="updated_time"> 06:24 PM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/new-york-democrats-redistricting-00003503">New York Democrats could pick up 3 congressional seats under new maps</a> Politico: New York’s 27-member congressional delegation currently has 19 Democrats and eight Republicans. That delegation is due to decrease to 26 members after the state’s population grew less rapidly than other states’. 
  <p class="updated_time"> 05:34 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/spotify-advisories-covid-podcast-young-rogan-00003502">Spotify modified: Advisories are to be added to podcasts discussing Covid</a> Politico: Neil Young and other musicians had pulled their music because of Joe Rogan's podcasts. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
@@ -273,8 +275,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/beijing-china-covid-sealed-off-00003452">Beijing seals off more residential areas over Covid</a> Politico: China is on high alert as it prepares to host the Olympic Games opening  Friday. 
- <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
@@ -290,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 05:15 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/republicans-midterms-congress.html">Republicans Relish Biden’s Troubles, Eyeing a Takeover of Congress</a> NYT: The president’s woes have delighted Republicans, who have been seeking to rehabilitate themselves in the eyes of voters after the Jan. 6 attack on the Capitol. 
+ <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 03:08 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/supreme-court-confirmation-battles.html">Bitterness From Supreme Court Fights Hangs Over Coming Nomination</a> NYT: The battles of the recent past will no doubt extend into the coming fight over President Biden’s choice to replace Justice Stephen G. Breyer. 
  <p class="updated_time"> 02:01 PM CT, Jan. 29 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/24/senators-russia-sanctions-ukraine-invasion-00001587">8 senators revive Russia sanctions push as Ukraine invasion fears mount</a> Politico: The group met virtually on Monday to discuss revisions to Democrats' proposal that might win over 10 GOP senators. 
  <p class="updated_time"> 11:14 AM CT, Jan. 24 </p> 
  <a href="https://www.politico.com/news/2022/01/24/capitol-police-social-media-00000948">Capitol Police examines backgrounds, social media feeds of some who meet with lawmakers</a> Politico: The little-known new practice by the department’s intelligence analysts, instituted since the Jan. 6 attack, is highly controversial given the civil liberties concerns it raises. 
- <p class="updated_time"> 07:46 AM CT, Jan. 24 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/24/senators-counting-on-electoral-count-act-00001009">Senators counting on Electoral Count Act</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
