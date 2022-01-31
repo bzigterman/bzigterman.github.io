@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Promises Reform After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. The police are also investigating 12 such events, including at least two where Mr. Johnson was present. 
  <p class="updated_time"> 09:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">What Comes Next for Boris Johnson?</a> NYT: Parties at Mr. Johnson’s office during a Covid lockdown have prompted a civil service inquiry and a police investigation. Here’s a guide to the risks the British prime minister now faces. 
  <p class="updated_time"> 09:40 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 09:36 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/irish-fishermen-russia.html">Russia Cancels Plan for Naval Drills That Upset Irish Fishermen</a> NYT: The plan to conduct military exercises next week in international waters had drawn protests from fishing groups and the Irish government. 
- <p class="updated_time"> 09:35 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Live Updates: Initial Report on U.K. Lockdown Parties Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached lockdown rules. The police are also investigating 12 such events, including at least two where Mr. Johnson was present. 
  <p class="updated_time"> 09:33 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
+ <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
  <p class="updated_time"> 09:19 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 21 and destroy homes</a> BBC: More than 600 families have been left homeless in São Paulo state after the latest deadly floods. 
  <p class="updated_time"> 09:17 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">New truckers' vaccine mandate protest in Ottawa</a> BBC: Public warned of "traffic, noise and safety issues" downtown amid anti vaccine mandate protest. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawans 'prisoners in own homes'</a> BBC: Public warned of "traffic, noise and safety issues" downtown amid anti vaccine mandate protest. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60199911?at_medium=RSS&at_campaign=KARANGA">Mandera attack: Seven killed in Kenyan bus ambush</a> BBC: Attackers open fire on a minibus after it was hit by a roadside bomb in northern Kenya, police say. 
  <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-a-e-shoots-down-missile-fired-by-yemens-houthis-during-israeli-visit-11643586459">U.A.E. Shoots Down Missile Fired by Yemen's Houthis During Israeli Visit</a> WSJ: The intercepted strike was the third attack this month against the Emirati capital, Abu Dhabi. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
- <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
  <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/isis-syria-prison-sinaa.html">ISIS Fighters Get Ultimatum in Syria Prison Standoff</a> NYT: The U.S.-backed Syrian Democratic Forces militia demanded that about 60 ISIS militants, still holed up in a prison a week after they attacked it, give themselves up or risk being killed. 
  <p class="updated_time"> 06:12 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60171335?at_medium=RSS&at_campaign=KARANGA">Peter Tatchell on his life-long fight for gay rights</a> BBC: Peter Tatchell's high-profile activism has seen him take on archbishops, presidents and boxers. 
- <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
@@ -218,6 +216,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/rnc-chief-steps-down-00003537">RNC chief of staff to leave post</a> Politico: Richard Walters, who has been chief of staff for four-plus years, is moving into a senior adviser role. 
+ <p class="updated_time"> 10:07 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/new-group-looks-to-redefine-rural-higher-education-policy-00003485">New group looks to redefine rural higher education policy</a> Politico: Outside of election years, the institutions “have not been a primary focus” when it comes to policy, according to the new Alliance for Research on Regional Colleges, which launched in 2021 when it published its first report. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
@@ -283,9 +285,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
- <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
@@ -365,9 +367,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
+ <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 11:28 PM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/news/2022/01/26/judge-eastman-speed-documents-00002653">Judge orders Eastman to speed effort to get documents to Jan. 6 committee</a> Politico: Judge David Carter is pushing the Trump ally to move faster. 
  <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
- <p class="updated_time"> 04:30 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/harris-at-a-crossroads-shape-or-escape-the-d-c-bubble-00002173">‘She was Zoom’d out:’ Veep mulls escape from D.C. bubble</a> Politico: Kamala Harris never liked the insider game, or played it particularly well. Now, allies concede it's hurting her. 
  <p class="updated_time"> 02:54 PM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
