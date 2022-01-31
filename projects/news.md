@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
  <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-60173061?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: How will the Covid bubbles work?</a> BBC: To combat the risk of Covid, a huge army of volunteers and security staff will help implement enormous, strict separation bubbles. 
+ <a href="https://www.bbc.co.uk/news/world-60173061?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: How will the Covid bubbles work?</a> BBC: To combat the risk of Covid, an army of volunteers and security will implement strict separation bubbles. 
  <p class="updated_time"> 06:11 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60150533?at_medium=RSS&at_campaign=KARANGA">Shankar the elephant: Plea to send lonely African animal home from India</a> BBC: A teenager has petitioned a court to release an African elephant living in isolation at an Indian zoo. 
  <p class="updated_time"> 06:03 PM CT, Jan. 30 </p> 
