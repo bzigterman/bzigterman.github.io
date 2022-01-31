@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
+ <p class="updated_time"> 01:18 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077003325/united-nations-afghanistan-taliban-takeover-extrajudicial-killings">U.N. says over 100 ex-Afghan officials have been slain since the Taliban's takeover</a> NPR: A new U.N. report finds that "more than two-thirds" of those who died were victims of extrajudicial killings by the Taliban or its affiliates. 
- <p class="updated_time"> 01:07 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60204868?at_medium=RSS&at_campaign=KARANGA">Anne Frank's betrayal: Dutch publisher apologises for book</a> BBC: The book identifies a person who may have betrayed Anne Frank and her family to the Nazis. 
  <p class="updated_time"> 12:35 PM CT, Jan. 31 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
- <p class="updated_time"> 11:29 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 11:26 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202343?at_medium=RSS&at_campaign=KARANGA">French ambassador expelled from Mali</a> BBC: Mali gave the ambassador 72 hours to leave over comments made by the French foreign minister. 
  <p class="updated_time"> 11:21 AM CT, Jan. 31 </p> 
@@ -51,10 +51,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 21 and destroy homes</a> BBC: More than 600 families have been left homeless in São Paulo state after the latest deadly floods. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60199911?at_medium=RSS&at_campaign=KARANGA">Mandera attack: Seven killed in Kenyan bus ambush</a> BBC: Attackers open fire on a minibus after it was hit by a roadside bomb in northern Kenya, police say. 
+ <p class="updated_time"> 08:09 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
- <p class="updated_time"> 06:36 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
@@ -197,16 +197,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/lausanne-switzerland-night-watch.html">After 600 Years, Swiss City at Last Has a Woman on Night Watch</a> NYT: Lausanne has kept a night watch atop its cathedral since 1405, but it never appointed a woman to the role until Cassandre Berdoz, after a long fight, landed a job that was her “childhood dream.” 
  <p class="updated_time"> 01:54 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html">F.B.I. Secretly Bought Israeli Spyware and Explored Hacking U.S. Phones</a> NYT: Israel used the NSO Group’s software as a tool of diplomacy. The F.B.I. wanted it for domestic surveillance. Then everything soured. Here are highlights of a New York Times Magazine investigation. 
- <p class="updated_time"> 01:04 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/climate/amazon-forest-mercury-peru.html">Alarming Levels of Mercury Are Found in Old Growth Amazon Forest</a> NYT: The findings, related to gold mining in Peru, provide new evidence of how people are altering ecosystems in dangerous ways around the world. 
  <p class="updated_time"> 01:01 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/arts/design/francis-bacon-man-beast-royal-academy.html">Francis Bacon's Animal Paintings, Analyzed by Animal Experts</a> NYT: A new exhibition at London’s Royal Academy highlights Francis Bacon’s paintings of animals. We showed them to some specialists in their subject matter. 
  <p class="updated_time"> 12:39 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
- <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
@@ -222,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Vaccine skeptics are a growing force in GOP politics and Trumpworld too</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 12:55 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/desantis-aide-nazi-protestors-democrats-00003678">DeSantis aide deletes tweet suggesting Nazi protesters were Democratic operatives</a> Politico: Christina Pushaw's comments drew widespread condemnation from elected officials as well as a prominent South Florida rabbi. 
- <p class="updated_time"> 12:50 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/john-k-singlaub-dead.html">John K. Singlaub, General Who Clashed With Jimmy Carter, Dies at 100</a> NYT: After a career in military intelligence, waging war in Europe, Korea and Vietnam, he was forced out of the U.S. Army. He then aided the contras in Nicaragua. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
  <p class="updated_time"> 11:07 AM CT, Jan. 31 </p> 
@@ -272,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/spotify-advisories-covid-podcast-young-rogan-00003502">Spotify modified: Advisories are to be added to podcasts discussing Covid</a> Politico: Neil Young and other musicians had pulled their music because of Joe Rogan's podcasts. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
- <p class="updated_time"> 04:05 PM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/nyc-covid-cases-decline-00003482">NYC sees rapid decline in Covid-19 cases. Here are the latest figures.</a> Politico: The city's positivity rate Saturday was 4.83 percent, the lowest of any region in the state. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
@@ -336,6 +328,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/what-mattered-this-week.html">What Mattered This Week</a> NYT: Democrats’ not-so-terrible news, the limits of Trump’s power and the allure of ’24. 
+ <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
+ <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
  <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
