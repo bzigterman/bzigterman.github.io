@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
+ <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
@@ -208,12 +208,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/trudeau-trucker-protest-00003858">Trudeau on trucker protest: 'We are not intimidated'</a> Politico: Demonstrators are threatening to disrupt downtown Ottawa for as long as necessary. 
  <p class="updated_time"> 04:16 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/judge-rejects-plea-deal-man-killed-ahmaud-arbery-00003880">Judge rejects plea deal for man who killed Ahmaud Arbery</a> Politico: A federal judge rejected a plea agreement Monday that would have averted a hate crimes trial for the man convicted of murdering Ahmaud Arbery. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off for several weeks, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
+ <p class="updated_time"> 03:58 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Will Designate Qatar as Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
- <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-major-non-nato-ally.html">Biden Will Designate Qatar as Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
- <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:45 PM CT, Jan. 28 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
  <p class="updated_time"> 04:02 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076514284/a-congressional-delegation-visits-kyiv-to-pledge-solidarity-with-ukraine">A congressional delegation visits Kyiv to pledge solidarity with Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Congressmen Gregory Meeks, D-N.Y., and Congressman Mark Green, R-Tenn., about their trip to Ukraine as the country faces the threat of a Russian invasion. 
- <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
