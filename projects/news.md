@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:40 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 11:49 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60203200?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: UK threatens tougher sanctions in event of aggression</a> BBC: Foreign Secretary Liz Truss announces far-reaching sanctions in the event of aggression against Ukraine. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Trudeau calls trucker protest an 'insult to truth'</a> BBC: Police warned of "traffic, noise and safety issues" in Ottawa as a vaccine mandate protest continues. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
  <p class="updated_time"> 10:48 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
- <p class="updated_time"> 10:43 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa residents 'prisoners in own homes'</a> BBC: Police warn of "traffic, noise and safety issues" in the centre as a vaccine mandate protest continues. 
  <p class="updated_time"> 10:39 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
  <p class="updated_time"> 06:36 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: A government report said the gatherings were a failure of leadership and shouldn’t have happened, leaving the prime minister seeking to quell a rebellion within his Conservative Party. 
+ <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/europe/100000008180128/ukraine-mariupol-russia.html">‘My Soul Is Crying’: Ukrainians Remember a Deadly Rocket Attack</a> NYT: Residents in Mariupol, a Ukrainian frontline city rocked by shelling in 2015, mourn the dead as they brace for a potential Russian escalation. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
- <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern front lines, in the deep winter cold, soldiers and civilians await Russia's next move. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meet Western diplomats in 1st major international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 07:31 AM CT, Jan. 30 </p> 
