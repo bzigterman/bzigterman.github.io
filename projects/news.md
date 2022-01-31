@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
+ <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">‘Everyone’s Looking for Plastic.’ As Waste Rises, So Does Recycling.</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
+ <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
  <p class="updated_time"> 01:28 AM CT, Jan. 31 </p> 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
- <p class="updated_time"> 10:17 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:47 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663969/kyiv-braces-for-russian-attacks-physical-and-beyond">Kyiv braces for Russian attacks, physical and beyond</a> NPR: City officials in Ukraine's capital are considering a wide range of possible actions by Russia: invasion, siege, hybrid warfare, cyberattacks and disinformation campaigns. 
- <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1076663934/a-mexican-journalist-remembers-her-2-colleagues-murdered-in-tijuana-this-month">A Mexican journalist remembers her 2 colleagues murdered in Tijuana this month</a> NPR: Scott Simon talks with Tijuana journalist Gabriela Martinez about the recent murders of two colleagues, and the continuing violence against journalists there and in other parts of Mexico. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
