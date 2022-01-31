@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:55 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Report Into U.K. Lockdown Parties Is Sent to Boris Johnson</a> NYT: The findings by Sue Gray, a senior civil servant, could inflict further political damage on the prime minister. He is accused of lying to Parliament about what he knew about the parties, which breached England’s lockdown rules in 2020. 
+ <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Receives Report Into U.K. Lockdown Parties</a> NYT: The findings by Sue Gray, a senior civil servant, could inflict further political damage on the prime minister. He is accused of lying to Parliament about what he knew about the parties, which breached England’s lockdown rules in 2020. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
+ <p class="updated_time"> 06:57 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 06:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Joe Rogan pledges to try harder after Neil Young Spotify row</a> BBC: The podcaster supports the streaming giant's move to add warnings to podcasts discussing Covid-19. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 19 and destroy homes</a> BBC: About 500 families have been left homeless in São Paulo state after the latest deadly floods. 
- <p class="updated_time"> 04:17 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 04:05 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60150544?at_medium=RSS&at_campaign=KARANGA">New Zealand responds to pregnant reporter helped by Taliban</a> BBC: New Zealand defended its border controls after Charlotte Bellis went public with her story. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">As Waste Rises in Senegal, So Does Plastic Recycling</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
- <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/31/congress-warms-up-2022-to-do-list-00003571">Congress warms up 2022 to-do list</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895886/russia-would-face-consequences-over-ukraine-if-diplomatic-path-fails">Russia would face consequences over Ukraine if diplomatic path fails</a> NPR: NPR's Steve Inskeep talks to Jon Finer, deputy national security adviser, about the Russia-Ukraine crisis. Finer says Russia has massed enough troops at the border to invade Ukraine. 
  <p class="updated_time"> 06:17 AM CT, Jan. 31 </p> 
