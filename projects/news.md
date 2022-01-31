@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:17 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
+ <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
  <p class="updated_time"> 07:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 06:54 PM CT, Jan. 30 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/north-korea-launches-suspected-ballistic-missile-off-its-east-coast-south-korea-says-11643502959">North Korea Fires Another Missile, Its Most Powerful Test in Years</a> WSJ: The launch marks Pyongyang’s seventh weapons launch this month—more than it had conducted in all of last year. 
  <p class="updated_time"> 10:50 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years On, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
- <p class="updated_time"> 10:44 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60183864?at_medium=RSS&at_campaign=KARANGA">Australian Open: Rafael Nadal beats Daniil Medvedev from two sets down in Melbourne epic</a> BBC: Rafael Nadal wins a record 21st Grand Slam men's singles title by fighting back from two sets down to beat Russia's Daniil Medvedev in a classic Australian Open final. 
  <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 10:30 AM CT, Jan. 30 </p> 
@@ -211,8 +213,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/jordan-drug-smugglers-syria.html">Jordan’s Army Kills 27 in Drug Bust on Syrian Border</a> NYT: The Jordanian Army said that soldiers fired on suspected smugglers as they tried to cross the border under cover of a snowstorm. 
  <p class="updated_time"> 10:10 AM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html">The Ending of 'Fight Club' Was Censored in China</a> NYT: The 1999 cult classic starring Brad Pitt and Edward Norton is not the only foreign film to be altered for audiences in mainland China. 
- <p class="updated_time"> 08:41 AM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/asia/covid-case-beijing-olympics-germany.html">Covid Case in Beijing Olympic Bubble Is Linked to a German Team</a> NYT: A supervisor who tested positive is asymptomatic and is now in a quarantine hotel, the German Olympic Sports Confederation said. 
 
 
 </details>
