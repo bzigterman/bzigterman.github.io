@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
- <p class="updated_time"> 07:59 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/middleeast/syria-isis-prison.html">U.S.-Backed Forces Clash With ISIS Fighters at Syrian Prison</a> NYT: The Kurdish-led militia claimed prematurely it had retaken a prison captured by the Islamic State. In fact, the battle continues. Up to 90 ISIS fighters remain. 
  <p class="updated_time"> 07:04 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
  <p class="updated_time"> 06:03 AM CT, Jan. 28 </p> 
