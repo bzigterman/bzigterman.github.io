@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
+ <p class="updated_time"> 10:48 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
+ <p class="updated_time"> 10:43 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa residents 'prisoners in own homes'</a> BBC: Police warn of "traffic, noise and safety issues" in the centre as a vaccine mandate protest continues. 
  <p class="updated_time"> 10:42 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 10:42 AM CT, Jan. 31 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
- <p class="updated_time"> 10:07 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa residents 'prisoners in own homes'</a> BBC: Public warned of "traffic, noise and safety issues" downtown amid anti vaccine mandate protest. 
  <p class="updated_time"> 09:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">What Comes Next for Boris Johnson?</a> NYT: Parties at Mr. Johnson’s office during a Covid lockdown have prompted a civil service inquiry and a police investigation. Here’s a guide to the risks the British prime minister now faces. 
  <p class="updated_time"> 09:36 AM CT, Jan. 31 </p> 
@@ -51,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
  <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60194080?at_medium=RSS&at_campaign=KARANGA">Xuzhou mother: Video of chained woman in hut outrages China internet</a> BBC: The viral video has prompted demands the authorities intervene to help the mother of eight. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/chinas-communist-party-quietly-inserts-itself-into-everyday-life-11643644801">China's Communist Party Quietly Inserts Itself Into Everyday Life</a> WSJ: More than 100,000 “civilization practice centers” have been rolled out nationwide in the past four years as part of a sprawling propaganda effort that casts new light on the party’s drive to mold Chinese into model citizens. 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
  <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
- <p class="updated_time"> 11:30 PM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-shoots-down-missile-fired-by-yemens-houthis-during-israeli-visit-11643586459">U.A.E. Shoots Down Missile Fired by Yemen's Houthis During Israeli Visit</a> WSJ: The intercepted strike was the third attack this month against the Emirati capital, Abu Dhabi. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
@@ -207,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/afghanistan-taliban-kabul-shiites.html">On Patrol: 12 Days With a Taliban Police Unit in Kabul</a> NYT: Tasked with guarding a Shiite shrine, a police unit offers a telling snapshot of the Taliban’s rank-and-file fighters and the challenges Afghanistan’s rulers face in governing a diverse nation. 
  <p class="updated_time"> 03:20 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/asia/korea-border-leaflets-speech-law.html">South Korea Indicts Defector From the North Over Leaflets</a> NYT: South Korea banned the spreading of leaflets across the border last year. Park Sang-hak, an outspoken activist who defied the ban, was indicted this week. 
- <p class="updated_time"> 02:12 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
 
 
 </details>
@@ -220,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
  <p class="updated_time"> 11:07 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/canada-trudeau-tests-positive-covid-19-00003605">Trudeau tests positive for Covid-19</a> Politico: The prime minister said in a tweet that he tested positive Monday morning. 
+ <p class="updated_time"> 10:50 AM CT, Jan. 31 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 10:24 AM CT, Jan. 31 </p> 
@@ -254,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
  <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
- <p class="updated_time"> 11:28 PM CT, Jan. 30 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:08 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/north-korea-missile-test-guam-00003531">North Korea confirms test of missile capable of striking Guam</a> Politico: The launch was North Korea's most significant in years. 
  <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
