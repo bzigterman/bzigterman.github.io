@@ -17,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
+ <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/60201894?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Hate crime plea deal rejected by US judge in murder case</a> BBC: The deal would have allowed two of Ahmaud Arbery's killers to serve in "preferred" federal prisons 
  <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 01:30 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation - we look at some of his claims. 
+ <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077003325/united-nations-afghanistan-taliban-takeover-extrajudicial-killings">U.N. says over 100 ex-Afghan officials have been slain since the Taliban's takeover</a> NPR: A new U.N. report finds that "more than two-thirds" of those who died were victims of extrajudicial killings by the Taliban or its affiliates. 
  <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
- <p class="updated_time"> 02:03 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60150544?at_medium=RSS&at_campaign=KARANGA">New Zealand responds to pregnant reporter helped by Taliban</a> BBC: New Zealand defended its border controls after Charlotte Bellis went public with her story. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">As Waste Rises in Senegal, So Does Plastic Recycling</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
  <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
