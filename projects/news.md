@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roil Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:49 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60203200?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: UK threatens tougher sanctions in event of aggression</a> BBC: Foreign Secretary Liz Truss announces far-reaching sanctions in the event of aggression against Ukraine. 
  <p class="updated_time"> 11:45 AM CT, Jan. 31 </p> 
@@ -57,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/asia/omicron-asia-lunar-new-year.html">Omicron Surge in Asia Restricts Travel for Lunar New Year</a> NYT: The Omicron variant has dampened the plans of tens of millions of people across several Asian countries to travel for the holiday. 
  <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/metoo-voice-holland-netherlands.html">#MeToo Scandal at a Dutch TV Show Spurs a Sexual Assault Reckoning</a> NYT: The allegations against four men appearing on the Dutch version of “The Voice” talent show have helped to prompt a surge in reports of sexual assaults, victims’ groups say. 
+ <p class="updated_time"> 05:37 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/tax-haven-u-a-e-to-introduce-levy-on-corporate-profits-11643647029">Tax Haven U.A.E. to Introduce Levy on Corporate Profits</a> WSJ: The United Arab Emirates is set to introduce a tax on corporate profits, as it juggles the need to remain an attractive for international business with its agreement to support global tax transparency. 
  <p class="updated_time"> 05:15 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60090861?at_medium=RSS&at_campaign=KARANGA">Iguanas fall from trees as cold snap hits Florida</a> BBC: Warnings are issued as unusually cold temperatures in the US state cause the lizards to freeze. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
  <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
