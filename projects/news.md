@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 03:28 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Justin Trudeau Condemns Canadian Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 03:25 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
- <p class="updated_time"> 03:20 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064916/u-s-and-russia-clashed-over-the-ukraine-crisis-at-the-u-n-security-council-meeti">U.S. and Russia clashed over the Ukraine crisis at the U.N. Security Council meeting</a> NPR: The U.N. Security Council had a contentious session on Russia's pressure campaign against Ukraine. Most council members are urging Russia to take a diplomatic path. 
  <p class="updated_time"> 03:18 PM CT, Jan. 31 </p> 
@@ -61,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
+ <p class="updated_time"> 10:44 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands, Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/irish-fishermen-russia.html">Russia Cancels Plan for Naval Drills That Upset Irish Fishermen</a> NYT: The plan to conduct military exercises next week in international waters had drawn protests from fishing groups and the Irish government. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
- <p class="updated_time"> 08:31 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands, Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 08:09 AM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/biden-qatar-ally-gulf-00003828">Biden to designate Qatar a ‘major non-NATO ally’</a> Politico: The announcement comes amid discussions on a European energy contingency plan should Russian troops invade Ukraine. 
+ <p class="updated_time"> 03:39 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/trump-fbi-georgia.html">Georgia Prosecutor Investigating Trump Seeks Safety Assistance From the F.B.I.</a> NYT: The Fulton County district attorney expressed concern about the former president’s comments at a rally in Texas. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 03:22 PM CT, Jan. 31 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
- <p class="updated_time"> 10:16 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/trump-fbi-georgia.html">Georgia Prosecutor Investigating Trump Seeks Safety Assistance From the F.B.I.</a> NYT: The Fulton County district attorney expressed concern about the former president’s comments at a rally in Texas. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
