@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:24 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 06:55 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Report Into U.K. Lockdown Parties Is Sent to Boris Johnson</a> NYT: The findings by Sue Gray, a senior civil servant, could inflict further political damage on the prime minister. He is accused of lying to Parliament about what he knew about the parties, which breached England’s lockdown rules in 2020. 
+ <p class="updated_time"> 06:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
@@ -134,7 +136,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 05:07 PM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1076737436/security-experts-doubt-ukraine-readiness-against-russian-cyber-attack">Security experts doubt Ukraine readiness against Russian cyber attack</a> NPR: Ukrainian officials prepare civil defense in the event of a Russian invasion or hybrid warfare. 
+ <a href="https://www.npr.org/2022/01/29/1076737436/security-experts-doubt-ukraine-readiness-against-russian-cyber-attack">Security experts doubt Ukraine readiness against Russian cyberattack</a> NPR: Ukrainian officials prepare civil defense in the event of a Russian invasion or hybrid warfare. 
  <p class="updated_time"> 04:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076730068/a-call-for-mexico-to-investigate-murders-of-journalists">A call for Mexico to investigate murders of journalists</a> NPR: NPR's Michel Martin speaks with Paula Saucedo from the Mexican press freedom organization Article 19, about the recent murders of two Mexican journalists and the state of the free press in Mexico. 
  <p class="updated_time"> 03:57 PM CT, Jan. 29 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-putin-ukraine-europe.html">Biden Includes European Allies As He Confronts Putin On Ukraine</a> NYT: In what amounts to a much-needed diplomatic reset, the U.S. is orchestrating the response to Russia’s threatening moves and making sure to include his European allies. 
  <p class="updated_time"> 10:40 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
- <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
 
 
 </details>
