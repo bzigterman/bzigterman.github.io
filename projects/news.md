@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Initial Report on U.K. Lockdown Parties Spares Boris Johnson</a> NYT: A highly anticipated report describes heavy workplace drinking at Downing Street but does not directly implicate the prime minister in parties that breached lockdown rules. The police are also investigating, and Mr. Johnson is scheduled to appear before Parliament on Monday. 
+ <p class="updated_time"> 08:52 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Initial Report on U.K. Lockdown Parties Spares Boris Johnson For Now</a> NYT: A highly anticipated report describes heavy workplace drinking at Downing Street but does not directly implicate the prime minister in parties that breached lockdown rules. The police are also investigating, and Mr. Johnson is scheduled to appear before Parliament on Monday. 
  <p class="updated_time"> 08:39 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden calls on Fed to put the fire out as inflation rages</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
+ <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden delivered a booming economy. Now he needs the Fed to deal with the fallout.</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
