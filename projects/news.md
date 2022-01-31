@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the year of the Ox to the year of the Tiger. 
  <p class="updated_time"> 04:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
  <p class="updated_time"> 04:44 PM CT, Jan. 31 </p> 
@@ -253,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trumpworld adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
+ <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 12:55 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/desantis-aide-nazi-protestors-democrats-00003678">DeSantis aide deletes tweet suggesting Nazi protesters were Democratic operatives</a> Politico: Christina Pushaw's comments drew widespread condemnation from elected officials as well as a prominent South Florida rabbi. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
