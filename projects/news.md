@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
+ <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 11:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
+ <p class="updated_time"> 11:26 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60202343?at_medium=RSS&at_campaign=KARANGA">French ambassador expelled from Mali</a> BBC: Mali gave the ambassador 72 hours to leave over comments made by the French foreign minister. 
  <p class="updated_time"> 11:21 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
- <p class="updated_time"> 11:20 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 11:17 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
@@ -41,8 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60201844?at_medium=RSS&at_campaign=KARANGA">Maus: Graphic novel tops Amazon best-sellers after school ban</a> BBC: Maus, a graphic novel about the Holocaust, was banned by a school board in Tennessee this month. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
- <p class="updated_time"> 06:57 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
+ <p class="updated_time"> 06:36 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: A government report said the gatherings were a failure of leadership and shouldn’t have happened, leaving the prime minister seeking to quell a rebellion within his Conservative Party. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076012108/from-stalin-to-putin-ukraine-is-still-trying-to-break-free-from-moscow">From Stalin to Putin, Ukraine is still trying to break free from Moscow</a> NPR: Josef Stalin caused a famine when he tried to remake Ukraine's farms. Vladimir Putin is threatening to invade Ukraine — again. For a century, Ukraine has been trying to escape Moscow's grip. 
- <p class="updated_time"> 04:03 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: A government report said parties during lockdowns were a failure of leadership and shouldn’t have happened, leaving the prime minister fighting to quell a rebellion within the ranks of his Conservative Party. 
  <p class="updated_time"> 03:25 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
- <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
  <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
