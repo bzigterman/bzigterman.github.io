@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:44 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
  <p class="updated_time"> 01:28 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-security-council.html">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
