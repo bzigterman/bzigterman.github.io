@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Initial Report on U.K. Lockdown Parties Spares Boris Johnson</a> NYT: A highly anticipated report describes heavy workplace drinking at Downing Street but does not directly implicate the prime minister in parties that breached lockdown rules. The police are also investigating, and Mr. Johnson is scheduled to appear before Parliament on Monday. 
  <p class="updated_time"> 08:39 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
- <p class="updated_time"> 08:39 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Initial Report on U.K. Lockdown Parties Spares Boris Johnson</a> NYT: A highly anticipated report describes heavy workplace drinking at Downing Street but does not directly implicate the prime minister in parties that breached lockdown rules. The police are also investigating, and Mr. Johnson is scheduled to appear before Parliament on Monday. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
@@ -222,6 +222,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/stephen-breyer-supreme-court.html">With Breyer’s Exit, a Farewell to Marshmallow Guns and Tomato Children</a> NYT: Justice Stephen G. Breyer, who said last week that he planned to retire, enlivened Supreme Court arguments with questions that could confuse and amuse. 
  <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/31/congress-warms-up-2022-to-do-list-00003571">Congress warms up 2022 to-do list</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
@@ -244,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
  <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
- <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/stephen-breyer-supreme-court.html">With Breyer’s Exit, a Farewell to Marshmallow Guns and Tomato Children</a> NYT: Justice Stephen G. Breyer, who said last week that he planned to retire, enlivened Supreme Court arguments with questions that could confuse and amuse. 
  <p class="updated_time"> 11:28 PM CT, Jan. 30 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:08 PM CT, Jan. 30 </p> 
