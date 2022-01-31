@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:35 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 05:46 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
+ <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/metoo-voice-holland-netherlands.html">#MeToo Scandal at a Dutch TV Show Spurs a Sexual Assault Reckoning</a> NYT: The allegations against four men appearing on the Dutch version of “The Voice” talent show have helped to prompt a surge in reports of sexual assaults, victims’ groups say. 
+ <p class="updated_time"> 05:15 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60090861?at_medium=RSS&at_campaign=KARANGA">Iguanas fall from trees as cold snap hits Florida</a> BBC: Warnings are issued as unusually cold temperatures in the US state cause the lizards to freeze. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
+ <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60194080?at_medium=RSS&at_campaign=KARANGA">Xuzhou mother: Video of chained woman in hut outrages China internet</a> BBC: The viral video has prompted demands the authorities intervene to help the mother of eight. 
  <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture “on a massive scale.” 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
@@ -71,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076839081/northern-ireland-50-years-bloody-sunday">Northern Ireland marks 50 years since the Bloody Sunday killings</a> NPR: British soldiers shot and killed 13 people and wounded others during a 1972 civil rights protest. The shootings exacerbated the conflict in Northern Ireland, which left thousands dead over decades. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844656/as-khmer-rouge-tribunal-winds-down-cambodian-experts-see-small-measure-of-justic">As Khmer Rouge tribunal winds down, Cambodian experts see 'small measure of justice'</a> NPR: The Khmer Rouge killed as many as 2 million Cambodians in the 70s. Decades later, a tribunal was set up to help find justice. 15 years later, it's ending having found just three people guilty. 
- <p class="updated_time"> 03:57 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60190444?at_medium=RSS&at_campaign=KARANGA">In Pictures: US cities clear up after big freeze</a> BBC: Some areas saw over two feet (61cm) of snow as the region was hit by the biggest storm in years. 
  <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-60171335?at_medium=RSS&at_campaign=KARANGA">Peter Tatchell on his life-long fight for gay rights</a> BBC: Peter Tatchell's high-profile activism has seen him take on archbishops, presidents and boxers. 
  <p class="updated_time"> 06:02 PM CT, Jan. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60159798?at_medium=RSS&at_campaign=KARANGA">The Critics Company: Nigerian teenagers who became sci-fi sensations</a> BBC: The group of friends from Kaduna borrowed smartphones from family members and made tripods out of wood. 
- <p class="updated_time"> 05:22 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008155720/ukraine-mauripol-russia.html">‘We’ve Been Through This Before’: Ukraine City Braces for Possible Russian Invasion</a> NYT: Flanked by rebel combatants and Russian forces to the east and Russian ships to the south, Mariupol is one place where President Vladimir Putin’s forces could attack first, or stage a provocation. We speak to residents and soldiers on the front line in this Ukrainian city. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
  <p class="updated_time"> 02:25 PM CT, Jan. 28 </p> 
