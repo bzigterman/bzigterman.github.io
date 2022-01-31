@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
+ <p class="updated_time"> 04:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
+ <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is whether the list of targets includes Vladimir V. Putin himself. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60209051?at_medium=RSS&at_campaign=KARANGA">US east coast digs out from blizzard</a> BBC: Residents are cheerfully shovelling heaps of snow in sub-zero temperatures after a numbing nor'easter. 
  <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. and its allies criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage over the military standoff. 
- <p class="updated_time"> 09:36 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/irish-fishermen-russia.html">Russia Cancels Plan for Naval Drills That Upset Irish Fishermen</a> NYT: The plan to conduct military exercises next week in international waters had drawn protests from fishing groups and the Irish government. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
  <p class="updated_time"> 08:09 AM CT, Jan. 31 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076012108/from-stalin-to-putin-ukraine-is-still-trying-to-break-free-from-moscow">From Stalin to Putin, Ukraine is still trying to break free from Moscow</a> NPR: Josef Stalin caused a famine when he tried to remake Ukraine's farms. Vladimir Putin is threatening to invade Ukraine — again. For a century, Ukraine has been trying to escape Moscow's grip. 
- <p class="updated_time"> 03:25 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
@@ -208,12 +208,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:09 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/diem-facebook-cryptocurrency-meta-00003871">Facebook’s crypto project sold after political backlash</a> Politico: The announcement caps a nearly three-year odyssey on the part of Facebook and its partners to launch a digital currency. 
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/trudeau-trucker-protest-00003858">Trudeau on trucker protest: 'We are not intimidated'</a> Politico: Demonstrators are threatening to disrupt downtown Ottawa for as long as necessary. 
+ <p class="updated_time"> 04:18 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off for several weeks, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 04:16 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/judge-rejects-plea-deal-man-killed-ahmaud-arbery-00003880">Judge rejects plea deal for man who killed Ahmaud Arbery</a> Politico: A federal judge rejected a plea agreement Monday that would have averted a hate crimes trial for the man convicted of murdering Ahmaud Arbery. 
- <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off for several weeks, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 03:58 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Will Designate Qatar as Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
- <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
