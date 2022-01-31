@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:36 PM CT, Jan. 31 </p> 
+ <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
+ <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
+ <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 02:35 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:23 PM CT, Jan. 31 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60202343?at_medium=RSS&at_campaign=KARANGA">French ambassador expelled from Mali</a> BBC: A row erupts over comments by the foreign minister of France, which has troops deployed in the country. 
  <p class="updated_time"> 02:04 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
- <p class="updated_time"> 01:52 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 01:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
- <p class="updated_time"> 11:21 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
  <p class="updated_time"> 11:17 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
@@ -63,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60173486?at_medium=RSS&at_campaign=KARANGA">Lioness mauls zookeeper to death in Iran</a> BBC: The animal set itself loose then roamed the zoo for hours with another lion after the attack. 
- <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
  <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage over the military standoff. 
  <p class="updated_time"> 05:50 AM CT, Jan. 31 </p> 
