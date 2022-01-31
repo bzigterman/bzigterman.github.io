@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures, published in state media, were allegedly taken during Sunday's missile launch. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 10:17 PM CT, Jan. 30 </p> 
