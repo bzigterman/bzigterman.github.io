@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
  <p class="updated_time"> 05:08 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture “on a massive scale.” 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
- <p class="updated_time"> 04:47 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us/ukraine-security-council">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
  <p class="updated_time"> 04:36 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Joe Rogan pledges to try harder after Neil Young Spotify row</a> BBC: The podcaster supports the streaming giant's move to add warnings to podcasts discussing Covid-19. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
@@ -201,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/australia/tennis-djokovic-shuai.html">Let’s Talk Tennis, and Politics</a> NYT: This year’s Australian Open was controversial even before it started. How’s it going now? 
  <p class="updated_time"> 10:07 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/asia/india-schools.html">India Pandemic School Closings Imperil 'Demographic Dividend'</a> NYT: A large proportion of working-age people, once seen as a demographic advantage, could turn into a burden if many of them are undereducated and underemployed. 
- <p class="updated_time"> 03:52 PM CT, Jan. 27 </p> 
- <a href="https://www.nytimes.com/2022/01/27/us/politics/us-airstrikes-rand-report.html">Botched Airstrikes Prompt U.S. Military Orders to Protect Civilians</a> NYT: A new directive outlines steps intended to change how commanders think about their jobs, after New York Times investigations into botched airstrikes. 
  <p class="updated_time"> 03:21 PM CT, Jan. 27 </p> 
  <a href="https://www.nytimes.com/2022/01/27/world/europe/ukraine-rocket-factory-shooting.html">Gunman Kills 5 at Ukraine Rocket Factory, Adding to Tensions</a> NYT: Little was known about the shooting at the aerospace plant, but it came amid concerns about sabotage. 
  <p class="updated_time"> 02:51 PM CT, Jan. 27 </p> 
@@ -215,7 +213,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:17 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/31/congress-confronts-a-february-deluge-00003559">Congress confronts a February deluge</a> Politico Playbook: And 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/31/congress-confronts-a-february-deluge-00003559"> Congress confronts a February deluge</a> Politico Playbook: And the Senate group trying to overhaul the Electoral Count Act adds to its mission. 
  <p class="updated_time"> 05:00 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/priorities-usa-pac-30m-digital-ads-00003524">Top Democratic group unveils a $30M digital ad blitz</a> Politico: Priorities USA is looking to keep the Biden coalition intact and educate voters about new election laws in their states. 
  <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
@@ -262,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
+ <p class="updated_time"> 08:08 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact "Test To Stay" programs in schools. 
  <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
  <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
