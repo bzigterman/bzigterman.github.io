@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:58 PM CT, Jan. 31 </p> 
+ <p class="updated_time"> 05:35 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Report on Downing Street Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the year of the Ox to the year of the Tiger. 
@@ -75,16 +75,18 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. and its allies criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage. Moscow failed to block debate and accused U.S. of “stoking tensions.” 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
+ <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/canada-says-trucker-vaccine-mandate-hasnt-dented-border-crossings-11643668223">Canada Says Trucker Vaccine Mandate Hasn't Dented Border Crossings</a> WSJ: A Covid-19 vaccine mandate that targets truckers crossing the U.S.-Canada border has had little impact on the volume of trailers entering the country to deliver goods, Canada’s transport minister said. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
- <p class="updated_time"> 10:44 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands, Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
+ <p class="updated_time"> 09:26 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-u-k-prepare-plans-to-sanction-russian-oligarchs-businesses-11643660794">U.S., U.K. Prepare Plans to Sanction Russian Oligarchs, Businesses</a> WSJ: Washington is drafting a list of Kremlin allies that could be blacklisted if Russia invades Ukraine, and the U.K. is proposing a new sanctions law. 
  <p class="updated_time"> 08:09 AM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 07:14 AM CT, Jan. 31 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
- <p class="updated_time"> 02:01 PM CT, Jan. 30 </p> 
- <a href="https://www.wsj.com/articles/foreign-journalists-in-china-say-they-face-deepening-intimidation-11643590861">Foreign Journalists in China Say They Face Deepening Threats</a> WSJ: Foreign news organizations in China are operating at drastically reduced staffing levels, while the foreign journalists still in the country face intimidation, harassment and threats of legal action. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/trudeau-trucker-protest-00003858">Trudeau on trucker protest: 'We are not intimidated'</a> Politico: Demonstrators are threatening to disrupt downtown Ottawa for as long as necessary. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton DA Fani Willis asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
+ <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-pandemic-policy.html">Fed Officials Make It Clear: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
  <p class="updated_time"> 04:18 PM CT, Jan. 31 </p> 
