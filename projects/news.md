@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roil Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
- <p class="updated_time"> 11:49 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60203200?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: UK threatens tougher sanctions in event of aggression</a> BBC: Foreign Secretary Liz Truss announces far-reaching sanctions in the event of aggression against Ukraine. 
- <p class="updated_time"> 11:45 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Trudeau calls trucker protest an 'insult to truth'</a> BBC: Police warned of "traffic, noise and safety issues" in Ottawa as a vaccine mandate protest continues. 
- <p class="updated_time"> 11:45 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 12:31 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
+ <p class="updated_time"> 12:25 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
+ <p class="updated_time"> 12:21 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60203200?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: UK threatens tougher sanctions in event of aggression</a> BBC: Foreign Secretary Liz Truss announces far-reaching sanctions in the event of aggression against Ukraine. 
+ <p class="updated_time"> 12:11 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Trudeau calls trucker protest an 'insult to truth'</a> BBC: Police warned of "traffic, noise and safety issues" in Ottawa as a vaccine mandate protest continues. 
+ <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Suspect arrested after two German police shot dead near Kusel</a> BBC: Two officers are killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 11:29 AM CT, Jan. 31 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
- <p class="updated_time"> 10:48 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 10:39 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html">The Battle for the World’s Most Powerful Cyberweapon</a> NYT: A Times investigation reveals how Israel reaped diplomatic gains around the world from NSO’s Pegasus spyware — a tool America itself purchased but is now trying to ban. 
  <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:55 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/desantis-aide-nazi-protestors-democrats-00003678">DeSantis aide deletes tweet suggesting Nazi protesters were Democratic operatives</a> Politico: Christina Pushaw's comments drew widespread condemnation from elected officials as well as a prominent South Florida rabbi. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
  <p class="updated_time"> 11:07 AM CT, Jan. 31 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
- <p class="updated_time"> 10:24 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/rnc-chief-steps-down-00003537">RNC chief of staff to leave post</a> Politico: Richard Walters, who has been chief of staff for four-plus years, is moving into a senior adviser role. 
  <p class="updated_time"> 10:16 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/trump-fbi-georgia.html">Georgia Prosecutor Investigating Trump Seeks Safety Assistance From the F.B.I.</a> NYT: The Fulton County district attorney expressed concern about the former president’s comments at a rally in Texas. 
  <p class="updated_time"> 10:07 AM CT, Jan. 31 </p> 
@@ -274,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/nyc-covid-cases-decline-00003482">NYC sees rapid decline in Covid-19 cases. Here are the latest figures.</a> Politico: The city's positivity rate Saturday was 4.83 percent, the lowest of any region in the state. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
- <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/ukraine-ambassador-downplays-tensions-united-states-00003477">‘There is no friction’: Ukraine’s ambassador downplays disagreements with U.S.</a> Politico: Washington has warned of an imminent Russian invasion, while Kyiv has urged calm. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html">For Ketanji Brown Jackson, View of Criminal Justice Was Shaped by Family</a> NYT: The story of an uncle’s cocaine conviction formed only part of Judge Jackson’s understanding of the system’s complexities. She is now seen as a contender to be President Biden’s Supreme Court pick. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
