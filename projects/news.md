@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 11:36 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win the Most Seats in Parliament, but Not the Majority</a> NYT: The governing party emerged victorious from a snap election, but without the majority needed to avoid forming a coalition in the fractious Parliament. 
  <p class="updated_time"> 11:27 PM CT, Jan. 30 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
- <p class="updated_time"> 07:51 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
  <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
