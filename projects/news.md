@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:48 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
+ <p class="updated_time"> 10:07 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa residents 'prisoners in own homes'</a> BBC: Public warned of "traffic, noise and safety issues" downtown amid anti vaccine mandate protest. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Promises Reform After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. The police are also investigating 12 such events, including at least two where Mr. Johnson was present. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 09:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">What Comes Next for Boris Johnson?</a> NYT: Parties at Mr. Johnson’s office during a Covid lockdown have prompted a civil service inquiry and a police investigation. Here’s a guide to the risks the British prime minister now faces. 
- <p class="updated_time"> 09:40 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. Faces Off With Russia at U.N. as Ukraine Standoff Continues</a> NYT: Russia, in opening remarks before the U.N. Security Council, called the meeting “an attempt to mislead the international community” and an example of “megaphone diplomacy.”  The U.S. representative responded, saying, “Imagine how uncomfortable you would be if you had 100,000 troops sitting at your border.” 
  <p class="updated_time"> 09:36 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/irish-fishermen-russia.html">Russia Cancels Plan for Naval Drills That Upset Irish Fishermen</a> NYT: The plan to conduct military exercises next week in international waters had drawn protests from fishing groups and the Irish government. 
  <p class="updated_time"> 09:33 AM CT, Jan. 31 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
  <p class="updated_time"> 09:19 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60197978?at_medium=RSS&at_campaign=KARANGA">Brazil rains: São Paulo floods kill 21 and destroy homes</a> BBC: More than 600 families have been left homeless in São Paulo state after the latest deadly floods. 
- <p class="updated_time"> 09:17 AM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawans 'prisoners in own homes'</a> BBC: Public warned of "traffic, noise and safety issues" downtown amid anti vaccine mandate protest. 
  <p class="updated_time"> 08:34 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60199911?at_medium=RSS&at_campaign=KARANGA">Mandera attack: Seven killed in Kenyan bus ambush</a> BBC: Attackers open fire on a minibus after it was hit by a roadside bomb in northern Kenya, police say. 
  <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
- <p class="updated_time"> 10:38 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 09:51 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/covid-vaccines-10-billion-doses.html">World Surpasses 10 Billion Covid Vaccine Doses Administered</a> NYT: Some nations can now envision a near future in which their people coexist with the virus but aren’t confined by it. 
  <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
@@ -216,8 +216,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/canada-trudeau-tests-positive-covid-19-00003605">Trudeau tests positive for Covid-19</a> Politico: The prime minister said in a tweet that he tested positive Monday morning. 
  <p class="updated_time"> 10:24 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/rnc-chief-steps-down-00003537">RNC chief of staff to leave post</a> Politico: Richard Walters, who has been chief of staff for four-plus years, is moving into a senior adviser role. 
+ <p class="updated_time"> 10:16 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/trump-fbi-georgia.html">Georgia Prosecutor Investigating Trump Seeks Safety Assistance From the F.B.I.</a> NYT: The Fulton County district attorney expressed concern about the former president’s comments at a rally in Texas. 
  <p class="updated_time"> 10:07 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/new-group-looks-to-redefine-rural-higher-education-policy-00003485">New group looks to redefine rural higher education policy</a> Politico: Outside of election years, the institutions “have not been a primary focus” when it comes to policy, according to the new Alliance for Research on Regional Colleges, which launched in 2021 when it published its first report. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
@@ -278,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/omicron-states-education-coronavirus-00003424">Omicron has states rethinking 'broken' school Covid testing</a> Politico: Emerging testing plans conflict with President Joe Biden's push to enact "Test To Stay" programs in schools. 
  <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
- <p class="updated_time"> 07:58 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453">Sales soar for ‘Maus’ after its banning in Tennessee</a> Politico: Art Spiegelman's graphic novel is at the heart of an educational controversy. 
  <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/what-mattered-this-week.html">What Mattered This Week</a> NYT: Democrats’ not-so-terrible news, the limits of Trump’s power and the allure of ’24. 
- <p class="updated_time"> 05:55 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/russia-ukraine-invasion-pentagon.html">Pentagon Warns of Russia's Troop Deployments Near Ukraine</a> NYT: Russia has massed more than 100,000 troops at Ukraine’s borders, officials said, publicly confirming what intelligence analysts have described for weeks. 
  <p class="updated_time"> 05:09 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/jan-6-committee-trump-electors.html">Jan. 6 Committee Subpoenas Fake Trump Electors</a> NYT: The panel demanded information from 14 people who were part of bogus slates of electors for President Donald J. Trump, digging deeper into an aspect of his efforts to overturn the 2020 election. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
