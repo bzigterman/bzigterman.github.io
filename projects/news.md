@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:31 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 07:39 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
  <p class="updated_time"> 07:27 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
@@ -89,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
+ <p class="updated_time"> 02:01 PM CT, Jan. 30 </p> 
+ <a href="https://www.wsj.com/articles/foreign-journalists-in-china-say-they-face-deepening-intimidation-11643590861">Foreign Journalists in China Say They Face Deepening Threats</a> WSJ: Foreign news organizations in China are operating at drastically reduced staffing levels, while the foreign journalists still in the country face intimidation, harassment and threats of legal action. 
  <p class="updated_time"> 01:36 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60190452?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Truckers cause chaos in Ottawa after second day of protests</a> BBC: Truckers blocked streets around parliament in a second day of protests against a vaccine mandate. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
