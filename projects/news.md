@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
- <p class="updated_time"> 07:27 AM CT, Jan. 31 </p> 
+ <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
- <p class="updated_time"> 07:17 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Live Updates: Boris Johnson Receives Report Into U.K. Lockdown Parties</a> NYT: The findings could inflict further political damage on the prime minister, who is accused of lying about what he knew about parties that breached England’s Covid rules in 2020. Mr. Johnson is scheduled to appear before Parliament on Monday. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: Russia and U.S. to Face Off at U.N. as Ukraine Standoff Continues</a> NYT: After weeks of menacing military maneuvers and high-level diplomatic meetings, the United States prepares to confront Russia at a gathering of the U.N. Security Council. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Live Updates: Report on U.K. Lockdown Parties Is Released</a> NYT: The findings could inflict further political damage on the prime minister, who is accused of lying about what he knew about the parties, which breached England’s lockdown rules in 2020. Mr. Johnson is scheduled to appear before Parliament on Monday. 
+ <p class="updated_time"> 08:02 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60201844?at_medium=RSS&at_campaign=KARANGA">Maus: Graphic novel tops Amazon best-sellers after school ban</a> BBC: Maus, a graphic novel about the Holocaust, was banned by a school board in Tennessee this month. 
  <p class="updated_time"> 07:04 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:57 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60195712?at_medium=RSS&at_campaign=KARANGA">Manhunt after German police officers shot dead near Kusel</a> BBC: Two officers were killed early on Monday during a routine traffic stop in western Germany. 
  <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/boris-johnson-party-sue-gray-report.html">Police Investigation Could Give Boris Johnson a Lifeline in Party Scandal</a> NYT: A request by the police that a senior civil servant investigating parties in Downing Street during the lockdown withhold details from her report could give the British prime minister time to regroup. 
+ <p class="updated_time"> 06:01 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html">How Boris Johnson Could Fall, or Hang On, as U.K. Prime Minister</a> NYT: Parties at Mr. Johnson’s office during a Covid lockdown have prompted a civil service inquiry and a police investigation. Here’s a guide to the risks the British prime minister now faces. 
+ <p class="updated_time"> 05:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60197980?at_medium=RSS&at_campaign=KARANGA">Chileans protest against Venezuelan migrants</a> BBC: The demonstration in the city of Iquique drew 4,000 people and was marred by incidents of violence. 
  <p class="updated_time"> 05:50 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/omicron-asia-lunar-new-year.html">Omicron Surge in Asia Restricts Travel for Lunar New Year</a> NYT: The Omicron variant has dampened the plans of tens of millions of people across several Asian countries to travel for the holiday. 
  <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
