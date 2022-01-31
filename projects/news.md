@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-security-council.html">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">‘Everyone’s Looking for Plastic.’ As Waste Rises, So Does Recycling.</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 01:51 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
- <p class="updated_time"> 01:28 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-security-council.html">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
  <p class="updated_time"> 01:08 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
  <p class="updated_time"> 11:27 PM CT, Jan. 30 </p> 
