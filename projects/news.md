@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 03:16 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us/ukraine-security-council">U.S. and Russia to Confront Each Other at U.N. Over Ukraine</a> NYT: The Americans see the Security Council meeting as an opportunity to force Russia to explain itself, while Russia calls the meeting a diplomatic farce. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
+ <p class="updated_time"> 02:03 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60150544?at_medium=RSS&at_campaign=KARANGA">New Zealand responds to pregnant reporter helped by Taliban</a> BBC: New Zealand defended its border controls after Charlotte Bellis went public with her story. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">‘Everyone’s Looking for Plastic.’ As Waste Rises, So Does Recycling.</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
@@ -23,10 +27,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win an Outright Majority in Parliamentary Election</a> NYT: Because of a strong performance in the snap elections, the governing party will not have to form a coalition in the fractious Parliament. 
  <p class="updated_time"> 01:08 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
+ <p class="updated_time"> 12:06 AM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60194265?at_medium=RSS&at_campaign=KARANGA">India's Modi faces questions over spyware snooping</a> BBC: Fresh allegations have emerged that India bought spyware from Israel as part of a defence deal. 
  <p class="updated_time"> 11:27 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-60193954?at_medium=RSS&at_campaign=KARANGA">Macau police arrest leading casino boss amid crackdown</a> BBC: Macau Legend Development's share price plunged by as much as 30% in Hong Kong on Monday. 
- <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60194375?at_medium=RSS&at_campaign=KARANGA">Portugal election: Socialists win unexpected majority</a> BBC: A snap election was called after Prime Minister António Costa's budget failed to pass. 
  <p class="updated_time"> 10:09 PM CT, Jan. 30 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
  <p class="updated_time"> 12:47 PM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-shoots-down-missile-fired-by-yemens-houthis-during-israeli-visit-11643586459">U.A.E. Shoots Down Missile Fired by Yemen's Houthis During Israeli Visit</a> WSJ: The intercepted strike was the third attack this month against the Emirati capital, Abu Dhabi. 
- <p class="updated_time"> 12:16 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60192303?at_medium=RSS&at_campaign=KARANGA">Mason Greenwood: Man Utd player arrested over rape claim</a> BBC: Greater Manchester Police says a man in his 20s is being held following allegations on social media. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076821209/u-s-russia-ukraine-crisis-u-n-security-council">U.S. officials say Russia will face pressure at the U.N. over Ukraine </a> NPR: The U.S. ambassador to the United Nations says the U.N. Security Council will press Russia hard in a Monday session to discuss its massing of troops near Ukraine ahead of a possible invasion. 
  <p class="updated_time"> 11:38 AM CT, Jan. 30 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
  <p class="updated_time"> 09:16 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60187630?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Beijing reports spike in new virus cases</a> BBC: The highest number of cases since June 2020 is recorded as the Chinese capital hosts the Olympics. 
- <p class="updated_time"> 08:56 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60190484?at_medium=RSS&at_campaign=KARANGA">Hundreds of Houthi rebel child soldiers dead in Yemen war - UN</a> BBC: Nearly 1,500 children recruited by Houthi rebels died in fighting against the government in 2020. 
  <p class="updated_time"> 08:32 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60190249?at_medium=RSS&at_campaign=KARANGA">In eastern Ukraine, war-weary soldiers and civilians await Russia's next move</a> BBC: On Ukraine's eastern front lines, in the deep winter cold, soldiers and civilians await Russia's next move. 
  <p class="updated_time"> 07:43 AM CT, Jan. 30 </p> 
@@ -220,6 +220,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/house-democrats-pivot-economy-legislative-win-00003385">House Democrats pivot to economy in search of next legislative win</a> Politico: With battleground-district members especially anxious over rising inflation and a snarled supply chain, they're set to push a sweeping manufacturing bill to the floor. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 11:28 PM CT, Jan. 30 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:08 PM CT, Jan. 30 </p> 
