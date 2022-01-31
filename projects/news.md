@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win the Most Seats in Parliament, but Not the Majority</a> NYT: The governing party emerged victorious from a snap election, but without the majority needed to avoid forming a coalition in the fractious Parliament. 
+ <p class="updated_time"> 11:27 PM CT, Jan. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60193954?at_medium=RSS&at_campaign=KARANGA">Macau police arrest leading casino boss amid crackdown</a> BBC: Macau Legend Development's share price plunged by as much as 30% in Hong Kong on Monday. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60193714?at_medium=RSS&at_campaign=KARANGA">North Korea missile tests: Photos from space released</a> BBC: The unusual pictures were allegedly taken from its most powerful missile launch in five years. 
  <p class="updated_time"> 10:51 PM CT, Jan. 30 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60174238?at_medium=RSS&at_campaign=KARANGA">China: Media freedom declining at 'breakneck speed' - report</a> BBC: Foreign journalists in China are facing physical assaults, hacking, and trolling according to a report. 
  <p class="updated_time"> 07:51 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60192957?at_medium=RSS&at_campaign=KARANGA">Spotify: Streaming giant announces plans to clamp down on Covid misinformation</a> BBC: The streaming giant says it will add warnings to all podcasts discussing Covid-19 on its platform. 
- <p class="updated_time"> 06:30 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/europe/portugal-election.html">Portugal’s Socialists Win the Most Seats in Parliament, but Not the Majority</a> NYT: The governing party emerged victorious from a snap election, but without the majority needed to avoid forming a coalition in the fractious parliament. 
  <p class="updated_time"> 06:13 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/60045176?at_medium=RSS&at_campaign=KARANGA">Tigray conflict: What do we know about drone strikes in Ethiopia?</a> BBC: There's concern about the use of armed drones, supplied by foreign governments, in Ethiopia. 
  <p class="updated_time"> 06:12 PM CT, Jan. 30 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/27/world/middleeast/a-metoo-moment-shakes-israels-ultra-orthodox.html">A #MeToo Moment Shakes Israel’s Ultra-Orthodox</a> NYT: An acclaimed religious children’s author was accused of abusing women and children. Then he killed himself, sending shock waves through the conservative community. 
  <p class="updated_time"> 12:47 PM CT, Jan. 30 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-shoots-down-missile-fired-by-yemens-houthis-during-israeli-visit-11643586459">U.A.E. Shoots Down Missile Fired by Yemen's Houthis During Israeli Visit</a> WSJ: The intercepted strike was the third attack this month against the Emirati capital, Abu Dhabi. 
- <p class="updated_time"> 12:32 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60130409?at_medium=RSS&at_campaign=KARANGA">Bloody Sunday victims remembered on 50th anniversary</a> BBC: Thirteen people were killed when British soldiers opened fire on a civil rights march in Londonderry. 
  <p class="updated_time"> 12:16 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60192303?at_medium=RSS&at_campaign=KARANGA">Mason Greenwood: Man Utd player arrested over rape claim</a> BBC: Greater Manchester Police says a man in his 20s is being held following allegations on social media. 
  <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/senate-nears-completion-of-measures-targeting-russian-economy-in-event-of-ukraine-invasion-11643565671">Senate Nears Completion of Measures Targeting Russian Economy in Event of Ukraine Invasion</a> WSJ: The legislation under negotiation among members of the Senate Foreign Relations Committee and others would target major Russian banks, hit Russians’ savings and pensions and limit the market for Russia’s sovereign debt. 
  <p class="updated_time"> 07:01 AM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076798464/theres-a-complication-in-sanctioning-russia-it-could-cut-europes-gas-supply">There's a complication in sanctioning Russia — it could cut Europe's gas supply</a> NPR: The U.S. is working to help Europe find alternative energy sources should war in Ukraine lead Russia to cut off natural gas supplies. 
- <p class="updated_time"> 06:31 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60188690?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: British troops 'unlikely' to fight - Truss</a> BBC: The foreign secretary says the UK is using "deterrence and diplomacy" to avoid further conflict. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
  <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
