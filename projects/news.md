@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 01:12 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
- <p class="updated_time"> 12:49 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 01:10 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
+ <p class="updated_time"> 01:07 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 01:03 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:37 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin accuses US of using Ukraine as tool against Russia</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077289344/russia-ukraine-putin-boris-johnson">The U.S. and Russia are still far apart on Ukraine, Putin says</a> NPR: The Russian leader's remarks came as diplomatic efforts continue. British Prime Minister Boris Johnson visited Kyiv and Secretary of State Antony Blinken spoke with his Russian counterpart. 
- <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197927?at_medium=RSS&at_campaign=KARANGA">Syria war: Babies die from cold in storm-hit Idlib camps</a> BBC: Hundreds of thousands of displaced people are living in tents without warm clothes and heating. 
+ <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077289344/russia-ukraine-putin-boris-johnson">The U.S. and Russia are still far apart on Ukraine, Putin says</a> NPR: The Russian leader's remarks came as diplomatic efforts continue. British Prime Minister Boris Johnson visited Kyiv and Secretary of State Antony Blinken spoke with his Russian counterpart. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 12:17 PM CT, Feb. 01 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">Abdul Alim of Pakistan, a COVID survivor and vaccine advocate, dies at age 104 </a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
- <p class="updated_time"> 11:28 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
  <p class="updated_time"> 11:05 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:57 AM CT, Feb. 01 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 10:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60219964?at_medium=RSS&at_campaign=KARANGA">Woman applauded after giving birth on transatlantic flight</a> BBC: A Ghanaian doctor on the flight helped to deliver the baby in the plane's business class area. 
- <p class="updated_time"> 10:27 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 10:18 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1076938812/there-are-election-reforms-that-both-democrats-and-republicans-seem-to-like">There are election reforms that both Democrats and Republicans seem to like</a> NPR: After failing to pass a voting rights bill, Democrats in Congress haven't made their next move clear. Bipartisan talks have begun over smaller measures that election experts still see as necessary. 
  <p class="updated_time"> 12:01 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/trump-political-groups-spending-00004057">How Trump’s political groups are spending their huge cash haul</a> Politico: Save America PAC sent money to Trump-backed candidates for the first time, as detailed in new finance reports. 
- <p class="updated_time"> 11:55 PM CT, Jan. 31 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:09 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Entered 2022 With $122 Million in the Bank</a> NYT: The former president’s overall war chest was more than double the cash on hand of the Republican National Committee. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
