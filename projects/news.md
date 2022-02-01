@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:36 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 05:41 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Live Updates: Putin Hosts Hungary’s Prime Minister as Leaders of U.K. and Poland Travel to Ukraine</a> NYT: A day after the United States and Russia faced off at the United Nations, the two countries’ top diplomats were expected to speak by telephone. 
  <p class="updated_time"> 05:27 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
