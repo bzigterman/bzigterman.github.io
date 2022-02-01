@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:59 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, confirms his retirement. 
+ <p class="updated_time"> 09:24 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
+ <p class="updated_time"> 09:09 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, says he "feels like the luckiest person in the world" as he confirms his retirement. 
  <p class="updated_time"> 08:56 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 08:53 AM CT, Feb. 01 </p> 
@@ -41,12 +43,22 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">All US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
+ <p class="updated_time"> 04:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s reliance on Russian gas, its postwar tendency to keep a low profile in international conflicts and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
+ <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/israels-military-to-remove-two-officers-over-death-of-elderly-palestinian-american-man-11643710666">Israel's Military to Remove Two Officers Over Death of Elderly Palestinian-American</a> WSJ: The decision follows an Israel Defense Forces investigation into the death of Omar Abdelmajid As’ad, who suffered a heart attack after he was bound, gagged and eventually abandoned in a courtyard. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
+ <p class="updated_time"> 03:34 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/in-china-footage-of-a-chained-up-rural-mother-of-eight-draws-outcry-11643726076">In China, Footage of a Chained-Up Rural Mother Draws Outcry</a> WSJ: Video footage of a woman chained up in a shed in a village in eastern China has triggered online calls for better protections for women and the mentally ill in rural parts of the country. 
+ <p class="updated_time"> 03:30 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Ukraine Teams Up With Poland, U.K. Amid Russia Invasion Threat</a> WSJ: The Ukrainian president said the countries are working to establish a three-way partnership as he ordered an increase in troop numbers to deter a possible Russian invasion. 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
@@ -67,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 11:30 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s dependence on Russian gas, its pacifism and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
@@ -175,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-60173066?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Five things to know</a> BBC: Covid bubbles, artificial snow and human rights are making 2022's Winter Olympics hit the headlines. 
- <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
 
@@ -236,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/george-w-bush-donations-gop-impeachment-00004007">George W. Bush sends cash to GOP impeachment voters facing challengers</a> Politico: Rep. Liz Cheney and Sen. Lisa Murkowski got donations from former President George W. Bush at the end of 2021. 
  <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
- <p class="updated_time"> 07:47 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
  <p class="updated_time"> 07:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
  <p class="updated_time"> 07:25 PM CT, Jan. 31 </p> 
@@ -340,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
