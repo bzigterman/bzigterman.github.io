@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The US television personality is facing a backlash after saying the Holocaust "was not about race". 
  <p class="updated_time"> 07:50 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
- <p class="updated_time"> 07:41 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 07:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
  <p class="updated_time"> 06:59 PM CT, Jan. 31 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
+ <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 09:04 PM CT, Jan. 31 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
  <p class="updated_time"> 07:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
- <p class="updated_time"> 07:41 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 07:25 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/austin-vaccine-national-guard-00003976">Austin to governors: Guard troops must get Covid vaccine</a> Politico: He told the governors that the virus “takes our service members out of the fight, temporarily or permanently." 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
