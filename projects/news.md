@@ -7,24 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 04:22 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved off a coup. 
+ <p class="updated_time"> 04:13 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371687/turkey-and-armenia-discuss-opening-borders-to-more-trade-and-travel">Turkey and Armenia discuss opening borders to more trade and travel</a> NPR: Long-time adversaries Turkey and Armenia are talking about opening their border to more trade and travel. But it doesn't look like all the issues of the past will be dealt with yet. 
+ <p class="updated_time"> 04:01 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371666/what-the-history-of-u-s-sanctions-can-tell-us-about-their-sway-on-the-ukraine-cr">What the history of U.S. sanctions can tell us about their sway on the Ukraine crisis</a> NPR: NPR's Ari Shapiro talks with assistant professor of history at Cornell, Nicholas Mulder, on the history of U.S. sanctions and the role they're playing now in the tensions between the U.S. and Russia. 
+ <p class="updated_time"> 03:57 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: Gunmen are said to have detained the president but he says the situation is now under control. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371624/1-year-since-myanmars-coup-the-military-has-been-unable-to-stamp-out-the-resista">1 year since Myanmar's coup, the military has been unable to stamp out the resistance</a> NPR: It's been a year since a coup threw Myanmar into chaos amid war crimes accusations against the military. Neither the military nor an increasingly organized resistance are showing signs of compromise. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371555/u-k-s-boris-johnson-visits-kyiv-to-stand-with-ukraine-and-putin-remarks-on-tensi">U.K.'s Boris Johnson visits Kyiv to stand with Ukraine and Putin remarks on tensions</a> NPR: British Prime Minister Boris Johnson flew to Kyiv to meet with Ukrainian President Volodymyr Zelensky. In Moscow, Russian President Putin made his first public remarks on the crisis since late 2021. 
- <p class="updated_time"> 03:28 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: Gunmen are said to have detained the president but he says the situation is now under control. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 03:12 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war says Putin</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
- <p class="updated_time"> 03:06 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">Gunfire in Guinea-Bissau Prompts Fears of Another Coup in Africa</a> NYT: The small coastal country in West Africa has experienced four coups and at least a dozen attempted takeovers since it gained independence from Portugal nearly 50 years ago. 
  <p class="updated_time"> 02:34 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 02:00 PM CT, Feb. 01 </p> 
@@ -56,7 +60,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:36 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60219876?at_medium=RSS&at_campaign=KARANGA">Norway mass killer Anders Breivik ordered to stay in jail</a> BBC: Anders Breivik killed 77 people in July 2011, and a court has ruled that he is still dangerous. 
  <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">Abdul Alim of Pakistan, a COVID survivor and vaccine advocate, dies at age 104 </a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">A 104-year-old COVID survivor has died. He wanted to keep people safe until the end</a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
  <p class="updated_time"> 11:05 AM CT, Feb. 01 </p> 
@@ -111,14 +115,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">1st anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the Feb. 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
- <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
- <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077174231/fbi-director-says-the-threat-from-china-is-more-brazen-than-ever-before">FBI director says the threat from China is 'more brazen' than ever before</a> NPR: FBI Director Christopher Wray said the bureau is opening new cases to counter Chinese intelligence operations every 12 hours or so. 
  <p class="updated_time"> 10:22 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the Year of the Ox to the Year of the Tiger. 
  <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
@@ -182,7 +182,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:51 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 05:08 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/roy-blunt-califf-fda-00004374">Top Republican throws cold water on struggling FDA nominee</a> Politico: A White House spokesperson said Califf has met with 33 senators to date and is scheduled to meet with an additional 14 so far. 
+ <p class="updated_time"> 04:54 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: Pfizer and BioNTech asked the FDA Tuesday to authorize a two-dose Covid-19 vaccine regimen for children under 5. 
+ <p class="updated_time"> 04:19 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
@@ -199,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Cawthorn sues N.C. election board over reelection challenge</a> Politico: North Carolina election officials moving to block Rep. Madison Cawthorn's reelection bid cite Section 3 of the 14th Amendment, which prohibits public officials from holding office if they have “engaged in insurrection or rebellion” against the United States. 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
@@ -248,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
  <p class="updated_time"> 07:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
- <p class="updated_time"> 07:25 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/austin-vaccine-national-guard-00003976">Austin to governors: Guard troops must get Covid vaccine</a> Politico: He told the governors that the virus “takes our service members out of the fight, temporarily or permanently." 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
  <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
- <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
