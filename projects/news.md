@@ -7,12 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:53 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 10:18 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
+ <p class="updated_time"> 10:12 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in the worst crime in modern Norwegian history, has served 10 years of a 21-year sentence. 
+ <p class="updated_time"> 10:04 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow spoke by telephone. 
+ <p class="updated_time"> 10:04 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
+ <p class="updated_time"> 10:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Says Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg later apologized after her comments on an episode of her show “The View,” which come amid growing ignorance about the Holocaust and rising antisemitism. 
+ <p class="updated_time"> 09:59 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
+ <p class="updated_time"> 09:56 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle inventor 'overwhelmed' as New York Times buys game</a> BBC: Briton Josh Wardle sells his online game sensation to the New York Times for a seven-figure sum. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
- <p class="updated_time"> 09:41 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
  <p class="updated_time"> 09:24 AM CT, Feb. 01 </p> 
@@ -33,16 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60214689?at_medium=RSS&at_campaign=KARANGA">Global Covid response generating masses of waste, WHO says</a> BBC: The World Health Organization says discarded equipment is a threat to the environment and human health. 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
- <p class="updated_time"> 07:09 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
- <p class="updated_time"> 06:43 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle inventor 'overwhelmed' as New York Times buys game</a> BBC: Briton Josh Wardle sells his online game sensation to the New York Times for a seven-figure sum. 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 06:28 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
- <p class="updated_time"> 05:27 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">All US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
  <p class="updated_time"> 04:11 AM CT, Feb. 01 </p> 
@@ -87,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077174231/fbi-director-says-the-threat-from-china-is-more-brazen-than-ever-before">FBI director says the threat from China is 'more brazen' than ever before</a> NPR: FBI Director Christopher Wray said the bureau is opening new cases to counter Chinese intelligence operations every 12 hours or so. 
  <p class="updated_time"> 10:22 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the Year of the Ox to the Year of the Tiger. 
- <p class="updated_time"> 10:15 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
  <p class="updated_time"> 10:04 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210863?at_medium=RSS&at_campaign=KARANGA">Lunar New Year: Covid thwarts travel plans for millions</a> BBC: An estimated 1.18 billion trips will be made across China, a far cry from pre-pandemic figures. 
  <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
@@ -179,14 +183,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/asia/covid-restrictions-china-lockdown.html">China's Covid-Era Controls May Outlast the Coronavirus</a> NYT: The country has instituted a wide range of high-tech controls on society as part of a mostly successful effort to stop the virus. The consequences may endure. 
- <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-60173066?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Five things to know</a> BBC: Covid bubbles, artificial snow and human rights are making 2022's Winter Olympics hit the headlines. 
- <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
 
 
 </details>
@@ -194,12 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Cawthorn sues N.C. election board over reelection challenge</a> Politico: North Carolina election officials moving to block Rep. Madison Cawthorn's reelection bid cite Section 3 of the 14th Amendment, which prohibits public officials from holding office if they have “engaged in insurrection or rebellion” against the United States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">Russia denies sending response to U.S. as Ukraine tensions worsen</a> Politico: The United States delivered Russia a written document last week addressing Moscow’s security demands. 
+ <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">U.S., Russian diplomats speak again as Ukraine crisis deepens</a> Politico: Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov discussed the written document that Washington delivered to Moscow last week. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
@@ -242,6 +244,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/florida-voting-laws-elections-00003952">Civil rights groups testify Florida’s controversial voting law suppresses voter registration efforts</a> Politico: In the next two weeks, university professors, state and local election officials and Democratic legislators are expected to testify about the controversial new law. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
+ <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
+ <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 08:23 PM CT, Jan. 31 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
- <p class="updated_time"> 01:54 PM CT, Jan. 29 </p> 
- <a href="https://www.cnn.com/2022/01/26/politics/shortlist-breyer-replacement-supreme-court/index.html">Biden said he will put a Black woman on the Supreme Court. Here's who he could pick.</a> CNN: In what will be one of the most monumental endeavors of Joe Biden's presidency, the retirement of Stephen Breyer sets the stage for an immensely important decision by the President. 
  <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
