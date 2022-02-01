@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin accuses US of using Ukraine as tool against Russia</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
+ <p class="updated_time"> 02:20 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 02:15 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 02:00 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism-report.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
- <p class="updated_time"> 01:49 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
- <p class="updated_time"> 01:49 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungarian leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 01:40 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
- <p class="updated_time"> 12:37 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin accuses US of using Ukraine as tool against Russia</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197927?at_medium=RSS&at_campaign=KARANGA">Syria war: Babies die from cold in storm-hit Idlib camps</a> BBC: Hundreds of thousands of displaced people are living in tents without warm clothes and heating. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 08:42 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: Russian leader seeks curbs on NATO; Ukraine President Volodymyr Zelensky meets with U.K. and Polish prime ministers. 
+ <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: Moscow has demanded that NATO agree to halt its expansion eastward. The Russian leader’s comments come as Ukraine President Volodymyr Zelensky meets with the U.K. and Polish prime ministers. 
  <p class="updated_time"> 08:40 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Fears Spike in Guinea-Bissau as Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
@@ -173,12 +173,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
- <p class="updated_time"> 02:57 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
- <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
 
@@ -188,6 +184,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
+ <p class="updated_time"> 03:15 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/new-jersey-investigation-caddle-pacs-00004170">New Jersey grand jury investigated PACs, nonprofits Caddle operated</a> Politico: Sean Caddle’s super PACs and nonprofits helped shift control of Elizabeth Board of Education, from opponents of former state Sen. Raymond Lesniak (D-Union) and Elizabeth Mayor Chris Bollwage to their allies. 
  <p class="updated_time"> 02:08 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-senate-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden chooses a nominee, Mr. Jones will serve as a “sherpa,” introducing her to senators and preparing her for hearings. 
  <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
@@ -250,10 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
  <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
- <p class="updated_time"> 05:12 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/navy-secretary-del-toro-tests-positive-covid-00003901">Navy Secretary Del Toro tests positive for Covid</a> Politico: He returned from official travel last week. 
- <p class="updated_time"> 05:09 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/diem-facebook-cryptocurrency-meta-00003871">Facebook’s crypto project sold after political backlash</a> Politico: The announcement caps a nearly three-year odyssey on the part of Facebook and its partners to launch a digital currency. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
@@ -350,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
- <p class="updated_time"> 09:46 PM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/news/2022/01/26/conservatives-unlikely-scorched-earth-breyer-replacement-00002632">Why not to expect a scorched earth fight over Breyer’s replacement</a> Politico: Operatives concede that the political drama isn’t quite there, at least compared to recent battles. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 01:25 PM CT, Jan. 26 </p> 
