@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The American TV personality later apologises after saying the Holocaust "was not about race". 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:40 PM CT, Jan. 31 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
- <p class="updated_time"> 07:56 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The US television personality is facing a backlash after saying the Holocaust "was not about race". 
  <p class="updated_time"> 07:50 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
  <p class="updated_time"> 07:11 PM CT, Jan. 31 </p> 
@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60155635?at_medium=RSS&at_campaign=KARANGA">Austria's Covid vaccine law comes into force amid resistance</a> BBC: The country is the first in Europe to make vaccination against Covid-19 mandatory for over-18s. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
+ <p class="updated_time"> 06:22 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle: New York Times buys popular word game</a> BBC: The New York Times says it bought the game from its creator for a price “in the low seven figures". 
  <p class="updated_time"> 06:14 PM CT, Jan. 31 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
- <p class="updated_time"> 10:12 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/article/burkina-faso-africa-coup.html">Burkina Faso and 5 Other Coups in Africa, Explained</a> NYT: Burkina Faso this week joined a list of countries that have recently experienced military takeovers — most plagued by insecurity, poor governance and frustrated youth. But there’s no one-size-fits-all explanation. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
  <p class="updated_time"> 09:26 AM CT, Jan. 31 </p> 
@@ -204,16 +204,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
+ <p class="updated_time"> 09:29 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/children-covid-vaccine.html">Pfizer to Ask FDA to Authorize Covid-19 Vaccine for Children Under 5</a> NYT: Pfizer and BioNTech in mid-December announced that two doses of the vaccine, given at a tenth of the amount of an adult dosing, did not produce a strong enough immune response in children ages 2 to 4. 
+ <p class="updated_time"> 09:26 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off until April, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
- <p class="updated_time"> 09:04 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/children-covid-vaccine.html">Pfizer to Ask FDA to Authorize Covid-19 Vaccine for Children Under 5</a> NYT: Pfizer and BioNTech in mid-December announced that two doses of the vaccine, given at a tenth of the amount of an adult dosing, did not produce a strong enough immune response in children ages 2 to 4. 
  <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
- <p class="updated_time"> 08:40 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off until April, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 08:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/crisis-text-line-ends-data-sharing-00004001">Crisis Text Line ends data-sharing relationship with for-profit spinoff</a> Politico: "We understand that you don’t want Crisis Text Line to share any data," the suicide hotline nonprofit wrote in a statement Monday. 
  <p class="updated_time"> 08:35 PM CT, Jan. 31 </p> 
