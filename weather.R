@@ -9,7 +9,7 @@ severe_weather_outlook_url <-
   
 winter_storm_url <- 
   paste("![](",
-        "https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_Day1_CONUS_Day1.png",
+        "https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_Day1_IL_Day1.png",
         ")",
         sep = ""
         )
