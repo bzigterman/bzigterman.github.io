@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Live Updates: Putin Hosts Hungary’s Prime Minister as Leaders of U.K. and Poland Travel to Ukraine</a> NYT: A day after the United States and Russia faced off at the United Nations, the two countries’ top diplomats were expected to speak by telephone. 
+ <p class="updated_time"> 05:52 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
  <p class="updated_time"> 05:27 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
@@ -201,9 +201,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/31/crypto-wyoming-arizona-tax-payments-00003910">A crypto breakthrough? Western states consider taking digital currency</a> Politico: Proposals in Wyoming and Arizona to accept tax payments in Bitcoin and other cryptocurrencies would undermine the dollar’s unique status. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric, plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
