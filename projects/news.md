@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
+ <p class="updated_time"> 11:21 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
+ <p class="updated_time"> 11:04 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The American TV personality later apologises after saying the Holocaust "was not about race". 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
- <p class="updated_time"> 08:40 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
@@ -202,8 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:30 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Announces He Is Entering 2022 With $122 Million in the Bank</a> NYT: The former president said his overall war chest so far was more than double the cash on hand of the Republican National Committee. 
+ <p class="updated_time"> 12:01 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/trump-political-groups-spending-00004057">How Trump’s political groups are spending their huge cash haul</a> Politico: Save America PAC sent money to Trump-backed candidates for the first time, as detailed in new finance reports. 
+ <p class="updated_time"> 11:09 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Entered 2022 With $122 Million in the Bank</a> NYT: The former president’s overall war chest was more than double the cash on hand of the Republican National Committee. 
  <p class="updated_time"> 10:10 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
@@ -270,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
+ <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
  <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
