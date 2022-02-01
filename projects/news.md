@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
+ <p class="updated_time"> 07:56 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The US television personality is facing a backlash after saying the Holocaust "was not about race". 
+ <p class="updated_time"> 07:50 PM CT, Jan. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
+ <p class="updated_time"> 07:41 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
+ <p class="updated_time"> 07:38 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 07:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
- <p class="updated_time"> 07:08 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 06:59 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 06:55 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60155635?at_medium=RSS&at_campaign=KARANGA">Austria's Covid vaccine law comes into force amid resistance</a> BBC: The country is the first in Europe to make vaccination against Covid-19 mandatory for over-18s. 
- <p class="updated_time"> 06:55 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
@@ -26,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the year of the Ox to the year of the Tiger. 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the Year of the Ox to the Year of the Tiger. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064909/boris-johnson-apologizes-again-as-investigation-into-his-lockdown-parties-contin">Boris Johnson apologizes again as investigation into his lockdown parties continues</a> NPR: A report into social gatherings held by the U.K. government at a time of strict lockdowns has found some of the events "difficult to justify." 
  <p class="updated_time"> 03:18 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064888/ukrainian-foreign-minister-says-global-democratic-order-at-stake-in-russia-stand">Ukrainian foreign minister says global democratic order at stake in Russia standoff</a> NPR: NPR's Mary Louise Kelly speaks with Dmytro Kuleba, the Minister of Foreign Affairs of Ukraine, about the global stakes of Ukraine's standoff with Russia and his call for U.S. support. 
- <p class="updated_time"> 03:12 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
  <p class="updated_time"> 03:11 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 02:50 PM CT, Jan. 31 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076798520/the-taliban-meets-western-diplomats-in-first-international-meeting-since-takeove">The Taliban meet Western diplomats in 1st major international meeting since takeover</a> NPR: Juana Summers speaks to TRT correspondent Soraya Lennie about how the Taliban are governing, and how Afghans are weighing formal recognition of the Taliban and receiving international aid. 
  <p class="updated_time"> 06:04 AM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
- <p class="updated_time"> 04:02 AM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60188509?at_medium=RSS&at_campaign=KARANGA">Nato's Jens Stoltenberg: No plans for combat troops in Ukraine</a> BBC: Nato's secretary general calls for "a balanced approach", amid heighten tensions in Eastern Europe. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
- <p class="updated_time"> 12:39 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
 
@@ -202,24 +202,32 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:37 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/crisis-text-line-ends-data-sharing-00004001">Crisis Text Line ends data-sharing relationship with for-profit spinoff</a> Politico: "We understand that you don’t want Crisis Text Line to share any data ," the suicide hotline nonprofit wrote in a statement Monday. 
+ <p class="updated_time"> 08:35 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/florida-voting-laws-elections-00003952">Civil rights groups testify Florida’s controversial voting law suppresses voter registration efforts</a> Politico: In the next two weeks, university professors, state and local election officials and Democratic legislators are expected to testify about the controversial new law. 
  <p class="updated_time"> 08:23 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/george-w-bush-donations-gop-impeachment-00004007">George W. Bush sends cash to GOP impeachment voters facing challengers</a> Politico: Rep. Liz Cheney and Sen. Lisa Murkowski got donations from former President George W. Bush at the end of 2021. 
+ <p class="updated_time"> 08:12 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
+ <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
+ <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
+ <p class="updated_time"> 07:52 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Donald Trump: Entering 2022 With $122 Million War Chest</a> NYT: The former president said his overall war chest so far was more than double the cash on hand of the Republican National Committee. 
  <p class="updated_time"> 07:47 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
- <p class="updated_time"> 07:36 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Donald Trump Enters 2022 With $122 Million Campaign War Chest</a> NYT: The former president said his overall war chest so far was more than double the cash on hand of the Republican National Committee. 
+ <p class="updated_time"> 07:45 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
+ <p class="updated_time"> 07:41 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
+ <p class="updated_time"> 07:38 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 07:25 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/austin-vaccine-national-guard-00003976">Austin to governors: Guard troops must get Covid vaccine</a> Politico: He told the governors that the virus “takes our service members out of the fight, temporarily or permanently." 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
- <p class="updated_time"> 07:08 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
- <p class="updated_time"> 06:55 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 06:52 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/trump-super-pac-elections-00003962">Trump super PAC starts 2022 with $9.5M banked</a> Politico: The group took in six-figure donations from some of Trump's biggest supporters. 
- <p class="updated_time"> 06:18 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
  <p class="updated_time"> 05:42 PM CT, Jan. 31 </p> 
@@ -279,15 +287,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
- <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden delivered a booming economy. Now he needs the Fed to deal with the fallout.</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
- <p class="updated_time"> 04:00 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
  <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a speech in Texas, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York took action against him. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
@@ -314,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/val-demings-cheri-beasley-senate-primary-politics-00003449">How 2 Black women conquered Senate primary politics</a> Politico: In an act of political muscle-flexing, Val Demings and Cheri Beasley managed to clear the Democratic field in two of the nation’s most prominent Senate races. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
@@ -338,8 +346,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
- <p class="updated_time"> 04:07 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076514277/russian-president-putin-said-the-west-has-not-addressed-russias-main-demands">Russian President Putin said the West has not addressed Russia's main demands</a> NPR: Russian President Vladimir Putin weighed in for the first time on answers from the U.S. and NATO to Russia's security proposals. Other signals from the Kremlin are encouraging. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
@@ -352,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
  <p class="updated_time"> 02:26 PM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/trump-plan-favored-vaccines-isreal-taiwan-00002893">Trump plan favored giving vaccines to Israel, Taiwan over poorer countries</a> Politico: As the U.S. prepared for authorization of the first Covid-19 vaccines, the administration prepared a secret list of which nations would get the doses first. 
- <p class="updated_time"> 02:02 PM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/senate-russia-bill-bipartisan-00002885">Senate nears bipartisan — and filibuster-proof — deal to slap at Putin</a> Politico: The White House isn't saying whether it will support a compromise bill of crushing Russia sanctions. 
  <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
@@ -372,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/2022/01/25/politics/child-tax-credit-irs-letter/index.html">Parents: Don't throw away this IRS letter</a> CNN: Attention parents: Hold onto that Internal Revenue Service letter about your enhanced child tax credit payments. You'll need it when you file your 2021 tax return. 
- <p class="updated_time"> 11:54 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/covid-treatment-race-00001794">Republicans see political gold in Democrats' race-sensitive Covid drug guidance</a> Politico: While Democratic strategists say these attacks are baseless, arguing that no one is being denied pills based on their race, they warn they may prove effective. 
  <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
