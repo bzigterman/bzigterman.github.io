@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">First Anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the February 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
  <p class="updated_time"> 02:34 AM CT, Feb. 01 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064888/ukrainian-foreign-minister-says-global-democratic-order-at-stake-in-russia-stand">Ukrainian foreign minister says global democratic order at stake in Russia standoff</a> NPR: NPR's Mary Louise Kelly speaks with Dmytro Kuleba, the Minister of Foreign Affairs of Ukraine, about the global stakes of Ukraine's standoff with Russia and his call for U.S. support. 
  <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
- <p class="updated_time"> 02:35 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202343?at_medium=RSS&at_campaign=KARANGA">French ambassador expelled from Mali</a> BBC: A row erupts over comments by the foreign minister of France, which has troops deployed in the country. 
  <p class="updated_time"> 01:30 PM CT, Jan. 31 </p> 
