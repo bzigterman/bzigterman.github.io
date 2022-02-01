@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
+ <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
+ <p class="updated_time"> 07:09 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-eu.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With E.U.</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
  <p class="updated_time"> 06:55 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
- <p class="updated_time"> 06:52 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
  <p class="updated_time"> 06:43 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle inventor 'overwhelmed' as New York Times buys game</a> BBC: Briton Josh Wardle sells his online game sensation to the New York Times for a seven-figure sum. 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
- <p class="updated_time"> 10:50 AM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years On, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
  <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/uk-covid-vaccine-vulnerable-children-ages-5-to-11.html">England Extends Covid Vaccinations to Vulnerable Children Ages 5 to 11</a> NYT: Around half a million children in England will become eligible for a first dose of a coronavirus shot on Monday. 
  <p class="updated_time"> 09:40 AM CT, Jan. 30 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/europe/putin-ukraine-europe-russia.html">Putin Has Long Tried to Balance Europe. Now He’s Working to Reset It.</a> NYT: After years of trying to diplomatically divide and conquer, the Russian leader has seemingly decided to antagonize Europe as a whole in the current Ukraine crisis. 
  <p class="updated_time"> 09:55 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
- <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
 
 
 </details>
@@ -200,7 +200,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/marc-short-mike-pence.html">Former Pence Chief of Staff Has Testified to the Jan. 6 Committee</a> NYT: Marc Short, who has firsthand knowledge of former President Donald J. Trump’s pressure campaign on his vice president to throw out the election results, appeared under subpoena. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/midterms-campaign-financing.html">Billionaires and Big Checks Shape Battle for Congress</a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
  <p class="updated_time"> 06:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076349762/oath-keepers-charged-capitol-riot-seditious-conspiracy">Oath Keepers face seditious conspiracy charges. DOJ has mixed record with such cases</a> NPR: In the biggest Capitol riot case yet, 11 Oath Keepers stand charged of seditious conspiracy. The government faces steep challenges in proving them guilty of the hefty and rare charges. 
@@ -211,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric, plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
+ <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric and plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076938812/there-are-election-reforms-that-both-democrats-and-republicans-seem-to-like">There are election reforms that both Democrats and Republicans seem to like</a> NPR: After failing to pass a voting rights bill, Democrats in Congress haven't made their next move clear. Bipartisan talks have begun over smaller measures that election experts still see as necessary. 
  <p class="updated_time"> 12:01 AM CT, Feb. 01 </p> 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/austin-vaccine-national-guard-00003976">Austin to governors: Guard troops must get Covid vaccine</a> Politico: He told the governors that the virus “takes our service members out of the fight, temporarily or permanently." 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
- <p class="updated_time"> 06:58 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/marc-short-mike-pence.html">Former Pence Chief of Staff Has Testified to the Jan. 6 Committee</a> NYT: Marc Short, who has firsthand knowledge of former President Donald J. Trump’s pressure campaign on his vice president to throw out the election results, appeared under subpoena. 
  <p class="updated_time"> 06:52 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/trump-super-pac-elections-00003962">Trump super PAC starts 2022 with $9.5M banked</a> Politico: The group took in six-figure donations from some of Trump's biggest supporters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
@@ -284,8 +284,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
- <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
+ <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
