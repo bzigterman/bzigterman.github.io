@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:01 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/trump-political-groups-spending-00004057">How Trump’s political groups are spending their huge cash haul</a> Politico: Save America PAC sent money to Trump-backed candidates for the first time, as detailed in new finance reports. 
+ <p class="updated_time"> 11:55 PM CT, Jan. 31 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:09 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Entered 2022 With $122 Million in the Bank</a> NYT: The former president’s overall war chest was more than double the cash on hand of the Republican National Committee. 
  <p class="updated_time"> 10:10 PM CT, Jan. 31 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
- <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:23 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/george-w-bush-donations-gop-impeachment-00004007">George W. Bush sends cash to GOP impeachment voters facing challengers</a> Politico: Rep. Liz Cheney and Sen. Lisa Murkowski got donations from former President George W. Bush at the end of 2021. 
  <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
