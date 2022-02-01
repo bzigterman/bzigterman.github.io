@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077174231/fbi-director-says-the-threat-from-china-is-more-brazen-than-ever-before">FBI director says the threat from China is 'more brazen' than ever before</a> NPR: FBI Director Christopher Wray said the bureau is opening new cases to counter Chinese intelligence operations every 12 hours or so. 
  <p class="updated_time"> 10:22 PM CT, Jan. 31 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064909/boris-johnson-apologizes-again-as-investigation-into-his-lockdown-parties-contin">Boris Johnson apologizes again as investigation into his lockdown parties continues</a> NPR: A report into social gatherings held by the U.K. government at a time of strict lockdowns has found some of the events "difficult to justify." 
  <p class="updated_time"> 03:18 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064888/ukrainian-foreign-minister-says-global-democratic-order-at-stake-in-russia-stand">Ukrainian foreign minister says global democratic order at stake in Russia standoff</a> NPR: NPR's Mary Louise Kelly speaks with Dmytro Kuleba, the Minister of Foreign Affairs of Ukraine, about the global stakes of Ukraine's standoff with Russia and his call for U.S. support. 
- <p class="updated_time"> 03:11 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
  <p class="updated_time"> 02:35 PM CT, Jan. 31 </p> 
