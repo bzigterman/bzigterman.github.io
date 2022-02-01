@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
+ <p class="updated_time"> 11:17 PM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/israels-military-to-remove-two-officers-over-death-of-elderly-palestinian-american-man-11643710666">Israel's Military to Remove Two Officers Over Death of Elderly Palestinian-American</a> WSJ: The decision follows an Israel Defense Forces investigation into the death of Omar Abdelmajid As’ad, who suffered a heart attack after he was bound, gagged and eventually abandoned in a courtyard. 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 10:46 PM CT, Jan. 31 </p> 
@@ -73,12 +75,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
+ <p class="updated_time"> 06:24 PM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/australia-central-bank-ends-key-pandemic-program-11643693076">Australia Central Bank Ends Key Pandemic Program</a> WSJ: The Reserve Bank of Australia will end a bond-buying program that has anchored its response to the Covid-19 pandemic, given accelerated inflation and a tight job market. 
  <p class="updated_time"> 06:22 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle: New York Times buys popular word game</a> BBC: The New York Times says it bought the game from its creator for a price “in the low seven figures". 
- <p class="updated_time"> 05:06 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/hypersonic-missiles-11643688227">What Are Hypersonic Missiles and Who's Developing Them?</a> WSJ: Missile tests by U.S. rivals have raised pressure for defenses and America’s own hypersonic missiles. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Jan. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/25/schumer-strategy-leaves-some-dems-seething-00001704"> Schumer strategy leaves some Dems seething</a> Politico Playbook: And the U.S. puts 8,500 troops on heightened alert for deployment. 
- <p class="updated_time"> 04:30 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/news/2022/01/25/senate-filibuster-jeff-merkley-00001394">Meet the mild-mannered progressive who’s breaking the filibuster</a> Politico: More than any other senator, Jeff Merkley has frayed the fabric of the chamber’s vaunted 60-vote threshold. And he doesn’t mind if that’s used against his own party in the future. 
 
 
 </details>
