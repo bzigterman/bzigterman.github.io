@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371624/1-year-since-myanmars-coup-the-military-has-been-unable-to-stamp-out-the-resista">1 year since Myanmar's coup, the military has been unable to stamp out the resistance</a> NPR: It's been a year since a coup threw Myanmar into chaos amid war crimes accusations against the military. Neither the military nor an increasingly organized resistance are showing signs of compromise. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371555/u-k-s-boris-johnson-visits-kyiv-to-stand-with-ukraine-and-putin-remarks-on-tensi">U.K.'s Boris Johnson visits Kyiv to stand with Ukraine and Putin remarks on tensions</a> NPR: British Prime Minister Boris Johnson flew to Kyiv to meet with Ukrainian President Volodymyr Zelensky. In Moscow, Russian President Putin made his first public remarks on the crisis since late 2021. 
  <p class="updated_time"> 03:28 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: Gunmen are said to have detained the president but he says the situation is now under control. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
@@ -57,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60219964?at_medium=RSS&at_campaign=KARANGA">Woman applauded after giving birth on transatlantic flight</a> BBC: A Ghanaian doctor on the flight helped to deliver the baby in the plane's business class area. 
+ <p class="updated_time"> 10:28 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: The Russian leader said the U.S. and its European allies had ‘basically ignored’ Moscow’s demands for security assurances but expressed a willingness to continue talks. 
  <p class="updated_time"> 10:18 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -69,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in years</a> BBC: A huge landslide triggered by the rain has killed at least 16 people in the capital, officials say. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
- <p class="updated_time"> 08:42 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: Moscow has demanded that NATO agree to halt its expansion eastward. The Russian leader’s comments come as Ukraine President Volodymyr Zelensky meets with the U.K. and Polish prime ministers. 
  <p class="updated_time"> 08:40 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Fears Spike in Guinea-Bissau as Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
@@ -127,14 +133,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
- <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209051?at_medium=RSS&at_campaign=KARANGA">US east coast digs out from blizzard</a> BBC: Residents are cheerfully shovelling heaps of snow in sub-zero temperatures after a numbing nor'easter. 
- <p class="updated_time"> 03:54 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077064937/the-world-worries-of-a-russian-incursion-in-donbas-ukrainians-already-live-with-">The world worries of a Russian incursion. In Donbas, Ukrainians already live with war</a> NPR: NPR's Mary Louise Kelly reports from Donbas region of Ukraine as its residents live under the threat of a Russian incursion and cope with eight years of tensions and fighting along the border. 
- <p class="updated_time"> 03:54 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077064930/a-bridge-separates-2-realities-at-the-frontier-of-russian-occupied-ukraine">A bridge separates 2 realities at the frontier of Russian-occupied Ukraine</a> NPR: Russia is threatening to invade Ukraine. But in the eastern region of Donbas, war has been underway since Russia-backed separatists moved in and declared breakaway republics in 2014. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
  <p class="updated_time"> 03:29 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/desantis-florida-weigh-in-on-congressional-map-00004283">DeSantis asks Florida supreme court to weigh in on congressional map</a> Politico: DeSantis’ recently submitted his own proposed map that throws out the district now held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
- <p class="updated_time"> 01:19 PM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
