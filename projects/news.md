@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1076936492/america-russia-ukraine-border-invasion">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
+ <p class="updated_time"> 03:49 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 02:14 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in almost 20 years</a> BBC: A huge landslide triggered by the rains has killed at least 11 people in the capital, officials say. 
- <p class="updated_time"> 02:11 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 02:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs, Out From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
@@ -135,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076012108/from-stalin-to-putin-ukraine-is-still-trying-to-break-free-from-moscow">From Stalin to Putin, Ukraine is still trying to break free from Moscow</a> NPR: Josef Stalin caused a famine when he tried to remake Ukraine's farms. Vladimir Putin is threatening to invade Ukraine — again. For a century, Ukraine has been trying to escape Moscow's grip. 
  <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
- <p class="updated_time"> 02:17 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076895447/north-korea-has-confirmed-that-it-tested-a-missile-capable-of-striking-guam">North Korea has confirmed that it tested a missile capable of striking Guam</a> NPR: The test-launch was confirmed Monday and is North Korea's most significant weapon launch in years. South Korean and Japanese officials condemned the launch. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">As Waste Rises in Senegal, So Does Plastic Recycling</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
  <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
  <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
- <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
 
 
 </details>
@@ -204,6 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric, plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1076938812/there-are-election-reforms-that-both-democrats-and-republicans-seem-to-like">There are election reforms that both Democrats and Republicans seem to like</a> NPR: After failing to pass a voting rights bill, Democrats in Congress haven't made their next move clear. Bipartisan talks have begun over smaller measures that election experts still see as necessary. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/midterms-campaign-financing.html">Billionaires and Big Checks Shape Battle for Congress</a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
  <p class="updated_time"> 12:01 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/trump-political-groups-spending-00004057">How Trump’s political groups are spending their huge cash haul</a> Politico: Save America PAC sent money to Trump-backed candidates for the first time, as detailed in new finance reports. 
  <p class="updated_time"> 11:55 PM CT, Jan. 31 </p> 
@@ -270,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064916/u-s-and-russia-clashed-over-the-ukraine-crisis-at-the-u-n-security-council-meeti">U.S. and Russia clashed over the Ukraine crisis at the U.N. Security Council meeting</a> NPR: The U.N. Security Council had a contentious session on Russia's pressure campaign against Ukraine. Most council members are urging Russia to take a diplomatic path. 
  <p class="updated_time"> 03:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
- <p class="updated_time"> 03:03 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
@@ -346,10 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:59 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
- <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
- <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
- <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
- <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 04:46 PM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/hochul-extends-mask-or-vax-policy-through-feb-10-00003330">Hochul extends New York’s 'mask or vax' policy amid court challenge</a> Politico: The extension comes as a legal fight brews over the state’s mandate. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
