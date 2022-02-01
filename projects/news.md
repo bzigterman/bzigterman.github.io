@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/us/politics/esteban-torres-dead.html">Esteban Torres, Congressional Advocate for Latinos, Dies at 91</a> NYT: A California Democrat who for a time served as chairman of the Congressional Hispanic Caucus, he dedicated himself to fighting poverty. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
- <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
  <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
