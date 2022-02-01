@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:13 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
+ <p class="updated_time"> 06:11 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 05:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Report on Downing Street Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 04:50 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the year of the Ox to the year of the Tiger. 
- <p class="updated_time"> 04:44 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/ukraine-russia-us">Live Updates: U.S. and Russia Accuse Each Other at U.N. of Stoking Ukraine Crisis</a> NYT: At a Security Council meeting, each power said it wanted to avoid war, and blamed the other for pushing tensions to the brink. 
- <p class="updated_time"> 04:44 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/01/31/world/boris-johnson-party">Boris Johnson Faces Outcry After Report Paints Damning Picture of Downing Street</a> NYT: A highly anticipated report describes heavy workplace drinking at parties that breached pandemic lockdown rules. Lawmakers, including fellow Conservatives, demanded answers from Mr. Johnson in Parliament. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
@@ -203,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/world/asia/separatists-pakistani-soldiers.html">Separatists Kill 10 Pakistani Soldiers in Attack on Outpost</a> NYT: The assault was one of the deadliest on Pakistani security forces in recent years and comes at a time of heightened unrest. 
  <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
- <p class="updated_time"> 08:35 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/asia/india-shelter-sexual-abuse.html">Record Payout Awarded to Sexual Abuse Victims in India</a> NYT: The case, involving rapes at a shelter for homeless girls, signals a partial reckoning with the government’s responsibility in an epidemic of sexual violence. 
 
 
 </details>
@@ -212,6 +210,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
+ <p class="updated_time"> 06:52 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/trump-super-pac-elections-00003962">Trump super PAC starts 2022 with $9.5M banked</a> Politico: The group took in six-figure donations from some of Trump's biggest supporters. 
+ <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
  <p class="updated_time"> 05:42 PM CT, Jan. 31 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:13 PM CT, Jan. 31 </p> 
@@ -260,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/desantis-aide-nazi-protestors-democrats-00003678">DeSantis aide deletes tweet suggesting Nazi protesters were Democratic operatives</a> Politico: Christina Pushaw's comments drew widespread condemnation from elected officials as well as a prominent South Florida rabbi. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
- <p class="updated_time"> 11:07 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/canada-trudeau-tests-positive-covid-19-00003605">Trudeau tests positive for Covid-19</a> Politico: The prime minister said in a tweet that he tested positive Monday morning. 
  <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076663976/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukrain">Chair of the Congressional Ukraine Caucus says U.S. must act now to assist Ukraine</a> NPR: Scott Simon talks with Congressman Brian Fitzpatrick, Republican from Pennsylvania and co-chair of the Congressional Ukraine Caucus, about what the U.S. should do to deter Russia. 
  <p class="updated_time"> 07:02 AM CT, Jan. 29 </p> 
  <a href="https://www.npr.org/2022/01/29/1076663913/week-in-politics-u-s-troops-on-alert-at-russia-ukraine-border-breyer-retiring">Week in politics: U.S. troops on alert at Russia-Ukraine border; Breyer retiring</a> NPR: Tensions at the Ukraine-Russia border. Plus, Associate Justice Stephen Breyer's resignation and President Biden's pledge to nominate the first-ever Black woman Supreme Court justice. 
- <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 06:04 PM CT, Jan. 28 </p> 
  <a href="https://www.npr.org/2022/01/28/1076579467/biden-supreme-court-nominee-breyer-replacement">These are the people believed to be frontrunners for Biden's Supreme Court pick</a> NPR: President Biden has pledged to choose a Black woman to fill the vacancy on the Supreme Court — and the White House is looking at a broad list of potential candidates. 
  <p class="updated_time"> 06:00 PM CT, Jan. 28 </p> 
@@ -368,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/bidens-signature-legislation-child-tax-credit-00002560">Biden’s signature legislation expired. Recipients are wondering: WTF happened?</a> Politico: The extended child tax credit was a lifeline for many. Now it’s gone and those who got it feel politically disillusioned. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
  <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
