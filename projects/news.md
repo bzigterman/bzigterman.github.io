@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Live Updates: Putin Hosts Hungary’s Prime Minister as Leaders of U.K. and Poland Travel to Ukraine</a> NYT: A day after the United States and Russia faced off at the United Nations, the two countries’ top diplomats were expected to speak by telephone. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">All US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
  <p class="updated_time"> 06:24 PM CT, Jan. 31 </p> 
  <a href="https://www.wsj.com/articles/australia-central-bank-ends-key-pandemic-program-11643693076">Australia Central Bank Ends Key Pandemic Program</a> WSJ: The Reserve Bank of Australia will end a bond-buying program that has anchored its response to the Covid-19 pandemic, given accelerated inflation and a tight job market. 
- <p class="updated_time"> 06:22 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle: New York Times buys popular word game</a> BBC: The New York Times says it bought the game from its creator for a price “in the low seven figures". 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
@@ -124,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
  <p class="updated_time"> 10:44 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands, Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
+ <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands and Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Lunar New Year. 
  <p class="updated_time"> 09:26 AM CT, Jan. 31 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60188898?at_medium=RSS&at_campaign=KARANGA">'Bombogenesis' snowstorm strikes US East Coast</a> BBC: The storm, known as a Nor'easter, brought heavy snowfall, coastal flooding and blizzard conditions. 
  <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
- <p class="updated_time"> 06:45 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/americas/canada-trucker-protest.html">In Canada, ‘Freedom Convoy’ Protesting Vaccine Mandates Nears Capital</a> NYT: The “Freedom Convoy” had driven across Canada to reach the capital. The demonstrations on Saturday were raucous but largely peaceful. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
@@ -195,14 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/europe/macron-ukraine-russia-putin-nato-eu.html">How France's Macron Is Approaching the Ukraine Situation</a> NYT: The French president, determined to engage with Russia, wants to shape a new European security order from crisis — and win the April election. 
  <p class="updated_time"> 05:00 AM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/canada/china-olympics-canada.html">Is It OK to Watch the Winter Games? A Former Olympian Weighs In.</a> NYT: This year’s Winter Olympics come in the midst of widespread human rights abuses in China and a low point in Canada’s relations with the country. 
- <p class="updated_time"> 04:00 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/russia-troops-belarus-border-ukraine.html">As Russian Troops Mass in Belarus, a Ukraine Border Is Largely Undefended</a> NYT: From the border, it’s a fast 140 miles down a newly paved highway to Kyiv, the Ukrainian capital, but only a few troops stand guard. 
- <p class="updated_time"> 03:11 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/biden-ukraine-russia-diplomacy.html">White House Warnings Over Russia Strain Ukraine-U.S. Partnership</a> NYT: While Ukraine’s president complained about “acute and burning” warnings from Washington, the Pentagon issued a dire new appraisal asserting Russia has amassed enough troops to invade his entire country. 
- <p class="updated_time"> 12:04 AM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/asia/india-military-nagaland.html">India’s Militarized Nagaland Calls for End to Army Impunity</a> NYT: A deadly mistaken ambush by soldiers seeking rebels in the country’s northeast has renewed attention on a special powers act that residents say perpetuates fear and harassment. 
- <p class="updated_time"> 07:35 PM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
 
 
 </details>
@@ -210,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
