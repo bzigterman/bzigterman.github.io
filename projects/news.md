@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow spoke by telephone. 
+ <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
+ <p class="updated_time"> 09:41 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
  <p class="updated_time"> 09:24 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
- <p class="updated_time"> 09:23 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, says he "feels like the luckiest person in the world" as he confirms his retirement. 
  <p class="updated_time"> 08:56 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
- <p class="updated_time"> 08:53 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
  <p class="updated_time"> 08:53 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 08:52 AM CT, Feb. 01 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 07:09 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
- <p class="updated_time"> 06:55 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 06:43 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle inventor 'overwhelmed' as New York Times buys game</a> BBC: Briton Josh Wardle sells his online game sensation to the New York Times for a seven-figure sum. 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Cawthorn sues N.C. election board over reelection challenge</a> Politico: North Carolina election officials moving to block Rep. Madison Cawthorn's reelection bid cite Section 3 of the 14th Amendment, which prohibits public officials from holding office if they have “engaged in insurrection or rebellion” against the United States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
@@ -266,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-inflation-economy.html">Fed Officials Make It Clear on Inflation: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
  <p class="updated_time"> 04:16 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/judge-rejects-plea-deal-man-killed-ahmaud-arbery-00003880">Judge rejects plea deal for man who killed Ahmaud Arbery</a> Politico: A federal judge rejected a plea agreement Monday that would have averted a hate crimes trial for the man convicted of murdering Ahmaud Arbery. 
- <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:39 PM CT, Jan. 31 </p> 
