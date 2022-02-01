@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:56 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
+ <p class="updated_time"> 12:49 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:37 PM CT, Feb. 01 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197927?at_medium=RSS&at_campaign=KARANGA">Syria war: Babies die from cold in storm-hit Idlib camps</a> BBC: Hundreds of thousands of displaced people are living in tents without warm clothes and heating. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
- <p class="updated_time"> 12:22 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 12:17 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077282498/lightning-megaflash-record">A pair of monster lightning strikes have shattered records for distance and duration </a> NPR: One record-breaking flash covered a horizontal distance of about 477 miles; another lasted about 17 seconds. 
  <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077291879/israel-apartheid-state-amnesty-international">Israel is an apartheid state, Amnesty International says</a> NPR: "The Israeli government is committing the crime against humanity of apartheid against Palestinians," the rights group said. Israel's foreign ministry says the new Amnesty report is anti-Semitic. 
  <p class="updated_time"> 11:36 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60219876?at_medium=RSS&at_campaign=KARANGA">Norway mass killer Anders Breivik ordered to stay in jail</a> BBC: Anders Breivik killed 77 people in July 2011, and a court has ruled that he is still dangerous. 
- <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
  <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">Abdul Alim of Pakistan, a COVID survivor and vaccine advocate, dies at age 104 </a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
