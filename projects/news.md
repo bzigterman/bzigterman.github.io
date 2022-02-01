@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:29 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
- <p class="updated_time"> 03:00 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: Can India boost its Covid-hit economy?</a> BBC: The allocations are part of the budget which comes amid low demand, unemployment and high inflation. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: Can India boost its Covid-hit economy?</a> BBC: The allocations are part of the budget which come amid low demand, unemployment and high inflation. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
@@ -311,7 +311,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Election Deniers Are Running for Secretary of State Across the Country</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html">For Ketanji Brown Jackson, View of Criminal Justice Was Shaped by Family</a> NYT: The story of an uncle’s cocaine conviction formed only part of Judge Jackson’s understanding of the system’s complexities. She is now seen as a contender to be President Biden’s Supreme Court pick. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
