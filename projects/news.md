@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 09:31 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The American TV personality later apologises after saying the Holocaust "was not about race". 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
  <p class="updated_time"> 07:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
- <p class="updated_time"> 06:59 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 06:55 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60155635?at_medium=RSS&at_campaign=KARANGA">Austria's Covid vaccine law comes into force amid resistance</a> BBC: The country is the first in Europe to make vaccination against Covid-19 mandatory for over-18s. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:48 PM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-election-fraud.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:29 PM CT, Jan. 31 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
- <p class="updated_time"> 10:16 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/us/politics/american-woman-islamic-state-fluke-ekren.html">U.S. Woman Accused of Prominent Role in Islamic State</a> NYT: Prosecutors said Allison Fluke-Ekren, a former teacher from Kansas, provided military training to women and young girls in Syria. 
  <p class="updated_time"> 05:18 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/phyllis-oakley-dead.html">Phyllis Oakley, Female Pioneer at the State Department, Dies at 87</a> NYT: She had to quit the foreign service to marry. But she was reinstated 16 years later, when female employees challenged the department’s sexist traditions, and she thrived. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
