@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 07:37 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
+ <p class="updated_time"> 07:12 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60214689?at_medium=RSS&at_campaign=KARANGA">Global Covid response generating masses of waste, WHO says</a> BBC: The World Health Organization says discarded equipment is a threat to the environment and human health. 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 07:09 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-eu.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With E.U.</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
  <p class="updated_time"> 06:55 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 06:43 AM CT, Feb. 01 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1076936492/america-russia-ukraine-border-invasion">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
- <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60213523?at_medium=RSS&at_campaign=KARANGA">Moses J Moseley: 'Kind and wonderful' The Walking Dead actor dies at 31</a> BBC: Tributes are paid to "kind and wonderful" Moses J Moseley, who was a pet zombie on the horror show. 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
@@ -91,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/australia-central-bank-ends-key-pandemic-program-11643693076">Australia Central Bank Ends Key Pandemic Program</a> WSJ: The Reserve Bank of Australia will end a bond-buying program that has anchored its response to the Covid-19 pandemic, given accelerated inflation and a tight job market. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
- <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/60201894?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Hate crime plea deal rejected by US judge in murder case</a> BBC: The deal would have allowed two of Ahmaud Arbery's killers to serve in "preferred" federal prisons 
  <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209051?at_medium=RSS&at_campaign=KARANGA">US east coast digs out from blizzard</a> BBC: Residents are cheerfully shovelling heaps of snow in sub-zero temperatures after a numbing nor'easter. 
  <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
@@ -378,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/25/hoyer-voting-rights-bbb-00001911">Hoyer: Voting rights bill, BBB 'very much alive'</a> Politico: The House majority leader expressed optimism but didn't offer specifics. 
  <p class="updated_time"> 12:38 PM CT, Jan. 25 </p> 
  <a href="https://www.cnn.com/2022/01/25/politics/child-tax-credit-irs-letter/index.html">Parents: Don't throw away this IRS letter</a> CNN: Attention parents: Hold onto that Internal Revenue Service letter about your enhanced child tax credit payments. You'll need it when you file your 2021 tax return. 
- <p class="updated_time"> 07:43 AM CT, Jan. 25 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/25/anatomy-of-an-ethics-case-00001720">Anatomy of an ethics case</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
