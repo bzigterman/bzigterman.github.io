@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 02:34 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 02:21 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin accuses US of using Ukraine as tool against Russia</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
- <p class="updated_time"> 02:20 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 02:15 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 02:00 PM CT, Feb. 01 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-senate-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden chooses a nominee, Mr. Jones will serve as a “sherpa,” introducing her to senators and preparing her for hearings. 
  <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Cawthorn sues N.C. election board over reelection challenge</a> Politico: North Carolina election officials moving to block Rep. Madison Cawthorn's reelection bid cite Section 3 of the 14th Amendment, which prohibits public officials from holding office if they have “engaged in insurrection or rebellion” against the United States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/29/1076696707/covid-canada-ottawa-protests">A cross-country truck convoy reaches Canada's capital to protest COVID restrictions</a> NPR: Thousands of people gathered in Ottawa to demonstrate against vaccine mandates, masks and lockdowns. Some drivers parked on the grounds of the National War Memorial before police asked them to move. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
