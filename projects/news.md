@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
+ <p class="updated_time"> 12:36 PM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: The Russian leader said the U.S. and its European allies had “basically ignored” Moscow’s demands for security assurances but expressed a willingness to continue talks. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197927?at_medium=RSS&at_campaign=KARANGA">Syria war: Babies die from cold in storm-hit Idlib camps</a> BBC: Hundreds of thousands of displaced people are living in tents without warm clothes and heating. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60219964?at_medium=RSS&at_campaign=KARANGA">Woman applauded after giving birth on transatlantic flight</a> BBC: A Ghanaian doctor on the flight helped to deliver the baby in the plane's business class area. 
- <p class="updated_time"> 10:28 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: The Russian leader said the U.S. and its European allies had “basically ignored” Moscow’s demands for security assurances but expressed a willingness to continue talks. 
  <p class="updated_time"> 10:18 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
