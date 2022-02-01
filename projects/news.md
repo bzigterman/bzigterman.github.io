@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in years</a> BBC: A huge landslide triggered by the rain has killed at least 22 people in the capital, officials say. 
  <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians prepare as war with Russia threatens</a> BBC: Many Ukrainians are not convinced Russia will invade, but all the war talk is unsettling. 
  <p class="updated_time"> 04:26 PM CT, Feb. 01 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
- <p class="updated_time"> 08:50 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in years</a> BBC: A huge landslide triggered by the rain has killed at least 16 people in the capital, officials say. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
