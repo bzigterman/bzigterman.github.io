@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
+ <p class="updated_time"> 03:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: India announces mammoth infrastructure spend</a> BBC: The allocations are part of the annual budget which comes amid low demand, unemployment and inflation. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: Can India boost its Covid-hit economy?</a> BBC: The allocations are part of the budget which comes amid low demand, unemployment and high inflation. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
@@ -55,14 +59,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173503?at_medium=RSS&at_campaign=KARANGA">Family wants no contact with accused US IS member</a> BBC: Allison Fluke-Ekren is accused of leading an all-female IS unit in Syria and plotting attacks on US 
  <p class="updated_time"> 07:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
- <p class="updated_time"> 06:55 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60155635?at_medium=RSS&at_campaign=KARANGA">Austria's Covid vaccine law comes into force amid resistance</a> BBC: The country is the first in Europe to make vaccination against Covid-19 mandatory for over-18s. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
  <p class="updated_time"> 06:22 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle: New York Times buys popular word game</a> BBC: The New York Times says it bought the game from its creator for a price “in the low seven figures". 
+ <p class="updated_time"> 05:06 PM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/hypersonic-missiles-11643688227">What Are Hypersonic Missiles and Who's Developing Them?</a> WSJ: Missile tests by U.S. rivals have raised pressure for defenses and America’s own hypersonic missiles. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
@@ -97,20 +101,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077003325/united-nations-afghanistan-taliban-takeover-extrajudicial-killings">U.N. says over 100 ex-Afghan officials have been slain since the Taliban's takeover</a> NPR: A new U.N. report finds that "more than two-thirds" of those who died were victims of extrajudicial killings by the Taliban or its affiliates. 
- <p class="updated_time"> 12:43 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. and its allies criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage. Moscow failed to block debate and accused U.S. of “stoking tensions.” 
  <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60204868?at_medium=RSS&at_campaign=KARANGA">Anne Frank's betrayal: Dutch publisher apologises for book</a> BBC: The book identifies a person who may have betrayed Anne Frank and her family to the Nazis. 
  <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:47 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173291?at_medium=RSS&at_campaign=KARANGA">Why my mother won’t leave Ukraine to join me in US</a> BBC: Some want to flee. For others, there's a feeling it's nothing new - and there's the cat to deal with. 
- <p class="updated_time"> 11:30 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/canada-says-trucker-vaccine-mandate-hasnt-dented-border-crossings-11643668223">Canada Says Trucker Vaccine Mandate Hasn't Dented Border Crossings</a> WSJ: A Covid-19 vaccine mandate that targets truckers crossing the U.S.-Canada border has had little impact on the volume of trailers entering the country to deliver goods, Canada’s transport minister said. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
+ <p class="updated_time"> 10:44 AM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Stream to Ukraine, Showing Support as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands, Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Chinese New Year. 
  <p class="updated_time"> 09:26 AM CT, Jan. 31 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/tax-haven-u-a-e-to-introduce-levy-on-corporate-profits-11643647029">Tax Haven U.A.E. to Introduce Levy on Corporate Profits</a> WSJ: The United Arab Emirates is set to introduce a tax on corporate profits, as it juggles the need to remain attractive for international business with its agreement to support global tax transparency. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
- <p class="updated_time"> 05:00 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/chinas-communist-party-quietly-inserts-itself-into-everyday-life-11643644801">China's Communist Party Quietly Inserts Itself Into Everyday Life</a> WSJ: More than 100,000 “civilization practice centers” have been rolled out nationwide in the past four years as part of a sprawling propaganda effort that casts new light on the party’s drive to mold Chinese into model citizens. 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
  <p class="updated_time"> 04:05 AM CT, Jan. 31 </p> 
@@ -151,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
  <p class="updated_time"> 05:15 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
- <p class="updated_time"> 04:40 PM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076839081/northern-ireland-50-years-bloody-sunday">Northern Ireland marks 50 years since the Bloody Sunday killings</a> NPR: British soldiers shot and killed 13 people and wounded others during a 1972 civil rights protest. The shootings exacerbated the conflict in Northern Ireland, which left thousands dead over decades. 
  <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
