@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077371555/u-k-s-boris-johnson-visits-kyiv-to-stand-with-ukraine-and-putin-remarks-on-tensi">U.K.'s Boris Johnson visits Kyiv to stand with Ukraine and Putin remarks on tensions</a> NPR: British Prime Minister Boris Johnson flew to Kyiv to meet with Ukrainian President Volodymyr Zelensky. In Moscow, Russian President Putin made his first public remarks on the crisis since late 2021. 
  <p class="updated_time"> 03:28 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: Gunmen are said to have detained the president but he says the situation is now under control. 
- <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
@@ -270,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
- <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
  <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
