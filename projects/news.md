@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:38 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says NATO Is Ignoring Russia’s Concerns on Ukraine</a> NYT: The Russian president spoke on the Ukraine crisis for the first time since December at a news conference. Top diplomats from Washington and Moscow spoke by telephone but reported no progress. 
+ <p class="updated_time"> 11:46 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start an conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 11:43 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077291879/israel-apartheid-state-amnesty-international">Israel is an apartheid state, Amnesty International says</a> NPR: "The Israeli government is committing the crime against humanity of apartheid against Palestinians," the rights group said. Israel's foreign ministry says the new Amnesty report is anti-Semitic. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60219876?at_medium=RSS&at_campaign=KARANGA">Norway mass killer Anders Breivik ordered to stay in jail</a> BBC: Anders Breivik killed 77 people in July 2011, and a court has ruled that he is still dangerous. 
  <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
+ <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">Abdul Alim of Pakistan, a COVID survivor and vaccine advocate, dies at age 104 </a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
  <p class="updated_time"> 11:28 AM CT, Feb. 01 </p> 
@@ -63,16 +69,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217">Russia Confronts Ukraine With Upgraded Military Rebuilt After Soviet Collapse</a> WSJ: Vladimir Putin has largely transformed the country’s forces left depleted and demoralized after the breakup of the U.S.S.R. as part of his goal to reassert Russia on the world stage. 
  <p class="updated_time"> 04:11 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s reliance on Russian gas, its postwar tendency to keep a low profile in international conflicts and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
- <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/israels-military-to-remove-two-officers-over-death-of-elderly-palestinian-american-man-11643710666">Israel's Military to Remove Two Officers Over Death of Elderly Palestinian-American</a> WSJ: The decision follows an Israel Defense Forces investigation into the death of Omar Abdelmajid As’ad, who suffered a heart attack after he was bound, gagged and eventually abandoned in a courtyard. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why Americans should care about the Russia-Ukraine standoff</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based," says Ukraine's foreign minister. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
- <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
@@ -131,10 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
  <p class="updated_time"> 01:30 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation. 
- <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077003325/united-nations-afghanistan-taliban-takeover-extrajudicial-killings">U.N. says over 100 ex-Afghan officials have been slain since the Taliban's takeover</a> NPR: A new U.N. report finds that "more than two-thirds" of those who died were victims of extrajudicial killings by the Taliban or its affiliates. 
- <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:47 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60173291?at_medium=RSS&at_campaign=KARANGA">Why my mother won’t leave Ukraine to join me in US</a> BBC: Some want to flee. For others, there's a feeling it's nothing new - and there's the cat to deal with. 
  <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
