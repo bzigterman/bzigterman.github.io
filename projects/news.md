@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:27 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 08:49 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
+ <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 08:20 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60212716?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Zelensky praises allied response</a> BBC: President Volodymyr Zelensky highlights the support of allies and announces an expansion of the army. 
  <p class="updated_time"> 08:15 AM CT, Feb. 01 </p> 
@@ -36,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1076936492/america-russia-ukraine-border-invasion">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
+ <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in almost 20 years</a> BBC: A huge landslide triggered by the rains has killed at least 11 people in the capital, officials say. 
  <p class="updated_time"> 02:03 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-economy-braces-for-impact-as-war-with-russia-looms-11643720593">Ukraine's Economy Braces for Impact as War With Russia Looms</a> WSJ: Businesses are pausing investments and the Ukrainian currency is under pressure as Moscow masses troops on the border. 
- <p class="updated_time"> 02:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs, Out From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
  <p class="updated_time"> 01:43 AM CT, Feb. 01 </p> 
@@ -197,7 +197,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/marc-short-mike-pence.html">Former Pence Chief of Staff Has Testified to the Jan. 6 Committee</a> NYT: Marc Short, who has firsthand knowledge of former President Donald J. Trump’s pressure campaign on his vice president to throw out the election results, appeared under subpoena. 
  <p class="updated_time"> 07:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/midterms-campaign-financing.html">Billionaires and Big Checks Shape Battle for Congress</a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/midterm-elections-campaign-financing.html">Billionaires and Big Checks Shape Battle for Congress</a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
  <p class="updated_time"> 06:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076349762/oath-keepers-charged-capitol-riot-seditious-conspiracy">Oath Keepers face seditious conspiracy charges. DOJ has mixed record with such cases</a> NPR: In the biggest Capitol riot case yet, 11 Oath Keepers stand charged of seditious conspiracy. The government faces steep challenges in proving them guilty of the hefty and rare charges. 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
@@ -226,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
+ <p class="updated_time"> 08:37 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/crisis-text-line-ends-data-sharing-00004001">Crisis Text Line ends data-sharing relationship with for-profit spinoff</a> Politico: "We understand that you don’t want Crisis Text Line to share any data," the suicide hotline nonprofit wrote in a statement Monday. 
  <p class="updated_time"> 08:35 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/florida-voting-laws-elections-00003952">Civil rights groups testify Florida’s controversial voting law suppresses voter registration efforts</a> Politico: In the next two weeks, university professors, state and local election officials and Democratic legislators are expected to testify about the controversial new law. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
@@ -274,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
+ <p class="updated_time"> 02:17 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/manchin-revised-build-back-better-00003761">Raimondo: Manchin 'gettable' on revised Build Back Better plan</a> Politico: Secretary of Commerce Gina Raimondo said Sen. Joe Manchin’s support of large parts of the Build Back Better package are a sign he could back a revised bill. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
@@ -293,9 +297,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-democrats-pivot-economy-legislative-win-00003385">House Democrats pivot to economy in search of next legislative win</a> Politico: With battleground-district members especially anxious over rising inflation and a snarled supply chain, they're set to push a sweeping manufacturing bill to the floor. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
- <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden delivered a booming economy. Now he needs the Fed to deal with the fallout.</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
