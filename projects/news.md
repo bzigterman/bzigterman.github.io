@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says NATO is Ignoring Russia’s Concerns on Ukraine</a> NYT: The Russian president spoke on the Ukraine crisis for the first time since February at a news conference. Top diplomats from Washington and Moscow spoke by telephone but reported no progress. 
+ <p class="updated_time"> 11:24 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says NATO Is Ignoring Russia’s Concerns on Ukraine</a> NYT: The Russian president spoke on the Ukraine crisis for the first time since December at a news conference. Top diplomats from Washington and Moscow spoke by telephone but reported no progress. 
+ <p class="updated_time"> 11:12 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Coup fears as gunfire erupts in capital</a> BBC: West African leaders condemn what they call an attempt to overthrow President Umaro Cissoko Embalo. 
+ <p class="updated_time"> 11:05 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
+ <p class="updated_time"> 10:57 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 10:48 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
  <p class="updated_time"> 10:40 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was "extraordinary". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 10:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60219964?at_medium=RSS&at_campaign=KARANGA">Woman applauded after giving birth on transatlantic flight</a> BBC: A Ghanaian doctor on the flight helped to deliver the baby in the plane's business class area. 
  <p class="updated_time"> 10:27 AM CT, Feb. 01 </p> 
@@ -23,16 +29,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
- <p class="updated_time"> 10:12 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in the worst crime in modern Norwegian history, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:04 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
- <p class="updated_time"> 09:24 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 08:56 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 08:52 AM CT, Feb. 01 </p> 
@@ -51,8 +53,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 06:28 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
- <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">All US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
+ <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/in-china-footage-of-a-chained-up-rural-mother-of-eight-draws-outcry-11643726076">In China, Footage of a Chained-Up Rural Mother Draws Outcry</a> WSJ: Video footage of a woman chained up in a shed in a village in eastern China has triggered online calls for better protections for women and the mentally ill in rural parts of the country. 
+ <p class="updated_time"> 06:07 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Ukraine Teams Up With Poland, U.K. Amid Russia Invasion Threat</a> WSJ: The Ukrainian president said the countries are working to establish a three-way partnership as he ordered an increase in troop numbers to deter a possible Russian invasion. 
+ <p class="updated_time"> 05:33 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217">Russia Confronts Ukraine With Upgraded Military Rebuilt After Soviet Collapse</a> WSJ: Vladimir Putin has largely transformed the country’s forces left depleted and demoralized after the breakup of the U.S.S.R. as part of his goal to reassert Russia on the world stage. 
  <p class="updated_time"> 04:11 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s reliance on Russian gas, its postwar tendency to keep a low profile in international conflicts and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
@@ -65,10 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
- <p class="updated_time"> 03:34 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/in-china-footage-of-a-chained-up-rural-mother-of-eight-draws-outcry-11643726076">In China, Footage of a Chained-Up Rural Mother Draws Outcry</a> WSJ: Video footage of a woman chained up in a shed in a village in eastern China has triggered online calls for better protections for women and the mentally ill in rural parts of the country. 
- <p class="updated_time"> 03:30 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Ukraine Teams Up With Poland, U.K. Amid Russia Invasion Threat</a> WSJ: The Ukrainian president said the countries are working to establish a three-way partnership as he ordered an increase in troop numbers to deter a possible Russian invasion. 
  <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
@@ -79,12 +81,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">1st anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the Feb. 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
- <p class="updated_time"> 02:03 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-economy-braces-for-impact-as-war-with-russia-looms-11643720593">Ukraine's Economy Braces for Impact as War With Russia Looms</a> WSJ: Businesses are pausing investments and the Ukrainian currency is under pressure as Moscow masses troops on the border. 
  <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
- <p class="updated_time"> 01:43 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/myanmars-junta-leader-said-eat-more-meat-but-people-are-struggling-to-live-11643719407">Myanmar's Junta Leader Said Eat More Meat, but People Are Struggling to Live</a> WSJ: A year after a military coup took power, Myanmar’s economic crisis is getting worse as incomes plummet, its currency tanks and fuel prices rise. 
  <p class="updated_time"> 01:25 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
