@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 06:28 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
+ <p class="updated_time"> 06:24 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60212716?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Zelensky praises allied response</a> BBC: President Volodymyr Zelensky highlights the support of allies and announces an expansion of the army. 
  <p class="updated_time"> 05:27 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs, Out From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
- <p class="updated_time"> 01:51 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
  <p class="updated_time"> 01:25 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">Russia denies sending response to U.S. as Ukraine tensions worsen</a> Politico: The production of the U.S. written document followed a month of intense talks meant to resolve the Russia-Ukraine crisis. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/trump-fbi-georgia.html">Georgia Prosecutor Investigating Trump Seeks Safety Assistance From the F.B.I.</a> NYT: The Fulton County district attorney expressed concern about the former president’s comments at a rally in Texas. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
- <p class="updated_time"> 03:22 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/dems-miscount-votes-pa-senate-endorsement-meeting-00003830">Dems miscount votes in Pa. Senate endorsement meeting</a> Politico: Party officials say a handful of votes were not tabulated, but it had no material effect on the outcome. 
  <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064916/u-s-and-russia-clashed-over-the-ukraine-crisis-at-the-u-n-security-council-meeti">U.S. and Russia clashed over the Ukraine crisis at the U.N. Security Council meeting</a> NPR: The U.N. Security Council had a contentious session on Russia's pressure campaign against Ukraine. Most council members are urging Russia to take a diplomatic path. 
  <p class="updated_time"> 03:17 PM CT, Jan. 31 </p> 
