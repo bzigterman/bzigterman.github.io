@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 09:53 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow spoke by telephone. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
@@ -68,7 +68,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">First Anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the February 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
+ <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">1st anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the Feb. 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 02:03 AM CT, Feb. 01 </p> 
