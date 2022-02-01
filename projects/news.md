@@ -184,16 +184,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 05:08 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/roy-blunt-califf-fda-00004374">Top Republican throws cold water on struggling FDA nominee</a> Politico: A White House spokesperson said Califf has met with 33 senators to date and is scheduled to meet with an additional 14 so far. 
  <p class="updated_time"> 04:54 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: Pfizer and BioNTech asked the FDA Tuesday to authorize a two-dose Covid-19 vaccine regimen for children under 5. 
- <p class="updated_time"> 04:19 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
  <p class="updated_time"> 03:29 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/desantis-florida-weigh-in-on-congressional-map-00004283">DeSantis asks Florida Supreme Court to weigh in on congressional map</a> Politico: He recently submitted his own map that throws out the district now held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
+ <a href="https://www.politico.com/news/2022/02/01/desantis-florida-weigh-in-on-congressional-map-00004283">Florida halts redistricting effort after DeSantis asks Florida Supreme Court to weigh in</a> Politico: He recently submitted his own map that throws out the district now held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
  <p class="updated_time"> 03:15 PM CT, Feb. 01 </p> 
