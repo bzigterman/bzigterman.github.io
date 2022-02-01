@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
+ <p class="updated_time"> 02:14 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in almost 20 years</a> BBC: A huge landslide triggered by the rains has killed at least 11 people in the capital, officials say. 
+ <p class="updated_time"> 02:11 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs, Out From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
+ <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
  <p class="updated_time"> 01:51 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60203208?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Powers clash at UN Security Council</a> BBC: Moscow's mobilisation near Ukraine's border is the biggest in Europe in decades, the US says. 
  <p class="updated_time"> 01:25 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 12:25 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Deadly flood hits Ecuador's capital Quito</a> BBC: At least 11 people are killed as a torrent of muddy water sweeps through the city after heavy rains. 
  <p class="updated_time"> 11:41 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
@@ -55,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60201894?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Hate crime plea deal rejected by US judge in murder case</a> BBC: The deal would have allowed two of Ahmaud Arbery's killers to serve in "preferred" federal prisons 
- <p class="updated_time"> 04:07 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60209051?at_medium=RSS&at_campaign=KARANGA">US east coast digs out from blizzard</a> BBC: Residents are cheerfully shovelling heaps of snow in sub-zero temperatures after a numbing nor'easter. 
  <p class="updated_time"> 03:55 PM CT, Jan. 31 </p> 
@@ -85,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:11 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60202343?at_medium=RSS&at_campaign=KARANGA">French ambassador expelled from Mali</a> BBC: A row erupts over comments by the foreign minister of France, which has troops deployed in the country. 
- <p class="updated_time"> 02:04 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:30 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60199614?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Four claims from his Spotify podcast fact-checked</a> BBC: The US broadcaster has been criticised for helping spread misinformation. 
  <p class="updated_time"> 01:11 PM CT, Jan. 31 </p> 
@@ -157,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/30/world/europe/britain-russia-ukraine-sanctions-nato.html">Britain Toughens Stance on Russia, as Russia Presses NATO for Assurances</a> NYT: Britain moved to broaden the range of sanctions available if Russia invades Ukraine, as Moscow sent an “urgent demand” to NATO to clarify its stance. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
- <p class="updated_time"> 12:01 PM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076821209/u-s-russia-ukraine-crisis-u-n-security-council">U.S. officials say Russia will face pressure at the U.N. over Ukraine </a> NPR: The U.S. ambassador to the United Nations says the U.N. Security Council will press Russia hard in a Monday session to discuss its massing of troops near Ukraine ahead of a possible invasion. 
  <p class="updated_time"> 10:50 AM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/29/world/europe/bloody-sunday-ireland.html">50 Years On, Bloody Sunday’s Wounds Are Still Felt</a> NYT: A half-century after the killings in Northern Ireland, symbols of division and hostility still hold their potency. 
  <p class="updated_time"> 10:41 AM CT, Jan. 30 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/28/us/politics/egypt-us-human-rights.html">U.S. Blocks $130 Million in Aid for Egypt Over Rights Abuses</a> NYT: The Middle Eastern ally continues to buy billions of dollars worth of military equipment from the United States. 
  <p class="updated_time"> 02:53 PM CT, Jan. 28 </p> 
  <a href="https://www.nytimes.com/2022/01/28/world/vaccine-protest-ottawa-canada.html">Canadian Truck Convoys Head to Ottawa to Protest Vaccine Mandate</a> NYT: Truckers from across the country aim to converge at on Saturday outside of Parliament to protest federal vaccination mandates. 
- <p class="updated_time"> 11:59 AM CT, Jan. 28 </p> 
- <a href="https://www.nytimes.com/2022/01/28/world/europe/nord-stream-2-ukraine-russia.html">U.S. Says Russian Gas Line to Germany Will Be Blocked If War Comes</a> NYT: The pipeline to Germany would expand Russia’s capacity to sell gas to Europe, which is already highly dependent on Russian energy. 
 
 
 </details>
