@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 08:21 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
+ <p class="updated_time"> 08:15 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 07:12 AM CT, Feb. 01 </p> 
@@ -34,8 +36,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
- <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1076936492/america-russia-ukraine-border-invasion">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60211706?at_medium=RSS&at_campaign=KARANGA">Rio Tinto says 21 female workers reported sexual assaults</a> BBC: A report by the mining giant finds sexual assault, racism and bullying systemic in its Australia operations. 
@@ -51,20 +51,22 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 02:14 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in almost 20 years</a> BBC: A huge landslide triggered by the rains has killed at least 11 people in the capital, officials say. 
+ <p class="updated_time"> 02:03 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-economy-braces-for-impact-as-war-with-russia-looms-11643720593">Ukraine's Economy Braces for Impact as War With Russia Looms</a> WSJ: Businesses are pausing investments and the Ukrainian currency is under pressure as Moscow masses troops on the border. 
  <p class="updated_time"> 02:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs, Out From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 01:58 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077183380/chinese-hosts-share-the-lunar-new-year-with-olympic-athletes-personnel-and-media">Chinese hosts share the Lunar New Year with Olympic athletes, personnel and media</a> NPR: Chinese Lunar New Year is being celebrated even within the tightly controlled Beijing Winter Olympics bubble. 
+ <p class="updated_time"> 01:43 AM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-junta-leader-said-eat-more-meat-but-people-are-struggling-to-live-11643719407">Myanmar's Junta Leader Said Eat More Meat, but People Are Struggling to Live</a> WSJ: A year after a military coup took power, Myanmar’s economic crisis is getting worse as incomes plummet, its currency tanks and fuel prices rise. 
  <p class="updated_time"> 01:25 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 11:17 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/israels-military-to-remove-two-officers-over-death-of-elderly-palestinian-american-man-11643710666">Israel's Military to Remove Two Officers Over Death of Elderly Palestinian-American</a> WSJ: The decision follows an Israel Defense Forces investigation into the death of Omar Abdelmajid As’ad, who suffered a heart attack after he was bound, gagged and eventually abandoned in a courtyard. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s dependence on Russian gas, its pacifism and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
- <p class="updated_time"> 10:46 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/shintaro-ishihara-japanese-conservative-and-china-antagonist-dies-at-89-11643706818">Shintaro Ishihara, Japanese Conservative and China Antagonist, Dies at 89</a> WSJ: The firebrand politician co-authored ‘The Japan That Can Say No’ and played a pivotal role in escalating territorial tensions with China. 
  <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077174231/fbi-director-says-the-threat-from-china-is-more-brazen-than-ever-before">FBI director says the threat from China is 'more brazen' than ever before</a> NPR: FBI Director Christopher Wray said the bureau is opening new cases to counter Chinese intelligence operations every 12 hours or so. 
  <p class="updated_time"> 10:22 PM CT, Jan. 31 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60202570?at_medium=RSS&at_campaign=KARANGA">South Africa's railways: How thieves have destroyed the network</a> BBC: During lockdown, criminals stripped parts of the network leaving tracks and stations in ruins. 
  <p class="updated_time"> 06:40 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60144957?at_medium=RSS&at_campaign=KARANGA">The deadly battles that tipped Myanmar into civil war</a> BBC: An upsurge in fighting between the military and armed civilians point to a change from an uprising to civil war. 
- <p class="updated_time"> 06:24 PM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/australia-central-bank-ends-key-pandemic-program-11643693076">Australia Central Bank Ends Key Pandemic Program</a> WSJ: The Reserve Bank of Australia will end a bond-buying program that has anchored its response to the Covid-19 pandemic, given accelerated inflation and a tight job market. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
@@ -127,14 +127,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
- <p class="updated_time"> 10:44 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/nato-leaders-stream-to-ukraine-showing-support-as-russia-masses-troops-11643657492">NATO Leaders Flock to Ukraine as Russia Masses Troops</a> WSJ: The prime ministers of the U.K., the Netherlands and Poland and the Turkish president are scheduled to visit Kyiv in a flurry of diplomatic activity to deter a possible Russian invasion of Ukraine and find a peaceful way out of the crisis. 
  <p class="updated_time"> 09:29 AM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/60198659?at_medium=RSS&at_campaign=KARANGA">What you need to know about the Year of the Tiger</a> BBC: More than a billion people are celebrating the Lunar New Year. 
- <p class="updated_time"> 09:26 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-u-k-prepare-plans-to-sanction-russian-oligarchs-businesses-11643660794">U.S., U.K. Prepare Plans to Sanction Russian Oligarchs, Businesses</a> WSJ: Washington is drafting a list of Kremlin allies that could be blacklisted if Russia invades Ukraine, and the U.K. is proposing a new sanctions law. 
- <p class="updated_time"> 08:09 AM CT, Jan. 31 </p> 
- <a href="https://www.wsj.com/articles/boris-johnsons-downing-street-criticized-in-report-over-parties-during-lockdowns-11643640882">Johnson's Downing Street Criticized in Report Over Parties During Lockdowns</a> WSJ: British police are probing two gatherings held in Prime Minister Boris Johnson’s home during a Covid-19 lockdown, a government report said, strengthening the hand of lawmakers in his Conservative Party seeking his ouster. 
  <p class="updated_time"> 05:50 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/omicron-asia-lunar-new-year.html">Omicron Surge in Asia Restricts Travel for Lunar New Year</a> NYT: The Omicron variant has dampened the plans of tens of millions of people across several Asian countries to travel for the holiday. 
  <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
@@ -195,8 +189,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">Russia denies sending response to U.S. as Ukraine tensions worsen</a> Politico: The production of the U.S. written document followed a month of intense talks meant to resolve the Russia-Ukraine crisis. 
- <p class="updated_time"> 08:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">Russia denies sending response to U.S. as Ukraine tensions worsen</a> Politico: The United States delivered Russia a written document last week addressing Moscow’s security demands. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
