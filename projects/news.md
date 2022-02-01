@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
