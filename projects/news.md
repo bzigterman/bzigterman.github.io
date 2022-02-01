@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:25 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Deadly flood hits Ecuador's capital Quito</a> BBC: At least 11 people are killed as a torrent of muddy water sweeps through the city after heavy rains. 
  <p class="updated_time"> 11:41 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 11:21 PM CT, Jan. 31 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-to-face-u-s-in-rare-u-n-security-council-debate-11643625004">U.S., Russia Square Off in Rare U.N. Security Council Debate</a> WSJ: The U.S. and its allies criticized Russia about its buildup of troops near Ukraine and sought to isolate Moscow on the international stage. Moscow failed to block debate and accused U.S. of “stoking tensions.” 
  <p class="updated_time"> 12:39 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60204868?at_medium=RSS&at_campaign=KARANGA">Anne Frank's betrayal: Dutch publisher apologises for book</a> BBC: The book identifies a person who may have betrayed Anne Frank and her family to the Nazis. 
- <p class="updated_time"> 12:35 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60173504?at_medium=RSS&at_campaign=KARANGA">Former Miss USA dead at 30 </a> BBC: Attorney, TV personality and pageant winner Cheslie Kryst is believed to have taken her own life 
  <p class="updated_time"> 11:58 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076976698/ottawa-protests-covid-vaccine-mandates">Protest against COVID mandates roils Ottawa despite officials' plea for it to end</a> NPR: The so-called "Freedom Convoy" was originally set up to oppose the federal government's vaccine mandate and now participants say they have no plans to leave. 
  <p class="updated_time"> 11:47 AM CT, Jan. 31 </p> 
