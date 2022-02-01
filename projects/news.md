@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:21 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 08:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
+ <p class="updated_time"> 08:20 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60212716?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Zelensky praises allied response</a> BBC: President Volodymyr Zelensky highlights the support of allies and announces an expansion of the army. 
  <p class="updated_time"> 08:15 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 06:28 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
- <p class="updated_time"> 06:24 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60212716?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Zelensky praises allied response</a> BBC: President Volodymyr Zelensky highlights the support of allies and announces an expansion of the army. 
  <p class="updated_time"> 05:27 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
