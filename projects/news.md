@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:59 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 03:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
- <p class="updated_time"> 02:53 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin accuses US of using Ukraine as tool against Russia</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war says Putin</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
+ <p class="updated_time"> 03:06 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">Gunfire in Guinea-Bissau Prompts Fears of Another Coup in Africa</a> NYT: The small coastal country in West Africa has experienced four coups and at least a dozen attempted takeovers since it gained independence from Portugal nearly 50 years ago. 
  <p class="updated_time"> 02:34 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 02:15 PM CT, Feb. 01 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Coup fears as gunfire erupts in capital</a> BBC: West African leaders condemn what they call an attempt to overthrow President Umaro Cissoko Embaló. 
  <p class="updated_time"> 11:54 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077300788/south-africa-covid-isolation-restrictions">South Africa eases most COVID restrictions, citing high population immunity</a> NPR: Up to 80% of South Africans are either vaccinated or have recovered from an infection The only vestige of COVID-19 rules are masks, which are still required in public spaces and on public transport. 
- <p class="updated_time"> 11:49 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">Gunfire in Guinea-Bissau Prompts Fears of Another Coup in Africa</a> NYT: The small coastal country in West Africa has experienced four coups and at least a dozen attempted takeovers since it gained independence from Portugal nearly 50 years ago. 
  <p class="updated_time"> 11:43 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077291879/israel-apartheid-state-amnesty-international">Israel is an apartheid state, Amnesty International says</a> NPR: "The Israeli government is committing the crime against humanity of apartheid against Palestinians," the rights group said. Israel's foreign ministry says the new Amnesty report is anti-Semitic. 
  <p class="updated_time"> 11:36 AM CT, Feb. 01 </p> 
@@ -171,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60173061?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: How will the Covid bubbles work?</a> BBC: To combat the risk of Covid, an army of volunteers and security will implement strict separation bubbles. 
  <p class="updated_time"> 06:01 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
- <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/world/europe/lithuania-belarus-potash.html">Obscure but Crucial Commodity Fuels Geopolitical Tussle in Eastern Europe</a> NYT: Lithuanian efforts to stop potash, a key fertilizer ingredient, from Belarus from crossing its territory to punish the country’s authoritarian leader may play into Russia’s hands. 
  <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
@@ -190,8 +188,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
  <p class="updated_time"> 03:15 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/new-jersey-investigation-caddle-pacs-00004170">New Jersey grand jury investigated PACs, nonprofits Caddle operated</a> Politico: Sean Caddle’s super PACs and nonprofits helped shift control of Elizabeth Board of Education, from opponents of former state Sen. Raymond Lesniak (D-Union) and Elizabeth Mayor Chris Bollwage to their allies. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 02:08 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-senate-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden chooses a nominee, Mr. Jones will serve as a “sherpa,” introducing her to senators and preparing her for hearings. 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden chooses a nominee, Mr. Jones will serve as a “sherpa,” introducing her to senators and preparing her for hearings. 
  <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
@@ -276,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
- <p class="updated_time"> 10:45 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/30/business/economy/inflation-bonds-treasury-yields.html">Inflation and Deficits Don’t Dim the Appeal of U.S. Bonds</a> NYT: Treasury rates remain strikingly low, partly because of the safety government debt offers corporations and retirees. Whether that endures is crucial to federal spending. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 08:44 AM CT, Jan. 31 </p> 
