@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:13 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 05:28 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Live Updates: Putin Hosts Hungary’s Prime Minister as Leaders of U.K. and Poland Travel to Ukraine</a> NYT: A day after the United States and Russia faced off at the United Nations, the two countries’ top diplomats were expected to speak by telephone. 
  <p class="updated_time"> 04:49 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60090865?at_medium=RSS&at_campaign=KARANGA">All US federal prisons in lockdown after deadly gang fight</a> BBC: The rare nationwide lockdown of federal prisons comes after two inmates died in a fight in Texas. 
@@ -143,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60198331?at_medium=RSS&at_campaign=KARANGA">Pillow fighting enters the professional ring</a> BBC: The first pillow fighting champions have been crowned at a competition in Florida in the US. 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076012108/from-stalin-to-putin-ukraine-is-still-trying-to-break-free-from-moscow">From Stalin to Putin, Ukraine is still trying to break free from Moscow</a> NPR: Josef Stalin caused a famine when he tried to remake Ukraine's farms. Vladimir Putin is threatening to invade Ukraine — again. For a century, Ukraine has been trying to escape Moscow's grip. 
- <p class="updated_time"> 02:29 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/middleeast/isis-syria-iraq.html">ISIS Siege of Syria Prison Proves It's Still a Threat</a> NYT: The Islamic State may no longer be able to control territory, but it has shown in Syria and Iraq that it can still pull off opportunistic military operations. 
  <p class="updated_time"> 02:00 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/africa/senegal-plastic-waste-recycling.html">As Waste Rises in Senegal, So Does Plastic Recycling</a> NYT: Plagued by plastic pollution, Senegal wants to replace pickers at the garbage dump with a formal recycling system that takes advantage of the new market for plastics. 
  <p class="updated_time"> 01:57 AM CT, Jan. 31 </p> 
