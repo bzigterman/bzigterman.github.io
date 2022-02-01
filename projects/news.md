@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
+ <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">First Anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the February 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
+ <p class="updated_time"> 02:34 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 02:14 AM CT, Feb. 01 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60211703?at_medium=RSS&at_campaign=KARANGA">NZ to allow in pregnant reporter who sought Taliban help</a> BBC: Wellington offers an entry spot to Charlotte Bellis following wide outcry over her struggle to return. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 11:41 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
  <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 10:42 PM CT, Jan. 31 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/29/world/asia/north-korea-missile-test.html">North Korea’s Latest Missile Test Appears to Be Its Boldest in Years</a> NYT: Flight data indicates that the launch on Sunday was the North’s most powerful since 2017. South Korean analysts expect further escalations from Kim Jong-un. 
  <p class="updated_time"> 04:40 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076839081/northern-ireland-50-years-bloody-sunday">Northern Ireland marks 50 years since the Bloody Sunday killings</a> NPR: British soldiers shot and killed 13 people and wounded others during a 1972 civil rights protest. The shootings exacerbated the conflict in Northern Ireland, which left thousands dead over decades. 
- <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076844656/as-khmer-rouge-tribunal-winds-down-cambodian-experts-see-small-measure-of-justic">As Khmer Rouge tribunal winds down, Cambodian experts see 'small measure of justice'</a> NPR: The Khmer Rouge killed as many as 2 million Cambodians in the 70s. Decades later, a tribunal was set up to help find justice. 15 years later, it's ending having found just three people guilty. 
  <p class="updated_time"> 03:33 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/world/middleeast/isis-prison-syria.html">U.S. Allies Retake Control of Prison in Syria, Subduing ISIS Fighters</a> NYT: The fighting was the most intense urban warfare involving American troops in Iraq and Syria since the fall of the Islamic State. 
  <p class="updated_time"> 03:21 PM CT, Jan. 30 </p> 
@@ -313,7 +313,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Election Deniers Are Running for Secretary of State Across the Country</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
+ <a href="https://www.nytimes.com/2022/01/30/us/politics/election-deniers-secretary-of-state.html">Campaigning to Oversee Elections, While Denying the Last One</a> NYT: Brazenly partisan candidates who insist that Donald Trump won the 2020 election are transforming races for the once-obscure office of secretary of state. 
  <p class="updated_time"> 01:02 PM CT, Jan. 30 </p> 
  <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html">For Ketanji Brown Jackson, View of Criminal Justice Was Shaped by Family</a> NYT: The story of an uncle’s cocaine conviction formed only part of Judge Jackson’s understanding of the system’s complexities. She is now seen as a contender to be President Biden’s Supreme Court pick. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
