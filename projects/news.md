@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism-report.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 01:49 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
  <p class="updated_time"> 01:49 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungarian leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 01:40 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
- <p class="updated_time"> 01:35 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism-report.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 01:13 PM CT, Feb. 01 </p> 
@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:17 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077282498/lightning-megaflash-record">A pair of monster lightning strikes have shattered records for distance and duration </a> NPR: One record-breaking flash covered a horizontal distance of about 477 miles; another lasted about 17 seconds. 
  <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077302869/belgium-right-to-disconnect-government-workers">A new Belgian law grants certain workers the 'right to disconnect' after hours</a> NPR: Thousands of federal civil servants will no longer have to answer calls or emails from their bosses outside of working hours. The law aims to address burnout exacerbated by the pandemic. 
+ <a href="https://www.npr.org/2022/02/01/1077302869/belgium-right-to-disconnect-government-workers">In Belgium, government workers no longer have to answer the boss's emails after hours</a> NPR: Thousands of federal civil servants will no longer have to answer calls or emails from their bosses outside of working hours. The law aims to address burnout exacerbated by the pandemic. 
  <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Coup fears as gunfire erupts in capital</a> BBC: West African leaders condemn what they call an attempt to overthrow President Umaro Cissoko Embaló. 
  <p class="updated_time"> 11:54 AM CT, Feb. 01 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:08 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-senate-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden chooses a nominee, Mr. Jones will serve as a “sherpa,” introducing her to senators and preparing her for hearings. 
  <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
@@ -197,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">‘Russian concerns were basically ignored’: Putin slams U.S. response to Moscow’s security demands</a> Politico: Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov discussed the written document that Washington delivered to Moscow last week. 
+ <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">‘Russian concerns were basically ignored’: Putin slams U.S. response to Moscow’s security demands</a> Politico: Meanwhile, the top U.S. and Russian diplomats discussed the written document that Washington delivered to Moscow last week. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
- <p class="updated_time"> 07:47 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
  <p class="updated_time"> 07:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-grip-republicans-polls.html">Trump’s Grip on G.O.P. Faces New Strains</a> NYT: Shifts in polls of Republicans, disagreements on endorsements and jeers over vaccines hint at daylight between the former president and the right-wing movement he spawned. 
  <p class="updated_time"> 07:25 PM CT, Jan. 31 </p> 
@@ -302,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
- <p class="updated_time"> 08:20 PM CT, Jan. 30 </p> 
- <a href="https://www.nytimes.com/2022/01/30/us/politics/trump-speech-texas.html">Trump Says He Would Consider Pardons for Jan. 6 Defendants if Elected</a> NYT: In a speech in Texas, the former president also urged supporters to stage protests if prosecutors in Atlanta and New York took action against him. 
  <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
  <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
  <p class="updated_time"> 03:42 PM CT, Jan. 30 </p> 
