@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says NATO is Ignoring Russia’s Concerns on Ukraine</a> NYT: The Russian president spoke on the Ukraine crisis for the first time since February at a news conference. Top diplomats from Washington and Moscow spoke by telephone but reported no progress. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
+ <p class="updated_time"> 10:48 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Apologizes for Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was "extraordinary". 
+ <p class="updated_time"> 10:39 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60219964?at_medium=RSS&at_campaign=KARANGA">Woman applauded after giving birth on transatlantic flight</a> BBC: A Ghanaian doctor on the flight helped to deliver the baby in the plane's business class area. 
+ <p class="updated_time"> 10:27 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 10:18 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60215200?at_medium=RSS&at_campaign=KARANGA">Denmark Covid restrictions lifted despite increase in cases</a> BBC: It is the first EU country to drop nearly all restrictions, despite relatively high case numbers. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -14,15 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:12 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in the worst crime in modern Norwegian history, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:04 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow spoke by telephone. 
- <p class="updated_time"> 10:04 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/viktor-orban-putin.html">Orban, Visiting Moscow, Is Accused of Stoking Acrimony With European Union</a> NYT: Prime Minister Viktor Orban of Hungary is perhaps the closest ally of President Vladimir V. Putin within the 27-member bloc. 
- <p class="updated_time"> 10:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Says Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg later apologized after her comments on an episode of her show “The View,” which come amid growing ignorance about the Holocaust and rising antisemitism. 
- <p class="updated_time"> 09:59 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
- <p class="updated_time"> 09:56 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle inventor 'overwhelmed' as New York Times buys game</a> BBC: Briton Josh Wardle sells his online game sensation to the New York Times for a seven-figure sum. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 08:56 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
- <p class="updated_time"> 08:53 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 08:52 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60212716?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine tensions: Zelensky praises allied response</a> BBC: President Volodymyr Zelensky highlights the support of allies and announces an expansion of the army. 
  <p class="updated_time"> 08:50 AM CT, Feb. 01 </p> 
@@ -58,7 +60,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why should Americans care about Ukraine? The answer is simple</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based", says Ukraine's foreign minister. 
+ <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why Americans should care about the Russia-Ukraine standoff</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based," says Ukraine's foreign minister. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
  <p class="updated_time"> 03:39 AM CT, Feb. 01 </p> 
@@ -93,12 +95,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077174231/fbi-director-says-the-threat-from-china-is-more-brazen-than-ever-before">FBI director says the threat from China is 'more brazen' than ever before</a> NPR: FBI Director Christopher Wray said the bureau is opening new cases to counter Chinese intelligence operations every 12 hours or so. 
  <p class="updated_time"> 10:22 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60209010?at_medium=RSS&at_campaign=KARANGA">Lunar New Year 2022: Millions start celebrating</a> BBC: This year marks the change from the Year of the Ox to the Year of the Tiger. 
- <p class="updated_time"> 10:04 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60210863?at_medium=RSS&at_campaign=KARANGA">Lunar New Year: Covid thwarts travel plans for millions</a> BBC: An estimated 1.18 billion trips will be made across China, a far cry from pre-pandemic figures. 
  <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
- <p class="updated_time"> 09:31 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60209527?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg slammed for saying Holocaust not about race</a> BBC: The American TV personality later apologises after saying the Holocaust "was not about race". 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
@@ -119,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064930/a-bridge-separates-2-realities-at-the-frontier-of-russian-occupied-ukraine">A bridge separates 2 realities at the frontier of Russian-occupied Ukraine</a> NPR: Russia is threatening to invade Ukraine. But in the eastern region of Donbas, war has been underway since Russia-backed separatists moved in and declared breakaway republics in 2014. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
- <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60202050?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Trudeau calls trucker protest an 'insult to truth'</a> BBC: Police warned of "traffic, noise and safety issues" in Ottawa as a vaccine mandate protest continues. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Trudeau Condemns 'Freedom Convoy' Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
@@ -270,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-inflation-economy.html">Fed Officials Make It Clear on Inflation: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
- <p class="updated_time"> 04:16 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/judge-rejects-plea-deal-man-killed-ahmaud-arbery-00003880">Judge rejects plea deal for man who killed Ahmaud Arbery</a> Politico: A federal judge rejected a plea agreement Monday that would have averted a hate crimes trial for the man convicted of murdering Ahmaud Arbery. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:39 PM CT, Jan. 31 </p> 
