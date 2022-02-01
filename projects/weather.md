@@ -4,7 +4,7 @@ title: Weather
 permalink: /projects/weather/
 ---
 
-## Severe Weather Outlook
+## Severe Thunderstorm Outlook
 
 ![](https://www.spc.noaa.gov/products/activity_loop.gif)
 

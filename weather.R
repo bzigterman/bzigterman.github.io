@@ -23,7 +23,7 @@ title: Weather
 permalink: /projects/weather/
 ---
 
-## Severe Weather Outlook
+## Severe Thunderstorm Outlook
 
 ",severe_weather_outlook_url,"
 
