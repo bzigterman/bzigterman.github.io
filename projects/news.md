@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:16 PM CT, Feb. 01 </p> 
+ <p class="updated_time"> 03:28 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: Gunmen are said to have detained the president but he says the situation is now under control. 
+ <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
+ <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 03:12 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war says Putin</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
  <p class="updated_time"> 03:06 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">Gunfire in Guinea-Bissau Prompts Fears of Another Coup in Africa</a> NYT: The small coastal country in West Africa has experienced four coups and at least a dozen attempted takeovers since it gained independence from Portugal nearly 50 years ago. 
  <p class="updated_time"> 02:34 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
- <p class="updated_time"> 02:15 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 02:00 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism-report.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 01:40 PM CT, Feb. 01 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077282498/lightning-megaflash-record">A pair of monster lightning strikes have shattered records for distance and duration </a> NPR: One record-breaking flash covered a horizontal distance of about 477 miles; another lasted about 17 seconds. 
  <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077302869/belgium-right-to-disconnect-government-workers">In Belgium, government workers no longer have to answer the boss's emails after hours</a> NPR: Thousands of federal civil servants will no longer have to answer calls or emails from their bosses outside of working hours. The law aims to address burnout exacerbated by the pandemic. 
- <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Coup fears as gunfire erupts in capital</a> BBC: West African leaders condemn what they call an attempt to overthrow President Umaro Cissoko Embaló. 
  <p class="updated_time"> 11:54 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077300788/south-africa-covid-isolation-restrictions">South Africa eases most COVID restrictions, citing high population immunity</a> NPR: Up to 80% of South Africans are either vaccinated or have recovered from an infection The only vestige of COVID-19 rules are masks, which are still required in public spaces and on public transport. 
  <p class="updated_time"> 11:43 AM CT, Feb. 01 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
- <p class="updated_time"> 08:56 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 08:50 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60211539?at_medium=RSS&at_campaign=KARANGA">Ecuador: Deadly landslide after heaviest rainfall in years</a> BBC: A huge landslide triggered by the rain has killed at least 16 people in the capital, officials say. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
