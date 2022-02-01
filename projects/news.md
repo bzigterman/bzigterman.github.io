@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin Says the U.S. Wants to Push Russia into War</a> NYT: The Russian president blamed the United States for the crisis in Ukraine, saying Americans were goading the Kremlin to start a conflict as a pretext for enacting harsh sanctions. 
+ <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians prepare as war with Russia threatens</a> BBC: Many Ukrainians are not convinced Russia will invade, but all the war talk is unsettling. 
  <p class="updated_time"> 04:26 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved off a coup. 
  <p class="updated_time"> 04:23 PM CT, Feb. 01 </p> 
@@ -173,6 +173,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60173061?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: How will the Covid bubbles work?</a> BBC: To combat the risk of Covid, an army of volunteers and security will implement strict separation bubbles. 
  <p class="updated_time"> 06:01 PM CT, Jan. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
+ <p class="updated_time"> 01:20 PM CT, Jan. 30 </p> 
+ <a href="https://www.nytimes.com/2022/01/30/world/europe/putin-top-advisers-ukraine.html">The Hard-Line Russian Advisers Who Have Putin’s Ear</a> NYT: Three reactionary security officials dedicated to “traditional values” and restoring Soviet glory will figure prominently in the decision whether to invade Ukraine. 
  <p class="updated_time"> 06:02 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
 
@@ -322,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/30/1076798457/biden-may-fulfill-a-campaign-promise-to-black-voters-with-his-supreme-court-nomi">Biden may fulfill a campaign promise to Black voters with his Supreme Court nominee</a> NPR: With President Biden set to nominate the first Black woman to the U.S. Supreme Court, Juana Summers discusses his commitments to Black voters with voting rights experts Arisha Hatch and Nse Ufot. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
+ <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
