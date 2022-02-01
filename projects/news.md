@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:56 AM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: India announces mammoth infrastructure spend</a> BBC: The allocations are part of the annual budget which comes amid low demand, unemployment and inflation. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/business/migrant-worker-poverty-in-china.html">Migrant Worker’s Tale of Inequality Grips China, Then Is Erased</a> NYT: A man with Covid revealed a parallel universe to well-off Chinese and became a symbol of inequality. The government found him inconvenient to its narrative. 
  <p class="updated_time"> 06:16 PM CT, Jan. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60208463?at_medium=RSS&at_campaign=KARANGA">Wordle: New York Times buys popular word game</a> BBC: The New York Times says it bought the game from its creator for a price “in the low seven figures". 
- <p class="updated_time"> 06:14 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60194274?at_medium=RSS&at_campaign=KARANGA">Budget 2022: Can India's budget address its uneven recovery?</a> BBC: The budget arrives as India's economy battles low demand, rising unemployment and inflation. 
  <p class="updated_time"> 04:37 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077069002/russia-united-states-ukraine-un-security-council">U.S. and Russia share tense exchange at U.N. Security Council meeting</a> NPR: At Monday's U.N. Security Council meeting, the U.S. hoped to get an explanation from Russia of exactly what it was doing regarding Ukraine. But instead, the meeting was full of tense exchanges. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
