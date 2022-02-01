@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:37 AM CT, Feb. 01 </p> 
+ <p class="updated_time"> 07:54 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/01/world/ukraine-russia-us">Ukraine Live Updates: Putin to Hold News Conference Amid Flurry of Diplomacy</a> NYT: A day after the United States and Russia faced off at the United Nations, President Vladimir V. Putin is likely to address the Ukraine crisis for the first time since December. The top diplomats from Washington and Moscow are expected to speak by telephone. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-60168422?at_medium=RSS&at_campaign=KARANGA">Using food waste to make clean drinking water</a> BBC: How old bones and vegetable peelings are being recycled to make a water filter 
  <p class="updated_time"> 06:01 PM CT, Jan. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-60173066?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Five things to know</a> BBC: Covid bubbles, artificial snow and human rights are making 2022's Winter Olympics hit the headlines. 
- <p class="updated_time"> 05:38 PM CT, Jan. 29 </p> 
- <a href="https://www.nytimes.com/2022/01/29/world/europe/sergio-mattarella-italy-president.html">Italian Lawmakers Re-Elect Sergio Mattarella as President, Preserving Status Quo</a> NYT: Mr. Mattarella has presided over a chaotic seven years in which the country swung wildly from the left to the right, acting as the guardrails of Italy’s democracy. 
  <p class="updated_time"> 01:59 PM CT, Jan. 29 </p> 
  <a href="https://www.nytimes.com/2022/01/29/us/politics/russia-sanctions-economy.html">U.S. Sanctions Aimed at Russia Could Take a Wide Toll</a> NYT: The boldest measures that President Biden is threatening to deter an invasion of Ukraine could roil the entire Russian economy — but also those of other nations. 
  <p class="updated_time"> 01:37 PM CT, Jan. 29 </p> 
@@ -198,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">Russia denies sending response to U.S. as Ukraine tensions worsen</a> Politico: The production of the U.S. written document followed a month of intense talks meant to resolve the Russia-Ukraine crisis. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
@@ -222,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:09 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Entered 2022 With $122 Million in the Bank</a> NYT: The former president’s overall war chest was more than double the cash on hand of the Republican National Committee. 
- <p class="updated_time"> 10:10 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:26 PM CT, Jan. 31 </p> 
