@@ -226,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
- <p class="updated_time"> 08:37 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/crisis-text-line-ends-data-sharing-00004001">Crisis Text Line ends data-sharing relationship with for-profit spinoff</a> Politico: "We understand that you don’t want Crisis Text Line to share any data," the suicide hotline nonprofit wrote in a statement Monday. 
  <p class="updated_time"> 08:35 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/florida-voting-laws-elections-00003952">Civil rights groups testify Florida’s controversial voting law suppresses voter registration efforts</a> Politico: In the next two weeks, university professors, state and local election officials and Democratic legislators are expected to testify about the controversial new law. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
