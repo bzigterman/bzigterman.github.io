@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:22 PM CT, Feb. 02 </p> 
+ <p class="updated_time"> 02:34 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 02:58 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/white-house-not-using-imminent-russia-threat-00004820">White House stops using ‘imminent’ to describe Russian threat</a> Politico: “I think it sent a message that we weren’t intending to send,” said White House press secretary Jen Psaki. 
+ <p class="updated_time"> 02:35 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden Presents Ambitious Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program, but experts expressed doubt that it would be possible to reduce the death rate so profoundly. 
  <p class="updated_time"> 02:26 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 09:03 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
- <p class="updated_time"> 08:44 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Ambitious Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/washington-nfl-team-new-name-commanders-00004575">Washington’s NFL team unveils new name as Commanders</a> Politico: The new name comes 18 months after the franchise dropped its old moniker following decades of criticism that it was offensive to Native Americans. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
