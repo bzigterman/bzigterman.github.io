@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:38 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga to enter lockdown after Covid cases detected</a> BBC: Two cases were detected at a port where humanitarian aid has been arriving after the volcano and tsunami. 
  <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA">India says it will launch digital rupee as soon as this year</a> BBC: It is the latest major economy to announce its own virtual currency, as China trials the digital yuan. 
  <p class="updated_time"> 12:05 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash with U.S. Over Ukraine, Putin Has a Lifeline from China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a champion of autocracy. But China moves cautiously during crises. 
- <p class="updated_time"> 11:41 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga to enter lockdown after two Covid cases detected</a> BBC: Both cases were detected at a port where humanitarian aid has been arriving after the volcano and tsunami. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved one off. 
  <p class="updated_time"> 10:23 PM CT, Feb. 01 </p> 
