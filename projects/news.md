@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refuse to comply with the mandate. 
+ <p class="updated_time"> 01:40 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 01:40 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 01:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 01:31 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
- <p class="updated_time"> 01:23 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 01:07 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-60233899?at_medium=RSS&at_campaign=KARANGA">Omicron BA.2: What we know about the Covid sub-variant</a> BBC: It is highly transmissible and spreading rapidly across the world, so how concerned should we be? 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
- <p class="updated_time"> 10:39 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 10:33 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
  <p class="updated_time"> 10:25 AM CT, Feb. 02 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
+ <p class="updated_time"> 08:41 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 07:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60227547?at_medium=RSS&at_campaign=KARANGA">'Electrifying' Vincent van Gogh self-portrait exhibition hailed by critics</a> BBC: Most major art critics award five stars to the new show at London's Courtauld Gallery. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
- <p class="updated_time"> 03:58 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
