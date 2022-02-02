@@ -208,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
+ <p class="updated_time"> 02:15 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/directed-energy-unsolved-havana-syndrome-00004799">Directed-energy could explain unsolved ‘Havana Syndrome’ cases, U.S. intelligence panel finds</a> Politico: An intelligence community panel of experts said that some cases could be explained by electromagnetic or ultrasonic energy. 
  <p class="updated_time"> 02:07 PM CT, Feb. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:54 PM CT, Feb. 02 </p> 
