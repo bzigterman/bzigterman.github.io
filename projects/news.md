@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Winter Olympics Opening Ceremony?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday February 1st. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
- <p class="updated_time"> 03:28 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
- <p class="updated_time"> 03:08 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
+ <p class="updated_time"> 03:02 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60155638?at_medium=RSS&at_campaign=KARANGA">Brazil violence: Three arrested over killing of Congolese migrant</a> BBC: Three people have been arrested over the killing on an upmarket beach that was captured on camera. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 01:48 AM CT, Feb. 02 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:36 PM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: The Russian leader said the U.S. and its European allies had “basically ignored” Moscow’s demands for security assurances but expressed a willingness to continue talks. 
- <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60197927?at_medium=RSS&at_campaign=KARANGA">Syria war: Babies die from cold in storm-hit Idlib camps</a> BBC: Hundreds of thousands of displaced people are living in tents without warm clothes and heating. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077289344/russia-ukraine-putin-boris-johnson">The U.S. and Russia are still far apart on Ukraine, Putin says</a> NPR: The Russian leader's remarks came as diplomatic efforts continue. British Prime Minister Boris Johnson visited Kyiv and Secretary of State Antony Blinken spoke with his Russian counterpart. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
@@ -182,6 +184,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
+ <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077522571/after-voting-to-impeach-trump-rep-rice-faces-primary-challengers">After voting to impeach Trump, Rep. Rice faces primary challengers</a> NPR: South Carolina Congressman Tom Rice, one of the Republicans who voted to impeach former President Donald Trump, now faces a slew of primary challengers. 
+ <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077522557/senators-near-a-deal-on-sanctions-against-russia-if-it-invades-ukraine">Senators near a deal on sanctions against Russia if it invades Ukraine </a> NPR: A bipartisan group of Senators is getting close to finalizing a Russia sanctions bill to deter any aggressive action from Ukraine's eastern neighbor. 
+ <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077522543/biden-task-force-makes-progress-reuniting-families-separated-at-the-border">Biden task force makes progress reuniting families separated at the border</a> NPR: NPR's Leila Fadel talks to Homeland Security Secretary Alejandro Mayorkas about the progress made reuniting those separated at the southern border by Trump-era policies. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077065644/abortion-critical-race-theory--banned-books-jon-ronson-podcast">When did America's culture wars begin, and how can they end? Jon Ronson has answers</a> NPR: America's culture wars are creating a world of "magnificent heroes and sickening villains" as people fight a fierce battle in black and white, says writer and podcaster Jon Ronson. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
  <p class="updated_time"> 10:29 PM CT, Feb. 01 </p> 
@@ -252,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/trump-campaign-filing.html">Trump Entered 2022 With $122 Million in the Bank</a> NYT: The former president’s overall war chest was more than double the cash on hand of the Republican National Committee. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
- <p class="updated_time"> 09:26 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/media/rachel-maddow-msnbc-hiatus.html">Rachel Maddow Is Taking a Hiatus at MSNBC</a> NYT: The anchor is expected to be off until April, leaving MSNBC with a hole in the coveted 9 p.m. weeknight time slot. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
@@ -274,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
- <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-inflation-economy.html">Fed Officials Make It Clear on Inflation: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
  <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
@@ -308,22 +318,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
- <p class="updated_time"> 04:04 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076895942/for-the-first-time-the-u-s-allocates-big-money-for-animal-road-crossings">For the first time, the U.S. allocates big money for Animal Road Crossings</a> NPR: Millions of animals die on roads, and the new infrastructure law includes money for wildlife crossings to keep them safe. We visit the site where the first major urban crossing will soon be built. 
  <p class="updated_time"> 06:24 PM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/new-york-democrats-redistricting-00003503">New York Democrats could pick up 3 congressional seats under new maps</a> Politico: New York’s 27-member congressional delegation currently has 19 Democrats and eight Republicans. That delegation is due to decrease to 26 members after the state’s population grew less rapidly than other states’. 
- <p class="updated_time"> 04:09 PM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076844649/michigan-state-official-says-w-va-comments-go-against-2022-misinformation-fight">Michigan state official says W.Va. comments go against 2022 misinformation fight</a> NPR: Michigan Secretary of State Jocelyn Benson, a Democrat, responds to remarks made by West Virginia's Republican Secretary of State Mac Warner regarding the 2020 election. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: ”There is no affirmative action component if you pick her," the Republican senator said. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
- <p class="updated_time"> 08:00 AM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076527428/from-washington-to-trump-to-biden-new-presidents-meet-unwanted-foreign-crises">From Washington to Trump to Biden, new presidents meet unwanted foreign crises</a> NPR: From George Washington's warning against "foreign entanglements" to Donald Trump's "America First," the pledge to keep the focus close to home has been almost as constant as the oath of office itself. 
- <p class="updated_time"> 07:25 AM CT, Jan. 30 </p> 
- <a href="https://www.npr.org/2022/01/30/1076798506/politics-chat-u-s-troops-could-go-to-help-ukraine-black-woman-may-replace-breyer">Politics chat: U.S. troops could go to help Ukraine; Black woman may replace Breyer</a> NPR: We look at President Biden's options with Russian troops amassed at Ukraine's border, as well as his opportunity to appoint the first Black female justice to the U.S. Supreme Court. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
