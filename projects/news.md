@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:08 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">A 104-year-old COVID survivor has died. He wanted to keep people safe until the end</a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
- <p class="updated_time"> 11:05 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -184,6 +184,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they're not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/felon-voting-rights-states-00004372">Felon voting rights failed in Washington — but not in the states</a> Politico: The number of states automatically restoring voting rights has increased by 50 percent since after the 2018 election and others could follow this year. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">15M people could lose Medicaid when pandemic ends and states aren’t sure they can help them all</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522571/after-voting-to-impeach-trump-rep-rice-faces-primary-challengers">After voting to impeach Trump, Rep. Rice faces primary challengers</a> NPR: South Carolina Congressman Tom Rice, one of the Republicans who voted to impeach former President Donald Trump, now faces a slew of primary challengers. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
@@ -240,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
- <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">‘Russian concerns were basically ignored’: Putin slams U.S. response to Moscow’s security demands</a> Politico: Meanwhile, the top U.S. and Russian diplomats discussed the written document that Washington delivered to Moscow last week. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
@@ -254,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1076349762/oath-keepers-charged-capitol-riot-seditious-conspiracy">Oath Keepers face seditious conspiracy charges. DOJ has mixed record with such cases</a> NPR: In the biggest Capitol riot case yet, 11 Oath Keepers stand charged of seditious conspiracy. The government faces steep challenges in proving them guilty of the hefty and rare charges. 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/01/31/crypto-wyoming-arizona-tax-payments-00003910">A crypto breakthrough? Western states consider taking digital currency</a> Politico: Proposals in Wyoming and Arizona to accept tax payments in Bitcoin and other cryptocurrencies would undermine the dollar’s unique status. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
@@ -332,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
+ <p class="updated_time"> 03:30 PM CT, Jan. 29 </p> 
+ <a href="https://www.politico.com/news/2022/01/29/pennsylvania-democrats-decline-to-endorse-senate-00003442">Pennsylvania Dems decline to endorse in Senate primary</a> Politico: The non-endorsement is a disappointment for Rep. Conor Lamb. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
