@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 06:06 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
- <p class="updated_time"> 05:45 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 05:23 AM CT, Feb. 02 </p> 
@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559">Jan. 6 committee member: Trump 'absolutely’ tampering with witnesses</a> Politico: Trump has repeatedly suggested in recent days that he may pardon the Capitol rioters or other people associated with the insurrection if he wins a second term as president. 
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
@@ -195,7 +197,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522557/senators-near-a-deal-on-sanctions-against-russia-if-it-invades-ukraine">Senators near a deal on sanctions against Russia if it invades Ukraine </a> NPR: A bipartisan group of Senators is getting close to finalizing a Russia sanctions bill to deter any aggressive action from Ukraine's eastern neighbor. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077522543/biden-task-force-makes-progress-reuniting-families-separated-at-the-border">Biden task force makes progress reuniting families separated at the border</a> NPR: NPR's Leila Fadel talks to Homeland Security Secretary Alejandro Mayorkas about the progress made reuniting those separated at the southern border by Trump-era policies. 
+ <a href="https://www.npr.org/2022/02/02/1077522543/biden-task-force-makes-progress-reuniting-families-separated-at-the-border">Biden task force makes progress reuniting families separated at the border</a> NPR: NPR's Leila Fadel talks to Homeland Security Secretary Alejandro Mayorkas about the process of reuniting families separated at the southern border by Trump-era policies. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
@@ -209,11 +211,11 @@ permalink: /projects/news/
  <p class="updated_time"> 09:22 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Top Security Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 07:42 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
  <p class="updated_time"> 07:25 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 07:23 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden picks a nominee, Mr. Jones will introduce her to senators and prepare her for hearings. 
  <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/26/supreme-court-confirmation-congress-00002420">Supreme Court confirmation fight to make history in 50-50 Senate</a> Politico: Democrats don't need Republicans' support to confirm Justice Stephen Breyer's successor, but Majority Leader Chuck Schumer still has his work cut out for him. 
  <p class="updated_time"> 08:16 AM CT, Jan. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/26/democrats-lean-on-that-other-rules-change-00002226">Democrats lean on that other rules change</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:19 AM CT, Jan. 26 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/26/ominous-signs-for-ukraine-00002208"> Ominous signs for Ukraine</a> Politico Playbook: And new polling shows a narrow race between Biden and Trump in 2024. 
 
 
 </details>
