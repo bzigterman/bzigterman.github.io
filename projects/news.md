@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:37 AM CT, Feb. 02 </p> 
+ <p class="updated_time"> 11:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 11:35 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
  <p class="updated_time"> 11:32 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, in an intensified migration scramble that is stoking fears in Europe. 
  <p class="updated_time"> 11:31 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">US boosts troops in Europe amid fears Russia may invade Ukraine</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
+ <p class="updated_time"> 11:31 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60229206?at_medium=RSS&at_campaign=KARANGA">Turkey-Greece border: Twelve migrants die in freezing conditions</a> BBC: Turkey accuses Greek border guards of turning migrants back in harsh conditions. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:05 AM CT, Feb. 02 </p> 
@@ -62,7 +66,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:11 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716">China Fortifies Its Borders With a 'Southern Great Wall,' Citing Covid-19</a> WSJ: Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. ‘Safeguard the sacred land.’ 
+ <a href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716">China Fortifies Its Borders With a 'Southern Great Wall,' Citing Covid-19</a> WSJ: Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. “Safeguard the sacred land.” 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
@@ -85,20 +89,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 01:48 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga enters Covid lockdown after aid delivered</a> BBC: Cases are detected among port workers as humanitarian aid arrives after a volcano and tsunami. 
- <p class="updated_time"> 01:22 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/eurozone-inflation-rises-to-fresh-record-against-expectations-11643799121">Eurozone Inflation Rises to Fresh Record, Against Expectations</a> WSJ: The first reading of 2022 comes as an unwelcome surprise for policy makers at the European Central Bank who have said they don’t expect to raise their key interest rate this year. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
- <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA">India says it will launch digital rupee as soon as this year</a> BBC: It is the latest major economy to announce its own virtual currency, as China trials the digital yuan. 
  <p class="updated_time"> 12:20 AM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-jet-fighters-warship-to-u-a-e-after-houthi-attacks-11643800847">U.S. to Send Jet Fighters, Warship to U.A.E. After Houthi Attacks</a> WSJ: The move comes after the Iran-backed group launched a series of missiles and drones at the Persian Gulf nation. 
  <p class="updated_time"> 11:26 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60225862?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Torch relay gets under way in Beijing</a> BBC: More than 1,000 torchbearers will carry the Olympic flame before Friday's opening ceremony. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved one off. 
- <p class="updated_time"> 10:23 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60225075?at_medium=RSS&at_campaign=KARANGA">US unveils new policy for elite transgender swimmers</a> BBC: Testosterone tests will determine whether transgender women swimmers have an unfair advantage. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 08:50 PM CT, Feb. 01 </p> 
@@ -282,6 +280,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
@@ -356,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
