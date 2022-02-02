@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Winter Olympics Opening Ceremony?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday February 1st. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
  <p class="updated_time"> 03:28 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
@@ -135,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
- <p class="updated_time"> 02:37 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077197098/first-anniversary-of-myanmar-military-coup-marked-by-strike-and-international-co">1st anniversary of Myanmar military coup marked by strike and international concern</a> NPR: The anniversary of the Feb. 1, 2021, coup prompted a nationwide "silent strike" by those inside the country who oppose the military's takeover. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
