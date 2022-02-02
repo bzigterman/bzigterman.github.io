@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
+ <p class="updated_time"> 08:50 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 08:49 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">Whoopi Goldberg Is Suspended for 2 Weeks After Saying Holocaust Was ‘Not About Race’</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 08:37 PM CT, Feb. 01 </p> 
@@ -15,12 +19,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/brian-houston-hillsong.html">Brian Houston Steps Down as Leader of Hillsong, Australian Megachurch </a> NYT: Brian Houston, who was the leader of Hillsong, is accused of concealing past abuse by his father, who later died and was never charged. 
  <p class="updated_time"> 08:00 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war says Putin</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
- <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 07:09 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 07:01 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60212092?at_medium=RSS&at_campaign=KARANGA">Aneera Kabeer: The Indian trans woman whose plea to die won her a job</a> BBC: "I wanted to send a message," says Aneera Kabeer, who alleges she was unfairly dismissed from her job. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60212092?at_medium=RSS&at_campaign=KARANGA">Aneera Kabeer: The Indian trans woman whose plea to die caused a stir</a> BBC: "I wanted to send a message," says Aneera Kabeer, who alleges she was unfairly dismissed from her job. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59943542?at_medium=RSS&at_campaign=KARANGA">Mitski quit music... and coming back fills her with dread</a> BBC: Indie star Mitski was called the artist of her generation - but success filled her with dread. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
@@ -178,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 08:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 07:42 PM CT, Feb. 01 </p> 
@@ -186,8 +190,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 07:23 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden picks a nominee, Mr. Jones will introduce her to senators and prepare her for hearings. 
- <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/pfizer-vaccine-kids.html">Pfizer Asks F.D.A. to Clear 2 Vaccine Doses for Young Children as a Start</a> NYT: The Food and Drug Administration asked to review Pfizer’s data on two doses now, while the company continues to assess whether three doses would be more effective. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
@@ -326,12 +328,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 28 </p> 
+ <a href="https://www.politico.com/news/2022/01/28/jan-6-investigators-subpoena-14-false-pro-trump-electors-00002993">Jan. 6 investigators subpoena 14 in probe of false pro-Trump electors</a> Politico: The Capitol riot select panel is seeking details about the organizing of the electors and their meetings. 
  <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:29 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/white-house-biden-fda-pick-califf-00003053">‘The White House isn’t supporting him’: Biden’s FDA pick left in limbo</a> Politico: Robert Califf’s supporters fear his candidacy is on the brink — raising the threat of a setback for Biden and the health agency at the center of his pandemic response. 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
