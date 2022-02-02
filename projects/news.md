@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Feb. 02 </p> 
+ <p class="updated_time"> 09:55 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077596112/u-s-sending-troops-to-eastern-europe-as-russia-masses-forces-near-ukraine">U.S. sending troops to Eastern Europe as Russia masses forces near Ukraine</a> NPR: The Pentagon announced Wednesday that thousands of U.S. troops will soon be dispatched to Eastern Europe amid a major military buildup of Russian forces around Ukraine. 
+ <p class="updated_time"> 09:48 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
+ <p class="updated_time"> 09:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 09:46 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
+ <p class="updated_time"> 09:46 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077343584/2022-world-cup-qualifying-us-soccer-players-el-salvador-canada">Salvadoran Americans bring World Cup soccer hopes to El Salvador as it faces Canada</a> NPR: El Salvador's national soccer team plays its World Cup qualifying match against Canada Wednesday night — with several players and coaches from the United States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60229199?at_medium=RSS&at_campaign=KARANGA">Climate change: EU moves to label nuclear and gas as sustainable despite internal row</a> BBC: A highly controversial decision to class nuclear and gas power as "green" splits EU members. 
  <p class="updated_time"> 09:38 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">US boosts European troops amid fears Russia may invade Ukraine</a> BBC: The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
- <p class="updated_time"> 09:15 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: Tensions appear to have cooled amid a flurry of diplomacy in Moscow and Kyiv, but the threat of conflict may not have passed. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 08:09 AM CT, Feb. 02 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60227956?at_medium=RSS&at_campaign=KARANGA">Monica Vitti: 'Queen of Italian cinema' dies at 90</a> BBC: The actress starred in a string of landmark 1960s films made by director Michelangelo Antonioni. 
  <p class="updated_time"> 07:03 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60229749?at_medium=RSS&at_campaign=KARANGA">Eight-year-old's handwritten novel takes Idaho town by storm</a> BBC: Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho. 
- <p class="updated_time"> 06:32 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
@@ -43,22 +47,34 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
+ <p class="updated_time"> 03:58 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
+ <p class="updated_time"> 03:37 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Gulf Between Russia and West Laid Bare in Response to Moscow's Ukraine Demands</a> WSJ: Details of the contents of two bluntly-worded responses delivered to Moscow last week reveal that the U.S. and NATO flatly rejected the Kremlin’s demands about the alliance's expansion and instead laid the blame for the tension squarely on Russian President Vladimir Putin. 
  <p class="updated_time"> 03:02 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155638?at_medium=RSS&at_campaign=KARANGA">Brazil violence: Three arrested over killing of Congolese migrant</a> BBC: Three people have been arrested over the killing on an upmarket beach that was captured on camera. 
+ <p class="updated_time"> 02:50 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-ukraine-differ-over-russian-threat-worrying-both-11643809845">U.S. and Ukraine Differ Over Russian Threat, Worrying Both</a> WSJ: The clashing assessments turn more on a divergent reading of Russian President Vladimir Putin’s intentions than on an assessment of Russia’s military capabilities. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 01:48 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga enters Covid lockdown after aid delivered</a> BBC: Cases are detected among port workers as humanitarian aid arrives after a volcano and tsunami. 
+ <p class="updated_time"> 01:22 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-inflation-rises-to-fresh-record-against-expectations-11643799121">Eurozone Inflation Rises to Fresh Record, Against Expectations</a> WSJ: The first reading of 2022 comes as an unwelcome surprise for policy makers at the European Central Bank who have said they don’t expect to raise their key interest rate this year. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA">India says it will launch digital rupee as soon as this year</a> BBC: It is the latest major economy to announce its own virtual currency, as China trials the digital yuan. 
+ <p class="updated_time"> 12:20 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-jet-fighters-warship-to-u-a-e-after-houthi-attacks-11643800847">U.S. to Send Jet Fighters, Warship to U.A.E. After Houthi Attacks</a> WSJ: The move comes after the Iran-backed group launched a series of missiles and drones at the Persian Gulf nation. 
  <p class="updated_time"> 11:26 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60225862?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Torch relay gets under way in Beijing</a> BBC: More than 1,000 torchbearers will carry the Olympic flame before Friday's opening ceremony. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
@@ -69,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 08:50 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
- <p class="updated_time"> 08:40 PM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Bid Thwarted in Guinea-Bissau After Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-56660483?at_medium=RSS&at_campaign=KARANGA">Tatmadaw: Myanmar's notoriously brutal military</a> BBC: Known as the Tatmadaw, it has shocked the world by killing hundreds of civilians in a crackdown. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
@@ -105,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
- <p class="updated_time"> 12:36 PM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-teams-up-with-poland-u-k-over-russia-invasion-threat-11643725853">Putin Says West Failed to Address His Demands in Ukraine Standoff</a> WSJ: The Russian leader said the U.S. and its European allies had “basically ignored” Moscow’s demands for security assurances but expressed a willingness to continue talks. 
  <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077289344/russia-ukraine-putin-boris-johnson">The U.S. and Russia are still far apart on Ukraine, Putin says</a> NPR: The Russian leader's remarks came as diplomatic efforts continue. British Prime Minister Boris Johnson visited Kyiv and Secretary of State Antony Blinken spoke with his Russian counterpart. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
@@ -121,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077291879/israel-apartheid-state-amnesty-international">Israel is an apartheid state, Amnesty International says</a> NPR: "The Israeli government is committing the crime against humanity of apartheid against Palestinians," the rights group said. Israel's foreign ministry says the new Amnesty report is anti-Semitic. 
  <p class="updated_time"> 11:35 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">A 104-year-old COVID survivor has died. He wanted to keep people safe until the end</a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
- <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -139,18 +149,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/in-china-footage-of-a-chained-up-rural-mother-of-eight-draws-outcry-11643726076">In China, Footage of a Chained-Up Rural Mother Draws Outcry</a> WSJ: Video footage of a woman chained up in a shed in a village in eastern China has triggered online calls for better protections for women and the mentally ill in rural parts of the country. 
- <p class="updated_time"> 05:33 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217">Russia Confronts Ukraine With Upgraded Military Rebuilt After Soviet Collapse</a> WSJ: Vladimir Putin has largely transformed the country’s forces left depleted and demoralized after the breakup of the U.S.S.R. as part of his goal to reassert Russia on the world stage. 
- <p class="updated_time"> 04:11 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-allies-wonder-if-they-can-count-on-germany-in-russia-ukraine-crisis-11643711411">U.S., Allies Wonder if They Can Count on Germany in Russia-Ukraine Crisis</a> WSJ: Officials from other NATO countries are asking whether Germany’s reliance on Russian gas, its postwar tendency to keep a low profile in international conflicts and its longstanding links with Moscow are making it an unreliable ally in the push to support Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
- <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why Americans should care about the Russia-Ukraine standoff</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based," says Ukraine's foreign minister. 
- <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
