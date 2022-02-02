@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA">India says it will launch digital rupee as soon as this year</a> BBC: It is the latest major economy to announce its own virtual currency, as China trials the digital yuan. 
+ <p class="updated_time"> 11:26 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60225862?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Torch relay gets under way in Beijing</a> BBC: More than 1,000 torchbearers will carry the Olympic flame before Friday's opening ceremony. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved one off. 
  <p class="updated_time"> 10:23 PM CT, Feb. 01 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
  <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
- <p class="updated_time"> 06:01 PM CT, Jan. 30 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA">Inside Kazakhstan's giant crypto-mine</a> BBC: Kazakhstan is now the world's second biggest crypto-currency mining country, thanks partly to a vast mine in the desert. 
 
 
 </details>
