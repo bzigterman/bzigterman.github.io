@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:33 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over 5 Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
+ <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:49 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 12:38 AM CT, Feb. 02 </p> 
@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 08:50 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
+ <p class="updated_time"> 08:40 PM CT, Feb. 01 </p> 
+ <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Bid Thwarted in Guinea-Bissau After Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 07:09 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 07:01 PM CT, Feb. 01 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/01/1077055777/abdul-alim-of-pakistan-a-covid-survivor-and-vaccine-advocate-dies-at-age-104">A 104-year-old COVID survivor has died. He wanted to keep people safe until the end</a> NPR: In his final days, Alim asked people not to visit him or his family due to rising COVID cases in his community. "Even in death he wanted to keep people and our family safe," says his son. 
  <p class="updated_time"> 11:30 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1074212586/new-olympic-events-winter-2022-beijing">Here are the 7 new Olympic events to watch in Beijing </a> NPR: The 2022 Winter Olympics are set to begin this week in Beijing, China. And viewers will be able to tune into a series of new events appearing at the Games. 
- <p class="updated_time"> 11:20 AM CT, Feb. 01 </p> 
- <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Bid Thwarted in Guinea-Bissau After Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 11:05 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
