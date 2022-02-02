@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:37 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown After 2 Covid Cases at Wharf</a> NYT: Two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 08:00 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war says Putin</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's president makes a stinging attack on the US and Nato as tension continues over Ukraine. 
  <p class="updated_time"> 07:09 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 07:01 PM CT, Feb. 01 </p> 
