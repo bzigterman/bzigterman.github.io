@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:07 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 01:07 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
+ <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 12:35 PM CT, Feb. 02 </p> 
@@ -17,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 12:02 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
- <p class="updated_time"> 12:01 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
- <p class="updated_time"> 11:54 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 11:35 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077302869/belgium-right-to-disconnect-government-workers">In Belgium, government workers no longer have to answer the boss's emails after hours</a> NPR: Thousands of federal civil servants will no longer have to answer calls or emails from their bosses outside of working hours. The law aims to address burnout exacerbated by the pandemic. 
  <p class="updated_time"> 11:54 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077300788/south-africa-covid-isolation-restrictions">South Africa eases most COVID restrictions, citing high population immunity</a> NPR: Up to 80% of South Africans are either vaccinated or have recovered from an infection The only vestige of COVID-19 rules are masks, which are still required in public spaces and on public transport. 
- <p class="updated_time"> 11:43 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077291879/israel-apartheid-state-amnesty-international">Israel is an apartheid state, Amnesty International says</a> NPR: "The Israeli government is committing the crime against humanity of apartheid against Palestinians," the rights group said. Israel's foreign ministry says the new Amnesty report is anti-Semitic. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -198,14 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
+ <p class="updated_time"> 01:47 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/trump-considered-blanket-pardons-for-jan-6-rioters-before-he-left-office-00004738">Trump considered blanket pardons for Jan. 6 rioters before he left office</a> Politico: The previously unreported conversations show the former president wasn't simply musing when he floated pardoning the rioters if he runs and wins in 2024. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/appeals-court-burr-search-warrant-00004739">Appeals court may overturn order keeping Burr search warrant secret</a> Politico: D.C. Circuit judges express concern about ruling denying L.A. Times' request to see why North Carolina senator's phone was searched as part of insider trading probe 
  <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Canada’s Conservatives punt leader Erin O’Toole</a> Politico: Here are the players who could take over. 
+ <p class="updated_time"> 01:14 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 12:42 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077626487/alexander-vindman-sues-rudy-guiliani-trump-jr-impeachment">Alexander Vindman sues Trump allies for alleged intimidation over impeachment hearing</a> NPR: Vindman accuses Donald Trump Jr., Rudy Guiliani and others of conspiring to intimidate and then punish him for testifying in the former president's 2019 impeachment case. 
- <p class="updated_time"> 12:24 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/merkley-united-nations-chiefs-olympics-00004632">Merkley calls U.N. chief's decision to attend Beijing Olympics 'shameful'</a> Politico: "The U.N. has basically failed human rights," Sen. Merkley said. 
  <p class="updated_time"> 11:34 AM CT, Feb. 02 </p> 
@@ -231,9 +235,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they’re not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
- <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they’re not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/felon-voting-rights-states-00004372">States moving fast after Congress failed to expand felon voting rights</a> Politico: The number of states automatically restoring voting rights has increased by 50 percent since after the 2018 election and others could follow this year. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
