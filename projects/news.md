@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 AM CT, Feb. 02 </p> 
+ <p class="updated_time"> 06:06 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
+ <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
  <p class="updated_time"> 05:45 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
  <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-56660483?at_medium=RSS&at_campaign=KARANGA">Tatmadaw: Myanmar's notoriously brutal military</a> BBC: Known as the Tatmadaw, it has shocked the world by killing hundreds of civilians in a crackdown. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60215615?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament fire: How it offers a break from the past</a> BBC: Some argue the damaged building could be rebuilt in a style that reflects South Africa's diversity. 
- <p class="updated_time"> 06:52 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60215251?at_medium=RSS&at_campaign=KARANGA">What next for Wordle and its fans?</a> BBC: Fans have been left guessing what will come next, as the viral puzzle is sold to the New York Times. 
  <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60206491?at_medium=RSS&at_campaign=KARANGA">Expelled while pregnant, now determined to learn</a> BBC: Under former President John Magufuli, young mothers-to-be were forced to drop out. 
  <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
@@ -141,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1076936492/russia-ukraine-conflict">Why Americans should care about the Russia-Ukraine standoff</a> NPR: The standoff between Ukraine and Russia is about global security and an attempt to "rewrite rules on which the world is based," says Ukraine's foreign minister. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/thousands-of-afghans-face-narrow-path-to-gain-entry-to-u-s-11643727602">Thousands of Afghans Face Narrow Path to Gain Entry to U.S.</a> WSJ: Afghans who have applied to come to the U.S. on humanitarian grounds have been denied entry, sparking confusion and finger-pointing among administration officials, lawmakers and immigration advocates. 
- <p class="updated_time"> 03:17 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077195814/elana-meyers-taylor-u-s-bobsledders-test-positive-for-covid">Third U.S. Olympic bobsledder tests positive for COVID-19 before Beijing Games</a> NPR: 37-year-old Elana Meyers Taylor, a three-time Olympic medalist, announced on Twitter that she tested positive for COVID-19 two days after arriving in Beijing for the 2022 Olympic Games. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
@@ -189,7 +187,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they're not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/felon-voting-rights-states-00004372">Felon voting rights failed in Washington — but not in the states</a> Politico: The number of states automatically restoring voting rights has increased by 50 percent since after the 2018 election and others could follow this year. 
+ <a href="https://www.politico.com/news/2022/02/02/felon-voting-rights-states-00004372">States moving fast after Congress failed to expand felon voting rights</a> Politico: The number of states automatically restoring voting rights has increased by 50 percent since after the 2018 election and others could follow this year. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">15M people could lose Medicaid when pandemic ends and states aren’t sure they can help them all</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
