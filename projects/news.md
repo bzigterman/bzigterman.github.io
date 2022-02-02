@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/washington-nfl-team-new-name-commanders-00004575">Washington’s NFL team unveils new name as Commanders</a> Politico: The new name comes 18 months after the franchise dropped its old moniker following decades of criticism that it was offensive to Native Americans. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/02/dems-forced-to-measure-margins-00004561">Dems forced to measure margins</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:42 AM CT, Feb. 02 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
- <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
