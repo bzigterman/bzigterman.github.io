@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
+ <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 03:08 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
- <p class="updated_time"> 12:49 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA">India says it will launch digital rupee as soon as this year</a> BBC: It is the latest major economy to announce its own virtual currency, as China trials the digital yuan. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
@@ -52,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians prepare as war with Russia threatens</a> BBC: Many Ukrainians are not convinced Russia will invade, but say all the war talk is unsettling. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians train for war as invasion fears grow</a> BBC: Many civilians are not convinced Russia will invade, but say all the war talk is unsettling. 
  <p class="updated_time"> 04:13 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371687/turkey-and-armenia-discuss-opening-borders-to-more-trade-and-travel">Turkey and Armenia discuss opening borders to more trade and travel</a> NPR: Long-time adversaries Turkey and Armenia are talking about opening their border to more trade and travel. But it doesn't look like all the issues of the past will be dealt with yet. 
  <p class="updated_time"> 04:01 PM CT, Feb. 01 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 10:49 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/kazakhstan-uprising-abuse-torture.html">In Kazakh Uprising, Reports of Widespread Abuses by Security Forces</a> NYT: Through crowdsourcing, rights groups say they are documenting a campaign of beatings and torture. 
  <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
  <p class="updated_time"> 10:29 PM CT, Feb. 01 </p> 
@@ -185,7 +187,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:22 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Top Security Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
  <p class="updated_time"> 07:42 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
  <p class="updated_time"> 07:25 PM CT, Feb. 01 </p> 
