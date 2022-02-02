@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 12:35 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 12:21 PM CT, Feb. 02 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/appeals-court-burr-search-warrant-00004739">Appeals court may overturn order keeping Burr search warrant secret</a> Politico: D.C. Circuit judges express concern about ruling denying L.A. Times' request to see why North Carolina senator's phone was searched as part of insider trading probe 
+ <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Canada’s Conservatives punt leader Erin O’Toole</a> Politico: Here are the players who could take over. 
  <p class="updated_time"> 12:42 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077626487/alexander-vindman-sues-rudy-guiliani-trump-jr-impeachment">Alexander Vindman sues Trump allies for alleged intimidation over impeachment hearing</a> NPR: Vindman accuses Donald Trump Jr., Rudy Guiliani and others of conspiring to intimidate and then punish him for testifying in the former president's 2019 impeachment case. 
  <p class="updated_time"> 12:24 PM CT, Feb. 02 </p> 
@@ -274,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: The FDA said it would convene its independent panel of vaccine experts Feb. 15 to consider the data. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
- <p class="updated_time"> 03:29 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/desantis-florida-weigh-in-on-congressional-map-00004283">Florida halts redistricting effort after DeSantis asks Florida Supreme Court to weigh in</a> Politico: He recently submitted his own map that throws out the district now held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
  <p class="updated_time"> 03:15 PM CT, Feb. 01 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
- <p class="updated_time"> 06:54 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/trump-pardon-jan6-defendants-00003450">Trump suggests he might pardon some Jan. 6 defendants</a> Politico: He'd have to be returned to office in 2024 for that to happen. 
  <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
