@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:29 PM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/whoopi-goldberg-suspended-00004519">ABC suspends Whoopi Goldberg over Holocaust race remarks</a> Politico: “My words upset so many people, which was never my intention,” she said. 
  <p class="updated_time"> 09:22 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
- <p class="updated_time"> 08:35 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/florida-voting-laws-elections-00003952">Civil rights groups testify Florida’s controversial voting law suppresses voter registration efforts</a> Politico: In the next two weeks, university professors, state and local election officials and Democratic legislators are expected to testify about the controversial new law. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
@@ -266,6 +266,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
+ <p class="updated_time"> 07:47 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
  <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
@@ -274,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 04:36 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/business/economy/fed-inflation-economy.html">Fed Officials Make It Clear on Inflation: This Time Is Different</a> NYT: Central bankers on Monday emphasized that conditions are better than they were the last time they backed off their efforts to prop up the U.S. economy. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 31 </p> 
+ <a href="https://www.politico.com/news/2022/01/31/newsom-covid-maskless-photo-00003769">Newsom defends maskless photo at NFL playoff game</a> Politico: The California governor faces a barrage of criticism after posing for a maskless photo with Magic Johnson. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
- <p class="updated_time"> 02:20 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/andrew-cuomo-groping-case-00003705">New York prosecutor drops groping case against Andrew Cuomo</a> Politico: The decision by the Oswego County district attorney ends the final remaining local investigation into allegations of sexual misconduct by the former governor. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
