@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/washington-nfl-team-new-name-commanders-00004575">Washington’s NFL team unveils new name as Commanders</a> Politico: The new name comes 18 months after the franchise dropped its old moniker following decades of criticism that it was offensive to Native Americans. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077065644/abortion-critical-race-theory--banned-books-jon-ronson-podcast">When did America's culture wars begin, and how can they end? Jon Ronson has answers</a> NPR: America's culture wars are creating a world of "magnificent heroes and sickening villains" as people fight a fierce battle in black and white, says writer and podcaster Jon Ronson. 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
  <p class="updated_time"> 10:29 PM CT, Feb. 01 </p> 
