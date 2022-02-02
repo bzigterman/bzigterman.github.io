@@ -46,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60206491?at_medium=RSS&at_campaign=KARANGA">Expelled while pregnant, now determined to learn</a> BBC: Under former President John Magufuli, young mothers-to-be were forced to drop out. 
  <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60080683?at_medium=RSS&at_campaign=KARANGA">Ulysses: Celebrating 100 years of a literary 'masterpiece'</a> BBC: The world marks the centenary of James Joyce's Ulysses, but the novel wasn't always celebrated. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60080683?at_medium=RSS&at_campaign=KARANGA">Ulysses: Celebrating 100 years of a literary masterpiece</a> BBC: The world marks the centenary of James Joyce's Ulysses, but the novel wasn't always celebrated. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
