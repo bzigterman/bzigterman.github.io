@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
+ <p class="updated_time"> 05:45 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 05:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60226454?at_medium=RSS&at_campaign=KARANGA">Stolen Roman statue returned to France after 50 years</a> BBC: The statue of the god Bacchus is traced by a Dutch art detective and returned to a French museum. 
- <p class="updated_time"> 05:14 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26 in</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
- <p class="updated_time"> 04:08 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
