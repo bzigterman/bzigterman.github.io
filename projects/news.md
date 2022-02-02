@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710119/the-multi-ethnic-state-of-bosnia-is-once-again-in-crisis">The multi-ethnic state of Bosnia is once again in crisis</a> NPR: Samantha Power, journalist turned diplomat and now head of USAID, famously wrote about the responsibility to stop genocide. Her mission now is to help shore up Bosnia's fragile multi-ethnic democracy. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
+ <p class="updated_time"> 03:20 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
  <p class="updated_time"> 03:17 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
  <p class="updated_time"> 03:06 PM CT, Feb. 02 </p> 
@@ -19,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘pulsed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
- <p class="updated_time"> 01:58 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 01:42 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Feb. 02 </p> 
@@ -65,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 07:23 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60227547?at_medium=RSS&at_campaign=KARANGA">'Electrifying' Vincent van Gogh self-portrait exhibition hailed by critics</a> BBC: Most major art critics award five stars to the new show at London's Courtauld Gallery. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 07:09 AM CT, Feb. 02 </p> 
@@ -143,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 02:31 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/health-60171592?at_medium=RSS&at_campaign=KARANGA">The myth of a 'super-charged' immune system</a> BBC: Suddenly we are all talking about immunity but how much do we really understand? 
- <p class="updated_time"> 02:17 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60224161?at_medium=RSS&at_campaign=KARANGA">A 477-mile-long megaflash crossed three US states.</a> BBC: A 477-mile-long megaflash crossed three southern US states. It shattered world records by 37 miles. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
@@ -155,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
  <p class="updated_time"> 12:17 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077282498/lightning-megaflash-record">A pair of monster lightning strikes have shattered records for distance and duration </a> NPR: One record-breaking flash covered a horizontal distance of about 477 miles; another lasted about 17 seconds. 
- <p class="updated_time"> 11:59 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077302869/belgium-right-to-disconnect-government-workers">In Belgium, government workers no longer have to answer the boss's emails after hours</a> NPR: Thousands of federal civil servants will no longer have to answer calls or emails from their bosses outside of working hours. The law aims to address burnout exacerbated by the pandemic. 
- <p class="updated_time"> 11:54 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077300788/south-africa-covid-isolation-restrictions">South Africa eases most COVID restrictions, citing high population immunity</a> NPR: Up to 80% of South Africans are either vaccinated or have recovered from an infection The only vestige of COVID-19 rules are masks, which are still required in public spaces and on public transport. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 03:02 PM CT, Feb. 02 </p> 
@@ -322,12 +326,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
  <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
  <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
- <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
- <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
