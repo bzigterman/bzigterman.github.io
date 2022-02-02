@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
+ <p class="updated_time"> 03:06 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
- <p class="updated_time"> 02:34 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 02:44 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘pulsed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 01:58 PM CT, Feb. 02 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 01:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
- <p class="updated_time"> 01:31 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 01:07 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
@@ -53,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077343584/2022-world-cup-qualifying-us-soccer-players-el-salvador-canada">Salvadoran Americans bring World Cup soccer hopes to El Salvador as it faces Canada</a> NPR: El Salvador's national soccer team plays its World Cup qualifying match against Canada Wednesday night — with several players and coaches from the United States. 
  <p class="updated_time"> 09:42 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60229199?at_medium=RSS&at_campaign=KARANGA">Climate change: EU moves to label nuclear and gas as sustainable despite internal row</a> BBC: A highly controversial decision to class nuclear and gas power as "green" splits EU members. 
+ <p class="updated_time"> 09:28 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/some-havana-syndrome-cases-likely-caused-by-electromagnetic-waves-panel-finds-11643833721">Some Havana Syndrome Cases Likely Caused by Electromagnetic Waves, Panel Finds</a> WSJ: Acoustic devices are a second likely cause of the debilitating condition, say intelligence experts, who find the symptoms ‘genuine and compelling.’ 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 09:02 AM CT, Feb. 02 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-and-ukraine-differ-over-russian-threat-worrying-both-11643809845">U.S. and Ukraine Differ Over Russian Threat, Worrying Both</a> WSJ: The clashing assessments turn more on a divergent reading of Russian President Vladimir Putin’s intentions than on an assessment of Russia’s military capabilities. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
- <p class="updated_time"> 01:48 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga enters Covid lockdown after aid delivered</a> BBC: Cases are detected among port workers as humanitarian aid arrives after a volcano and tsunami. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:20 AM CT, Feb. 02 </p> 
@@ -187,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Trudeau Condemns 'Freedom Convoy' Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
- <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
- <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
 
 
 </details>
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077646928/lunar-new-year-federal-holiday">Lawmakers urge making Lunar New Year a federal holiday</a> NPR: Rep. Grace Meng says she introduced the measure to send the message to Asian Americans that they are a valued part of  American society. If the bill passes, it would become the 12th federal holiday. 
  <p class="updated_time"> 02:58 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/white-house-not-using-imminent-russia-threat-00004820">White House stops using ‘imminent’ to describe Russian threat</a> Politico: “I think it sent a message that we weren’t intending to send,” said White House press secretary Jen Psaki. 
  <p class="updated_time"> 02:35 PM CT, Feb. 02 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
- <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
