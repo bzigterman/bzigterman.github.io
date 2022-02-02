@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:14 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26 in</a> BBC: Video said to be from the scene near the capital Kinshasa shows several victims in puddles of water. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
- <p class="updated_time"> 04:49 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 25</a> BBC: Video said to be from the scene near the capital Kinshasa shows several victims in puddles of water. 
  <p class="updated_time"> 04:08 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday February 1st. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
+ <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
  <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 03:02 AM CT, Feb. 02 </p> 
@@ -183,7 +183,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536">Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
