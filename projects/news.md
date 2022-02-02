@@ -222,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
- <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/russia-ukraine-tensions-worsen-00004070">‘Russian concerns were basically ignored’: Putin slams U.S. response to Moscow’s security demands</a> Politico: Meanwhile, the top U.S. and Russian diplomats discussed the written document that Washington delivered to Moscow last week. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
