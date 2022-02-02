@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
+ <p class="updated_time"> 10:52 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. Responses to Russia Stand Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
  <p class="updated_time"> 10:41 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">US boosts troops in Europe amid fears Russia may invade Ukraine</a> BBC: The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">US boosts troops in Europe amid fears Russia may invade Ukraine</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 10:39 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 10:33 AM CT, Feb. 02 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 08:09 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 07:09 AM CT, Feb. 02 </p> 
@@ -186,7 +188,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:31 AM CT, Feb. 02 </p> 
+ <p class="updated_time"> 11:34 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/cnn-president-jeff-zucker-resigns-relationship-00004681">CNN President Jeff Zucker resigns after relationship with colleague</a> Politico: Zucker resigned after being asked about his relationship with a colleague following an investigation into former anchor Chris Cuomo. 
+ <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but two sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there's two sticking points. 
+ <p class="updated_time"> 10:48 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">Biden sending more troops to Europe amid Ukraine tension</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania, a senior administration official said. 
@@ -278,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/01/31/crypto-wyoming-arizona-tax-payments-00003910">A crypto breakthrough? Western states consider taking digital currency</a> Politico: Proposals in Wyoming and Arizona to accept tax payments in Bitcoin and other cryptocurrencies would undermine the dollar’s unique status. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric and plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
  <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
- <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
