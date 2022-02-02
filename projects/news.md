@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 16 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
- <p class="updated_time"> 04:27 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 04:11 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60233902?at_medium=RSS&at_campaign=KARANGA">Djokovic Covid tests were valid, Serbian officials say</a> BBC: Doubts have been cast over the validity of documents the tennis star submitted to enter Australia. 
  <p class="updated_time"> 04:08 PM CT, Feb. 02 </p> 
@@ -82,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:42 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60229199?at_medium=RSS&at_campaign=KARANGA">Climate change: EU moves to label nuclear and gas as sustainable despite internal row</a> BBC: A highly controversial decision to class nuclear and gas power as "green" splits EU members. 
  <p class="updated_time"> 09:28 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/some-havana-syndrome-cases-likely-caused-by-electromagnetic-waves-panel-finds-11643833721">Some Havana Syndrome Cases Likely Caused by Electromagnetic Waves, Panel Finds</a> WSJ: Acoustic devices are a second likely cause of the debilitating condition, say intelligence experts, who find the symptoms ‘genuine and compelling.’ 
+ <a href="https://www.wsj.com/articles/some-havana-syndrome-cases-likely-caused-by-electromagnetic-waves-panel-finds-11643833721">Some Havana Syndrome Cases Likely Caused by Electromagnetic Waves, Panel Finds</a> WSJ: Acoustic devices are a second likely cause of the debilitating condition, say intelligence experts, who find the symptoms “genuine and compelling.” 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 09:02 AM CT, Feb. 02 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
@@ -312,8 +314,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: The FDA said it would convene its independent panel of vaccine experts Feb. 15 to consider the data. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
- <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
