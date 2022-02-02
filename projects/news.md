@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 05:18 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 05:08 PM CT, Feb. 02 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716">China Fortifies Its Borders With a 'Southern Great Wall,' Citing Covid-19</a> WSJ: Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. “Safeguard the sacred land.” 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
+ <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
+ <p class="updated_time"> 05:30 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 05:20 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
  <p class="updated_time"> 04:50 PM CT, Feb. 02 </p> 
@@ -240,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/directed-energy-unsolved-havana-syndrome-00004799">Directed-energy could explain unsolved ‘Havana Syndrome’ cases, U.S. intelligence panel finds</a> Politico: An intelligence community panel of experts said that some cases could be explained by electromagnetic or ultrasonic energy. 
  <p class="updated_time"> 02:07 PM CT, Feb. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 01:54 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 01:47 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-considered-blanket-pardons-for-jan-6-rioters-before-he-left-office-00004738">Trump considered blanket pardons for Jan. 6 rioters before he left office</a> Politico: The previously unreported conversations show the former president wasn't simply musing when he floated pardoning the rioters if he runs and wins in 2024. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
