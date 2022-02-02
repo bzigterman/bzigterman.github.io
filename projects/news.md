@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:05 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">US boosts European troops amid fears Russia may invade Ukraine</a> BBC: The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 08:57 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-coronavirus-london-icu-pandemic-vaccines.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 08:24 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 08:09 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 08:03 AM CT, Feb. 02 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
@@ -182,6 +182,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">Biden sending more troops to Europe amid Ukraine tension</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania, a senior administration official said. 
+ <p class="updated_time"> 09:03 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
+ <p class="updated_time"> 09:01 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 08:44 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
@@ -196,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they're not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
- <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/felon-voting-rights-states-00004372">States moving fast after Congress failed to expand felon voting rights</a> Politico: The number of states automatically restoring voting rights has increased by 50 percent since after the 2018 election and others could follow this year. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">15M people could lose Medicaid when pandemic ends and states aren’t sure they can help them all</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
- <p class="updated_time"> 07:42 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
  <p class="updated_time"> 07:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
  <p class="updated_time"> 07:23 PM CT, Feb. 01 </p> 
@@ -290,12 +292,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
  <p class="updated_time"> 08:01 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote">California universal health care bill dies without a vote</a> NPR: The bill had to pass by midnight on Monday to have a chance at becoming law this year but its Democratic author didn't put it up for a vote when he realized it wouldn't pass. 
- <p class="updated_time"> 07:47 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/californias-single-payer-bill-dies-00003924">California's single-payer bill dies</a> Politico: A bill to overhaul the state's health care system stalled in the Legislature Monday. 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
- <p class="updated_time"> 06:03 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/desantis-media.html">DeSantis and the Media: (Not) a Love Story</a> NYT: The Florida governor and the mainstream press have had a rocky relationship that he has often worked to his advantage. 
  <p class="updated_time"> 04:41 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
