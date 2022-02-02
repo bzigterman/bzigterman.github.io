@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:49 AM CT, Feb. 02 </p> 
+ <p class="updated_time"> 12:07 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
+ <p class="updated_time"> 12:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">The Covid Vaccine We Need Now May Not Be a Shot</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
+ <p class="updated_time"> 12:01 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
+ <p class="updated_time"> 11:55 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 11:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 11:35 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
- <p class="updated_time"> 11:32 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, in an intensified migration scramble that is stoking fears in Europe. 
- <p class="updated_time"> 11:31 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60236190?at_medium=RSS&at_campaign=KARANGA">CNN's Jeff Zucker resigns over undisclosed relationship</a> BBC: The network president told staff he was "wrong" to not report the consensual relationship. 
- <p class="updated_time"> 11:31 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60229206?at_medium=RSS&at_campaign=KARANGA">Turkey-Greece border: Twelve migrants die in freezing conditions</a> BBC: Turkey accuses Greek border guards of turning migrants back in harsh conditions. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
@@ -51,10 +53,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 07:09 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60227956?at_medium=RSS&at_campaign=KARANGA">Monica Vitti: 'Queen of Italian cinema' dies at 90</a> BBC: The actress starred in a string of landmark 1960s films made by director Michelangelo Antonioni. 
+ <p class="updated_time"> 07:09 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Responses to Moscow's Demands Show Gulf Between Russia and West</a> WSJ: The U.S. and NATO rejected the Kremlin’s demands about the alliance's expansion and instead blamed the tension on Russian President Vladimir Putin, details of two bluntly worded responses delivered to Moscow last week show. 
  <p class="updated_time"> 07:03 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60229749?at_medium=RSS&at_campaign=KARANGA">Eight-year-old's handwritten novel takes Idaho town by storm</a> BBC: Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho. 
- <p class="updated_time"> 06:29 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Gulf Between Russia and West Laid Bare in Response to Moscow's Ukraine Demands</a> WSJ: Details of the contents of two bluntly-worded responses delivered to Moscow last week reveal that the U.S. and NATO flatly rejected the Kremlin’s demands about the alliance's expansion and instead laid the blame for the tension squarely on Russian President Vladimir Putin. 
  <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Trudeau Condemns 'Freedom Convoy' Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
  <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
- <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
 
