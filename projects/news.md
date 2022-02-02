@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
  <p class="updated_time"> 04:57 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
- <p class="updated_time"> 03:53 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710175/u-s-has-never-won-a-biathlon-olympic-medal-this-years-athletes-hope-to-change-th">U.S. has never won a biathlon Olympic medal. This year's athletes hope to change that</a> NPR: Biathlon is the only Winter Olympics sport in which the U.S. hasn't won a medal. Innovations since the last games have Americans hoping to break through in the skiing and target shooting event. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710119/the-multi-ethnic-state-of-bosnia-is-once-again-in-crisis">The multi-ethnic state of Bosnia is once again in crisis</a> NPR: Samantha Power, journalist turned diplomat and now head of USAID, famously wrote about the responsibility to stop genocide. Her mission now is to help shore up Bosnia's fragile multi-ethnic democracy. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
- <p class="updated_time"> 03:20 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
  <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:20 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
  <p class="updated_time"> 04:50 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077522557/senators-near-a-deal-on-sanctions-against-russia-if-it-invades-ukraine">Senators near a deal on sanctions against Russia if it invades Ukraine </a> NPR: A bipartisan group of Senators is getting close to finalizing a Russia sanctions bill to deter any aggressive action from Ukraine's eastern neighbor. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522543/biden-task-force-makes-progress-reuniting-families-separated-at-the-border">Biden task force makes progress reuniting families separated at the border</a> NPR: NPR's Leila Fadel talks to Homeland Security Secretary Alejandro Mayorkas about the process of reuniting families separated at the southern border by Trump-era policies. 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077065644/abortion-critical-race-theory--banned-books-jon-ronson-podcast">When did America's culture wars begin, and how can they end? Jon Ronson has answers</a> NPR: America's culture wars are creating a world of "magnificent heroes and sickening villains" as people fight a fierce battle in black and white, says writer and podcaster Jon Ronson. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
