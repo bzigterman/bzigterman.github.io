@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
  <p class="updated_time"> 10:29 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/whoopi-goldberg-suspended-00004519">ABC suspends Whoopi Goldberg over Holocaust race remarks</a> Politico: “My words upset so many people, which was never my intention,” she said. 
  <p class="updated_time"> 09:22 PM CT, Feb. 01 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
- <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
  <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
