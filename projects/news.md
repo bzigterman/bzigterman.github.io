@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
+ <p class="updated_time"> 11:33 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi to Meet at Olympics, Putting Partnership Against U.S. on Display</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:04 AM CT, Feb. 02 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
- <p class="updated_time"> 10:41 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-jet-fighters-warship-to-u-a-e-after-houthi-attacks-11643800847">U.S. to Send Jet Fighters, Warship to U.A.E. After Houthi Attacks</a> WSJ: The move comes after the Iran-backed group launched a series of missiles and drones at the Persian Gulf nation. 
  <p class="updated_time"> 10:36 AM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Responses to Moscow's Demands Show Gulf Between Russia and West</a> WSJ: The U.S. and NATO rejected the Kremlin’s demands about the alliance's expansion and instead blamed the tension on Russian President Vladimir Putin, details of two bluntly worded responses delivered to Moscow last week show. 
  <p class="updated_time"> 10:33 AM CT, Feb. 02 </p> 
@@ -115,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
- <p class="updated_time"> 02:50 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-ukraine-differ-over-russian-threat-worrying-both-11643809845">U.S. and Ukraine Differ Over Russian Threat, Worrying Both</a> WSJ: The clashing assessments turn more on a divergent reading of Russian President Vladimir Putin’s intentions than on an assessment of Russia’s military capabilities. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
@@ -204,7 +202,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
- <p class="updated_time"> 05:30 PM CT, Feb. 02 </p> 
+ <p class="updated_time"> 05:35 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 05:20 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
@@ -213,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
