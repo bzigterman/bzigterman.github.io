@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over 5 Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:49 AM CT, Feb. 02 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved one off. 
  <p class="updated_time"> 10:23 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60225075?at_medium=RSS&at_campaign=KARANGA">US unveils new policy for elite transgender swimmers</a> BBC: Testosterone tests will determine whether transgender women swimmers have an unfair advantage. 
- <p class="updated_time"> 10:18 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 09:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60225196?at_medium=RSS&at_campaign=KARANGA">Whoopi Goldberg suspended by ABC for two weeks over Holocaust remarks</a> BBC: ABC suspends the US talk show host for two weeks after she said the Holocaust was "not about race". 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians prepare as war with Russia threatens</a> BBC: Many Ukrainians are not convinced Russia will invade, but all the war talk is unsettling. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60220422?at_medium=RSS&at_campaign=KARANGA">Ukrainian civilians prepare as war with Russia threatens</a> BBC: Many Ukrainians are not convinced Russia will invade, but say all the war talk is unsettling. 
  <p class="updated_time"> 04:13 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371687/turkey-and-armenia-discuss-opening-borders-to-more-trade-and-travel">Turkey and Armenia discuss opening borders to more trade and travel</a> NPR: Long-time adversaries Turkey and Armenia are talking about opening their border to more trade and travel. But it doesn't look like all the issues of the past will be dealt with yet. 
  <p class="updated_time"> 04:01 PM CT, Feb. 01 </p> 
