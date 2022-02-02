@@ -17,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 05:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60226454?at_medium=RSS&at_campaign=KARANGA">Stolen Roman statue returned to France after 50 years</a> BBC: The statue of the god Bacchus is traced by a Dutch art detective and returned to a French museum. 
+ <p class="updated_time"> 05:14 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/59882774?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: What is China's Covid policy and does it work?</a> BBC: With the Winter Olympics just days away, China is sticking to its policy of suppressing all cases. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
@@ -180,8 +182,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/02/dems-forced-to-measure-margins-00004561">Dems forced to measure margins</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:42 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559">Jan. 6 committee member: Trump 'absolutely’ tampering with witnesses</a> Politico: Trump has repeatedly suggested in recent days that he may pardon the Capitol rioters or other people associated with the insurrection if he wins a second term as president. 
+ <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559">Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses</a> Politico: The former president has repeatedly suggested that he may pardon the Capitol rioters or other people associated with the insurrection if he wins a second term. 
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 04:08 AM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1076873172/one-in-four-americans-say-violence-against-the-government-is-sometimes-okay">1 in 4 Americans say violence against the government is sometimes OK</a> NPR: In a new survey, both liberals and conservatives agreed violent protests are sometimes justifiable. Republicans were twice as likely as Democrats to say violence is justified "right now." 
- <p class="updated_time"> 06:24 PM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/new-york-democrats-redistricting-00003503">New York Democrats could pick up 3 congressional seats under new maps</a> Politico: New York’s 27-member congressional delegation currently has 19 Democrats and eight Republicans. That delegation is due to decrease to 26 members after the state’s population grew less rapidly than other states’. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
