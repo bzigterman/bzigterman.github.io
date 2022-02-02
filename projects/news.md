@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
+ <p class="updated_time"> 05:23 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60226454?at_medium=RSS&at_campaign=KARANGA">Stolen Roman statue returned to France after 50 years</a> BBC: The statue of the god Bacchus is traced by a Dutch art detective and returned to a French museum. 
  <p class="updated_time"> 05:14 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26 in</a> BBC: Video said to be from the scene near the capital Kinshasa shows several victims in puddles of water. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26 in</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:08 AM CT, Feb. 02 </p> 
@@ -20,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
  <p class="updated_time"> 03:27 AM CT, Feb. 02 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Bid Thwarted in Guinea-Bissau After Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
  <p class="updated_time"> 07:01 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60212092?at_medium=RSS&at_campaign=KARANGA">Aneera Kabeer: The Indian trans woman whose plea to die caused a stir</a> BBC: "I wanted to send a message," says Aneera Kabeer, who alleges she was unfairly dismissed from her job. 
- <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59943542?at_medium=RSS&at_campaign=KARANGA">Mitski quit music... and coming back fills her with dread</a> BBC: Indie star Mitski was called the artist of her generation - but success filled her with dread. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-56660483?at_medium=RSS&at_campaign=KARANGA">Tatmadaw: Myanmar's notoriously brutal military</a> BBC: Known as the Tatmadaw, it has shocked the world by killing hundreds of civilians in a crackdown. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
- <p class="updated_time"> 04:03 PM CT, Jan. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60209051?at_medium=RSS&at_campaign=KARANGA">US east coast digs out from blizzard</a> BBC: Residents are cheerfully shovelling heaps of snow in sub-zero temperatures after a numbing nor'easter. 
  <p class="updated_time"> 03:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/russia-swift.html">What a Disconnect From Swift Would Mean for Russia</a> NYT: A Belgian financial messaging service is once again at the center of an international sanctions fight. 
  <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
