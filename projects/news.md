@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Winter Olympics Opening Ceremony?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 08:40 PM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/coup-fears-spike-in-guinea-bissau-as-gunfire-heard-in-capital-11643744427">Coup Bid Thwarted in Guinea-Bissau After Gunfire Heard in Capital</a> WSJ: A spate of coups has spread across West Africa over the past 18 months. 
- <p class="updated_time"> 07:09 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 07:01 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60212092?at_medium=RSS&at_campaign=KARANGA">Aneera Kabeer: The Indian trans woman whose plea to die caused a stir</a> BBC: "I wanted to send a message," says Aneera Kabeer, who alleges she was unfairly dismissed from her job. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
