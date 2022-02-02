@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:32 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, in an intensified migration scramble that is stoking fears in Europe. 
+ <p class="updated_time"> 11:31 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
+ <p class="updated_time"> 11:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:05 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
- <p class="updated_time"> 10:52 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. Responses to Russia Stand Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
+ <p class="updated_time"> 11:04 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/health-60233899?at_medium=RSS&at_campaign=KARANGA">Omicron BA.2: What we know about the Covid sub-variant</a> BBC: It is highly transmissible and spreading rapidly across the world, so how concerned should we be? 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
  <p class="updated_time"> 10:41 AM CT, Feb. 02 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 10:33 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
- <p class="updated_time"> 10:27 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 10:25 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60231227?at_medium=RSS&at_campaign=KARANGA">Brian Flores: Former Miami Dolphins coach sues NFL & teams in racism claim</a> BBC: Former Miami Dolphins coach Brian Flores is suing the NFL, the New York Giants and every other NFL franchise alleging racial discrimination in hiring practices. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
@@ -43,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60227956?at_medium=RSS&at_campaign=KARANGA">Monica Vitti: 'Queen of Italian cinema' dies at 90</a> BBC: The actress starred in a string of landmark 1960s films made by director Michelangelo Antonioni. 
  <p class="updated_time"> 07:03 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60229749?at_medium=RSS&at_campaign=KARANGA">Eight-year-old's handwritten novel takes Idaho town by storm</a> BBC: Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho. 
+ <p class="updated_time"> 06:29 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Gulf Between Russia and West Laid Bare in Response to Moscow's Ukraine Demands</a> WSJ: Details of the contents of two bluntly-worded responses delivered to Moscow last week reveal that the U.S. and NATO flatly rejected the Kremlin’s demands about the alliance's expansion and instead laid the blame for the tension squarely on Russian President Vladimir Putin. 
  <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
@@ -56,6 +64,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:11 AM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716">China Fortifies Its Borders With a 'Southern Great Wall,' Citing Covid-19</a> WSJ: Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. ‘Safeguard the sacred land.’ 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
@@ -67,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 03:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077521433/tonga-enters-lockdown-after-first-community-transmitted-covid-19-cases-detected">Tonga enters lockdown after first community transmitted COVID-19 cases detected</a> NPR: Two wharf workers tested positive Tuesday. The Ministry of Health has been testing workers there amid international aid shipments after last month's volcanic eruption. 
- <p class="updated_time"> 03:37 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Gulf Between Russia and West Laid Bare in Response to Moscow's Ukraine Demands</a> WSJ: Details of the contents of two bluntly-worded responses delivered to Moscow last week reveal that the U.S. and NATO flatly rejected the Kremlin’s demands about the alliance's expansion and instead laid the blame for the tension squarely on Russian President Vladimir Putin. 
  <p class="updated_time"> 03:02 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60155638?at_medium=RSS&at_campaign=KARANGA">Brazil violence: Three arrested over killing of Congolese migrant</a> BBC: Three people have been arrested over the killing on an upmarket beach that was captured on camera. 
  <p class="updated_time"> 02:50 AM CT, Feb. 02 </p> 
@@ -179,6 +187,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Trudeau Condemns 'Freedom Convoy' Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
  <p class="updated_time"> 02:44 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/canada/justin-trudeau-covid.html">Justin Trudeau Tests Positive for Covid</a> NYT: Mr. Trudeau, who has been isolating since Thursday after a coronavirus exposure, confirmed his positive test result on Monday morning. 
+ <p class="updated_time"> 11:02 AM CT, Jan. 31 </p> 
+ <a href="https://www.nytimes.com/2022/01/31/world/europe/italy-covid-risk.html">Covid’s New Divide: Risk Takers vs. the Risk Averse</a> NYT: In Italy, with its high vaccination rate, the social schism revolves less around who’s gotten a shot, and more around lifestyles and comfort levels of living with the coronavirus. 
  <p class="updated_time"> 10:58 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/asia/china-chained-woman-video.html">Video of Mentally Ill Woman Chained in Shack Stirs Anger in China</a> NYT: Public discussion of mental illness has grown in recent years, but in rural areas, resources and acceptance are still limited. 
 
@@ -190,16 +200,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:34 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/cnn-president-jeff-zucker-resigns-relationship-00004681">CNN President Jeff Zucker resigns after relationship with colleague</a> Politico: Zucker resigned after being asked about his relationship with a colleague following an investigation into former anchor Chris Cuomo. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
+ <p class="updated_time"> 11:26 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
  <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but two sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there's two sticking points. 
- <p class="updated_time"> 10:48 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">Biden sending more troops to Europe amid Ukraine tension</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania, a senior administration official said. 
+ <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 09:03 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
- <p class="updated_time"> 09:01 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 08:44 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program he headed as vice president. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
@@ -310,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
  <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064916/u-s-and-russia-clashed-over-the-ukraine-crisis-at-the-u-n-security-council-meeti">U.S. and Russia clashed over the Ukraine crisis at the U.N. Security Council meeting</a> NPR: The U.N. Security Council had a contentious session on Russia's pressure campaign against Ukraine. Most council members are urging Russia to take a diplomatic path. 
- <p class="updated_time"> 03:17 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/novavax-fda-covid-vaccine-00003814">Novavax asks FDA to authorize its Covid shot</a> Politico: The company is aiming to produce at least 2 billion doses of its vaccine in 2022, of which the U.S. has ordered 100 million. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
@@ -322,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/31/congress-warms-up-2022-to-do-list-00003571">Congress warms up 2022 to-do list</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:22 AM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1076895886/russia-would-face-consequences-over-ukraine-if-diplomatic-path-fails">Russia would face consequences over Ukraine if diplomatic path fails</a> NPR: NPR's Steve Inskeep talks to Jon Finer, deputy national security adviser, about the Russia-Ukraine crisis. Finer says Russia has massed enough troops at the border to invade Ukraine. 
  <p class="updated_time"> 06:17 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/31/congress-confronts-a-february-deluge-00003559"> Congress confronts a February deluge</a> Politico Playbook: And the Senate group trying to overhaul the Electoral Count Act adds to its mission. 
  <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
