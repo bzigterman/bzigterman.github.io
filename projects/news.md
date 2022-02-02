@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60233902?at_medium=RSS&at_campaign=KARANGA">Djokovic Covid tests were valid, Serbian officials say</a> BBC: Doubts have been cast over the validity of documents the tennis star submitted to enter Australia. 
+ <p class="updated_time"> 04:08 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
+ <p class="updated_time"> 04:08 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
+ <p class="updated_time"> 04:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 16 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
  <p class="updated_time"> 03:53 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
@@ -17,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
- <p class="updated_time"> 03:34 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 12 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
@@ -31,16 +39,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
- <p class="updated_time"> 03:06 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 02:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘pulsed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
- <p class="updated_time"> 01:42 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 01:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 01:07 PM CT, Feb. 02 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 11:35 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
- <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60229206?at_medium=RSS&at_campaign=KARANGA">Turkey-Greece border: Twelve migrants die in freezing conditions</a> BBC: Turkey accuses Greek border guards of turning migrants back in harsh conditions. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:04 AM CT, Feb. 02 </p> 
@@ -145,14 +147,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077371666/what-the-history-of-u-s-sanctions-can-tell-us-about-their-sway-on-the-ukraine-cr">What the history of U.S. sanctions can tell us about their sway on the Ukraine crisis</a> NPR: NPR's Ari Shapiro talks with assistant professor of history at Cornell, Nicholas Mulder, on the history of U.S. sanctions and the role they're playing now in the tensions between the U.S. and Russia. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
- <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077371624/1-year-since-myanmars-coup-the-military-has-been-unable-to-stamp-out-the-resista">1 year since Myanmar's coup, the military has been unable to stamp out the resistance</a> NPR: It's been a year since a coup threw Myanmar into chaos amid war crimes accusations against the military. Neither the military nor an increasingly organized resistance are showing signs of compromise. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 02:31 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/health-60171592?at_medium=RSS&at_campaign=KARANGA">The myth of a 'super-charged' immune system</a> BBC: Suddenly we are all talking about immunity but how much do we really understand? 
+ <p class="updated_time"> 02:17 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60224161?at_medium=RSS&at_campaign=KARANGA">A 477-mile-long megaflash crossed three US states.</a> BBC: A 477-mile-long megaflash crossed three southern US states. It shattered world records by 37 miles. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
@@ -202,14 +204,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
+ <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program, but experts expressed doubt that it would be possible to reduce the death rate so profoundly. 
+ <p class="updated_time"> 04:16 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment">A butterfly conservatory is shutting down due to right-wing harassment</a> NPR: The National Butterfly Center in Mission, Texas, has been embroiled in political turmoil after fighting against the erection of a border wall. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710203/hospitals-ask-biden-administration-to-help-lower-the-soaring-cost-of-travel-nurs">Hospitals ask Biden administration to help lower the soaring cost of travel nurses</a> NPR: It's now been a year since the American Hospital Association alleged price gouging and asked the White House to investigate and act. Bidding wars among states have only escalated. 
+ <p class="updated_time"> 04:01 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Panel Says Some Havana Syndrome Cases May Stem From Radio Energy</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 03:59 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/article/jan-6-inquiry-figures.html">Who Are the Key Figures of Interest in the Jan. 6 Inquiry?</a> NYT: The list of names being scrutinized by the House committee for their role in the Jan. 6 attack on the Capitol keeps growing. 
  <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/congress-stocks.html">Democrats Rebel Against Pelosi Over Congressional Stock Trading</a> NYT: When the top House Democrat came out against banning ownership of individual stocks, a simmering issue exploded, especially among members eager to distance themselves from their leader. 
- <p class="updated_time"> 03:53 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
@@ -222,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077646928/lunar-new-year-federal-holiday">Lawmakers urge making Lunar New Year a federal holiday</a> NPR: Rep. Grace Meng says she introduced the measure to send the message to Asian Americans that they are a valued part of  American society. If the bill passes, it would become the 12th federal holiday. 
  <p class="updated_time"> 02:58 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/white-house-not-using-imminent-russia-threat-00004820">White House stops using ‘imminent’ to describe Russian threat</a> Politico: “I think it sent a message that we weren’t intending to send,” said White House press secretary Jen Psaki. 
- <p class="updated_time"> 02:35 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden Presents Ambitious Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program, but experts expressed doubt that it would be possible to reduce the death rate so profoundly. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
  <p class="updated_time"> 02:15 PM CT, Feb. 02 </p> 
@@ -314,14 +320,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/midterm-elections-campaign-financing.html">Billionaires and Big Checks Shape 2022 Midterm Elections Battle </a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
- <p class="updated_time"> 06:17 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1076349762/oath-keepers-charged-capitol-riot-seditious-conspiracy">Oath Keepers face seditious conspiracy charges. DOJ has mixed record with such cases</a> NPR: In the biggest Capitol riot case yet, 11 Oath Keepers stand charged of seditious conspiracy. The government faces steep challenges in proving them guilty of the hefty and rare charges. 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
- <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric and plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
- <p class="updated_time"> 11:27 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/moderna-fda-approval-covid-shot-00003673">FDA gives full approval to Moderna's Covid-19 shot</a> Politico: The approval for people ages 18 and up will make it easier for schools and workplaces to require vaccination. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
