@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
+ <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment">A butterfly conservatory is shutting down due to right-wing harassment</a> NPR: The National Butterfly Center in Mission, Texas, has been embroiled in political turmoil after fighting against the erection of a border wall. 
  <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710203/hospitals-ask-biden-administration-to-help-lower-the-soaring-cost-of-travel-nurs">Hospitals ask Biden administration to help lower the soaring cost of travel nurses</a> NPR: It's now been a year since the American Hospital Association alleged price gouging and asked the White House to investigate and act. Bidding wars among states have only escalated. 
- <p class="updated_time"> 03:59 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/article/jan-6-inquiry-figures.html">Who Are the Key Figures of Interest in the Jan. 6 Inquiry?</a> NYT: The list of names being scrutinized by the House committee for their role in the Jan. 6 attack on the Capitol keeps growing. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:23 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer death rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
  <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but two sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there's two sticking points. 
+ <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but 2 sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there are two sticking points. 
  <p class="updated_time"> 09:03 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
