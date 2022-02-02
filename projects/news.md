@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710175/u-s-has-never-won-a-biathlon-olympic-medal-this-years-athletes-hope-to-change-th">U.S. has never won a biathlon Olympic medal. This year's athletes hope to change that</a> NPR: Biathlon is the only Winter Olympics sport in which the U.S. hasn't won a medal. Innovations since the last games have Americans hoping to break through in the skiing and target shooting event. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710168/canadian-truck-drivers-block-border-crossing-and-protest-at-capital-over-vaccine">Canadian truck drivers block border crossing and protest at capital over vaccine rule</a> NPR: Canada's vaccination rate far outpaces the U.S., but it still has a robust anti-vax movement, which this week took the form of truckers camped out in Ottawa. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:34 PM CT, Feb. 02 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
- <p class="updated_time"> 03:17 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: U.S. Troops to Be Deployed to NATO Allies in Eastern Europe</a> NYT: Several thousand troops will be sent to NATO member nations in Eastern Europe to reassure allies anxious over tensions surrounding Ukraine. The U.S. has said it will not deploy troops to Ukraine in the event of conflict there. 
  <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
@@ -51,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:04 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-60233899?at_medium=RSS&at_campaign=KARANGA">Omicron BA.2: What we know about the Covid sub-variant</a> BBC: It is highly transmissible and spreading rapidly across the world, so how concerned should we be? 
+ <p class="updated_time"> 10:56 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
  <p class="updated_time"> 10:41 AM CT, Feb. 02 </p> 
@@ -99,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 03:47 AM CT, Feb. 02 </p> 
@@ -141,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371624/1-year-since-myanmars-coup-the-military-has-been-unable-to-stamp-out-the-resista">1 year since Myanmar's coup, the military has been unable to stamp out the resistance</a> NPR: It's been a year since a coup threw Myanmar into chaos amid war crimes accusations against the military. Neither the military nor an increasingly organized resistance are showing signs of compromise. 
- <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077371555/u-k-s-boris-johnson-visits-kyiv-to-stand-with-ukraine-and-putin-remarks-on-tensi">U.K.'s Boris Johnson visits Kyiv to stand with Ukraine and Putin remarks on tensions</a> NPR: British Prime Minister Boris Johnson flew to Kyiv to meet with Ukrainian President Volodymyr Zelensky. In Moscow, Russian President Putin made his first public remarks on the crisis since late 2021. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
@@ -153,12 +157,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
- <p class="updated_time"> 12:30 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077289344/russia-ukraine-putin-boris-johnson">The U.S. and Russia are still far apart on Ukraine, Putin says</a> NPR: The Russian leader's remarks came as diplomatic efforts continue. British Prime Minister Boris Johnson visited Kyiv and Secretary of State Antony Blinken spoke with his Russian counterpart. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
- <p class="updated_time"> 12:17 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077282498/lightning-megaflash-record">A pair of monster lightning strikes have shattered records for distance and duration </a> NPR: One record-breaking flash covered a horizontal distance of about 477 miles; another lasted about 17 seconds. 
  <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
@@ -198,12 +198,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
- <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
+ <p class="updated_time"> 03:59 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/article/jan-6-inquiry-figures.html">Who Are the Key Figures of Interest in the Jan. 6 Inquiry?</a> NYT: The list of names being scrutinized by the House committee for their role in the Jan. 6 attack on the Capitol keeps growing. 
+ <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/congress-stocks.html">Democrats Rebel Against Pelosi Over Congressional Stock Trading</a> NYT: When the top House Democrat came out against banning ownership of individual stocks, a simmering issue exploded, especially among members eager to distance themselves from their leader. 
- <p class="updated_time"> 03:36 PM CT, Feb. 02 </p> 
+ <p class="updated_time"> 03:53 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
@@ -300,16 +308,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: The FDA said it would convene its independent panel of vaccine experts Feb. 15 to consider the data. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
- <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
- <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/marc-short-mike-pence.html">Former Pence Chief of Staff Has Testified to the Jan. 6 Committee</a> NYT: Marc Short, who has firsthand knowledge of former President Donald J. Trump’s pressure campaign on his vice president to throw out the election results, appeared under subpoena. 
  <p class="updated_time"> 07:00 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/midterm-elections-campaign-financing.html">Billionaires and Big Checks Shape 2022 Midterm Elections Battle </a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
  <p class="updated_time"> 06:17 AM CT, Feb. 01 </p> 
@@ -320,14 +322,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 04:01 AM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077166847/trump-escalates-racist-rhetoric-plays-on-white-grievance-at-recent-rallies">Trump escalates racist rhetoric and plays on white grievance at recent rallies</a> NPR: The former president alleged in Texas over the weekend that Black prosecutors investigating him are "racist." And that was not the first example in recent weeks of Trump employing racist rhetoric. 
- <p class="updated_time"> 04:00 AM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1076938812/there-are-election-reforms-that-both-democrats-and-republicans-seem-to-like">There are election reforms that both Democrats and Republicans seem to like</a> NPR: After failing to pass a voting rights bill, Democrats in Congress haven't made their next move clear. Bipartisan talks have begun over smaller measures that election experts still see as necessary. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
- <p class="updated_time"> 08:43 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/ms13-texas-prison-fight.html">Fatal Gang Fight Spurs Nationwide Lockdown of Federal Prison System</a> NYT: The Bureau of Prisons’ unusual step indicated that it was concerned that the violence could have a ripple effect on other facilities. 
  <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
  <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
