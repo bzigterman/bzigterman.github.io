@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 08:24 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60220702?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US trying to draw Russia into war, Putin says</a> BBC: Russia's leader criticises the US and Nato amid tensions over his military build-up near Ukraine. 
  <p class="updated_time"> 08:09 AM CT, Feb. 02 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/asia/omicron-asia-lunar-new-year.html">Omicron Surge in Asia Restricts Travel for Lunar New Year</a> NYT: The Omicron variant has dampened the plans of tens of millions of people across several Asian countries to travel for the holiday. 
  <p class="updated_time"> 05:44 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/metoo-voice-holland-netherlands.html">#MeToo Scandal at a Dutch TV Show Spurs a Sexual Assault Reckoning</a> NYT: The allegations against four men appearing on the Dutch version of “The Voice” talent show have helped to prompt a surge in reports of sexual assaults, victims’ groups say. 
- <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
 
 
 </details>
