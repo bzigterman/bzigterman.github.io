@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refuse to comply with the mandate. 
+ <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
+ <p class="updated_time"> 01:58 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 01:42 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60234377?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US boosts troops in Europe</a> BBC: The US president is to send troops to Poland and Romania amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Feb. 02 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 12:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
- <p class="updated_time"> 12:02 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 11:35 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">In Responses to Russia, U.S. Stands Firm on Who Can Join NATO</a> NYT: In responses to Moscow’s security demands, the U.S. and NATO rejected a demand that Ukraine never join the alliance but offered more transparency on missile deployments in Eastern Europe. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
@@ -55,10 +55,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60229199?at_medium=RSS&at_campaign=KARANGA">Climate change: EU moves to label nuclear and gas as sustainable despite internal row</a> BBC: A highly controversial decision to class nuclear and gas power as "green" splits EU members. 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
+ <p class="updated_time"> 09:02 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 08:41 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 07:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60227547?at_medium=RSS&at_campaign=KARANGA">'Electrifying' Vincent van Gogh self-portrait exhibition hailed by critics</a> BBC: Most major art critics award five stars to the new show at London's Courtauld Gallery. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
@@ -171,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 02:46 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/cyprus-rape.html">Cyprus Overturns Conviction of Woman Who Accused Israelis of Rape</a> NYT: More than two years after a British woman was convicted of fabricating claims, Cyprus’s top court reversed the decision and said that she had not received a fair trial. 
  <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
@@ -202,14 +200,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
+ <p class="updated_time"> 02:07 PM CT, Feb. 02 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 01:54 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 01:47 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-considered-blanket-pardons-for-jan-6-rioters-before-he-left-office-00004738">Trump considered blanket pardons for Jan. 6 rioters before he left office</a> Politico: The previously unreported conversations show the former president wasn't simply musing when he floated pardoning the rioters if he runs and wins in 2024. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/appeals-court-burr-search-warrant-00004739">Appeals court may overturn order keeping Burr search warrant secret</a> Politico: D.C. Circuit judges express concern about ruling denying L.A. Times' request to see why North Carolina senator's phone was searched as part of insider trading probe 
  <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Canada’s Conservatives punt leader Erin O’Toole</a> Politico: Here are the players who could take over. 
- <p class="updated_time"> 01:14 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
+ <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Stunning fall: Canada's Conservatives boot leader O'Toole</a> Politico: Here are the players who could take over. 
  <p class="updated_time"> 12:42 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077626487/alexander-vindman-sues-rudy-guiliani-trump-jr-impeachment">Alexander Vindman sues Trump allies for alleged intimidation over impeachment hearing</a> NPR: Vindman accuses Donald Trump Jr., Rudy Guiliani and others of conspiring to intimidate and then punish him for testifying in the former president's 2019 impeachment case. 
  <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
@@ -219,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:23 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
+ <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer death rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
  <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but two sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there's two sticking points. 
  <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
@@ -286,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
  <p class="updated_time"> 03:19 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/doug-jones-biden-scotus-nominee-00004299">Former Alabama Sen. Doug Jones to help guide Biden's SCOTUS nominee through the Senate</a> Politico: Biden has said he will nominate the first Black woman to the Supreme Court. 
- <p class="updated_time"> 01:00 PM CT, Feb. 01 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
@@ -374,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
  <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
- <p class="updated_time"> 02:07 PM CT, Jan. 26 </p> 
- <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
 
 
 </details>
