@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:42 PM CT, Feb. 02 </p> 
+ <a href="https://www.npr.org/2022/02/02/1077626487/alexander-vindman-sues-rudy-guiliani-trump-jr-impeachment">Alexander Vindman sues Trump allies for alleged intimidation over impeachment hearing</a> NPR: Vindman accuses Donald Trump Jr., Rudy Guiliani and others of conspiring to intimidate and then punish him for testifying in the former president's 2019 impeachment case. 
  <p class="updated_time"> 12:24 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/31/1077093027/georgia-district-attorney-calls-for-fbi-security-help-after-trumps-rally-comment">Georgia district attorney calls for FBI security help after Trump's rally comments</a> NPR: Fulton County District Attorney Fani Willis has asked the FBI to conduct a security check on the county courthouse and government center after Trump over the weekend decried investigations of him. 
  <p class="updated_time"> 03:26 PM CT, Jan. 31 </p> 
  <a href="https://www.npr.org/2022/01/31/1077064951/global-culture-wars-some-far-right-groups-in-the-u-s-are-taking-a-pro-russia-sta">Global culture wars: Some far right groups in the U.S. are taking a pro-Russia stance</a> NPR: Even as the U.S. opposes Russian aggression into Ukraine, some Americans' attitudes are softening toward Russia — particularly on the far right. 
- <p class="updated_time"> 03:19 PM CT, Jan. 31 </p> 
- <a href="https://www.npr.org/2022/01/31/1077064916/u-s-and-russia-clashed-over-the-ukraine-crisis-at-the-u-n-security-council-meeti">U.S. and Russia clashed over the Ukraine crisis at the U.N. Security Council meeting</a> NPR: The U.N. Security Council had a contentious session on Russia's pressure campaign against Ukraine. Most council members are urging Russia to take a diplomatic path. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
