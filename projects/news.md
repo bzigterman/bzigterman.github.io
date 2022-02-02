@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
+ <p class="updated_time"> 07:03 AM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60229749?at_medium=RSS&at_campaign=KARANGA">Eight-year-old's handwritten novel takes Idaho town by storm</a> BBC: Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho. 
  <p class="updated_time"> 06:32 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60228996?at_medium=RSS&at_campaign=KARANGA">DR Congo: Power cable collapse at Kinshasa market kills 26</a> BBC: The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa. 
  <p class="updated_time"> 06:06 AM CT, Feb. 02 </p> 
@@ -24,6 +28,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60220701?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau: Many dead after coup attempt, president says</a> BBC: President Embaló says he and his cabinet survived five hours under fire from heavy weaponry. 
  <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html">Where a Thousand Digital Eyes Keep Watch Over the Elderly</a> NYT: As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia? 
+ <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 01:48 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga enters Covid lockdown after aid delivered</a> BBC: Cases are detected among port workers as humanitarian aid arrives after a volcano and tsunami. 
- <p class="updated_time"> 01:33 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 12:59 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 12:23 AM CT, Feb. 02 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
- <p class="updated_time"> 02:34 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60221521?at_medium=RSS&at_campaign=KARANGA">Almost 500-mile-long lightning bolt crossed three US states</a> BBC: Experts said the bolt that stretched across Mississippi, Louisiana, and Texas was 'extraordinary'. 
  <p class="updated_time"> 02:31 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/health-60171592?at_medium=RSS&at_campaign=KARANGA">The myth of a 'super-charged' immune system</a> BBC: Suddenly we are all talking about immunity but how much do we really understand? 
  <p class="updated_time"> 02:17 PM CT, Feb. 01 </p> 
@@ -124,7 +126,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-poland-hungary-nato.html">For Some of Ukraine’s Neighbors, ‘Defend Europe’ Has Another Meaning</a> NYT: For the populist leaders of Poland and Hungary, Russia’s saber-rattling on the border with Ukraine takes a back seat to domestic politics and issues like immigration. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhogs Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
+ <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhog Day: Munching Marmots Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/metoo-voice-holland-netherlands.html">#MeToo Scandal at a Dutch TV Show Spurs a Sexual Assault Reckoning</a> NYT: The allegations against four men appearing on the Dutch version of “The Voice” talent show have helped to prompt a surge in reports of sexual assaults, victims’ groups say. 
  <p class="updated_time"> 05:11 AM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/australia/covid-women-violence-australia.html">Women Under Financial Stress Faced Abuse During Pandemic, Researchers Find</a> NYT: Women who experienced financial hardship as a result of the pandemic were also more likely to be abused by their partners, according to an Australian study. 
- <p class="updated_time"> 04:52 AM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/asia/winter-olympics-crackdown.html">Ahead of Winter Olympics, Beijing Moves to Quash Dissent</a> NYT: As athletes begin to arrive in China for the Olympics, the authorities are rounding up activists and shutting down social media accounts. 
 
 
 </details>
