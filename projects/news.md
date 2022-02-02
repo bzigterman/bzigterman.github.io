@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:41 PM CT, Feb. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60210867?at_medium=RSS&at_campaign=KARANGA">Tonga to enter lockdown after two Covid cases detected</a> BBC: Both cases were detected at a port where humanitarian aid has been arriving after the volcano and tsunami. 
  <p class="updated_time"> 10:57 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/guinea-bissau-coup-attempt.html">President of Guinea-Bissau Reasserts Control After Fears of Another Coup in Africa</a> NYT: Military leaders have taken power in five African countries in the last 18 months, but Guinea-Bissau — a small coastal nation no stranger to coups — appears to have just staved one off. 
  <p class="updated_time"> 10:23 PM CT, Feb. 01 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60224161?at_medium=RSS&at_campaign=KARANGA">A 477-mile-long megaflash crossed three US states.</a> BBC: A 477-mile-long megaflash crossed three southern US states. It shattered world records by 37 miles. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
- <p class="updated_time"> 01:10 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60209139?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great and seven-time Super Bowl winner confirms retirement</a> BBC: Tom Brady, one of the greatest players in NFL history, decides to stop playing as he could no longer make the "competitive commitment" to continue. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:36 PM CT, Feb. 01 </p> 
@@ -111,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 06:28 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60197918?at_medium=RSS&at_campaign=KARANGA">Israeli policies against Palestinians amount to apartheid - Amnesty</a> BBC: The rights group accuses it of racist policies, but Israel fiercely rejects "the false allegations". 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.wsj.com/articles/in-china-footage-of-a-chained-up-rural-mother-of-eight-draws-outcry-11643726076">In China, Footage of a Chained-Up Rural Mother Draws Outcry</a> WSJ: Video footage of a woman chained up in a shed in a village in eastern China has triggered online calls for better protections for women and the mentally ill in rural parts of the country. 
  <p class="updated_time"> 05:33 AM CT, Feb. 01 </p> 
