@@ -15,8 +15,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: Speaking to reporters before he left Ankara, President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
  <p class="updated_time"> 05:36 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
+ <p class="updated_time"> 05:27 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60242199?at_medium=RSS&at_campaign=KARANGA">The Enigma: Mysterious diamond from space up for auction</a> BBC: The mysterious gem, known as The Enigma, is believed to have come from outer space. 
  <p class="updated_time"> 05:22 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban takes another women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban accused over abducted women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
  <p class="updated_time"> 05:15 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
- <p class="updated_time"> 11:23 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-60239263?at_medium=RSS&at_campaign=KARANGA">Spotify boss says too early to know Joe Rogan row impact</a> BBC: Shares in the streaming platform fell by more than 10% in after-hours trading. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
  <p class="updated_time"> 11:17 PM CT, Feb. 02 </p> 
@@ -202,10 +202,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">U.S. forces launch raid in Syria, civilians also reported dead</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
+ <p class="updated_time"> 05:53 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">U.S. Commando Raid in Syria Targets a Senior Jihadist Figure</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn assault. Rescue workers on the ground say women and children were among at least 13 people killed in the raid. 
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
- <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">Reports of Civilian Casualties as U.S. Raid in Syria Appears to Target Qaeda Leader</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn commando assault. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
@@ -229,11 +229,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">January Jobs Report May Disappoint. It Is Sure to Perplex.</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">Why the January Jobs Report May Disappoint, and Is Sure to Perplex</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Securing the former president’s endorsement just made sense at the time. 
+ <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Gov. Charlie Baker's decision not to run for a third term opened a moderate lane for gubernatorial candidates. Geoff Diehl didn't take it. 
  <p class="updated_time"> 08:48 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/split-on-the-right-breitbart-joins-facebook-and-google-in-opposing-news-media-bill-pro-00004976">Split on the right: Breitbart joins Facebook and Google in opposing news media bill</a> Politico: Staffers of the conservative outlet have urged GOP lawmakers to oppose a bill that would help news publications demand compensation from social media giants. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
@@ -263,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
