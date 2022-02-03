@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: Speaking to reporters before he left Ankara, President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
+ <p class="updated_time"> 05:36 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 05:22 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban takes another women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
- <p class="updated_time"> 05:19 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 05:15 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
@@ -44,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">The U.S. has conducted a counterterrorism operation in Syria </a> NPR: At least thirteen civilians were killed in an attack the Pentagon called "successful." 
+ <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">U.S. counterterrorism operation in Syria kills civilians, aid group says</a> NPR: At least thirteen civilians were killed in an attack the Pentagon called "successful." 
  <p class="updated_time"> 12:07 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
