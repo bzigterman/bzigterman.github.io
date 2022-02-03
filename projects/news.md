@@ -53,10 +53,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 03:05 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
+ <p class="updated_time"> 02:39 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">Islamic State Leader Killed During U.S. Raid in Syria</a> WSJ: U.S. military forces in northwest Syria carried out a counterterrorism operation that killed Abu Ibrahim al-Hashimi al-Qurayshi, President Biden said. 
  <p class="updated_time"> 02:20 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">Bank of England Enacts First Back-to-Back Rate Rises Since 2004</a> WSJ: The move puts the U.K. central bank further ahead of its peers as they grapple with soaring inflation. The rate-setting panel was split on how big an increase was needed. 
- <p class="updated_time"> 02:13 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">Islamic State Leader Killed During U.S. Raid in Syria, Biden Says</a> WSJ: U.S. military forces in northwest Syria carried out a counterterrorism operation that killed Abu Ibrahim al-Hashimi al-Qurayshi, the president said. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
@@ -196,7 +196,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:33 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 07:41 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/policing-white-house-law-enforcement.html">How the White House Averted a Near Breakdown With the Police</a> NYT: Outreach by a top administration official in recent weeks dovetails with a broader shift to the center among Democratic leaders on criminal justice issues. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
