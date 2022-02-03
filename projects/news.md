@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
+ <p class="updated_time"> 01:58 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">The U.S. has conducted a counterterrorism operation in Syria </a> NPR: The Pentagon did not say who it targeted, but called the mission successful. Local media report civilian causalities. 
  <p class="updated_time"> 01:42 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch counter-terrorism raid in north-west Syria</a> BBC: A monitoring group says nine people were killed in the operation in an area dominated by jihadists. 
  <p class="updated_time"> 11:23 PM CT, Feb. 02 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 08:40 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60236191?at_medium=RSS&at_campaign=KARANGA">Erin O'Toole: Canada's Conservatives oust party leader</a> BBC: Erin O'Toole only lasted 18 months - and was blamed for Justin Trudeau's party's victory last year. 
- <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
@@ -88,7 +92,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 02:44 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘pulsed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘directed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
  <p class="updated_time"> 02:05 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi Will Put Partnership Against U.S. on Display at Olympics</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/01/1077371687/turkey-and-armenia-discuss-opening-borders-to-more-trade-and-travel">Turkey and Armenia discuss opening borders to more trade and travel</a> NPR: Long-time adversaries Turkey and Armenia are talking about opening their border to more trade and travel. But it doesn't look like all the issues of the past will be dealt with yet. 
  <p class="updated_time"> 04:01 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371666/what-the-history-of-u-s-sanctions-can-tell-us-about-their-sway-on-the-ukraine-cr">What the history of U.S. sanctions can tell us about their sway on the Ukraine crisis</a> NPR: NPR's Ari Shapiro talks with assistant professor of history at Cornell, Nicholas Mulder, on the history of U.S. sanctions and the role they're playing now in the tensions between the U.S. and Russia. 
- <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077371638/sex-alcohol-and-the-other-reasons-netflixs-1st-arabic-language-film-faces-critic">Sex, alcohol and the other reasons Netflix's 1st Arabic language film faces criticism</a> NPR: Netflix's first original Arabic language film has caused some off-camera controversy because of its depictions of alcohol use, adultery, infidelity and other issues some viewers consider immoral. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
- <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 09:27 AM CT, Feb. 01 </p> 
