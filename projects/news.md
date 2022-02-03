@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch counter-terrorism raid in north-west Syria</a> BBC: A monitoring group says nine people were killed in the operation in an area dominated by jihadists. 
  <p class="updated_time"> 11:23 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60239263?at_medium=RSS&at_campaign=KARANGA">Spotify boss says too early to know Joe Rogan row impact</a> BBC: Shares in the streaming platform fell by more than 10% in after-hours trading. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
@@ -38,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls ‘blood gold’. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
  <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year-old starring in Kenneth Branagh's Belfast</a> BBC: Meet Jude Hill, who stars as a young Kenneth Branagh in the director's Oscar-tipped film Belfast. 
  <p class="updated_time"> 06:33 PM CT, Feb. 02 </p> 
