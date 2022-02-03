@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:25 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
- <p class="updated_time"> 01:24 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 01:38 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
+ <p class="updated_time"> 01:37 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
+ <p class="updated_time"> 01:31 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 01:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
@@ -19,12 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 12:55 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
- <p class="updated_time"> 12:54 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 12:29 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
- <p class="updated_time"> 12:02 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Hit Two-Decade High, Threatening the World’s Poor</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 09:55 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077596112/u-s-sending-troops-to-eastern-europe-as-russia-masses-forces-near-ukraine">U.S. sending troops to Eastern Europe as Russia masses forces near Ukraine</a> NPR: The Pentagon announced Wednesday that thousands of U.S. troops will soon be dispatched to Eastern Europe amid a major military buildup of Russian forces around Ukraine. 
- <p class="updated_time"> 09:46 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077343584/2022-world-cup-qualifying-us-soccer-players-el-salvador-canada">Salvadoran Americans bring World Cup soccer hopes to El Salvador as it faces Canada</a> NPR: El Salvador's national soccer team plays its World Cup qualifying match against Canada Wednesday night — with several players and coaches from the United States. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077878538/legislation-restricts-what-teachers-can-discuss">From slavery to socialism, new legislation restricts what teachers can discuss</a> NPR: Researcher Jeffrey Sachs says that U.S. teachers are being censored for broaching certain topics. One group in New Hampshire is offering a $500 bounty for teachers who discuss critical race theory. 
  <p class="updated_time"> 01:04 PM CT, Feb. 03 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/irs-workers-mail-backlog-00005228">'All hands on deck': IRS shuffling workers to cut giant mail backlog</a> Politico: Current resources simply aren’t enough to overcome the challenge, the IRS commissioner said. 
  <p class="updated_time"> 12:11 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077955096/2-years-after-the-debacle-at-the-iowa-caucuses-democrats-eye-changes-to-the-cale">2 years after the debacle at the Iowa caucuses, Democrats eye changes to the calendar</a> NPR: On Feb. 3, 2020, an app meant to streamline the process for Iowa Democrats' presidential contest failed. That added to longstanding criticisms of the caucuses and Iowa's place on the calendar. 
- <p class="updated_time"> 12:02 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Hit Two-Decade High, Threatening the World’s Poor</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 11:31 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
  <p class="updated_time"> 11:01 AM CT, Feb. 03 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
- <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
