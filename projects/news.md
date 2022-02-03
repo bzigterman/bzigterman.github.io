@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
+ <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns 'destructive' US troops boost in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 10:57 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60239753?at_medium=RSS&at_campaign=KARANGA">HMS Endeavour: Row erupts over location of Cook's coal ship</a> BBC: Australian experts say a wreck off the US coast is the famous ship, a claim dismissed as "premature". 
  <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
- <p class="updated_time"> 10:28 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns 'destructive' US troops boost in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 10:16 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA">Facebook: Daily active users fall for first time in 18-year history</a> BBC: The technology giant's owner Meta said platforms like TikTok were hurting its growth. 
  <p class="updated_time"> 10:14 PM CT, Feb. 02 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls ‘blood gold’. 
- <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
  <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year old starring in Kenneth Branagh's Belfast</a> BBC: The BBC's Katie Razzell meets Jude Hill, who stars as nine-year-old Buddy in Branagh's film, Belfast. 
  <p class="updated_time"> 06:33 PM CT, Feb. 02 </p> 
