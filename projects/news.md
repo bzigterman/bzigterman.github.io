@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:04 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-raid-syria">A U.S. commando raid in Syria targets the leader of the Islamic State.</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was killed in the raid. 
+ <p class="updated_time"> 07:27 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Announces Death of ISIS Leader in Raid</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Biden said. 
+ <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 07:18 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Leader of IS 'taken off battlefield' in US raid</a> BBC: Abu Ibrahim al-Qurayshi was the target of a US special forces raid in Syria, President Biden says. 
  <p class="updated_time"> 07:02 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
- <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">Olympic Committee president will meet with Peng Shuai in Beijing this month </a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242549?at_medium=RSS&at_campaign=KARANGA">China: What does it want from the Ukraine crisis with Russia?</a> BBC: As Xi and Putin prepare to meet, China says it supports Russia's concerns - but doesn't want war. 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
- <p class="updated_time"> 04:08 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch major raid in north-west Syria</a> BBC: Rescue workers say 13 people were killed in the operation in a border area dominated by jihadists. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight, but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
@@ -51,20 +51,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 03:05 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
- <p class="updated_time"> 02:04 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 02:20 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">Bank of England Enacts First Back-to-Back Rate Rises Since 2004</a> WSJ: The move puts the U.K. central bank further ahead of its peers as they grapple with soaring inflation. The rate-setting panel was split on how big an increase was needed. 
+ <p class="updated_time"> 02:13 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">Islamic State Leader Killed During U.S. Raid in Syria, Biden Says</a> WSJ: U.S. military forces in northwest Syria carried out a counterterrorism operation that killed Abu Ibrahim al-Hashimi al-Qurayshi, the president said. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">U.S. counterterrorism operation in Syria kills civilians, aid group says</a> NPR: At least 13 civilians were killed in an attack the Pentagon called "successful." 
+ <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says U.S. strike killed ISIS leader in Syria</a> NPR: The president, who is expected to deliver remarks on the operation later Thursday, said all Americans returned safely from the operation. 
  <p class="updated_time"> 12:27 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/ukraine-missile-development-programs-are-challenge-for-moscow-11643887678">Ukraine Missile-Development Programs Are Challenge for Moscow</a> WSJ: Kyiv is wrapping up tests on the Neptune, a modified version of a Soviet-era weapon that could be used to help protect the Ukrainian coast. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
- <p class="updated_time"> 11:17 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. Special Forces, in a mission that included Apache gunships, airstrikes and drones. 
  <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
  <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
@@ -130,7 +130,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
+ <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled towards the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from both Ukraine and Russia, cut off from the world. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 09:55 AM CT, Feb. 02 </p> 
@@ -198,16 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:04 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-raid-syria">A U.S. commando raid in Syria targets the leader of the Islamic State.</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was killed in the raid. 
  <p class="updated_time"> 06:46 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Contentious Senate Hearing</a> NYT: Sarah Bloom Raskin, the White House’s nominee to be vice chair for supervision at the Federal Reserve, will find her views under fire. 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">U.S. forces launch raid in Syria, civilians also reported dead</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
- <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
+ <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. special forces kill ISIS leader in Syria raid</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
@@ -318,12 +314,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">Next big health crisis: 15M people could lose Medicaid when pandemic ends</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522571/after-voting-to-impeach-trump-rep-rice-faces-primary-challengers">After voting to impeach Trump, Rep. Rice faces primary challengers</a> NPR: South Carolina Congressman Tom Rice, one of the Republicans who voted to impeach former President Donald Trump, now faces a slew of primary challengers. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522557/senators-near-a-deal-on-sanctions-against-russia-if-it-invades-ukraine">Senators near a deal on sanctions against Russia if it invades Ukraine </a> NPR: A bipartisan group of Senators is getting close to finalizing a Russia sanctions bill to deter any aggressive action from Ukraine's eastern neighbor. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
+ <p class="updated_time"> 09:22 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/pfizer-vaccine-kids.html">Pfizer Asks F.D.A. to Clear 2 Vaccine Doses for Young Children as a Start</a> NYT: The Food and Drug Administration asked to review Pfizer’s data on two doses now, while the company continues to assess whether three doses would be more effective. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
  <p class="updated_time"> 06:31 PM CT, Jan. 27 </p> 
  <a href="https://www.cnn.com/2022/01/27/politics/murder-crime-guns-what-matters/index.html">The politics of crime vs. the politics of gun violence</a> CNN: The headlines seem very simple: Violent crime is on the rise. 
- <p class="updated_time"> 07:21 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
