@@ -7,22 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:55 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Calls Death of ISIS Leader a Warning to Terrorists Worldwide</a> NYT: President Biden said that the raid targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
- <p class="updated_time"> 09:54 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 10:14 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 10:13 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Bridge for Jeff Bezos’s Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
+ <p class="updated_time"> 10:06 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Calls Death of ISIS Leader a Warning to Terrorists Worldwide</a> NYT: President Biden said that the raid targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
+ <p class="updated_time"> 09:49 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old was reportedly playing near the well when the accident occurred. 
  <p class="updated_time"> 09:46 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Families living on the outskirts of Atmeh, Syria, said the U.S. raid that killed the ISIS leader made for a night of fear. 
+ <p class="updated_time"> 09:45 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60246032?at_medium=RSS&at_campaign=KARANGA">International Space Station to crash down to Earth in 2031</a> BBC: Nasa says the ISS will operate until 2030 before the agency hands over to commercial companies. 
  <p class="updated_time"> 09:24 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:12 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
  <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">GM Workers in Mexico Form Independent Union to Challenge Labor Rights</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 09:08 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old was with his father who had been fixing the well when the accident occurred. 
- <p class="updated_time"> 09:03 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhog Day: Munching Marmots Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
  <p class="updated_time"> 08:56 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 08:54 AM CT, Feb. 03 </p> 
@@ -58,9 +60,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:54 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242549?at_medium=RSS&at_campaign=KARANGA">China: What does it want from the Ukraine crisis with Russia?</a> BBC: As Xi and Putin prepare to meet, China says it supports Russia's concerns - but doesn't want war. 
  <p class="updated_time"> 04:46 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: Abu Ibrahim al-Hashimi al-Qurayshi detonated a suicide vest as troops approached in an operation ordered by President Biden. 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated explosives that killed him and some family members, President Biden said. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight, but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
+ <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
@@ -81,12 +83,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
- <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
  <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-sees-irans-nuclear-program-as-too-advanced-to-restore-key-goal-of-2015-pact-11643882545">U.S. Sees Iran's Nuclear Program as Too Advanced to Restore Key Goal</a> WSJ: The Biden administration expects a restored nuclear deal would leave Iran capable of amassing enough fuel for a bomb in a shorter time frame than the one that underpinned the 2015 agreement, U.S. officials said. 
- <p class="updated_time"> 10:57 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60239753?at_medium=RSS&at_campaign=KARANGA">HMS Endeavour: Row erupts over location of Cook's coal ship</a> BBC: Australian experts say a wreck off the US coast is the famous ship, a claim dismissed as "premature". 
  <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
@@ -99,12 +97,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
- <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year-old starring in Kenneth Branagh's Belfast</a> BBC: Meet Jude Hill, who stars as a young Kenneth Branagh in the director's Oscar-tipped film Belfast. 
  <p class="updated_time"> 06:30 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211404?at_medium=RSS&at_campaign=KARANGA">Budget 2022: India's job crisis leading to a 'nowhere generation'</a> BBC: Finding opportunities for hundreds of millions of young Indians is crucial for the country's future. 
- <p class="updated_time"> 06:24 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-60217779?at_medium=RSS&at_campaign=KARANGA">How Covid brought new roles for Singapore's theatre actors</a> BBC: The production company that found a way to put itself back in the spotlight. 
  <p class="updated_time"> 06:24 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60229146?at_medium=RSS&at_campaign=KARANGA">Iran accused of sowing Israel discontent with fake Jewish Facebook group</a> BBC: A disinformation unit targeted nationalist and ultra-religious Jews on Facebook, researchers say. 
  <p class="updated_time"> 06:21 PM CT, Feb. 02 </p> 
@@ -215,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces kill ISIS leader in Syria raid</a> Politico: U.S. special operations forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
+ <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: Abu Ibrahim al-Hashimi al-Qurayshi, head of the Islamic State, has been “taken off the battlefield,” the president said. 
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
