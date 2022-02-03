@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:22 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
  <p class="updated_time"> 02:21 PM CT, Feb. 03 </p> 
@@ -17,12 +19,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
  <p class="updated_time"> 02:08 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 01:52 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:38 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
- <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 01:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
@@ -202,13 +204,15 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
+ <p class="updated_time"> 03:13 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/biden-targets-gun-violence-new-york-00005248">Biden targets gun violence in New York City visit</a> Politico: Mayor Eric Adams, a retired NYPD captain, said he and President Biden are in lockstep. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Opening statements in Palin's libel case against the New York Times</a> Politico: The former Republican vice presidential nominee filed a libel suit over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
  <p class="updated_time"> 02:53 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/los-angeles-mayor-garcetti-maskless-photo-00005284">Garcetti defends maskless photo at NFL game: 'I hold my breath'</a> Politico: “I wore my mask the entire game and when people ask for a photograph I hold my breath and put it here and people can see that,” Mayor Garcetti said. 
  <p class="updated_time"> 02:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/andrew-cuomo-zucker-six-degrees-00005118">Six degrees of Andrew Cuomo: Why the former governor keeps dragging down others</a> Politico: CNN's Jeff Zucker is the latest casualty. 
- <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 02:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077878538/legislation-restricts-what-teachers-can-discuss">From slavery to socialism, new legislation restricts what teachers can discuss</a> NPR: Researcher Jeffrey Sachs says that U.S. teachers are being censored for broaching certain topics. One group in New Hampshire is offering a $500 bounty for teachers who discuss critical race theory. 
@@ -244,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
- <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/ken-griffin-donor-midterm-cash-00005052">The Republican megadonor funding the party’s 2022 hopes</a> Politico: The GOP donor was the biggest contributor to Republicans' biggest super PACs in 2021. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
