@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
- <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-syria-raid-witnesses">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
+ <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
  <p class="updated_time"> 04:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school">Uyghur kids recall physical and mental torment at Chinese boarding schools in Xinjiang</a> NPR: Being hit, locked in a dark room and forced to hold a stress position — two small Uyghur children recount abusive experiences in boarding school in Xinjiang, where they also lost their mother tongues. 
  <p class="updated_time"> 04:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
- <p class="updated_time"> 03:59 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 03:47 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710175/u-s-has-never-won-a-biathlon-olympic-medal-this-years-athletes-hope-to-change-th">U.S. has never won a biathlon Olympic medal. This year's athletes hope to change that</a> NPR: Biathlon is the only Winter Olympics sport in which the U.S. hasn't won a medal. Innovations since the last games have Americans hoping to break through in the skiing and target shooting event. 
- <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710168/canadian-truck-drivers-block-border-crossing-and-protest-at-capital-over-vaccine">Canadian truck drivers block border crossing and protest at capital over vaccine rule</a> NPR: Canada's vaccination rate far outpaces the U.S., but it still has a robust anti-vax movement, which this week took the form of truckers camped out in Ottawa. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
@@ -193,6 +191,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
+ <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
 
 
 </details>
