@@ -7,24 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:06 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077935739/isis-leader-dead-syria">What is known about the ISIS leader who died during a U.S. raid in Syria</a> NPR: The leader of the Islamic State group who died during a U.S. raid overnight in northwest Syria was largely a mystery, with almost no known photos, never appearing in public or in the group's videos. 
+ <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Calls Death of ISIS Leader a Warning to Terrorists Worldwide</a> NYT: President Biden said that the raid targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
+ <p class="updated_time"> 11:21 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <p class="updated_time"> 11:18 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 11:06 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Families living on the outskirts of Atmeh, Syria, said the U.S. raid that killed the ISIS leader made for a night of fear. 
  <p class="updated_time"> 10:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
- <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russians were planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
- <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 10:42 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 10:40 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
- <p class="updated_time"> 10:28 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 09:49 AM CT, Feb. 03 </p> 
@@ -53,14 +55,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">The Olympic chief will meet with Chinese tennis star Peng Shuai after safety concerns</a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games in a news conference Thursday. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
+ <p class="updated_time"> 06:24 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
  <p class="updated_time"> 06:22 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60242504?at_medium=RSS&at_campaign=KARANGA">Djokovic thanks Serbian president for support amid Covid test doubts</a> BBC: Serbian prosecutors have hit back at claims he submitted falsified Covid test certificates. 
  <p class="updated_time"> 06:20 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban accused over abducted women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
  <p class="updated_time"> 06:07 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60245273?at_medium=RSS&at_campaign=KARANGA">Europe entering Covid pandemic 'ceasefire', says WHO</a> BBC: WHO Europe director Hans Kluge says the continent is entering "period of tranquillity" from Covid. 
- <p class="updated_time"> 06:02 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and his family, President Biden said. 
  <p class="updated_time"> 05:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: Speaking to reporters before he left Ankara, President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
  <p class="updated_time"> 05:27 AM CT, Feb. 03 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
- <p class="updated_time"> 06:01 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1075264396/india-arif-khan-winter-olympics">At the Beijing Olympics, a Kashmiri skier will carry India's flag — all by himself</a> NPR: When you think of India, you might think of heat and humidity before snow. But India is home to parts of the Himalayan mountains. That's where Olympian Arif Khan first put on skis. 
  <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
@@ -196,12 +196,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
+ <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">Staff at a top Democratic firm revolt over its work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
+ <p class="updated_time"> 12:16 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/irs-workers-mail-backlog-00005228">'All hands on deck': IRS shuffling workers to cut giant mail backlog</a> Politico: Current resources simply aren’t enough to overcome the challenge, the IRS commissioner said. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 11:01 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/adams-defends-cuomo-dinner-00005218">Adams defends dinner with Cuomo</a> Politico: “I’m going to sit down with everyone. No stone will be left unturned to get my city back up and operating,” Adams said. 
  <p class="updated_time"> 11:00 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/02/03/248994291/the-life-of-a-civil-rights-queen">The life of a 'Civil Rights Queen'</a> NPR: Constance Baker Motley's life—as a lawyer, as a politician and the first Black woman appointed to the Federal bench – is outlined in a new biography by author Tomiko Brown-Nagin: Civil Rights Queen. 
- <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russians were planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
  <p class="updated_time"> 09:56 AM CT, Feb. 03 </p> 
@@ -336,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
