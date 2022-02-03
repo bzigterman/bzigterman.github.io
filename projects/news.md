@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <p class="updated_time"> 05:25 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the 2022 Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <p class="updated_time"> 05:24 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
+ <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
@@ -14,9 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:03 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:55 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
- <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
  <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
  <p class="updated_time"> 04:49 PM CT, Feb. 03 </p> 
@@ -39,16 +45,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
- <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of the Islamic State group. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
- <p class="updated_time"> 03:13 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:51 PM CT, Feb. 03 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:52 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed Himself, Family During U.S. Raid</a> WSJ: As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
- <p class="updated_time"> 11:48 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
  <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes Childs for Supreme Court, Testing Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
- <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
  <p class="updated_time"> 03:38 PM CT, Feb. 03 </p> 
