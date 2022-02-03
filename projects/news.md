@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:34 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 05:47 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
+ <p class="updated_time"> 05:45 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
  <p class="updated_time"> 05:25 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the 2022 Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics? Plus, How to Watch</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 05:24 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
  <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
- <p class="updated_time"> 04:49 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
@@ -67,10 +67,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
+ <p class="updated_time"> 12:42 PM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 12:29 PM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed Himself, Family During U.S. Raid</a> WSJ: As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
- <p class="updated_time"> 12:00 PM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:34 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 05:45 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
+ <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
- <p class="updated_time"> 03:58 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
  <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
