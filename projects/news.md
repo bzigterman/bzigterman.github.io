@@ -7,26 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <p class="updated_time"> 01:47 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 01:45 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
+ <p class="updated_time"> 01:41 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
  <p class="updated_time"> 01:38 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
- <p class="updated_time"> 01:37 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
  <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
- <p class="updated_time"> 01:31 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 01:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
  <p class="updated_time"> 01:04 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
- <p class="updated_time"> 12:55 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
- <p class="updated_time"> 12:29 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:39 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/andrew-cuomo-zucker-six-degrees-00005118">Six degrees of Andrew Cuomo: Why the former governor keeps dragging down others</a> Politico: CNN's Jeff Zucker is the latest casualty. 
  <p class="updated_time"> 01:34 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
@@ -239,11 +241,11 @@ permalink: /projects/news/
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
- <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/ken-griffin-donor-midterm-cash-00005052">The Republican megadonor funding the party’s 2022 hopes</a> Politico: The GOP donor was the biggest contributor to Republicans' biggest super PACs in 2021. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
+ <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077832479/house-panel-to-examine-what-went-wrong-with-5g-rollout">House panel to examine what went wrong with the 5G rollout</a> NPR: A congressional hearing examines why the activation of 5G service near airports was plagued by many delays and much confusion. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
