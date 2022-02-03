@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:41 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 09:55 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Calls Death of ISIS Leader a Warning to Terrorists Worldwide</a> NYT: President Biden said that the raid targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
- <p class="updated_time"> 09:30 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 09:54 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 09:46 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Families living on the outskirts of Atmeh, Syria, said the U.S. raid that killed the ISIS leader made for a night of fear. 
  <p class="updated_time"> 09:24 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:12 AM CT, Feb. 03 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
  <p class="updated_time"> 04:54 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242549?at_medium=RSS&at_campaign=KARANGA">China: What does it want from the Ukraine crisis with Russia?</a> BBC: As Xi and Putin prepare to meet, China says it supports Russia's concerns - but doesn't want war. 
+ <p class="updated_time"> 04:46 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: Abu Ibrahim al-Hashimi al-Qurayshi detonated a suicide vest as troops approached in an operation ordered by President Biden. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight, but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 03:11 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">Bank of England Enacts First Back-to-Back Rate Rises Since 2004</a> WSJ: The move puts the U.K. central bank further ahead of its peers as they grapple with soaring inflation. The rate-setting panel was split on how big an increase was needed. 
- <p class="updated_time"> 02:59 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: Abu Ibrahim al-Hashimi al-Qurayshi detonated a suicide vest as troops approached in an operation ordered by President Biden, U.S. officials said. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says ISIS leader is dead after U.S. strike</a> NPR: The president said all Americans returned safely from the operation. "Thanks to the bravery of our troops this horrible terrorist leader is no more," Biden said in remarks at the White House. 
  <p class="updated_time"> 12:27 AM CT, Feb. 03 </p> 
@@ -202,9 +204,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:18 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 09:51 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
- <p class="updated_time"> 08:50 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 09:47 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Contentious Senate Hearing</a> NYT: Sarah Bloom Raskin, the White House’s nominee to be vice chair for supervision at the Federal Reserve, found her views under fire. 
  <p class="updated_time"> 07:53 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/policing-white-house-law-enforcement.html">Inside a Near Breakdown Between the White House and the Police</a> NYT: Outreach by a top administration official in recent weeks dovetails with a broader shift to the center among Democratic leaders on criminal justice issues. 
