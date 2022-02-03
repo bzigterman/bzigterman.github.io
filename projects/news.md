@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban takes another women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
+ <p class="updated_time"> 05:19 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
+ <p class="updated_time"> 05:15 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
+ <p class="updated_time"> 04:54 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60242549?at_medium=RSS&at_campaign=KARANGA">China: What does it want from the Ukraine crisis with Russia?</a> BBC: As Xi and Putin prepare to meet, China says it supports Russia's concerns - but doesn't want war. 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">Reports of Civilian Casualties as U.S. Raid in Syria Appears to Target Qaeda Leader</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn commando assault. 
- <p class="updated_time"> 04:31 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
- <p class="updated_time"> 04:17 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 04:14 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 04:09 AM CT, Feb. 03 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
  <p class="updated_time"> 02:36 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
- <p class="updated_time"> 02:18 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Female activist latest to be held by Taliban after protests</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60217779?at_medium=RSS&at_campaign=KARANGA">How Covid brought new roles for Singapore's theatre actors</a> BBC: The production company that found a way to put itself back in the spotlight. 
  <p class="updated_time"> 06:24 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60229146?at_medium=RSS&at_campaign=KARANGA">Iran accused of sowing Israel discontent with fake Jewish Facebook group</a> BBC: A disinformation unit targeted nationalist and ultra-religious Jews on Facebook, researchers say. 
- <p class="updated_time"> 06:21 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60225463?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Life inside the Winter Olympics bubble</a> BBC: From robot chefs to daily testing - this is what life is like inside the Winter Games bubbles. 
  <p class="updated_time"> 06:19 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60226453?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis far from minds in idyllic Vladimir</a> BBC: Russians in the ancient town of Vladimir have little time for talk of conflict with their neighbour. 
  <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/israel-commanders-palestinian-man.html">Israeli Commanders Disciplined in Death of Palestinian-American Man</a> NYT: Three Israeli military commanders have been reprimanded and reassigned after an investigation into the death of a 78-year-old man after he was detained. 
  <p class="updated_time"> 08:45 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/science/groundhogs-animal-behavior.html">Groundhog Day: Munching Marmots Emerge From the Scientific Shadows</a> NYT: New research aims to shed light on the social habits of the popular, but often misunderstood, animal. 
- <p class="updated_time"> 07:23 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-sanctions-list.html">White House Ready With Sanctions on Putin's Inner Circle</a> NYT: The Biden administration said the penalties would exceed any levied recently against Russia. It is unclear whether the list of targets includes Vladimir V. Putin himself. 
  <p class="updated_time"> 07:11 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">U.S. forces launch raid in Syria, civilians also reported dead</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
@@ -263,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
