@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 02:20 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 02:18 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Female activist latest to be 'arrested' by Taliban after protests</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
  <p class="updated_time"> 02:03 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch major raid in north-west Syria</a> BBC: Rescue workers say 13 people were killed in the operation in a border area dominated by jihadists. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
@@ -29,16 +33,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 10:16 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA">Facebook: Daily active users fall for first time in 18-year history</a> BBC: The technology giant's owner Meta said platforms like TikTok were hurting its growth. 
- <p class="updated_time"> 10:14 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60239038?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe pauses donations to Canada truckers</a> BBC: The protest could require military intervention, the police chief of Ottawa meanwhile suggested. 
  <p class="updated_time"> 09:50 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
- <p class="updated_time"> 08:40 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60236191?at_medium=RSS&at_campaign=KARANGA">Erin O'Toole: Canada's Conservatives oust party leader</a> BBC: Erin O'Toole only lasted 18 months - and was blamed for Justin Trudeau's party's victory last year. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. special forces, in a mission that included Apache gunships, airstrikes and drones. 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. Special Forces, in a mission that included Apache gunships, airstrikes and drones. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 07:18 PM CT, Feb. 02 </p> 
@@ -69,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/60083320?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: South Africa’s 1996 triumph and its role in post-apartheid change</a> BBC: South Africa's 1995 Rugby World Cup win was a huge moment in the country's post-apartheid history. Within a year, there was another. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 16 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
- <p class="updated_time"> 04:11 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60233902?at_medium=RSS&at_campaign=KARANGA">Djokovic Covid tests were valid, Serbian officials say</a> BBC: Doubts have been cast over the validity of documents the tennis star submitted to enter Australia. 
  <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
@@ -187,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
- <p class="updated_time"> 09:45 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/vaccine-mandate-uk-nhs.html">Javid Calls For Review of England’s Vaccine Mandate for Health Workers</a> NYT: A deadline of April 1, imposed in the fall when Delta was raging, may not be the right policy for Omicron, the health secretary, Sajid Javid, said on Monday. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
