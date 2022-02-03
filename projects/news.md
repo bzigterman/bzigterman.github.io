@@ -7,14 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 PM CT, Feb. 02 </p> 
+ <p class="updated_time"> 06:30 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60211404?at_medium=RSS&at_campaign=KARANGA">Budget 2022: India's job crisis leading to a 'nowhere generation'</a> BBC: Finding opportunities for hundreds of millions of young Indians is crucial for the country's future. 
+ <p class="updated_time"> 06:24 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60229146?at_medium=RSS&at_campaign=KARANGA">Iran accused of sowing Israel discontent with fake Jewish Facebook group</a> BBC: A disinformation unit targeted nationalist and ultra-religious Jews on Facebook, researchers say. 
+ <p class="updated_time"> 06:21 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60225463?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Life inside the Winter Olympics bubble</a> BBC: From robot chefs to daily testing - this is what life is like inside the Winter Games bubbles. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60226453?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis far from minds in idyllic Vladimir</a> BBC: Russians in the ancient town of Vladimir have little time for talk of conflict with their neighbour. 
+ <p class="updated_time"> 06:18 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Biden Calls Out Putin’s Actions; Is He Pushing Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But that strategy could provoke Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60200132?at_medium=RSS&at_campaign=KARANGA">'I have had more time, silence and solitude to write'</a> BBC: Why authors like Isabel Allende have moved the traditional book tour online. 
+ <p class="updated_time"> 06:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
+ <p class="updated_time"> 06:06 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60083320?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: South Africa’s 1996 triumph and its role in post-apartheid change</a> BBC: South Africa's 1995 Rugby World Cup win was a huge moment in the country's post-apartheid history. Within a year, there was another. 
+ <p class="updated_time"> 05:58 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 05:18 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">Ukraine Live Updates: As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 05:08 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
- <p class="updated_time"> 04:57 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 16 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
  <p class="updated_time"> 04:11 PM CT, Feb. 02 </p> 
@@ -58,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
  <p class="updated_time"> 11:33 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi to Meet at Olympics, Putting Partnership Against U.S. on Display</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
+ <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi Will Put Partnership Against U.S. on Display at Olympics</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:04 AM CT, Feb. 02 </p> 
@@ -101,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 05:23 AM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60226454?at_medium=RSS&at_campaign=KARANGA">Stolen Roman statue returned to France after 50 years</a> BBC: The statue of the god Bacchus is traced by a Dutch art detective and returned to a French museum. 
- <p class="updated_time"> 05:14 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/59882774?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: What is China's Covid policy and does it work?</a> BBC: With the Winter Olympics just days away, China is sticking to its policy of suppressing all cases. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 04:11 AM CT, Feb. 02 </p> 
@@ -128,13 +140,9 @@ permalink: /projects/news/
  <p class="updated_time"> 08:50 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-56660483?at_medium=RSS&at_campaign=KARANGA">Tatmadaw: Myanmar's notoriously brutal military</a> BBC: Known as the Tatmadaw, it has shocked the world by killing hundreds of civilians in a crackdown. 
- <p class="updated_time"> 06:58 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60215615?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament fire: How it offers a break from the past</a> BBC: Some argue the damaged building could be rebuilt in a style that reflects South Africa's diversity. 
  <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60206491?at_medium=RSS&at_campaign=KARANGA">Expelled while pregnant, now determined to learn</a> BBC: Under former President John Magufuli, young mothers-to-be were forced to drop out. 
- <p class="updated_time"> 06:02 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60080683?at_medium=RSS&at_campaign=KARANGA">Ulysses: Celebrating 100 years of a literary masterpiece</a> BBC: The world marks the centenary of James Joyce's Ulysses, but the novel wasn't always celebrated. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
  <p class="updated_time"> 04:38 PM CT, Feb. 01 </p> 
@@ -149,18 +157,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/orban-putin-moscow-ukraine.html">Hungary’s leader, visiting Moscow, calls Russian demands reasonable and says sanctions are pointless.</a> NYT: On a friendly visit to Moscow, Prime Minister Viktor Orban of Hungary diverged sharply from his NATO and European Union allies. 
  <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
- <p class="updated_time"> 02:31 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/health-60171592?at_medium=RSS&at_campaign=KARANGA">The myth of a 'super-charged' immune system</a> BBC: Suddenly we are all talking about immunity but how much do we really understand? 
- <p class="updated_time"> 02:17 PM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60224161?at_medium=RSS&at_campaign=KARANGA">A 477-mile-long megaflash crossed three US states.</a> BBC: A 477-mile-long megaflash crossed three southern US states. It shattered world records by 37 miles. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
  <p class="updated_time"> 12:45 PM CT, Feb. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60222645?at_medium=RSS&at_campaign=KARANGA">Ukraine: We're defending ourselves - Volodymyr Zelensky</a> BBC: The President of Ukraine says there would be 'high risk for anyone' who tries to occupy their territory. 
  <p class="updated_time"> 12:25 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/ukraine-army-nato-russia.html">With Low-Tech, Trench Warfare, Ukraine’s Army Isn’t NATO Caliber</a> NYT: The United States and its allies have trained and helped equip the Ukrainian army. But it has little resemblance to the kind of sophisticated, contemporary military that distinguishes NATO members. 
- <p class="updated_time"> 10:22 AM CT, Feb. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&at_campaign=KARANGA">How HIV elimination is within Australia's reach</a> BBC: Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy. 
  <p class="updated_time"> 10:16 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/middleeast/syria-prison-isis-boys.html">Teenage Inmates Found Among the 500 Dead in Syria Prison Attack</a> NYT: The bodies of at least two boys were found on a street behind the prison — the first confirmed deaths among up to 700 teenagers who had been detained there because they were the children of ISIS fighters. 
  <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
@@ -198,26 +200,36 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/de-blasio-congressional-run-00005013">De Blasio, newly departed from office, eyeing congressional run</a> Politico: De Blasio’s allies believe he could perform well among Black and Latino voters in parts of the district, though he has remained unpopular among conservative white voters and progressives, according to polls. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
+ <p class="updated_time"> 06:20 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/trump-jan-6-memos.html">Memos Show Roots of Trump’s Focus on Jan. 6 and Alternate Electors</a> NYT: Just over two weeks after Election Day, lawyers working with the Trump campaign set out a rationale for creating alternate slates of electors as part of an effort to buy time to overturn the results. 
+ <p class="updated_time"> 06:18 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Biden Calls Out Putin’s Actions; Is He Pushing Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But that strategy could provoke Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 06:15 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
+ <p class="updated_time"> 06:14 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
  <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
+ <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/bethany-mandel-conservative-childrens-books.html">‘Daddy, What’s an Originalist?’</a> NYT: A new series of children’s books seeks to turn conservative icons like Amy Coney Barrett into bedtime reading material. 
+ <p class="updated_time"> 06:11 PM CT, Feb. 02 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/policing-white-house-law-enforcement.html">White House Moves to Reset Relationship With Police Leaders</a> NYT: Outreach by a top administration official dovetails with a broader shift to the center among Democratic leaders on criminal justice issues. 
  <p class="updated_time"> 05:55 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/congress-stocks.html">Democrats Break With Leaders Over Congressional Stock Trading</a> NYT: With top House Democrats skeptical of barring lawmakers from owning individual stocks, a simmering issue has exploded, especially among members facing difficult re-election races. 
  <p class="updated_time"> 05:35 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 05:20 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-supreme-court-nominee.html">Republicans Weigh How Forcefully to Fight a Black Female Court Nominee</a> NYT: Despite differences in ideology, Republicans recognize that an aggressive challenge comes with political peril. 
- <p class="updated_time"> 04:50 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
- <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Panel Says Some Havana Syndrome Cases May Stem From Radio Energy</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-cancer-moonshot.html">Biden to Present Plan to Cut Cancer Death Rate in Half</a> NYT: The president aims to revive the cancer “moonshot” program, but experts expressed doubt that it would be possible to reduce the death rate so profoundly. 
  <p class="updated_time"> 04:16 PM CT, Feb. 02 </p> 
@@ -273,9 +285,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
- <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/democrats-redistricting-midterms-00004497">Dems avert total redistricting doomsday — but they’re not out of the woods</a> Politico: Democrats have seized this year’s redistricting battle with an unexpected ruthlessness, carving out more blue territory than most had expected even just a few months ago. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">Next big health crisis: 15M people could lose Medicaid when pandemic ends</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
@@ -294,10 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html">Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power</a> NYT: Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
- <p class="updated_time"> 07:25 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html">U.S. National Debt Tops $30 Trillion as Borrowing Surged</a> NYT: The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs. 
- <p class="updated_time"> 07:23 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/doug-jones-supreme-court.html">White House Chooses Doug Jones to Guide Supreme Court Nominee</a> NYT: Once President Biden picks a nominee, Mr. Jones will introduce her to senators and prepare her for hearings. 
  <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/pfizer-vaccine-kids.html">Pfizer Asks F.D.A. to Clear 2 Vaccine Doses for Young Children as a Start</a> NYT: The Food and Drug Administration asked to review Pfizer’s data on two doses now, while the company continues to assess whether three doses would be more effective. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
@@ -310,20 +318,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
  <p class="updated_time"> 06:00 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/democrats-gop-red-wave.html">How Democrats Can Stop a Red Wave</a> NYT: Republicans like their chances in November. But politics can change quickly. 
- <p class="updated_time"> 05:08 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/roy-blunt-califf-fda-00004374">Top Republican throws cold water on struggling FDA nominee</a> Politico: A White House spokesperson said Califf has met with 33 senators to date and is scheduled to meet with an additional 14 so far. 
  <p class="updated_time"> 04:54 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: The FDA said it would convene its independent panel of vaccine experts Feb. 15 to consider the data. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
- <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
- <p class="updated_time"> 08:07 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/donald-trump-election-results-fraud-voting-machines.html">Trump Had Role in Weighing Proposals to Seize Voting Machines</a> NYT: New accounts show that the former president was more directly involved than previously known in plans developed by outside advisers to use national security agencies to seek evidence of fraud. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:00 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/midterm-elections-campaign-financing.html">Billionaires and Big Checks Shape 2022 Midterm Elections Battle </a> NYT: The party committees for Democrats and Republicans each raised about $400 million in 2021, with control of the House and Senate up for grabs in 2022. 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
