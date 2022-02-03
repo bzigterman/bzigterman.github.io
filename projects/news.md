@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:19 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden to Speak on Death of ISIS Leader</a> NYT: President Biden had announced that Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Mr. Biden said. 
- <p class="updated_time"> 09:16 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 09:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 09:29 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Speaks on Death of ISIS Leader</a> NYT: President Biden had announced that Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Mr. Biden said. 
+ <p class="updated_time"> 09:24 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
+ <p class="updated_time"> 09:12 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
  <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">GM Workers in Mexico Form Independent Union to Challenge Labor Rights</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 09:08 AM CT, Feb. 03 </p> 
@@ -200,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:18 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 08:50 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Contentious Senate Hearing</a> NYT: Sarah Bloom Raskin, the White House’s nominee to be vice chair for supervision at the Federal Reserve, found her views under fire. 
  <p class="updated_time"> 07:53 AM CT, Feb. 03 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077832458/biden-to-travel-to-new-york-city-to-talk-about-gun-violence-with-mayor-adams">Biden to travel to New York City to talk about gun violence with Mayor Adams</a> NPR: When President Biden meets New York City Mayor Eric Adams on Thursday, the two will discuss gun violence and crime — as well as show support for law enforcement. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077765533/gop-rep-rice-stands-by-his-impeachment-vote-of-trump-it-could-cost-him-his-job">GOP Rep. Rice stands by his impeachment vote of Trump. It could cost him his job</a> NPR: The South Carolina Republican faces a number of primary challengers, including one who was just endorsed by the former president. 
- <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
