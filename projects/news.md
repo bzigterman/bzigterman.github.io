@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:16 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA">Facebook: Daily active users fall for first time in 18-year history</a> BBC: The technology giant's owner Meta said platforms like TikTok were hurting its growth. 
+ <p class="updated_time"> 10:14 PM CT, Feb. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60239038?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe pauses donations to Canada truckers</a> BBC: The protest could require military intervention, the police chief of Ottawa meanwhile suggested. 
  <p class="updated_time"> 09:50 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 08:40 PM CT, Feb. 02 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
- <p class="updated_time"> 07:43 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60239038?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe pauses donations to Canada truckers</a> BBC: The protest could require military intervention, the police chief of Ottawa meanwhile suggested. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 07:18 PM CT, Feb. 02 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">Conditions at a GM Plant in Mexico Spur a Labor Challenge</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 06:06 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60083320?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: South Africa’s 1996 triumph and its role in post-apartheid change</a> BBC: South Africa's 1995 Rugby World Cup win was a huge moment in the country's post-apartheid history. Within a year, there was another. 
- <p class="updated_time"> 05:34 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta warns advertising is slowing</a> BBC: Shares in the tech giant plunge after the firm says TikTok is hurting its growth. 
  <p class="updated_time"> 05:08 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60238194?at_medium=RSS&at_campaign=KARANGA">Four charged in drug death of The Wire actor Michael K Williams</a> BBC: Officials say the suspects sold drugs to Michael K Williams one day before his overdose death. 
  <p class="updated_time"> 04:29 PM CT, Feb. 02 </p> 
@@ -275,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/merkley-united-nations-chiefs-olympics-00004632">Merkley calls U.N. chief's decision to attend Beijing Olympics 'shameful'</a> Politico: "The U.N. has basically failed human rights," Sen. Merkley said. 
  <p class="updated_time"> 11:34 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/cnn-president-jeff-zucker-resigns-relationship-00004681">CNN President Jeff Zucker resigns after relationship with colleague</a> Politico: Zucker resigned after being asked about his relationship with a colleague following an investigation into former anchor Chris Cuomo. 
+ <a href="https://www.politico.com/news/2022/02/02/cnn-president-jeff-zucker-resigns-relationship-00004681">CNN President Zucker resigns after relationship with colleague</a> Politico: Jeff Zucker resigned after being asked about his relationship with a colleague following an investigation into former anchor Chris Cuomo. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:23 AM CT, Feb. 02 </p> 
