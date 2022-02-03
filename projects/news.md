@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
+ <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030800/nbc-is-in-an-awkward-position-with-the-politics-around-the-beijing-olympics">NBC is in an awkward position with the politics around the Beijing Olympics</a> NPR: While the Olympics often feel like a victory lap for NBC, the games' exclusive broadcaster in the U.S., the politics surrounding Beijing 2022 have put the network in an uncomfortable spot. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
+ <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA">European oil facilities hit by cyber-attacks</a> BBC: Multiple oil transport and storage companies across Europe have been hacked, the BBC has confirmed. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
  <p class="updated_time"> 02:09 PM CT, Feb. 03 </p> 
@@ -77,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
  <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
+ <p class="updated_time"> 09:03 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to Fabricate a Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 08:16 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">As Inflation Soars, Central Banks Scramble to Lift Rates</a> WSJ: Europe’s central banks signaled growing concern about soaring inflation and a determination to quench it by raising interest rates. 
  <p class="updated_time"> 07:45 AM CT, Feb. 03 </p> 
@@ -93,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/foreign-leaders-counter-biden-by-heading-to-beijing-for-olympics-11643894449">China's Olympics Guest List Highlights Tensions With West</a> WSJ: Leaders from roughly two dozen countries are set to attend, highlighting a growing divide between Western democracies and those showing solidarity with a power seeking to challenge the U.S.-led global order. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
- <p class="updated_time"> 06:22 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60242504?at_medium=RSS&at_campaign=KARANGA">Djokovic thanks Serbian president for support amid Covid test doubts</a> BBC: Serbian prosecutors have hit back at claims he submitted falsified Covid test certificates. 
  <p class="updated_time"> 06:20 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban accused over abducted women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
  <p class="updated_time"> 06:07 AM CT, Feb. 03 </p> 
@@ -159,14 +165,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710119/the-multi-ethnic-state-of-bosnia-is-once-again-in-crisis">The multi-ethnic state of Bosnia is once again in crisis</a> NPR: Samantha Power, journalist turned diplomat and now head of USAID, famously wrote about the responsibility to stop genocide. Her mission now is to help shore up Bosnia's fragile multi-ethnic democracy. 
- <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
- <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
- <p class="updated_time"> 05:40 AM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60230560?at_medium=RSS&at_campaign=KARANGA">Ecuador: Rescue efforts after heavy rain triggers Quito landslide</a> BBC: At least 24 people have died after rainfall reaches 20-year-high in the capital, Quito. 
  <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
- <p class="updated_time"> 03:24 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/national-guard-vaccine-mandate.html">National Guard Is Not Exempt From Vaccine Mandate, Defense Secretary Says</a> NYT: Lloyd J. Austin’s rejection of the governors’ request to exempt their states’ troops from the national military coronavirus vaccine mandate sets the stage for a possible court fight. 
  <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
 
@@ -202,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 03:58 PM CT, Feb. 03 </p> 
@@ -219,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:13 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-targets-gun-violence-new-york-00005248">Biden targets gun violence in New York City visit</a> Politico: Mayor Eric Adams, a retired NYPD captain, said he and President Biden are in lockstep. 
  <p class="updated_time"> 03:11 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Contentious Senate Hearing</a> NYT: Sarah Bloom Raskin, the White House’s nominee to lead bank supervision at the Federal Reserve, is under fire for her views on climate regulation. 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Narrow Path to Confirmation</a> NYT: Sarah Bloom Raskin, the White House’s nominee to lead bank supervision at the Federal Reserve, is under fire for her views on climate regulation. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
- <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
@@ -342,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
