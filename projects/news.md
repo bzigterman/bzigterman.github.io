@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:48 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-to-boris-johnson-quit-adding-to-downing-street-turmoil.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
+ <p class="updated_time"> 03:53 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
  <p class="updated_time"> 03:47 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
