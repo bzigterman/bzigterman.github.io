@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:21 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 01:25 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 01:24 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
  <p class="updated_time"> 01:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
- <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
  <p class="updated_time"> 01:04 PM CT, Feb. 03 </p> 
