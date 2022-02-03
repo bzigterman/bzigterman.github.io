@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:13 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 08:25 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Announces Death of ISIS Leader in Raid</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Biden said. 
- <p class="updated_time"> 08:01 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Leader of IS 'taken off battlefield' in US raid</a> BBC: Abu Ibrahim al-Qurayshi was the target of a US special forces raid in Syria, President Biden says. 
+ <p class="updated_time"> 08:16 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Leader of IS 'taken off battlefield' in US raid</a> BBC: Abu Ibrahim al-Qurayshi detonated a bomb that killed him and his family, senior US officials say. 
  <p class="updated_time"> 07:45 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
@@ -56,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:11 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">Bank of England Enacts First Back-to-Back Rate Rises Since 2004</a> WSJ: The move puts the U.K. central bank further ahead of its peers as they grapple with soaring inflation. The rate-setting panel was split on how big an increase was needed. 
  <p class="updated_time"> 02:59 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">Islamic State Leader Killed During U.S. Raid in Syria</a> WSJ: U.S. military forces in northwest Syria carried out a counterterrorism operation that killed Abu Ibrahim al-Hashimi al-Qurayshi, President Biden said. 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">Islamic State Leader Killed During U.S. Raid in Syria</a> WSJ: Abu Ibrahim al-Hashimi al-Qurayshi detonated a suicide vest as troops approached in an operation ordered by Mr. Biden, U.S. officials said. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
