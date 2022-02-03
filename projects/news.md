@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 01:04 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <p class="updated_time"> 01:03 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <p class="updated_time"> 12:55 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
+ <p class="updated_time"> 12:54 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 12:29 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
- <p class="updated_time"> 12:28 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 12:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
- <p class="updated_time"> 12:09 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
  <p class="updated_time"> 12:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Hit Two-Decade High, Threatening the World’s Poor</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
@@ -53,18 +55,22 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
  <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html">GM Workers in Mexico Form Independent Union to Challenge Labor Rights</a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 08:56 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 08:54 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 07:45 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
+ <p class="updated_time"> 07:05 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/turkey-ukraine-sign-free-trade-drone-deals-as-erdogan-visits-kyiv-11643911532">Turkey, Ukraine Sign Free-Trade, Drone Deals as Erdogan Visits Kyiv</a> WSJ: The trip by the Turkish president was part of his effort to broker a solution to the Kyiv-Moscow crisis while asserting Turkey’s role as an aspiring power. 
  <p class="updated_time"> 07:02 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296">China's Unspoken Winter Olympics Theme: 'We're Here, Get Used to It'</a> WSJ: Beijing in the 2008 Summer Games gave an open-arm welcome to the world—and the 2022 Games will demonstrate its power and prestige. 
  <p class="updated_time"> 06:41 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">As Inflation Soars, Central Banks Scramble to Lift Rates</a> WSJ: Europe’s central banks signaled growing concern about soaring inflation and a determination to quench it by raising interest rates. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">The Olympic chief will meet with Chinese tennis star Peng Shuai after safety concerns</a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games in a news conference Thursday. 
+ <p class="updated_time"> 06:36 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/foreign-leaders-counter-biden-by-heading-to-beijing-for-olympics-11643894449">China's Olympics Guest List Highlights Tensions With West</a> WSJ: Leaders from roughly two dozen countries are set to attend, highlighting a growing divide between Western democracies and those showing solidarity with a power seeking to challenge the U.S.-led global order. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 06:24 AM CT, Feb. 03 </p> 
