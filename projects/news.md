@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:02 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 03:29 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
+ <p class="updated_time"> 03:24 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 03:19 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 03:05 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
  <p class="updated_time"> 02:36 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 02:18 AM CT, Feb. 03 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
  <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
- <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 10:57 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60239753?at_medium=RSS&at_campaign=KARANGA">HMS Endeavour: Row erupts over location of Cook's coal ship</a> BBC: Australian experts say a wreck off the US coast is the famous ship, a claim dismissed as "premature". 
  <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
  <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year-old starring in Kenneth Branagh's Belfast</a> BBC: Meet Jude Hill, who stars as a young Kenneth Branagh in the director's Oscar-tipped film Belfast. 
- <p class="updated_time"> 06:33 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60222464?at_medium=RSS&at_campaign=KARANGA">Vaccine trial for killer elephant virus begins</a> BBC: Scientists are embarking on the first trial of a vaccine to shield elephants from a deadly disease. 
  <p class="updated_time"> 06:30 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211404?at_medium=RSS&at_campaign=KARANGA">Budget 2022: India's job crisis leading to a 'nowhere generation'</a> BBC: Finding opportunities for hundreds of millions of young Indians is crucial for the country's future. 
  <p class="updated_time"> 06:24 PM CT, Feb. 02 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 02:19 AM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/putin-macron-ukraine.html">Putin and Macron Talk Again on Ukraine and De-Escalation</a> NYT: The two leaders discussed Ukraine and Russia’s demand for “security guarantees” that would include a legally binding halt on NATO expansion to the east. 
  <p class="updated_time"> 01:07 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">January Jobs Report May Disappoint. It Is Sure to Perplex.</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 01:14 AM CT, Feb. 03 </p> 
