@@ -200,12 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Securing the former president’s endorsement just made sense at the time. 
  <p class="updated_time"> 08:48 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/split-on-the-right-breitbart-joins-facebook-and-google-in-opposing-news-media-bill-pro-00004976">Breitbart bucks conservative media in fight over big tech legislation</a> Politico: Reporters and other staffers of the conservative outlet have urged GOP lawmakers to oppose a bill that would help news publications demand compensation from social media giants. 
+ <a href="https://www.politico.com/news/2022/02/02/split-on-the-right-breitbart-joins-facebook-and-google-in-opposing-news-media-bill-pro-00004976">Split on the right: Breitbart joins Facebook and Google in opposing news media bill</a> Politico: Staffers of the conservative outlet have urged GOP lawmakers to oppose a bill that would help news publications demand compensation from social media giants. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/congress-stocks.html">Democrats Break With Leaders Over Congressional Stock Trading</a> NYT: With top House Democrats skeptical of barring lawmakers from owning individual stocks, a simmering issue has exploded, especially among members facing difficult re-election races. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/democrats-congress-stocks-trading.html">Democrats Break With Leaders Over Congressional Stock Trading</a> NYT: With top House Democrats skeptical of barring lawmakers from owning individual stocks, a simmering issue has exploded, especially among members facing difficult re-election races. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/trump-jan-6-memos.html">Memos Show Roots of Trump’s Focus on Jan. 6 and Alternate Electors</a> NYT: Just over two weeks after Election Day, lawyers working with the Trump campaign set out a rationale for creating alternate slates of electors as part of an effort to buy time to overturn the results. 
  <p class="updated_time"> 07:09 PM CT, Feb. 02 </p> 
