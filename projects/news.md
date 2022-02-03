@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 02:51 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 02:09 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
- <p class="updated_time"> 02:08 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 01:52 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:38 PM CT, Feb. 03 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
- <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
@@ -208,20 +208,22 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
  <p class="updated_time"> 03:13 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-targets-gun-violence-new-york-00005248">Biden targets gun violence in New York City visit</a> Politico: Mayor Eric Adams, a retired NYPD captain, said he and President Biden are in lockstep. 
+ <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
+ <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Opening statements in Palin's libel case against the New York Times</a> Politico: The former Republican vice presidential nominee filed a libel suit over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
+ <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
  <p class="updated_time"> 02:53 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/los-angeles-mayor-garcetti-maskless-photo-00005284">Garcetti defends maskless photo at NFL game: 'I hold my breath'</a> Politico: “I wore my mask the entire game and when people ask for a photograph I hold my breath and put it here and people can see that,” Mayor Garcetti said. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 02:48 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
- <p class="updated_time"> 02:48 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
  <p class="updated_time"> 02:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/andrew-cuomo-zucker-six-degrees-00005118">Six degrees of Andrew Cuomo: Why the former governor keeps dragging down others</a> Politico: CNN's Jeff Zucker is the latest casualty. 
- <p class="updated_time"> 02:25 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077878538/legislation-restricts-what-teachers-can-discuss">From slavery to socialism, new legislation restricts what teachers can discuss</a> NPR: Researcher Jeffrey Sachs says that U.S. teachers are being censored for broaching certain topics. One group in New Hampshire is offering a $500 bounty for teachers who discuss critical race theory. 
  <p class="updated_time"> 12:27 PM CT, Feb. 03 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/irs-workers-mail-backlog-00005228">'All hands on deck': IRS shuffling workers to cut giant mail backlog</a> Politico: Current resources simply aren’t enough to overcome the challenge, the IRS commissioner said. 
  <p class="updated_time"> 12:11 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077955096/2-years-after-the-debacle-at-the-iowa-caucuses-democrats-eye-changes-to-the-cale">2 years after the debacle at the Iowa caucuses, Democrats eye changes to the calendar</a> NPR: On Feb. 3, 2020, an app meant to streamline the process for Iowa Democrats' presidential contest failed. That added to longstanding criticisms of the caucuses and Iowa's place on the calendar. 
- <p class="updated_time"> 11:31 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
  <p class="updated_time"> 11:01 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/adams-defends-cuomo-dinner-00005218">Adams defends dinner with Cuomo</a> Politico: “I’m going to sit down with everyone. No stone will be left unturned to get my city back up and operating,” Adams said. 
  <p class="updated_time"> 11:00 AM CT, Feb. 03 </p> 
