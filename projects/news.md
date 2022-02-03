@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
+ <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-syria-raid-witnesses">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
+ <p class="updated_time"> 04:49 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
+ <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false flag operation, are part of Russia's standard playbook. 
+ <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030835/the-head-of-the-islamic-state-militant-group-is-dead-heres-what-that-means-for-i">The head of the Islamic State Militant Group is dead. Here's what that means for ISIS</a> NPR: NPR's Ari Shapiro speaks with Charles Lister of the Middle East Institute about what the U.S. strike in Syria Wednesday night means for the future of ISIS. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
@@ -15,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school">Uyghur kids recall physical and mental torment at Chinese boarding schools in Xinjiang</a> NPR: Being hit, locked in a dark room and forced to hold a stress position — two small Uyghur children recount abusive experiences in boarding school in Xinjiang, where they also lost their mother tongues. 
- <p class="updated_time"> 04:08 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
  <p class="updated_time"> 04:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
  <p class="updated_time"> 03:59 PM CT, Feb. 03 </p> 
@@ -45,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA">European oil facilities hit by cyber-attacks</a> BBC: Multiple oil transport and storage companies across Europe have been hacked, the BBC has confirmed. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 02:09 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Neighbors of the ISIS leader in Atmeh, Syria, said the U.S. raid made for a night of fear. 
  <p class="updated_time"> 01:52 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
@@ -157,14 +163,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710175/u-s-has-never-won-a-biathlon-olympic-medal-this-years-athletes-hope-to-change-th">U.S. has never won a biathlon Olympic medal. This year's athletes hope to change that</a> NPR: Biathlon is the only Winter Olympics sport in which the U.S. hasn't won a medal. Innovations since the last games have Americans hoping to break through in the skiing and target shooting event. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710168/canadian-truck-drivers-block-border-crossing-and-protest-at-capital-over-vaccine">Canadian truck drivers block border crossing and protest at capital over vaccine rule</a> NPR: Canada's vaccination rate far outpaces the U.S., but it still has a robust anti-vax movement, which this week took the form of truckers camped out in Ottawa. 
- <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
- <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710119/the-multi-ethnic-state-of-bosnia-is-once-again-in-crisis">The multi-ethnic state of Bosnia is once again in crisis</a> NPR: Samantha Power, journalist turned diplomat and now head of USAID, famously wrote about the responsibility to stop genocide. Her mission now is to help shore up Bosnia's fragile multi-ethnic democracy. 
  <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
- <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
 
 
 </details>
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/jan-6-inquiry-figures.html">Who Are the Key Figures of Interest in the Jan. 6 Inquiry?</a> NYT: The list of names being scrutinized by the House committee for their role in the Jan. 6 attack on the Capitol keeps growing. 
  <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
- <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
