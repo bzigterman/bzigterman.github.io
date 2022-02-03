@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 11:06 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Biden Calls Death of ISIS Leader a Warning to Terrorists Worldwide</a> NYT: President Biden said that the raid targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
+ <p class="updated_time"> 11:06 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Families living on the outskirts of Atmeh, Syria, said the U.S. raid that killed the ISIS leader made for a night of fear. 
+ <p class="updated_time"> 10:57 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Bridge for Jeff Bezos’ Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russians were planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 10:42 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
- <p class="updated_time"> 10:42 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russians were planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 10:40 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
@@ -21,14 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
- <p class="updated_time"> 10:20 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam to Dismantle Bridge for Jeff Bezos’s Superyacht</a> NYT: The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city. 
- <p class="updated_time"> 10:14 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 09:49 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old was reportedly playing near the well when the accident occurred. 
- <p class="updated_time"> 09:46 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/us-syria-raid-witnesses.html">Witnesses Describe US-Led Syria Raid: ‘Those Who Remain Will Die'</a> NYT: Families living on the outskirts of Atmeh, Syria, said the U.S. raid that killed the ISIS leader made for a night of fear. 
  <p class="updated_time"> 09:45 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60246032?at_medium=RSS&at_campaign=KARANGA">International Space Station to crash down to Earth in 2031</a> BBC: Nasa says the ISS will operate until 2030 before the agency hands over to commercial companies. 
  <p class="updated_time"> 09:42 AM CT, Feb. 03 </p> 
@@ -59,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban accused over abducted women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
  <p class="updated_time"> 06:07 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60245273?at_medium=RSS&at_campaign=KARANGA">Europe entering Covid pandemic 'ceasefire', says WHO</a> BBC: WHO Europe director Hans Kluge says the continent is entering "period of tranquillity" from Covid. 
+ <p class="updated_time"> 06:02 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and his family, President Biden said. 
  <p class="updated_time"> 05:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: Speaking to reporters before he left Ankara, President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
  <p class="updated_time"> 05:27 AM CT, Feb. 03 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
  <p class="updated_time"> 04:54 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242549?at_medium=RSS&at_campaign=KARANGA">China: What does it want from the Ukraine crisis with Russia?</a> BBC: As Xi and Putin prepare to meet, China says it supports Russia's concerns - but doesn't want war. 
- <p class="updated_time"> 04:46 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed During U.S. Raid in Syria</a> WSJ: As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated explosives that killed him and some family members, President Biden said. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
@@ -198,7 +198,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:01 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/adams-defends-cuomo-dinner-00005218">Adams defends dinner with Cuomo</a> Politico: “I’m going to sit down with everyone. No stone will be left unturned to get my city back up and operating,” Adams said. 
- <p class="updated_time"> 10:42 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 11:00 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/sections/codeswitch/2022/02/03/248994291/the-life-of-a-civil-rights-queen">The life of a 'Civil Rights Queen'</a> NPR: Constance Baker Motley's life—as a lawyer, as a politician and the first Black woman appointed to the Federal bench – is outlined in a new biography by author Tomiko Brown-Nagin: Civil Rights Queen. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russians were planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
@@ -219,11 +221,11 @@ permalink: /projects/news/
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
- <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/ken-griffin-donor-midterm-cash-00005052">The donor king of Chicago: Ken Griffin splashes midterm cash</a> Politico: The GOP donor was the biggest contributor to Republicans' biggest super PACs in 2021. 
+ <a href="https://www.politico.com/news/2022/02/03/ken-griffin-donor-midterm-cash-00005052">The Republican megadonor funding the party’s 2022 hopes</a> Politico: The GOP donor was the biggest contributor to Republicans' biggest super PACs in 2021. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077832479/house-panel-to-examine-what-went-wrong-with-5g-rollout">House panel to examine what went wrong with the 5G rollout</a> NPR: A congressional hearing examines why the activation of 5G service near airports was plagued by many delays and much confusion. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says ISIS leader is dead after U.S. strike</a> NPR: The president said all Americans returned safely from the operation. "Thanks to the bravery of our troops this horrible terrorist leader is no more," Biden said in remarks at the White House. 
  <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Gov. Charlie Baker's decision not to run for a third term opened a moderate lane for gubernatorial candidates. Geoff Diehl didn't take it. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
@@ -308,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 11:23 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer death rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
- <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but 2 sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there are two sticking points. 
  <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
