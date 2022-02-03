@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-raid-syria">A U.S. commando raid in Syria targets the leader of the Islamic State.</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was killed in the raid. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">Olympic Committee president will meet with Peng Shuai in Beijing this month </a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games. 
- <p class="updated_time"> 06:32 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">U.S. Commando Raid in Syria Targets a Senior Jihadist Figure</a> NYT: An Iraqi security official said the target in the rare airborne raid was the leader of the Islamic State, Abu Ibrahim al-Hashimi al-Qurayshi, but U.S. officials did not confirm that. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 06:22 AM CT, Feb. 03 </p> 
@@ -49,12 +51,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 03:05 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
+ <p class="updated_time"> 02:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">Bank of England Enacts First Back-to-Back Rate Rises Since 2004</a> WSJ: The move puts the U.K. central bank further ahead of its peers as they grapple with soaring inflation. The rate-setting panel was split on how big an increase was needed. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">U.S. counterterrorism operation in Syria kills civilians, aid group says</a> NPR: At least 13 civilians were killed in an attack the Pentagon called "successful." 
- <p class="updated_time"> 12:07 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
+ <p class="updated_time"> 12:27 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-missile-development-programs-are-challenge-for-moscow-11643887678">Ukraine Missile-Development Programs Are Challenge for Moscow</a> WSJ: Kyiv is wrapping up tests on the Neptune, a modified version of a Soviet-era weapon that could be used to help protect the Ukrainian coast. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
  <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
- <p class="updated_time"> 02:05 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi Will Put Partnership Against U.S. on Display at Olympics</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077596112/u-s-sending-troops-to-eastern-europe-as-russia-masses-forces-near-ukraine">U.S. sending troops to Eastern Europe as Russia masses forces near Ukraine</a> NPR: The Pentagon announced Wednesday that thousands of U.S. troops will soon be dispatched to Eastern Europe amid a major military buildup of Russian forces around Ukraine. 
  <p class="updated_time"> 09:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077343584/2022-world-cup-qualifying-us-soccer-players-el-salvador-canada">Salvadoran Americans bring World Cup soccer hopes to El Salvador as it faces Canada</a> NPR: El Salvador's national soccer team plays its World Cup qualifying match against Canada Wednesday night — with several players and coaches from the United States. 
- <p class="updated_time"> 09:28 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/some-havana-syndrome-cases-likely-caused-by-electromagnetic-waves-panel-finds-11643833721">Some Havana Syndrome Cases Likely Caused by Electromagnetic Waves, Panel Finds</a> WSJ: Acoustic devices are a second likely cause of the debilitating condition, say intelligence experts, who find the symptoms “genuine and compelling.” 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
 
@@ -200,10 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis/us-raid-syria">A U.S. commando raid in Syria targets the leader of the Islamic State.</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was killed in the raid. 
  <p class="updated_time"> 06:46 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/federal-reserve-sarah-bloom-raskin.html">Sarah Bloom Raskin Faces a Contentious Senate Hearing</a> NYT: Sarah Bloom Raskin, the White House’s nominee to be vice chair for supervision at the Federal Reserve, will find her views under fire. 
- <p class="updated_time"> 06:32 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">U.S. Commando Raid in Syria Targets a Senior Jihadist Figure</a> NYT: An Iraqi security official said the target in the rare airborne raid was the leader of the Islamic State, Abu Ibrahim al-Hashimi al-Qurayshi, but U.S. officials did not confirm that. 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
