@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:27 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 07:37 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Announces Death of ISIS Leader in Raid</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Biden said. 
+ <p class="updated_time"> 07:30 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Leader of IS 'taken off battlefield' in US raid</a> BBC: Abu Ibrahim al-Qurayshi was the target of a US special forces raid in Syria, President Biden says. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
- <p class="updated_time"> 07:18 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Leader of IS 'taken off battlefield' in US raid</a> BBC: Abu Ibrahim al-Qurayshi was the target of a US special forces raid in Syria, President Biden says. 
  <p class="updated_time"> 07:02 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
+ <p class="updated_time"> 06:42 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old was with his father who had been fixing the well when the accident occurred. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">Olympic Committee president will meet with Peng Shuai in Beijing this month </a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/world/europe/us-embassy-staff-belarus.html">U.S. Orders Families of Embassy Staff to Leave Belarus</a> NYT: Washington cited “an increase in unusual and concerning Russian military activity near the border with Ukraine.” 
  <p class="updated_time"> 06:39 AM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/asia/myanmar-coup-anniversary-sanctions.html">Myanmar Is Mired in Conflict and Chaos a Year After a Coup</a> NYT: Daily protests, once loud and colorful, have been replaced by an eerie quiet. To mark the anniversary of the military takeover, protest leaders have called for a “silent strike.” 
- <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
 
 
 </details>
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/policing-white-house-law-enforcement.html">How the White House Averted a Near Breakdown With the Police</a> NYT: Outreach by a top administration official in recent weeks dovetails with a broader shift to the center among Democratic leaders on criminal justice issues. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Feb. 03 </p> 
@@ -203,7 +205,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. special forces kill ISIS leader in Syria raid</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
+ <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces kill ISIS leader in Syria raid</a> Politico: U.S. special operations forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
+ <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Gov. Charlie Baker's decision not to run for a third term opened a moderate lane for gubernatorial candidates. Geoff Diehl didn't take it. 
- <p class="updated_time"> 08:48 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/split-on-the-right-breitbart-joins-facebook-and-google-in-opposing-news-media-bill-pro-00004976">Split on the right: Breitbart joins Facebook and Google in opposing news media bill</a> Politico: Staffers of the conservative outlet have urged GOP lawmakers to oppose a bill that would help news publications demand compensation from social media giants. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
  <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/bethany-mandel-conservative-childrens-books.html">‘Daddy, What’s an Originalist?’</a> NYT: A new series of children’s books seeks to turn conservative icons like Amy Coney Barrett into bedtime reading material. 
- <p class="updated_time"> 06:11 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/policing-white-house-law-enforcement.html">White House Moves to Reset Relationship With Police Leaders</a> NYT: Outreach by a top administration official dovetails with a broader shift to the center among Democratic leaders on criminal justice issues. 
  <p class="updated_time"> 05:35 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html">Jeff Zucker Resigns From CNN After Relationship With Top Executive</a> NYT: The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues. 
  <p class="updated_time"> 05:20 PM CT, Feb. 02 </p> 
