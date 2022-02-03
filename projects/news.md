@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:32 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 08:41 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Announces Death of ISIS Leader in Raid</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi was dead following a U.S. operation in northwest Syria. “All Americans have returned safely from the operation,” Biden said. 
  <p class="updated_time"> 08:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: The move comes as others on the continent, including Denmark and Norway, are changing their approaches to the virus and scrapping pandemic protocols. 
@@ -65,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says U.S. strike killed ISIS leader in Syria</a> NPR: The president, who is expected to deliver remarks on the operation later Thursday, said all Americans returned safely from the operation. 
  <p class="updated_time"> 12:27 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/ukraine-missile-development-programs-are-challenge-for-moscow-11643887678">Ukraine Missile-Development Programs Are Challenge for Moscow</a> WSJ: Kyiv is wrapping up tests on the Neptune, a modified version of a Soviet-era weapon that could be used to help protect the Ukrainian coast. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/europes-insatiable-thirst-for-russias-gas-11643884204">Europe's Insatiable Thirst for Russia's Gas</a> WSJ: Despite the Continent’s efforts to go green and diversify gas imports, legislation and infrastructure hinder its attempts for energy independence. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
