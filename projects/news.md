@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:13 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 12:17 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">Reports of Civilian Casualties as U.S. Raid in Syria Appears to Target Qaeda Leader</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn commando assault. 
+ <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:50 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
  <p class="updated_time"> 02:15 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/directed-energy-unsolved-havana-syndrome-00004799">Directed-energy could explain unsolved ‘Havana Syndrome’ cases, U.S. intelligence panel finds</a> Politico: An intelligence community panel of experts said that some cases could be explained by electromagnetic or ultrasonic energy. 
- <p class="updated_time"> 02:07 PM CT, Feb. 02 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:47 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-considered-blanket-pardons-for-jan-6-rioters-before-he-left-office-00004738">Trump considered blanket pardons for Jan. 6 rioters before he left office</a> Politico: The previously unreported conversations show the former president wasn't simply musing when he floated pardoning the rioters if he runs and wins in 2024. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
