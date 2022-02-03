@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
@@ -280,6 +280,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077620199/cancer-moonshot-biden">Here's how the Biden administration says it will halve cancer death rates by 2047</a> NPR: President Biden is relaunching "Cancer Moonshot," an initiative he led as vice president. It aims to dramatically reduce cancer deaths and improve the experience of patients, survivors and families. 
  <p class="updated_time"> 11:01 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077589147/senators-make-headway-on-russia-sanctions-bill-but-two-sticking-points-remain">Senators make headway on Russia sanctions bill, but 2 sticking points remain</a> NPR: Senate Democrats and Republicans are close to striking a deal on a sanctions package for Russia to deter further aggression towards Ukraine. But there are two sticking points. 
+ <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 09:03 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/torture-guantanamo-terrorism-biden.html">Biden Administration Rejects Use of Testimony Obtained From Torture in Guantánamo Trial</a> NYT: The Justice Department rejected an interpretation by the retired chief prosecutor that lawyers could sometimes use statements obtained during C.I.A. interrogations. 
  <p class="updated_time"> 08:28 AM CT, Feb. 02 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
- <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/medicaid-states-pandemic-loss-00004153">Next big health crisis: 15M people could lose Medicaid when pandemic ends</a> Politico: State audits  could lead to as many as 15 million people, including 6 million children, losing their health insurance, according to one analysis. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522571/after-voting-to-impeach-trump-rep-rice-faces-primary-challengers">After voting to impeach Trump, Rep. Rice faces primary challengers</a> NPR: South Carolina Congressman Tom Rice, one of the Republicans who voted to impeach former President Donald Trump, now faces a slew of primary challengers. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
@@ -320,18 +320,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
  <p class="updated_time"> 06:00 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/democrats-gop-red-wave.html">How Democrats Can Stop a Red Wave</a> NYT: Republicans like their chances in November. But politics can change quickly. 
- <p class="updated_time"> 04:54 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/pfizer-asks-fda-to-authorize-covid-shot-for-children-under-5-00004380">Pfizer asks FDA to authorize Covid shot for children under 5</a> Politico: The FDA said it would convene its independent panel of vaccine experts Feb. 15 to consider the data. 
  <p class="updated_time"> 03:33 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio">Democrat Tim Ryan faces long odds running for Senate in Trump's Ohio</a> NPR: Democratic Congressman Tim Ryan is trying to flip a Senate seat in a state that's turned more Republican in recent years. He's aiming to win over working-class voters that Trump himself relied on. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
+ <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
@@ -342,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
  <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
- <p class="updated_time"> 01:46 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/vaccine-skeptics-gop-politics-trump-00003759">Trump World adjusts to the growing influence of vaccine skeptics within its ranks</a> Politico: The former president was set to lean into booster shots and his stewardship of Operation Warp Speed. That’s changed. 
  <p class="updated_time"> 10:06 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/bidens-fda-pick-ethics-pledges-elizabeth-warren-00003529">Biden’s FDA pick makes major ethics pledges to win over Elizabeth Warren</a> Politico: The Massachusetts Democrat is agreeing to back Biden’s FDA pick after he put restrictions on the work he’d do and employment he’d seek. 
  <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
