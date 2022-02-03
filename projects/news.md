@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
+ <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school">Uyghur kids recall physical and mental torment at Chinese boarding schools in Xinjiang</a> NPR: Being hit, locked in a dark room and forced to hold a stress position — two small Uyghur children recount abusive experiences in boarding school in Xinjiang, where they also lost their mother tongues. 
  <p class="updated_time"> 04:08 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
  <p class="updated_time"> 04:02 PM CT, Feb. 03 </p> 
@@ -165,12 +169,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
- <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled towards the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from both Ukraine and Russia, cut off from the world. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
- <p class="updated_time"> 09:55 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077596112/u-s-sending-troops-to-eastern-europe-as-russia-masses-forces-near-ukraine">U.S. sending troops to Eastern Europe as Russia masses forces near Ukraine</a> NPR: The Pentagon announced Wednesday that thousands of U.S. troops will soon be dispatched to Eastern Europe amid a major military buildup of Russian forces around Ukraine. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 03:58 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes Childs for Supreme Court, Testing Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
- <p class="updated_time"> 03:02 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077646928/lunar-new-year-federal-holiday">Lawmakers urge making Lunar New Year a federal holiday</a> NPR: Rep. Grace Meng says she introduced the measure to send the message to Asian Americans that they are a valued part of  American society. If the bill passes, it would become the 12th federal holiday. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
  <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
