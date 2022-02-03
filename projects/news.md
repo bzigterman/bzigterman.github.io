@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:17 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 04:09 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/explainers-59644043?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics: Why are they controversial?</a> BBC: Winter Olympics host China is being criticised over its human rights record. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch major raid in north-west Syria</a> BBC: Rescue workers say 13 people were killed in the operation in a border area dominated by jihadists. 
+ <p class="updated_time"> 04:07 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight, but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">Putin, Facing Sanction Threats, Has Been Saving for This Day</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60235154?at_medium=RSS&at_campaign=KARANGA">Argentina drugs: Adulterated cocaine kills 20 in Buenos Aires</a> BBC: Officials suspect the illegal drug was either laced with poison or "cut" with another substance. 
- <p class="updated_time"> 03:53 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
- <p class="updated_time"> 03:46 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 02:18 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Female activist latest to be held by Taliban after protests</a> BBC: This is the latest in a string of alleged arrests of women that have sparked huge outcry from rights groups. 
- <p class="updated_time"> 02:03 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch major raid in north-west Syria</a> BBC: Rescue workers say 13 people were killed in the operation in a border area dominated by jihadists. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
@@ -41,8 +45,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60239263?at_medium=RSS&at_campaign=KARANGA">Spotify boss says too early to know Joe Rogan row impact</a> BBC: Shares in the streaming platform fell by more than 10% in after-hours trading. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
+ <p class="updated_time"> 11:17 PM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. Special Forces, in a mission that included Apache gunships, airstrikes and drones. 
  <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
+ <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sees-irans-nuclear-program-as-too-advanced-to-restore-key-goal-of-2015-pact-11643882545">U.S. Sees Iran's Nuclear Program as Too Advanced to Restore Key Goal</a> WSJ: The Biden administration expects a restored nuclear deal would leave Iran capable of amassing enough fuel for a bomb in a shorter time frame than the one that underpinned the 2015 agreement, U.S. officials said. 
  <p class="updated_time"> 10:57 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60239753?at_medium=RSS&at_campaign=KARANGA">HMS Endeavour: Row erupts over location of Cook's coal ship</a> BBC: Australian experts say a wreck off the US coast is the famous ship, a claim dismissed as "premature". 
  <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
@@ -51,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA">Facebook: Daily active users fall for first time in 18-year history</a> BBC: The technology giant's owner Meta said platforms like TikTok were hurting its growth. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
- <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. Special Forces, in a mission that included Apache gunships, airstrikes and drones. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 07:18 PM CT, Feb. 02 </p> 
@@ -101,14 +107,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
  <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
- <p class="updated_time"> 02:44 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA">Havana Syndrome may be caused by ‘directed energy’</a> BBC: A new intelligence report provides another twist in the long-running mystery of US officials falling sick. 
  <p class="updated_time"> 02:05 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/putin-xi-to-meet-at-olympics-putting-partnership-against-u-s-on-display-11643841201">Putin, Xi Will Put Partnership Against U.S. on Display at Olympics</a> WSJ: Closer coordination between China and Russia complicates Biden administration strategies to isolate the Russian leader and punish him and Russia with economic sanctions should Russian forces attack Ukraine. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
- <p class="updated_time"> 01:53 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-wants-to-fully-reopen-to-the-worldin-october-11643849089">New Zealand Wants to Fully Reopen to the World---in October</a> WSJ: The South Pacific country presented a cautious plan to relax its border restrictions and allow quarantine-free international travel. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
- <p class="updated_time"> 10:36 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636">Responses to Moscow's Demands Show Gulf Between Russia and West</a> WSJ: The U.S. and NATO rejected the Kremlin’s demands about the alliance's expansion and instead blamed the tension on Russian President Vladimir Putin, details of two bluntly worded responses delivered to Moscow last week show. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 09:55 AM CT, Feb. 02 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
- <p class="updated_time"> 03:43 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/world/canada/trudeau-truckers-anti-vax-protests.html">Trudeau Condemns 'Freedom Convoy' Trucker Protest in Ottawa</a> NYT: The Canadian prime minister, who tested positive for Covid-19, railed against protesters for violence, racism and spreading misinformation. 
 
 
 </details>
@@ -206,6 +204,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
+ <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077832479/house-panel-to-examine-what-went-wrong-with-5g-rollout">House panel to examine what went wrong with 5G rollout</a> NPR: A congressional hearing examines why the activation of 5G service near airports was plagued by many delays and much confusion. 
+ <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077832472/biden-administration-officials-to-brief-senators-on-ukraine-russia-crisis">Biden administration officials to brief senators on Ukraine-Russia crisis</a> NPR: NPR's Steve Inskeep speaks to Democratic Sen. Jack Reed of Rhode Island, chairman of the Senate Committee of Armed Services, about the Russia-Ukraine standoff. 
+ <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1077832458/biden-to-travel-to-new-york-city-to-talk-about-gun-violence-with-mayor-adams">Biden to travel to New York City to talk about gun violence with Mayor Adams</a> NPR: President Biden meets New York City Mayor Eric Adams to discuss gun violence and crime, and to show support for law enforcement. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077765533/gop-rep-rice-stands-by-his-impeachment-vote-of-trump-it-could-cost-him-his-job">GOP Rep. Rice stands by his impeachment vote of Trump. It could cost him his job</a> NPR: The South Carolina Republican faces a number of primary challengers, including one who was just endorsed by the former president. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
@@ -253,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
@@ -314,18 +318,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077522571/after-voting-to-impeach-trump-rep-rice-faces-primary-challengers">After voting to impeach Trump, Rep. Rice faces primary challengers</a> NPR: South Carolina Congressman Tom Rice, one of the Republicans who voted to impeach former President Donald Trump, now faces a slew of primary challengers. 
  <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077522557/senators-near-a-deal-on-sanctions-against-russia-if-it-invades-ukraine">Senators near a deal on sanctions against Russia if it invades Ukraine </a> NPR: A bipartisan group of Senators is getting close to finalizing a Russia sanctions bill to deter any aggressive action from Ukraine's eastern neighbor. 
- <p class="updated_time"> 04:13 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077522543/biden-task-force-makes-progress-reuniting-families-separated-at-the-border">Biden task force makes progress reuniting families separated at the border</a> NPR: NPR's Leila Fadel talks to Homeland Security Secretary Alejandro Mayorkas about the process of reuniting families separated at the southern border by Trump-era policies. 
- <p class="updated_time"> 04:00 AM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077065644/abortion-critical-race-theory--banned-books-jon-ronson-podcast">When did America's culture wars begin, and how can they end? Jon Ronson has answers</a> NPR: America's culture wars are creating a world of "magnificent heroes and sickening villains" as people fight a fierce battle in black and white, says writer and podcaster Jon Ronson. 
  <p class="updated_time"> 02:00 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html">Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.</a> NYT: Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave. 
  <p class="updated_time"> 07:21 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/politics/pfizer-vaccine-kids.html">Pfizer Asks F.D.A. to Clear 2 Vaccine Doses for Young Children as a Start</a> NYT: The Food and Drug Administration asked to review Pfizer’s data on two doses now, while the company continues to assess whether three doses would be more effective. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
- <p class="updated_time"> 06:19 PM CT, Feb. 01 </p> 
- <a href="https://www.npr.org/2022/02/01/1077457061/heres-who-will-help-bidens-supreme-court-pick-navigate-senate-hearings">Here's who will help Biden's Supreme Court pick navigate Senate hearings</a> NPR: There can be twists and turns in the Senate confirmation process. President Biden has asked former Sen. Doug Jones of Alabama to help his nominee through meetings and hearings. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
@@ -384,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/27/breyer-puts-cherry-on-top-of-senates-schedule-00002664">Breyer puts cherry on top of Senate’s schedule</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Jan. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/27/breyer-throws-biden-a-lifeline-00002660"> Breyer throws Biden a lifeline</a> Politico Playbook: And Chuck Schumer tiptoes into Electoral Count Act reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 27 </p> 
- <a href="https://www.politico.com/news/2022/01/27/schumer-electoral-count-act-group-breathing-room-00002585">Schumer gives Senate's newest bipartisan gang breathing room on post-Jan. 6 reform</a> Politico: The majority leader isn't crushing the 16 lawmakers working to alter the Electoral Count Act, despite saying it was “unacceptably insufficient" compared to voting reform. 
 
 
 </details>
