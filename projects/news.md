@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
