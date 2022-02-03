@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:23 PM CT, Feb. 03 </p> 
+ <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:16 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: U.S. Evacuated 10 Civilians During Raid, Pentagon Says</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. The Pentagon said the civilians removed during the raid included children. 
@@ -202,9 +202,13 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
+ <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to `bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
- <p class="updated_time"> 03:22 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
+ <p class="updated_time"> 03:38 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
@@ -220,10 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
  <p class="updated_time"> 02:53 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/los-angeles-mayor-garcetti-maskless-photo-00005284">Garcetti defends maskless photo at NFL game: 'I hold my breath'</a> Politico: “I wore my mask the entire game and when people ask for a photograph I hold my breath and put it here and people can see that,” Mayor Garcetti said. 
- <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
- <p class="updated_time"> 02:48 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
  <p class="updated_time"> 02:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/andrew-cuomo-zucker-six-degrees-00005118">Six degrees of Andrew Cuomo: Why the former governor keeps dragging down others</a> Politico: CNN's Jeff Zucker is the latest casualty. 
  <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
