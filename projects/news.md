@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:05 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60238867?at_medium=RSS&at_campaign=KARANGA">Covid: New Zealand unveils phased border reopening plan</a> BBC: It first allows fully jabbed New Zealanders in Australia to return, later expanding to other visitors. 
  <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns 'destructive' US troops boost in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troops boost in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 10:57 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60239753?at_medium=RSS&at_campaign=KARANGA">HMS Endeavour: Row erupts over location of Cook's coal ship</a> BBC: Australian experts say a wreck off the US coast is the famous ship, a claim dismissed as "premature". 
  <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls ‘blood gold’. 
  <p class="updated_time"> 06:40 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year old starring in Kenneth Branagh's Belfast</a> BBC: The BBC's Katie Razzell meets Jude Hill, who stars as nine-year-old Buddy in Branagh's film, Belfast. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60236230?at_medium=RSS&at_campaign=KARANGA">Jude Hill: Meet the 11-year-old starring in Kenneth Branagh's Belfast</a> BBC: The BBC's Katie Razzall meets Jude Hill, who stars as nine-year-old Buddy in Branagh's film Belfast. 
  <p class="updated_time"> 06:33 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60222464?at_medium=RSS&at_campaign=KARANGA">Vaccine trial for killer elephant virus begins</a> BBC: Scientists are embarking on the first trial of a vaccine to shield elephants from a deadly disease. 
  <p class="updated_time"> 06:30 PM CT, Feb. 02 </p> 
