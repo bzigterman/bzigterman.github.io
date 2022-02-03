@@ -200,7 +200,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:17 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 01:14 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">Reports of Civilian Casualties as U.S. Raid in Syria Appears to Target Qaeda Leader</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn commando assault. 
  <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
