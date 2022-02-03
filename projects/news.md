@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Pentagon Leaders Speak After ISIS Leader’s Death</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
- <p class="updated_time"> 11:50 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 12:00 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news">Ukraine Live Updates: Russia Condemns U.S. Troop Deployment to Eastern Europe</a> NYT: The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China. 
+ <p class="updated_time"> 11:58 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/us-raid-syria-isis">Live Updates: Pentagon Leaders Speak After ISIS Leader’s Death</a> NYT: President Biden said that the operation targeting Abu Ibrahim al-Hashimi al-Qurayshi in Syria showed that American forces could “take out” terrorist threats anywhere in the world. 
+ <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
+ <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:48 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 11:44 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
- <p class="updated_time"> 11:44 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
  <p class="updated_time"> 11:36 AM CT, Feb. 03 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 08:54 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
- <p class="updated_time"> 08:45 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: The move comes as others on the continent, including Denmark and Norway, are changing their approaches to the virus and scrapping pandemic protocols. 
  <p class="updated_time"> 07:45 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will see historic bridge dismantled</a> BBC: Rotterdam says the world's richest man will foot the bill to remove part of the historic bridge. 
  <p class="updated_time"> 07:02 AM CT, Feb. 03 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says ISIS leader is dead after U.S. strike</a> NPR: The president said all Americans returned safely from the operation. "Thanks to the bravery of our troops this horrible terrorist leader is no more," Biden said in remarks at the White House. 
  <p class="updated_time"> 12:27 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/ukraine-missile-development-programs-are-challenge-for-moscow-11643887678">Ukraine Missile-Development Programs Are Challenge for Moscow</a> WSJ: Kyiv is wrapping up tests on the Neptune, a modified version of a Soviet-era weapon that could be used to help protect the Ukrainian coast. 
- <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/europes-insatiable-thirst-for-russias-gas-11643884204">Europe's Insatiable Thirst for Russia's Gas</a> WSJ: Despite the Continent’s efforts to go green and diversify gas imports, legislation and infrastructure hinder its attempts for energy independence. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
- <p class="updated_time"> 02:51 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 02:00 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 12:56 PM CT, Feb. 02 </p> 
@@ -202,7 +200,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’—Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
  <p class="updated_time"> 12:16 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/irs-workers-mail-backlog-00005228">'All hands on deck': IRS shuffling workers to cut giant mail backlog</a> Politico: Current resources simply aren’t enough to overcome the challenge, the IRS commissioner said. 
- <p class="updated_time"> 11:44 AM CT, Feb. 03 </p> 
+ <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 11:31 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
@@ -294,10 +292,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 03:02 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077646928/lunar-new-year-federal-holiday">Lawmakers urge making Lunar New Year a federal holiday</a> NPR: Rep. Grace Meng says she introduced the measure to send the message to Asian Americans that they are a valued part of  American society. If the bill passes, it would become the 12th federal holiday. 
- <p class="updated_time"> 02:58 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/white-house-not-using-imminent-russia-threat-00004820">White House stops using ‘imminent’ to describe Russian threat</a> Politico: “I think it sent a message that we weren’t intending to send,” said White House press secretary Jen Psaki. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
