@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
+ <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
+ <p class="updated_time"> 05:03 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:55 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation, President Biden says. 
  <p class="updated_time"> 04:52 PM CT, Feb. 03 </p> 
@@ -16,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false flag operation, are part of Russia's standard playbook. 
+ <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030835/the-head-of-the-islamic-state-militant-group-is-dead-heres-what-that-means-for-i">The head of the Islamic State Militant Group is dead. Here's what that means for ISIS</a> NPR: NPR's Ari Shapiro speaks with Charles Lister of the Middle East Institute about what the U.S. strike in Syria Wednesday night means for the future of ISIS. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
@@ -61,20 +67,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 01:09 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/erdogan-turkey-ukraine.html">Erdogan Arrives in Kyiv and Reiterates Support for Ukraine’s Sovereignty</a> NYT: President Recep Tayyip Erdogan said he was determined to help de-escalate the crisis. 
+ <p class="updated_time"> 12:00 PM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
+ <p class="updated_time"> 11:52 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed Himself, Family During U.S. Raid</a> WSJ: As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
  <p class="updated_time"> 11:48 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is Opening Ceremony for the Winter Olympics? </a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
- <p class="updated_time"> 11:36 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077935739/isis-leader-dead-syria">What is known about the ISIS leader who died during a U.S. raid in Syria</a> NPR: The leader of the Islamic State group who died during a U.S. raid overnight in northwest Syria was largely a mystery, with almost no known photos, never appearing in public or in the group's videos. 
- <p class="updated_time"> 11:11 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed Himself, Family During U.S. Raid</a> WSJ: As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
  <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 09:03 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to Fabricate a Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 08:16 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-for-second-straight-meeting-11643890280">As Inflation Soars, Central Banks Scramble to Lift Rates</a> WSJ: Europe’s central banks signaled growing concern about soaring inflation and a determination to quench it by raising interest rates. 
  <p class="updated_time"> 07:45 AM CT, Feb. 03 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/60083320?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: South Africa’s 1996 triumph and its role in post-apartheid change</a> BBC: South Africa's 1995 Rugby World Cup win was a huge moment in the country's post-apartheid history. Within a year, there was another. 
  <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
- <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710175/u-s-has-never-won-a-biathlon-olympic-medal-this-years-athletes-hope-to-change-th">U.S. has never won a biathlon Olympic medal. This year's athletes hope to change that</a> NPR: Biathlon is the only Winter Olympics sport in which the U.S. hasn't won a medal. Innovations since the last games have Americans hoping to break through in the skiing and target shooting event. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60225482?at_medium=RSS&at_campaign=KARANGA">Australian floods cut off outback towns and major supply routes</a> BBC: The military has been called in to deliver food and supplies as floods cause transport chaos. 
  <p class="updated_time"> 05:51 PM CT, Feb. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/london-police-misogyny-racism.html">Report on London Police Highlights Culture of Misogyny and Racism</a> NYT: Britain’s police watchdog says the London force needs to address “disgraceful” behavior after an investigation found widespread bullying, discrimination and sexual harassment. 
- <p class="updated_time"> 01:16 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html">In Congo, Floating Pastors Follow Mobile Flocks Along Busy River</a> NYT: To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway. 
 
 
 </details>
@@ -200,8 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
+ <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
+ <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
+ <a href="https://www.npr.org/2022/02/03/1078030849/covidtest-gov-has-been-helpful-in-getting-tests-out-but-theres-more-work-to-do">COVIDtest.gov has been helpful in getting tests out — but there's more work to do</a> NPR: The White House committed to buying a billion rapid COVID tests to distribute in the U.S. The launch of COVIDtests.gov has made it easy for Americans to order free tests, but there are still issues. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false flag operation, are part of Russia's standard playbook. 
+ <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
@@ -225,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Opening statements in Palin's libel case against the New York Times</a> Politico: The former Republican vice presidential nominee filed a libel suit over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
+ <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Sarah Palin's lawyers admit 'uphill' fight in libel suit against New York Times</a> Politico: The former Republican vice presidential nominee sued over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
  <p class="updated_time"> 02:53 PM CT, Feb. 03 </p> 
@@ -256,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
  <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
- <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/ken-griffin-donor-midterm-cash-00005052">The Republican megadonor funding the party’s 2022 hopes</a> Politico: The GOP donor was the biggest contributor to Republicans' biggest super PACs in 2021. 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
@@ -308,12 +312,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:16 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment">A butterfly conservatory is shutting down due to right-wing harassment</a> NPR: The National Butterfly Center in Mission, Texas, has been embroiled in political turmoil after fighting against the erection of a border wall. 
- <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710203/hospitals-ask-biden-administration-to-help-lower-the-soaring-cost-of-travel-nurs">Hospitals ask Biden administration to help lower the soaring cost of travel nurses</a> NPR: It's now been a year since the American Hospital Association alleged price gouging and asked the White House to investigate and act. Bidding wars among states have only escalated. 
  <p class="updated_time"> 03:54 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/article/jan-6-inquiry-figures.html">Who Are the Key Figures of Interest in the Jan. 6 Inquiry?</a> NYT: The list of names being scrutinized by the House committee for their role in the Jan. 6 attack on the Capitol keeps growing. 
- <p class="updated_time"> 03:51 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710161/rep-adam-schiff-on-latest-u-s-efforts-to-resolve-crisis-between-russia-and-ukrai">Rep. Adam Schiff on latest U.S. efforts to resolve crisis between Russia and Ukraine</a> NPR: NPR's Tamara Keith speaks with House Intelligence Committee Chair Adam Schiff about the latest efforts to find a diplomatic solution to the crisis between Russia and Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/merkley-united-nations-chiefs-olympics-00004632">Merkley calls U.N. chief's decision to attend Beijing Olympics 'shameful'</a> Politico: "The U.N. has basically failed human rights," Sen. Merkley said. 
  <p class="updated_time"> 11:34 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/cnn-president-jeff-zucker-resigns-relationship-00004681">CNN President Zucker resigns after relationship with colleague</a> Politico: Jeff Zucker stepped down after being asked about his relationship with a colleague following an investigation into former anchor Chris Cuomo. 
- <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
@@ -340,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
