@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:20 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
+ <p class="updated_time"> 02:03 AM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch major raid in north-west Syria</a> BBC: Rescue workers say 13 people were killed in the operation in a border area dominated by jihadists. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
- <p class="updated_time"> 01:58 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news">As Putin Blames West, Russia’s Military Buildup Continues</a> NYT: Satellite images captured the establishment of tents and shelters for troops near Ukraine’s borders. It may signal an increased “overall readiness level” of Russia’s military. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">The U.S. has conducted a counterterrorism operation in Syria </a> NPR: The Pentagon did not say who it targeted, but called the mission successful. Local media report civilian causalities. 
- <p class="updated_time"> 01:42 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60241158?at_medium=RSS&at_campaign=KARANGA">US special forces launch counter-terrorism raid in north-west Syria</a> BBC: A monitoring group says nine people were killed in the operation in an area dominated by jihadists. 
  <p class="updated_time"> 11:23 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60239263?at_medium=RSS&at_campaign=KARANGA">Spotify boss says too early to know Joe Rogan row impact</a> BBC: Shares in the streaming platform fell by more than 10% in after-hours trading. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60236191?at_medium=RSS&at_campaign=KARANGA">Erin O'Toole: Canada's Conservatives oust party leader</a> BBC: Erin O'Toole only lasted 18 months - and was blamed for Justin Trudeau's party's victory last year. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
+ <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">U.S. Forces Raid Syrian Site in Search of Terrorist Leader</a> WSJ: An operation to kill or capture a high-level terrorist in northwest Syria along the Turkish border was carried out by U.S. special forces, in a mission that included Apache gunships, airstrikes and drones. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 07:18 PM CT, Feb. 02 </p> 
@@ -103,10 +105,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077634712/us-troops-russia-ukraine">Biden shifts some 3,000 U.S. troops closer to Ukraine</a> NPR: Some of the troops are being moved from Germany to Romania; others will be deployed from Fort Bragg to bolster positions in Europe. 
  <p class="updated_time"> 12:51 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/middleeast/china-middle-east.html">As the U.S. Pulls Back From the Mideast, China Leans In</a> NYT: China is expanding its ties to Middle Eastern states with vast infrastructure investments and cooperation on technology and security. 
+ <p class="updated_time"> 11:52 AM CT, Feb. 02 </p> 
+ <a href="https://www.wsj.com/articles/brazil-central-bank-raises-benchmark-lending-rate-to-10-75-11643842358">Brazil Central Bank Raises Benchmark Lending Rate to 10.75%</a> WSJ: Brazil’s central bank raised its benchmark interest rate by 1.5 percentage points as expected, and signaled a smaller rate increase at its next meeting. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
- <p class="updated_time"> 10:56 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/nuclear-power-natural-gas-secure-eu-backing-as-green-investments-11643803487">Nuclear Power, Natural Gas Secure EU Backing as 'Green' Investments</a> WSJ: Brushing aside charges of greenwashing, the European Union will press ahead with a controversial proposal to label certain nuclear energy and natural-gas investments as sustainable despite strong opposition from some of the bloc’s member states, environmental groups and investors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/02/1076995641/russia-ukraine-border-invasion-conflict-donbas">The world worries of a Russian attack. But for these Ukrainians, war is already here</a> NPR: NPR travelled to the "temporarily occupied territories" on the Ukraine-Russia border, where the people who live there are in limbo – cut off from Ukraine, cut off from Russia, cut off from the world. 
  <p class="updated_time"> 10:36 AM CT, Feb. 02 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">January Jobs Report May Disappoint. It Is Sure to Perplex.</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 01:14 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/us-raid-syria.html">Reports of Civilian Casualties as U.S. Raid in Syria Appears to Target Qaeda Leader</a> NYT: Helicopter-borne Special Operations troops carried out the risky predawn commando assault. 
  <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
@@ -316,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/01/us/politics/pfizer-vaccine-kids.html">Pfizer Asks F.D.A. to Clear 2 Vaccine Doses for Young Children as a Start</a> NYT: The Food and Drug Administration asked to review Pfizer’s data on two doses now, while the company continues to assess whether three doses would be more effective. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
- <p class="updated_time"> 06:26 PM CT, Feb. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/politics/ben-ray-lujan-stroke.html">Senator Ben Ray Luján Recovering After Suffering Stroke</a> NYT: Any prolonged absence by the New Mexico Democrat threatens to impede the agenda of his party, which controls the Senate by the slimmest of margins. 
  <p class="updated_time"> 06:19 PM CT, Feb. 01 </p> 
  <a href="https://www.npr.org/2022/02/01/1077457061/heres-who-will-help-bidens-supreme-court-pick-navigate-senate-hearings">Here's who will help Biden's Supreme Court pick navigate Senate hearings</a> NPR: There can be twists and turns in the Senate confirmation process. President Biden has asked former Sen. Doug Jones of Alabama to help his nominee through meetings and hearings. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
