@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60238869?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia condemns destructive US troop increase in Europe</a> BBC: Extra US troops will go to Poland, Romania and Germany amid fears of a Russian invasion of Ukraine. 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
@@ -40,7 +42,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">The U.S. has conducted a counterterrorism operation in Syria </a> NPR: The Pentagon did not say who it targeted, but called the mission successful. Local media report civilian causalities. 
+ <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">The U.S. has conducted a counterterrorism operation in Syria </a> NPR: At least thirteen civilians were killed in an attack the Pentagon called "successful." 
+ <p class="updated_time"> 12:07 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 11:30 PM CT, Feb. 02 </p> 
  <a href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206">To Achieve 'Common Prosperity,' Xi Jinping Seeks to Scale China's 'Three Big Mountains'</a> WSJ: The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term. 
  <p class="updated_time"> 11:23 PM CT, Feb. 02 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/some-havana-syndrome-cases-likely-caused-by-electromagnetic-waves-panel-finds-11643833721">Some Havana Syndrome Cases Likely Caused by Electromagnetic Waves, Panel Finds</a> WSJ: Acoustic devices are a second likely cause of the debilitating condition, say intelligence experts, who find the symptoms “genuine and compelling.” 
  <p class="updated_time"> 09:26 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
- <p class="updated_time"> 09:02 AM CT, Feb. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404">U.S. Orders 3,000 Troops to Bolster European Allies in Russia-Ukraine Crisis</a> WSJ: American soldiers will head to Poland, Germany and Romania in the first major movement of U.S. forces in the standoff. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/31/world/europe/boris-johnson-gray-report.html">Sue Gray's Report on Parties Deepens Crisis for Boris Johnson</a> NYT: A long-awaited assessment on whether Downing Street flouted lockdown rules declared that there were “failures of leadership and judgment’’ by Mr. Johnson’s government. 
  <p class="updated_time"> 09:25 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/world/europe/ukraine-russia-united-nations.html">Angry US-Russia Exchange at UN Punctuates Deepening Ukraine Rift</a> NYT: With vitriolic accusations that echoed the Cold War era, the United States and Russia sparred in a bitter debate over the Ukraine crisis in a Security Council meeting watched by the world on Monday. 
- <p class="updated_time"> 08:28 PM CT, Jan. 31 </p> 
- <a href="https://www.nytimes.com/2022/01/31/us/politics/biden-qatar-nato.html">Biden Designates Qatar as a Major Non-NATO Ally</a> NYT: The move clears the way for greater security cooperation and investment at a time when President Biden is seeking help boosting natural gas supplies in Europe. 
  <p class="updated_time"> 08:24 PM CT, Jan. 31 </p> 
  <a href="https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html">U.S. and Allies Close to Reviving Nuclear Deal With Iran, Officials Say</a> NYT: A return to a 2015 accord is on the table, but the next decisions are up to the new government in Tehran, the Biden administration says. 
 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">U.S. forces launch raid in Syria, civilians also reported dead</a> Politico: U.S. special forces carried out what the Pentagon said was a large-scale counterterrorism raid in northwestern Syria early Thursday. 
  <p class="updated_time"> 05:08 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/biden-adams-alliance-violent-crime-00004920">Biden, Adams strike up alliance as Democrats face new threat: Rising violent crime</a> Politico: Both men are moderate Democrats who fended off rivals on the left to win their respective offices — and Adams is enthusiastically embracing the comparison. 
  <p class="updated_time"> 04:37 AM CT, Feb. 03 </p> 
@@ -230,6 +232,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">January Jobs Report May Disappoint. It Is Sure to Perplex.</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 09:01 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/governor-hopeful-diehl-all-in-trump-massachusetts-00005034">Governor hopeful goes all-in on Trump … in Massachusetts</a> Politico: Securing the former president’s endorsement just made sense at the time. 
+ <p class="updated_time"> 08:48 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/split-on-the-right-breitbart-joins-facebook-and-google-in-opposing-news-media-bill-pro-00004976">Split on the right: Breitbart joins Facebook and Google in opposing news media bill</a> Politico: Staffers of the conservative outlet have urged GOP lawmakers to oppose a bill that would help news publications demand compensation from social media giants. 
+ <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/democrats-congress-stocks-trading.html">Democrats Break With Leaders Over Congressional Stock Trading</a> NYT: With top House Democrats skeptical of barring lawmakers from owning individual stocks, a simmering issue has exploded, especially among members facing difficult re-election races. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
@@ -255,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Vindman, Key Figure in Trump Impeachment, Alleges Retaliation in Lawsuit</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
+ <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 04:18 PM CT, Feb. 02 </p> 
@@ -272,14 +280,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/02/1077710126/this-is-how-the-white-house-plans-to-cut-the-death-rate-of-cancer-in-25-years">This is how the White House plans to cut the death rate of cancer in 25 years</a> NPR: NPR's Ari Shapiro talks with Dr. Eric Lander, director of the White House Office of Science and Technology Policy, on the Biden administration's plan to cut the cancer death rate by 50% in 25 years. 
  <p class="updated_time"> 03:29 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077710105/u-s-troops-to-head-to-eastern-europe-as-russia-masses-forces-on-ukraines-border">U.S. troops to head to Eastern Europe as Russia masses forces on Ukraine's border</a> NPR: Pentagon press secretary John Kirby announced Wednesday that thousands of U.S. troops will be sent to Eastern Europe. The move comes during a major military buildup of Russian forces near Ukraine. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/progressive-restrainers-biden-ukraine-threats-00004655">The restraint crowd facepalms over Biden’s Ukraine threats</a> Politico: Advocates of limited military intervention got what they wanted when the U.S. quit Afghanistan. But now Washington is eyeing an indirect war with Russia. 
  <p class="updated_time"> 03:02 PM CT, Feb. 02 </p> 
  <a href="https://www.npr.org/2022/02/02/1077646928/lunar-new-year-federal-holiday">Lawmakers urge making Lunar New Year a federal holiday</a> NPR: Rep. Grace Meng says she introduced the measure to send the message to Asian Americans that they are a valued part of  American society. If the bill passes, it would become the 12th federal holiday. 
  <p class="updated_time"> 02:58 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/white-house-not-using-imminent-russia-threat-00004820">White House stops using ‘imminent’ to describe Russian threat</a> Politico: “I think it sent a message that we weren’t intending to send,” said White House press secretary Jen Psaki. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
- <p class="updated_time"> 02:15 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/directed-energy-unsolved-havana-syndrome-00004799">Directed-energy could explain unsolved ‘Havana Syndrome’ cases, U.S. intelligence panel finds</a> Politico: An intelligence community panel of experts said that some cases could be explained by electromagnetic or ultrasonic energy. 
+ <p class="updated_time"> 01:47 PM CT, Feb. 02 </p> 
+ <a href="https://www.politico.com/news/2022/02/02/trump-considered-blanket-pardons-for-jan-6-rioters-before-he-left-office-00004738">Trump considered blanket pardons for Jan. 6 rioters before he left office</a> Politico: The previously unreported conversations show the former president wasn't simply musing when he floated pardoning the rioters if he runs and wins in 2024. 
  <p class="updated_time"> 01:45 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/appeals-court-burr-search-warrant-00004739">Appeals court may overturn order keeping Burr search warrant secret</a> Politico: D.C. Circuit judges express concern about ruling denying L.A. Times' request to see why North Carolina senator's phone was searched as part of insider trading probe 
  <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
@@ -324,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
- <p class="updated_time"> 09:42 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/estonia-prime-minister-sanctions-moscow-00004082">Estonian PM calls for strong sanctions and ‘strategic patience’ in dealing with Moscow</a> Politico: Kaja Kallas urges dialogue with Putin, but no negotiation. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
@@ -368,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 08:56 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/news/2022/01/28/pittsburgh-bridge-collapse-biden-infrastructure-visit-00003148">Biden promotes his plan to repair bridges after dramatic collapse in Pennsylvania</a> Politico: The president visited the site of the collapsed bridge during his trip to Pittsburgh Friday. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
