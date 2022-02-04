@@ -7,20 +7,38 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:20 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078227530/winter-olympics-largest-teams">These are the largest teams competing at the Winter Olympics</a> NPR: More than 220 athletes will represent the United States at the Olympics in Beijing, making it the largest delegation at the Games. Other large teams include China and the Russian Olympic Committee. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
+ <p class="updated_time"> 10:06 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
+ <p class="updated_time"> 10:04 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 10:03 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
+ <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The 2022 Winter Olympics open with a colorful but subdued ceremony in Beijing</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. China has made history as the first country to host both the Summer and Winter Games. 
+ <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested, oiled-up flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
+ <p class="updated_time"> 10:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
+ <p class="updated_time"> 09:56 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078224979/winter-olympics-china-reaction">How the Winter Olympics are being received in China</a> NPR: Despite a campaign from China to increase enthusiasm for winter sports, many in the country are indifferent to the Games and excitement is more muted than in 2008. 
  <p class="updated_time"> 09:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
  <p class="updated_time"> 09:43 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
- <p class="updated_time"> 09:41 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 09:38 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
  <p class="updated_time"> 09:05 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60258611?at_medium=RSS&at_campaign=KARANGA">Winter storm disrupts travel and causes power blackouts in Texas</a> BBC: An ice and snow storm is causing travel chaos and power outages across Texas. 
- <p class="updated_time"> 07:49 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
+ <p class="updated_time"> 08:54 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60247542?at_medium=RSS&at_campaign=KARANGA">Meta moves to tackle creepy behaviour in virtual reality</a> BBC: Women describe their experiences but what can firms behind virtual-reality platforms do about it? 
+ <p class="updated_time"> 08:28 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60242407?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games officially under way after opening ceremony in Beijing</a> BBC: The 24th edition of the Winter Olympics is officially under way after the cauldron was lit in a restrained opening ceremony in Beijing. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 07:13 AM CT, Feb. 04 </p> 
@@ -33,8 +51,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 05:47 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
+ <p class="updated_time"> 05:10 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
+ <p class="updated_time"> 04:41 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
+ <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253">Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</a> WSJ: The areas, once engines of the Ukrainian economy, are now impoverished, depopulated enclaves that increasingly rely on Russian subsidies to survive. It’s what many fear could happen to the rest of the country if Vladimir Putin carries out a broader invasion. 
  <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
@@ -51,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Billionaire Bezos' superyacht sparks bridge row</a> BBC: Rotterdam's Koningshaven Bridge may be dismantled to allow the ship to leave a shipyard. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
+ <p class="updated_time"> 02:56 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60256262?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row deepens as students petition court</a> BBC: A video showing college gates being shut on a group of Muslim students has led to outrage. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
@@ -69,16 +95,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251921?at_medium=RSS&at_campaign=KARANGA">Canada won't call in troops against truckers - PM</a> BBC: Organisers say they plan to stay in Ottawa until Covid-19 health mandates are lifted nationwide. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
- <p class="updated_time"> 06:50 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
  <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Climate change: Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60236826?at_medium=RSS&at_campaign=KARANGA">Afghanistan women: 'I felt anxious going back to university'</a> BBC: Some female students went back to campus for the first time since the Taliban takeover. How did it feel? 
- <p class="updated_time"> 06:14 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60242083?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Winter Games start amid Covid and boycotts</a> BBC: The Winter Games begin amid tight Covid-19 restrictions and allegations of human rights abuses. 
  <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60239105?at_medium=RSS&at_campaign=KARANGA">Shackleton's Endurance: The impossible search for the greatest shipwreck</a> BBC: The latest bid to find Antarctic explorer Ernest Shackleton's lost polar yacht is set to get under way. 
  <p class="updated_time"> 06:02 PM CT, Feb. 03 </p> 
@@ -96,8 +118,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60254327?at_medium=RSS&at_campaign=KARANGA">Texas butterfly centre closes after QAnon threats</a> BBC: The National Butterfly Center in Texas was a major opponent of the US-Mexico border wall. 
- <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030835/the-head-of-the-islamic-state-militant-group-is-dead-heres-what-that-means-for-i">The head of the Islamic State Militant Group is dead. Here's what that means for ISIS</a> NPR: NPR's Ari Shapiro speaks with Charles Lister of the Middle East Institute about what the U.S. strike in Syria Wednesday night means for the future of ISIS. 
@@ -109,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school">Uyghur kids recall physical and mental torment at Chinese boarding schools in Xinjiang</a> NPR: Being hit, locked in a dark room and forced to hold a stress position — two small Uyghur children recount abusive experiences in boarding school in Xinjiang, where they also lost their mother tongues. 
- <p class="updated_time"> 04:02 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -131,24 +149,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
- <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077935739/isis-leader-dead-syria">What is known about the ISIS leader who died during a U.S. raid in Syria</a> NPR: The leader of the Islamic State group who died during a U.S. raid overnight in northwest Syria was largely a mystery, with almost no known photos, never appearing in public or in the group's videos. 
- <p class="updated_time"> 11:15 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/isis-was-staging-comeback-when-u-s-killed-leader-qurayshi-11643920809">ISIS Was Staging Comeback When U.S. Raid Led to Leader's Death</a> WSJ: The terrorist organization has regrouped in the three years since it lost its territory in Iraq and Syria, but its comeback has suffered a blow with the killing of Abu Ibrahim al-Hashimi al-Qurayshi. 
- <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
  <p class="updated_time"> 09:42 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60249702?at_medium=RSS&at_campaign=KARANGA">President Biden confirms Islamic State leader killed in Syria</a> BBC: US president says he sent in special forces to avoid civilian casualties, but target blew himself up. 
- <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">The Olympic chief will meet with Chinese tennis star Peng Shuai after safety concerns</a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games in a news conference Thursday. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
- <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077787604/as-the-olympics-open-china-seeks-the-limelight-but-warns-against-criticism">As the Olympics open, China seeks the limelight but warns against criticism</a> NPR: As the Winter Olympics begin Friday, China is welcoming the world at a time when Beijing's aggressive foreign policy is creating friction with several other parts of the globe. 
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
@@ -161,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
- <p class="updated_time"> 07:18 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html">Tonga Goes Into Lockdown Over Covid Cases</a> NYT: Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive. 
  <p class="updated_time"> 06:46 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
@@ -188,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:22 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/economy/president-biden-extends-solar-tariffs-with-major-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
+ <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078211045/pentagon-spokesman-says-the-u-s-hoped-to-capture-isis-leader-alive">Pentagon spokesman says the U.S. hoped to capture ISIS leader alive</a> NPR: In an interview on NPR's Morning Edition, Pentagon press secretary John Kirby said U.S. special forces took precautions to spare civilians in the raid. 
  <p class="updated_time"> 10:13 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/ioc-president-olympics-opening-remarks-00005664">With Putin watching, IOC president opens games with plea to 'give peace a chance'</a> Politico: The remarks from Thomas Bach alluded to the Russia-Ukraine tensions casting a shadow over the Winter Games. 
  <p class="updated_time"> 09:13 AM CT, Feb. 04 </p> 
@@ -308,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
- <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077832479/house-panel-to-examine-what-went-wrong-with-5g-rollout">House panel to examine what went wrong with the 5G rollout</a> NPR: A congressional hearing examines why the activation of 5G service near airports was plagued by many delays and much confusion. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
@@ -318,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">Why the January Jobs Report May Disappoint, and Is Sure to Perplex</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
- <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/trump-jan-6-memos.html">Memos Show Roots of Trump’s Focus on Jan. 6 and Alternate Electors</a> NYT: Just over two weeks after Election Day, lawyers working with the Trump campaign set out a rationale for creating alternate slates of electors as part of an effort to buy time to overturn the results. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
