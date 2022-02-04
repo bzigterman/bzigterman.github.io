@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
  <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
+ <p class="updated_time"> 11:14 PM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-vladimir-putin-meets-with-chinese-leader-xi-jinping-in-beijing-11643966743">Putin and Xi Put on a United Front in Beijing</a> WSJ: Facing the threat of U.S. sanctions over Ukraine, Moscow offered a new contract to supply natural gas to China, during a summit ahead of the opening of the Winter Games. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
@@ -194,6 +196,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
+ <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078156912/ex-employee-brings-new-harassment-claim-against-washington-nfl-owner-dan-snyder">Ex-employee brings new harassment claim against Washington NFL owner Dan Snyder</a> NPR: Just as the Washington Football Team rebranded itself as the Washington Commanders, allegations of workplace sexual harassment, including by team owner Dan Snyder, continue to dog the team. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1077697902/in-ohios-senate-race-democrat-ryan-hopes-to-beat-the-odds-with-a-pitch-to-worker">In Ohio's Senate race, Democrat Ryan hopes to beat the odds with a pitch to workers</a> NPR: Democratic Rep. Tim Ryan is seeking the U.S. Senate on a pledge to stand up for workers, a key voting bloc for Donald Trump, who carried the increasingly Republican state twice. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077832479/house-panel-to-examine-what-went-wrong-with-5g-rollout">House panel to examine what went wrong with the 5G rollout</a> NPR: A congressional hearing examines why the activation of 5G service near airports was plagued by many delays and much confusion. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077832472/biden-administration-officials-to-brief-senators-on-ukraine-russia-crisis">Biden administration officials to brief senators on Ukraine-Russia crisis</a> NPR: NPR's Steve Inskeep speaks to Democratic Sen. Jack Reed of Rhode Island, chairman of the Senate Committee of Armed Services, about the Russia-Ukraine standoff. 
- <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077832458/biden-to-travel-to-new-york-city-to-talk-about-gun-violence-with-mayor-adams">Biden to travel to New York City to talk about gun violence with Mayor Adams</a> NPR: When President Biden meets New York City Mayor Eric Adams on Thursday, the two will discuss gun violence and crime — as well as show support for law enforcement. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
