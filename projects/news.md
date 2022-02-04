@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
+ <p class="updated_time"> 12:05 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 10:40 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251921?at_medium=RSS&at_campaign=KARANGA">Canada won't call in troops against truckers - PM</a> BBC: Organisers say they plan to stay in Ottawa until Covid-19 health mandates are lifted nationwide. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
- <p class="updated_time"> 04:53 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/anders-behring-breivik-norway-parole.html">Anders Behring Breivik, Norwegian Terrorist, Is Denied Parole</a> NYT: Mr. Breivik, who killed 77 people in two attacks, has served 10 years of a 21-year sentence. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
