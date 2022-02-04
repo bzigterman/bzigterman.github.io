@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is expected to open the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
- <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 05:20 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 05:20 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is expected to open the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 04:58 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in condemning Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 04:54 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:50 AM CT, Feb. 04 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 03:53 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60240762?at_medium=RSS&at_campaign=KARANGA">Putin's Olympic trip signals warmer Russia-China ties</a> BBC: Russia's president heads to the Chinese capital, Beijing, in his first visit since the Covid pandemic. 
- <p class="updated_time"> 03:36 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: Officials say Russia could try to justify invading Ukraine with a fake attack video. 
  <p class="updated_time"> 03:32 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078159400/frances-macron-to-visit-russia-and-ukraine-next-week-on-mediation-trip-amid-tens">France's Macron to visit Russia and Ukraine next week on mediation trip amid tensions</a> NPR: While France is a major player in NATO, President Macron has also been actively pushing for dialogue with Russian President Vladimir Putin. The two are set to meet Monday one-on-one. 
  <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
  <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
