@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:20 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Begin</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 07:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 07:29 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Begin With Designer Gear, Putin in Attendance</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 07:14 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamorot. 
  <p class="updated_time"> 07:13 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60259423?at_medium=RSS&at_campaign=KARANGA">Saudi-backed Iran spies found guilty in Denmark</a> BBC: The three men are members of an Iranian opposition Arab group. 
- <p class="updated_time"> 06:57 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Billionaire Bezos' superyacht sparks bridge row</a> BBC: Rotterdam's Koningshaven Bridge may be dismantled to allow the ship to leave a shipyard. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
- <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
@@ -380,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
- <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
