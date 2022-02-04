@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Thousands of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:08 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:50 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
  <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
+ <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Climate change: Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
  <p class="updated_time"> 06:39 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60254827?at_medium=RSS&at_campaign=KARANGA">'All-American girl' turned jihadist denied bail</a> BBC: Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 07:22 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html">ABC Suspends Whoopi Goldberg Over Holocaust Comments</a> NYT: Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized. 
  <p class="updated_time"> 03:54 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html">Putin Signals Openness to Diplomacy While Blaming US for Crisis</a> NYT: The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
