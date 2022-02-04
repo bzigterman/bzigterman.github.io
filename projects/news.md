@@ -7,11 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:23 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 09:36 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 09:17 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/the-rush-to-save-the-boy-was-reaching-a-critical-stage-on-friday.html">The rush to save the boy was reaching a critical stage on Friday.</a> NYT: The boy, named Rayan, has been stuck in the well near his home in the village of Tomrote, near the city of Chefchaouen, since Tuesday afternoon. 
- <p class="updated_time"> 09:14 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 09:33 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
@@ -181,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
  <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
+ <p class="updated_time"> 08:55 PM CT, Feb. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html">U.S. Sends Official to Help NATO Brace for Russian Cyberattacks</a> NYT: Intelligence assessments suggest that a Russian invasion of Ukraine would most likely be preceded by cyberattacks on Ukraine’s electric grid, its communications systems and its government. 
 
 
 </details>
