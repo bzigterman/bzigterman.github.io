@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:39 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
+ <p class="updated_time"> 01:38 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
+ <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
+ <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078309505/olympics-opening-ceremony-country-order">Why Malta enters before Australia, and other facts about the Parade of Nations</a> NPR: Hint: The order of countries presented in the Olympics opening ceremony doesn't follow the English Alphabet. 
  <p class="updated_time"> 01:04 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60265083?at_medium=RSS&at_campaign=KARANGA">US couple sue clinic after DNA kit reveals fertility mix-up</a> BBC: A US couple is suing after discovering that their daughter is not biologically related to her father. 
  <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 12:53 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 12:43 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078227530/winter-olympics-largest-teams">These are the largest teams competing at the Winter Olympics</a> NPR: More than 220 athletes will represent the United States at the Olympics in Beijing, making it the largest delegation at the Games. Other large teams include China and the Russian Olympic Committee. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
- <p class="updated_time"> 10:03 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. The city has made history as the first to host both the Summer and Winter Games. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030835/the-head-of-the-islamic-state-militant-group-is-dead-heres-what-that-means-for-i">The head of the Islamic State Militant Group is dead. Here's what that means for ISIS</a> NPR: NPR's Ari Shapiro speaks with Charles Lister of the Middle East Institute about what the U.S. strike in Syria Wednesday night means for the future of ISIS. 
- <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
- <p class="updated_time"> 06:46 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
@@ -283,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:19 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
