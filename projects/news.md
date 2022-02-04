@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:46 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 06:50 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Start With Colorful Spectacle</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 06:31 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
  <p class="updated_time"> 05:32 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamorot. 
- <p class="updated_time"> 04:58 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
