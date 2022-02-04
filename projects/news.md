@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60259423?at_medium=RSS&at_campaign=KARANGA">Saudi-backed Iran spies found guilty in Denmark</a> BBC: The three men are members of an Iranian opposition Arab group. 
  <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
+ <p class="updated_time"> 06:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
  <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: When U.S. Special Forces touched down in Syria in a raid that would bring about the death of Abu Ibrahim al-Hashimi al-Qurayshi, they entered an area they were familiar with. Two years earlier, they found his predecessor, Abu Bakr al-Baghdadi, just 15 miles down the road. 
- <p class="updated_time"> 04:41 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
