@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:52 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 05:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is expected to open the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 04:54 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:50 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
- <p class="updated_time"> 04:48 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
- <p class="updated_time"> 03:15 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625">What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And 
+ <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/stephanie-cutter-dems-scotus-strategy-00005559">Why Stephanie Cutter says Dems need a new SCOTUS strategy</a> Politico: On this week’s show, Playbook author Ryan Lizza talks with Democratic strategist Stephanie Cutter about what it’s like to be a sherpa for a Supreme Court nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
@@ -214,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
+ <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
@@ -252,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
- <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
  <p class="updated_time"> 03:11 PM CT, Feb. 03 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 06:14 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
- <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
  <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/bethany-mandel-conservative-childrens-books.html">‘Daddy, What’s an Originalist?’</a> NYT: A new series of children’s books seeks to turn conservative icons like Amy Coney Barrett into bedtime reading material. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
