@@ -274,6 +274,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
+ <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Stunning fall: Canada's Conservatives boot leader O'Toole</a> Politico: Here are the players who could take over. 
  <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/merkley-united-nations-chiefs-olympics-00004632">Merkley calls U.N. chief's decision to attend Beijing Olympics 'shameful'</a> Politico: "The U.N. has basically failed human rights," Sen. Merkley said. 
- <p class="updated_time"> 10:00 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630">U.S. deploys troops to Eastern Europe; thousands more on standby</a> Politico: President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/02/dems-forced-to-measure-margins-00004561">Dems forced to measure margins</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:42 AM CT, Feb. 02 </p> 
