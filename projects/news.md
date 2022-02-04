@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:40 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 10:21 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251921?at_medium=RSS&at_campaign=KARANGA">Canada won't call in troops against truckers - PM</a> BBC: Organisers say they plan to stay in Ottawa until Covid-19 health mandates are lifted nationwide. 
- <p class="updated_time"> 07:51 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 06:50 PM CT, Feb. 03 </p> 
@@ -195,7 +195,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">From counter terrorism to congressional prayer — inside Biden’s craziest day</a> Politico: The president had to balance a lot on Thursday. 
+ <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
