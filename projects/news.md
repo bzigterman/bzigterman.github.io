@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
  <p class="updated_time"> 03:36 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
- <p class="updated_time"> 03:25 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 03:18 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078241901/us-troops-europe-ukraine-russia-crisis">Explaining the U.S. military presence in Europe as 2,000 more troops deploy</a> NPR: The number of U.S. troops in Europe has shrunk dramatically since the end of the Cold War — but tensions with Russia since 2014 have prompted U.S. leaders to beef up numbers and move troops eastward. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
- <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -194,8 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/new-york-city-mayor-apologizes-for-calling-white-cops-crackers-00005887">New York City mayor apologizes for calling white cops ‘crackers’</a> Politico: Adams served in the NYPD for 22 years and retired as a captain in 2006. 
  <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
+ <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
  <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078363467/stormy-daniels-michael-avenatti-convicted">Michael Avenatti is convicted of stealing nearly $300,000 from Stormy Daniels</a> NPR: The lawyer was convicted of charges he cheated the porn actor out of money she was supposed to get for writing a book about an alleged tryst with former President Donald Trump. 
  <p class="updated_time"> 03:26 PM CT, Feb. 04 </p> 
@@ -217,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:52 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel</a> NPR: The Republican National Committee voted to censure the two House GOP members involved in investigating the Jan. 6 Capitol insurrection, which it referred to as "legitimate political discourse." 
+ <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel</a> NPR: The Republican National Committee voted to censure the two House GOP lawmakers, who are involved in investigating the deadly Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 01:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
  <p class="updated_time"> 05:41 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/magazine/michael-flynn-2020-election.html">Michael Flynn Is Still at War</a> NYT: The general tried to persuade Donald Trump to use the military to overturn the 2020 election. A year later, he and his followers are fighting the same battle by other means. 
- <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/biden-michelle-obama-school-nutrition-standards-00005442">Biden inches back toward Michelle Obama’s school nutrition standards </a> Politico: The overall goal is to help schools stabilize their nutrition programs, many of which have been losing money as food and staffing costs have soared. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030849/covidtest-gov-has-been-helpful-in-getting-tests-out-but-theres-more-work-to-do">COVIDtest.gov has been helpful in getting tests out — but there's more work to do</a> NPR: The White House committed to buying a billion rapid COVID tests to distribute in the U.S. The launch of COVIDtests.gov has made it easy for Americans to order free tests, but there are still issues. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
- <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
