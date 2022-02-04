@@ -198,6 +198,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/michael-avenatti-convicted-of-stealing-from-stormy-daniels-00005865">Michael Avenatti convicted of stealing from Stormy Daniels</a> Politico: Prosecutors portrayed Avenatti as a common thief and serial liar. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
+ <p class="updated_time"> 02:46 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 02:42 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC advisers recommend fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
  <p class="updated_time"> 02:21 PM CT, Feb. 04 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
- <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
