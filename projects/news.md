@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 10:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 10:21 PM CT, Feb. 03 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:12 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
- <p class="updated_time"> 09:10 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 07:01 AM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296">China's Unspoken Winter Olympics Theme: 'We're Here, Get Used to It'</a> WSJ: Beijing in the 2008 Summer Games gave an open-arm welcome to the world—and the 2022 Games will demonstrate its power and prestige. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
