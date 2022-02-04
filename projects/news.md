@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:56 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 06:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
+ <p class="updated_time"> 05:59 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60259423?at_medium=RSS&at_campaign=KARANGA">Saudi-backed Iran spies found guilty in Denmark</a> BBC: The three men are members of an Iranian opposition Arab group. 
  <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
- <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
+ <p class="updated_time"> 05:47 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
  <p class="updated_time"> 05:35 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 05:32 AM CT, Feb. 04 </p> 
@@ -42,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenched a season-best international score and helped put U.S. figure skating on top in the team event. 
+ <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenches a season-best international score and helps put U.S. figure skating on top in the team event. 
  <p class="updated_time"> 12:14 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
  <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Climate change: Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
- <p class="updated_time"> 06:39 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60254827?at_medium=RSS&at_campaign=KARANGA">'All-American girl' turned jihadist denied bail</a> BBC: Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
- <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA">European oil facilities hit by cyber-attacks</a> BBC: Multiple oil transport and storage companies across Europe have been hacked, the BBC has confirmed. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/04/the-instagram-account-airing-congress-dirty-laundry-00005633">The Instagram account airing Congress’ dirty laundry</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
  <p class="updated_time"> 05:41 AM CT, Feb. 04 </p> 
