@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists </a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
- <p class="updated_time"> 11:47 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 11:40 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/04/1078035844/discovery-of-hiv-variant-shows-virus-can-evolve-to-be-more-severe-and-contagious">Discovery of HIV variant shows virus can evolve to be more severe — and contagious</a> NPR: Findings from a new study help answer questions about why some people get more severe and transmissible HIV than others — and serves as a reminder that viruses don't always weaken over time. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
  <p class="updated_time"> 11:12 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078234213/beijing-olympics-flame-torch-uyghur">The Beijing Winter Olympics' cauldron lighting made a political statement</a> NPR: The cauldron is a snowflake, with a much smaller flame than usual. It was lit by two Olympians, including an athlete from the Xinjiang Uyghur autonomous region. 
+ <a href="https://www.npr.org/2022/02/04/1078234213/beijing-olympics-flame-torch-uyghur">The Beijing Winter Olympics' cauldron lighting made a political statement</a> NPR: The cauldron is a snowflake, with a much smaller flame than usual. It was lit by two Olympians, including an athlete from the Xinjiang autonomous region, home to the Uyghur minority. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030800/nbc-is-in-an-awkward-position-with-the-politics-around-the-beijing-olympics">NBC is in an awkward position with the politics around the Beijing Olympics</a> NPR: While the Olympics often feel like a victory lap for NBC, the games' exclusive broadcaster in the U.S., the politics surrounding Beijing 2022 have put the network in an uncomfortable spot. 
- <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -235,9 +235,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/stephanie-cutter-dems-scotus-strategy-00005559">Why Stephanie Cutter says Dems need a new SCOTUS strategy</a> Politico: On this week’s show, Playbook author Ryan Lizza talks with Democratic strategist Stephanie Cutter about what it’s like to be a sherpa for a Supreme Court nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/fauci-villain-new-gop-campaign-ads-00005430">Fauci is the villain in new GOP campaign ads</a> Politico: The doctor’s unpopularity with the Republican base makes him a effective foil in primary election commercials. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/fauci-villain-new-gop-campaign-ads-00005430">Fauci is the villain in new GOP campaign ads</a> Politico: The doctor’s unpopularity with the Republican base makes him a effective foil in primary election commercials. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
