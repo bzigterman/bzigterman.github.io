@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
+ <p class="updated_time"> 05:35 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 05:31 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 05:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/jan-6-pence-remained-on-capitol-grounds-00005919">Capitol Police: Pence remained on Capitol grounds throughout Jan. 6 attack</a> Politico: A U.S. Capitol Police officer said former Vice President Mike Pence was transferred to a secure location in the Capitol complex during the riot and remained there for four hours. 
- <p class="updated_time"> 05:11 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 05:07 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
