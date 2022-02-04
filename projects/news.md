@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:35 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 08:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: A Scaled-Down Start to China’s Big Moment</a> NYT: Putin and other Chinese allies attend a festive but shorter ceremony, while the U.S. and others critical of China’s human rights record stay home. 
- <p class="updated_time"> 08:35 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 08:37 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 08:08 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
@@ -204,6 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
  <p class="updated_time"> 05:41 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/magazine/michael-flynn-2020-election.html">Michael Flynn Is Still at War</a> NYT: The general tried to persuade Donald Trump to use the military to overturn the 2020 election. A year later, he and his followers are fighting the same battle by other means. 
+ <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/biden-michelle-obama-school-nutrition-standards-00005442">Biden inches back toward Michelle Obama’s school nutrition standards </a> Politico: The overall goal is to help schools stabilize their nutrition programs, many of which have been losing money as food and staffing costs have soared. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/new-york-affordable-housing-program-00005049">State's $100M program to convert hotels into housing drew just one applicant</a> Politico: Experts say costly and burdensome regulations are to blame for the plan’s failures. 
  <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/stephanie-cutter-dems-scotus-strategy-00005559">Why Stephanie Cutter says Dems need a new SCOTUS strategy</a> Politico: On this week’s show, Playbook author Ryan Lizza talks with Democratic strategist Stephanie Cutter about what it’s like to be a sherpa for a Supreme Court nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
