@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 10:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
- <p class="updated_time"> 10:21 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251921?at_medium=RSS&at_campaign=KARANGA">Canada won't call in troops against truckers - PM</a> BBC: Organisers say they plan to stay in Ottawa until Covid-19 health mandates are lifted nationwide. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
@@ -308,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/tsa-defends-disability-boarding-policy-00004839">TSA defends unaccommodating screening policy on passengers with disabilities</a> Politico: The court was hearing arguments related to the case of Rohan Ramsingh v. TSA. 
  <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/bethany-mandel-conservative-childrens-books.html">‘Daddy, What’s an Originalist?’</a> NYT: A new series of children’s books seeks to turn conservative icons like Amy Coney Barrett into bedtime reading material. 
- <p class="updated_time"> 04:43 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/army-discharging-vaccine-refusers-00004865">Army to immediately start discharging vaccine refusers</a> Politico: The Army's announcement makes it the final military service to lay out its discharge policy for vaccine refusers. 
  <p class="updated_time"> 04:40 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/alexander-vindman-trump-lawsuit.html">Alexander Vindman Sues Trump Allies, Alleging Retaliation</a> NYT: The former Army colonel, who worked on the National Security Council, said in a lawsuit that Donald Trump Jr. and others carried out a campaign of intimidation against him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
