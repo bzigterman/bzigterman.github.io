@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is expected to open the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 05:56 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
+ <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
+ <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 05:35 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 05:32 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamorot. 
  <p class="updated_time"> 04:58 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
- <p class="updated_time"> 04:50 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school">Uyghur kids recall physical and mental torment at Chinese boarding schools in Xinjiang</a> NPR: Being hit, locked in a dark room and forced to hold a stress position — two small Uyghur children recount abusive experiences in boarding school in Xinjiang, where they also lost their mother tongues. 
  <p class="updated_time"> 04:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
- <p class="updated_time"> 03:47 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -380,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/28/dems-whether-the-wait-for-scotus-pick-00003138">Dems weather the wait for SCOTUS pick</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:50 AM CT, Jan. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/28/dr-oz-tries-to-please-mcconnell-and-trump-00003130"> Dr. Oz tries to please McConnell and Trump</a> Politico Playbook: And a Biden-Zelenskyy call sparks some controversy. 
 
 
 </details>
