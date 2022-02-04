@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Feb. 04 </p> 
+ <p class="updated_time"> 02:10 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
+ <p class="updated_time"> 02:08 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 01:39 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
@@ -50,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. The city has made history as the first to host both the Summer and Winter Games. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested, oiled-up flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
+ <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
  <p class="updated_time"> 10:00 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 09:56 AM CT, Feb. 04 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/uss-cole-trial-guide.html">Trial Guide: The U.S.S. Cole Bombing Case at Guantánamo Bay</a> NYT: What to know about the death-penalty prosecution of a Saudi prisoner accused of plotting the attack on a Navy destroyer off Yemen in 2000 that killed 17 sailors. 
  <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
- <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
 
 
 </details>
@@ -194,28 +194,30 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/michael-avenatti-convicted-of-stealing-from-stormy-daniels-00005865">Michael Avenatti convicted of stealing from Stormy Daniels</a> Politico: Prosecutors portrayed Avenatti as a common thief and serial liar. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 02:42 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC advisers recommend fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
+ <p class="updated_time"> 02:09 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
+ <p class="updated_time"> 02:08 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 01:52 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel </a> NPR: The Republican National Committee voted to censure the two House GOP members involved in investigating the Jan. 6 Capitol insurrection, which it referred to as "legitimate political discourse." 
+ <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel</a> NPR: The Republican National Committee voted to censure the two House GOP members involved in investigating the Jan. 6 Capitol insurrection, which it referred to as "legitimate political discourse." 
  <p class="updated_time"> 01:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
- <p class="updated_time"> 01:22 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
  <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
- <p class="updated_time"> 12:41 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">Behind the blowout jobs report — and how the Fed could kill the buzz</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
+ <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">What comes next after the stunning jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
  <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
- <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/dr-oz-campaign-china-00005561">Dr. Oz is running as a China hawk. It's a bit of a stretch.</a> Politico: In addition to a lucrative sponsorship deal, the celebrity physician exported his popular TV show to China. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
