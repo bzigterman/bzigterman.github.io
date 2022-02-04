@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60254827?at_medium=RSS&at_campaign=KARANGA">'All-American girl' turned jihadist denied bail</a> BBC: Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
+ <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60236826?at_medium=RSS&at_campaign=KARANGA">Afghanistan women: 'I felt anxious going back to university'</a> BBC: Some female students went back to campus for the first time since the Taliban takeover. How did it feel? 
  <p class="updated_time"> 06:14 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242083?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Winter Games start amid Covid and boycotts</a> BBC: The Winter Games begin amid tight Covid-19 restrictions and allegations of human rights abuses. 
  <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/covid-london-icus.html">One Day in the ‘Parallel Universe’ of a London I.C.U.</a> NYT: Britain’s government may have lifted coronavirus restrictions, but hospital workers say the return to a normal rhythm of work is still a long way off. 
- <p class="updated_time"> 09:45 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60246032?at_medium=RSS&at_campaign=KARANGA">International Space Station to crash down to Earth in 2031</a> BBC: Nasa says the ISS will operate until 2030 before the agency hands over to commercial companies. 
  <p class="updated_time"> 09:42 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60249702?at_medium=RSS&at_campaign=KARANGA">President Biden confirms Islamic State leader killed in Syria</a> BBC: US president says he sent in special forces to avoid civilian casualties, but target blew himself up. 
  <p class="updated_time"> 09:24 AM CT, Feb. 03 </p> 
@@ -133,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">The Olympic chief will meet with Chinese tennis star Peng Shuai after safety concerns</a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games in a news conference Thursday. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
- <p class="updated_time"> 06:07 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60245273?at_medium=RSS&at_campaign=KARANGA">Europe entering Covid pandemic 'ceasefire', says WHO</a> BBC: The WHO's Europe director says the continent may soon enter a "period of tranquillity" from Covid. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/putin-xi-meeting-russia-china.html">Putin to Meet Xi in Beijing Ahead of Winter Olympics</a> NYT: Russia’s president did not mention Ukraine, but said he and China’s leader would coordinate foreign policy “based on close and coinciding approaches.” 
  <p class="updated_time"> 04:04 AM CT, Feb. 03 </p> 
