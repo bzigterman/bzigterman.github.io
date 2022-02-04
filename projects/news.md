@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
  <p class="updated_time"> 03:13 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/michael-avenatti-convicted-of-stealing-from-stormy-daniels-00005865">Michael Avenatti convicted of stealing from Stormy Daniels</a> Politico: Prosecutors portrayed Avenatti as a common thief and serial liar. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/magazine/michael-flynn-2020-election.html">Michael Flynn Is Still at War</a> NYT: The general tried to persuade Donald Trump to use the military to overturn the 2020 election. A year later, he and his followers are fighting the same battle by other means. 
  <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-michelle-obama-school-nutrition-standards-00005442">Biden inches back toward Michelle Obama’s school nutrition standards </a> Politico: The overall goal is to help schools stabilize their nutrition programs, many of which have been losing money as food and staffing costs have soared. 
- <p class="updated_time"> 05:00 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/stephanie-cutter-dems-scotus-strategy-00005559">Why Stephanie Cutter says Dems need a new SCOTUS strategy</a> Politico: On this week’s show, Playbook author Ryan Lizza talks with Democratic strategist Stephanie Cutter about what it’s like to be a sherpa for a Supreme Court nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
