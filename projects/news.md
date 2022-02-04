@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:20 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
+ <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078227530/winter-olympics-largest-teams">These are the largest teams competing at the Winter Olympics</a> NPR: More than 220 athletes will represent the United States at the Olympics in Beijing, making it the largest delegation at the Games. Other large teams include China and the Russian Olympic Committee. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
- <p class="updated_time"> 10:06 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:04 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 10:03 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The 2022 Winter Olympics open with a colorful but subdued ceremony in Beijing</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. China has made history as the first country to host both the Summer and Winter Games. 
+ <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. China has made history as the first country to host both the Summer and Winter Games. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested, oiled-up flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
  <p class="updated_time"> 10:00 AM CT, Feb. 04 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
  <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
- <p class="updated_time"> 11:34 PM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/senior-aides-in-boris-johnsons-government-quit-amid-scandal-over-lockdown-parties-11643929927">Senior Aides in Boris Johnson's Government Quit Amid Scandal Over Lockdown Parties</a> WSJ: The departures include the British prime minister’s chief of staff and policy chief, upending his Downing Street operation. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
 
 
 </details>
@@ -194,6 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
+ <p class="updated_time"> 10:33 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/q-a-kim-hunter-reed-higher-education-commissioner-louisiana-00005507">POLITICO PRO Q&A: Kim Hunter Reed, higher education commissioner for Louisiana</a> Politico: In an interview with POLITICO Pro, Hunter Reed discussed her vision for that funding, her thoughts on free community college and her ascent from a small town in Louisiana to the halls of power. 
  <p class="updated_time"> 10:22 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/president-biden-extends-solar-tariffs-with-major-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
- <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
- <p class="updated_time"> 05:58 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/new-jersey-supreme-court-dismisses-republican-challenge-to-congressional-map-00005274">New Jersey Supreme Court dismisses Republican challenge to congressional map</a> Politico: The state's highest court ruled that for all the Republicans’ complaints about the process, the lawsuit did not challenge the map itself as unlawful or unconstitutional. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
@@ -298,12 +298,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
  <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
- <p class="updated_time"> 12:16 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/irs-workers-mail-backlog-00005228">'All hands on deck': IRS shuffling workers to cut giant mail backlog</a> Politico: Current resources simply aren’t enough to overcome the challenge, the IRS commissioner said. 
  <p class="updated_time"> 12:11 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077955096/2-years-after-the-debacle-at-the-iowa-caucuses-democrats-eye-changes-to-the-cale">2 years after the debacle at the Iowa caucuses, Democrats eye changes to the calendar</a> NPR: On Feb. 3, 2020, an app meant to streamline the process for Iowa Democrats' presidential contest failed. That added to longstanding criticisms of the caucuses and Iowa's place on the calendar. 
- <p class="updated_time"> 11:01 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/adams-defends-cuomo-dinner-00005218">Adams defends dinner with Cuomo</a> Politico: “I’m going to sit down with everyone. No stone will be left unturned to get my city back up and operating,” Adams said. 
  <p class="updated_time"> 11:00 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/02/03/248994291/the-life-of-a-civil-rights-queen">The life of a 'Civil Rights Queen'</a> NPR: Constance Baker Motley's life—as a lawyer, as a politician and the first Black woman appointed to the Federal bench – is outlined in a new biography by author Tomiko Brown-Nagin: Civil Rights Queen. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
@@ -320,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
- <p class="updated_time"> 03:39 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">Why the January Jobs Report May Disappoint, and Is Sure to Perplex</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
