@@ -1165,8 +1165,8 @@ html {
 <td class="gt_row gt_right gt_striped">&minus;24&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">2.0K</td>
-<td class="gt_row gt_right">2.4K</td>
-<td class="gt_row gt_right">+23&percnt;</td></tr>
+<td class="gt_row gt_right">2.5K</td>
+<td class="gt_row gt_right">+22&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">858.0K</td>
 <td class="gt_row gt_right gt_striped">344.0K</td>
@@ -1597,8 +1597,8 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Thursday, the 14-day percent change in average new deaths was:
   
 - -18% in Illinois
-- 23% in the United States
-- 34% worldwide
+- 22% in the United States
+- 33% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
