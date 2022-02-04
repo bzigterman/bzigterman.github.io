@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
+ <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
  <p class="updated_time"> 03:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-60256262?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row deepens as students petition court</a> BBC: A video showing college gates being shut on a group of Muslim students has led to outrage. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
- <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenches a season-best international score and helps put U.S. figure skating on top in the team event. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
- <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -196,14 +196,22 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:37 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/new-york-city-mayor-apologizes-for-calling-white-cops-crackers-00005887">New York City mayor apologizes for calling white cops ‘crackers’</a> Politico: Adams served in the NYPD for 22 years and retired as a captain in 2006. 
+ <p class="updated_time"> 03:53 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
+ <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078367504/pence-says-trump-is-wrong-to-insist-he-could-have-overturned-election-results">Pence says Trump is wrong to insist he could have overturned election results</a> NPR: The former vice President called out the former president during a speech Friday, saying it's "un-American" to think that one person could determine the outcome of an election. 
+ <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358133/rnc-censures-cheney-and-kinzinger-for-their-participation-in-jan-6-investigation">RNC censures Cheney and Kinzinger for their participation in Jan. 6 investigation</a> NPR: The Republican National Committee censured Liz Cheney and Adam Kinzinger, and in the censure document labeled the Jan. 6 attack on the Capitol "legitimate political discourse." 
+ <p class="updated_time"> 03:47 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
  <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078363467/stormy-daniels-michael-avenatti-convicted">Michael Avenatti is convicted of stealing nearly $300,000 from Stormy Daniels</a> NPR: The lawyer was convicted of charges he cheated the porn actor out of money she was supposed to get for writing a book about an alleged tryst with former President Donald Trump. 
- <p class="updated_time"> 03:26 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 03:26 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358105/nyc-mayor-eric-adams-applauds-federal-help-to-fight-crime">NYC Mayor Eric Adams applauds federal help to fight crime</a> NPR: NPR's Tamara Keith speaks with New York City Mayor Eric Adams about crime and policing in New York, which like many American cities is experiencing a spike in shootings. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
@@ -216,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC advisers recommend fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
  <p class="updated_time"> 02:21 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
- <p class="updated_time"> 02:09 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
  <p class="updated_time"> 01:52 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
@@ -288,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078024596/alphonso-david-hrc-lawsuit">First Black leader of Human Rights Campaign sues, says he was fired because of race</a> NPR: Alphonso David also said during contract negotiations HRC board members "acknowledged" that he was severely underpaid in comparison to his white predecessor "because of his race." 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
- <p class="updated_time"> 07:01 PM CT, Feb. 03 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
@@ -302,10 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
- <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030849/covidtest-gov-has-been-helpful-in-getting-tests-out-but-theres-more-work-to-do">COVIDtest.gov has been helpful in getting tests out — but there's more work to do</a> NPR: The White House committed to buying a billion rapid COVID tests to distribute in the U.S. The launch of COVIDtests.gov has made it easy for Americans to order free tests, but there are still issues. 
- <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
