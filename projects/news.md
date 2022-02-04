@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:50 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 08:03 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Begin With Designer Gear, Putin in Attendance</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
  <p class="updated_time"> 07:49 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamorot. 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:57 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 07:46 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078044162/jess-kutch-can-unions-address-the-changing-needs-of-workers-today">Jess Kutch: Can unions address the changing needs of workers today?</a> NPR: From unionizing to striking to quitting, employees are taking power into their own hands. Labor organizer Jess Kutch explores the effectiveness of collective bargaining to affect change. 
  <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1077697902/in-ohios-senate-race-democrat-ryan-hopes-to-beat-the-odds-with-a-pitch-to-worker">In Ohio's Senate race, Democrat Ryan hopes to beat the odds with a pitch to workers</a> NPR: Democratic Rep. Tim Ryan is seeking the U.S. Senate on a pledge to stand up for workers, a key voting bloc for Donald Trump, who carried the increasingly Republican state twice. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
- <p class="updated_time"> 02:00 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
