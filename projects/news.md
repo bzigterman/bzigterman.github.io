@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel </a> NPR: The RNC approved the censure on Friday by voice vote during a meeting in Salt Lake City, Utah. It also agreed to no longer support them as members of the Republican party. 
  <p class="updated_time"> 01:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:22 PM CT, Feb. 04 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
  <p class="updated_time"> 12:11 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077955096/2-years-after-the-debacle-at-the-iowa-caucuses-democrats-eye-changes-to-the-cale">2 years after the debacle at the Iowa caucuses, Democrats eye changes to the calendar</a> NPR: On Feb. 3, 2020, an app meant to streamline the process for Iowa Democrats' presidential contest failed. That added to longstanding criticisms of the caucuses and Iowa's place on the calendar. 
- <p class="updated_time"> 11:00 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/sections/codeswitch/2022/02/03/248994291/the-life-of-a-civil-rights-queen">The life of a 'Civil Rights Queen'</a> NPR: Constance Baker Motley's life—as a lawyer, as a politician and the first Black woman appointed to the Federal bench – is outlined in a new biography by author Tomiko Brown-Nagin: Civil Rights Queen. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
