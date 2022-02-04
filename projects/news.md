@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
+ <p class="updated_time"> 11:20 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
+ <p class="updated_time"> 11:12 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078234213/beijing-olympics-flame-torch-uyghur">The Beijing Winter Olympics' cauldron lighting made a political statement</a> NPR: The cauldron is a snowflake, with a much smaller flame than usual. It was lit by two Olympians, including an athlete from the Xinjiang Uyghur autonomous region. 
  <p class="updated_time"> 11:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
- <p class="updated_time"> 10:46 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
@@ -143,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
- <p class="updated_time"> 10:42 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/shintaro-ishihara-dead.html">Shintaro Ishihara, Outspoken Nationalist Governor of Tokyo, Dies at 89</a> NYT: An author as well as a politician, he was known for feuding with China over disputed islands and calling for Japan to assert itself against the United States. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
  <p class="updated_time"> 08:47 AM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/science/astronomy-asteroid-trojan.html">Astronomers Find a New Trojan Asteroid Sharing Earth’s Orbit</a> NYT: The Trojan asteroid 2020 XL5, which follows the same path around the sun as our planet, was revealed only after a decade of searching. 
- <p class="updated_time"> 01:49 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/russia-ukraine-china-putin-xi.html">In Clash With U.S. Over Ukraine, Putin Has a Lifeline From China</a> NYT: President Biden could find his plans to punish Russia undermined by Xi Jinping, a longtime ally of Mr. Putin. But China moves cautiously during crises. 
 
 
 </details>
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
  <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
@@ -209,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078211045/pentagon-spokesman-says-the-u-s-hoped-to-capture-isis-leader-alive">Pentagon spokesman says the U.S. hoped to capture ISIS leader alive</a> NPR: In an interview on NPR's Morning Edition, Pentagon press secretary John Kirby said U.S. special forces took precautions to spare civilians in the raid. 
  <p class="updated_time"> 10:13 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/ioc-president-olympics-opening-remarks-00005664">With Putin watching, IOC president opens games with plea to 'give peace a chance'</a> Politico: The remarks from Thomas Bach alluded to the Russia-Ukraine tensions casting a shadow over the Winter Games. 
+ <a href="https://www.politico.com/news/2022/02/04/ioc-president-olympics-opening-remarks-00005664">With Putin watching, IOC president opens Winter Games with plea to ‘give peace a chance’</a> Politico: The remarks from Thomas Bach alluded to the Russia-Ukraine tensions casting a shadow over the events. 
  <p class="updated_time"> 09:13 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/january-jobs-report-00005654">U.S. employers shrug off Omicron, add 467,000 jobs in January</a> Politico: The burst of jobs came despite a wave of Omicron inflections that sickened millions of workers, kept many consumers at home and left businesses from restaurants to manufacturers short-staffed. 
  <p class="updated_time"> 09:09 AM CT, Feb. 04 </p> 
@@ -318,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
  <p class="updated_time"> 01:34 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/canada-conservatives-erin-otoole-00004707">Stunning fall: Canada's Conservatives boot leader O'Toole</a> Politico: Here are the players who could take over. 
- <p class="updated_time"> 12:16 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/merkley-united-nations-chiefs-olympics-00004632">Merkley calls U.N. chief's decision to attend Beijing Olympics 'shameful'</a> Politico: "The U.N. has basically failed human rights," Sen. Merkley said. 
  <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/02/dems-forced-to-measure-margins-00004561">Dems forced to measure margins</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:42 AM CT, Feb. 02 </p> 
