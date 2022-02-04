@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:22 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 11:28 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 12:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
- <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/white-house-omicron-next-phase-pandemic-00005033">So long, Omicron: White House eyes next phase of pandemic</a> Politico: Biden and his top health officials have already begun hinting at an impending “new normal." 
  <p class="updated_time"> 04:00 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/democrats-supreme-court.html">One Illness Reminds Democrats They Have No Votes to Spare</a> NYT: With a Supreme Court confirmation vote approaching, some Democrats are urging a speedier process to guard against unforeseen circumstances. 
  <p class="updated_time"> 02:00 AM CT, Feb. 03 </p> 
