@@ -7,20 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 06:50 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60246129?at_medium=RSS&at_campaign=KARANGA">Islamic State leader Abu Ibrahim al-Qurayshi killed in Syria, US says</a> BBC: Abu Ibrahim al-Qurayshi blew up himself and his family during a US operation that took months to plan. 
+ <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
  <p class="updated_time"> 06:39 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60254827?at_medium=RSS&at_campaign=KARANGA">'All-American girl' turned jihadist denied bail</a> BBC: Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
- <p class="updated_time"> 06:21 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60240762?at_medium=RSS&at_campaign=KARANGA">Putin's Olympic trip signals warmer Russia-China ties</a> BBC: Russia's president heads to Beijing in his first visit since the Covid pandemic. 
- <p class="updated_time"> 06:20 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60194920?at_medium=RSS&at_campaign=KARANGA">Koo: India's Twitter alternative with global ambitions</a> BBC: India's Koo expects to surpass Twitter's 25 million-strong user base in the country. 
  <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60236826?at_medium=RSS&at_campaign=KARANGA">Afghanistan women: 'I felt anxious going back to university'</a> BBC: Some female students went back to campus for the first time since the Taliban takeover. How did it feel? 
- <p class="updated_time"> 06:16 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
  <p class="updated_time"> 06:14 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242083?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Winter Games start amid Covid and boycotts</a> BBC: The Winter Games begin amid tight Covid-19 restrictions and allegations of human rights abuses. 
  <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
@@ -66,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of the Islamic State group. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
@@ -126,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 06:20 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban accused over abducted women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60239525?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban takes another women's rights protester</a> BBC: This is the latest in a string of alleged arrests of women that have sparked an outcry from rights groups. 
  <p class="updated_time"> 06:07 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60245273?at_medium=RSS&at_campaign=KARANGA">Europe entering Covid pandemic 'ceasefire', says WHO</a> BBC: The WHO's Europe director says the continent may soon enter a "period of tranquillity" from Covid. 
  <p class="updated_time"> 05:27 AM CT, Feb. 03 </p> 
@@ -198,18 +196,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
+ <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
+ <p class="updated_time"> 07:01 PM CT, Feb. 03 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
- <p class="updated_time"> 06:16 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">ISIS Leader Dead After U.S. Commandos Raid House in Syria</a> NYT: President Biden said Abu Ibrahim al-Hashimi al-Qurayshi exploded a bomb that killed him and members of his family. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 05:58 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/new-jersey-supreme-court-dismisses-republican-challenge-to-congressional-map-00005274">New Jersey Supreme Court dismisses Republican challenge to congressional map</a> Politico: The state's highest court ruled that for all the Republicans’ complaints about the process, the lawsuit did not challenge the map itself as unlawful or unconstitutional. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Exposes What It Says Is Russian Effort to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
+ <p class="updated_time"> 05:19 PM CT, Feb. 03 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">Why the January Jobs Report May Disappoint, and Is Sure to Perplex</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says ISIS leader is dead after U.S. operation</a> NPR: A senior administration official said that during the raid, Ibrahim al-Hashimi al-Qurayshi "detonated a blast ... killing himself and several others, including his wife and children." 
- <p class="updated_time"> 12:15 AM CT, Feb. 03 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/de-blasio-congressional-run-00005013">De Blasio, newly departed from office, eyeing congressional run</a> Politico: De Blasio’s allies believe he could perform well among Black and Latino voters in parts of the district, though he has remained unpopular among conservative white voters and progressives, according to polls. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
- <p class="updated_time"> 06:15 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/havana-syndrome-radio-energy.html">Some Havana Syndrome Cases May Stem From Radio Energy, Panel Says</a> NYT: A group of experts found that not all injuries to diplomats and C.I.A. officers could be explained by stress or psychosomatic reactions. 
  <p class="updated_time"> 06:14 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html">Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals</a> NYT: Despite their pariah status in their party, House Republicans who broke with the former president have raised more than their G.O.P. foes. 
  <p class="updated_time"> 06:13 PM CT, Feb. 02 </p> 
