@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:08 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Under Pressure From the West, Putin Turns to China</a> NYT: President Vladimir V. Putin hailed the “dignified relationship” between Russia and China as he met Xi Jinping in Beijing. Growing political and economic support from the Chinese leader could undermine U.S. efforts to ostracize Moscow. 
  <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
@@ -41,8 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
  <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
+ <p class="updated_time"> 11:34 PM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/senior-aides-in-boris-johnsons-government-quit-amid-scandal-over-lockdown-parties-11643929927">Senior Aides in Boris Johnson's Government Quit Amid Scandal Over Lockdown Parties</a> WSJ: The departures include the British prime minister’s chief of staff and policy chief, upending his Downing Street operation. 
  <p class="updated_time"> 11:14 PM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-vladimir-putin-meets-with-chinese-leader-xi-jinping-in-beijing-11643966743">Putin and Xi Put on a United Front in Beijing</a> WSJ: Facing the threat of U.S. sanctions over Ukraine, Moscow offered a new contract to supply natural gas to China, during a summit ahead of the opening of the Winter Games. 
+ <a href="https://www.wsj.com/articles/russias-vladimir-putin-meets-with-chinese-leader-xi-jinping-in-beijing-11643966743">Putin and Xi Put on United Front Amid Standoff With West</a> WSJ: Facing the threat of U.S. sanctions over Ukraine, Moscow offered a new contract to supply natural gas to China, during a summit ahead of the opening of the Winter Games. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
@@ -109,14 +113,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA">European oil facilities hit by cyber-attacks</a> BBC: Multiple oil transport and storage companies across Europe have been hacked, the BBC has confirmed. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 01:52 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
  <p class="updated_time"> 12:42 PM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
- <p class="updated_time"> 12:12 PM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/senior-aides-in-boris-johnsons-government-quit-amid-scandal-over-lockdown-parties-11643929927">Senior Aides in Boris Johnson's Government Quit Amid Scandal Over Lockdown Parties</a> WSJ: The departures include the British prime minister’s chief of staff and policy chief, upending his Downing Street operation. 
  <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
