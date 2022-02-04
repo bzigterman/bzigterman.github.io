@@ -24,8 +24,6 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242083?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Winter Games start amid Covid and boycotts</a> BBC: The Winter Games begin amid tight Covid-19 restrictions and allegations of human rights abuses. 
  <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-60066690?at_medium=RSS&at_campaign=KARANGA">How to store excess wind power underwater</a> BBC: A Dutch company is testing an underwater system that can store excess energy from wind farms. 
- <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60239105?at_medium=RSS&at_campaign=KARANGA">Shackleton's Endurance: The impossible search for the greatest shipwreck</a> BBC: The latest bid to find Antarctic explorer Ernest Shackleton's lost polar yacht is set to get under way. 
  <p class="updated_time"> 06:02 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60243953?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 28 January-3 February 2022</a> BBC: A selection of the best photos from across the African continent this week. 
@@ -43,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
+ <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60254327?at_medium=RSS&at_campaign=KARANGA">Texas butterfly centre closes after QAnon threats</a> BBC: The National Butterfly Center in Texas was a major opponent of the US-Mexico border wall. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078045214/u-s-says-russia-is-planning-a-staged-attack-in-ukraine-to-justify-an-invasion">U.S. says Russia is planning a staged attack in Ukraine to justify an invasion </a> NPR: The Biden administration said on Thursday that disinformation campaigns, like a potential false-flag operation, are part of Russia's standard playbook. 
  <p class="updated_time"> 04:44 PM CT, Feb. 03 </p> 
