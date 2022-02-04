@@ -7,24 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
+ <p class="updated_time"> 12:21 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60259427?at_medium=RSS&at_campaign=KARANGA">Mount Everest: Mountain's highest glacier melting rapidly, new study shows</a> BBC: The melting is endangering both climbers and locals who rely on the glaciers for drinking water. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists </a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
- <p class="updated_time"> 11:51 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:40 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/04/1078035844/discovery-of-hiv-variant-shows-virus-can-evolve-to-be-more-severe-and-contagious">Discovery of HIV variant shows virus can evolve to be more severe — and contagious</a> NPR: Findings from a new study help answer questions about why some people get more severe and transmissible HIV than others — and serves as a reminder that viruses don't always weaken over time. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/04/1078035844/discovery-of-hiv-variant-shows-virus-can-evolve-to-be-more-severe-and-contagious">Discovery of HIV variant shows virus can evolve to be more severe — and contagious</a> NPR: Findings from a new study help answer questions about why some people get more severe and transmissible HIV than others — and serve as a reminder that viruses don't always weaken over time. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
  <p class="updated_time"> 11:12 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078234213/beijing-olympics-flame-torch-uyghur">The Beijing Winter Olympics' cauldron lighting made a political statement</a> NPR: The cauldron is a snowflake, with a much smaller flame than usual. It was lit by two Olympians, including an athlete from the Xinjiang autonomous region, home to the Uyghur minority. 
+ <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
- <p class="updated_time"> 08:05 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60251921?at_medium=RSS&at_campaign=KARANGA">Canada won't call in troops against truckers - PM</a> BBC: Organisers say they plan to stay in Ottawa until Covid-19 health mandates are lifted nationwide. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030835/the-head-of-the-islamic-state-militant-group-is-dead-heres-what-that-means-for-i">The head of the Islamic State Militant Group is dead. Here's what that means for ISIS</a> NPR: NPR's Ari Shapiro speaks with Charles Lister of the Middle East Institute about what the U.S. strike in Syria Wednesday night means for the future of ISIS. 
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
- <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030800/nbc-is-in-an-awkward-position-with-the-politics-around-the-beijing-olympics">NBC is in an awkward position with the politics around the Beijing Olympics</a> NPR: While the Olympics often feel like a victory lap for NBC, the games' exclusive broadcaster in the U.S., the politics surrounding Beijing 2022 have put the network in an uncomfortable spot. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
+ <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">Biden's good news-bad news jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
  <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 12:10 PM CT, Feb. 04 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
- <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
