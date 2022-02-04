@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:39 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Begin With Designer Gear, Putin in Attendance</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
  <p class="updated_time"> 07:30 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 07:29 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Winter Games Begin With Designer Gear, Putin in Attendance</a> NYT: China is opening the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 07:14 AM CT, Feb. 04 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Billionaire Bezos' superyacht sparks bridge row</a> BBC: Rotterdam's Koningshaven Bridge may be dismantled to allow the ship to leave a shipyard. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
+ <p class="updated_time"> 02:34 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296">China's Unspoken Winter Olympics Theme: 'We're Here, Get Used to It'</a> WSJ: Beijing in the 2008 Summer Games gave an open-arm welcome to the world—and the 2022 Games will demonstrate its power and prestige. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:12 AM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60245522?at_medium=RSS&at_campaign=KARANGA">IS chief al-Qurayshi: Why getting him mattered so much to the US</a> BBC: The operation which killed the head of the extremist group was unusually high-risk. 
- <p class="updated_time"> 07:01 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296">China's Unspoken Winter Olympics Theme: 'We're Here, Get Used to It'</a> WSJ: Beijing in the 2008 Summer Games gave an open-arm welcome to the world—and the 2022 Games will demonstrate its power and prestige. 
  <p class="updated_time"> 06:38 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077827318/olympic-committee-president-will-meet-with-peng-shuai-in-beijing-this-month">The Olympic chief will meet with Chinese tennis star Peng Shuai after safety concerns</a> NPR: International Olympic Committee President Thomas Bach avoided taking positions on any political controversies ahead of the beginning of the Beijing Winter Games in a news conference Thursday. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/trump-jan-6-memos.html">Memos Show Roots of Trump’s Focus on Jan. 6 and Alternate Electors</a> NYT: Just over two weeks after Election Day, lawyers working with the Trump campaign set out a rationale for creating alternate slates of electors as part of an effort to buy time to overturn the results. 
- <p class="updated_time"> 07:02 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/de-blasio-congressional-run-00005013">De Blasio, newly departed from office, eyeing congressional run</a> Politico: De Blasio’s allies believe he could perform well among Black and Latino voters in parts of the district, though he has remained unpopular among conservative white voters and progressives, according to polls. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 06:14 PM CT, Feb. 02 </p> 
@@ -344,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
