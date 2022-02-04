@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump was wrong to seek to overturn Biden win, says Mike Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over the 2021 election result. 
+ <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
  <p class="updated_time"> 04:34 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
- <p class="updated_time"> 04:11 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump was wrong to seek to overturn Biden win, says Mike Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over 2021 election result. 
- <p class="updated_time"> 04:10 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
  <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
@@ -200,16 +200,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/jan-6-pence-remained-on-capitol-grounds-00005919">Capitol Police: Pence remained on Capitol grounds throughout Jan. 6 attack</a> Politico: A U.S. Capitol Police officer said former Vice President Mike Pence was transferred to a secure location in the Capitol complex during the riot and remained there for four hours. 
+ <p class="updated_time"> 04:51 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
+ <p class="updated_time"> 04:42 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Claims Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a year of historic job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Attack at Kabul Airport, Pentagon Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
- <p class="updated_time"> 04:39 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify at the trial of a man charged with entering the Capitol faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 04:37 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/new-york-city-mayor-apologizes-for-calling-white-cops-crackers-00005887">New York City mayor apologizes for calling white cops ‘crackers’</a> Politico: Adams served in the NYPD for 22 years and retired as a captain in 2006. 
- <p class="updated_time"> 04:19 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Claims Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a  year of historic job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 03:53 PM CT, Feb. 04 </p> 
@@ -248,6 +248,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">What comes next after the stunning jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
+ <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
  <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
- <p class="updated_time"> 04:30 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/covid-misinfo-docs-vaccines-00003383">Medical boards get pushback as they try to punish doctors for Covid misinformation</a> Politico: Medical boards have sanctioned eight physicians since January 2021 for spreading coronavirus-related misinformation, according to the Federation of State Medical Boards. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
