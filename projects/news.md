@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:59 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
  <p class="updated_time"> 05:25 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics? Plus, How to Watch</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
+ <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
