@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:20 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 05:20 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 05:37 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Live Updates: Beijing Begins Winter Games</a> NYT: China is expected to open the Winter Olympics with a smaller, shorter ceremony set against the backdrop of the pandemic and criticism of the country’s record on human rights. 
- <p class="updated_time"> 04:58 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in condemning Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
- <p class="updated_time"> 04:54 AM CT, Feb. 04 </p> 
+ <p class="updated_time"> 05:35 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
+ <p class="updated_time"> 05:32 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the northern town of Tamrout. 
+ <p class="updated_time"> 04:58 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 04:50 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/fauci-villain-new-gop-campaign-ads-00005430">Fauci is the villain in new GOP campaign ads</a> Politico: The doctor’s unpopularity with the Republican base makes him a effective foil in primary election commercials. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">From backrooms to courtrooms: Judges take over drawing dozens of House districts</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
+ <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/gallery/2022/02/04/the-nations-cartoonists-on-the-week-in-politics-00005475">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
@@ -237,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 05:58 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/new-jersey-supreme-court-dismisses-republican-challenge-to-congressional-map-00005274">New Jersey Supreme Court dismisses Republican challenge to congressional map</a> Politico: The state's highest court ruled that for all the Republicans’ complaints about the process, the lawsuit did not challenge the map itself as unlawful or unconstitutional. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
@@ -338,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
  <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
+ <p class="updated_time"> 11:48 PM CT, Feb. 01 </p> 
+ <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
  <p class="updated_time"> 07:00 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/biden-ally-build-back-better-opponent-00003448">A Biden ally takes over one of Build Back Better’s main opponents</a> Politico: Mary Barra is now heading the Business Roundtable. But don’t expect the lobbying entity for the nation’s CEOs to change its tune on BBB. 
- <p class="updated_time"> 03:45 PM CT, Jan. 29 </p> 
- <a href="https://www.cnn.com/2022/01/29/politics/sotomayor-roberts-kagan-supreme-court-breyer/index.html">The Supreme Court justices to watch after Breyer retires</a> CNN: Supreme Court Justice Sonia Sotomayor would gain new power, Justice Elena Kagan will likely recalibrate her negotiating style and Chief Justice John Roberts may have less chance for compromise. 
  <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
  <p class="updated_time"> 07:32 AM CT, Jan. 28 </p> 
