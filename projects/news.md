@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 05:58 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/new-jersey-supreme-court-dismisses-republican-challenge-to-congressional-map-00005274">New Jersey Supreme Court dismisses Republican challenge to congressional map</a> Politico: The state's highest court ruled that for all the Republicans’ complaints about the process, the lawsuit did not challenge the map itself as unlawful or unconstitutional. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
