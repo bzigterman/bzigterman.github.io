@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will cause historic Rotterdam bridge to be dismantled</a> BBC: Rotterdam's Koningshaven Bridge is to be dismantled to allow the ship to leave a shipyard. 
+ <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
+ <p class="updated_time"> 03:15 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 02:49 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60240762?at_medium=RSS&at_campaign=KARANGA">Putin's Olympic trip signals warmer Russia-China ties</a> BBC: Russia's president heads to the Chinese capital, Beijing, in his first visit since the Covid pandemic. 
  <p class="updated_time"> 02:44 AM CT, Feb. 04 </p> 
@@ -53,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-60252907?at_medium=RSS&at_campaign=KARANGA">Amazon raises US price for Prime as profits jump</a> BBC: The increase to its membership fee applies to US customers, with no other announcements "at this time". 
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
- <p class="updated_time"> 05:03 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy fell into a water well while playing in the northern town of Tamrout. 
  <p class="updated_time"> 04:50 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030913/7-years-later-parents-of-missing-ayotzinapa-students-are-still-searching-for-ans">7 years later, parents of missing Ayotzinapa students are still searching for answers</a> NPR: NPR's Tamara Keith talks with Reveal reporter Anayansi Diaz-Cortes about the podcast After Ayotzinapa. The show digs into the 2014 disappearance of a group of young men at a rural Mexican college. 
  <p class="updated_time"> 04:47 PM CT, Feb. 03 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
  <p class="updated_time"> 03:47 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
- <p class="updated_time"> 03:41 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
- <p class="updated_time"> 03:15 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60238042?at_medium=RSS&at_campaign=KARANGA">Afghanistan education: Taliban running out of excuses - Malala</a> BBC: As some universities reopen in Afghanistan, Nobel Prize laureate Malala Yousafzai spoke to the BBC. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
  <p class="updated_time"> 11:27 AM CT, Feb. 02 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 05:58 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/new-jersey-supreme-court-dismisses-republican-challenge-to-congressional-map-00005274">New Jersey Supreme Court dismisses Republican challenge to congressional map</a> Politico: The state's highest court ruled that for all the Republicans’ complaints about the process, the lawsuit did not challenge the map itself as unlawful or unconstitutional. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
