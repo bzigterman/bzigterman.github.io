@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:59 AM CT, Feb. 04 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077964780/winter-olympics-opening-ceremony-how-to-watch">The Winter Olympics start Friday. Here's how to follow along</a> NPR: The 2022 Olympics kick off in Beijing on Friday. Here's how to watch the opening ceremony and follow NPR's coverage for the next two weeks. 
- <p class="updated_time"> 01:20 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 12:42 PM CT, Feb. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087">U.S. Says Russia Is Planning to a Fabricate Pretext for Invasion of Ukraine</a> WSJ: Officials say newly declassified intelligence shows Moscow is seeking to use staged video as justification for an attack. 
  <p class="updated_time"> 12:12 PM CT, Feb. 03 </p> 
