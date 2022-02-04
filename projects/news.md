@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 10:46 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
- <p class="updated_time"> 10:46 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
  <p class="updated_time"> 05:10 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
+ <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: When U.S. Special Forces touched down in Syria in a raid that would bring about the death of Abu Ibrahim al-Hashimi al-Qurayshi, they entered an area they were familiar with. Two years earlier, they found his predecessor, Abu Bakr al-Baghdadi, just 15 miles down the road. 
  <p class="updated_time"> 04:41 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
@@ -246,6 +248,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
+ <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/31/congress-confronts-a-february-deluge-00003559"> Congress confronts a February deluge</a> Politico Playbook: And the Senate group trying to overhaul the Electoral Count Act adds to its mission. 
  <p class="updated_time"> 04:31 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-democrats-pivot-economy-legislative-win-00003385">House Democrats pivot to economy in search of next legislative win</a> Politico: With battleground-district members especially anxious over rising inflation and a snarled supply chain, they're set to push a sweeping manufacturing bill to the floor. 
- <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/biden-inflation-powell-federal-reserve-00003246">Biden delivered a booming economy. Now he needs the Fed to deal with the fallout.</a> Politico: The inflationary concerns that have dogged the president’s domestic agenda are likely to linger at least into the second half of the year. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/january-6-committee-hot-streak-trump-world-00003368">The Jan. 6 panel's on a hot streak against Trump World. Now what?</a> Politico: Investigators have won a string of victories in court and in obtaining testimony and records. Now, they have to make those findings tangible to the public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 31 </p> 
