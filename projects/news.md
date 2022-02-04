@@ -198,12 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
+ <p class="updated_time"> 05:48 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 05:35 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
- <p class="updated_time"> 05:31 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:20 PM CT, Feb. 04 </p> 
