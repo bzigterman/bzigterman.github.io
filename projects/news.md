@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:23 PM CT, Feb. 04 </p> 
+ <p class="updated_time"> 03:36 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 03:18 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078241901/us-troops-europe-ukraine-russia-crisis">Explaining the U.S. military presence in Europe as 2,000 more troops deploy</a> NPR: The number of U.S. troops in Europe has shrunk dramatically since the end of the Cold War — but tensions with Russia since 2014 have prompted U.S. leaders to beef up numbers and move troops eastward. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 02:10 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
- <p class="updated_time"> 01:39 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60265083?at_medium=RSS&at_campaign=KARANGA">US couple sue clinic after DNA kit reveals fertility mix-up</a> BBC: A US couple is suing after discovering that their daughter is not biologically related to her father. 
  <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
- <p class="updated_time"> 12:53 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
@@ -196,8 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
+ <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078363467/stormy-daniels-michael-avenatti-convicted">Michael Avenatti is convicted of stealing nearly $300,000 from Stormy Daniels</a> NPR: The lawyer was convicted of charges he cheated the porn actor out of money she was supposed to get for writing a book about an alleged tryst with former President Donald Trump. 
  <p class="updated_time"> 03:26 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078358105/nyc-mayor-eric-adams-applauds-federal-help-to-fight-crime">NYC Mayor Eric Adams applauds federal help to fight crime</a> NPR: NPR's Tamara Keith speaks with New York City Mayor Eric Adams about crime and policing in New York, which like many American cities is experiencing a spike in shootings. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358077/republicans-take-issue-with-bidens-pledge-to-pick-a-black-woman-for-supreme-cour">Republicans take issue with Biden's pledge to pick a Black woman for Supreme Court</a> NPR: President Biden pledged to put a Black woman on the Supreme Court, which some Republicans say is discrimination. The situation shows how the parties view representation substantively and politically. 
  <p class="updated_time"> 03:13 PM CT, Feb. 04 </p> 
@@ -303,8 +307,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030807/what-the-raid-in-syria-signals-about-u-s-involvement-in-forever-wars-going-forwa">What the raid in Syria signals about U.S. involvement in 'forever wars' going forward</a> NPR: President Biden has spoken about his hope to end U.S. involvement in "forever wars" in the Middle East. But on Wednesday, a U.S. raid in Syria led to the death of the leader of the Islamic State. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030779/russias-putin-and-chinas-xi-will-meet-in-beijing-ahead-of-olympics-opening-cerem">Russia's Putin and China's Xi will meet in Beijing ahead of Olympics opening ceremony</a> NPR: Russian President Vladimir Putin and Chinese leader Xi Jinping are meeting Friday in Beijing on the eve of the Winter Olympics. 
- <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Sarah Palin's lawyers admit 'uphill' fight in libel suit against New York Times</a> Politico: The former Republican vice presidential nominee sued over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/fda-califf-senate.html">F.D.A. Nominee Faces Steep Climb to Senate Confirmation</a> NYT: Dr. Robert Califf, a former agency commissioner, is encountering opposition over federal opioid and abortion policies and his industry ties. 
- <p class="updated_time"> 01:10 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077878538/legislation-restricts-what-teachers-can-discuss">From slavery to socialism, new legislation restricts what teachers can discuss</a> NPR: Researcher Jeffrey Sachs says that U.S. teachers are being censored for broaching certain topics. One group in New Hampshire is offering a $500 bounty for teachers who discuss critical race theory. 
  <p class="updated_time"> 12:27 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
  <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
