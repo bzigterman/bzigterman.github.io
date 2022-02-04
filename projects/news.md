@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:43 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
+ <p class="updated_time"> 12:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
- <p class="updated_time"> 12:21 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60259427?at_medium=RSS&at_campaign=KARANGA">Mount Everest: Mountain's highest glacier melting rapidly, new study shows</a> BBC: The melting is endangering both climbers and locals who rely on the glaciers for drinking water. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists </a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
- <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:40 AM CT, Feb. 04 </p> 
@@ -61,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60247542?at_medium=RSS&at_campaign=KARANGA">Meta moves to tackle creepy behaviour in virtual reality</a> BBC: Women describe their experiences but what can firms behind virtual-reality platforms do about it? 
  <p class="updated_time"> 08:28 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60242407?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games officially under way after opening ceremony in Beijing</a> BBC: The 24th edition of the Winter Olympics is officially under way after the cauldron was lit in a restrained opening ceremony in Beijing. 
+ <p class="updated_time"> 07:48 AM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. Special Forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 07:13 AM CT, Feb. 04 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
  <p class="updated_time"> 05:10 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
- <p class="updated_time"> 05:01 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: When U.S. Special Forces touched down in Syria in a raid that would bring about the death of Abu Ibrahim al-Hashimi al-Qurayshi, they entered an area they were familiar with. Two years earlier, they found his predecessor, Abu Bakr al-Baghdadi, just 15 miles down the road. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:25 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:38 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
- <p class="updated_time"> 10:33 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/q-a-kim-hunter-reed-higher-education-commissioner-louisiana-00005507">POLITICO PRO Q&A: Kim Hunter Reed, higher education commissioner for Louisiana</a> Politico: In an interview with POLITICO Pro, Hunter Reed discussed her vision for that funding, her thoughts on free community college and her ascent from a small town in Louisiana to the halls of power. 
  <p class="updated_time"> 10:22 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/president-biden-extends-solar-tariffs-with-major-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 07:01 PM CT, Feb. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:01 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/medicare-at-home-covid-19-tests-spring-00005205">Medicare beneficiaries to get no-cost at-home Covid-19 tests</a> Politico: Medicare will directly pay certain pharmacies and other participating entities. 
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
@@ -358,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
+ <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
