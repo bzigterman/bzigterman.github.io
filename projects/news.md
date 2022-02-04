@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:04 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60265083?at_medium=RSS&at_campaign=KARANGA">US couple sue clinic after DNA kit reveals fertility mix-up</a> BBC: A US couple is suing after discovering that their daughter is not biologically related to her father. 
  <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 12:53 PM CT, Feb. 04 </p> 
@@ -20,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists </a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
+ <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists</a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:40 AM CT, Feb. 04 </p> 
@@ -64,11 +66,9 @@ permalink: /projects/news/
  <p class="updated_time"> 08:28 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60242407?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games officially under way after opening ceremony in Beijing</a> BBC: The 24th edition of the Winter Olympics is officially under way after the cauldron was lit in a restrained opening ceremony in Beijing. 
  <p class="updated_time"> 07:48 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. Special Forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
+ <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. special-operations forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
- <p class="updated_time"> 07:13 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60259423?at_medium=RSS&at_campaign=KARANGA">Saudi-backed Iran spies found guilty in Denmark</a> BBC: The three men are members of an Iranian opposition Arab group. 
  <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 06:30 AM CT, Feb. 04 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">Biden's good news-bad news jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
+ <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">Behind the blowout jobs report — and how the Fed could kill the buzz</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
  <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
