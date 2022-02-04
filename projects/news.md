@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
+ <p class="updated_time"> 12:53 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 12:43 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/02/04/sports/olympics-opening-ceremony">Opening Ceremony Highlights: A Surprise Start to China’s Big Moment</a> NYT: With Xi and Putin in attendance, China picked an athlete with a Uyghur name to help light the cauldron at the close of a festive ceremony. Leaders critical of China’s human rights record stayed home. 
- <p class="updated_time"> 12:41 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin">Ukraine Live Updates: Putin and Xi Pledge ‘No Limits’ to Russia-China Ties</a> NYT: Meeting in Beijing in a choreographed show of solidarity, the Chinese leader backed Russia in its showdown with the West over Ukraine. In a joint statement, they opposed NATO expansion and accused the U.S. and the West of stoking instability. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
@@ -103,12 +105,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenches a season-best international score and helps put U.S. figure skating on top in the team event. 
- <p class="updated_time"> 12:56 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/german-catholic-leaders-support-married-priests-raising-pressure-on-pope-francis-11643975738">German Catholic Leaders Support Married Priests, Raising Pressure on Pope</a> WSJ: The step is the latest in the Germans’ progressive drive, which has prompted calls for caution from the pope and warnings from conservatives that it could split the world-wide church. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
- <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/mexico-labor-general-motors.html"> Vote at GM Plant in Mexico Spurs a Labor Challenge </a> NYT: Mexican salaries are low, partly because of unions that collude with employers. Workers at a G.M. factory are challenging that system, testing the labor reforms in the reworked North American trade deal. 
  <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
+ <p class="updated_time"> 12:55 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 12:41 PM CT, Feb. 04 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
- <p class="updated_time"> 06:12 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/bethany-mandel-conservative-childrens-books.html">‘Daddy, What’s an Originalist?’</a> NYT: A new series of children’s books seeks to turn conservative icons like Amy Coney Barrett into bedtime reading material. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 03:04 PM CT, Feb. 02 </p> 
