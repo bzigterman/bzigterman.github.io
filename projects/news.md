@@ -196,8 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:24 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/bernie-moreno-ohio-senate-race-00005569">Republican Bernie Moreno drops out of crowded Ohio Senate primary</a> Politico: Moreno said that during a private meeting with Trump Thursday afternoon, the two agreed the race was filled with too many “Trump candidates." 
  <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/dr-oz-campaign-china-00005561">Dr. Oz rails against China on the campaign trail. But he made millions there.</a> Politico: In addition to a lucrative sponsorship deal, the celebrity physician exported his popular TV show to China. 
+ <a href="https://www.politico.com/news/2022/02/03/dr-oz-campaign-china-00005561">Dr. Oz is running as a China hawk. It's a bit of a stretch.</a> Politico: In addition to a lucrative sponsorship deal, the celebrity physician exported his popular TV show to China. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 07:58 PM CT, Feb. 03 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 06:03 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/gop-tucker-carlson-ukraine-00004370">GOP to Tucker Carlson: We’re the decision-makers on Ukraine, not you</a> Politico: “He’s obviously not in a position of being responsible for those decisions. And we are,” said Sen. John Cornyn. 
- <p class="updated_time"> 10:53 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/wray-fbi-jan-6-protests-00004119">Wray denies FBI tougher on Jan. 6 than 2020 protests</a> Politico: The FBI director contended that the agency "aggressively" investigating the Capitol riot and violence during 2020 racial justice protests, but sees distinctions. 
  <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
