@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: Officials say Russia could try to justify invading Ukraine with a fake attack video. 
  <p class="updated_time"> 03:32 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078159400/frances-macron-to-visit-russia-and-ukraine-next-week-on-mediation-trip-amid-tens">France's Macron to visit Russia and Ukraine next week on mediation trip amid tensions</a> NPR: While France is a major player in NATO, President Macron has also been actively pushing for dialogue with Russian President Vladimir Putin. The two are set to meet Monday one-on-one. 
  <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
- <p class="updated_time"> 01:59 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: Officials say Russia could try to justify invading Ukraine with a fake attack video. 
  <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenched a season-best international score and helped put U.S. figure skating on top in the team event. 
  <p class="updated_time"> 01:08 AM CT, Feb. 04 </p> 
