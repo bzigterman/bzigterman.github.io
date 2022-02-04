@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:44 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Thousands of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
+ <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
+ <p class="updated_time"> 01:59 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60240762?at_medium=RSS&at_campaign=KARANGA">Putin's Olympic trip signals warmer Russia-China ties</a> BBC: Russia's president heads to Beijing in his first visit since the Covid pandemic. 
+ <p class="updated_time"> 01:59 AM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: Officials say Russia could try to justify invading Ukraine with a fake attack video. 
+ <p class="updated_time"> 01:56 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078150351/figure-skater-nathan-chen-kicks-off-redemptive-beijing-olympics-with-a-bang">Figure skater Nathan Chen kicks off redemptive Beijing Olympics with a bang</a> NPR: Chen's showing at the Capital Indoor Stadium in Beijing clenched a season-best international score and helped put U.S. figure skating on top in the team event. 
  <p class="updated_time"> 01:08 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/when-is-olympics-opening-ceremony.html">When Is the Opening Ceremony for the Winter Olympics?</a> NYT: The Winter Games kick off Friday night at Beijing’s National Stadium. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
- <p class="updated_time"> 12:05 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60248259?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US alleges Russian plot to fake invasion pretext</a> BBC: One option Russia is considering is a video about a staged attack blamed on Ukraine, officials say. 
  <p class="updated_time"> 11:40 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA">Facebook owner Meta sees biggest ever stock market loss</a> BBC: The company's chief executive Mark Zuckerberg saw his personal fortune fall by $31bn. 
  <p class="updated_time"> 11:02 PM CT, Feb. 03 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60254827?at_medium=RSS&at_campaign=KARANGA">'All-American girl' turned jihadist denied bail</a> BBC: Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl. 
  <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
- <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60236826?at_medium=RSS&at_campaign=KARANGA">Afghanistan women: 'I felt anxious going back to university'</a> BBC: Some female students went back to campus for the first time since the Taliban takeover. How did it feel? 
  <p class="updated_time"> 06:14 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60242083?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: Winter Games start amid Covid and boycotts</a> BBC: The Winter Games begin amid tight Covid-19 restrictions and allegations of human rights abuses. 
  <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA">European oil facilities hit by cyber-attacks</a> BBC: Multiple oil transport and storage companies across Europe have been hacked, the BBC has confirmed. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 02:31 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60216375?at_medium=RSS&at_campaign=KARANGA">Australia revisited - a country changed by Covid</a> BBC: Nick Bryant returned to Australia to find a more inward and fractured nation than the one he left behind. 
  <p class="updated_time"> 01:52 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60246038?at_medium=RSS&at_campaign=KARANGA">Don Euro: Italian ex-priest jailed for extortion</a> BBC: Luca Morini was known for his frequent requests for contributions from his parishioners. 
  <p class="updated_time"> 01:35 PM CT, Feb. 03 </p> 
@@ -159,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60202212?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: The teenage rock band finding solace in music</a> BBC: While troops prepare for a possible Russian invasion on Ukraine’s front line, a teenage rock band in the nearby town of Avdiyivka is finding solace in music. 
  <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
- <p class="updated_time"> 06:21 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60225463?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Life inside the Winter Olympics bubble</a> BBC: From robot chefs to daily testing - this is what life is like inside the Winter Games bubbles. 
- <p class="updated_time"> 04:04 PM CT, Feb. 02 </p> 
- <a href="https://www.npr.org/2022/02/02/1077710189/only-about-40-of-people-who-are-eligible-have-gotten-a-covid-booster-shot">Only about 40% of people who are eligible have gotten a COVID booster shot</a> NPR: Science shows the value of boosters against COVID, but many vaccinated people haven't gotten the shot. About 40% of people who are eligible have been boosted, which could be bad if COVID surges again. 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
@@ -194,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/nyregion/adams-biden-crime.html">For Biden and Adams, a Meeting of Like Minds on Gun Crime</a> NYT: President Biden’s visit to New York on Thursday is meant to convey his desire to respond to violent crime while guarding against the danger of excess policing. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
@@ -294,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html">Why the January Jobs Report May Disappoint, and Is Sure to Perplex</a> NYT: Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended. 
  <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
- <p class="updated_time"> 07:44 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/us/politics/democrats-congress-stocks-trading.html">Democrats Break With Leaders Over Congressional Stock Trading</a> NYT: With top House Democrats skeptical of barring lawmakers from owning individual stocks, a simmering issue has exploded, especially among members facing difficult re-election races. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/politics/trump-jan-6-memos.html">Memos Show Roots of Trump’s Focus on Jan. 6 and Alternate Electors</a> NYT: Just over two weeks after Election Day, lawyers working with the Trump campaign set out a rationale for creating alternate slates of electors as part of an effort to buy time to overturn the results. 
  <p class="updated_time"> 07:02 PM CT, Feb. 02 </p> 
