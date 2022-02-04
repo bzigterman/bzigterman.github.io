@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 AM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078159400/frances-macron-to-visit-russia-and-ukraine-next-week-on-mediation-trip-amid-tens">France's Macron to visit Russia and Ukraine next week on mediation trip amid tensions</a> NPR: While France is a major player in NATO, President Macron has also been actively pushing for dialogue with Russian President Vladimir Putin. The two are set to meet Monday one-on-one. 
  <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Jeff Bezos' superyacht will cause historic Rotterdam bridge to be dismantled</a> BBC: Rotterdam's Koningshaven Bridge is to be dismantled to allow the ship to leave a shipyard. 
+ <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 03:15 AM CT, Feb. 04 </p> 
@@ -80,15 +84,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:47 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
- <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
  <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
- <p class="updated_time"> 02:58 PM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402">ISIS Leader Killed Himself, Family During U.S. Raid</a> WSJ: As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said. 
  <p class="updated_time"> 02:51 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
@@ -113,6 +113,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
  <p class="updated_time"> 11:25 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077935739/isis-leader-dead-syria">What is known about the ISIS leader who died during a U.S. raid in Syria</a> NPR: The leader of the Islamic State group who died during a U.S. raid overnight in northwest Syria was largely a mystery, with almost no known photos, never appearing in public or in the group's videos. 
+ <p class="updated_time"> 11:15 AM CT, Feb. 03 </p> 
+ <a href="https://www.wsj.com/articles/isis-was-staging-comeback-when-u-s-killed-leader-qurayshi-11643920809">ISIS Was Staging Comeback When U.S. Raid Led to Leader's Death</a> WSJ: The terrorist organization has regrouped in the three years since it lost its territory in Iraq and Syria, but its comeback has suffered a blow with the killing of Abu Ibrahim al-Hashimi al-Qurayshi. 
  <p class="updated_time"> 10:30 AM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1077379012/netflix-egypt-perfect-strangers-mona-zaki">How a new Netflix film exposed a simmering tension in Egyptian society</a> NPR: Netflix's first ever Arabic language film, Perfect Strangers, sparked controversy in Egypt. In doing so, it highlighted a tug of war happening inside the country. 
  <p class="updated_time"> 10:26 AM CT, Feb. 03 </p> 
@@ -141,10 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
- <p class="updated_time"> 01:57 AM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1077825951/the-u-s-has-conducted-a-counterterrorism-operation-in-syria">Biden says ISIS leader is dead after U.S. operation</a> NPR: A senior administration official said that during the raid, Ibrahim al-Hashimi al-Qurayshi "detonated a blast ... killing himself and several others, including his wife and children." 
- <p class="updated_time"> 12:01 AM CT, Feb. 03 </p> 
- <a href="https://www.wsj.com/articles/australia-hails-discovery-of-captain-cooks-endeavour-but-u-s-researchers-wary-11643886100">Australia Hails Discovery of Captain Cook's Ship, but U.S. Researchers Wary</a> WSJ: The wreck site of the HM Bark Endeavour off the U.S. East Coast has long evaded marine archaeologists. 
  <p class="updated_time"> 11:21 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/greece-turkey-migrant-deaths.html">Turkey Blames Greece After 12 Migrants Freeze to Death</a> NYT: A Turkish minister accused Greek border guards of taking the group’s clothes and shoes and then forcing them back across the border, a claim that Greece denied. 
  <p class="updated_time"> 11:02 PM CT, Feb. 02 </p> 
@@ -190,6 +188,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 02:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 11:11 PM CT, Feb. 03 </p> 
