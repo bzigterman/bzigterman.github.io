@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 04:11 PM CT, Feb. 04 </p> 
@@ -227,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 02:42 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC advisers recommend fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
+ <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC recommends fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
  <p class="updated_time"> 02:21 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
- <p class="updated_time"> 10:38 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/cawthorn-north-carolina-reelection-lawsuit-00004111">Rep. Madison Cawthorn sues N.C. election board over candidacy challenge</a> Politico: North Carolina voters trying to block the Republican’s reelection bid cite a section of the 14th Amendment dealing with “insurrection or rebellion” against the United  States. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
