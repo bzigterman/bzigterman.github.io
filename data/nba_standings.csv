@@ -4,7 +4,7 @@ Eastern,MIA,33,20,.623
 Eastern,PHI,31,20,.608
 Eastern,MIL,32,21,.604
 Eastern,CLE,32,21,.604
-Eastern,BKN,29,22,.569
+Eastern,BKN,29,23,.558
 Eastern,TOR,28,23,.549
 Eastern,BOS,29,25,.537
 Eastern,CHA,28,25,.528
@@ -17,14 +17,14 @@ Eastern,ORL,12,41,.226
 Western,PHX,41,10,.804
 Western,GSW,40,13,.755
 Western,MEM,36,18,.667
-Western,UTA,31,21,.596
+Western,UTA,32,21,.604
 Western,DAL,29,23,.558
-Western,DEN,28,23,.549
+Western,DEN,28,24,.538
 Western,MIN,27,25,.519
 Western,LAC,27,27,.500
 Western,LAL,25,28,.472
 Western,POR,21,31,.404
-Western,NOP,19,32,.373
+Western,NOP,20,32,.385
 Western,SAS,20,34,.370
 Western,SAC,19,35,.352
 Western,OKC,16,34,.320
