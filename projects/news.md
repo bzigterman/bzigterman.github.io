@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
+ <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 10:08 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
- <p class="updated_time"> 09:59 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
  <p class="updated_time"> 09:39 AM CT, Feb. 05 </p> 
@@ -75,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 07:09 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA">Parrots for sale: The internet's role in illicit trade</a> BBC: An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale. 
+ <p class="updated_time"> 06:43 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
  <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
@@ -125,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078309505/olympics-opening-ceremony-country-order">Why Malta enters before Australia, and other facts about the Parade of Nations</a> NPR: Hint: The order of countries presented in the Olympics opening ceremony doesn't follow the English Alphabet. 
  <p class="updated_time"> 01:20 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60267514?at_medium=RSS&at_campaign=KARANGA">Morocco gripped by efforts to rescue boy trapped in well</a> BBC: The five-year-old boy, Rayan, has been stuck at the bottom of a 32m deep well since Tuesday. 
- <p class="updated_time"> 01:04 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60265083?at_medium=RSS&at_campaign=KARANGA">US couple sue clinic after DNA kit reveals fertility mix-up</a> BBC: A US couple is suing after discovering that their daughter is not biologically related to her father. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253">Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</a> WSJ: The areas, once engines of the Ukrainian economy, are now impoverished, depopulated enclaves that increasingly rely on Russian subsidies to survive. It’s what many fear could happen to the rest of the country if Vladimir Putin carries out a broader invasion. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
- <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Billionaire Bezos' superyacht sparks bridge row</a> BBC: Rotterdam's Koningshaven Bridge may be dismantled to allow the ship to leave a shipyard. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
@@ -202,8 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/queen-elizabeth-attends-largest-reception-since-health-scare-00006001">Queen Elizabeth attends largest reception since health scare</a> Politico: She is set to celebrate the 70th anniversary of her accession to the throne. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
+ <p class="updated_time"> 10:42 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Where Fox News and Donald Trump Took Us</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse. 
  <p class="updated_time"> 09:12 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 06:00 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo">Calling Rep. Cawthorn an insurrectionist, challengers aim to keep him off the ballot</a> NPR: The North Carolina Republican's ability to run for reelection in the fall is being challenged, in part because of his actions on the day of the attack on the U.S. Capitol. 
- <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Inside the Fox News That Donald Trump Helped Build</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse in a way the country is still living with. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 11:04 PM CT, Feb. 04 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
- <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
  <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
