@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:39 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 03:09 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 03:07 AM CT, Feb. 05 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
- <p class="updated_time"> 10:19 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
  <p class="updated_time"> 09:02 PM CT, Feb. 04 </p> 
