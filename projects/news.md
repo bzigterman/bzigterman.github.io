@@ -204,12 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:29 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the mentally ill detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
- <p class="updated_time"> 08:00 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Guantánamo Detainee Suspected of Planned Role in 9/11 Be Transferred</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
@@ -274,10 +274,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
+ <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">What comes next after the stunning jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
  <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
+ <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
  <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looked to controversial ally to run mental health office</a> Politico: The potential appointment had drawn concerns. 
- <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
- <p class="updated_time"> 08:13 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/biden-nominee-ensnared-in-debate-over-woke-fed-00004922">Biden nominee ensnared in debate over 'woke' Fed</a> Politico: The tensions underscore the political perils for the Fed. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
@@ -386,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
  <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
- <p class="updated_time"> 02:31 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/harris-supreme-court-00003788">Harris-to-Supreme-Court chatter opens window into Dems’ deepest fears</a> Politico: The vice president isn’t going be nominated to the high court. But some Dems can’t stop talking about it. 
  <p class="updated_time"> 07:58 AM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/31/congress-warms-up-2022-to-do-list-00003571">Congress warms up 2022 to-do list</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Jan. 31 </p> 
