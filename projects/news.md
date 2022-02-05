@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:48 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The 4-day rescue operation failed to save the life of Rayan Oram, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
+ <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla">Queen Elizabeth supports a 'Queen Camilla' — shaping the future of the UK monarchy</a> NPR: In remarks delivered on the eve of the 70th anniversary of her accession to the throne, the monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
+ <p class="updated_time"> 04:53 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The 4-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078546528/a-former-u-s-ambassador-to-nato-looks-at-what-is-at-stake-for-the-military-allia">A former U.S. ambassador to NATO looks at what is at stake for the military alliance </a> NPR: NPR's Michel Martin speaks with Douglas Lute about why NATO is at the heart of the tension between Russia and the West and where the alliance might be headed. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
  <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
- <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
  <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
