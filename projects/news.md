@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 10:19 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. The city has made history as the first to host both the Summer and Winter Games. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
- <p class="updated_time"> 10:00 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 09:43 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
