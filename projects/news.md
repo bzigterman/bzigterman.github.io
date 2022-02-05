@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:16 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">India Covid-19: The children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">School reopening: The Indian children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:58 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/solar-tariffs-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Attack at Kabul Airport, Pentagon Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:37 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/new-york-city-mayor-apologizes-for-calling-white-cops-crackers-00005887">New York City mayor apologizes for calling white cops ‘crackers’</a> Politico: Adams served in the NYPD for 22 years and retired as a captain in 2006. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
@@ -327,7 +327,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes Childs for Supreme Court, Testing Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes His Pick for Supreme Court, Testing His Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:19 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
