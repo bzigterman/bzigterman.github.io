@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Tense Wait as Rescuers Work to Free 5-Year-Old From Well in Morocco</a> NYT: A boy named Rayan has been stuck at the bottom of a 100-foot-deep well since Tuesday, in a drama that has captivated the North African nation. 
  <p class="updated_time"> 04:39 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 04:24 PM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
- <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
  <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
  <p class="updated_time"> 06:00 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona’s Right Wing Sought Power to Overturn Votes. Rusty Bowers Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 05:59 PM CT, Feb. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
