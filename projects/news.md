@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:49 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:27 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 03:45 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-60262964?at_medium=RSS&at_campaign=KARANGA">Can tourism ease the inflation pressure in Turkey?</a> BBC: As people in Turkey battle a massive rate of inflation could tourism help ease the situation? 
- <p class="updated_time"> 03:39 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Amid Coups and Covid, Africa Focuses on What’s Most Important: Soccer</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
@@ -210,14 +210,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/05/risky-financial-deal-weed-company-ianthus-00004862">The risky financial deals that shook up one of America's most promising weed companies</a> Politico: iAnthus thought Gotham Green Partners was providing a financial lifeline, but the investment firm is now poised to seize control of the company. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
+ <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 06:00 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo">Saying he's an insurrectionist, challengers aim to keep Rep. Cawthorn off the ballot</a> NPR: The North Carolina Republican's ability to run for reelection in the fall is being challenged, in part because of his actions on the day of the attack on the U.S. Capitol. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Inside the Fox News That Donald Trump Helped Build</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse in a way the country is still living with. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
- <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 11:04 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 09:36 PM CT, Feb. 04 </p> 
@@ -326,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
- <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/dr-oz-campaign-china-00005561">Dr. Oz is running as a China hawk. It's a bit of a stretch.</a> Politico: In addition to a lucrative sponsorship deal, the celebrity physician exported his popular TV show to China. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 07:58 PM CT, Feb. 03 </p> 
