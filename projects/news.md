@@ -298,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078211045/pentagon-spokesman-says-the-u-s-hoped-to-capture-isis-leader-alive">Pentagon spokesman says the U.S. hoped to capture ISIS leader alive</a> NPR: In an interview on NPR's Morning Edition, Pentagon press secretary John Kirby said U.S. special forces took precautions to spare civilians in the raid. 
- <p class="updated_time"> 10:13 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/ioc-president-olympics-opening-remarks-00005664">With Putin watching, IOC president opens Winter Games with plea to ‘give peace a chance’</a> Politico: The remarks from Thomas Bach alluded to the Russia-Ukraine tensions casting a shadow over the events. 
  <p class="updated_time"> 09:09 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-senate-showdown-china-bill-00005575">House sets up Senate showdown with vote on partisan China bill </a> Politico: The White House is eager for the China legislation to reach Biden’s desk before his State of the Union, but lawmakers must first reconcile a bipartisan Senate package with a House bill full of Democratic priorities.  
  <p class="updated_time"> 08:23 AM CT, Feb. 04 </p> 
@@ -320,6 +318,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078156912/ex-employee-brings-new-harassment-claim-against-washington-nfl-owner-dan-snyder">Ex-employee brings new harassment claim against Washington NFL owner Dan Snyder</a> NPR: Just as the Washington Football Team rebranded itself as the Washington Commanders, allegations of workplace sexual harassment, including by team owner Dan Snyder, continue to dog the team. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
