@@ -63,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 04:25 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-60262964?at_medium=RSS&at_campaign=KARANGA">Can tourism ease the inflation pressure in Turkey?</a> BBC: As people in Turkey battle a massive rate of inflation could tourism help ease the situation? 
+ <p class="updated_time"> 04:24 PM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/house-china-competitive-bill.html">House Passes Bill Adding Billions to Research to Compete With China</a> NYT: The vote sets up a fight with the Senate, which has different recommendations for how the United States should bolster its technology industry to take on China. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
- <p class="updated_time"> 06:30 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
