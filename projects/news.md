@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
+ <p class="updated_time"> 06:04 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60267158?at_medium=RSS&at_campaign=KARANGA">'He gave his life for Ukraine'</a> BBC: Valery's father thinks his son may have anticipated his own death. 
  <p class="updated_time"> 05:22 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-">Why the FBI has been telling athletes heading to the Olympics to bring a burner phone</a> NPR: The Winter Olympics are now underway and the FBI has been telling athletes heading to Beijing to bring a burner phone. There are all kinds of digital threats to the Olympics. 
- <p class="updated_time"> 05:21 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
  <p class="updated_time"> 04:53 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 04:43 PM CT, Feb. 04 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
- <p class="updated_time"> 06:44 PM CT, Feb. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60236777?at_medium=RSS&at_campaign=KARANGA">The illegal Brazilian gold you may be wearing</a> BBC: A special task force is conducting raids deep in the Amazon to target what it calls "blood gold". 
  <p class="updated_time"> 03:45 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/africa/congo-camp-attack-60-dead.html">At Least 60 Dead in Attack on Camp for Displaced People in Congo</a> NYT: The attack, which was carried out with guns and machetes, was among the worst recorded in eastern Congo, a lush region where dozens of militant groups have wreaked havoc for years. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
@@ -200,12 +200,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
+ <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
+ <p class="updated_time"> 06:06 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
+ <p class="updated_time"> 06:00 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
+ <p class="updated_time"> 05:59 PM CT, Feb. 04 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:48 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
- <p class="updated_time"> 05:35 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:20 PM CT, Feb. 04 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/business/economy/solar-tariffs-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Attack at Kabul Airport, Pentagon Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
- <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 04:37 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/new-york-city-mayor-apologizes-for-calling-white-cops-crackers-00005887">New York City mayor apologizes for calling white cops ‘crackers’</a> Politico: Adams served in the NYPD for 22 years and retired as a captain in 2006. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
@@ -229,11 +233,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:53 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358133/rnc-censures-cheney-and-kinzinger-for-their-participation-in-jan-6-investigation">RNC censures Cheney and Kinzinger for their participation in Jan. 6 investigation</a> NPR: The Republican National Committee censured Liz Cheney and Adam Kinzinger, and in the censure document labeled the Jan. 6 attack on the Capitol "legitimate political discourse." 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078367504/pence-says-trump-is-wrong-to-insist-he-could-have-overturned-election-results">Pence says Trump is wrong to insist he could have overturned election results</a> NPR: The former vice president called out the former president during a speech Friday, saying it's "un-American" to think that one person could determine the outcome of an election. 
+ <a href="https://www.npr.org/2022/02/04/1078367504/pence-says-trump-is-wrong-to-insist-he-could-have-overturned-election-results">Pence says Trump is wrong to insist VP could have overturned election results</a> NPR: The former vice president called out the former president during a speech Friday, saying it's "un-American" to think that one person could determine the outcome of an election. 
  <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
@@ -319,15 +321,13 @@ permalink: /projects/news/
  <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looks to controversial ally to run mental health office</a> Politico: The potential appointment has drawn concerns. 
+ <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looked to controversial ally to run mental health office</a> Politico: The potential appointment had drawn concerns. 
  <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
  <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
- <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:55 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/sarah-palin-libel-case-against-new-york-times-trial-00005306">Sarah Palin's lawyers admit 'uphill' fight in libel suit against New York Times</a> Politico: The former Republican vice presidential nominee sued over a 2017 editorial she contends unfairly linked her to a deadly Arizona shooting. 
  <p class="updated_time"> 12:27 PM CT, Feb. 03 </p> 
