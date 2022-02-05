@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
  <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy dies after he was trapped in a well for 4 days</a> NPR: Moroccan King Mohammed VI expressed his condolences to the boy's parents in a statement released by the palace. 
+ <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy dies after he was trapped in a well for 4 days</a> NPR: Moroccan King Mohammed VI expressed his condolences to the boy's parents in a statement released by the palace. The exact circumstances of how the boy fell in the well are unclear. 
  <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
