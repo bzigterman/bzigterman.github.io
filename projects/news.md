@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:16 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">India Covid-19: The children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
- <p class="updated_time"> 07:40 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
  <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 07:38 PM CT, Feb. 04 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
+ <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 08:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Guantánamo Detainee Suspected of Planned Role in 9/11 Be Transferred</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
- <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
  <p class="updated_time"> 06:00 PM CT, Feb. 04 </p> 
