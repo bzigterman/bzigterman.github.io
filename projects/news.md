@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/05/1076334193/a-rural-hospital-in-bangladesh-is-named-the-worlds-best-new-building">A rural hospital in Bangladesh is named the world's best new building</a> NPR: The prestigious architectural prize celebrates the 80-bed hospital's human-centered design, built in harmony with the waterlogged local environment with a modest budget and local low-cost materials. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 03:45 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-60262964?at_medium=RSS&at_campaign=KARANGA">Can tourism ease the inflation pressure in Turkey?</a> BBC: As people in Turkey battle a massive rate of inflation could tourism help ease the situation? 
  <p class="updated_time"> 03:39 AM CT, Feb. 05 </p> 
@@ -129,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
  <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. The city has made history as the first to host both the Summer and Winter Games. 
- <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
  <p class="updated_time"> 09:43 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
@@ -167,14 +173,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
- <p class="updated_time"> 02:51 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html">Why Nasal Covid Vaccines May Make Better Boosters</a> NYT: Nasal vaccines under development around the world may make better boosters by stopping the coronavirus in the airways. 
  <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 11:57 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html">More Than a Million Afghans Flee as Economy Collapses</a> NYT: Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
  <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
- <p class="updated_time"> 07:28 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html">U.S. and NATO Don't Budge in Answering Russian Demands</a> NYT: Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
@@ -202,6 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Inside the Fox News That Donald Trump Helped Build</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse in a way the country is still living with. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 11:04 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 09:36 PM CT, Feb. 04 </p> 
@@ -214,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
- <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
@@ -326,10 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
- <p class="updated_time"> 05:44 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes Childs for Supreme Court, Testing Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
- <p class="updated_time"> 05:19 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looked to controversial ally to run mental health office</a> Politico: The potential appointment had drawn concerns. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
