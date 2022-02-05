@@ -39,7 +39,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
- <p class="updated_time"> 05:11 AM CT, Feb. 05 </p> 
+ <p class="updated_time"> 05:44 AM CT, Feb. 05 </p> 
  <a href="https://www.wsj.com/articles/uyghur-torch-bearer-at-olympics-evokes-memories-of-2008-for-countryman-11644020974">Uyghur Torchbearer Evokes Memories of 2008 Games</a> WSJ: Fourteen years apart, two young Uyghurs gripped the Olympic torch. One is now in the U.S., with his father in prison. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
