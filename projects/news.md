@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:02 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 08:16 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
  <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
- <p class="updated_time"> 06:39 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60227982?at_medium=RSS&at_campaign=KARANGA">Mexican journalists shocked with surge in targeted killings</a> BBC: Four journalists were killed in Mexico in January, the most violent month for the profession in a decade. 
  <p class="updated_time"> 06:30 PM CT, Feb. 04 </p> 
