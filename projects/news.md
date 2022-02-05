@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:30 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 03:38 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days has died</a> BBC: A royal statement announced the five year old's death shortly after the four-day rescue effort ended. 
  <p class="updated_time"> 03:28 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">5-Year-Old Boy Dies After Being Trapped in Well in Morocco for Days</a> NYT: A rescue operation attempting to save him captivated people in Morocco and beyond. 
