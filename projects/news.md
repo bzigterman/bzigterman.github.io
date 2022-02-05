@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
- <p class="updated_time"> 07:58 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/americas/erin-otoole-ousted-canada.html">Erin O'Toole, Canada’s Conservative Leader, Is Ousted</a> NYT: The deposal of the Conservative leader Erin O’Toole could provide a political lift for Prime Minister Justin Trudeau, buffeted by pandemic exhaustion. 
  <p class="updated_time"> 03:32 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
  <p class="updated_time"> 06:00 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona’s Right Wing Sought Power to Overturn Votes. Rusty Bowers Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 05:59 PM CT, Feb. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
