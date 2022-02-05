@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy has been trapped in a well for days. Rescuers fear for his life</a> NPR: Online messages of support and concern for the boy trapped in a well in Morocco poured in from around the world as rescue efforts stretched into a fourth day. 
  <p class="updated_time"> 11:09 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
- <p class="updated_time"> 10:41 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 10:08 AM CT, Feb. 05 </p> 
