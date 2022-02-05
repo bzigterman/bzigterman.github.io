@@ -56,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:10 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60219183?at_medium=RSS&at_campaign=KARANGA">Cheryl Grimmer case: 'How did my sister vanish from Fairy Meadow?'</a> BBC: A toddler snatched from a busy beach, a brother's guilt and a new search for answers - the disappearance of Cheryl Grimmer. 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding the US podcast presenter Joe Rogan and his Spotify show. 
+ <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding US podcast presenter Joe Rogan and his Spotify show. 
  <p class="updated_time"> 06:04 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60267158?at_medium=RSS&at_campaign=KARANGA">'He gave his life for Ukraine'</a> BBC: Valery's father thinks his son may have anticipated his own death. 
  <p class="updated_time"> 05:22 PM CT, Feb. 04 </p> 
