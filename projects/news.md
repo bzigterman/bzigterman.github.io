@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
+ <p class="updated_time"> 09:39 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
+ <p class="updated_time"> 09:28 AM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
- <p class="updated_time"> 08:53 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 08:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478616/what-the-islamic-state-might-do-next-after-the-death-of-its-leader">What the Islamic State might do next after the death of its leader</a> NPR: NPR's Scott Simon speaks to director of Century International, Thanassis Cambanis,  about how the Islamic State may react after the militant group lost its leader during a U.S. raid. 
- <p class="updated_time"> 08:02 AM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 07:06 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
  <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speed skaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing previously hosted the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
+ <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing previously hosted the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/05/1076334193/a-rural-hospital-in-bangladesh-is-named-the-worlds-best-new-building">A rural hospital in Bangladesh is named the world's best new building</a> NPR: The prestigious architectural prize celebrates the 80-bed hospital's human-centered design, built in harmony with the waterlogged local environment with a modest budget and local low-cost materials. 
- <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 03:45 AM CT, Feb. 05 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 06:00 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo">Saying he's an insurrectionist, challengers aim to keep Rep. Cawthorn off the ballot</a> NPR: The North Carolina Republican's ability to run for reelection in the fall is being challenged, in part because of his actions on the day of the attack on the U.S. Capitol. 
+ <a href="https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo">Calling Rep. Cawthorn an insurrectionist, challengers aim to keep him off the ballot</a> NPR: The North Carolina Republican's ability to run for reelection in the fall is being challenged, in part because of his actions on the day of the attack on the U.S. Capitol. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Inside the Fox News That Donald Trump Helped Build</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse in a way the country is still living with. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
