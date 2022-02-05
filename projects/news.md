@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Second storm in weeks hits Madagascar</a> BBC: Strong winds and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60267514?at_medium=RSS&at_campaign=KARANGA">Morocco gripped by efforts to rescue boy trapped in well</a> BBC: The five-year-old boy, Rayan, has been stuck at the bottom of a 32m deep well since Tuesday. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
- <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60259427?at_medium=RSS&at_campaign=KARANGA">Mount Everest: Mountain's highest glacier melting rapidly, new study shows</a> BBC: The melting is endangering both climbers and locals who rely on the glaciers for drinking water. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
