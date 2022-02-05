@@ -7,10 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">India Covid-19: The children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
+ <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
+ <p class="updated_time"> 07:40 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
+ <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
+ <p class="updated_time"> 07:38 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
+ <p class="updated_time"> 07:32 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60245133?at_medium=RSS&at_campaign=KARANGA">Sudan's feared secret police make a comeback</a> BBC: Amira Osman is one of dozens believed to have been arrested by Sudan's feared secret police. 
+ <p class="updated_time"> 07:31 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
+ <p class="updated_time"> 07:11 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
+ <p class="updated_time"> 07:09 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA">Parrots for sale: The internet's role in illicit trade</a> BBC: An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale. 
  <p class="updated_time"> 06:43 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
  <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: Gun group condemns fatal Minneapolis police shooting</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
  <p class="updated_time"> 06:39 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
@@ -20,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 06:22 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078415610/ontario-premier-calls-on-covid-restriction-protesters-to-end-their-occupation">Ontario premier calls on COVID restriction protesters to end their 'occupation'</a> NPR: Protesters have said they won't leave until all mandates and COVID-19 restrictions are gone in a movement that has been endorsed by former U.S. President Donald Trump. 
+ <a href="https://www.npr.org/2022/02/04/1078415610/ontario-premier-calls-on-covid-restriction-protesters-to-end-their-occupation">Ontario premier calls on COVID restriction protesters to end their 'occupation'</a> NPR: Crowdfunding site GoFundMe said it would refund or redirect to charities the vast majority of millions raised by demonstrators protesting COVID-19 measures in the Canadian capital. 
  <p class="updated_time"> 06:19 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60257580?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Valery, young victim of a frozen war</a> BBC: While Nato warns of a possible Russian invasion, 65 Ukrainian soldiers have died in the past year. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
@@ -53,14 +71,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
- <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 03:18 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078241901/us-troops-europe-ukraine-russia-crisis">Explaining the U.S. military presence in Europe as 2,000 more troops deploy</a> NPR: The number of U.S. troops in Europe has shrunk dramatically since the end of the Cold War — but tensions with Russia since 2014 have prompted U.S. leaders to beef up numbers and move troops eastward. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358084/deputy-nsa-talks-on-russias-possible-false-flag-attack-to-justify-ukraine-invasi">Deputy NSA talks on Russia's possible 'false flag' attack to justify Ukraine invasion</a> NPR: NPR's Ari Shapiro talks with Jon Finer, Deputy National Security Adviser, on Russia's plans after the White House accused it of staging a false attack by Ukrainian forces to justify invading Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
+ <p class="updated_time"> 02:26 PM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
  <p class="updated_time"> 02:10 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
@@ -73,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:06 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60259427?at_medium=RSS&at_campaign=KARANGA">Mount Everest: Mountain's highest glacier melting rapidly, new study shows</a> BBC: The melting is endangering both climbers and locals who rely on the glaciers for drinking water. 
+ <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
@@ -109,10 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
  <p class="updated_time"> 09:05 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60258611?at_medium=RSS&at_campaign=KARANGA">Winter storm disrupts travel and causes power blackouts in Texas</a> BBC: An ice and snow storm is causing travel chaos and power outages across Texas. 
- <p class="updated_time"> 08:54 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60247542?at_medium=RSS&at_campaign=KARANGA">Meta moves to tackle creepy behaviour in virtual reality</a> BBC: Women describe their experiences but what can firms behind virtual-reality platforms do about it? 
- <p class="updated_time"> 08:28 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60242407?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games officially under way after opening ceremony in Beijing</a> BBC: The 24th edition of the Winter Olympics is officially under way after the cauldron was lit in a restrained opening ceremony in Beijing. 
  <p class="updated_time"> 07:48 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. special-operations forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
@@ -127,18 +143,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
  <p class="updated_time"> 05:47 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60257581?at_medium=RSS&at_campaign=KARANGA">German anger as Russia shuts international broadcaster Deutsche Welle</a> BBC: Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow. 
- <p class="updated_time"> 05:10 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-60258088?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa makes its own version of Moderna vaccine</a> BBC: Scientists there say it could help increase very low vaccination rates across Africa. 
  <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253">Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</a> WSJ: The areas, once engines of the Ukrainian economy, are now impoverished, depopulated enclaves that increasingly rely on Russian subsidies to survive. It’s what many fear could happen to the rest of the country if Vladimir Putin carries out a broader invasion. 
- <p class="updated_time"> 04:06 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
- <p class="updated_time"> 03:53 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60240762?at_medium=RSS&at_campaign=KARANGA">Putin's Olympic trip signals warmer Russia-China ties</a> BBC: Russia's president heads to the Chinese capital, Beijing, in his first visit since the Covid pandemic. 
  <p class="updated_time"> 03:24 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60256966?at_medium=RSS&at_campaign=KARANGA">Billionaire Bezos' superyacht sparks bridge row</a> BBC: Rotterdam's Koningshaven Bridge may be dismantled to allow the ship to leave a shipyard. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
@@ -149,26 +159,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
- <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
- <p class="updated_time"> 06:45 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60203683?at_medium=RSS&at_campaign=KARANGA">Climate change: Satellites map huge methane plumes from oil and gas</a> BBC: Plugging methane leaks from oil and gas fields could be an easy win in curbing climate change. 
- <p class="updated_time"> 06:25 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
- <p class="updated_time"> 06:17 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60236826?at_medium=RSS&at_campaign=KARANGA">Afghanistan women: 'I felt anxious going back to university'</a> BBC: Some female students went back to campus for the first time since the Taliban takeover. How did it feel? 
- <p class="updated_time"> 06:11 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60239105?at_medium=RSS&at_campaign=KARANGA">Shackleton's Endurance: The impossible search for the greatest shipwreck</a> BBC: The latest bid to find Antarctic explorer Ernest Shackleton's lost polar yacht is set to get under way. 
- <p class="updated_time"> 06:02 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60243953?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 28 January-3 February 2022</a> BBC: A selection of the best photos from across the African continent this week. 
  <p class="updated_time"> 05:59 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html">At Beijing Olympics, Question of Free Speech Looms Over Athletes</a> NYT: An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games. 
  <p class="updated_time"> 05:21 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
- <p class="updated_time"> 03:36 PM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60251922?at_medium=RSS&at_campaign=KARANGA">Footage depicts aftermath of US raid in Syria</a> BBC: Photos and video show the scene where a US operation targeted the leader of Islamic State. 
- <p class="updated_time"> 03:15 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/middleeast/abu-ibrahim-al-hashemi-al-qurayshi-isis.html">Who Was ISIS Leader Abu Ibrahim al-Hashemi al-Qurayshi?</a> NYT: Little is known about the ISIS leader, who died, much like his predecessor, in a raid by U.S. commandos in northwestern Syria. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:51 PM CT, Feb. 03 </p> 
@@ -210,6 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
+ <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
+ <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/colleague-times-editor-crestfallen-over-editorial-that-prompted-sarah-palin-suit-00005978">Times editor ‘crestfallen’ over editorial that prompted Sarah Palin suit, colleague testifies</a> Politico: NYT's Elizabeth Williamson tells Manhattan jury about errors in shooting-related editorial 
  <p class="updated_time"> 07:18 PM CT, Feb. 04 </p> 
@@ -224,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
- <p class="updated_time"> 06:25 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
@@ -320,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 07:58 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078024596/alphonso-david-hrc-lawsuit">First Black leader of Human Rights Campaign sues, says he was fired because of race</a> NPR: Alphonso David also said during contract negotiations HRC board members "acknowledged" that he was severely underpaid in comparison to his white predecessor "because of his race." 
- <p class="updated_time"> 07:20 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 06:40 PM CT, Feb. 03 </p> 
  <a href="https://www.npr.org/2022/02/03/1078088301/over-the-counter-covid-tests-will-soon-be-free-for-medicare-recipients">Over-the-counter COVID tests will soon be free for Medicare recipients</a> NPR: The Biden administration said that Medicare recipients will be able to get up to eight tests a month, free of charge. 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
