@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
+ <p class="updated_time"> 05:45 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 05:33 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
- <p class="updated_time"> 05:27 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Tense Wait as Rescuers Work to Free 5-Year-Old From Well in Morocco</a> NYT: A boy named Rayan has been stuck at the bottom of a 100-foot-deep well since Tuesday, in a drama that has captivated the North African nation. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:39 AM CT, Feb. 05 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078227530/winter-olympics-largest-teams">These are the largest teams competing at the Winter Olympics</a> NPR: More than 220 athletes will represent the United States at the Olympics in Beijing, making it the largest delegation at the Games. Other large teams include China and the Russian Olympic Committee. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/top-aides-boris-johnson-quit.html">Top Aides to Boris Johnson Quit, Adding to Downing Street Turmoil</a> NYT: Day after day, new developments add to the political crisis over boozy parties during lockdown, which threatens to bring down the prime minister. 
- <p class="updated_time"> 10:02 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/04/1078160616/the-2022-winter-olympics-open-with-a-colorful-but-subdued-ceremony-in-beijing">The Winter Games have begun. See photos and highlights from the opening ceremony</a> NPR: The Winter Games kicked off Friday night in Beijing with an eye-catching but scaled-back opening ceremony. The city has made history as the first to host both the Summer and Winter Games. 
  <p class="updated_time"> 09:43 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
