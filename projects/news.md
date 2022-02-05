@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:56 PM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/joe-rogan-apologizes-racial-slurs-circulates-00006011">Joe Rogan apologizes after video of him using racial slurs circulates</a> Politico: The podcast host said he hoped the situation would "be a teachable moment." 
  <p class="updated_time"> 03:09 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/russian-bombers-fly-over-belarus-00006005">Russian bombers fly over Belarus amid Ukraine tensions</a> Politico: The mission came as the Kremlin has moved troops from Siberia and the Far East to Belarus for joint drills. 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
