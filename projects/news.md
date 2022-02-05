@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
+ <p class="updated_time"> 01:55 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 01:41 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
- <p class="updated_time"> 12:45 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 12:32 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Second storm in weeks hits Madagascar</a> BBC: Strong winds and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
