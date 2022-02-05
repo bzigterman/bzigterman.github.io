@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy has been trapped in a well for days. Rescuers fear for his life</a> NPR: Online messages of support and concern for the boy trapped in a well in Morocco poured in from around the world as rescue efforts stretched into a fourth day. 
  <p class="updated_time"> 11:09 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
  <p class="updated_time"> 10:41 AM CT, Feb. 05 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Amid Coups and Covid, Africa Focuses on What’s Most Important: Soccer</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/the-world-is-likely-sicker-than-it-has-been-in-100-years-11644057003">The World Is Likely Sicker Than It Has Been in 100 Years</a> WSJ: The Omicron coronavirus variant appears to have made more people ill at the same time than in any period since the flu pandemic of 1918-1919, experts say. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
- <p class="updated_time"> 11:53 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078259252/news-corp-china-hacking-cyberattack">Hackers tied to China are suspected of spying on News Corp. journalists</a> NPR: News Corp. — which owns the publishers of The Wall Street Journal and the New York Post — announced the discovery of a "persistent cyberattack" targeting a limited number of employees. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
@@ -402,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: ”There is no affirmative action component if you pick her," the Republican senator said. 
  <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
- <p class="updated_time"> 11:14 AM CT, Jan. 29 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/29/pundits-to-biden-heres-how-to-fix-your-presidency-00003440"> Pundits to Biden: Here’s how to fix your presidency</a> Politico Playbook: And the U.S. and Ukraine diverge on the Russia threat. 
 
 
 </details>
