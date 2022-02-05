@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 12:32 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Second storm in weeks hits Madagascar</a> BBC: Strong winds and heavy rain are reported as Cyclone Batsirai makes landfall. 
- <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/pennsylvania-republican-party-declines-endorse-senate-00005999">Pennsylvania GOP declines to endorse in Senate race</a> Politico: The party chose not to pick sides in any of the statewide contests this year. 
  <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/house-senate-showdown-china-bill-00005575">House sets up Senate showdown with vote on partisan China bill </a> Politico: The White House is eager for the China legislation to reach Biden’s desk before his State of the Union, but lawmakers must first reconcile a bipartisan Senate package with a House bill full of Democratic priorities.  
  <p class="updated_time"> 08:23 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-politics-preview.html">Covid’s effect on the jobs numbers may leave Washington in the dark.</a> NYT: Without clarity on how quickly the labor market can shake off Omicron, the Fed will have difficulty applying the data to its interest rate strategy. 
- <p class="updated_time"> 07:57 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html">Lawmakers Press Amazon on Sales of Chemical Used in Suicides</a> NYT: Even as grieving families tried to warn Amazon and other e-commerce sites of the danger, there were more purchases and more deaths. 
  <p class="updated_time"> 07:46 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078044162/jess-kutch-can-unions-address-the-changing-needs-of-workers-today">Jess Kutch: Can unions address the changing needs of workers today?</a> NPR: From unionizing to striking to quitting, employees are taking power into their own hands. Labor organizer Jess Kutch explores the effectiveness of collective bargaining to affect change. 
  <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
