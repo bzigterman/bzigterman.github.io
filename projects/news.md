@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/05/north-korea-olympics-china-00005993">‘Someone else’s festival’: No North Korea at ally’s Olympics</a> Politico: North Korea hasn't sent any athletes and officials to it neighbor's Olympics. 
  <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
+ <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting">North Carolina's Supreme Court strikes down redistricting maps that gave GOP an edge</a> NPR: The divided court struck down the state's new maps for congressional and General Assembly seats. The ruling is a major victory for Democrats and their allies. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478553/week-in-politics-russia-and-china-align-rnc-justifies-jan-6-job-growth">Week in politics: Russia and China align; RNC justifies Jan. 6; job growth </a> NPR: The leaders of Russia and China solidified their ties, and the Republican National Committee suggested the Jan. 6 riots were "legitimate political discourse." 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078156912/ex-employee-brings-new-harassment-claim-against-washington-nfl-owner-dan-snyder">Ex-employee brings new harassment claim against Washington NFL owner Dan Snyder</a> NPR: Just as the Washington Football Team rebranded itself as the Washington Commanders, allegations of workplace sexual harassment, including by team owner Dan Snyder, continue to dog the team. 
- <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1077697902/in-ohios-senate-race-democrat-ryan-hopes-to-beat-the-odds-with-a-pitch-to-worker">In Ohio's Senate race, Democrat Ryan hopes to beat the odds with a pitch to workers</a> NPR: Democratic Rep. Tim Ryan is seeking the U.S. Senate on a pledge to stand up for workers, a key voting bloc for Donald Trump, who carried the increasingly Republican state twice. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
