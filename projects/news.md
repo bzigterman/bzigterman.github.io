@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:26 AM CT, Feb. 05 </p> 
+ <p class="updated_time"> 08:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478616/what-the-islamic-state-might-do-next-after-the-death-of-its-leader">What the Islamic State might do next after the death of its leader</a> NPR: NPR's Scott Simon speaks to director of Century International, Thanassis Cambanis,  about how the Islamic State may react after the militant group lost its leader during a U.S. raid. 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
  <p class="updated_time"> 08:33 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/north-korea-olympics-china-00005993">‘Someone else’s festival’: No North Korea at ally’s Olympics</a> Politico: North Korea hasn't sent any athletes and officials to it neighbor's Olympics. 
  <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
- <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078156912/ex-employee-brings-new-harassment-claim-against-washington-nfl-owner-dan-snyder">Ex-employee brings new harassment claim against Washington NFL owner Dan Snyder</a> NPR: Just as the Washington Football Team rebranded itself as the Washington Commanders, allegations of workplace sexual harassment, including by team owner Dan Snyder, continue to dog the team. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/covid-commission.html">Covid-19 Commission Modeled on 9/11 Inquiry Draws Bipartisan Backing</a> NYT: A broad, bipartisan group of senators is coalescing around a plan for an independent panel to investigate the origins of the coronavirus and the U.S. response. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
