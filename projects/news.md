@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:41 PM CT, Feb. 04 </p> 
