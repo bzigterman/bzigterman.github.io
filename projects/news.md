@@ -7,8 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
+ <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: Gun group condemns fatal Minneapolis police shooting</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
+ <p class="updated_time"> 06:39 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
+ <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60227982?at_medium=RSS&at_campaign=KARANGA">Mexican journalists shocked with surge in targeted killings</a> BBC: Four journalists were killed in Mexico in January, the most violent month for the profession in a decade. 
+ <p class="updated_time"> 06:30 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60262132?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 29 January - 4 February 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
+ <p class="updated_time"> 06:22 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078415610/ontario-premier-calls-on-covid-restriction-protesters-to-end-their-occupation">Ontario premier calls on COVID restriction protesters to end their 'occupation'</a> NPR: Protesters have said they won't leave until all mandates and COVID-19 restrictions are gone in a movement that has been endorsed by former U.S. President Donald Trump. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60257580?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Valery, young victim of a frozen war</a> BBC: While Nato warns of a possible Russian invasion, 65 Ukrainian soldiers have died in the past year. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
+ <p class="updated_time"> 06:10 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60219183?at_medium=RSS&at_campaign=KARANGA">Cheryl Grimmer case: 'How did my sister vanish from Fairy Meadow?'</a> BBC: A toddler snatched from a busy beach, a brother's guilt and a new search for answers - the disappearance of Cheryl Grimmer. 
+ <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding the US podcast presenter Joe Rogan and his Spotify show. 
  <p class="updated_time"> 06:04 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60267158?at_medium=RSS&at_campaign=KARANGA">'He gave his life for Ukraine'</a> BBC: Valery's father thinks his son may have anticipated his own death. 
  <p class="updated_time"> 05:22 PM CT, Feb. 04 </p> 
@@ -33,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
- <p class="updated_time"> 03:36 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 03:18 PM CT, Feb. 04 </p> 
@@ -83,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078207475/tonga-flag-bearer-pita-taufatofua-volcano-recovery">Tongan flag bearer Pita Taufatofua is skipping the Games to focus on volcano relief</a> NPR: Taufatofua made headlines as Tonga's bare-chested flag bearer at the last three opening ceremonies. He's missing the 2022 Games to help his country recover from January's deadly tsunami. 
  <p class="updated_time"> 10:00 AM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
- <p class="updated_time"> 09:56 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078224979/winter-olympics-china-reaction">How the Winter Olympics are being received in China</a> NPR: Despite a campaign from China to increase enthusiasm for winter sports, many in the country are indifferent to the Games and excitement is more muted than in 2008. 
  <p class="updated_time"> 09:49 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
  <p class="updated_time"> 09:43 AM CT, Feb. 04 </p> 
@@ -167,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
- <p class="updated_time"> 09:42 AM CT, Feb. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60249702?at_medium=RSS&at_campaign=KARANGA">President Biden confirms Islamic State leader killed in Syria</a> BBC: US president says he sent in special forces to avoid civilian casualties, but target blew himself up. 
  <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 04:57 AM CT, Feb. 03 </p> 
@@ -189,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/us-army-vaccine-mandate.html">U.S. Army Will Begin Dismissing Unvaccinated Soldiers</a> NYT: Other branches of the military, including the Air Force, have already begun discharging members who refused to comply with the mandate. 
  <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
  <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
- <p class="updated_time"> 10:11 AM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/putin-russia-ukraine-us.html">Five Takeaways on Ukraine Crisis, After Putin Breaks Silence</a> NYT: The threat of conflict may not have passed, despite a flurry of diplomacy in Moscow and Kyiv. 
 
 
 </details>
@@ -198,28 +210,36 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/colleague-times-editor-crestfallen-over-editorial-that-prompted-sarah-palin-suit-00005978">Times editor ‘crestfallen’ over editorial that prompted Sarah Palin suit, colleague testifies</a> Politico: NYT's Elizabeth Williamson tells Manhattan jury about errors in shooting-related editorial 
+ <p class="updated_time"> 07:18 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/trump-trudeau-ottawa-protests-00005944">Trump calls Trudeau “far left lunatic” as siege continues in Ottawa</a> Politico: Police and downtown residents brace for a second weekend of protests. 
+ <p class="updated_time"> 07:12 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/call-email-records-bannon-attorney-00005981">Prosecutors sought call, email records of Bannon attorney, defense team claims</a> Politico: Robert J. Costello, one of Steve Bannon’s three criminal defense attorneys, also represented him during negotiations with the Jan. 6 select committee. 
+ <p class="updated_time"> 07:11 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
+ <p class="updated_time"> 07:06 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
+ <p class="updated_time"> 06:52 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
+ <p class="updated_time"> 06:25 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
- <p class="updated_time"> 06:06 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against VA governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Youngkin, through his emergency powers, can override the decision of local school boards 
  <p class="updated_time"> 06:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 05:59 PM CT, Feb. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 05:48 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:20 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html">G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’</a> NYT: The Republican National Committee voted to censure Representatives Liz Cheney and Adam Kinzinger for participating in the inquiry into the deadly riot at the Capitol. 
  <p class="updated_time"> 05:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/jan-6-pence-remained-on-capitol-grounds-00005919">Capitol Police: Pence remained on Capitol grounds throughout Jan. 6 attack</a> Politico: A U.S. Capitol Police officer said former Vice President Mike Pence was transferred to a secure location in the Capitol complex during the riot and remained there for four hours. 
- <p class="updated_time"> 05:07 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
  <p class="updated_time"> 04:58 PM CT, Feb. 04 </p> 
@@ -250,22 +270,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/michael-avenatti-convicted-of-stealing-from-stormy-daniels-00005865">Michael Avenatti convicted of stealing from Stormy Daniels</a> Politico: Prosecutors portrayed Avenatti as a common thief and serial liar. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
- <p class="updated_time"> 02:42 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/cdc-advisers-approved-moderna-covid-vaccine-00005782">CDC recommends fully approved Moderna Covid vaccine</a> Politico: Licensure doesn't materially affect the status quo — the licensed vaccine's formula is identical to that authorized for emergency use. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel</a> NPR: The Republican National Committee voted to censure the two House GOP lawmakers, who are involved in investigating the deadly Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 01:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/nashville-2024-republican-convention-search-00005781">Nashville rises, Pittsburgh crashes out in 2024 GOP convention search</a> Politico: The red-state politics of Tennessee and Utah make Nashville and Salt Lake City particularly attractive sites for the party. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
- <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 12:31 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-gets-some-good-news-on-jobs-report-00005712">What comes next after the stunning jobs report</a> Politico: The report was so solid that it provides more fuel for the Federal Reserve to raise interest rates. 
  <p class="updated_time"> 12:17 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/arkoosh-pa-dem-senate-primary-00005734">Arkoosh drops out of Pa. Dem Senate primary</a> Politico: The physician was the lone high-profile woman seeking the Democratic nomination. 
- <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
  <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:19 AM CT, Feb. 04 </p> 
@@ -289,13 +303,11 @@ permalink: /projects/news/
  <p class="updated_time"> 05:41 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/magazine/michael-flynn-2020-election.html">Michael Flynn Is Still at War</a> NYT: The general tried to persuade Donald Trump to use the military to overturn the 2020 election. A year later, he and his followers are fighting the same battle by other means. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/gallery/2022/02/04/the-nations-cartoonists-on-the-week-in-politics-00005475">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:09 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078156912/ex-employee-brings-new-harassment-claim-against-washington-nfl-owner-dan-snyder">Ex-employee brings new harassment claim against Washington NFL owner Dan Snyder</a> NPR: Just as the Washington Football Team rebranded itself as the Washington Commanders, allegations of workplace sexual harassment, including by team owner Dan Snyder, continue to dog the team. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
@@ -322,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looked to controversial ally to run mental health office</a> Politico: The potential appointment had drawn concerns. 
- <p class="updated_time"> 03:42 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/health/medicare-coronavirus-tests.html">Medicare Will Soon Provide Free At-Home Coronavirus Tests</a> NYT: The announcement came after lawmakers and advocates argued that Medicare recipients had been passed over in the push to require insurers to cover the tests. 
  <p class="updated_time"> 03:39 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/mcconnell-biden-fed-sarah-bloom-raskin-climate-00005310">McConnell: Biden Fed nominee seeking to 'bully' companies on climate</a> Politico: Fed nominee pledges she would follow the law. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
