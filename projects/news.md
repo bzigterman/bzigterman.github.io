@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:24 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 04:48 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The 4-day rescue operation failed to save the life of Rayan Oram, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
+ <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078546528/a-former-u-s-ambassador-to-nato-looks-at-what-is-at-stake-for-the-military-allia">A former U.S. ambassador to NATO looks at what is at stake for the military alliance </a> NPR: NPR's Michel Martin speaks with Douglas Lute about why NATO is at the heart of the tension between Russia and the West and where the alliance might be headed. 
+ <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078546521/ukraine-has-thousands-of-veterans-who-would-be-called-to-serve-in-the-reserves">Ukraine has thousands of veterans who would be called to serve in the reserves</a> NPR: Many of them fought Russian-backed separatists in the Donbas region. They say they are ready to fight again. 
+ <p class="updated_time"> 04:29 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: A royal statement announces the five-year-old's death shortly after the four-day rescue effort ends. 
+ <p class="updated_time"> 04:28 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 04:21 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Second storm in weeks hits Madagascar</a> BBC: Strong winds and heavy rain are reported as Cyclone Batsirai makes landfall. 
- <p class="updated_time"> 04:00 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days has died</a> BBC: A royal statement announced the five-year-old's death shortly after the four-day rescue effort ended. 
- <p class="updated_time"> 03:28 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">5-Year-Old Boy Dies After Being Trapped in Well in Morocco for Days</a> NYT: A rescue operation attempting to save him captivated people in Morocco and beyond. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
@@ -125,10 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
- <p class="updated_time"> 03:18 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078241901/us-troops-europe-ukraine-russia-crisis">Explaining the U.S. military presence in Europe as 2,000 more troops deploy</a> NPR: The number of U.S. troops in Europe has shrunk dramatically since the end of the Cold War — but tensions with Russia since 2014 have prompted U.S. leaders to beef up numbers and move troops eastward. 
- <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078358084/deputy-nsa-talks-on-russias-possible-false-flag-attack-to-justify-ukraine-invasi">Deputy NSA talks on Russia's possible 'false flag' attack to justify Ukraine invasion</a> NPR: NPR's Ari Shapiro talks with Jon Finer, Deputy National Security Adviser, on Russia's plans after the White House accused it of staging a false attack by Ukrainian forces to justify invading Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
@@ -237,13 +237,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478553/week-in-politics-russia-and-china-align-rnc-justifies-jan-6-job-growth">Week in politics: Russia and China align; RNC justifies Jan. 6; job growth </a> NPR: The leaders of Russia and China solidified their ties, and the Republican National Committee suggested the Jan. 6 riots were "legitimate political discourse." 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
+ <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
+ <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/risky-financial-deal-weed-company-ianthus-00004862">The risky financial deals that shook up one of America's most promising weed companies</a> Politico: iAnthus thought Gotham Green Partners was providing a financial lifeline, but the investment firm is now poised to seize control of the company. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
