@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:41 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
- <p class="updated_time"> 09:39 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 09:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
