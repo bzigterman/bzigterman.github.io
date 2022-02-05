@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:23 AM CT, Feb. 05 </p> 
+ <p class="updated_time"> 08:26 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478616/what-the-islamic-state-might-do-next-after-the-death-of-its-leader">What the Islamic State might do next after the death of its leader</a> NPR: NPR's Scott Simon speaks to director of Century International, Thanassis Cambanis,  about how the Islamic State may react after the militant group lost its leader during a U.S. raid. 
@@ -101,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
  <p class="updated_time"> 04:34 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
- <p class="updated_time"> 04:24 PM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/winter-olympics-open-in-beijing-after-months-of-tension-11643988782">Winter Olympics Open in Beijing After Months of Tension</a> WSJ: One of the most unusual Games in history began with a parade of masked athletes and a blaze of fireworks. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
  <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
@@ -115,12 +113,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358084/deputy-nsa-talks-on-russias-possible-false-flag-attack-to-justify-ukraine-invasi">Deputy NSA talks on Russia's possible 'false flag' attack to justify Ukraine invasion</a> NPR: NPR's Ari Shapiro talks with Jon Finer, Deputy National Security Adviser, on Russia's plans after the White House accused it of staging a false attack by Ukrainian forces to justify invading Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
- <p class="updated_time"> 02:26 PM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803">Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</a> WSJ: A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core. 
+ <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-waive-sanctions-on-iran-civilian-nuclear-activities-as-talks-heat-up-11644022386">U.S. to Waive Sanctions on Iran Civilian Nuclear Activities</a> WSJ: The sanctions relief is intended to prepare the way for Iran to return to the 2015 nuclear deal. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078309505/olympics-opening-ceremony-country-order">Why Malta enters before Australia, and other facts about the Parade of Nations</a> NPR: Hint: The order of countries presented in the Olympics opening ceremony doesn't follow the English Alphabet. 
+ <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
+ <a href="https://www.wsj.com/articles/uyghur-torch-bearer-at-olympics-evokes-memories-of-2008-for-countryman-11644020974">Uyghur Torchbearer Evokes Memories of 2008 Games</a> WSJ: Fourteen years apart, two young Uyghurs gripped the Olympic torch. One is now in the U.S., with his father in prison. 
  <p class="updated_time"> 01:20 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60267514?at_medium=RSS&at_campaign=KARANGA">Morocco gripped by efforts to rescue boy trapped in well</a> BBC: The five-year-old boy, Rayan, has been stuck at the bottom of a 32m deep well since Tuesday. 
  <p class="updated_time"> 01:04 PM CT, Feb. 04 </p> 
@@ -149,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
- <p class="updated_time"> 07:48 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. special-operations forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
  <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
