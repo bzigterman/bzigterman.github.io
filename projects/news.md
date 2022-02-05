@@ -7,11 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:15 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 03:30 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days has died</a> BBC: A royal statement announced the five year old's death shortly after the four-day rescue effort ended. 
- <p class="updated_time"> 03:03 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 03:28 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">5-Year-Old Boy Dies After Being Trapped in Well in Morocco for Days</a> NYT: A rescue operation attempting to save him captivated people in Morocco and beyond. 
- <p class="updated_time"> 03:02 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 03:19 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Rescuers Pull Out Boy Trapped in Well in Morocco</a> NYT: The condition of the 5-year-old was not immediately known. He had been stuck in a 100-foot well since Tuesday, with rescuers working day and night to extract him. 
  <p class="updated_time"> 02:54 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
