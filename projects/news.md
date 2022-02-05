@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
- <p class="updated_time"> 05:45 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 05:33 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
