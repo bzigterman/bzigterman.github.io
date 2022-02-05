@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days has died</a> BBC: A royal statement announced the five year old's death shortly after the four-day rescue effort ended. 
  <p class="updated_time"> 03:03 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">5-Year-Old Boy Dies After Being Trapped in Well in Morocco for Days</a> NYT: A rescue operation attempting to save him captivated people in Morocco and beyond. 
  <p class="updated_time"> 03:02 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Rescuers Pull Out Boy Trapped in Well in Morocco</a> NYT: The condition of the 5-year-old was not immediately known. He had been stuck in a 100-foot well since Tuesday, with rescuers working day and night to extract him. 
- <p class="updated_time"> 02:56 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy taken out of well after days trapped inside</a> BBC: The five-year-old had been trapped underground for four days, and his condition is unknown. 
  <p class="updated_time"> 02:54 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
  <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy has been trapped in a well for days. Rescuers fear for his life</a> NPR: Online messages of support and concern for the boy trapped in a well in Morocco poured in from around the world as rescue efforts stretched into a fourth day. 
+ <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy dies after he was trapped in a well for 4 days</a> NPR: Moroccan King Mohammed VI expressed his condolences to the boy's parents in a statement released by the palace. 
  <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
