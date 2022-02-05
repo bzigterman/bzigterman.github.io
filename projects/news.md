@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
+ <p class="updated_time"> 08:00 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Guantánamo Detainee Suspected of Planned Role in 9/11 Be Transferred</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
  <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 07:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
- <p class="updated_time"> 06:52 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Mentally Ill Detainee, Suspected of Planned Role in 9/11, Set for Transfer</a> NYT: A parole-like board for prisoners at Guantánamo Bay recommended repatriating the Saudi man, whom the military tortured and so could not be put on trial. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
