@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:41 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco well rescue for five-year-old grips nation</a> BBC: The five-year-old boy, Rayan, fell into a well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 10:19 PM CT, Feb. 04 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60267158?at_medium=RSS&at_campaign=KARANGA">'He gave his life for Ukraine'</a> BBC: Valery's father thinks his son may have anticipated his own death. 
  <p class="updated_time"> 05:22 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-">Why the FBI has been telling athletes heading to the Olympics to bring a burner phone</a> NPR: The Winter Olympics are now underway and the FBI has been telling athletes heading to Beijing to bring a burner phone. There are all kinds of digital threats to the Olympics. 
- <p class="updated_time"> 04:53 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 04:43 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump was wrong to seek to overturn Biden win, says Mike Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over the 2021 election result. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
