@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/pennsylvania-republican-party-declines-endorse-senate-00005999">Pennsylvania GOP declines to endorse in Senate race</a> Politico: The party chose not to pick sides in any of the statewide contests this year. 
  <p class="updated_time"> 11:25 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/queen-elizabeth-attends-largest-reception-since-health-scare-00006001">Queen Elizabeth attends largest reception since health scare</a> Politico: She is set to celebrate the 70th anniversary of her accession to the throne. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
