@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478616/what-the-islamic-state-might-do-next-after-the-death-of-its-leader">What the Islamic State might do next after the death of its leader</a> NPR: NPR's Scott Simon speaks to director of Century International, Thanassis Cambanis,  about how the Islamic State may react after the militant group lost its leader during a U.S. raid. 
- <p class="updated_time"> 08:05 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:02 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 07:06 AM CT, Feb. 05 </p> 
@@ -121,6 +121,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078309505/olympics-opening-ceremony-country-order">Why Malta enters before Australia, and other facts about the Parade of Nations</a> NPR: Hint: The order of countries presented in the Olympics opening ceremony doesn't follow the English Alphabet. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60267514?at_medium=RSS&at_campaign=KARANGA">Morocco gripped by efforts to rescue boy trapped in well</a> BBC: The five-year-old boy, Rayan, has been stuck at the bottom of a 32m deep well since Tuesday. 
  <p class="updated_time"> 01:04 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60265083?at_medium=RSS&at_campaign=KARANGA">US couple sue clinic after DNA kit reveals fertility mix-up</a> BBC: A US couple is suing after discovering that their daughter is not biologically related to her father. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/americas/peru-oil-spill.html">Peru Vows to Make Refinery Pay for Oil Spill After Tonga Volcano Eruption</a> NYT: A leak at a refinery tarred miles of Pacific Coast beaches. The company blames waves caused by a distant volcano eruption, but the Peruvian government has vowed to “defend the sea.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
- <p class="updated_time"> 09:05 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60258611?at_medium=RSS&at_campaign=KARANGA">Winter storm disrupts travel and causes power blackouts in Texas</a> BBC: An ice and snow storm is causing travel chaos and power outages across Texas. 
  <p class="updated_time"> 07:48 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-leader-hid-among-families-displaced-by-war-11643990503">Islamic State Leader Hid Among Families Displaced by War</a> WSJ: Thursday’s raid on ISIS leader Qurayshi took U.S. special-operations forces to familiar territory in Syria: Two years ago they found his predecessor 15 miles down the road. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
