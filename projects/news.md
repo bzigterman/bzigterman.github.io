@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:59 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">More Canadian Cities Brace For Truck Convoy Protests </a> NYT: Hundreds of additional trucks are expected to arrive in Ottawa on Saturday, and new protests are expected in Toronto and Quebec City. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
  <p class="updated_time"> 09:39 AM CT, Feb. 05 </p> 
@@ -30,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
  <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing previously hosted the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
+ <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing repurposed some of the sites used in the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995">RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 09:12 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
