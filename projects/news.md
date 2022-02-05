@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Rescuers Pull Out Boy Trapped in Well in Morocco</a> NYT: The 5-year-old had been stuck in a 100-foot well since Tuesday. Rescuers had worked day and night to extract him. 
+ <p class="updated_time"> 02:48 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Boy taken out of well after days trapped inside</a> BBC: Five-year-old boy taken out of deep well in Morocco after four days trapped inside, but his condition is unknown 
+ <p class="updated_time"> 02:43 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Rescuers Pull Out Boy Trapped in Well in Morocco</a> NYT: The condition of the 5-year-old was not immediately known. He had been stuck in a 100-foot well since Tuesday, with rescuers working day and night to extract him. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:41 PM CT, Feb. 05 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
- <p class="updated_time"> 09:28 AM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60244091?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan rescuers inch nearer to boy stuck in well for days</a> BBC: The five-year-old boy, Rayan, fell into the well while playing in the Moroccan town of Tamorot. 
  <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
