@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1076102464/pakistan-truck-art-painting">These eye-popping, hand-painted trucks rule Pakistan's roads</a> NPR: Around the world, trucks are essential everyday vehicles. In Pakistan, trucks are also canvases for dazzling works of art. Truck art has served a social good too, and helped recover missing children. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078478546/citizens-of-rostov-on-don-could-be-caught-in-the-middle-of-a-russia-ukraine-war">Citizens of Rostov-on-Don could be caught in the middle of a Russia-Ukraine war</a> NPR: In Rostov-on-Don, the largest Russian city near the border with Ukraine, some residents are bracing for a possible war. But many others are going on with their normal routines. 
  <p class="updated_time"> 06:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
+ <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
  <p class="updated_time"> 06:27 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
@@ -61,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 07:09 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA">Parrots for sale: The internet's role in illicit trade</a> BBC: An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale. 
- <p class="updated_time"> 06:43 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
  <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
@@ -131,12 +137,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/04/1078035844/discovery-of-hiv-variant-shows-virus-can-evolve-to-be-more-severe-and-contagious">Discovery of HIV variant shows virus can evolve to be more severe — and contagious</a> NPR: Findings from a new study help answer questions about why some people get more severe and transmissible HIV than others — and serve as a reminder that viruses don't always weaken over time. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
- <p class="updated_time"> 11:12 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078234213/beijing-olympics-flame-torch-uyghur">The Beijing Winter Olympics' cauldron lighting made a political statement</a> NPR: The cauldron is a snowflake, with a much smaller flame than usual. It was lit by two Olympians, including an athlete from the Xinjiang autonomous region, home to the Uyghur minority. 
  <p class="updated_time"> 11:06 AM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-vladimir-putin-meets-with-chinese-leader-xi-jinping-in-beijing-11643966743">Putin and Xi Aim Russia-China Partnership Against U.S.</a> WSJ: The two leaders together advanced their joint opposition to America’s global network of alliances, seeking to nudge it aside as the sole superpower. 
- <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html">Is Biden’s Strategy With Putin Working, or Goading Moscow to War?</a> NYT: The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
- <p class="updated_time"> 03:07 PM CT, Feb. 02 </p> 
- <a href="https://www.nytimes.com/2022/02/02/world/europe/boris-johnson-parties.html">As Boris Johnson Seeks a Reset, More Tory Lawmakers Defect</a> NYT: Britain’s prime minister tried to steer attention away from a damning report on Downing Street parties, but his support continued to erode. 
 
 
 </details>
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
+ <a href="https://www.npr.org/2022/02/05/1078478553/week-in-politics-russia-and-china-align-rnc-justifies-jan-6-job-growth">Week in politics: Russia and China align; RNC justifies Jan. 6; job growth </a> NPR: The leaders of Russia and China solidified their ties, and the Republican National Committee suggested the Jan. 6 riots were "legitimate political discourse." 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
- <p class="updated_time"> 07:58 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078024596/alphonso-david-hrc-lawsuit">First Black leader of Human Rights Campaign sues, says he was fired because of race</a> NPR: Alphonso David also said during contract negotiations HRC board members "acknowledged" that he was severely underpaid in comparison to his white predecessor "because of his race." 
  <p class="updated_time"> 06:00 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/us/politics/swing-voters-politics.html">The Politics of Gloom: Suburban Women Voice Concerns</a> NYT: Some voters aren’t sold on the idea that an election will save them from their anguish. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
