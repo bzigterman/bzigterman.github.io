@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 PM CT, Feb. 04 </p> 
+ <a href="https://www.npr.org/2022/02/04/1078436997/judge-halts-virginia-governors-opt-out-school-mask-order-for-now">Judge halts Virginia governor's opt-out school mask order — for now</a> NPR: Republican Gov. Glenn Youngkin's executive order that sought to allow parents to opt out of classroom mask mandates was one of the first actions he took after his inauguration Jan. 15. 
+ <p class="updated_time"> 09:34 PM CT, Feb. 04 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 08:29 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the mentally ill detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/trump-trudeau-ottawa-protests-00005944">Trump calls Trudeau “far left lunatic” as siege continues in Ottawa</a> Politico: Police and downtown residents brace for a second weekend of protests. 
  <p class="updated_time"> 07:12 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/call-email-records-bannon-attorney-00005981">Prosecutors sought call, email records of Bannon attorney, defense team claims</a> Politico: Robert J. Costello, one of Steve Bannon’s three criminal defense attorneys, also represented him during negotiations with the Jan. 6 select committee. 
- <p class="updated_time"> 07:11 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 07:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/michelle-childs-clyburn-supreme-court.html">Clyburn Pushes Childs for Supreme Court, Testing Sway With Biden</a> NYT: The highest-ranking Black member of Congress is credited with helping resurrect the president’s 2020 campaign at a critical point. Now he is calling in a favor. 
  <p class="updated_time"> 05:19 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/gm-mexico-union.html">G.M. workers in Mexico pick an independent union, a trade deal test case.</a> NYT: The vote came after the United States, Mexico and Canada revised a trade agreement that sought to strengthen the hand of workers. 
- <p class="updated_time"> 05:04 PM CT, Feb. 03 </p> 
- <a href="https://www.npr.org/2022/02/03/1078030856/u-s-says-russia-is-planning-a-false-flag-attack-against-ukraine">U.S. says Russia is planning a false flag attack against Ukraine</a> NPR: The White House says Russia is planning a false flag operation to justify a further invasion of Ukraine. The State Department suggested Russia may be making a video of a fake attack to pin on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/04/adams-looks-to-controversial-ally-to-run-mental-health-office-00005402">Adams looked to controversial ally to run mental health office</a> Politico: The potential appointment had drawn concerns. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
