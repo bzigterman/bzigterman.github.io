@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
+ <p class="updated_time"> 08:53 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 08:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/02/05/world/morocco-well-rescue-boy">Live Updates: Hope Tinged With Uncertainty in Race to Free Boy From Well in Morocco</a> NYT: “It’s hard to know his status, but we have great, great, great hope,” one rescuer said of the 5-year-old who has been stuck in a 100-foot well since Tuesday. 
  <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
- <p class="updated_time"> 04:39 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/05/1076334193/a-rural-hospital-in-bangladesh-is-named-the-worlds-best-new-building">A rural hospital in Bangladesh is named the world's best new building</a> NPR: The prestigious architectural prize celebrates the 80-bed hospital's human-centered design, built in harmony with the waterlogged local environment with a modest budget and local low-cost materials. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
- <p class="updated_time"> 09:02 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 08:16 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267840?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: GoFundMe seizes funds of Canada 'occupation'</a> BBC: The crowdfunding website cites reports of "unlawful activity", a claim rejected by protest organisers. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
