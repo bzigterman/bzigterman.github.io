@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:12 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
  <p class="updated_time"> 08:33 AM CT, Feb. 05 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078436997/judge-halts-virginia-governors-opt-out-school-mask-order-for-now">Judge halts Virginia governor's opt-out school mask order — for now</a> NPR: Republican Gov. Glenn Youngkin's executive order that sought to allow parents to opt out of classroom mask mandates was one of the first actions he took after his inauguration Jan. 15. 
  <p class="updated_time"> 09:34 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
- <p class="updated_time"> 08:29 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Recommends Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the mentally ill detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
