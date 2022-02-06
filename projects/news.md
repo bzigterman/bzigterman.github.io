@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
+ <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:48 AM CT, Feb. 06 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/05/1078546528/a-former-u-s-ambassador-to-nato-looks-at-what-is-at-stake-for-the-military-allia">A former U.S. ambassador to NATO looks at what is at stake for the military alliance </a> NPR: NPR's Michel Martin speaks with Douglas Lute about why NATO is at the heart of the tension between Russia and the West and where the alliance might be headed. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078546521/ukraine-has-thousands-of-veterans-who-would-be-called-to-serve-in-the-reserves">Ukraine has thousands of veterans who would be called to serve in the reserves</a> NPR: Many of them fought Russian-backed separatists in the Donbas region. They say they are ready to fight again. 
- <p class="updated_time"> 04:21 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Second storm in weeks hits Madagascar</a> BBC: Strong winds and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 07:09 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA">Parrots for sale: The internet's role in illicit trade</a> BBC: An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale. 
- <p class="updated_time"> 06:43 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60269278?at_medium=RSS&at_campaign=KARANGA">The tense moment Colorado police rescue a dog from a burning car</a> BBC: Police bodycam footage shows a dramatic dog rescue in the US state of Colorado. 
  <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
