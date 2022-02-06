@@ -203,6 +203,16 @@ for (x in 1:nrow(world_news)) {
 }
 world_news_lines 
 
+# create frequency plot ----
+
+ggplot(data = world_news,
+       aes(x = central_time)) +
+  geom_histogram(bins = 7) +
+  theme_void()
+
+ggsave("plots/news.png", 
+       width = 8, height = 8*(628/1200), dpi = 320)
+
 # web text ----
 
 web_text <- paste(
@@ -210,6 +220,7 @@ web_text <- paste(
 layout: page
 title: News Rivers
 permalink: /projects/news
+imageurl: https://bzigterman.com/plots/news.png
 ---
 
 <details open>
