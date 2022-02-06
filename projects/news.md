@@ -27,6 +27,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
  <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade</a> BBC: Moscow has amassed most of the military capability needed for a full-scale invasion, officials say. 
+ <p class="updated_time"> 11:12 PM CT, Feb. 05 </p> 
+ <a href="https://www.wsj.com/articles/moroccan-boy-trapped-in-well-for-four-days-dies-11644142357">Moroccan Boy Trapped in Well for Four Days Dies</a> WSJ: Rescuers reached the five-year-old child, identified as Rayan Aourram, on Saturday night after excavating and tunneling into the well, but he did not survive. 
+ <p class="updated_time"> 10:47 PM CT, Feb. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv's Ability to Resist Russia</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
- <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-waive-sanctions-on-iran-civilian-nuclear-activities-as-talks-heat-up-11644022386">U.S. to Waive Sanctions on Iran Civilian Nuclear Activities</a> WSJ: The sanctions relief is intended to prepare the way for Iran to return to the 2015 nuclear deal. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/podcasts/trojan-horse-affair-british-identity.html">How the Trojan Horse Affair Affected British Pakistanis</a> NYT: A scandal in 2014, known as the Trojan Horse affair, exposed what it’s like living in Britain as a British Pakistani. 
- <p class="updated_time"> 04:24 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253">Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</a> WSJ: The areas, once engines of the Ukrainian economy, are now impoverished, depopulated enclaves that increasingly rely on Russian subsidies to survive. It’s what many fear could happen to the rest of the country if Vladimir Putin carries out a broader invasion. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
  <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
