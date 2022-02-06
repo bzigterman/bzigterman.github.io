@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 01:34 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60281863?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says a deal to avoid war is within reach</a> BBC: France's leader calls for a "new balance" to protect European states while affording Russia respect. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
- <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
  <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
@@ -213,6 +213,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
+ <p class="updated_time"> 02:32 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
+ <p class="updated_time"> 02:30 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 12:08 PM CT, Feb. 06 </p> 
@@ -259,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/pennsylvania-republican-party-declines-endorse-senate-00005999">Pennsylvania GOP declines to endorse in Senate race</a> Politico: The party chose not to pick sides in any of the statewide contests this year. 
- <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
@@ -303,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
- <p class="updated_time"> 04:58 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/solar-tariffs-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
