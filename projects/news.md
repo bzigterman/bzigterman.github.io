@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:32 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 10:56 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The celebrated singer had been admitted to a hospital after testing positive for Covid-19. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
