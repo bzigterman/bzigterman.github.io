@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:27 PM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/russia-military-buildup-ukraine-00006020">Russia at 70 percent of Ukraine military buildup, U.S. officials say</a> Politico: American officials have said that a Russian invasion could overwhelm Ukraine’s military relatively quickly. 
  <p class="updated_time"> 07:14 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 05:56 PM CT, Feb. 05 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358105/nyc-mayor-eric-adams-applauds-federal-help-to-fight-crime">NYC Mayor Eric Adams applauds federal help to fight crime</a> NPR: NPR's Tamara Keith speaks with New York City Mayor Eric Adams about crime and policing in New York, which like many American cities is experiencing a spike in shootings. 
  <p class="updated_time"> 03:16 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358077/republicans-take-issue-with-bidens-pledge-to-pick-a-black-woman-for-supreme-cour">Republicans take issue with Biden's pledge to pick a Black woman for Supreme Court</a> NPR: President Biden pledged to put a Black woman on the Supreme Court, which some Republicans say is discrimination. The situation shows how the parties view representation substantively and politically. 
- <p class="updated_time"> 03:13 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/michael-avenatti-convicted-of-stealing-from-stormy-daniels-00005865">Michael Avenatti convicted of stealing from Stormy Daniels</a> Politico: Prosecutors portrayed Avenatti as a common thief and serial liar. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
