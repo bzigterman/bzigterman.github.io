@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baseball Standings
-permalink: /projects/baseball/
+permalink: /projects/baseball
 ---
 
 <p class="updated_time"> Latest data: 09:19 PM CT, October 28</p> 

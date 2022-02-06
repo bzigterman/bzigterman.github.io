@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basketball Standings
-permalink: /projects/basketball/
+permalink: /projects/basketball
 ---
 
 <p class="updated_time"> Latest data: 12:19 AM CT, February 06</p> 

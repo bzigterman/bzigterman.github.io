@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weather
-permalink: /projects/weather/
+permalink: /projects/weather
 ---
 
 ## Severe Thunderstorm Outlook

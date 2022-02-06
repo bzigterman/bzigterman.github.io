@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News Rivers
-permalink: /projects/news/
+permalink: /projects/news
 ---
 
 <details open>
