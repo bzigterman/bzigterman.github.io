@@ -2,11 +2,16 @@
 layout: page
 title: News Rivers
 permalink: /projects/news
+imageurl: https://bzigterman.com/plots/news.png
 ---
 
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:04 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
+ <p class="updated_time"> 12:01 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
  <p class="updated_time"> 11:54 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
  <p class="updated_time"> 11:47 AM CT, Feb. 06 </p> 
@@ -43,8 +48,6 @@ permalink: /projects/news
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
- <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 03:44 AM CT, Feb. 06 </p> 
  <a href="https://www.wsj.com/articles/a-uyghur-skier-became-the-face-of-chinas-winter-olympics-the-next-day-she-vanished-from-the-spotlight-11644157693">A Uyghur Skier Became Face of Winter Olympics. The Next Day, She Vanished From the Spotlight.</a> WSJ: Dinigeer Yilamujiang was catapulted into the global spotlight after carrying the Olympic flame, followed by a low-key retreat, marking a remarkable 24-hour whirlwind for the hitherto-unknown athlete. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
@@ -114,7 +117,7 @@ permalink: /projects/news
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Amid Coups and Covid, Africa Focuses on What’s Most Important: Soccer</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
+ <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
@@ -210,6 +213,8 @@ permalink: /projects/news
 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
+ <p class="updated_time"> 12:08 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
@@ -227,9 +232,9 @@ permalink: /projects/news
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
@@ -271,8 +276,6 @@ permalink: /projects/news
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478553/week-in-politics-russia-and-china-align-rnc-justifies-jan-6-job-growth">Week in politics: Russia and China align; RNC justifies Jan. 6; job growth </a> NPR: The leaders of Russia and China solidified their ties, and the Republican National Committee suggested the Jan. 6 riots were "legitimate political discourse." 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
- <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
@@ -290,8 +293,6 @@ permalink: /projects/news
  <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">Donald Trump 'Is Wrong' on Authority to Overturn Election, Says Pence</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
- <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-fed-politics.html">Biden Notes Economic Success as Employment and Wages Rise</a> NYT: President Biden is celebrating a historic year of job gains and trying to shift the narrative amid high inflation and a lingering virus that have many consumers glum. 
  <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
