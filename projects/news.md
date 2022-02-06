@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
+ <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
+ <p class="updated_time"> 09:51 AM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
  <p class="updated_time"> 09:47 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
- <p class="updated_time"> 09:35 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
  <p class="updated_time"> 09:30 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
  <p class="updated_time"> 09:22 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least six people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
- <p class="updated_time"> 09:18 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
- <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing repurposed some of the sites used in the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
+ <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/sullivan-china-russia-ukraine-00006028">Sullivan warns China could face costs if it supports a Russian invasion of Ukraine</a> Politico: China's president released a joint statement with Vladimir Putin last week. 
  <p class="updated_time"> 07:37 AM CT, Feb. 06 </p> 
@@ -256,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
- <p class="updated_time"> 08:33 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/north-korea-olympics-china-00005993">‘Someone else’s festival’: No North Korea at ally’s Olympics</a> Politico: North Korea hasn't sent any athletes and officials to it neighbor's Olympics. 
  <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
  <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
