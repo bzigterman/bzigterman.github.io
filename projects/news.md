@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:09 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/russian-bombers-fly-over-belarus-00006005">Russian bombers fly over Belarus amid Ukraine tensions</a> Politico: The mission came as the Kremlin has moved troops from Siberia and the Far East to Belarus for joint drills. 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona’s Right Wing Sought Power to Overturn Votes. Rusty Bowers Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
@@ -247,11 +247,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
+ <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
+ <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/risky-financial-deal-weed-company-ianthus-00004862">The risky financial deals that shook up one of America's most promising weed companies</a> Politico: iAnthus thought Gotham Green Partners was providing a financial lifeline, but the investment firm is now poised to seize control of the company. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078358133/rnc-censures-cheney-and-kinzinger-for-their-participation-in-jan-6-investigation">RNC censures Cheney and Kinzinger for their participation in Jan. 6 investigation</a> NPR: The Republican National Committee censured Liz Cheney and Adam Kinzinger, and in the censure document labeled the Jan. 6 attack on the Capitol "legitimate political discourse." 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078367504/pence-says-trump-is-wrong-to-insist-he-could-have-overturned-election-results">Pence says Trump is wrong to insist VP could have overturned election results</a> NPR: The former vice president called out the former president during a speech Friday, saying it's "un-American" to think that one person could determine the outcome of an election. 
- <p class="updated_time"> 03:45 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/pence-2020-election-january-6-00005846">Pence rebukes Trump: ‘I had no right to overturn the election’</a> Politico: After Trump said at a recent rally that he’s considering pardons for those arrested for involvement in the Jan. 6 riots, Pence described it as a “dark day.” 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
  <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
