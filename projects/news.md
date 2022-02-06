@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail Men's Downhill ski final at the Winter Olympics</a> NPR: Referees postponed the Men's Downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
+ <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:48 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The death of the celebrated singer, who sang more than 30,000 songs, is mourned by thousands of people. 
  <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
