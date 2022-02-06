@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078634148/soviet-era-bomb-shelters-in-kyiv-are-now-shops-apartments-and-bars">Soviet-era bomb shelters in Kyiv are now shops, apartments and bars</a> NPR: As the Ukrainian capital city prepares for a possible attack by Russia, residents are wondering where to go. Many Soviet-era bomb shelters have been refurbished after decades of disuse. 
  <p class="updated_time"> 08:06 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
  <a href="https://www.wsj.com/articles/israel-u-a-e-draw-closer-on-security-amid-threat-from-iran-its-allies-11644080194">Israel, U.A.E. Draw Closer on Security Amid Threat From Iran, Its Allies</a> WSJ: One year after Israel and the United Arab Emirates signed a historic agreement to establish diplomatic ties for the first time, the two Middle East nations are discussing new ways to protect the Persian Gulf state. 
- <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
