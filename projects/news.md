@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/06/1077953012/drug-resistant-malaria-is-emerging-in-africa-doctors-are-worried-yet-hopeful">Drug-resistant malaria is emerging in Africa. Doctors are worried — yet hopeful</a> NPR: Resistance to the drug artemisinin was confirmed in Africa. Without better surveillance, experts say it is hard to track the threat. 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:33 AM CT, Feb. 06 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
  <p class="updated_time"> 04:34 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
- <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
+ <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/north-korea-nuclear-material-00006022">U.N. experts: North Korea seeks to produce material for nukes</a> Politico: “A marked acceleration” of the nation's program has been seen. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
@@ -249,13 +257,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/risky-financial-deal-weed-company-ianthus-00004862">The risky financial deals that shook up one of America's most promising weed companies</a> Politico: iAnthus thought Gotham Green Partners was providing a financial lifeline, but the investment firm is now poised to seize control of the company. 
- <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
- <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 06:00 AM CT, Feb. 05 </p> 
@@ -265,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:36 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078436997/judge-halts-virginia-governors-opt-out-school-mask-order-for-now">Judge halts Virginia governor's opt-out school mask order — for now</a> NPR: Republican Gov. Glenn Youngkin's executive order that sought to allow parents to opt out of classroom mask mandates was one of the first actions he took after his inauguration Jan. 15. 
  <p class="updated_time"> 09:34 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">‘Trump Is Wrong,’ Pence Says of False Claim About Overturning Election</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">Donald Trump 'Is Wrong' on Authority to Overturn Election, Says Pence</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 08:06 PM CT, Feb. 04 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
- <p class="updated_time"> 06:02 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/judge-rules-against-va-governors-opt-out-school-mask-order-00005939">Judge rules against Virginia governor’s opt-out school mask order</a> Politico: The judge found that the single issue before the court was whether Glenn Youngkin, through his emergency powers, can override the decision of local school boards 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:17 PM CT, Feb. 04 </p> 
@@ -333,11 +337,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/gallery/2022/02/04/the-nations-cartoonists-on-the-week-in-politics-00005475">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
  <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
- <p class="updated_time"> 09:56 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/biden-relaunched-cancer-moonshot-funding-00005042">Biden's relaunched cancer moonshot needs funding for liftoff</a> Politico: The new moonshot lands one year into Biden’s presidency, giving the administration a long runaway to steer its progress. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
