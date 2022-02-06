@@ -208,6 +208,8 @@ permalink: /projects/news
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news
  <a href="https://www.politico.com/news/2022/02/05/pennsylvania-republican-party-declines-endorse-senate-00005999">Pennsylvania GOP declines to endorse in Senate race</a> Politico: The party chose not to pick sides in any of the statewide contests this year. 
  <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
- <p class="updated_time"> 11:25 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/queen-elizabeth-attends-largest-reception-since-health-scare-00006001">Queen Elizabeth attends largest reception since health scare</a> Politico: She is set to celebrate the 70th anniversary of her accession to the throne. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
@@ -412,8 +412,6 @@ permalink: /projects/news
  <a href="https://www.politico.com/news/2022/01/31/gop-senators-biden-scotus-nominee-00003433">The 3 Republicans to watch as Biden picks his SCOTUS nominee</a> Politico: This trio has backed the president's judicial picks so far at a comparable rate to the centrist Democrats who most often backed Donald Trump's picks. 
  <p class="updated_time"> 11:48 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
- <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: ”There is no affirmative action component if you pick her," the Republican senator said. 
 
 
 </details>
