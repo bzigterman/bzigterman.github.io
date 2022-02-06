@@ -22,8 +22,10 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
                aes(x = central_time,
-                   y = temp)) +
-  geom_line() +
+                   y = temp,
+                   label = round(temp))) +
+  geom_line(color = "grey93") +
+  geom_text() + 
   scale_x_datetime(date_labels = "%a") +
   scale_y_continuous(position = "right",
                      labels = label_number(suffix = "°")) +
