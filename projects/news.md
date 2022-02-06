@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:40 AM CT, Feb. 06 </p> 
+ <p class="updated_time"> 08:56 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
+ <p class="updated_time"> 08:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
+ <p class="updated_time"> 08:51 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634148/soviet-era-bomb-shelters-in-kyiv-are-now-shops-apartments-and-bars">Soviet-era bomb shelters in Kyiv are now shops, apartments and bars</a> NPR: As the Ukrainian capital city prepares for a possible attack by Russia, residents are wondering where to go. Many Soviet-era bomb shelters have been refurbished after decades of disuse. 
- <p class="updated_time"> 08:06 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
- <p class="updated_time"> 03:36 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
