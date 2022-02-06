@@ -7,7 +7,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign
 
-
+![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
 
 ## Severe Thunderstorm Outlook
 
