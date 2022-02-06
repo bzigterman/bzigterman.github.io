@@ -2,7 +2,7 @@
 layout: page
 title: Basketball Standings
 permalink: /projects/basketball
-imageurl: {{ site.baseurl }}/plots/nba_standings.png
+imageurl: https://bzigterman.com/plots/nba_standings.png
 ---
 
 <p class="updated_time"> Latest data: 12:19 AM CT, February 06</p> 
