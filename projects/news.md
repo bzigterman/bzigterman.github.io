@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
+ <p class="updated_time"> 05:14 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 04:16 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 04:03 AM CT, Feb. 06 </p> 
@@ -15,24 +19,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/germany-chancellor-scholz-biden-washington-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
- <p class="updated_time"> 03:41 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
+ <p class="updated_time"> 12:15 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/moroccan-boy-trapped-in-well-for-four-days-dies-11644142357">Moroccan Boy Trapped in Well for Four Days Dies</a> WSJ: Rescuers reached the five-year-old child, identified as Rayan Aourram, on Saturday night after excavating and tunneling into the well, but he did not survive. 
  <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan Oram, ends in grief for the parents. 
  <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade</a> BBC: Moscow has amassed most of the military capability needed for a full-scale invasion, officials say. 
- <p class="updated_time"> 11:12 PM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/moroccan-boy-trapped-in-well-for-four-days-dies-11644142357">Moroccan Boy Trapped in Well for Four Days Dies</a> WSJ: Rescuers reached the five-year-old child, identified as Rayan Aourram, on Saturday night after excavating and tunneling into the well, but he did not survive. 
  <p class="updated_time"> 10:47 PM CT, Feb. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv's Ability to Resist Russia</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
- <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
@@ -204,12 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 10:27 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/russia-military-buildup-ukraine-00006020">Russia at 70 percent of Ukraine military buildup, U.S. officials say</a> Politico: American officials have said that a Russian invasion could overwhelm Ukraine’s military relatively quickly. 
- <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 05:56 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/joe-rogan-apologizes-racial-slurs-circulates-00006011">Joe Rogan apologizes after video of him using racial slurs circulates</a> Politico: The podcast host said he hoped the situation would "be a teachable moment." 
  <p class="updated_time"> 05:47 PM CT, Feb. 05 </p> 
