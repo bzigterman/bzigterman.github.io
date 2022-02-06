@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:06 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
- <p class="updated_time"> 05:14 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 04:16 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
@@ -56,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:59 PM CT, Feb. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-military-buildup-near-ukraine-grows-heightening-u-s-concern-11644114047">Russia Buildup Near Ukraine Grows, Heightening U.S. Concern</a> WSJ: Thousands of civilians would be killed or wounded if Russia continues adding to forces and mounts an all-out attack, U.S. assessments show. 
  <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla">Queen Elizabeth supports a 'Queen Camilla' — shaping the future of the UK monarchy</a> NPR: In remarks delivered on the eve of the 70th anniversary of her accession to the throne, the monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
+ <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla-platinum-jubilee">As Queen Elizabeth marks 70 years as monarch, she looks to Camilla and the future </a> NPR: The monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078546528/a-former-u-s-ambassador-to-nato-looks-at-what-is-at-stake-for-the-military-allia">A former U.S. ambassador to NATO looks at what is at stake for the military alliance </a> NPR: NPR's Michel Martin speaks with Douglas Lute about why NATO is at the heart of the tension between Russia and the West and where the alliance might be headed. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
