@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
+ <p class="updated_time"> 03:41 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career that spanned more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
- <p class="updated_time"> 12:48 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The death of the celebrated singer, who sang more than 30,000 songs, is mourned by thousands of people. 
  <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
  <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
- <p class="updated_time"> 06:30 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/02/sports/olympics/lunar-new-year-olympics.html">Year of the Tiger Overshadows the Olympic Panda</a> NYT: In Beijing, the Lunar New Year has been a bigger preoccupation for many residents, while others have gone back to their hometowns for the holiday. 
  <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
 
