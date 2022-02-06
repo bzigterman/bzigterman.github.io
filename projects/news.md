@@ -211,12 +211,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
  <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
- <p class="updated_time"> 02:30 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 12:08 PM CT, Feb. 06 </p> 
@@ -258,7 +258,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
