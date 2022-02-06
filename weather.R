@@ -41,6 +41,7 @@ temp <- ggplot(champaign_forecast_tidy,
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
+temp
 
 precip <- ggplot(champaign_forecast_tidy,
                  aes(x = central_time,
