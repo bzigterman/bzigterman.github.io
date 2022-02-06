@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
+ <p class="updated_time"> 10:11 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60281129?at_medium=RSS&at_campaign=KARANGA">North Korea: Missile programme funded through stolen crypto, reports say</a> BBC: Investigators say cyber-attackers stole over $50 million in digital assets between 2020 and mid-2021. 
  <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
  <p class="updated_time"> 09:51 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
- <p class="updated_time"> 09:47 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
  <p class="updated_time"> 09:30 AM CT, Feb. 06 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
+ <p class="updated_time"> 05:01 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-military-buildup-near-ukraine-grows-heightening-u-s-concern-11644114047">White House Warns Russian Invasion of Ukraine Could Come 'Any Day Now'</a> WSJ: Thousands of civilians could be killed or wounded if Russia mounts an all-out attack, U.S. intelligence assessments say 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60264084?at_medium=RSS&at_campaign=KARANGA">Queen's Jubilee: Her Majesty's journey through Africa</a> BBC: A look back through some of the archive footage of the Queen's visits to Africa. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
- <p class="updated_time"> 04:59 PM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-military-buildup-near-ukraine-grows-heightening-u-s-concern-11644114047">Russia Buildup Near Ukraine Grows, Heightening U.S. Concern</a> WSJ: Thousands of civilians would be killed or wounded if Russia continues adding to forces and mounts an all-out attack, U.S. assessments show. 
  <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla-platinum-jubilee">As Queen Elizabeth marks 70 years as monarch, she looks to Camilla and the future </a> NPR: The monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 07:09 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA">Parrots for sale: The internet's role in illicit trade</a> BBC: An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale. 
- <p class="updated_time"> 06:40 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60268142?at_medium=RSS&at_campaign=KARANGA">Amir Locke: US gun group defends armed man killed by police</a> BBC: Amir Locke, 22, was shot while lying on a couch with a gun in his hand, police video shows. 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60227982?at_medium=RSS&at_campaign=KARANGA">Mexican journalists shocked with surge in targeted killings</a> BBC: Four journalists were killed in Mexico in January, the most violent month for the profession in a decade. 
  <p class="updated_time"> 06:30 PM CT, Feb. 04 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035">A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
