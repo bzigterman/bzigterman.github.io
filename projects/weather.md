@@ -2,7 +2,7 @@
 layout: page
 title: Weather
 permalink: /projects/weather
-imageurl: https://www.spc.noaa.gov/products/activity_loop.gif
+imageurl: https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_IL.png
 ---
 
 ## Severe Thunderstorm Outlook
