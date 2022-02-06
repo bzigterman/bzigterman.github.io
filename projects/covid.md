@@ -2,6 +2,7 @@
 layout: page
 title: COVID-19
 permalink: /projects/covid
+imageurl: https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png
 ---
 
 ## Champaign County
@@ -1559,8 +1560,8 @@ html {
 <td class="gt_row gt_right gt_striped">+34&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">30.5M</td>
-<td class="gt_row gt_right">17.8M</td>
-<td class="gt_row gt_right">&minus;42&percnt;</td></tr>
+<td class="gt_row gt_right">18.2M</td>
+<td class="gt_row gt_right">&minus;40&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.0B</td>
 <td class="gt_row gt_right gt_striped">4.2B</td>
