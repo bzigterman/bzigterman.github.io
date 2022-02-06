@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Feb. 06 </p> 
+ <p class="updated_time"> 09:04 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 08:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
