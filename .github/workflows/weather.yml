@@ -6,7 +6,7 @@ on:
     - cron: '*/60 * * * *'
 
 jobs:
-  run-autoecon:
+  run-autoweather:
     runs-on: macOS-latest
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}

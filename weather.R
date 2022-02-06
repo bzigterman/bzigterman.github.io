@@ -9,7 +9,7 @@ Sys.setenv(OWM_API_KEY = "OWM_API_KEY")
 
 # get data ----
 champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
-champaign_forecast_tibble <- owmr_as_tibble(champaign_weather)
+champaign_forecast_tibble <- owmr_as_tibble(champaign_forecast)
 champaign_weather_icon <- get_icon_url(champaign_weather_tibble$weather_icon)
 
 # tidy data ----
