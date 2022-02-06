@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078670229/us-says-russia-has-three-quarters-of-forces-for-ukraine-invasion">U.S. says Russia has amassed about 75% of the troops it would need to invade Ukraine</a> NPR: Officials warn that an attack could result in the deaths of tens of thousands of soldiers and civilians, while millions of Ukrainian refugees would be left to flee, likely to nearby Poland. 
+ <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60281863?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says a deal to avoid war is within reach</a> BBC: France's leader calls for a "new balance" to protect European states while affording Russia respect. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
@@ -34,8 +40,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
+ <p class="updated_time"> 09:20 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/a-uyghur-skier-became-the-face-of-chinas-winter-olympics-the-next-day-she-vanished-from-the-spotlight-11644157693">A Uyghur Skier Became Face of Winter Olympics. The Next Day, She Vanished From the Spotlight.</a> WSJ: Dinigeer Yilamujiang was catapulted into the global spotlight after carrying the Olympic flame, followed by a low-key retreat, marking a remarkable 24-hour whirlwind for the hitherto-unknown athlete. 
  <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
+ <p class="updated_time"> 08:18 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60280833?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: Large crowds in Mumbai, India, pay their respects after the legendary singer's death at the age of 92. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634148/soviet-era-bomb-shelters-in-kyiv-are-now-shops-apartments-and-bars">Soviet-era bomb shelters in Kyiv are now shops, apartments and bars</a> NPR: As the Ukrainian capital city prepares for a possible attack by Russia, residents are wondering where to go. Many Soviet-era bomb shelters have been refurbished after decades of disuse. 
  <p class="updated_time"> 07:08 AM CT, Feb. 06 </p> 
@@ -52,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
- <p class="updated_time"> 03:44 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/a-uyghur-skier-became-the-face-of-chinas-winter-olympics-the-next-day-she-vanished-from-the-spotlight-11644157693">A Uyghur Skier Became Face of Winter Olympics. The Next Day, She Vanished From the Spotlight.</a> WSJ: Dinigeer Yilamujiang was catapulted into the global spotlight after carrying the Olympic flame, followed by a low-key retreat, marking a remarkable 24-hour whirlwind for the hitherto-unknown athlete. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 02:00 AM CT, Feb. 06 </p> 
@@ -76,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
  <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60249712?at_medium=RSS&at_campaign=KARANGA">The fast fashion graveyard in Chile's Atacama Desert</a> BBC: Tens of thousands of tonnes of unwanted clothing from Europe and the US are being dumped in the Atacama Desert every year. 
- <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264084?at_medium=RSS&at_campaign=KARANGA">Queen's Jubilee: Her Majesty's journey through Africa</a> BBC: A look back through some of the archive footage of the Queen's visits to Africa. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
  <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
@@ -90,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
- <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
  <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
@@ -108,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1076102464/pakistan-truck-art-painting">These eye-popping, hand-painted trucks rule Pakistan's roads</a> NPR: Around the world, trucks are essential everyday vehicles. In Pakistan, trucks are also canvases for dazzling works of art. Truck art has served a social good too, and helped recover missing children. 
- <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078478546/citizens-of-rostov-on-don-could-be-caught-in-the-middle-of-a-russia-ukraine-war">Citizens of Rostov-on-Don could be caught in the middle of a Russia-Ukraine war</a> NPR: In Rostov-on-Don, the largest Russian city near the border with Ukraine, some residents are bracing for a possible war. But many others are going on with their normal routines. 
  <p class="updated_time"> 06:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
- <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
@@ -211,6 +211,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
+ <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
+ <p class="updated_time"> 02:30 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 12:08 PM CT, Feb. 06 </p> 
@@ -234,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
+ <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
@@ -249,8 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/05/joe-rogan-apologizes-racial-slurs-circulates-00006011">Joe Rogan apologizes after video of him using racial slurs circulates</a> Politico: The podcast host said he hoped the situation would "be a teachable moment." 
  <p class="updated_time"> 05:47 PM CT, Feb. 05 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:09 PM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/russian-bombers-fly-over-belarus-00006005">Russian bombers fly over Belarus amid Ukraine tensions</a> Politico: The mission came as the Kremlin has moved troops from Siberia and the Far East to Belarus for joint drills. 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
@@ -259,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 12:18 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/pennsylvania-republican-party-declines-endorse-senate-00005999">Pennsylvania GOP declines to endorse in Senate race</a> Politico: The party chose not to pick sides in any of the statewide contests this year. 
- <p class="updated_time"> 12:17 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
@@ -269,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
- <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
  <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting">North Carolina's Supreme Court strikes down redistricting maps that gave GOP an edge</a> NPR: The divided court struck down the state's new maps for congressional and General Assembly seats. The ruling is a major victory for Democrats and their allies. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
@@ -305,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
- <p class="updated_time"> 04:58 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/solar-tariffs-caveats.html">President Biden extends solar tariffs, with major caveats.</a> NYT: The Biden administration extended tariffs on imported solar products but made changes to exempt many more products from the levies, a decision that angered some domestic producers. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:16 PM CT, Feb. 04 </p> 
@@ -351,6 +349,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
+ <p class="updated_time"> 08:58 PM CT, Feb. 03 </p> 
+ <a href="https://www.politico.com/news/2022/02/03/dr-oz-campaign-china-00005561">Dr. Oz is running as a China hawk. It's a bit of a stretch.</a> Politico: In addition to a lucrative sponsorship deal, the celebrity physician exported his popular TV show to China. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
