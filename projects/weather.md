@@ -2,8 +2,12 @@
 layout: page
 title: Weather
 permalink: /projects/weather
-imageurl: https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_IL.png
+imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
+
+## Champaign
+
+
 
 ## Severe Thunderstorm Outlook
 
