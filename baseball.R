@@ -920,7 +920,8 @@ web_text <- paste(
   "---
 layout: page
 title: Baseball Standings
-permalink: /projects/baseball/
+permalink: /projects/baseball
+imageurl: {{ site.baseurl }}/plots/mlb_wild_card.png
 ---
 
 ",now_html," 
