@@ -4,25 +4,25 @@ library(lubridate)
 library(scales)
 library(cowplot)
 
-
 Sys.setenv(OWM_API_KEY = "OWM_API_KEY")
 
 # get data ----
 champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
-champaign_forecast_tibble <- owmr_as_tibble(champaign_forecast)
-champaign_weather_icon <- get_icon_url(champaign_forecast_tibble$weather_icon)
+champaign_forecast_clean <- champaign_forecast$list
+#champaign_forecast_tibble <- owmr_as_tibble(champaign_forecast)
+champaign_weather_icon <- get_icon_url(champaign_forecast_clean$weather_icon)
 
 # tidy data ----
-champaign_forecast_tidy <- champaign_forecast_tibble %>%
+champaign_forecast_tidy <- champaign_forecast_clean %>%
+  select(dt_txt,pop,main.temp) %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago"))
-  
 
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
-       aes(x = central_time,
-           y = temp)) +
+               aes(x = central_time,
+                   y = main.temp)) +
   geom_line() +
   scale_x_datetime(date_labels = "%a") +
   scale_y_continuous(position = "right",
@@ -43,8 +43,8 @@ temp <- ggplot(champaign_forecast_tidy,
   )
 
 precip <- ggplot(champaign_forecast_tidy,
-       aes(x = central_time,
-           y = pop)) +
+                 aes(x = central_time,
+                     y = pop)) +
   geom_col(fill = "lightblue",
            color = "lightblue") +
   scale_x_datetime(date_labels = "%a") +
@@ -84,13 +84,13 @@ severe_weather_outlook_url <-
         ")",
         sep = ""
   )
-  
+
 winter_storm_url <- 
   paste("![](",
         "https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_IL.png",
         ")",
         sep = ""
-        )
+  )
 
 
 now <- as_datetime(now())
