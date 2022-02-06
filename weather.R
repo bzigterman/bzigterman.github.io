@@ -1,4 +1,79 @@
 library(tidyverse)
+library(owmr)
+library(lubridate)
+library(scales)
+library(cowplot)
+
+# get data ----
+champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
+champaign_forecast_tibble <- owmr_as_tibble(champaign_weather)
+champaign_weather_icon <- get_icon_url(champaign_weather_tibble$weather_icon)
+
+# tidy data ----
+champaign_forecast_tidy <- champaign_forecast_tibble %>%
+  mutate(datetime = as_datetime(dt_txt)) %>%
+  mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago"))
+  
+
+# plot data ----
+temp <- ggplot(champaign_forecast_tidy,
+       aes(x = central_time,
+           y = temp)) +
+  geom_line() +
+  scale_x_datetime(date_labels = "%a") +
+  scale_y_continuous(position = "right",
+                     labels = label_number(suffix = "°")) +
+  theme_minimal() +
+  labs(x = NULL,
+       y = NULL) +
+  theme(
+    legend.title = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    plot.title = element_text(hjust = 1),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    #axis.text = element_blank(),
+    legend.position = "bottom",
+    legend.key.size = unit(.1,"in"),
+    legend.box.spacing = unit(0,"in")
+  )
+
+precip <- ggplot(champaign_forecast_tidy,
+       aes(x = central_time,
+           y = pop)) +
+  geom_col(fill = "lightblue",
+           color = "lightblue") +
+  scale_x_datetime(date_labels = "%a") +
+  scale_y_continuous(labels = label_percent(),
+                     position = "right") +
+  theme_minimal() +
+  labs(x = NULL,
+       y = NULL,
+       caption = "Source: OpenWeather") +
+  theme(
+    legend.title = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    plot.title = element_text(hjust = 1),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    axis.text.x = element_blank(),
+    legend.position = "bottom",
+    legend.key.size = unit(.1,"in"),
+    legend.box.spacing = unit(0,"in"),
+    plot.caption = element_text(colour = "grey40")
+  )
+
+
+plot_grid(temp, precip,
+          align = "v",
+          ncol = 1,
+          rel_heights = c(5,1))
+
+ggsave("plots/champaign_weather.png",
+       width = 8, height = 8*(628/1200), dpi = 320)
+
+# web text ----
 
 severe_weather_outlook_url <- 
   paste("![](",
@@ -14,15 +89,17 @@ winter_storm_url <-
         sep = ""
         )
 
-# web text ----
-
 web_text <- paste(
   "---
 layout: page
 title: Weather
 permalink: /projects/weather
-imageurl: https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_IL.png
+imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
+
+## Champaign
+
+
 
 ## Severe Thunderstorm Outlook
 
