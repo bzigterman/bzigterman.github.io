@@ -1,4 +1,4 @@
-name: autoecon
+name: autoweather
 
 on:
   workflow_dispatch:
