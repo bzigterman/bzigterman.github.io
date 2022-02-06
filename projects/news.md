@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:32 PM CT, Feb. 06 </p> 
+ <p class="updated_time"> 02:41 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078670229/us-says-russia-has-three-quarters-of-forces-for-ukraine-invasion">U.S. says Russia has amassed about 75% of the troops it would need to invade Ukraine</a> NPR: Officials warn that an attack could result in the deaths of tens of thousands of soldiers and civilians, while millions of Ukrainian refugees would be left to flee, likely to nearby Poland. 
+ <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 01:34 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60281863?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says a deal to avoid war is within reach</a> BBC: France's leader calls for a "new balance" to protect European states while affording Russia respect. 
@@ -110,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1076102464/pakistan-truck-art-painting">These eye-popping, hand-painted trucks rule Pakistan's roads</a> NPR: Around the world, trucks are essential everyday vehicles. In Pakistan, trucks are also canvases for dazzling works of art. Truck art has served a social good too, and helped recover missing children. 
- <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078478546/citizens-of-rostov-on-don-could-be-caught-in-the-middle-of-a-russia-ukraine-war">Citizens of Rostov-on-Don could be caught in the middle of a Russia-Ukraine war</a> NPR: In Rostov-on-Don, the largest Russian city near the border with Ukraine, some residents are bracing for a possible war. But many others are going on with their normal routines. 
  <p class="updated_time"> 06:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
@@ -213,7 +213,7 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
- <p class="updated_time"> 02:32 PM CT, Feb. 06 </p> 
+ <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 02:30 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
@@ -240,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
+ <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
