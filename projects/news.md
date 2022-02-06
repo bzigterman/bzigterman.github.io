@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:43 AM CT, Feb. 06 </p> 
+ <p class="updated_time"> 04:16 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
+ <p class="updated_time"> 04:03 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/europe/germany-chancellor-scholz-biden-washington-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 03:41 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
- <p class="updated_time"> 08:40 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
  <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
- <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-waive-sanctions-on-iran-civilian-nuclear-activities-as-talks-heat-up-11644022386">U.S. to Waive Sanctions on Iran Civilian Nuclear Activities</a> WSJ: The sanctions relief is intended to prepare the way for Iran to return to the 2015 nuclear deal. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
  <p class="updated_time"> 11:39 AM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html">How Putin Has Prepared Russia's Economy for Sanctions</a> NYT: Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country. 
- <p class="updated_time"> 03:38 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/australia/australia-covid-policy.html">‘Live With the Virus’? For Australians, It’s Taken Some Getting Used To.</a> NYT: Australia once stamped out every Covid outbreak. Now it’s done with all that. The policy U-turn, and the soaring case numbers, caught many off guard. 
 
 
 </details>
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 10:27 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/russia-military-buildup-ukraine-00006020">Russia at 70 percent of Ukraine military buildup, U.S. officials say</a> Politico: American officials have said that a Russian invasion could overwhelm Ukraine’s military relatively quickly. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/04/1078211045/pentagon-spokesman-says-the-u-s-hoped-to-capture-isis-leader-alive">Pentagon spokesman says the U.S. hoped to capture ISIS leader alive</a> NPR: In an interview on NPR's Morning Edition, Pentagon press secretary John Kirby said U.S. special forces took precautions to spare civilians in the raid. 
  <p class="updated_time"> 09:09 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-senate-showdown-china-bill-00005575">House sets up Senate showdown with vote on partisan China bill </a> Politico: The White House is eager for the China legislation to reach Biden’s desk before his State of the Union, but lawmakers must first reconcile a bipartisan Senate package with a House bill full of Democratic priorities.  
- <p class="updated_time"> 08:23 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/business/economy/economy-jobs-politics-preview.html">Covid’s effect on the jobs numbers may leave Washington in the dark.</a> NYT: Without clarity on how quickly the labor market can shake off Omicron, the Fed will have difficulty applying the data to its interest rate strategy. 
  <p class="updated_time"> 07:46 AM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078044162/jess-kutch-can-unions-address-the-changing-needs-of-workers-today">Jess Kutch: Can unions address the changing needs of workers today?</a> NPR: From unionizing to striking to quitting, employees are taking power into their own hands. Labor organizer Jess Kutch explores the effectiveness of collective bargaining to affect change. 
  <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
