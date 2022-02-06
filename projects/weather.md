@@ -7,7 +7,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign
 
-<p class="updated_time"> Latest data: 05:26 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 05:36 PM CT, February 06</p>
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
 
