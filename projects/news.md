@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/africa-military-coups-00006023">West Africa grapples with wave of military coups</a> Politico: “It looks increasingly hard to argue against the idea of coup contagion," said one expert. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some Nevada activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
@@ -257,11 +259,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992">California liberals seethe after Democratic legislature kills single-payer</a> Politico: The bill's failure to get a vote in the Legislature was a blow to the party's left wing. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/eric-adams-restaurant-00005935">New York mayor holds court in swanky restaurant alongside friend with checkered past</a> Politico: One restaurant employee told POLITICO Adams usually dines on fish and salad, even though the mayor claims he’s on a plant-based diet. 
- <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 06:00 AM CT, Feb. 05 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/north-carolina-congressional-map-struck-down-00005974">North Carolina Supreme Court strikes down GOP-drawn congressional map</a> Politico: In a ruling released Friday evening, the justices wrote that the current map was an illegal partisan gerrymander that is “unconstitutional beyond a reasonable doubt.” 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
- <p class="updated_time"> 05:17 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/jan-6-pence-remained-on-capitol-grounds-00005919">Capitol Police: Pence remained on Capitol grounds throughout Jan. 6 attack</a> Politico: A U.S. Capitol Police officer said former Vice President Mike Pence was transferred to a secure location in the Capitol complex during the riot and remained there for four hours. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
  <p class="updated_time"> 04:58 PM CT, Feb. 04 </p> 
