@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:53 PM CT, Feb. 05 </p> 
+ <p class="updated_time"> 07:14 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
+ <p class="updated_time"> 06:52 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
+ <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
+ <p class="updated_time"> 06:20 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
+ <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60249712?at_medium=RSS&at_campaign=KARANGA">The fast fashion graveyard in Chile's Atacama Desert</a> BBC: Tens of thousands of tonnes of unwanted clothing from Europe and the US are being dumped in the Atacama Desert every year. 
+ <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264084?at_medium=RSS&at_campaign=KARANGA">Queen's Jubilee: Her Majesty's journey through Africa</a> BBC: A look back through some of the archive footage of the Queen's visits to Africa. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
- <p class="updated_time"> 05:28 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
  <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla">Queen Elizabeth supports a 'Queen Camilla' — shaping the future of the UK monarchy</a> NPR: In remarks delivered on the eve of the 70th anniversary of her accession to the throne, the monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
@@ -63,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/05/1076334193/a-rural-hospital-in-bangladesh-is-named-the-worlds-best-new-building">A rural hospital in Bangladesh is named the world's best new building</a> NPR: The prestigious architectural prize celebrates the 80-bed hospital's human-centered design, built in harmony with the waterlogged local environment with a modest budget and local low-cost materials. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
- <p class="updated_time"> 03:45 AM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-60262964?at_medium=RSS&at_campaign=KARANGA">Can tourism ease the inflation pressure in Turkey?</a> BBC: As people in Turkey battle a massive rate of inflation could tourism help ease the situation? 
  <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Amid Coups and Covid, Africa Focuses on What’s Most Important: Soccer</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
@@ -135,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-to-waive-sanctions-on-iran-civilian-nuclear-activities-as-talks-heat-up-11644022386">U.S. to Waive Sanctions on Iran Civilian Nuclear Activities</a> WSJ: The sanctions relief is intended to prepare the way for Iran to return to the 2015 nuclear deal. 
  <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
- <p class="updated_time"> 01:20 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60267514?at_medium=RSS&at_campaign=KARANGA">Morocco gripped by efforts to rescue boy trapped in well</a> BBC: The five-year-old boy, Rayan, has been stuck at the bottom of a 32m deep well since Tuesday. 
  <p class="updated_time"> 12:27 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60266117?at_medium=RSS&at_campaign=KARANGA">Huge bank of dead fish spotted off French Atlantic coast</a> BBC: France's fisheries minister calls for an inquiry after a trawler spills more than 100,000 blue whiting. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
@@ -183,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html">U.S. Says Russia Planned to Fabricate Pretext for Invasion</a> NYT: Officials said Russia was planning a fake video showing an attack by Ukrainians on Russian territory or Russian speakers in eastern Ukraine. 
  <p class="updated_time"> 03:01 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
- <p class="updated_time"> 02:50 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/style/malaysia-secondhand-clothing-grailed-etsy-ebay.html">How Malaysia Got in on the Secondhand Clothing Boom</a> NYT: Sellers from the country have become a reliable source of sought-after labels, finding high value in discarded items. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
  <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 05:56 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/joe-rogan-apologizes-racial-slurs-circulates-00006011">Joe Rogan apologizes after video of him using racial slurs circulates</a> Politico: The podcast host said he hoped the situation would "be a teachable moment." 
  <p class="updated_time"> 05:47 PM CT, Feb. 05 </p> 
@@ -332,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/02/04/the-instagram-account-airing-congress-dirty-laundry-00005633">The Instagram account airing Congress’ dirty laundry</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
- <p class="updated_time"> 05:41 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/magazine/michael-flynn-2020-election.html">Michael Flynn Is Still at War</a> NYT: The general tried to persuade Donald Trump to use the military to overturn the 2020 election. A year later, he and his followers are fighting the same battle by other means. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/gallery/2022/02/04/the-nations-cartoonists-on-the-week-in-politics-00005475">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
