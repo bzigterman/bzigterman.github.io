@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:04 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
- <p class="updated_time"> 08:54 AM CT, Feb. 06 </p> 
+ <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
- <p class="updated_time"> 08:51 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India pays tribute to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
+ <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
+ <p class="updated_time"> 09:51 AM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
+ <p class="updated_time"> 09:47 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
+ <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
+ <p class="updated_time"> 09:30 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
+ <p class="updated_time"> 09:22 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least six people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
+ <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634148/soviet-era-bomb-shelters-in-kyiv-are-now-shops-apartments-and-bars">Soviet-era bomb shelters in Kyiv are now shops, apartments and bars</a> NPR: As the Ukrainian capital city prepares for a possible attack by Russia, residents are wondering where to go. Many Soviet-era bomb shelters have been refurbished after decades of disuse. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -25,14 +35,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/06/1077953012/drug-resistant-malaria-is-emerging-in-africa-doctors-are-worried-yet-hopeful">Drug-resistant malaria is emerging in Africa. Doctors are worried — yet hopeful</a> NPR: Resistance to the drug artemisinin was confirmed in Africa. Without better surveillance, experts say it is hard to track the threat. 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
- <p class="updated_time"> 05:33 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
- <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
- <p class="updated_time"> 06:19 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing repurposed some of the sites used in the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
  <p class="updated_time"> 04:34 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
- <p class="updated_time"> 01:36 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60266098?at_medium=RSS&at_campaign=KARANGA">Environmental campaigners film '100,000 dead fish' spilled into the Atlantic Ocean</a> BBC: The fishing boat blames a rip in a net, but campaigners accuse it of deliberately dumping the fish. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
@@ -202,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
+ <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/sullivan-china-russia-ukraine-00006028">Sullivan warns China could face costs if it supports a Russian invasion of Ukraine</a> Politico: China's president released a joint statement with Vladimir Putin last week. 
  <p class="updated_time"> 07:37 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/africa-military-coups-00006023">West Africa grapples with wave of military coups</a> Politico: “It looks increasingly hard to argue against the idea of coup contagion," said one expert. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -250,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
- <p class="updated_time"> 08:33 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/north-korea-olympics-china-00005993">‘Someone else’s festival’: No North Korea at ally’s Olympics</a> Politico: North Korea hasn't sent any athletes and officials to it neighbor's Olympics. 
  <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
  <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/02/04/colleague-times-editor-crestfallen-over-editorial-that-prompted-sarah-palin-suit-00005978">Times editor ‘crestfallen’ over editorial that prompted Sarah Palin suit, colleague testifies</a> Politico: NYT's Elizabeth Williamson tells Manhattan jury about errors in shooting-related editorial 
  <p class="updated_time"> 07:18 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/trump-trudeau-ottawa-protests-00005944">Trump calls Trudeau “far left lunatic” as siege continues in Ottawa</a> Politico: Police and downtown residents brace for a second weekend of protests. 
- <p class="updated_time"> 07:12 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/call-email-records-bannon-attorney-00005981">Prosecutors sought call, email records of Bannon attorney, defense team claims</a> Politico: Robert J. Costello, one of Steve Bannon’s three criminal defense attorneys, also represented him during negotiations with the Jan. 6 select committee. 
  <p class="updated_time"> 07:06 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/business/delta-unruly-passengers-no-fly-list.html">Delta C.E.O. Asks U.S. to Put Unruly Passengers on the No-Fly List</a> NYT: The request came in a letter to the attorney general after an increase in complaints about violent and disruptive passengers during the pandemic. 
  <p class="updated_time"> 06:36 PM CT, Feb. 04 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/30/trump-floats-pardons-for-jan-6-defendants-00003472"> Trump floats pardons for Jan. 6 defendants</a> Politico Playbook: And tensions flare within the DNC. 
  <p class="updated_time"> 11:37 AM CT, Jan. 30 </p> 
  <a href="https://www.politico.com/news/2022/01/30/lindsey-graham-south-carolina-childs-scotus-seat-00003476">‘I can’t think of a better person’: Graham boosts South Carolina’s Childs for SCOTUS</a> Politico: ”There is no affirmative action component if you pick her," the Republican senator said. 
- <p class="updated_time"> 09:50 AM CT, Jan. 30 </p> 
- <a href="https://www.politico.com/news/2022/01/30/durbin-defends-biden-black-woman-scotus-seat-00003454">Senators spar over Biden’s pledge to pick Black woman for SCOTUS seat</a> Politico: Dick Durbin referenced Ronald Reagan and Donald Trump in defending the president. 
 
 
 </details>
