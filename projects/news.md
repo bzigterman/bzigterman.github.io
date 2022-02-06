@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade Ukraine</a> BBC: Moscow is amassing the military capability to carry out a full invasion, American officials say. 
  <p class="updated_time"> 10:56 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The celebrated singer had been admitted to a hospital after testing positive for Covid-19. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russia-public-opinion-ukraine-us-nato.html">On Ukraine, Many Russians Have No Doubt: It’s the Fault of the U.S.</a> NYT: The idea that the U.S. and NATO are fomenting the crisis between Russia and Ukraine is hammered home daily by the Kremlin’s propaganda machine. 
  <p class="updated_time"> 07:26 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html">Rotterdam May Dismantle Part of Bridge for Jeff Bezos’ Superyacht</a> NYT: The Dutch city of Rotterdam walked back earlier comments that the historic Koningshaven Bridge would be briefly dismantled. On Thursday, officials said a decision had not yet been made. 
- <p class="updated_time"> 06:48 AM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60257080?at_medium=RSS&at_campaign=KARANGA">China joins Russia in opposing Nato expansion</a> BBC: Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 05:55 AM CT, Feb. 04 </p> 
