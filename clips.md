@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clips
-permalink: /clips/
+permalink: /clips
 ---
 
 Here's some of my best work:

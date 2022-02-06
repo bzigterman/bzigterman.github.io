@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photos
-permalink: /photos/
+permalink: /photos
 ---
 
 {% include image-gallery.html folder="/photos" %}
