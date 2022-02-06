@@ -50,7 +50,8 @@ precip <- ggplot(champaign_forecast_tidy,
            color = "lightblue") +
   scale_x_datetime(date_labels = "%a") +
   scale_y_continuous(labels = label_percent(),
-                     position = "right") +
+                     position = "right",
+                     limits = c(0,1)) +
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
@@ -67,12 +68,12 @@ precip <- ggplot(champaign_forecast_tidy,
     legend.box.spacing = unit(0,"in"),
     plot.caption = element_text(colour = "grey40")
   )
-
+precip
 
 plot_grid(temp, precip,
           align = "v",
           ncol = 1,
-          rel_heights = c(5,1))
+          rel_heights = c(6,2))
 
 ggsave("plots/champaign_weather.png",
        width = 8, height = 8*(628/1200), dpi = 320)
