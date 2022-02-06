@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:43 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 03:41 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career that spanned more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Beloved Indian singer dies at 92</a> BBC: During a career spanning more than half a century, she provided the soundtrack to hundreds of Bollywood films. 
  <p class="updated_time"> 03:01 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Madagascar battered by second storm in two weeks</a> BBC: Winds of up to 235km/h and heavy rain are reported as Cyclone Batsirai makes landfall. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
