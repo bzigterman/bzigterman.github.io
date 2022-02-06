@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-60264084?at_medium=RSS&at_campaign=KARANGA">Queen's Jubilee: Her Majesty's journey through Africa</a> BBC: A look back through some of the archive footage of the Queen's visits to Africa. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
+ <p class="updated_time"> 04:59 PM CT, Feb. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-military-buildup-near-ukraine-grows-heightening-u-s-concern-11644114047">Russia Buildup Near Ukraine Grows, Heightening U.S. Concern</a> WSJ: Thousands of civilians would be killed or wounded if Russia continues adding to forces and mounts an all-out attack, U.S. assessments show. 
  <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla">Queen Elizabeth supports a 'Queen Camilla' — shaping the future of the UK monarchy</a> NPR: In remarks delivered on the eve of the 70th anniversary of her accession to the throne, the monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
@@ -63,10 +65,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/02/05/1078464062/olympic-speed-skaters-are-adapting-to-national-oval-ice">Speedskaters at the Winter Olympics are adapting to a new venue and its special ice</a> NPR: Beijing repurposed some of the sites used in the 2008 Summer Games. The National Speed Skating Oval is the city's only new ice-sport venue built for the Winter Games. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
+ <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
+ <a href="https://www.wsj.com/articles/israel-u-a-e-draw-closer-on-security-amid-threat-from-iran-its-allies-11644080194">Israel, U.A.E. Draw Closer on Security Amid Threat From Iran, Its Allies</a> WSJ: One year after Israel and the United Arab Emirates signed a historic agreement to establish diplomatic ties for the first time, the two Middle East nations are discussing new ways to protect the Persian Gulf state. 
  <p class="updated_time"> 05:47 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1077826544/women-not-competing-in-nordic-combined-beijing-olympics">Nordic combined remains the only Winter Olympic sport women can't compete in</a> NPR: Organizers of the Beijing Olympics are touting greater gender equity at this year's Games, but Nordic combined remains the only event not open to women. 
- <p class="updated_time"> 05:44 AM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/uyghur-torch-bearer-at-olympics-evokes-memories-of-2008-for-countryman-11644020974">Uyghur Torchbearer Evokes Memories of 2008 Games</a> WSJ: Fourteen years apart, two young Uyghurs gripped the Olympic torch. One is now in the U.S., with his father in prison. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
- <p class="updated_time"> 11:06 AM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-vladimir-putin-meets-with-chinese-leader-xi-jinping-in-beijing-11643966743">Putin and Xi Aim Russia-China Partnership Against U.S.</a> WSJ: The two leaders together advanced their joint opposition to America’s global network of alliances, seeking to nudge it aside as the sole superpower. 
  <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 10:16 AM CT, Feb. 04 </p> 
