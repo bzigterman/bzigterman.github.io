@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
+ <p class="updated_time"> 11:56 PM CT, Feb. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The celebrated singer had been admitted to a hospital after testing positive for Covid-19. 
  <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade Ukraine</a> BBC: Moscow is amassing the military capability to carry out a full invasion, American officials say. 
- <p class="updated_time"> 10:56 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The celebrated singer had been admitted to a hospital after testing positive for Covid-19. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 08:40 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
- <p class="updated_time"> 06:52 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
  <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
  <p class="updated_time"> 06:05 PM CT, Feb. 05 </p> 
@@ -219,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:09 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/russian-bombers-fly-over-belarus-00006005">Russian bombers fly over Belarus amid Ukraine tensions</a> Politico: The mission came as the Kremlin has moved troops from Siberia and the Far East to Belarus for joint drills. 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
+ <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona’s Right Wing Sought Power to Overturn Votes. Rusty Bowers Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
