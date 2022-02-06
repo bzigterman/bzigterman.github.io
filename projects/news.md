@@ -13,7 +13,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:35 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60283071?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people have been killed and nearly 50,000 displaced after Cyclone Batsirai tore through Madagascar. 
  <p class="updated_time"> 04:34 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60281864?at_medium=RSS&at_campaign=KARANGA">Tunisia judges: Top legal body turns against president</a> BBC: The Supreme Judicial Council vows to continue working after the president ordered its dissolution. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60281864?at_medium=RSS&at_campaign=KARANGA">Tunisia judges: Top legal body turns against president</a> BBC: The Supreme Judicial Council vows to continue working after the president orders its dissolution. 
  <p class="updated_time"> 04:27 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control with demonstrators outnumbering police. 
  <p class="updated_time"> 04:17 PM CT, Feb. 06 </p> 
