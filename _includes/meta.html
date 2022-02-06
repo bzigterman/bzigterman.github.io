@@ -6,14 +6,14 @@
     <meta name="twitter:creator" content="@bzigterman">
     <meta name="twitter:site" content="@bzigterman">
     <meta name="twitter:image" content="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png">
-
+    <meta name="og:image" content="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png">
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
-    <meta name="description" content="{{ page.url }}">
-    <meta property="og:description" content="{{ page.url }}" />
+    <meta name="description" content="{{ page.dir }}">
+    <meta property="og:description" content="{{ page.dir }}" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
