@@ -25,7 +25,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:54 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
  <p class="updated_time"> 11:47 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least six people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
  <p class="updated_time"> 11:02 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
