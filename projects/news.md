@@ -7,6 +7,10 @@ permalink: /projects/news
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:54 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
+ <p class="updated_time"> 11:47 AM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least six people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
  <p class="updated_time"> 11:02 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
@@ -21,10 +25,6 @@ permalink: /projects/news
  <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
- <p class="updated_time"> 09:30 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
- <p class="updated_time"> 09:22 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least six people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
  <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
