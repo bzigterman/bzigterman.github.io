@@ -455,7 +455,7 @@ web_text <- paste(
 layout: page
 title: Basketball Standings
 permalink: /projects/basketball
-imageurl: {{ site.baseurl }}/plots/nba_standings.png
+imageurl: https://bzigterman.com/plots/nba_standings.png
 ---
 
 ",now_html," 

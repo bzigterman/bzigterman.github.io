@@ -932,7 +932,7 @@ web_text <- paste(
 layout: page
 title: Economic Indicators
 permalink: /projects/economy
-imageurl: {{ site.baseurl }}/plots/champaign_unemployment_rate.png
+imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 ---
 
 ## Champaign County
