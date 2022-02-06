@@ -4,7 +4,7 @@ library(lubridate)
 library(scales)
 library(cowplot)
 
-Sys.setenv(OWM_API_KEY = OWM_API_KEY)
+Sys.setenv(OWM_API_KEY = "OWM_API_KEY")
 
 # get data ----
 champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
