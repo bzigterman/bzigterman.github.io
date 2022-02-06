@@ -89,6 +89,18 @@ winter_storm_url <-
         sep = ""
         )
 
+
+now <- as_datetime(now())
+now_formatted <- strftime(x = now, 
+                          tz = "US/Central",
+                          format = "%I:%M% %p CT, %B %d")
+
+now_html <- paste("<p class=\"updated_time\"> Latest data: ",
+                  now_formatted,
+                  "</p>",
+                  sep = "")
+
+
 web_text <- paste(
   "---
 layout: page
@@ -98,6 +110,8 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
 ## Champaign
+
+",now_html,"
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
 
