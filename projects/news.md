@@ -7,10 +7,12 @@ permalink: /projects/news
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 10:11 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60281129?at_medium=RSS&at_campaign=KARANGA">North Korea: Missile programme funded through stolen crypto, reports say</a> BBC: Investigators say cyber-attackers stole over $50 million in digital assets between 2020 and mid-2021. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60281129?at_medium=RSS&at_campaign=KARANGA">North Korea: Missile programme funded through stolen crypto, UN report says</a> BBC: Investigators say cyber-attackers stole over $50 million in digital assets between 2020 and mid-2021. 
  <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
@@ -35,16 +37,22 @@ permalink: /projects/news
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 06:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/06/1077953012/drug-resistant-malaria-is-emerging-in-africa-doctors-are-worried-yet-hopeful">Drug-resistant malaria is emerging in Africa. Doctors are worried — yet hopeful</a> NPR: Resistance to the drug artemisinin was confirmed in Africa. Without better surveillance, experts say it is hard to track the threat. 
+ <p class="updated_time"> 05:56 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/a-positive-covid-test-in-hong-kong-starts-a-business-traveler-on-monthlong-quarantine-11644166582">Positive Covid Test in Hong Kong Starts Business Traveler on Monthlong Quarantine</a> WSJ: One Hong Kong business traveler tested positive with the Omicron variant upon returning from Africa. His 30-day mandatory quarantine “taught me patience, to appreciate the little things in life.” 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
- <p class="updated_time"> 05:01 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-military-buildup-near-ukraine-grows-heightening-u-s-concern-11644114047">White House Warns Russian Invasion of Ukraine Could Come 'Any Day Now'</a> WSJ: Thousands of civilians could be killed or wounded if Russia mounts an all-out attack, U.S. intelligence assessments say 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
+ <p class="updated_time"> 03:44 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/a-uyghur-skier-became-the-face-of-chinas-winter-olympics-the-next-day-she-vanished-from-the-spotlight-11644157693">A Uyghur Skier Became Face of Winter Olympics. The Next Day, She Vanished From the Spotlight.</a> WSJ: Dinigeer Yilamujiang was catapulted into the global spotlight after carrying the Olympic flame, followed by a low-key retreat, marking a remarkable 24-hour whirlwind for the hitherto-unknown athlete. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/chinas-slowdown-to-limit-global-growth-but-not-undermine-world-economy-11644152401">China's Slowdown to Limit Global Growth but Not Undermine World Economy</a> WSJ: Lukewarm demand from China poses risks to commodity producers, but it could ease inflationary pressure and global growth is still expected to be higher than in the years leading up to the pandemic. 
+ <p class="updated_time"> 01:50 AM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-says-she-wants-prince-charless-wife-to-become-queen-camilla-11644147221">Queen Elizabeth Says She Wants Prince Charles's Wife to Be Queen Camilla</a> WSJ: Britain’s longest-serving monarch resolved a question hanging over her succession, stating that Camilla, Duchess of Cornwall, should be referred to as queen once Prince Charles accedes the throne. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:15 AM CT, Feb. 06 </p> 
@@ -101,8 +109,6 @@ permalink: /projects/news
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60270467?at_medium=RSS&at_campaign=KARANGA">Joe Rogan: Podcast star apologises over past use of racist language</a> BBC: A video shared online showed the podcast host using a racial slur on several occasions. 
  <p class="updated_time"> 05:57 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
- <p class="updated_time"> 05:56 AM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/israel-u-a-e-draw-closer-on-security-amid-threat-from-iran-its-allies-11644080194">Israel, U.A.E. Draw Closer on Security Amid Threat From Iran, Its Allies</a> WSJ: One year after Israel and the United Arab Emirates signed a historic agreement to establish diplomatic ties for the first time, the two Middle East nations are discussing new ways to protect the Persian Gulf state. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news
  <a href="https://www.nytimes.com/2022/02/05/world/africa/africa-cup-of-nations-soccer-unity.html">Amid Coups and Covid, Africa Focuses on What’s Most Important: Soccer</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 11:52 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60268326?at_medium=RSS&at_campaign=KARANGA">Australia politics: Deputy keeps job despite calling Scott Morrison a liar</a> BBC: Barnaby Joyce apologises for calling Australia's prime minister a "hypocrite and a liar" in a text. 
- <p class="updated_time"> 11:30 PM CT, Feb. 04 </p> 
- <a href="https://www.wsj.com/articles/the-world-is-likely-sicker-than-it-has-been-in-100-years-11644057003">The World Is Likely Sicker Than It Has Been in 100 Years</a> WSJ: The Omicron coronavirus variant appears to have made more people ill at the same time than in any period since the flu pandemic of 1918-1919, experts say. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
@@ -204,8 +208,12 @@ permalink: /projects/news
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035">A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035"> A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
+ <p class="updated_time"> 10:54 AM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/business/media/trump-fox-news.html">Where Fox News and Donald Trump Took Us</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse. 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
@@ -252,8 +260,6 @@ permalink: /projects/news
  <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
- <p class="updated_time"> 10:42 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/business/trump-fox-news.html">Where Fox News and Donald Trump Took Us</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse. 
  <p class="updated_time"> 09:12 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
