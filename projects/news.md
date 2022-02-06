@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078689583/heres-how-the-athletes-did-in-the-first-weekend-of-the-winter-olympics">Here's how the athletes did in the first weekend of the Winter Olympics</a> NPR: ​The 2022 Beijing Games are underway and already the drama is brewing from stellar performances on the ice rink — both figure skating and hockey — and on the slopes. 
  <p class="updated_time"> 02:51 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 02:41 PM CT, Feb. 06 </p> 
@@ -106,12 +110,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/middleeast/isis-qurayshi-death.html">Leader’s Death Is Another Blow for ISIS, but It’s Hardly the End</a> NYT: The Islamic State is a shadow of its former self. But it’s likely to keep adapting and enduring, even after the U.S. raid that killed its top commander. 
  <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
- <p class="updated_time"> 08:10 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078478616/what-the-islamic-state-might-do-next-after-the-death-of-its-leader">What the Islamic State might do next after the death of its leader</a> NPR: NPR's Scott Simon speaks to director of Century International, Thanassis Cambanis,  about how the Islamic State may react after the militant group lost its leader during a U.S. raid. 
  <p class="updated_time"> 07:06 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
- <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1076102464/pakistan-truck-art-painting">These eye-popping, hand-painted trucks rule Pakistan's roads</a> NPR: Around the world, trucks are essential everyday vehicles. In Pakistan, trucks are also canvases for dazzling works of art. Truck art has served a social good too, and helped recover missing children. 
  <p class="updated_time"> 06:49 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html">Russian Troops in Final Stages of Readiness Add to Worries for Ukraine</a> NYT: Though the Kremlin’s intentions are unclear, Ukrainian officials are newly worried about the Crimean Peninsula, where Russia has deployed 10,000 additional troops, they said. 
  <p class="updated_time"> 06:46 AM CT, Feb. 05 </p> 
@@ -161,7 +161,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:04 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60267158?at_medium=RSS&at_campaign=KARANGA">'He gave his life for Ukraine'</a> BBC: Valery's father thinks his son may have anticipated his own death. 
  <p class="updated_time"> 04:43 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump was wrong to seek to overturn Biden win, says Mike Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over the 2021 election result. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump wrong to say I could overturn Biden win - Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over the 2021 election result. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
@@ -211,6 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078689597/what-a-civil-war-era-provision-could-mean-for-candidates-accused-of-inciting-vio">What a Civil War-era provision could mean for candidates accused of inciting violence</a> NPR: North Carolina voters are challenging Rep. Madison Cawthorn's reelection eligibility. NPR's Michel Martin discusses why with Indiana University law professor Gerard Magliocca. 
  <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
@@ -325,16 +329,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/04/1078358077/republicans-take-issue-with-bidens-pledge-to-pick-a-black-woman-for-supreme-cour">Republicans take issue with Biden's pledge to pick a Black woman for Supreme Court</a> NPR: President Biden pledged to put a Black woman on the Supreme Court, which some Republicans say is discrimination. The situation shows how the parties view representation substantively and politically. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
- <p class="updated_time"> 01:29 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078316505/rnc-censure-liz-cheney-adam-kinzinger-jan-6-committee-capitol">RNC votes to censure Reps. Liz Cheney and Adam Kinzinger over work with Jan. 6 panel</a> NPR: The Republican National Committee voted to censure the two House GOP lawmakers, who are involved in investigating the deadly Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
  <p class="updated_time"> 12:50 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
- <p class="updated_time"> 10:45 AM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078226282/u-s-house-passes-china-competition-bill">The House passed a bill aimed at boosting U.S. competitiveness with China</a> NPR: The bill includes a number of provisions, such as $52 billion for chip manufacturing, $45 billion to improve supply chains for critical items, and $160 billion for scientific research and innovation. 
  <p class="updated_time"> 09:09 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-senate-showdown-china-bill-00005575">House sets up Senate showdown with vote on partisan China bill </a> Politico: The White House is eager for the China legislation to reach Biden’s desk before his State of the Union, but lawmakers must first reconcile a bipartisan Senate package with a House bill full of Democratic priorities.  
  <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
