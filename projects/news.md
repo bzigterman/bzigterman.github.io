@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail Men's Downhill ski final at the Winter Olympics</a> NPR: Referees postponed the Men's Downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:48 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India singing legend dies at 92</a> BBC: The death of the celebrated singer, who sang more than 30,000 songs, is mourned by thousands of people. 
  <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan, ends in grief for the parents. 
  <p class="updated_time"> 11:24 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade</a> BBC: Moscow is amassing the military capability to carry out a full invasion, American officials say. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60276342?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sources say Russia 70% ready to invade</a> BBC: Moscow has amassed most of the military capability needed for a full-scale invasion, officials say. 
  <p class="updated_time"> 10:24 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358140/the-beijing-2022-olympic-winter-games-are-officially-underway">The Beijing 2022 Olympic Winter Games are officially underway</a> NPR: The opening ceremony of the 2022 Winter Olympics began Friday in Beijing with all of the glitz of past Games, though the stadium was nearly empty of spectators because of COVID concerns. 
- <p class="updated_time"> 03:49 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078358161/the-worst-person-in-the-world-is-the-valentines-day-movie-of-the-year">'The Worst Person in the World' is the Valentine's Day movie of the year</a> NPR: A millennial writer, an R. Crumb-style cartoonist and a coffee-shop barista form the romantic triangle in the Danish coming-of-age drama The Worst Person In The World. 
  <p class="updated_time"> 03:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/sports/olympics/winter-olympics-photos-beijing.html">Winter Olympics Open Amid Walls, Masks and Clouds of Disinfectant</a> NYT: With few spectators and strict security to separate China’s population from Olympic visitors, the Games are subdued. 
  <p class="updated_time"> 01:53 PM CT, Feb. 04 </p> 
