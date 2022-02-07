@@ -8,16 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
+ <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
+ <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament has brought delight and solidarity. 
+ <p class="updated_time"> 09:32 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
+ <p class="updated_time"> 09:31 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
+ <p class="updated_time"> 09:31 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French President Emmanuel Macron heads to Moscow as Russian forces gather on Ukraine's borders. 
  <p class="updated_time"> 09:24 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60286436?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Senegal declares public holiday after historic win</a> BBC: Thousands of joyous fans pour onto the streets after Senegal wins its first ever Africa Cup of Nations. 
- <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
  <p class="updated_time"> 09:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
- <p class="updated_time"> 08:59 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin to Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
@@ -87,8 +95,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60283071?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people have been killed and nearly 50,000 displaced after Cyclone Batsirai tore through Madagascar. 
  <p class="updated_time"> 04:17 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 04:15 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60281863?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says a deal to avoid war is within reach</a> BBC: France's leader calls for a "new balance" to protect European states while affording Russia respect. 
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
@@ -155,8 +161,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
  <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
- <p class="updated_time"> 02:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament offers visions of unity, solidarity and joy. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
  <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
