@@ -49,7 +49,7 @@ temp <- ggplot(champaign_forecast_tidy,
   geom_line(color = "grey93") +
   geom_point() +
   geom_text(color = "black",
-            nudge_y = 1) + 
+            nudge_y = 1.1) + 
   scale_color_manual(values = c("magenta","purple","darkblue","blue",
                                 "turquoise","green","yellow","gold",
                                 "orange","orangered","red","darkred"),
