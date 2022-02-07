@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
+ <p class="updated_time"> 10:16 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star again denies sex assault in interview</a> BBC: The Chinese tennis star urges fans not to worry about her in new interview with Western media. 
  <p class="updated_time"> 08:41 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
@@ -120,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
- <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
  <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
