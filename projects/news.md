@@ -8,18 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
+ <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Vows Response to Russia Will Be ‘United’</a> NYT: President Biden met with Olaf Scholz, the German chancellor. The French president, who is meeting with President Putin, said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
+ <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
+ <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078929982/a-look-at-the-debate-over-nato-expansion-eastward-thats-at-the-heart-of-conflict">A look at the debate over NATO expansion eastward that's at the heart of conflict now</a> NPR: Whether NATO should expand to include countries once under Soviet influence — including Ukraine — is a question that has dogged U.S. and Russian officials for 30 years. 
+ <p class="updated_time"> 04:16 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078930020/canada-trucker-protest-over-vaccine-mandate-continues">Canada trucker protest over vaccine mandate continues</a> NPR: In Ottawa, hundreds of large trucks and other vehicles have blocked streets in central districts of the Canadian city. The protest of vaccine rules is in its second week with no sign of a resolution. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
  <p class="updated_time"> 04:08 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far-Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
- <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
  <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078930013/some-ukrainian-americans-are-fearing-the-worst-for-their-families-back-home">Some Ukrainian-Americans are fearing the worst for their families back home</a> NPR: Chicago has one of the largest concentrations of Ukrainians in the U.S. and many of them maintain strong ties to their home country — are bracing for the worst amid Russia-Ukraine conflict tensions. 
- <p class="updated_time"> 03:52 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Vows Response to Russia Will Be ‘United’</a> NYT: President Biden met with Olaf Scholz, the German chancellor. The French president, who is meeting with President Putin, said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
- <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929961/president-biden-and-german-chancellor-scholz-discuss-possible-sanctions-on-russi">President Biden and German Chancellor Scholz discuss possible sanctions on Russia</a> NPR: President Biden met with new German Chancellor Olaf Scholz at the White House Monday. The two leaders are trying to show they're on the same page on how to sanction Russia if it invades Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Feb. 07 </p> 
@@ -119,8 +125,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
- <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
  <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
  <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
@@ -133,10 +137,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 04:35 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60283071?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people have been killed and nearly 50,000 displaced after Cyclone Batsirai tore through Madagascar. 
- <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
- <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078689583/heres-how-the-athletes-did-in-the-first-weekend-of-the-winter-olympics">Here's how the athletes did in the first weekend of the Winter Olympics</a> NPR: ​The 2022 Beijing Games are underway and already the drama is brewing from stellar performances on the ice rink — both figure skating and hockey — and on the slopes. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
@@ -216,20 +216,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/biden-covid-hospitalization-data-recalculate-00006341">Biden officials trying to recalculate U.S. Covid-19 hospitalizations</a> Politico: The administration’s goal is to get a more accurate sense of Covid’s impact across the country. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden warns Americans to leave Ukraine as U.S., Germany pledge unity on Russian aggression</a> Politico: The president also pledged to shut down a key pipeline if Russia invades, while German Chancellor Olaf Scholz said there would be "severe sanctions." 
+ <p class="updated_time"> 04:26 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
+ <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
+ <p class="updated_time"> 04:11 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
  <p class="updated_time"> 04:10 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/adams-food-police-vegan-fish-00006205">Adams, who extols a plant-based diet, says ‘I'm perfectly imperfect’ when asked if he eats fish</a> Politico: “Those who have questions on what I am eating, I’m over 18 and I know how to take care of myself,” he said. 
- <p class="updated_time"> 04:08 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">I.R.S. to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
- <p class="updated_time"> 04:00 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
  <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929989/new-jersey-school-mask-mandates-are-set-to-end-in-2nd-week-of-march">New Jersey school mask mandates are set to end in 2nd week of March</a> NPR: New Jersey's governor is calling for a return to "normal" as the state's COVID cases start to fall. As of the second week of March, students and school staff will no longer be required to wear masks. 
  <p class="updated_time"> 03:43 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/adams-defends-ties-to-close-friend-with-checkered-past-00006248">Adams defends ties to close friend with checkered past</a> Politico: The mayor said Zhan “Johnny” Petrosyants's checkered past is no reason for him not to associate with the restaurateur. 
- <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929961/president-biden-and-german-chancellor-scholz-discuss-possible-sanctions-on-russi">President Biden and German Chancellor Scholz discuss possible sanctions on Russia</a> NPR: President Biden met with new German Chancellor Olaf Scholz at the White House Monday. The two leaders are trying to show they're on the same page on how to sanction Russia if it invades Ukraine. 
  <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
@@ -330,8 +332,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
- <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting">North Carolina's Supreme Court strikes down redistricting maps that gave GOP an edge</a> NPR: The divided court struck down the state's new maps for congressional and General Assembly seats. The ruling is a major victory for Democrats and their allies. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
