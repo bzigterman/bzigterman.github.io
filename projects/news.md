@@ -216,6 +216,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/california-coronavirus-masks-restrictions-00006361">California to ease Covid rules in path to 'endemic' strategy</a> Politico: Indoor masking and other restrictions will return to pre-Omicron status. 
  <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to absent Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
+ <p class="updated_time"> 05:51 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives">White House records recovered by National Archives at Trump's Mar-a-Lago resort</a> NPR: The 15 boxes of records discovered at Mar-a-Lago should have been transferred to officials from the White House at the end of the Trump administration, officials say. 
  <p class="updated_time"> 05:19 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
@@ -320,8 +322,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
