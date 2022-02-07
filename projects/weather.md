@@ -17,10 +17,10 @@ Current Weather:
 - clear sky
 - 81% humidity
 - 6 mph wind
-- 06:56% a.m. sunrise
-- 05:17% p.m. sunset
+- 06:56 a.m. sunrise
+- 05:17 p.m. sunset
 
-<p class="updated_time"> Latest data: 07:27 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 07:35 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
