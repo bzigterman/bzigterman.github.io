@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star again denies sex assault in interview</a> BBC: The Chinese tennis star urges fans not to worry about her in new interview with Western media. 
  <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/07/1078732688/u-s-figure-skate-vincent-zhou-tests-positive-at-2022-olympics">U.S. figure skater Vincent Zhou tests positive for COVID-19 at the Winter Olympics</a> NPR: Zhou competed on Sunday in the team event as a substitute for three-time world champion Nathan Chen. He is supposed to compete again on Tuesday in the men's short program. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
- <p class="updated_time"> 10:16 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star again denies sex assault in interview</a> BBC: The Chinese tennis star urges fans not to worry about her in new interview with Western media. 
  <p class="updated_time"> 08:41 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
@@ -270,7 +270,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
