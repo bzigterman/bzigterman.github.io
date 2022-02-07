@@ -150,7 +150,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
 
-Current Weather:
+Current:
 
 - ",champaign_temp,"
 - ",champaign_desc,"
