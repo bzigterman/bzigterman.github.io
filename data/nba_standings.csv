@@ -1,7 +1,7 @@
 conference,team_label,wins,losses,win_pct_text
 Eastern,MIA,34,20,.630
 Eastern,CHI,33,20,.623
-Eastern,MIL,33,21,.611
+Eastern,MIL,34,21,.618
 Eastern,CLE,33,21,.611
 Eastern,PHI,32,21,.604
 Eastern,TOR,28,23,.549
@@ -21,7 +21,7 @@ Western,UTA,32,21,.604
 Western,DAL,31,23,.574
 Western,DEN,29,24,.547
 Western,MIN,28,25,.528
-Western,LAC,27,27,.500
+Western,LAC,27,28,.491
 Western,LAL,26,28,.481
 Western,NOP,21,32,.396
 Western,POR,21,33,.389
