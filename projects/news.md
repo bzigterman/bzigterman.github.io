@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
+ <p class="updated_time"> 05:13 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
+ <p class="updated_time"> 05:11 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">As Biden Vows ‘United’ Response to Russia, Putin Says Ukraine Talks Will Continue</a> NYT: President Emmanuel Macron of France, hoping for de-escalation of the crisis, met with Mr. Putin, who said Mr. Macron had some ideas worth pursuing. 
+ <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
- <p class="updated_time"> 04:45 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
  <p class="updated_time"> 04:41 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
  <p class="updated_time"> 04:37 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 will end if Russia invades - Biden</a> BBC: US President Joe Biden vows to shut down a key Russian pipeline to Germany if Russia invades Ukraine. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-online-far-right.html">Canada convoy draws online support from far-right activists around the world.</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
- <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Vows Response to Russia Will Be ‘United’</a> NYT: President Biden met with Olaf Scholz, the German chancellor. The French president, who is meeting with President Putin, said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
- <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929982/a-look-at-the-debate-over-nato-expansion-eastward-thats-at-the-heart-of-conflict">A look at the debate over NATO expansion eastward that's at the heart of conflict now</a> NPR: Whether NATO should expand to include countries once under Soviet influence — including Ukraine — is a question that has dogged U.S. and Russian officials for 30 years. 
  <p class="updated_time"> 04:16 PM CT, Feb. 07 </p> 
@@ -101,8 +103,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
- <p class="updated_time"> 04:34 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 04:18 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078735278/beijing-olympics-fake-snow-ski-snowboard">No snow? No problem. How Beijing made the white stuff in time for the Olympics</a> NPR: The Beijing Games are just the latest winter sporting event to use nearly all human-made snow for competitions. Winter sports experts say this is just the new reality. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
@@ -212,22 +212,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:59 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 06:03 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/california-coronavirus-masks-restrictions-00006361">California to ease Covid rules in path to 'endemic' strategy</a> Politico: Indoor masking and other restrictions will return to pre-Omicron status. 
+ <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to absent Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
+ <p class="updated_time"> 05:19 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
+ <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
+ <p class="updated_time"> 05:04 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:55 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/national-achieves-trump-record-recovery-00006382">Archives agency confirms recovery of Trump records</a> Politico: More than a dozen boxes of documents were retrieved from the former president's Mar-a-Lago property. 
  <p class="updated_time"> 04:52 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-covid-hospitalization-data-recalculate-00006341">Biden officials trying to recalculate U.S. Covid-19 hospitalizations</a> Politico: The administration’s goal is to get a more accurate sense of Covid’s impact across the country. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden warns Americans to leave Ukraine as U.S., Germany pledge unity on Russian aggression</a> Politico: The president also pledged to shut down a key pipeline if Russia invades, while German Chancellor Olaf Scholz said there would be "severe sanctions." 
+ <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
  <p class="updated_time"> 04:43 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
- <p class="updated_time"> 04:41 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 04:31 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri">Supreme Court lets Alabama use GOP-backed map of the state's congressional districts</a> NPR: The court's action came on an emergency appeal from Alabama, which challenged a decision by a three-judge federal court panel that included two Trump appointees. 
- <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
  <p class="updated_time"> 04:10 PM CT, Feb. 07 </p> 
@@ -300,10 +304,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/ottawa-truckers-convoy-galvanizes-far-right-worldwide-00006080">Ottawa truckers' convoy galvanizes far-right worldwide</a> Politico: Leading Republicans, right-wing influencers and white supremacist groups have jumped at the chance to promote the standoff in Ottawa to a global audience. 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
- <p class="updated_time"> 05:35 PM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/ottawa-declares-state-of-emergency-convoy-protests-00006053">Ottawa mayor: ‘Situation is completely out of control’</a> Politico: With trucks and protesters occupying streets around Parliament Hill, Jim Watson declared a state of emergency on Sunday. 
- <p class="updated_time"> 05:12 PM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/82nd-airborne-poland-nato-00006055">U.S. airborne troops arrive in Poland</a> Politico: More of the 82nd Airborne is expected. 
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
@@ -344,8 +344,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/politics/government-national-security-announcements.html">Why ‘Trust Us’ Is Often Reason Enough Not to Trust the Government</a> NYT: In the most sensitive government operations, the public can be beholden to the official narrative — which sometimes turns out to be wrong. Yet officials can be defensive about skepticism from the news media. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/colleague-times-editor-crestfallen-over-editorial-that-prompted-sarah-palin-suit-00005978">Times editor ‘crestfallen’ over editorial that prompted Sarah Palin suit, colleague testifies</a> Politico: NYT's Elizabeth Williamson tells Manhattan jury about errors in shooting-related editorial 
- <p class="updated_time"> 07:18 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/trump-trudeau-ottawa-protests-00005944">Trump calls Trudeau “far left lunatic” as siege continues in Ottawa</a> Politico: Police and downtown residents brace for a second weekend of protests. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
