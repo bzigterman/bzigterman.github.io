@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:38 PM CT, Feb. 06 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
- <p class="updated_time"> 08:41 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
  <p class="updated_time"> 08:06 PM CT, Feb. 06 </p> 
@@ -85,7 +85,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:18 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60280833?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: Large crowds in Mumbai, India, pay their respects after the legendary singer's death at the age of 92. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078634148/soviet-era-bomb-shelters-in-kyiv-are-now-shops-apartments-and-bars">Soviet-era bomb shelters in Kyiv are now shops, apartments and bars</a> NPR: As the Ukrainian capital city prepares for a possible attack by Russia, residents are wondering where to go. Many Soviet-era bomb shelters have been refurbished after decades of disuse. 
+ <a href="https://www.npr.org/2022/02/06/1078634148/kyiv-bunkers-ukraine-attack">Bar, bookstore or bunker? Kyiv residents wonder where to shelter in case of war</a> NPR: An underground world in the Ukraine capital is made up of Soviet-era bomb shelters, bunkers and basements. A potential Russian attack threatens to put the bygone shelter system to the test. 
  <p class="updated_time"> 07:08 AM CT, Feb. 06 </p> 
  <a href="https://www.wsj.com/articles/a-positive-covid-test-in-hong-kong-starts-a-business-traveler-on-monthlong-quarantine-11644166582">Positive Covid Test in Hong Kong Starts Business Traveler on Monthlong Quarantine</a> WSJ: One Hong Kong business traveler tested positive with the Omicron variant upon returning from Africa. His 30-day mandatory quarantine “taught me patience, to appreciate the little things in life.” 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
