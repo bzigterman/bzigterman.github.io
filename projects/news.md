@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 04:48 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
+ <p class="updated_time"> 04:45 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
+ <p class="updated_time"> 04:41 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
+ <p class="updated_time"> 04:37 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 will end if Russia invades - Biden</a> BBC: US President Joe Biden vows to shut down a key Russian pipeline to Germany if Russia invades Ukraine. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-online-far-right.html">Canada convoy draws online support from far-right activists around the world.</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
@@ -22,16 +28,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078930020/canada-trucker-protest-over-vaccine-mandate-continues">Canada trucker protest over vaccine mandate continues</a> NPR: In Ottawa, hundreds of large trucks and other vehicles have blocked streets in central districts of the Canadian city. The protest of vaccine rules is in its second week with no sign of a resolution. 
  <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
- <p class="updated_time"> 04:08 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far-Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078930013/some-ukrainian-americans-are-fearing-the-worst-for-their-families-back-home">Some Ukrainian-Americans are fearing the worst for their families back home</a> NPR: Chicago has one of the largest concentrations of Ukrainians in the U.S. and many of them maintain strong ties to their home country — are bracing for the worst amid Russia-Ukraine conflict tensions. 
- <p class="updated_time"> 03:45 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
  <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929961/president-biden-and-german-chancellor-scholz-discuss-possible-sanctions-on-russi">President Biden and German Chancellor Scholz discuss possible sanctions on Russia</a> NPR: President Biden met with new German Chancellor Olaf Scholz at the White House Monday. The two leaders are trying to show they're on the same page on how to sanction Russia if it invades Ukraine. 
- <p class="updated_time"> 03:27 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French, German, US and Russian leaders meet in Moscow and Washington amid Ukraine invasion fears. 
  <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929885/alpine-skiing-at-the-beijing-winter-olympics-is-off-to-an-unpredictable-start">Alpine skiing at the Beijing Winter Olympics is off to an unpredictable start</a> NPR: Two of the Olympic Games' most popular events were decided on the same day: the men's downhill and the women's giant slalom. High winds have led to postponements of several mountain events. 
  <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
@@ -218,14 +218,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/biden-covid-hospitalization-data-recalculate-00006341">Biden officials trying to recalculate U.S. Covid-19 hospitalizations</a> Politico: The administration’s goal is to get a more accurate sense of Covid’s impact across the country. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden warns Americans to leave Ukraine as U.S., Germany pledge unity on Russian aggression</a> Politico: The president also pledged to shut down a key pipeline if Russia invades, while German Chancellor Olaf Scholz said there would be "severe sanctions." 
+ <p class="updated_time"> 04:43 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
+ <p class="updated_time"> 04:41 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
+ <p class="updated_time"> 04:31 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri">Supreme Court lets Alabama use GOP-backed map of the state's congressional districts</a> NPR: The court's action came on an emergency appeal from Alabama, which challenged a decision by a three-judge federal court panel that included two Trump appointees. 
  <p class="updated_time"> 04:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
- <p class="updated_time"> 04:11 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
  <p class="updated_time"> 04:10 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/adams-food-police-vegan-fish-00006205">Adams, who extols a plant-based diet, says ‘I'm perfectly imperfect’ when asked if he eats fish</a> Politico: “Those who have questions on what I am eating, I’m over 18 and I know how to take care of myself,” he said. 
  <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
@@ -322,8 +326,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
- <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
@@ -332,8 +334,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
- <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
