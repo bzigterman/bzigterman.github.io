@@ -34,7 +34,7 @@ temp <- ggplot(champaign_forecast_tidy,
        y = NULL) +
   theme(
     legend.title = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
+    panel.grid.major.x = element_line(colour = "grey93"),
     plot.title = element_text(hjust = 1),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
