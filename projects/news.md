@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:47 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin to Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
- <p class="updated_time"> 08:44 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 09:11 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
+ <p class="updated_time"> 09:00 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
+ <p class="updated_time"> 08:59 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin to Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
@@ -54,11 +56,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
  <p class="updated_time"> 03:17 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075">Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</a> WSJ: The current generation of top Chinese-American athletes face a striking shift in local support as they compete in the land of their ancestors. 
+ <a href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075">Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</a> WSJ: Top Chinese-American athletes of the current generation face a shift in local support as they compete in the land of their ancestors. 
  <p class="updated_time"> 02:46 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/putin-to-meet-macron-as-france-tries-to-flex-diplomatic-muscle-over-ukraine-11644241608">Putin to Meet Macron as France Tries to Flex Diplomatic Muscle</a> WSJ: When Emmanuel Macron meets Vladimir Putin he will embark on a round of shuttle diplomacy aimed at defusing the Ukraine crisis and opening an era for European countries to play a bigger role in the continent’s defense. 
- <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
@@ -202,6 +202,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift in-school mask mandate beginning March 7</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a childcare setting will not be required to mask up. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
@@ -215,11 +219,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
+ <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/unregulated-synthetic-vape-growing-kids-00005932">Synthetic nicotine: Unregulated and increasingly popular</a> Politico: To users, these vapes are identical. But because of an obscure loophole, they skirt the FDA’s regulatory umbrella. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
+ <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -234,8 +238,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 10:19 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/youngkin-twitter-feud-teenager-00006104">Youngkin campaign criticized for Twitter spat with teen</a> Politico: The student, Ethan Lynne, had retweeted a Richmond public radio station’s report. 
  <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
@@ -270,20 +272,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/sullivan-china-russia-ukraine-00006028">Sullivan warns China could face costs if it supports a Russian invasion of Ukraine</a> Politico: China's president released a joint statement with Vladimir Putin last week. 
- <p class="updated_time"> 07:37 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/africa-military-coups-00006023">West Africa grapples with wave of military coups</a> Politico: “It looks increasingly hard to argue against the idea of coup contagion," said one expert. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
- <p class="updated_time"> 10:27 PM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/russia-military-buildup-ukraine-00006020">Russia at 70 percent of Ukraine military buildup, U.S. officials say</a> Politico: American officials have said that a Russian invasion could overwhelm Ukraine’s military relatively quickly. 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
@@ -298,8 +294,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
- <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
  <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting">North Carolina's Supreme Court strikes down redistricting maps that gave GOP an edge</a> NPR: The divided court struck down the state's new maps for congressional and General Assembly seats. The ruling is a major victory for Democrats and their allies. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
