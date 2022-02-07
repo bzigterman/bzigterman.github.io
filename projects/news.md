@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078732688/u-s-figure-skate-vincent-zhou-tests-positive-at-2022-olympics">U.S. figure skater Vincent Zhou tests positive for COVID-19 at the Winter Olympics</a> NPR: Zhou competed on Sunday in the team event as a substitute for three-time world champion Nathan Chen. He is supposed to compete again on Tuesday in the men's short program. 
+ <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
  <p class="updated_time"> 10:16 PM CT, Feb. 06 </p> 
@@ -118,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla-platinum-jubilee">As Queen Elizabeth marks 70 years as monarch, she looks to Camilla and the future </a> NPR: The monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078546528/a-former-u-s-ambassador-to-nato-looks-at-what-is-at-stake-for-the-military-allia">A former U.S. ambassador to NATO looks at what is at stake for the military alliance </a> NPR: NPR's Michel Martin speaks with Douglas Lute about why NATO is at the heart of the tension between Russia and the West and where the alliance might be headed. 
- <p class="updated_time"> 04:32 PM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078546521/ukraine-has-thousands-of-veterans-who-would-be-called-to-serve-in-the-reserves">Ukraine has thousands of veterans who would be called to serve in the reserves</a> NPR: Many of them fought Russian-backed separatists in the Donbas region. They say they are ready to fight again. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
@@ -162,16 +164,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 07:11 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
- <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60227982?at_medium=RSS&at_campaign=KARANGA">Mexican journalists shocked with surge in targeted killings</a> BBC: Four journalists were killed in Mexico in January, the most violent month for the profession in a decade. 
  <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 06:19 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60257580?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Valery, young victim of a frozen war</a> BBC: While Nato warns of a possible Russian invasion, 65 Ukrainian soldiers have died in the past year. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
- <p class="updated_time"> 06:10 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-60219183?at_medium=RSS&at_campaign=KARANGA">Cheryl Grimmer case: 'How did my sister vanish from Fairy Meadow?'</a> BBC: A toddler snatched from a busy beach, a brother's guilt and a new search for answers - the disappearance of Cheryl Grimmer. 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding US podcast presenter Joe Rogan and his Spotify show. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
