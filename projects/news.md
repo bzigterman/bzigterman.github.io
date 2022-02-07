@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin Meet in Diplomatic Overture</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden is meeting with Olaf Scholz, the German chancellor. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Promises United Response to Russia</a> NYT: President Biden is meeting with Olaf Scholz, the German chancellor. The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
- <p class="updated_time"> 02:49 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
  <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
- <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:33 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
@@ -210,12 +210,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/adams-defends-ties-to-close-friend-with-checkered-past-00006248">Adams defends ties to close friend with checkered past</a> Politico: The mayor said Zhan “Johnny” Petrosyants's checkered past is no reason for him not to associate with the restaurateur. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
- <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/white-house-science-adviser-workplace-behavior-00006247">White House sticks by science adviser despite inappropriate workplace behavior</a> Politico: POLITICO reported Monday on OSTP director Eric Lander's treatment of staff. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
@@ -255,9 +257,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/fentanyl-china-war-on-drugs-00005920">The war on drugs puts a target on China</a> Politico: As the fentanyl death toll ticks up, U.S. legislators slam Beijing’s regulatory loopholes and rue political tensions. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/longtime-epstein-associate-gave-250k-to-rga-00006097">Longtime Epstein associate gave $250K to RGA</a> Politico: Retail magnate Leslie Wexner stepped down from L Brands in 2020 after his ties to Jeffrey Epstein drew scrutiny. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/fentanyl-china-war-on-drugs-00005920">The war on drugs puts a target on China</a> Politico: As the fentanyl death toll ticks up, U.S. legislators slam Beijing’s regulatory loopholes and rue political tensions. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078777313/german-chancellor-olaf-scholz-visits-president-biden-at-the-white-house">German Chancellor Olaf Scholz visits President Biden at the White House</a> NPR: Chancellor Olaf Scholz's visit Monday comes amid criticism of Germany for its handling of Russia's troop build-up along Ukraine's border. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
@@ -372,8 +374,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
- <p class="updated_time"> 05:54 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/us-forces-syria-raid-00005114">Biden: U.S. forces killed ISIS leader in Syria raid</a> Politico: The operation “sent a strong message to terrorists around the world,” the president said. “We will come after you and find you.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
  <p class="updated_time"> 06:31 PM CT, Feb. 02 </p> 
