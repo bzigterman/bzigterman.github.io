@@ -8,9 +8,24 @@ owmr_settings(Sys.getenv("OWM_API_KEY"))
 
 # get data ----
 champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
-champaign_forecast_clean <- champaign_forecast$list
 champaign_forecast_tibble <- owmr_as_tibble(champaign_forecast)
-champaign_weather_icon <- get_icon_url(champaign_forecast_tibble$weather_icon)
+champaign_current <- get_current(city = 4887158, units = "imperial")
+champaign_current_tibble <- owmr_as_tibble(champaign_current)
+
+# set variables ----
+champaign_temp <- paste(round(champaign_current_tibble$temp),"°", sep = "")
+champaign_humidity <- paste(champaign_current_tibble$humidity,"%",sep = "")
+champaign_desc <- champaign_current_tibble$weather_description
+champaign_weather_icon <- get_icon_url(champaign_current_tibble$weather_icon)
+champaign_wind_speed <- paste(round(champaign_current_tibble$wind_speed),"mph")
+champaign_sunrise <- strftime(force_tz(
+  as_datetime(champaign_current_tibble$dt_sunrise_txt),
+  tz = "America/Chicago"),
+  format = "%I:%M% %p")
+champaign_sunset <- strftime(force_tz(
+  as_datetime(champaign_current_tibble$dt_sunset_txt),
+  tz = "America/Chicago"),
+  format = "%I:%M% %p")
 
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast_tibble %>%
@@ -119,6 +134,17 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 ## Champaign Forecast
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+
+Current Weather: 
+
+![](",champaign_weather_icon,")
+
+- ",champaign_temp,"
+- ",champaign_desc,"
+- ",champaign_humidity," humidity
+- ",champaign_wind_speed," wind
+- ",champaign_sunrise," sunrise
+- ",champaign_sunset," sunset
 
 ",now_html,"
 

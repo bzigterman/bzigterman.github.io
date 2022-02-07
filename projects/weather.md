@@ -5,11 +5,22 @@ permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
-## Champaign
-
-<p class="updated_time"> Latest data: 06:22 PM CT, February 06</p>
+## Champaign Forecast
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+
+Current Weather: 
+
+![](http://openweathermap.org/img/w/03n.png)
+
+- 27°
+- scattered clouds
+- 82% humidity
+- 10 mph wind
+- 06:56 AM sunrise
+- 05:17 PM sunset
+
+<p class="updated_time"> Latest data: 07:00 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
