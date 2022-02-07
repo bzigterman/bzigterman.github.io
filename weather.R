@@ -116,11 +116,11 @@ permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
-## Champaign
-
-",now_html,"
+## Champaign Forecast
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+
+",now_html,"
 
 ## Severe Thunderstorm Outlook
 
