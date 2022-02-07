@@ -15,12 +15,12 @@ Current Weather:
 
 - 24°
 - clear sky
-- 83% humidity
-- 2 mph wind
+- 85% humidity
+- 3 mph wind
 - 06:56 a.m. sunrise
 - 05:17 p.m. sunset
 
-<p class="updated_time"> Latest data: 09:03 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 09:19 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
