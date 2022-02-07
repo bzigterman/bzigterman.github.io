@@ -8,11 +8,17 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:12 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 02:45 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin Meet in Diplomatic Overture</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden is meeting with Olaf Scholz, the German chancellor. 
+ <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
+ <p class="updated_time"> 02:42 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
- <p class="updated_time"> 02:12 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin Meet in Diplomatic Overture</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor. 
- <p class="updated_time"> 02:10 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 02:33 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
+ <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
+ <p class="updated_time"> 02:14 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/queen-charles-camilla-royals-uk.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
  <p class="updated_time"> 01:46 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
@@ -30,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 11:57 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
  <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
@@ -40,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60294717?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old boy</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him from a well over the weekend. 
- <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60290610?at_medium=RSS&at_campaign=KARANGA">Sweden: Men steal students' computers during lesson</a> BBC: The masked men threatened students and stole computers at a Swedish school on Monday. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
@@ -54,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
  <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament has brought delight and solidarity. 
+ <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
  <p class="updated_time"> 09:06 AM CT, Feb. 07 </p> 
@@ -73,8 +77,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
- <p class="updated_time"> 05:21 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
@@ -201,8 +203,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
  <p class="updated_time"> 06:14 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
- <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
 
 
 </details>
@@ -214,8 +214,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
+ <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/white-house-science-adviser-workplace-behavior-00006247">White House sticks by science adviser despite inappropriate workplace behavior</a> Politico: POLITICO reported Monday on OSTP director Eric Lander's treatment of staff. 
+ <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
@@ -228,8 +232,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/youngkin-twitter-regret-student-00006188">Youngkin tweets 'regret' for campaign's criticism of high school student</a> Politico: The Virginia governor said a tweet deriding a 17-year-old from his campaign account was “unauthorized.” 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
- <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/1960-electoral-college-certificates-false-trump-electors-00006186">See the 1960 Electoral College certificates that the false Trump electors say justify their gambit</a> Politico: Their explanation relied heavily on the 1960 election between John F. Kennedy and Richard Nixon, who was vice president at the time. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
@@ -238,8 +240,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a child care setting will not be required to mask up. 
- <p class="updated_time"> 09:15 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/germanys-scholz-warns-russia-will-pay-very-high-price-for-invading-ukraine-00006119">Germany’s Scholz warns Russia would pay ‘very high price’ for invading Ukraine</a> Politico: The German chancellor also said “all options are on the table” regarding the Russia-to-Germany Nord Stream 2 pipeline. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
@@ -263,7 +263,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078777341/lawmakers-are-weighing-legislative-fixes-to-the-electoral-count-act">Lawmakers are weighing legislative fixes to the Electoral Count Act</a> NPR: The argument over the vice president's role in counting electoral votes fueled the Jan. 6 protests, thanks to ambiguity in the Electoral Count Act. A push to clarify the law is gaining traction. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
+ <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">IRS has second thoughts about selfie requirement</a> NPR: Taxpayers seeking access to some information about their taxes were to be required to submit to facial recognition software, a move that has raised privacy concerns. 
  <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/ottawa-truckers-convoy-galvanizes-far-right-worldwide-00006080">Ottawa truckers' convoy galvanizes far-right worldwide</a> Politico: Leading Republicans, right-wing influencers and white supremacist groups have jumped at the chance to promote the standoff in Ottawa to a global audience. 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
