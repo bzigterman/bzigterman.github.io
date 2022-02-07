@@ -20,7 +20,7 @@ Current Weather:
 - 06:56 a.m. sunrise
 - 05:17 p.m. sunset
 
-<p class="updated_time"> Latest data: 09:43 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 09:51 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
