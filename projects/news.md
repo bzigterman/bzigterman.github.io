@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:38 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star again denies sex assault in interview</a> BBC: The Chinese tennis star urges fans not to worry about her in new interview with Western media. 
  <p class="updated_time"> 11:37 PM CT, Feb. 06 </p> 
@@ -168,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60257580?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Valery, young victim of a frozen war</a> BBC: While Nato warns of a possible Russian invasion, 65 Ukrainian soldiers have died in the past year. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
- <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding US podcast presenter Joe Rogan and his Spotify show. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
