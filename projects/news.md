@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078826041/dutch-speedskater-ireen-wust-makes-history-winning-individual-gold-at-5-olympics">Dutch speedskater Ireen Wüst makes history, winning individual gold at 5 Olympics</a> NPR: "Age is just a number. It's just about how you feel. I'm not thinking like, 'I'm 35, I'm too old,' hell no," Wüst said after her latest Olympic feat. 
- <p class="updated_time"> 11:37 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 11:58 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
+ <p class="updated_time"> 11:57 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
+ <p class="updated_time"> 11:52 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Australia will reopen for doubly vaccinated travelers on Feb. 21, nearly two years after it first closed its border. The move is  seen as welcome relief for its tourism industry. 
+ <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078826041/ireen-wust-gold-winter-olympics">Dutch speedskater Ireen Wüst is the 1st athlete to win individual gold at 5 Olympics</a> NPR: "Age is just a number. It's just about how you feel. I'm not thinking like, 'I'm 35, I'm too old,' hell no," Wüst said after her latest Olympic feat. 
  <p class="updated_time"> 11:31 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Defiance as Ottawa blockade grinds on</a> BBC: "Canada has never been stronger," protesters angry about vaccine mandates tell the BBC. 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor declared a state of emergency to access resources during what he called "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
+ <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60294717?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old boy</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him from a well over the weekend. 
- <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293798?at_medium=RSS&at_campaign=KARANGA">Lake Erie: 18 rescued from breakaway floating ice sheet</a> BBC: The group became stranded on Lake Erie's frozen surface while riding snowmobiles. 
  <p class="updated_time"> 10:53 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60287161?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israel launches inquiry into police hacking claims</a> BBC: Officers allegedly used spyware made by NSO to target public figures' phones without warrants. 
- <p class="updated_time"> 10:50 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
  <p class="updated_time"> 10:38 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
  <p class="updated_time"> 10:09 AM CT, Feb. 07 </p> 
@@ -135,8 +137,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078634148/kyiv-bunkers-ukraine-attack">Bar, bookstore or bunker? Kyiv residents wonder where to shelter in case of war</a> NPR: An underground world in the Ukraine capital is made up of Soviet-era bomb shelters, bunkers and basements. A potential Russian attack threatens to put the bygone shelter system to the test. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
- <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078634085/e-u-official-discusses-diplomatic-de-escalation-tactics-in-russia-ukraine-tensio">EU official discusses diplomatic de-escalation tactics in Russia-Ukraine tension</a> NPR: Juana Summers asks Peter Stano, lead spokesperson for foreign affairs and security policy for the European Union, about the Ukraine crisis. 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
@@ -209,7 +209,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/youngkin-twitter-regret-student-00006188">Youngkin tweets 'regret' for campaign's criticism of high school student</a> Politico: The Virginia governor said a tweet deriding a 17-year-old from his campaign account was “unauthorized.” 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor declared a state of emergency to access resources during what he called "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
+ <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
