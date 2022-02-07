@@ -11,16 +11,16 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 Current Weather: 
 
-![](http://openweathermap.org/img/w/01n.png)
+![](http://openweathermap.org/img/w/03n.png)
 
-- 25°
-- clear sky
-- 82% humidity
-- 13 mph wind
+- 26°
+- scattered clouds
+- 83% humidity
+- 12 mph wind
 - 06:56 a.m. sunrise
 - 05:17 p.m. sunset
 
-<p class="updated_time"> Latest data: 11:50 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 11:58 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
