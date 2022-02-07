@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:14 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin, Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
- <p class="updated_time"> 10:11 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
+ <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
+ <p class="updated_time"> 10:26 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
  <p class="updated_time"> 10:09 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: Talks begin in Moscow between the French and Russian leaders amid fears Russia could invade Ukraine. 
  <p class="updated_time"> 10:04 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60258620?at_medium=RSS&at_campaign=KARANGA">Paralysed man with severed spine walks thanks to implant</a> BBC: World first using electrical implant developed by a team of Swiss researchers 
+ <a href="https://www.bbc.co.uk/news/science-environment-60258620?at_medium=RSS&at_campaign=KARANGA">Paralysed man with severed spine walks thanks to implant</a> BBC: Michel Roccati tells the BBC he "almost has a normal life" again thanks to an electrical implant. 
  <p class="updated_time"> 09:58 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60287161?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israel launches inquiry into police hacking claims</a> BBC: Officers allegedly used sophisticated spyware to target public figures' phones without warrants. 
  <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
@@ -47,12 +49,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
- <p class="updated_time"> 04:42 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 04:34 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
@@ -199,8 +201,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
- <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
 
 
 </details>
@@ -208,6 +208,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/1960-electoral-college-certificates-false-trump-electors-00006186">See the 1960 Electoral College certificates that the false Trump electors say justify their gambit</a> Politico: Their explanation relied heavily on the 1960 election between John F. Kennedy and Richard Nixon, who was vice president at the time. 
+ <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/business/fdic-chairman-mcwilliams-gruenberg.html">A Democrat Takes Over the F.D.I.C. After a Partisan Clash</a> NYT: Martin J. Gruenberg replaced Jelena McWilliams, a Trump appointee who stepped down after a conflict with Mr. Gruenberg and two other Democratic members on the board. 
+ <p class="updated_time"> 10:21 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 09:48 AM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
@@ -229,11 +235,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/unregulated-synthetic-vape-growing-kids-00005932">Synthetic nicotine: Unregulated and increasingly popular</a> Politico: To users, these vapes are identical. But because of an obscure loophole, they skirt the FDA’s regulatory umbrella. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/unregulated-synthetic-vape-growing-kids-00005932">Synthetic nicotine: Unregulated and increasingly popular</a> Politico: To users, these vapes are identical. But because of an obscure loophole, they skirt the FDA’s regulatory umbrella. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/fentanyl-china-war-on-drugs-00005920">The war on drugs puts a target on China</a> Politico: As the fentanyl death toll ticks up, U.S. legislators slam Beijing’s regulatory loopholes and rue political tensions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -242,8 +248,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078777313/german-chancellor-olaf-scholz-visits-president-biden-at-the-white-house">German Chancellor Olaf Scholz visits President Biden at the White House</a> NPR: Chancellor Olaf Scholz's visit Monday comes amid criticism of Germany for its handling of Russia's troop build-up along Ukraine's border. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078777341/lawmakers-are-weighing-legislative-fixes-to-the-electoral-count-act">Lawmakers are weighing legislative fixes to the Electoral Count Act</a> NPR: The argument over the vice president's role in counting electoral votes fueled the Jan. 6 protests, thanks to ambiguity in the Electoral Count Act. A push to clarify the law is gaining traction. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
  <p class="updated_time"> 10:19 PM CT, Feb. 06 </p> 
@@ -276,8 +280,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/business/media/trump-fox-news.html">Where Fox News and Donald Trump Took Us</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse. 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee  who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
- <p class="updated_time"> 10:35 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/sullivan-china-russia-ukraine-00006028">Sullivan warns China could face costs if it supports a Russian invasion of Ukraine</a> Politico: China's president released a joint statement with Vladimir Putin last week. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
@@ -312,8 +314,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo">Post-Confederate law bars Jan. 6 speaker Rep. Cawthorn from office, challengers argue</a> NPR: The North Carolina Republican is accused of engaging in insurrection, which would make him ineligible for office under a provision in the 14th Amendment. 
  <p class="updated_time"> 09:36 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078436997/judge-halts-virginia-governors-opt-out-school-mask-order-for-now">Judge halts Virginia governor's opt-out school mask order — for now</a> NPR: Republican Gov. Glenn Youngkin's executive order that sought to allow parents to opt out of classroom mask mandates was one of the first actions he took after his inauguration Jan. 15. 
- <p class="updated_time"> 09:34 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/politics/pence-trump-election.html">Donald Trump 'Is Wrong' on Authority to Overturn Election, Says Pence</a> NYT: Former Vice President Mike Pence said in a speech on Friday that he had no right to overturn the 2020 election, as the former president has falsely claimed. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 07:34 PM CT, Feb. 04 </p> 
