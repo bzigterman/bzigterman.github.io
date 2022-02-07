@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078826041/dutch-speedskater-ireen-wust-makes-history-winning-individual-gold-at-5-olympics">Dutch speedskater Ireen Wüst makes history, winning individual gold at 5 Olympics</a> NPR: "Age is just a number. It's just about how you feel. I'm not thinking like, 'I'm 35, I'm too old,' hell no," Wüst said after her latest Olympic feat. 
+ <p class="updated_time"> 11:37 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
  <p class="updated_time"> 11:31 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Defiance as Ottawa blockade grinds on</a> BBC: "Canada has never been stronger," protesters angry about vaccine mandates tell the BBC. 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
@@ -19,11 +23,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60290610?at_medium=RSS&at_campaign=KARANGA">Sweden: Robbers steal school's computers during lesson</a> BBC: The masked men threatened students and stole computers at a Swedish school on Monday. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60290610?at_medium=RSS&at_campaign=KARANGA">Sweden: Men steal students' computers during lesson</a> BBC: The masked men threatened students and stole computers at a Swedish school on Monday. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293798?at_medium=RSS&at_campaign=KARANGA">Lake Erie: 18 rescued from breakaway floating ice sheet</a> BBC: The group became stranded on Lake Erie's frozen surface while riding snowmobiles. 
- <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
  <p class="updated_time"> 10:53 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60287161?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israel launches inquiry into police hacking claims</a> BBC: Officers allegedly used spyware made by NSO to target public figures' phones without warrants. 
  <p class="updated_time"> 10:50 AM CT, Feb. 07 </p> 
@@ -52,7 +54,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 07:04 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078800884/asia-covid-19-lunar-new-year-omicron">Asia sees a spike in COVID-19 cases after Lunar New Year celebrations</a> NPR: Health officials are grappling with the highly-transmissible omicron variant and expectations that numbers will continue to rise in coming weeks. But so far there are fewer deaths than with delta. 
- <p class="updated_time"> 06:29 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 06:40 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/putin-to-meet-macron-as-france-tries-to-flex-diplomatic-muscle-over-ukraine-11644241608">Macron Meets With Putin as France Tries to Flex Diplomatic Muscle Over Ukraine</a> WSJ: The French president is embarking on a round of shuttle diplomacy that aims to defuse the Ukraine crisis and encourage European countries to play a bigger role in the continent’s defense. 
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
@@ -135,8 +137,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634085/e-u-official-discusses-diplomatic-de-escalation-tactics-in-russia-ukraine-tensio">EU official discusses diplomatic de-escalation tactics in Russia-Ukraine tension</a> NPR: Juana Summers asks Peter Stano, lead spokesperson for foreign affairs and security policy for the European Union, about the Ukraine crisis. 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
@@ -206,6 +206,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/youngkin-twitter-regret-student-00006188">Youngkin tweets 'regret' for campaign's criticism of high school student</a> Politico: The Virginia governor said a tweet deriding a 17-year-old from his campaign account was “unauthorized.” 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor declared a state of emergency to access resources during what he called "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
@@ -250,8 +252,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078777341/lawmakers-are-weighing-legislative-fixes-to-the-electoral-count-act">Lawmakers are weighing legislative fixes to the Electoral Count Act</a> NPR: The argument over the vice president's role in counting electoral votes fueled the Jan. 6 protests, thanks to ambiguity in the Electoral Count Act. A push to clarify the law is gaining traction. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
- <p class="updated_time"> 10:19 PM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/youngkin-twitter-feud-teenager-00006104">Youngkin campaign criticized for Twitter spat with teen</a> Politico: The student, Ethan Lynne, had retweeted a Richmond public radio station’s report. 
  <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/ottawa-truckers-convoy-galvanizes-far-right-worldwide-00006080">Ottawa truckers' convoy galvanizes far-right worldwide</a> Politico: Leading Republicans, right-wing influencers and white supremacist groups have jumped at the chance to promote the standoff in Ottawa to a global audience. 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
