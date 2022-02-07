@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 PM CT, Feb. 06 </p> 
+ <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
+ <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
+ <p class="updated_time"> 08:06 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
@@ -120,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/americas/guernica-tapestry-un-rockefeller.html">‘Guernica’ Antiwar Tapestry Is Rehung at U.N.</a> NYT: The canvas replica of Picasso’s painting, symbolizing war’s horrors, had been a photogenic fixture at the United Nations for decades before its owner, the Rockefeller family, removed it last year. 
  <p class="updated_time"> 12:04 PM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078499097/ukraine-russia-us-troops-arrive">Newly deployed U.S. troops arrive in Europe as Russia bolsters its own forces</a> NPR: New satellite images show the buildup of Russian forces and equipment along Ukraine's borders with western Russia, Belarus and Crimea — including new tents, an indicator that troops may be present. 
- <p class="updated_time"> 11:21 AM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078502767/morocco-boy-well-trapped">A 5-year-old boy dies after he was trapped in a well for 4 days</a> NPR: Moroccan King Mohammed VI expressed his condolences to the boy's parents in a statement released by the palace. The exact circumstances of how the boy fell in the well are unclear. 
  <p class="updated_time"> 10:28 AM CT, Feb. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60273502?at_medium=RSS&at_campaign=KARANGA">Emir Abdelkader: French sculpture of Algerian hero vandalised</a> BBC: Vandals damage the depiction of Emir Abdelkader, once 'France's worst enemy', before its inauguration. 
  <p class="updated_time"> 09:41 AM CT, Feb. 05 </p> 
@@ -254,11 +254,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
  <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/north-korea-nuclear-material-00006022">U.N. experts: North Korea seeks to produce material for nukes</a> Politico: “A marked acceleration” of the nation's program has been seen. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
