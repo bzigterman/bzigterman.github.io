@@ -21,11 +21,11 @@ champaign_wind_speed <- paste(round(champaign_current_tibble$wind_speed),"mph")
 champaign_sunrise <- strftime(force_tz(
   as_datetime(champaign_current_tibble$dt_sunrise_txt),
   tz = "America/Chicago"),
-  format = "%I:%M%")
+  format = "%I:%M")
 champaign_sunset <- strftime(force_tz(
   as_datetime(champaign_current_tibble$dt_sunset_txt),
   tz = "America/Chicago"),
-  format = "%I:%M%")
+  format = "%I:%M")
 
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast_tibble %>%
