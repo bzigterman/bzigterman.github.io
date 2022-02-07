@@ -8,26 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:07 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
+ <p class="updated_time"> 12:53 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Defiance as Ottawa blockade grinds on</a> BBC: "Canada has never been stronger," protesters angry about vaccine mandates tell the BBC. 
+ <p class="updated_time"> 12:51 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: Talks begin in Moscow between the French and Russian leaders amid fears Russia could invade Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
- <p class="updated_time"> 12:40 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
  <p class="updated_time"> 12:35 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
  <p class="updated_time"> 12:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 12:01 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: Talks begin in Moscow between the French and Russian leaders amid fears Russia could invade Ukraine. 
  <p class="updated_time"> 11:57 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
  <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078826041/ireen-wust-gold-winter-olympics">Dutch speedskater Ireen Wüst is the 1st athlete to win individual gold at 5 Olympics</a> NPR: "Age is just a number. It's just about how you feel. I'm not thinking like, 'I'm 35, I'm too old,' hell no," Wüst said after her latest Olympic feat. 
- <p class="updated_time"> 11:31 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Defiance as Ottawa blockade grinds on</a> BBC: "Canada has never been stronger," protesters angry about vaccine mandates tell the BBC. 
  <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
@@ -92,7 +92,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/07/1078732688/u-s-figure-skate-vincent-zhou-tests-positive-at-2022-olympics">U.S. figure skater Vincent Zhou tests positive for COVID-19 at the Winter Olympics</a> NPR: Zhou competed on Sunday in the team event as a substitute for three-time world champion Nathan Chen. He is supposed to compete again on Tuesday in the men's short program. 
+ <a href="https://www.npr.org/2022/02/07/1078732688/vincent-zhou-winter-olympics-positive-covid-test">U.S. skater Vincent Zhou drops out of Olympics after his 2nd COVID test is positive</a> NPR: "The enormity of the situation ... the pain of it all, is pretty insane," Zhou said in an emotional video posted to Instagram. A silver medalist in the team event, he was to compete again on Tuesday. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
