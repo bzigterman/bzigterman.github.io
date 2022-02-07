@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:25 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
+ <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-online-far-right.html">Canada convoy draws online support from far-right activists around the world.</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Vows Response to Russia Will Be ‘United’</a> NYT: President Biden met with Olaf Scholz, the German chancellor. The French president, who is meeting with President Putin, said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
  <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
@@ -216,7 +218,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/biden-covid-hospitalization-data-recalculate-00006341">Biden officials trying to recalculate U.S. Covid-19 hospitalizations</a> Politico: The administration’s goal is to get a more accurate sense of Covid’s impact across the country. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden warns Americans to leave Ukraine as U.S., Germany pledge unity on Russian aggression</a> Politico: The president also pledged to shut down a key pipeline if Russia invades, while German Chancellor Olaf Scholz said there would be "severe sanctions." 
- <p class="updated_time"> 04:26 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 04:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:20 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
@@ -265,7 +267,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:48 AM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a child care setting will not be required to mask up. 
+ <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: Gov. Phil Murphy announced Monday that the mandate would be lifted starting March 7. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/germanys-scholz-warns-russia-will-pay-very-high-price-for-invading-ukraine-00006119">Germany’s Scholz warns Russia would pay ‘very high price’ for invading Ukraine</a> Politico: The German chancellor also said “all options are on the table” regarding the Russia-to-Germany Nord Stream 2 pipeline. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
