@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:38 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 09:48 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French President Emmanuel Macron heads to Moscow as Russian forces gather on Ukraine's borders. 
+ <p class="updated_time"> 09:42 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
  <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
  <p class="updated_time"> 09:31 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
- <p class="updated_time"> 09:31 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French President Emmanuel Macron heads to Moscow as Russian forces gather on Ukraine's borders. 
  <p class="updated_time"> 09:24 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60286436?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Senegal declares public holiday after historic win</a> BBC: Thousands of joyous fans pour onto the streets after Senegal wins its first ever Africa Cup of Nations. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
@@ -51,6 +51,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
+ <p class="updated_time"> 04:42 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 04:34 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
@@ -206,8 +208,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Feb. 07 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a childcare setting will not be required to mask up. 
+ <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a child care setting will not be required to mask up. 
  <p class="updated_time"> 09:15 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
@@ -246,8 +250,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/youngkin-twitter-feud-teenager-00006104">Youngkin campaign criticized for Twitter spat with teen</a> Politico: The student, Ethan Lynne, had retweeted a Richmond public radio station’s report. 
  <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/ottawa-truckers-convoy-galvanizes-far-right-worldwide-00006080">Ottawa truckers' convoy galvanizes far-right worldwide</a> Politico: Leading Republicans, right-wing influencers and white supremacist groups have jumped at the chance to promote the standoff in Ottawa to a global audience. 
- <p class="updated_time"> 06:57 PM CT, Feb. 06 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 05:35 PM CT, Feb. 06 </p> 
