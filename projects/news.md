@@ -8,18 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:07 PM CT, Feb. 07 </p> 
+ <p class="updated_time"> 01:41 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
+ <p class="updated_time"> 01:41 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
+ <p class="updated_time"> 01:37 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: Talks begin in Moscow between the French and Russian leaders amid fears Russia could invade Ukraine. 
+ <p class="updated_time"> 01:33 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/europe/queen-charles-camilla-royals-uk.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
+ <p class="updated_time"> 01:31 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
+ <p class="updated_time"> 01:23 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:53 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Defiance as Ottawa blockade grinds on</a> BBC: "Canada has never been stronger," protesters angry about vaccine mandates tell the BBC. 
- <p class="updated_time"> 12:51 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: Talks begin in Moscow between the French and Russian leaders amid fears Russia could invade Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
- <p class="updated_time"> 12:35 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
- <p class="updated_time"> 12:29 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 11:57 AM CT, Feb. 07 </p> 
@@ -46,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
  <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament has brought delight and solidarity. 
- <p class="updated_time"> 09:31 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
@@ -87,6 +91,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
  <p class="updated_time"> 03:17 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075">Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</a> WSJ: Top Chinese-American athletes of the current generation face a shift in local support as they compete in the land of their ancestors. 
+ <p class="updated_time"> 12:47 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/fight-club-no-longer-ends-with-a-whimper-in-china-following-explosion-over-censorship-11644234434">'Fight Club' No Longer Ends With a Whimper in China Following Censorship Explosion</a> WSJ: Cult film “Fight Club” once again concludes with a bang for Chinese viewers after a streaming video platform quietly took down a version that ended on a jarringly pro-government note. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
@@ -117,8 +123,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078689583/heres-how-the-athletes-did-in-the-first-weekend-of-the-winter-olympics">Here's how the athletes did in the first weekend of the Winter Olympics</a> NPR: ​The 2022 Beijing Games are underway and already the drama is brewing from stellar performances on the ice rink — both figure skating and hockey — and on the slopes. 
  <p class="updated_time"> 02:41 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078670229/us-says-russia-has-three-quarters-of-forces-for-ukraine-invasion">U.S. says Russia has amassed about 75% of the troops it would need to invade Ukraine</a> NPR: Officials warn that an attack could result in the deaths of tens of thousands of soldiers and civilians, while millions of Ukrainian refugees would be left to flee, likely to nearby Poland. 
- <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
@@ -206,6 +210,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/white-house-science-adviser-workplace-behavior-00006247">White House sticks by science adviser despite inappropriate workplace behavior</a> Politico: POLITICO reported Monday on OSTP director Eric Lander's treatment of staff. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
+ <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 12:51 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">I.R.S. to End Use of Facial Recognition for Identity Verification</a> NYT: The tax collection agency will transition away from using a service from the authentication service ID.me amid bipartisan backlash. 
  <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
@@ -232,8 +242,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
- <p class="updated_time"> 06:17 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -270,8 +278,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
- <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
@@ -352,8 +358,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
