@@ -8,6 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
+ <p class="updated_time"> 05:01 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
+</a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
+ <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
+ <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:34 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 04:18 AM CT, Feb. 07 </p> 
@@ -22,14 +31,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
- <p class="updated_time"> 01:34 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
- <p class="updated_time"> 11:37 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
@@ -192,14 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/world/australia/captain-james-cook-hmb-endeavour.html">Captain James Cook’s Ship Caught in Center of a Maritime Rift</a> NYT: After researchers in Australia reported finding the wreck of the Endeavour off Rhode Island, their U.S. partners issued a startling rebuke. 
  <p class="updated_time"> 04:00 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/iraq-tv-black-news-anchor.html">How Randa Abd Al-Aziz, a Black Iraqi, Got a Sudden Career in TV News</a> NYT: Randa Abd Al-Aziz was joking with friends in a Baghdad cafe when she got a surprise job offer: broadcasting the news in Iraq, whose Black citizens have little media presence and even less power. 
- <p class="updated_time"> 03:23 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/medical-waste-environment-covid.html">A Deluge of Medical Waste Is Swamping the Globe, a U.N. Report Says.</a> NYT: Discarded syringes, old test kits and used vaccine vials have strained waste management systems and are threatening people’s health and the environment. 
  <p class="updated_time"> 02:05 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/new-zealand-catholic-abuse.html">New Zealand Inquiry Finds Hundreds of Reports of Abuse by Priests</a> NYT: The complaints, going back seven decades, attest to the pervasiveness of sexual and other abuse within the Catholic Church and are part of a worldwide reckoning. 
  <p class="updated_time"> 12:12 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/australia/trivial-politics-covid.html">Why I’ve Learned to Loathe Australia’s Trivial Politics</a> NYT: This week has shown just how ill-equipped the current Australian political ecosystem is when facing catastrophe. 
- <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
 
 
 </details>
