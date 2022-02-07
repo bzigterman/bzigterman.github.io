@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
- <p class="updated_time"> 08:12 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 08:47 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron and Putin to Meet as Diplomatic Push Continues</a> NYT: President Biden was also scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to the Russian military buildup surrounding Ukraine. 
+ <p class="updated_time"> 08:44 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
+ <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
+ <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078258023/independent-state-palestine-proposal-two-state-confederation-israel">Israeli and Palestinian figures propose a plan for an independent state of Palestine</a> NPR: An independent Palestine and Israel would coordinate on issues that affect both populations in a two-state confederation. The plan by former officials will be submitted to the U.N. and U.S. next week. 
+ <p class="updated_time"> 08:33 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
  <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news/biden-olaf-scholz-russia">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
  <p class="updated_time"> 07:32 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 07:04 AM CT, Feb. 07 </p> 
@@ -29,8 +35,6 @@ imageurl: https://bzigterman.com/plots/news.png
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
  <p class="updated_time"> 05:51 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60286436?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Senegal declares public holiday after historic win</a> BBC: Thousands of joyous fans pour onto the streets after Senegal wins its first ever Africa Cup of Nations. 
- <p class="updated_time"> 05:50 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 05:28 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort in the northern Rif mountains. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
@@ -49,6 +53,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
+ <p class="updated_time"> 03:17 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075">Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</a> WSJ: The current generation of top Chinese-American athletes face a striking shift in local support as they compete in the land of their ancestors. 
+ <p class="updated_time"> 02:46 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/putin-to-meet-macron-as-france-tries-to-flex-diplomatic-muscle-over-ukraine-11644241608">Putin to Meet Macron as France Tries to Flex Diplomatic Muscle</a> WSJ: When Emmanuel Macron meets Vladimir Putin he will embark on a round of shuttle diplomacy aimed at defusing the Ukraine crisis and opening an era for European countries to play a bigger role in the continent’s defense. 
  <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
@@ -103,8 +111,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
- <p class="updated_time"> 09:20 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/a-uyghur-skier-became-the-face-of-chinas-winter-olympics-the-next-day-she-vanished-from-the-spotlight-11644157693">A Uyghur Skier Became Face of Winter Olympics. The Next Day, She Vanished From the Spotlight.</a> WSJ: Dinigeer Yilamujiang was catapulted into the global spotlight after carrying the Olympic flame, followed by a low-key retreat, marking a remarkable 24-hour whirlwind for the hitherto-unknown athlete. 
  <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
  <p class="updated_time"> 08:18 AM CT, Feb. 06 </p> 
@@ -125,12 +131,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 02:49 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
- <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
- <p class="updated_time"> 12:15 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/moroccan-boy-trapped-in-well-for-four-days-dies-11644142357">Moroccan Boy Trapped in Well for Four Days Dies</a> WSJ: Rescuers reached the five-year-old child, identified as Rayan Aourram, on Saturday night after excavating and tunneling into the well, but he did not survive. 
- <p class="updated_time"> 10:47 PM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
@@ -163,10 +163,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
  <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">School reopening: The Indian children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
- <p class="updated_time"> 07:39 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/us/politics/isis-leader-killed-syria.html">Raid Targeting ISIS Leader Came After Months of Planning</a> NYT: President Biden said the attack on Abu Ibrahim al-Hashimi al-Qurayshi was designed to minimize civilian casualties, but then the terrorist leader set off a bomb. 
- <p class="updated_time"> 07:38 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/middleeast/isis-raid-idlib-qurayshi.html">Neighbors Recall Night of Fear in Syria Raid That Killed ISIS Leader</a> NYT: In a village in Syria, residents took cover, watched and hid as U.S. forces assaulted the house next door, killing the leader of ISIS. 
  <p class="updated_time"> 07:32 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60245133?at_medium=RSS&at_campaign=KARANGA">Sudan's feared secret police make a comeback</a> BBC: Amira Osman is one of dozens believed to have been arrested by Sudan's feared secret police. 
  <p class="updated_time"> 07:31 PM CT, Feb. 04 </p> 
@@ -207,7 +203,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news/biden-olaf-scholz-russia">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/germanys-scholz-warns-russia-will-pay-very-high-price-for-invading-ukraine-00006119">Germany’s Scholz warns Russia would pay ‘very high price’ for invading Ukraine</a> Politico: The German chancellor also said “all options are on the table” regarding the Russia-to-Germany Nord Stream 2 pipeline. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
@@ -239,7 +235,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Is to Confirm</a> NYT: In a speech on Monday, the first lady will acknowledge that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 10:19 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/youngkin-twitter-feud-teenager-00006104">Youngkin campaign criticized for Twitter spat with teen</a> Politico: The student, Ethan Lynne, had retweeted a Richmond public radio station’s report. 
  <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
@@ -257,7 +253,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078689597/what-a-civil-war-era-provision-could-mean-for-candidates-accused-of-inciting-vio">What a Civil War-era provision could mean for candidates accused of inciting violence</a> NPR: North Carolina voters are challenging Rep. Madison Cawthorn's reelection eligibility. NPR's Michel Martin discusses why with Indiana University law professor Gerard Magliocca. 
  <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
  <p class="updated_time"> 02:36 PM CT, Feb. 06 </p> 
@@ -332,8 +328,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 05:00 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/jan-6-defendant-trump-subpoena.html">Jan. 6 Defendant Seeks to Subpoena Trump as Witness at Trial</a> NYT: The request to have the former president testify faces an uphill fight, but it illustrates efforts by defendants to place him at the center of their cases. 
- <p class="updated_time"> 03:53 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/us/yale-kamisar-dead.html">Yale Kamisar, Known as the ‘Father’ of the Miranda Rule, Dies at 92</a> NYT: His legal scholarship, cited in more than 30 Supreme Court cases, shaped modern criminal procedure, including protections for the rights of the accused. 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358133/rnc-censures-cheney-and-kinzinger-for-their-participation-in-jan-6-investigation">RNC censures Cheney and Kinzinger for their participation in Jan. 6 investigation</a> NPR: The Republican National Committee censured Liz Cheney and Adam Kinzinger, and in the censure document labeled the Jan. 6 attack on the Capitol "legitimate political discourse." 
  <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
