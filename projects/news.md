@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:32 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
+ <p class="updated_time"> 07:04 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078800884/asia-covid-19-lunar-new-year-omicron">Asia sees a spike in COVID-19 cases after Lunar New Year celebrations</a> NPR: Health officials are grappling with the highly-transmissible omicron variant and expectations that numbers will continue to rise in coming weeks. But so far there are fewer deaths than with delta. 
  <p class="updated_time"> 06:38 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60287621?at_medium=RSS&at_campaign=KARANGA">Austria on high alert after series of deadly avalanches</a> BBC: Nine people are killed after more than 100 avalanches hit ski fields, with warnings of more to come. 
  <p class="updated_time"> 06:34 AM CT, Feb. 07 </p> 
@@ -20,7 +24,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:50 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 05:28 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco prepares to bury five-year-old who died trapped in well</a> BBC: A funeral will be held for five-year-old Rayan Oram, who died despite a painstaking rescue effort. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort in the northern Rif mountains. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
@@ -55,8 +59,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
  <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
- <p class="updated_time"> 07:14 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
@@ -131,8 +133,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
- <p class="updated_time"> 04:54 PM CT, Feb. 05 </p> 
- <a href="https://www.npr.org/2022/02/05/1078550030/uk-queen-elizabeth-camilla-platinum-jubilee">As Queen Elizabeth marks 70 years as monarch, she looks to Camilla and the future </a> NPR: The monarch said she wants Camilla be known as "Queen Consort" if Charles, the Prince of Wales, succeeds her. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html">Southwest Airlines to Start Selling Alcohol on Flights Again</a> NYT: A flight attendants’ union said the decision was “unsafe and irresponsible.” 
  <p class="updated_time"> 01:11 PM CT, Feb. 05 </p> 
