@@ -13,14 +13,14 @@ Current Weather:
 
 ![](http://openweathermap.org/img/w/01n.png)
 
-- 27°
+- 24°
 - clear sky
-- 81% humidity
-- 6 mph wind
+- 83% humidity
+- 2 mph wind
 - 06:56 a.m. sunrise
 - 05:17 p.m. sunset
 
-<p class="updated_time"> Latest data: 07:35 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 08:49 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
