@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor declared a state of emergency to access resources during what he called "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
+ <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60294717?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old boy</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him from a well over the weekend. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Macron Meets With Putin; Says Europe Is at a ‘Critical Crossroads’</a> NYT: The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. President Biden was scheduled to meet with Olaf Scholz, the German chancellor, in the hope of strengthening Western nations’ response to Moscow. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
+ <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60290610?at_medium=RSS&at_campaign=KARANGA">Sweden: Robbers steal school's computers during lesson</a> BBC: The masked men threatened students and stole computers at a Swedish school on Monday. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293798?at_medium=RSS&at_campaign=KARANGA">Lake Erie: 18 rescued from breakaway floating ice sheet</a> BBC: The group became stranded on Lake Erie's frozen surface while riding snowmobiles. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
@@ -46,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 07:04 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078800884/asia-covid-19-lunar-new-year-omicron">Asia sees a spike in COVID-19 cases after Lunar New Year celebrations</a> NPR: Health officials are grappling with the highly-transmissible omicron variant and expectations that numbers will continue to rise in coming weeks. But so far there are fewer deaths than with delta. 
- <p class="updated_time"> 06:34 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
@@ -123,8 +127,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078482452/what-do-2022-olympic-medals-look-like">The first 2022 Winter Olympic medals have been awarded. Here's what they look like</a> NPR: Beijing Olympic Committee organizers pulled from Chinese culture and relied on the 2008 medal design for the 2022 gold, silver, and bronze medallions. 
  <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
- <p class="updated_time"> 09:08 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60280834?at_medium=RSS&at_campaign=KARANGA">Moment bridge in Germany is blown up for safety reasons</a> BBC: Watch a controlled explosion destroy this bridge in Germany in a matter of seconds. 
  <p class="updated_time"> 08:18 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60280833?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: Large crowds in Mumbai, India, pay their respects after the legendary singer's death at the age of 92. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
@@ -135,8 +137,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078634085/e-u-official-discusses-diplomatic-de-escalation-tactics-in-russia-ukraine-tensio">EU official discusses diplomatic de-escalation tactics in Russia-Ukraine tension</a> NPR: Juana Summers asks Peter Stano, lead spokesperson for foreign affairs and security policy for the European Union, about the Ukraine crisis. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
- <p class="updated_time"> 06:00 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/06/1077953012/drug-resistant-malaria-is-emerging-in-africa-doctors-are-worried-yet-hopeful">Drug-resistant malaria is emerging in Africa. Doctors are worried — yet hopeful</a> NPR: Resistance to the drug artemisinin was confirmed in Africa. Without better surveillance, experts say it is hard to track the threat. 
  <p class="updated_time"> 05:39 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
@@ -206,6 +206,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 10:59 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/1960-electoral-college-certificates-false-trump-electors-00006186">See the 1960 Electoral College certificates that the false Trump electors say justify their gambit</a> Politico: Their explanation relied heavily on the 1960 election between John F. Kennedy and Richard Nixon, who was vice president at the time. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
@@ -218,8 +220,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a child care setting will not be required to mask up. 
  <p class="updated_time"> 09:15 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
- <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/germanys-scholz-warns-russia-will-pay-very-high-price-for-invading-ukraine-00006119">Germany’s Scholz warns Russia would pay ‘very high price’ for invading Ukraine</a> Politico: The German chancellor also said “all options are on the table” regarding the Russia-to-Germany Nord Stream 2 pipeline. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
