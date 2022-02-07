@@ -103,8 +103,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60280833?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: Large crowds in Mumbai, India, pay their respects after the legendary singer's death at the age of 92. 
  <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634148/kyiv-bunkers-ukraine-attack">Bar, bookstore or bunker? Kyiv residents wonder where to shelter in case of war</a> NPR: An underground world in the Ukraine capital is made up of Soviet-era bomb shelters, bunkers and basements. A potential Russian attack threatens to put the bygone shelter system to the test. 
- <p class="updated_time"> 07:08 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/a-positive-covid-test-in-hong-kong-starts-a-business-traveler-on-monthlong-quarantine-11644166582">Positive Covid Test in Hong Kong Starts Business Traveler on Monthlong Quarantine</a> WSJ: One Hong Kong business traveler tested positive with the Omicron variant upon returning from Africa. His 30-day mandatory quarantine “taught me patience, to appreciate the little things in life.” 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
@@ -209,7 +207,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116">Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -226,6 +224,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/longtime-epstein-associate-gave-250k-to-rga-00006097">Longtime Epstein associate gave $250K to RGA</a> Politico: Retail magnate Leslie Wexner stepped down from L Brands in 2020 after his ties to Jeffrey Epstein drew scrutiny. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078777313/german-chancellor-olaf-scholz-visits-president-biden-at-the-white-house">German Chancellor Olaf Scholz visits President Biden at the White House</a> NPR: Chancellor Olaf Scholz's visit Monday comes amid criticism of Germany for its handling of Russia's troop build-up along Ukraine's border. 
+ <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078777341/lawmakers-are-weighing-legislative-fixes-to-the-electoral-count-act">Lawmakers are weighing legislative fixes to the Electoral Count Act</a> NPR: The argument over the vice president's role in counting electoral votes fueled the Jan. 6 protests, thanks to ambiguity in the Electoral Count Act. A push to clarify the law is gaining traction. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans Step Up Attacks on Fauci to Woo Trump Voters</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
@@ -274,6 +274,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
@@ -283,7 +285,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
@@ -332,8 +334,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/04/1078367504/pence-says-trump-is-wrong-to-insist-he-could-have-overturned-election-results">Pence says Trump is wrong to insist VP could have overturned election results</a> NPR: The former vice president called out the former president during a speech Friday, saying it's "un-American" to think that one person could determine the outcome of an election. 
  <p class="updated_time"> 03:40 PM CT, Feb. 04 </p> 
  <a href="https://www.npr.org/2022/02/04/1078358119/u-s-diplomat-talks-path-forward-with-russia">U.S. diplomat talks path forward with Russia</a> NPR: NPR's Ari Shapiro talks with Michael Carpenter, who represents the U.S. at the Organization for Security and Cooperation in Europe, on the threat that the European continent could be plunged into war. 
- <p class="updated_time"> 03:27 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078363467/stormy-daniels-michael-avenatti-convicted">Michael Avenatti is convicted of stealing nearly $300,000 from Stormy Daniels</a> NPR: The lawyer was convicted of charges he cheated the porn actor out of money she was supposed to get for writing a book about an alleged tryst with former President Donald Trump. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
