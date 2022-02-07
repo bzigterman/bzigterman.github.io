@@ -8,11 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:04 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
- <p class="updated_time"> 05:01 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
+ <p class="updated_time"> 05:50 AM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
+ <p class="updated_time"> 05:28 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco prepares to bury five-year-old who died trapped in well</a> BBC: A funeral will be held for five-year-old Rayan Oram, who died despite a painstaking rescue effort. 
+ <p class="updated_time"> 05:04 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
@@ -45,8 +49,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
  <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
- <p class="updated_time"> 08:06 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
  <p class="updated_time"> 07:14 PM CT, Feb. 06 </p> 
@@ -83,8 +85,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
  <p class="updated_time"> 11:54 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
- <p class="updated_time"> 11:47 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
  <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
@@ -231,7 +231,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078024597/want-information-from-the-irs-for-some-the-agency-wants-a-selfie">Want information from the IRS? For some, the agency wants a selfie</a> NPR: Taxpayers seeking access to some information about their taxes will be required to submit to facial recognition software, a move that has raised privacy concerns. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Won't Be in Spending Bill, Jill Biden to Say</a> NYT: In a speech on Monday, the first lady will acknowledge that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Is to Confirm</a> NYT: In a speech on Monday, the first lady will acknowledge that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Will Press German Chancellor on Russia Sanctions and Pipeline</a> NYT: The two leaders are meeting amid concerns that Germany has not been a forceful enough partner in calming tensions between Russia and Ukraine. 
  <p class="updated_time"> 10:19 PM CT, Feb. 06 </p> 
