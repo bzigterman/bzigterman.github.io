@@ -208,6 +208,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116">Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -272,8 +274,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
