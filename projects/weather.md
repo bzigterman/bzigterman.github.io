@@ -13,12 +13,12 @@ Current Weather:
 
 - 13°
 - clear sky
-- 78% humidity
+- 77% humidity
 - 11 mph wind
 - 06:55 a.m. sunrise
 - 05:18 p.m. sunset
 
-<p class="updated_time"> Latest data: 08:22 AM CT, February 07</p>
+<p class="updated_time"> Latest data: 08:31 AM CT, February 07</p>
 
 ## Severe Thunderstorm Outlook
 
