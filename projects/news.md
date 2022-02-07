@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 08:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078715845/mikaela-shiffrin-out-of-giant-slalom-event-after-fall">U.S. ski champ Mikaela Shiffrin is out of Olympic giant slalom event after falling</a> NPR: Shiffrin, known as the reigning queen of the slopes, fell in her first run in the giant slalom at the Beijing Olympics. It was the first time she did not finish a giant slalom race in four years. 
  <p class="updated_time"> 08:06 PM CT, Feb. 06 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
  <p class="updated_time"> 07:14 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
- <p class="updated_time"> 06:45 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
  <p class="updated_time"> 06:33 PM CT, Feb. 06 </p> 
