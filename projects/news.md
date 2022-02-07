@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
  <p class="updated_time"> 05:22 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
  <p class="updated_time"> 05:13 PM CT, Feb. 07 </p> 
@@ -42,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 02:50 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
- <p class="updated_time"> 02:33 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the domestic use of spyware made by NSO Group, based in Israel, which has long been a target of criticism abroad. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 02:14 PM CT, Feb. 07 </p> 
@@ -58,6 +58,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
+ <p class="updated_time"> 12:23 PM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
+ <p class="updated_time"> 12:00 PM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-s-agrees-to-lift-trump-era-tariffs-on-japanese-steel-11644271202">U.S. Agrees to Lift Trump-Era Tariffs on Japanese Steel</a> WSJ: The agreement removes a longstanding irritant in the bilateral relations between the two allies and follows a similar agreement with the European Union in October. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
  <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
@@ -113,10 +117,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
- <p class="updated_time"> 03:17 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075">Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</a> WSJ: Top Chinese-American athletes of the current generation face a shift in local support as they compete in the land of their ancestors. 
- <p class="updated_time"> 12:47 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/fight-club-no-longer-ends-with-a-whimper-in-china-following-explosion-over-censorship-11644234434">'Fight Club' No Longer Ends With a Whimper in China Following Censorship Explosion</a> WSJ: Cult film “Fight Club” once again concludes with a bang for Chinese viewers after a streaming video platform quietly took down a version that ended on a jarringly pro-government note. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
@@ -257,7 +257,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/white-house-science-adviser-workplace-behavior-00006247">White House sticks by science adviser despite inappropriate workplace behavior</a> Politico: POLITICO reported Monday on OSTP director Eric Lander's treatment of staff. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Won't Be in Spending Bill, Jill Biden to Say</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
