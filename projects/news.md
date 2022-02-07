@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:59 PM CT, Feb. 06 </p> 
+ <p class="updated_time"> 07:53 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
+ <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
+ <p class="updated_time"> 07:14 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 06:45 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
@@ -172,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
- <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/travel/the-points-guy-brian-kelly.html">Talking Points With … Who Else? The Points Guy</a> NYT: Brian Kelly has been helping travelers and other consumers navigate the increasingly complicated loyalty universe for over a decade. Here’s what he has to say about playing the points game. 
  <p class="updated_time"> 11:49 AM CT, Feb. 04 </p> 
@@ -213,6 +215,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/ottawa-truckers-convoy-galvanizes-far-right-worldwide-00006080">Ottawa truckers' convoy galvanizes far-right worldwide</a> Politico: Leading Republicans, right-wing influencers and white supremacist groups have jumped at the chance to promote the standoff in Ottawa to a global audience. 
  <p class="updated_time"> 06:57 PM CT, Feb. 06 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
@@ -250,11 +254,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078432575/beijing-and-moscow-unite-in-efforts-to-redefine-democracy-itself">Beijing and Moscow unite in efforts to redefine democracy itself </a> NPR: In a pointed message to their international critics, the two autocrats declared it was only up to their own people "to decide whether their State is a democratic one." 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
- <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/california-covid-sick-leave-00005374">States take on Covid sick leave with federal help nowhere in sight</a> Politico: That federal inaction is pushing blue states like California and Illinois to consider laws that would give extra sick time to employees. 
  <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/nevada-transgender-rights-environmentalists-lithium-00001658">How a fight over transgender rights derailed environmentalists in Nevada</a> Politico: Some activists fighting a massive lithium mine project are angry over the involvement of an environmental group they say espouses discriminatory views about transgender people. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 06 </p> 
+ <a href="https://www.politico.com/news/2022/02/06/nyc-casino-hochul-00004068">The race is on to build a casino in New York City</a> Politico: Times Square, Citi Field and Hudson Yards are said to be among the locations under consideration as the nation's biggest untapped casino market comes into play. 
  <p class="updated_time"> 06:57 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/north-korea-nuclear-material-00006022">U.N. experts: North Korea seeks to produce material for nukes</a> Politico: “A marked acceleration” of the nation's program has been seen. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
@@ -279,6 +283,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/04/us/politics/guantanamo-detainee-transfer.html">Panel Backs Transfer of Guantánamo Detainee Suspected of 9/11 Role</a> NYT: The Biden administration is expected to send the detainee, whom the military tortured and so could not be put on trial, to Saudi Arabia as early as March. 
  <p class="updated_time"> 08:40 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078478651/missouris-health-director-resigns-after-protests-against-covid-19-restrictions">Missouri's health director resigns after protests against COVID-19 restrictions</a> NPR: Missouri's acting health director resigned after state GOP lawmakers complained he was not conservative enough. 
+ <p class="updated_time"> 08:09 AM CT, Feb. 05 </p> 
+ <a href="https://www.politico.com/news/2022/02/05/bloomberg-headline-russia-peskov-ukraine-00005992">Invasion headline demonstrates tensions in world, Kremlin spokesperson says</a> Politico: "This situation makes it clear how dangerous such tensions are," Dmitry Peskov said. 
  <p class="updated_time"> 07:42 AM CT, Feb. 05 </p> 
  <a href="https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting">North Carolina's Supreme Court strikes down redistricting maps that gave GOP an edge</a> NPR: The divided court struck down the state's new maps for congressional and General Assembly seats. The ruling is a major victory for Democrats and their allies. 
  <p class="updated_time"> 07:02 AM CT, Feb. 05 </p> 
@@ -349,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/judges-take-over-redistricting-states-00005500">Judges take over drawing dozens of House districts — and throw Dems a bone</a> Politico: The battles over new congressional lines are moving from state legislatures to courtrooms in a number of key states. 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
