@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:13 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 03:49 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
+ <p class="updated_time"> 01:34 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
@@ -62,16 +64,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
- <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60281271?at_medium=RSS&at_campaign=KARANGA">Africa Union summit: Leaders complain about 'wave of coups'</a> BBC: The military has seized power in five countries in the past year, mostly in West Africa. 
  <p class="updated_time"> 11:54 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60094193?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: The Bollywood star beloved by Indians around the world is cremated with full state honours. 
  <p class="updated_time"> 11:47 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60264389?at_medium=RSS&at_campaign=KARANGA">Cyclone Batsirai: Whole villages swept away in Madagascar</a> BBC: At least 10 people die and 50,000 are displaced as Cyclone Batsirai brings widespread destruction. 
  <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
- <p class="updated_time"> 10:11 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60281129?at_medium=RSS&at_campaign=KARANGA">North Korea: Missile programme funded through stolen crypto, UN report says</a> BBC: Investigators say cyber-attackers stole over $50 million in digital assets between 2020 and mid-2021. 
  <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
@@ -110,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:15 AM CT, Feb. 06 </p> 
  <a href="https://www.wsj.com/articles/moroccan-boy-trapped-in-well-for-four-days-dies-11644142357">Moroccan Boy Trapped in Well for Four Days Dies</a> WSJ: Rescuers reached the five-year-old child, identified as Rayan Aourram, on Saturday night after excavating and tunneling into the well, but he did not survive. 
- <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan Oram, ends in grief for the parents. 
  <p class="updated_time"> 10:47 PM CT, Feb. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
