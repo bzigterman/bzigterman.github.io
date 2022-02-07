@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:50 PM CT, Feb. 06 </p> 
+ <p class="updated_time"> 06:59 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
+ <p class="updated_time"> 06:45 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
+ <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
+ <p class="updated_time"> 06:33 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60095891?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: Shankar Mahadevan remembers India's 'musical Koh-i-Noor'</a> BBC: Lata Mangeshkar's voice has been a constant in the lives of Indians, Shankar Mahadevan told the BBC. 
+ <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
+ <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60219714?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'It’s like they stuck a knife in our back'</a> BBC: Ukraine has been living with war for the past eight years, and people in Dnipro are dealing with past scars and the threat of more to come. 
  <p class="updated_time"> 04:39 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 04:35 PM CT, Feb. 06 </p> 
@@ -148,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/03/world/europe/austria-covid-vaccine-mandate.html">Austria Will Soon Require Most Adults to Get a Covid Vaccine</a> NYT: The measure requires almost everyone 18 or over to be vaccinated against the coronavirus, a wider-ranging mandate than any other European country has yet imposed. 
  <p class="updated_time"> 06:35 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60227982?at_medium=RSS&at_campaign=KARANGA">Mexican journalists shocked with surge in targeted killings</a> BBC: Four journalists were killed in Mexico in January, the most violent month for the profession in a decade. 
- <p class="updated_time"> 06:30 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60262132?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 29 January - 4 February 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 06:19 PM CT, Feb. 04 </p> 
@@ -160,14 +168,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60219183?at_medium=RSS&at_campaign=KARANGA">Cheryl Grimmer case: 'How did my sister vanish from Fairy Meadow?'</a> BBC: A toddler snatched from a busy beach, a brother's guilt and a new search for answers - the disappearance of Cheryl Grimmer. 
  <p class="updated_time"> 06:08 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60249705?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Joe Rogan and Spotify</a> BBC: Ros Atkins looks at the controversy surrounding US podcast presenter Joe Rogan and his Spotify show. 
- <p class="updated_time"> 04:43 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60266121?at_medium=RSS&at_campaign=KARANGA">Trump wrong to say I could overturn Biden win - Pence</a> BBC: Mike Pence issues his strongest rebuttal of Donald Trump's claim over the 2021 election result. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/kabul-airport-attack-report.html">Lone ISIS Bomber Carried Out Kabul Airport Attack, U.S. Says</a> NYT: The suicide bombing killed as many as 170 civilians and 13 U.S. troops in the final days of U.S. military involvement in Afghanistan. 
  <p class="updated_time"> 04:38 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/congo-attack-survivors.html">They Survived Guns and Machetes in Congo. They Want the World to Know.</a> NYT: After a brazen assault on a displaced persons camp that killed about 60 people, the most seriously wounded were airlifted to a hospital where a Times photographer recorded their accounts. 
- <p class="updated_time"> 04:34 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&at_campaign=KARANGA">Iceland whaling: Fisheries minister signals end from 2024</a> BBC: A fall in demand for Icelandic whale products means the controversial practice is no longer profitable. 
  <p class="updated_time"> 12:03 PM CT, Feb. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60047328?at_medium=RSS&at_campaign=KARANGA">Combat drones: We are in a new era of warfare - here's why</a> BBC: No longer the preserve of superpowers, drones are now in the hands of insurgents and smaller countries. 
  <p class="updated_time"> 12:01 PM CT, Feb. 04 </p> 
@@ -202,8 +206,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html">Food Prices Approach Record Highs, Threatening the World’s Poorest</a> NYT: The prices have climbed to their highest level since 2011, according to a U.N. index. It could cause social unrest “on a widespread scale,” one expert said. 
  <p class="updated_time"> 02:49 PM CT, Feb. 03 </p> 
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-turkey-russia-drones.html">Turkey, a Sometimes Wavering NATO Ally, Backs Ukraine</a> NYT: In a public rebuke of Russia, Turkey will expand supplies of one of the Ukrainian Army’s most sophisticated weapons, a long-range, Turkish-made armed drone. 
- <p class="updated_time"> 11:56 AM CT, Feb. 03 </p> 
- <a href="https://www.nytimes.com/2022/02/03/world/europe/sweden-announces-end-covid-restrictions.html">Sweden Announces an End to Covid Restrictions, Joining Other European Countries</a> NYT: Denmark, Norway and others have also been changing their approaches to the pandemic and scrapping many safety protocols. 
 
 
 </details>
@@ -211,6 +213,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:57 PM CT, Feb. 06 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 05:35 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/ottawa-declares-state-of-emergency-convoy-protests-00006053">Ottawa mayor: ‘Situation is completely out of control’</a> Politico: With trucks and protesters occupying streets around Parliament Hill, Jim Watson declared a state of emergency on Sunday. 
  <p class="updated_time"> 05:12 PM CT, Feb. 06 </p> 
@@ -227,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
- <p class="updated_time"> 12:08 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
@@ -261,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/05/russia-military-buildup-ukraine-00006020">Russia at 70 percent of Ukraine military buildup, U.S. officials say</a> Politico: American officials have said that a Russian invasion could overwhelm Ukraine’s military relatively quickly. 
  <p class="updated_time"> 05:56 PM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/joe-rogan-apologizes-racial-slurs-circulates-00006011">Joe Rogan apologizes after video of him using racial slurs circulates</a> Politico: The podcast host said he hoped the situation would "be a teachable moment." 
- <p class="updated_time"> 05:47 PM CT, Feb. 05 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/04/us/politics/arizona-republicans-rusty-bowers-voting-rights.html">Arizona Republicans Sought to Overturn Votes. Rusty Said No.</a> NYT: The speaker of the Republican-controlled Arizona House — who supported Donald J. Trump in 2020 — just torpedoed a bill that would have let lawmakers reject the results of an election. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
