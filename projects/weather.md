@@ -17,10 +17,10 @@ Current Weather:
 - scattered clouds
 - 82% humidity
 - 10 mph wind
-- 06:56 AM sunrise
-- 05:17 PM sunset
+- 06:56 PM sunrise
+- 05:17 AM sunset
 
-<p class="updated_time"> Latest data: 07:00 PM CT, February 06</p>
+<p class="updated_time"> Latest data: 07:03 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
