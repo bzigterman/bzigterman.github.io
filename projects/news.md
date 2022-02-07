@@ -15,7 +15,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:37 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Lata Mangeshkar's legacy goes beyond singing. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/07/1078732688/u-s-figure-skate-vincent-zhou-tests-positive-at-2022-olympics">U.S. figure skater Vincent Zhou tests positive for COVID-19 at the Winter Olympics</a> NPR: Zhou competed on Sunday in the team event as a substitute for three-time world champion Nathan Chen. He is supposed to compete again on Tuesday in the men's short program. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
