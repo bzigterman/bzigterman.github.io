@@ -56,10 +56,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60295310?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: ‘All we want is the right to choose’</a> BBC: Truckers wanted the vaccine mandate gone 10 days ago. Now they will stay until all mandates end. 
  <p class="updated_time"> 12:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
+ <p class="updated_time"> 12:34 PM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 12:23 PM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
  <p class="updated_time"> 12:00 PM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/u-s-agrees-to-lift-trump-era-tariffs-on-japanese-steel-11644271202">U.S. Agrees to Lift Trump-Era Tariffs on Japanese Steel</a> WSJ: The agreement removes a longstanding irritant in the bilateral relations between the two allies and follows a similar agreement with the European Union in October. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
@@ -83,7 +83,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/senegal-egypt-afcon.html">Africa Cup of Nations:  Soccer Tournament Offers Joy Amid Coups and Covid</a> NYT: Many countries competing in the Africa Cup of Nations are enduring security, economic and political crises, but the tournament has brought delight and solidarity. 
  <p class="updated_time"> 09:33 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Canada Trucker Protest: Ottawa Police Shift to Aggressive Gear</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
+ <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Ottawa Police Shift to Aggressive Gear in Canada Trucker Protest</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
  <p class="updated_time"> 09:06 AM CT, Feb. 07 </p> 
