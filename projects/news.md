@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:11 AM CT, Feb. 07 </p> 
+ <p class="updated_time"> 09:24 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60286436?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Senegal declares public holiday after historic win</a> BBC: Thousands of joyous fans pour onto the streets after Senegal wins its first ever Africa Cup of Nations. 
+ <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The mayor of Ottawa declared the emergency on Sunday after 10 days of unrest that began with protests over vaccine mandates. 
+ <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
  <p class="updated_time"> 09:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Canada trucker protest: Ottawa declares emergency</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 08:59 AM CT, Feb. 07 </p> 
@@ -35,16 +39,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
- <p class="updated_time"> 05:51 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60286436?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Senegal declares public holiday after historic win</a> BBC: Thousands of joyous fans pour onto the streets after Senegal wins its first ever Africa Cup of Nations. 
- <p class="updated_time"> 05:28 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort in the northern Rif mountains. 
  <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:34 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/peng-shuai-meets-with-international-olympic-officials-in-beijing-11644210086">Peng Shuai Returns to Spotlight at Beijing Olympics</a> WSJ: The tennis player who has been at the center of a global controversy in recent months met with the IOC president and gave an interview to a French newspaper. 
  <p class="updated_time"> 04:18 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078735278/beijing-olympics-fake-snow-ski-snowboard">No snow? No problem. How Beijing made the white stuff in time for the Olympics</a> NPR: The Beijing Games are just the latest winter sporting event to use nearly all human-made snow for competitions. Winter sports experts say this is just the new reality. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
@@ -79,8 +81,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60219714?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'It’s like they stuck a knife in our back'</a> BBC: Ukraine has been living with war for the past eight years, and people in Dnipro are dealing with past scars and the threat of more to come. 
- <p class="updated_time"> 06:01 PM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/peng-shuai-meets-with-international-olympic-officials-in-beijing-11644210086">Peng Shuai Meets With International Olympic Officials in Beijing</a> WSJ: Chinese tennis player Peng Shuai met with IOC President Thomas Bach in Beijing, in his first face-to-face meeting with the Chinese athlete since an allegation appeared on her Chinese social-media account saying a senior Chinese official had coerced her into having sex with him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 04:35 PM CT, Feb. 06 </p> 
@@ -203,7 +203,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift in-school mask mandate beginning March 7</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a childcare setting will not be required to mask up. 
+ <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: The spokesperson, Mahen Gunaratna, said that starting March 7, New Jersey students in grades K-12 and those in a childcare setting will not be required to mask up. 
  <p class="updated_time"> 09:15 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Is Off the Table, Jill Biden Says</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 08:09 AM CT, Feb. 07 </p> 
