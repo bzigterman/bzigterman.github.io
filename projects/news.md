@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 AM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 01:08 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60281088?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ottawa declares emergency over trucker Covid rules protests</a> BBC: The Canadian capital's mayor says the city is out of control, with more protesters than police. 
  <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
- <p class="updated_time"> 11:38 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star again denies sex assault in interview</a> BBC: The Chinese tennis star urges fans not to worry about her in new interview with Western media. 
  <p class="updated_time"> 11:37 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60284491?at_medium=RSS&at_campaign=KARANGA">Covid: Australia to reopen borders to international travel</a> BBC: Tourists and other visa holders can enter from 21 February for the first time in almost two years. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
