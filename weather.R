@@ -32,15 +32,30 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
   select(dt_txt,pop,temp) %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago"))
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(temp_class = cut(x = temp,
+                          breaks = c(-Inf,0,10,20,32,40,50,60,70,80,90,100,Inf),
+                          labels = c("Below 0","0–10","10–20","20–32",
+                                     "32–40","40–50","50–60","60–70",
+                                     "70–80","80–90","90–100","100+"),
+                          ordered_result = TRUE))
 
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
                aes(x = central_time,
                    y = temp,
-                   label = round(temp))) +
+                   label = round(temp),
+                   color = temp_class),) +
   geom_line(color = "grey93") +
-  geom_text() + 
+  geom_point() +
+  geom_text(color = "black",
+            nudge_y = 1) + 
+  scale_color_manual(values = c("magenta","purple","darkblue","blue",
+                                "turquoise","green","yellow","gold",
+                                "orange","orangered","red","darkred"),
+                     limits = c("Below 0","0–10","10–20","20–32",
+                                "32–40","40–50","50–60","60–70",
+                                "70–80","80–90","90–100","100+")) +
   scale_x_datetime(date_labels = "%a") +
   scale_y_continuous(position = "right",
                      labels = label_number(suffix = "°")) +
@@ -54,7 +69,7 @@ temp <- ggplot(champaign_forecast_tidy,
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
     #axis.text = element_blank(),
-    legend.position = "bottom",
+    legend.position = "none",
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
