@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60219714?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'It’s like they stuck a knife in our back'</a> BBC: Ukraine has been living with war for the past eight years, and people in Dnipro are dealing with past scars and the threat of more to come. 
+ <p class="updated_time"> 06:01 PM CT, Feb. 06 </p> 
+ <a href="https://www.wsj.com/articles/peng-shuai-meets-with-international-olympic-officials-in-beijing-11644210086">Peng Shuai Meets With International Olympic Officials in Beijing</a> WSJ: Chinese tennis player Peng Shuai met with IOC President Thomas Bach in Beijing, in his first face-to-face meeting with the Chinese athlete since an allegation appeared on her Chinese social-media account saying a senior Chinese official had coerced her into having sex with him. 
  <p class="updated_time"> 04:39 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 04:35 PM CT, Feb. 06 </p> 
@@ -104,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60278492?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: A look back at the life of India's nightingale</a> BBC: Singer Lata Mangeshkar's voice is the soundtrack to more than a thousand Bollywood films. 
  <p class="updated_time"> 02:00 AM CT, Feb. 06 </p> 
  <a href="https://www.wsj.com/articles/chinas-slowdown-to-limit-global-growth-but-not-undermine-world-economy-11644152401">China's Slowdown to Limit Global Growth but Not Undermine World Economy</a> WSJ: Lukewarm demand from China poses risks to commodity producers, but it could ease inflationary pressure and global growth is still expected to be higher than in the years leading up to the pandemic. 
- <p class="updated_time"> 01:50 AM CT, Feb. 06 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-says-she-wants-prince-charless-wife-to-become-queen-camilla-11644147221">Queen Elizabeth Says She Wants Prince Charles's Wife to Be Queen Camilla</a> WSJ: Britain’s longest-serving monarch resolved a question hanging over her succession, stating that Camilla, Duchess of Cornwall, should be referred to as queen once Prince Charles accedes the throne. 
  <p class="updated_time"> 01:26 AM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078578278/high-winds-delay-mens-downhill-ski-winter-olympics">High winds derail men's downhill ski final at the Winter Olympics</a> NPR: Referees postponed the men's downhill alpine ski event after officials decided high winds at the Yanqing course posed a safety risk. This comes after multiple days of practice cancellations. 
  <p class="updated_time"> 12:15 AM CT, Feb. 06 </p> 
@@ -113,7 +113,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:04 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60275177?at_medium=RSS&at_campaign=KARANGA">Rayan: Moroccan boy trapped in well for four days dies</a> BBC: An anxious wait for news of their five-year-old son, Rayan Oram, ends in grief for the parents. 
  <p class="updated_time"> 10:47 PM CT, Feb. 05 </p> 
- <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv's Ability to Resist Russia</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
+ <a href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852">U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv</a> WSJ: The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
