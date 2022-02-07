@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:22 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ottawa Declares a State of Emergency Amid Trucker Protests</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown Monday morning after the Ottawa mayor had declared the emergency. 
+ <p class="updated_time"> 03:34 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/canada-trucker-protest">Canada Live Updates: Ending Protest Requires More Police, Ottawa Chief Says</a> NYT: The protesters and their trucks remained entrenched in Ottawa’s downtown throughout Monday. 
+ <p class="updated_time"> 03:34 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Promises United Response to Russia</a> NYT: President Biden met with Olaf Scholz, the German chancellor. The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
+ <p class="updated_time"> 03:34 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French, German, US and Russian leaders meet in Moscow and Washington amid Ukraine invasion fears. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078929885/alpine-skiing-at-the-beijing-winter-olympics-is-off-to-an-unpredictable-start">Alpine skiing at the Beijing Winter Olympics is off to an unpredictable start</a> NPR: Two of the Olympic Games' most popular events were decided on the same day: the men's downhill and the women's giant slalom. High winds have led to postponements of several mountain events. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078929878/what-germany-france-and-britain-are-doing-to-deter-a-russian-invasion-of-ukraine">What Germany, France and Britain are doing to deter a Russian invasion of Ukraine</a> NPR: NPR correspondents in Berlin, Paris and London talk about escalating tensions between Russia and the West over Ukraine. 
  <p class="updated_time"> 03:21 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
- <p class="updated_time"> 03:20 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">Ukraine Live Updates: Biden Promises United Response to Russia</a> NYT: President Biden is meeting with Olaf Scholz, the German chancellor. The French president said he hoped to begin a de-escalation in Russia’s military buildup surrounding Ukraine. 
- <p class="updated_time"> 03:19 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 02:44 PM CT, Feb. 07 </p> 
@@ -26,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 02:14 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
- <p class="updated_time"> 01:37 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: World leaders step up talks amid invasion fears</a> BBC: French, German, US and Russian leaders meet in Moscow and Washington amid Ukraine invasion fears. 
  <p class="updated_time"> 01:23 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
@@ -145,10 +149,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
  <p class="updated_time"> 08:18 AM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60280833?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: India bids farewell to beloved singer</a> BBC: Large crowds in Mumbai, India, pay their respects after the legendary singer's death at the age of 92. 
- <p class="updated_time"> 08:11 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078634148/kyiv-bunkers-ukraine-attack">Bar, bookstore or bunker? Kyiv residents wonder where to shelter in case of war</a> NPR: An underground world in the Ukraine capital is made up of Soviet-era bomb shelters, bunkers and basements. A potential Russian attack threatens to put the bygone shelter system to the test. 
- <p class="updated_time"> 07:04 AM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078634092/politics-chat-russia-and-ukraine-have-an-outsized-impact-on-american-life">Politics chat: Russia and Ukraine have an outsized impact on American life</a> NPR: The Ukraine crisis could cast a shadow on good economic and pandemic developments for the Biden administration. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
@@ -208,14 +208,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/adams-food-police-vegan-fish-00006205">Adams, who extols a plant-based diet, says ‘I'm perfectly imperfect’ when asked if he eats fish</a> Politico: “Those who have questions on what I am eating, I’m over 18 and I know how to take care of myself,” he said. 
  <p class="updated_time"> 03:43 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/adams-defends-ties-to-close-friend-with-checkered-past-00006248">Adams defends ties to close friend with checkered past</a> Politico: The mayor said Zhan “Johnny” Petrosyants's checkered past is no reason for him not to associate with the restaurateur. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1078929878/what-germany-france-and-britain-are-doing-to-deter-a-russian-invasion-of-ukraine">What Germany, France and Britain are doing to deter a Russian invasion of Ukraine</a> NPR: NPR correspondents in Berlin, Paris and London talk about escalating tensions between Russia and the West over Ukraine. 
  <p class="updated_time"> 03:23 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078920769/bomb-threats-against-black-institutions-are-deeply-rooted-in-u-s-history">Bomb threats against Black institutions are deeply rooted in U.S. history</a> NPR: "HBCUs are resilient institutions that will persist through all forms of adversity," the Congressional Bipartisan HBCU Caucus said after bomb threats earlier this month. statement said. 
- <p class="updated_time"> 03:19 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: The two leaders met amid U.S. concerns that Germany has not been a forceful enough partner in addressing tensions between Russia and Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Step Down from Meta’s Board</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
+ <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
@@ -253,9 +257,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
@@ -282,8 +286,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/06/1078689597/what-a-civil-war-era-provision-could-mean-for-candidates-accused-of-inciting-vio">What a Civil War-era provision could mean for candidates accused of inciting violence</a> NPR: North Carolina voters are challenging Rep. Madison Cawthorn's reelection eligibility. NPR's Michel Martin discusses why with Indiana University law professor Gerard Magliocca. 
  <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
- <p class="updated_time"> 03:16 PM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/netanyahu-spyware-trial-israel-00006050">Netanyahu trial roiled by reports of spyware use on key witness</a> Politico: “This is an earthquake that would justify a governmental commission of inquiry,” one Cabinet minister said. 
  <p class="updated_time"> 12:24 PM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/trump-snake-oil-marc-short-00006045">Trump was advised by 'snake oil salesmen,' former Pence chief of staff says</a> Politico: “I think unfortunately the president had many bad advisers," Marc Short said. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
@@ -338,8 +340,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/trump-trudeau-ottawa-protests-00005944">Trump calls Trudeau “far left lunatic” as siege continues in Ottawa</a> Politico: Police and downtown residents brace for a second weekend of protests. 
  <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
- <p class="updated_time"> 03:52 PM CT, Feb. 04 </p> 
- <a href="https://www.npr.org/2022/02/04/1078358133/rnc-censures-cheney-and-kinzinger-for-their-participation-in-jan-6-investigation">RNC censures Cheney and Kinzinger for their participation in Jan. 6 investigation</a> NPR: The Republican National Committee censured Liz Cheney and Adam Kinzinger, and in the censure document labeled the Jan. 6 attack on the Capitol "legitimate political discourse." 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
