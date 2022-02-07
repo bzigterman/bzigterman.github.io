@@ -1157,11 +1157,11 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">723.0K</td>
-<td class="gt_row gt_right">313.0K</td>
-<td class="gt_row gt_right">&minus;57&percnt;</td></tr>
+<td class="gt_row gt_right">707.0K</td>
+<td class="gt_row gt_right">292.0K</td>
+<td class="gt_row gt_right">&minus;59&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">146.0K</td>
+<td class="gt_row gt_right gt_striped">145.0K</td>
 <td class="gt_row gt_right gt_striped">108.0K</td>
 <td class="gt_row gt_right gt_striped">&minus;26&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
@@ -1169,9 +1169,9 @@ html {
 <td class="gt_row gt_right">2.5K</td>
 <td class="gt_row gt_right">+17&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">781.0K</td>
+<td class="gt_row gt_right gt_striped">772.0K</td>
 <td class="gt_row gt_right gt_striped">307.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;61&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;60&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">210.0M</td>
 <td class="gt_row gt_right">212.0M</td>
@@ -1183,7 +1183,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1553,27 +1553,27 @@ html {
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">3.3M</td>
 <td class="gt_row gt_right">2.8M</td>
-<td class="gt_row gt_right">&minus;14&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;17&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
-<td class="gt_row gt_right gt_striped">7.9K</td>
-<td class="gt_row gt_right gt_striped">10.6K</td>
-<td class="gt_row gt_right gt_striped">+34&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">8.0K</td>
+<td class="gt_row gt_right gt_striped">10.4K</td>
+<td class="gt_row gt_right gt_striped">+30&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">30.5M</td>
+<td class="gt_row gt_right">30.8M</td>
 <td class="gt_row gt_right">18.2M</td>
-<td class="gt_row gt_right">&minus;40&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;41&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.0B</td>
 <td class="gt_row gt_right gt_striped">4.2B</td>
 <td class="gt_row gt_right gt_striped">+4&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right">51.0</td>
+<td class="gt_row gt_right">51.1</td>
 <td class="gt_row gt_right">53.3</td>
-<td class="gt_row gt_right">+5&percnt;</td></tr>
+<td class="gt_row gt_right">+4&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1582,12 +1582,12 @@ html {
 
 ## Case Acceleration
 
-As of Saturday, the 14-day percent change in average new cases was:
+As of Sunday, the 14-day percent change in average new cases was:
   
 - -61% in Champaign County
 - -67% in Illinois
-- -57% in the United States
-- -14% worldwide
+- -59% in the United States
+- -17% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -1595,11 +1595,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Saturday, the 14-day percent change in average new deaths was:
+As of Sunday, the 14-day percent change in average new deaths was:
   
 - -18% in Illinois
 - 17% in the United States
-- 34% worldwide
+- 31% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
