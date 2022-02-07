@@ -5,11 +5,11 @@ permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
-## Champaign
-
-<p class="updated_time"> Latest data: 06:22 PM CT, February 06</p>
+## Champaign Forecast
 
 ![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+
+<p class="updated_time"> Latest data: 06:37 PM CT, February 06</p>
 
 ## Severe Thunderstorm Outlook
 
