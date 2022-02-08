@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 10:43 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60297732?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says crucial days ahead after Putin summit</a> BBC: Russia's Vladimir Putin indicates some progress was made during talks with the French leader. 
  <p class="updated_time"> 08:51 PM CT, Feb. 07 </p> 
@@ -38,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
  <p class="updated_time"> 05:13 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
- <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:40 PM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
@@ -212,6 +212,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 10:25 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:55 PM CT, Feb. 07 </p> 
@@ -246,8 +248,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 05:51 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives">15 boxes of White House records have been recovered at Trump's Mar-a-Lago</a> NPR: The 15 boxes of records discovered at Mar-a-Lago should have been transferred to officials from the White House at the end of the Trump administration, officials say. 
- <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:55 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/national-achieves-trump-record-recovery-00006382">Archives agency confirms recovery of Trump records</a> Politico: More than a dozen boxes of documents were retrieved from the former president's Mar-a-Lago property. 
  <p class="updated_time"> 04:52 PM CT, Feb. 07 </p> 
@@ -335,7 +335,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
