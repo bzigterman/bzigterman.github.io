@@ -8,6 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:26 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
+ <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
+ <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
+ <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/08/1078456695/river-radamus-wild-hair-2022-olympics">U.S. Olympic skier River Radamus debuts a wild look in Beijing</a> NPR: Radamus, an alpine skier, is competing in Beijing for the U.S. during Tuesday's men's super-G race. His crazy hair is a standout. 
  <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 10:43 PM CT, Feb. 07 </p> 
@@ -18,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
- <p class="updated_time"> 08:01 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
@@ -121,8 +127,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
- <p class="updated_time"> 04:59 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60285068?at_medium=RSS&at_campaign=KARANGA">China's Tencent restores Fight Club ending after backlash</a> BBC: In a rare reversal, Chinese streaming giant Tencent undid massive cuts it had made to the original. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:40 AM CT, Feb. 07 </p> 
@@ -143,8 +147,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078732688/vincent-zhou-winter-olympics-positive-covid-test">U.S. skater Vincent Zhou drops out of Olympics after his 2nd COVID test is positive</a> NPR: "The enormity of the situation ... the pain of it all, is pretty insane," Zhou said in an emotional video posted to Instagram. A silver medalist in the team event, he was to compete again on Tuesday. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
- <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
@@ -189,8 +191,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
- <p class="updated_time"> 07:31 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
@@ -203,8 +203,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/03/world/europe/ukraine-american-missile-demonstration.html">Ukraine Shows Off New U.S. Weaponry, in a Signal to Russia </a> NYT: As the United States and others step up military aid to Ukraine, the deliveries are more overt, and Ukraine is staging public weapons demonstrations for the media. 
  <p class="updated_time"> 11:21 AM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/cdc-wastewater-covid.html">The C.D.C. Adds Wastewater Data to Its Covid-19 Tracker</a> NYT: Analyzing wastewater can help officials estimate how prevalent the virus is in a community and which variants are circulating. 
- <p class="updated_time"> 10:42 AM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/asia/india-omicron-decline.html">India's Latest Covid Surge May Be Declining, Officials Say</a> NYT: “We are seeing the pandemic situation has improved,” said Dr. V.K. Paul, the head of India’s Covid task force. 
 
 
 </details>
@@ -212,6 +210,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court Restores Alabama Voting Map That a Court Said Hurt Black Voters</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
+ <p class="updated_time"> 11:02 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 10:25 PM CT, Feb. 07 </p> 
@@ -228,8 +230,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 07:15 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/banker-calk-prison-manafort-00006475">Banker sentenced to year in prison in Manafort loan scheme</a> Politico: Stephen Calk was convicted last year on financial institution bribery and conspiracy charges. 
- <p class="updated_time"> 07:03 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 06:53 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
@@ -242,8 +242,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/california-coronavirus-masks-restrictions-00006361">California to ease Covid rules in path to 'endemic' strategy</a> Politico: Indoor masking and other restrictions will return to pre-Omicron status. 
  <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
- <p class="updated_time"> 06:00 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 05:51 PM CT, Feb. 07 </p> 
@@ -260,8 +258,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri">Supreme Court lets Alabama use GOP-backed map of the state's congressional districts</a> NPR: The court's action came on an emergency appeal from Alabama, which challenged a decision by a three-judge federal court panel that included two Trump appointees. 
  <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
- <p class="updated_time"> 04:10 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/adams-food-police-vegan-fish-00006205">Adams, who extols a plant-based diet, says ‘I'm perfectly imperfect’ when asked if he eats fish</a> Politico: “Those who have questions on what I am eating, I’m over 18 and I know how to take care of myself,” he said. 
  <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">IRS to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
  <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
@@ -335,7 +331,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
@@ -350,6 +346,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/colleague-times-editor-crestfallen-over-editorial-that-prompted-sarah-palin-suit-00005978">Times editor ‘crestfallen’ over editorial that prompted Sarah Palin suit, colleague testifies</a> Politico: NYT's Elizabeth Williamson tells Manhattan jury about errors in shooting-related editorial 
+ <p class="updated_time"> 05:27 PM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/former-clerk-rewrites-supreme-court-wikipedia-bios-00005914">Former clerk rewrites SCOTUS contenders’ Wikipedia bios</a> Politico: A former clerk for Judge Ketanji Brown Jackson spent the last week amping up his former boss's Wikipedia page while trying to plant seeds of skepticism about other high court hopefuls. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
