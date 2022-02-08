@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk for catching COVID-19 within the bubble at 2022 Winter Olympics in Beijing is far less than outside. 
+ <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
  <p class="updated_time"> 05:12 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60300163?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Trudeau demands an end to trucker protest</a> BBC: The PM says Canadians are "shocked and disgusted" by the behaviour of some of the protesters in Ottawa. 
  <p class="updated_time"> 05:00 AM CT, Feb. 08 </p> 
@@ -40,6 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
+ <p class="updated_time"> 12:28 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians, but Not Peace Talks</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
- <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 06:43 PM CT, Feb. 07 </p> 
@@ -202,6 +204,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
+ <p class="updated_time"> 06:17 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079112768/biden-is-promising-crippling-sanctions-on-russia-if-it-invades-ukraine">Biden is promising crippling sanctions on Russia if it invades Ukraine</a> NPR: What exactly would those sanctions look like? NPR's Leila Fadel talks to Daleep Singh, deputy national security adviser for international economics, about what the U.S. can do. 
  <p class="updated_time"> 05:30 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/08/1078035048/price-controls-black-markets-and-skimpflation-the-wwii-battle-against-inflation">Price Controls, Black Markets, And Skimpflation: The WWII Battle Against Inflation</a> NPR: To control inflation during WWII, the U.S. government resorted to wide-ranging price controls. Their unintended consequences might explain why today's policymakers are reluctant to try it again. 
  <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
@@ -222,6 +226,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079112859/biden-will-lean-into-his-long-tenure-as-a-senator-to-fill-supreme-court-vacancy">Biden will lean into his long tenure as a senator to fill Supreme Court vacancy </a> NPR: President Biden said he's been told that voters don't want him to be the "President Senator." But in filling a vacancy on the Supreme Court, he's going out of his way to court old colleagues. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079112803/fla-bill-bans-businesses-and-schools-from-making-anyone-feel-guilt-about-race">Fla. bill bans businesses and schools from making anyone feel guilt about race</a> NPR: Under a bill proposed by Florida's governor, schools and businesses would be banned from teaching courses and offering training that cause white people to feel "discomfort" on account of their race. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079112754/morning-news-brief">News brief: Macron-Putin talks, Alabama voting map, opioid crisis deaths</a> NPR: Diplomatic talks continue in the Ukraine-Russia standoff. Another Supreme Court ruling deals a blow to the Voting Rights Act. Drug overdose deaths in America have hit record highs. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
@@ -284,8 +290,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078929913/north-carolinas-supreme-court-has-rejected-a-congressional-map-that-favored-gop">North Carolina's Supreme Court has rejected a congressional map that favored GOP</a> NPR: North Carolina Democrats have won a battle over the fairness of the state's congressional and state legislative maps. The state Supreme Court threw out maps that give the GOP the advantage. 
  <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929878/what-germany-france-and-britain-are-doing-to-deter-a-russian-invasion-of-ukraine">What Germany, France and Britain are doing to deter a Russian invasion of Ukraine</a> NPR: NPR correspondents in Berlin, Paris and London talk about escalating tensions between Russia and the West over Ukraine. 
- <p class="updated_time"> 03:23 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078920769/bomb-threats-against-black-institutions-are-deeply-rooted-in-u-s-history">Bomb threats against Black institutions are deeply rooted in U.S. history</a> NPR: "HBCUs are resilient institutions that will persist through all forms of adversity," the Congressional Bipartisan HBCU Caucus said after bomb threats earlier this month. statement said. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
@@ -298,8 +302,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/youngkin-twitter-regret-student-00006188">Youngkin tweets 'regret' for campaign's criticism of high school student</a> Politico: The Virginia governor said a tweet deriding a 17-year-old from his campaign account was “unauthorized.” 
- <p class="updated_time"> 11:27 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078861392/ottawa-protest-state-of-emergency">Ottawa declares a state of emergency over truckers' growing anti-government protests</a> NPR: The mayor called the situation "the most serious emergency our city has ever faced." Police are ramping up enforcement as the standoff continues. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/fdic-chairman-mcwilliams-gruenberg.html">A Democrat Takes Over the F.D.I.C. After a Partisan Clash</a> NYT: Martin J. Gruenberg replaced Jelena McWilliams, a Trump appointee who stepped down after a conflict with Mr. Gruenberg and two other Democratic members on the board. 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
@@ -396,8 +398,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
  <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:11 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
 
 
 </details>
