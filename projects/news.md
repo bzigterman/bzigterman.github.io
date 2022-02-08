@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
+ <p class="updated_time"> 03:11 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: 22 arrests made</a> BBC: Ottawa police have warned of 'determined' and 'volatile' protests amid an all-out effort to remove them 
  <p class="updated_time"> 02:55 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 02:53 PM CT, Feb. 08 </p> 
@@ -17,7 +21,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Patience running thin among local people</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 02:16 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Democratic leaders in New Jersey, California, Connecticut, Delaware and Oregon said they would end some mask mandates, citing a drop in infections. 
  <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
- <p class="updated_time"> 01:32 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's prime minister has accused protesters of attempting to blockade the country's economy. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
  <p class="updated_time"> 12:44 PM CT, Feb. 08 </p> 
@@ -156,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078929982/a-look-at-the-debate-over-nato-expansion-eastward-thats-at-the-heart-of-conflict">A look at the debate over NATO expansion eastward that's at the heart of conflict now</a> NPR: Whether NATO should expand to include countries once under Soviet influence — including Ukraine — is a question that has dogged U.S. and Russian officials for 30 years. 
  <p class="updated_time"> 04:16 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078930020/canada-trucker-protest-over-vaccine-mandate-continues">Canada trucker protest over vaccine mandate continues</a> NPR: In Ottawa, hundreds of large trucks and other vehicles have blocked streets in central districts of the Canadian city. The protest of vaccine rules is in its second week with no sign of a resolution. 
- <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
@@ -189,8 +189,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
- <p class="updated_time"> 04:39 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
@@ -208,8 +206,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/doug-emhoff-washington-security-concern-00006858">Emhoff whisked out of event following security concern</a> Politico: Second gentleman Doug Emhoff was whisked out of an event Tuesday at a Washington high school following an apparent security concern. 
- <p class="updated_time"> 02:43 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Blasts R.N.C. Resolution, Calling Jan. 6 ‘Violent Insurrection’</a> NYT: Senator Mitch McConnell, the Republican leader, led a chorus of Republicans distancing themselves from a Republican National Committee censure of Liz Cheney and Adam Kinzinger. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300217/with-midterms-looming-voters-dont-feel-good-about-bidens-handling-of-the-economy">With midterms looming, voters don't feel good about Biden's handling of the economy</a> NPR: The economy looks good on paper but it doesn't feel good to voters. And that's a problem for President Biden and his party going into the midterms. We explore the disconnect with help from economists. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300196/scientist-says-state-governments-are-lifting-mask-mandates-prematurely">Scientist says state governments are lifting mask mandates prematurely</a> NPR: NPR's Adrian Florido talks with Mercedes Carnethon, vice chair of the Department of Preventive Medicine at Northwestern University, on whether local governments lifting mask mandates is science-based. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
+ <p class="updated_time"> 03:08 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Resolution Censuring Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
+ <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
@@ -272,8 +278,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079112803/fla-bill-bans-businesses-and-schools-from-making-anyone-feel-guilt-about-race">Fla. bill bans businesses and schools from making anyone feel guilt about race</a> NPR: Under a bill proposed by Florida's governor, schools and businesses would be banned from teaching courses and offering training that cause white people to feel "discomfort" on account of their race. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079112754/morning-news-brief">News brief: Macron-Putin talks, Alabama voting map, opioid crisis deaths</a> NPR: Diplomatic talks continue in the Ukraine-Russia standoff. Another Supreme Court ruling deals a blow to the Voting Rights Act. Drug overdose deaths in America have hit record highs. 
- <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
@@ -314,14 +318,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
  <p class="updated_time"> 04:43 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
- <p class="updated_time"> 04:31 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri">Supreme Court lets Alabama use GOP-backed map of the state's congressional districts</a> NPR: The court's action came on an emergency appeal from Alabama, which challenged a decision by a three-judge federal court panel that included two Trump appointees. 
- <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
  <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">IRS to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
- <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078929989/new-jersey-school-mask-mandates-are-set-to-end-in-2nd-week-of-march">New Jersey school mask mandates are set to end in 2nd week of March</a> NPR: New Jersey's governor is calling for a return to "normal" as the state's COVID cases start to fall. As of the second week of March, students and school staff will no longer be required to wear masks. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
