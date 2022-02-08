@@ -70,7 +70,7 @@ temp <- ggplot(champaign_forecast_tidy,
                    label = weather_unicode,
                    color = temp_class),) +
   geom_line(color = "grey93") +
-  geom_point(size = .5) +
+  #geom_point(size = .5) +
   geom_text(#color = "black",
             family = "EmojiOne",
             #nudge_y = -.25,
