@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
+ <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
+ <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
+ <p class="updated_time"> 08:01 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
- <p class="updated_time"> 07:19 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ceaseless horn blaring frays nerves in Canada's capital</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
- <p class="updated_time"> 06:48 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 06:43 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60296862?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Canada truckers protest</a> BBC: The BBC's Ros Atkins explains why truck drivers protesting against a vaccine mandate are blocking roads in Ottawa. 
- <p class="updated_time"> 06:26 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
  <p class="updated_time"> 06:19 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-38916161?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh assembly elections 2022: The Indian polls everyone is watching</a> BBC: With a population larger than Brazil, Uttar Pradesh state will soon start its seven-phased polls. 
  <p class="updated_time"> 06:18 PM CT, Feb. 07 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
- <p class="updated_time"> 04:48 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 04:37 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 will end if Russia invades - Biden</a> BBC: US President Joe Biden vows to shut down a key Russian pipeline to Germany if Russia invades Ukraine. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
@@ -60,6 +60,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 02:50 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
+ <p class="updated_time"> 02:47 PM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-s-agrees-to-lift-trump-era-tariffs-on-japanese-steel-11644271202">U.S. Agrees to Lift Trump-Era Tariffs on Japanese Steel</a> WSJ: The agreement removes a longstanding irritant in the bilateral relations between the two allies and follows a similar agreement with the European Union in October. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 02:14 PM CT, Feb. 07 </p> 
@@ -78,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 12:00 PM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/u-s-agrees-to-lift-trump-era-tariffs-on-japanese-steel-11644271202">U.S. Agrees to Lift Trump-Era Tariffs on Japanese Steel</a> WSJ: The agreement removes a longstanding irritant in the bilateral relations between the two allies and follows a similar agreement with the European Union in October. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
  <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
@@ -212,6 +212,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
+ <p class="updated_time"> 08:42 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/eric-lander-resigns-white-house.html">Biden’s Top Science Adviser Resigns After Acknowledging Demeaning Behavior</a> NYT: The adviser, Eric S. Lander, had apologized for his workplace conduct. The president had pledged to immediately fire any official who acted that way toward colleagues. 
+ <p class="updated_time"> 08:31 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/07/1079028828/top-white-house-science-adviser-announces-resignation-after-reports-of-bullying">Top White House science adviser announces resignation after reports of bullying</a> NPR: Eric Lander tendered his letter of resignation hours after a Politico article reported that the White House had found that he bullied and demeaned his subordinates. 
+ <p class="updated_time"> 07:52 PM CT, Feb. 07 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 07:15 PM CT, Feb. 07 </p> 
@@ -271,13 +279,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/white-house-science-adviser-workplace-behavior-00006247">White House sticks by science adviser despite inappropriate workplace behavior</a> Politico: POLITICO reported Monday on OSTP director Eric Lander's treatment of staff. 
- <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Won't Be in Spending Bill, Jill Biden to Say</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
- <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/biden-ukraine-russia-war.html">All Options Are Not on the Table as Biden Moves Troops Closer to Ukraine</a> NYT: The president’s opposition to sending U.S. troops into Ukraine reflects the mood of a war-wary Washington, as well as concerns about Russia’s nuclear arsenal. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
@@ -288,8 +292,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/1960-electoral-college-certificates-false-trump-electors-00006186">See the 1960 Electoral College certificates that the false Trump electors say justify their gambit</a> Politico: Their explanation relied heavily on the 1960 election between John F. Kennedy and Richard Nixon, who was vice president at the time. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/fdic-chairman-mcwilliams-gruenberg.html">A Democrat Takes Over the F.D.I.C. After a Partisan Clash</a> NYT: Martin J. Gruenberg replaced Jelena McWilliams, a Trump appointee who stepped down after a conflict with Mr. Gruenberg and two other Democratic members on the board. 
- <p class="updated_time"> 09:48 AM CT, Feb. 07 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/new-jersey-to-lift-in-school-mask-mandate-beginning-march-7-00006136">New Jersey to lift school mask mandate</a> Politico: Gov. Phil Murphy announced Monday that the mandate would be lifted starting March 7. 
  <p class="updated_time"> 07:36 AM CT, Feb. 07 </p> 
@@ -322,8 +324,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078689611/canadian-officials-weigh-how-they-can-respond-to-the-truck-protests">Canadian officials weigh how they can respond to the truck protests</a> NPR: Huge protests involving trucks and other large vehicles have been disrupting life in Ottawa and other Canadian cities. The protesters are calling for an end to COVID-19 public health mandates. 
- <p class="updated_time"> 04:04 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/06/1078689597/what-a-civil-war-era-provision-could-mean-for-candidates-accused-of-inciting-vio">What a Civil War-era provision could mean for candidates accused of inciting violence</a> NPR: North Carolina voters are challenging Rep. Madison Cawthorn's reelection eligibility. NPR's Michel Martin discusses why with Indiana University law professor Gerard Magliocca. 
  <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act ‘Absolutely’ Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
@@ -412,8 +412,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
  <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
- <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
- <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
 
 
 </details>
