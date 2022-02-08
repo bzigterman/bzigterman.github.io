@@ -1568,7 +1568,7 @@ html {
 <td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">52.2</td>
-<td class="gt_row gt_right">53.4</td>
+<td class="gt_row gt_right">53.5</td>
 <td class="gt_row gt_right">+2&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
