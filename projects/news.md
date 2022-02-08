@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Democratic leaders in New Jersey, California, Connecticut, Delaware and Oregon said they would end some mask mandates, citing a drop in infections. 
  <p class="updated_time"> 04:25 PM CT, Feb. 08 </p> 
@@ -64,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal contenders were disqualified from competing. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
@@ -72,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298544?at_medium=RSS&at_campaign=KARANGA">Zhu Yi: US-born Chinese Olympic figure skater slated in China after falls</a> BBC: Zhu Yi fell during her team event sparking backlash from some social media users in China. 
  <p class="updated_time"> 10:37 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60146616?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: The Power of the Dog leads nominations</a> BBC: Belfast, Dune and West Side Story will also be in the running at the Academy Awards. 
- <p class="updated_time"> 10:34 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 10:30 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
  <p class="updated_time"> 09:55 AM CT, Feb. 08 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
  <p class="updated_time"> 05:19 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/calls-to-boycott-hyundai-rise-in-india-after-social-media-post-about-pakistan-11644331762">Calls to Boycott Hyundai Rise in India After Kashmir Comment</a> WSJ: New Delhi summoned South Korea’s ambassador after a social-media post on Kashmir by an independent Hyundai distributor triggered an online backlash. 
- <p class="updated_time"> 05:00 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:57 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948">Ukraine's Zelensky Wants to Fend Off Russia---and America, Too</a> WSJ: The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington. 
  <p class="updated_time"> 04:38 AM CT, Feb. 08 </p> 
@@ -212,8 +212,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
+ <p class="updated_time"> 04:50 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Resolution Censuring Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
+ <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the second gentleman, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
+ <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 04:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/pandemic-to-endemic-omicrons-retreat-brings-shift-in-states-strategy-00006670">Mask mandates, contact tracing are going away, as states shift to new phase</a> Politico: These actions come as President Joe Biden and his top health officials have begun intimating a “new normal” is on the horizon. 
  <p class="updated_time"> 04:35 PM CT, Feb. 08 </p> 
@@ -226,8 +234,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300253/bidens-top-science-adviser-resigned-following-complaints-about-his-work-behavior">Biden's top science adviser resigned following complaints about his work behavior</a> NPR: President Biden said he would fire anyone who was a jerk at work. But that's not what happened when his science adviser Eric Lander was found to have created a toxic workplace. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
- <p class="updated_time"> 03:53 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the second gentleman, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
  <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
@@ -238,8 +244,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300196/scientist-says-state-governments-are-lifting-mask-mandates-prematurely">Scientist says state governments are lifting mask mandates prematurely</a> NPR: NPR's Adrian Florido talks with Mercedes Carnethon, vice chair of the Department of Preventive Medicine at Northwestern University, on whether local governments lifting mask mandates is science-based. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
- <p class="updated_time"> 03:08 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Resolution Censuring Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
@@ -338,8 +342,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
- <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans Step Up Attacks on Fauci to Woo Trump Voters</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
