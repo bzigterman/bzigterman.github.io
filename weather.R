@@ -2,6 +2,7 @@ library(tidyverse)
 library(owmr)
 library(lubridate)
 library(scales)
+library(emojifont)
 library(cowplot)
 
 owmr_settings(Sys.getenv("OWM_API_KEY"))
@@ -29,7 +30,7 @@ champaign_sunset <- strftime(force_tz(
 
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast_tibble %>%
-  select(dt_txt,pop,temp) %>%
+  select(dt_txt,pop,temp,weather_icon) %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
@@ -38,18 +39,45 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
                           labels = c("Below 0","0–10","10–20","20–32",
                                      "32–40","40–50","50–60","60–70",
                                      "70–80","80–90","90–100","100+"),
-                          ordered_result = TRUE))
+                          ordered_result = TRUE)) %>%
+  mutate(weather_unicode = case_when(
+    weather_icon == "01d" ~ "☀",
+    weather_icon == "01n" ~ "🌕",
+    weather_icon == "02d" ~ "🌤",
+    weather_icon == "02n" ~ "☁",
+    weather_icon == "03d" ~ "☁",
+    weather_icon == "03n" ~ "☁",
+    weather_icon == "04d" ~ "🌥",
+    weather_icon == "04n" ~ "☁",
+    weather_icon == "09d" ~ "🌧",
+    weather_icon == "09n" ~ "🌧",
+    weather_icon == "10d" ~ "🌦",
+    weather_icon == "10n" ~ "🌧",
+    weather_icon == "11d" ~ "🌩",
+    weather_icon == "11n" ~ "🌩",
+    weather_icon == "13d" ~ "❄",
+    weather_icon == "13n" ~ "❄",
+    weather_icon == "50d" ~ "🌫",
+    weather_icon == "50n" ~ "🌫",
+    TRUE ~ weather_icon
+  )
+  )
 
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
                aes(x = central_time,
                    y = temp,
-                   label = round(temp),
+                   label = weather_unicode,
                    color = temp_class),) +
   geom_line(color = "grey93") +
-  geom_point() +
+  #geom_point() +
   geom_text(color = "black",
-            nudge_y = 1.1) + 
+            family = "EmojiOne",
+            nudge_y = -.25,
+            size = 5) + 
+  geom_text(aes(label = round(temp)),
+            color = "black",
+            nudge_y = 1) +
   scale_color_manual(values = c("magenta","purple","darkblue","blue",
                                 "turquoise","green","yellow","gold",
                                 "orange","orangered","red","darkred"),
@@ -90,7 +118,7 @@ precip <- ggplot(champaign_forecast_tidy,
        caption = "Source: OpenWeather") +
   theme(
     legend.title = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
+    panel.grid.major.y = element_line(colour = "grey97"),
     plot.title = element_text(hjust = 1),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
