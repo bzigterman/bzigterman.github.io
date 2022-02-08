@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Feb. 08 </p> 
+ <p class="updated_time"> 08:25 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
+ <p class="updated_time"> 08:24 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
+ <p class="updated_time"> 08:19 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
+ <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 07:49 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 07:48 AM CT, Feb. 08 </p> 
@@ -18,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:28 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
- <p class="updated_time"> 07:16 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 07:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 06:53 AM CT, Feb. 08 </p> 
@@ -54,6 +58,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079067453/chinese-fans-at-winter-olympics">Some lucky, local Chinese fans made it into the stands for the 2022 Winter Olympics</a> NPR: Beijing Olympic officials said the COVID-19 situation within the closed-loop bubble of the Games is tightly managed now. They may add more spectators to venues as the competitions continue. 
  <p class="updated_time"> 02:33 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
+ <p class="updated_time"> 02:21 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-expands-vaccine-mandate-amid-record-covid-19-outbreak-11644326507">Hong Kong Expands Vaccine Mandate Amid Record Covid-19 Outbreak</a> WSJ: New restrictions expand a vaccine mandate due to be implemented Feb. 24 that already covered venues like restaurants and gyms. 
  <p class="updated_time"> 02:12 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
@@ -67,7 +73,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-sparkles-in-mens-single-event-at-beijing-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics and setting him up to win gold after Thursday's free skate. 
+ <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-short-program-winter-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics and setting him up to win gold after Thursday's free skate. 
  <p class="updated_time"> 11:30 PM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200">Putin Says the West Is Goading Russia Into War---and Many Russians Agree</a> WSJ: State propaganda is driving home Russian President Vladimir Putin’s explanation of why he has massed troops near Ukraine. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
@@ -98,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
- <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929982/a-look-at-the-debate-over-nato-expansion-eastward-thats-at-the-heart-of-conflict">A look at the debate over NATO expansion eastward that's at the heart of conflict now</a> NPR: Whether NATO should expand to include countries once under Soviet influence — including Ukraine — is a question that has dogged U.S. and Russian officials for 30 years. 
  <p class="updated_time"> 04:16 PM CT, Feb. 07 </p> 
@@ -193,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
+ <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
 
 
 </details>
@@ -217,11 +223,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/latino-group-dems-not-write-off-florida-00006523">Key Latino group urges Dems not to write off Florida</a> Politico: In an effort to keep attention on the state, Latino Victory Fund is endorsing in two Democratic primaries. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/adams-police-surveillance-technology-00006230">Adams eyes expansion of highly controversial police surveillance technology </a> Politico: The Democratic mayor’s bullishness and the resources at his fingertips stand to put New York at the forefront of an evolving national debate over safety, privacy and the racial and gender biases tied to the controversial software. 
- <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
