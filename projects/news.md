@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Europeans Pursue Diplomacy Amid Mixed Signals on Russian Aims in Ukraine</a> NYT: President Emmanuel Macron of France said time was needed to solve the crisis, as the Kremlin refuted reports that he and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:31 PM CT, Feb. 08 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
- <p class="updated_time"> 04:07 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
@@ -216,6 +216,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
+ <p class="updated_time"> 04:52 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 04:50 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Resolution Censuring Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
@@ -224,10 +226,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 04:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/pandemic-to-endemic-omicrons-retreat-brings-shift-in-states-strategy-00006670">Mask mandates, contact tracing are going away, as states shift to new phase</a> Politico: These actions come as President Joe Biden and his top health officials have begun intimating a “new normal” is on the horizon. 
- <p class="updated_time"> 04:35 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 04:32 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/health/covid-masks-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
+ <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 04:06 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/trudeau-lightbound-covid-restrictions-convoy-00006774">Trudeau's own party is starting to turn on him over Covid restrictions</a> Politico: Liberal MP Joël Lightbound: 'A decision was made to wedge, to divide and to stigmatize.' 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
@@ -370,8 +370,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
- <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
