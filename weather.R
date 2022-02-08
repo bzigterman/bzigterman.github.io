@@ -73,11 +73,11 @@ temp <- ggplot(champaign_forecast_tidy,
   #geom_point(size = .5) +
   geom_text(#color = "black",
             family = "EmojiOne",
-            #nudge_y = -.25,
+            nudge_y = .25,
             size = 5) + 
   geom_text(aes(label = round(temp)),
             color = "black",
-            nudge_y = 1.35) +
+            nudge_y = 1.6) +
   scale_color_manual(values = c("magenta","purple","darkblue","blue",
                                 "turquoise","green","yellow","gold",
                                 "orange","orangered","red","darkred"),
