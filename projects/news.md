@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 11:06 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
+ <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60303081?at_medium=RSS&at_campaign=KARANGA">Korea: High-profile suicides spark cyber-bullying petition</a> BBC: Two well-known figures in Korea died this week after being targeted on social media. 
+ <p class="updated_time"> 10:58 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
+ <p class="updated_time"> 10:54 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 10:49 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
- <p class="updated_time"> 10:47 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 10:42 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298544?at_medium=RSS&at_campaign=KARANGA">Zhu Yi: US-born Chinese Olympic figure skater slated in China after falls</a> BBC: Zhu Yi fell during her team event sparking backlash from some social media users in China. 
  <p class="updated_time"> 10:37 AM CT, Feb. 08 </p> 
@@ -22,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
  <p class="updated_time"> 10:29 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's PM has accused protesters of attempting to blockade Canada's economy 
- <p class="updated_time"> 10:23 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 09:55 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60307745?at_medium=RSS&at_campaign=KARANGA">'I have sinned': US nun gets one year in jail for $835k theft</a> BBC: Mary Margaret Kreuper, 80, admitted to breaking her vow of poverty to fund a gambling habit. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
@@ -40,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
- <p class="updated_time"> 08:44 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 08:40 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
  <p class="updated_time"> 08:21 AM CT, Feb. 08 </p> 
@@ -175,8 +179,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
- <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60219714?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'It’s like they stuck a knife in our back'</a> BBC: Ukraine has been living with war for the past eight years, and people in Dnipro are dealing with past scars and the threat of more to come. 
  <p class="updated_time"> 04:39 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/olaf-scholz-biden-ukraine-russia.html">Germany’s ‘Invisible’ Chancellor Heads to Washington Amid Fierce Criticism</a> NYT: Olaf Scholz will try to repair Germany’s credibility in the Ukraine crisis when he meets President Biden on Monday. Next on his agenda: Kyiv and Moscow. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
