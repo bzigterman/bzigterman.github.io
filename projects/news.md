@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:56 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
+ <p class="updated_time"> 02:36 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079067453/chinese-fans-at-winter-olympics">Some lucky, local Chinese fans made it into the stands for the 2022 Winter Olympics</a> NPR: Beijing Olympic officials said the COVID-19 situation within the closed-loop bubble of the Games is tightly managed now. They may add more spectators to venues as the competitions continue. 
  <p class="updated_time"> 02:12 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
@@ -122,14 +126,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078258023/independent-state-palestine-proposal-two-state-confederation-israel">Israeli and Palestinian figures propose a plan for an independent state of Palestine</a> NPR: An independent Palestine and Israel would coordinate on issues that affect both populations in a two-state confederation. The plan by former officials will be submitted to the U.N. and U.S. next week. 
- <p class="updated_time"> 08:33 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
  <p class="updated_time"> 07:32 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 07:20 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-militants-pursued-after-syria-prison-break-11644257825">Islamic State Militants Pursued After Syria Prison Break</a> WSJ: Days after the death of Islamic State’s leader, U.S.-backed Kurdish-led militias are hunting down fugitives involved in a northeast Syria prison break that the terrorist group launched last month to replenish its dwindling ranks. 
- <p class="updated_time"> 07:04 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078800884/asia-covid-19-lunar-new-year-omicron">Asia sees a spike in COVID-19 cases after Lunar New Year celebrations</a> NPR: Health officials are grappling with the highly-transmissible omicron variant and expectations that numbers will continue to rise in coming weeks. But so far there are fewer deaths than with delta. 
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/taiwan-china-ukraine-russia.html">Taiwan and China Are Both Closely Watching Ukraine Crisis
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
