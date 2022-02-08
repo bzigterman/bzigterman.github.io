@@ -8,12 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:19 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
- <p class="updated_time"> 01:10 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
- <p class="updated_time"> 12:57 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to Ukraine, the U.S. is publicizing what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
+ <p class="updated_time"> 01:48 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
+ <p class="updated_time"> 01:48 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
+ <p class="updated_time"> 01:44 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
+ <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
+ <p class="updated_time"> 01:36 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
+ <p class="updated_time"> 01:32 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's prime minister has accused protesters of attempting to blockade the country's economy. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
  <p class="updated_time"> 12:44 PM CT, Feb. 08 </p> 
@@ -22,12 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/england-nhs.html">Backlog at England's Hospitals Will Last Years, Javid Warns</a> NYT: Sajid Javid, Britain’s health secretary, said that more than 300,000 people in England had been waiting a year or longer for planned medical procedures. 
  <p class="updated_time"> 12:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/uk-boris-johnson.html">Boris Johnson Shuffles Team to Tamp Down Mutiny Within His Party</a> NYT: The British prime minister shuffles his team to tamp down a growing mutiny within his Conservative Party over his leadership. 
- <p class="updated_time"> 12:20 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 12:18 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html">In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash</a> NYT: Across Taiwan, the classical melody “Für Elise” is a Pavlovian call to action: Bring down your garbage and catch up on neighborhood gossip. 
- <p class="updated_time"> 12:14 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's prime minister has accused protesters of attempting to blockade the country's economy. 
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
@@ -40,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60303081?at_medium=RSS&at_campaign=KARANGA">Korea: High-profile suicides spark cyber-bullying petition</a> BBC: Two well-known figures in Korea died this week after being targeted on social media. 
- <p class="updated_time"> 10:54 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 10:49 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 10:42 AM CT, Feb. 08 </p> 
@@ -58,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who Are the Protesters and What Do They Want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 09:38 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
- <p class="updated_time"> 09:16 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
@@ -98,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
  <p class="updated_time"> 04:03 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079099309/eileen-gu-stuns-with-final-big-air-trick-wins-gold">Olympic freestyle skier Eileen Gu stuns with final big air trick and wins gold</a> NPR: Gu, who is American born to a Chinese mother, is representing China during the 2022 Beijing Winter Olympics. She has competed under the Chinese flag since 2019. 
- <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:35 AM CT, Feb. 08 </p> 
@@ -156,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078930020/canada-trucker-protest-over-vaccine-mandate-continues">Canada trucker protest over vaccine mandate continues</a> NPR: In Ottawa, hundreds of large trucks and other vehicles have blocked streets in central districts of the Canadian city. The protest of vaccine rules is in its second week with no sign of a resolution. 
  <p class="updated_time"> 04:14 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078953858/biden-says-the-nord-stream-2-pipeline-wont-move-ahead-if-russia-invades-ukraine">Biden says the Nord Stream 2 pipeline won't move ahead if Russia invades Ukraine</a> NPR: "If Russia invades, that means tanks or troops crossing the border of Ukraine again, there will no longer be a Nord Stream 2," Biden said, without offering specifics. 
- <p class="updated_time"> 03:58 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078930013/some-ukrainian-americans-are-fearing-the-worst-for-their-families-back-home">Some Ukrainian-Americans are fearing the worst for their families back home</a> NPR: Chicago has one of the largest concentrations of Ukrainians in the U.S. and many of them maintain strong ties to their home country — are bracing for the worst amid Russia-Ukraine conflict tensions. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
@@ -195,8 +195,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
  <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
- <p class="updated_time"> 10:33 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/lata-mangeshkar-dead.html">Lata Mangeshkar, Bollywood’s Most Beloved Voice, Dies at 92</a> NYT: Ms. Mangeshkar, a revered figure in India, recorded songs for countless films — not appearing onscreen herself, but providing characters’ singing voices. 
  <p class="updated_time"> 09:54 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/queen-elizabeth-platinum-jubilee.html">Queen Elizabeth Commemorates Platinum Jubilee, Marking 70-Year Reign</a> NYT: The milestone puts the queen, 95, in rarefied company: Only three other monarchs are documented to have reigned for more than 70 years. 
  <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
@@ -210,18 +208,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denies any intent to claim former governor caused 2011 shooting. 
  <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
+ <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Polls Show How Frustrated Americans Are With Covid Restrictions</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
+ <p class="updated_time"> 01:26 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/trial-jan-6-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
  <p class="updated_time"> 01:15 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079243098/community-groups-vaccine-outreach-funding">The Biden administration will pay community groups to help boost trust in vaccines</a> NPR: The Health Resources and Services Administration is distributing $66.5 million to community groups working across 38 states and Washington, D.C. to help with local vaccine outreach. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
- <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/jan-6-trial-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
  <p class="updated_time"> 12:54 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/couple-arrested-launder-billion-crypto-2016-bitfinex-hack-00006715">Couple charged with money laundering tied to 2016 $4.5B crypto hack</a> Politico: “Criminals always leave tracks,” FBI Deputy Director Paul M. Abbate said in a statement. 
  <p class="updated_time"> 12:30 PM CT, Feb. 08 </p> 
@@ -235,11 +237,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:00 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/eric-adams-outmaneuvered-district-attorney-00006296">How Eric Adams outmaneuvered Manhattan’s progressive district attorney</a> Politico: The moderate Democratic mayor has received bipartisan praise for his handling of the city’s spiraling crime crisis while Bragg drew blame for his progressive policies. 
  <p class="updated_time"> 10:31 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">Poll: Citizens globally blast politicians' lack of action to combat climate change</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
+ <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">The world is on fire and our leaders are failing, poll finds</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
  <p class="updated_time"> 09:24 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/eric-lander-resigns-white-house.html">Biden’s Top Science Adviser Resigns After Acknowledging Demeaning Behavior</a> NYT: The adviser, Eric S. Lander, had apologized for his workplace conduct. The president had pledged to immediately fire any official who acted that way toward colleagues. 
- <p class="updated_time"> 08:52 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
@@ -324,8 +324,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078929989/new-jersey-school-mask-mandates-are-set-to-end-in-2nd-week-of-march">New Jersey school mask mandates are set to end in 2nd week of March</a> NPR: New Jersey's governor is calling for a return to "normal" as the state's COVID cases start to fall. As of the second week of March, students and school staff will no longer be required to wear masks. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Won't Be in Spending Bill, Jill Biden to Say</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
