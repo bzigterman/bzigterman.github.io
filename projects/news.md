@@ -8,14 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:49 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 04:11 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
+ <p class="updated_time"> 04:07 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
+ <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
+ <p class="updated_time"> 03:56 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60310783?at_medium=RSS&at_campaign=KARANGA">Record-high seizure of $5bn in stolen Bitcoin</a> BBC: Two suspects allegedly conspired to launder the money after it was stolen by a hacker in 2016. 
+ <p class="updated_time"> 03:48 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 11 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300231/this-team-usa-olympic-snowboarder-has-a-family-history-with-the-games">This Team USA Olympic snowboarder has a family history with the Games</a> NPR: U.S. snowboarder Stacy Gaskill is racing in her first Olympics, but this isn't her family's first time at the Games. Her mom, Martha Gaskill, won a bronze medal as a Paralympian at the Calgary Games. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300224/the-u-s-is-hiring-nurses-from-abroad-depleting-some-countries-health-care-system">The U.S. is hiring nurses from abroad, depleting some countries' health care systems</a> NPR: NPR's Adrian Florido chats with New York Times reporter Stephanie Nolen about how U.S. hospitals are relying on global recruitment to address staff shortages. 
- <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 03:39 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:23 PM CT, Feb. 08 </p> 
@@ -40,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Benedict Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
- <p class="updated_time"> 12:44 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60310783?at_medium=RSS&at_campaign=KARANGA">Record-high seizure of $5bn in stolen bitcoin</a> BBC: Two suspects allegedly conspired to launder the money after it was stolen by a hacker in 2016. 
  <p class="updated_time"> 12:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/england-nhs.html">Backlog at England's Hospitals Will Last Years, Javid Warns</a> NYT: Sajid Javid, Britain’s health secretary, said that more than 300,000 people in England had been waiting a year or longer for planned medical procedures. 
  <p class="updated_time"> 12:24 PM CT, Feb. 08 </p> 
@@ -51,7 +57,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
+ <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:52 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
@@ -142,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
- <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/08/1078456695/river-radamus-wild-hair-2022-olympics">U.S. Olympic skier River Radamus debuts a wild look in Beijing</a> NPR: Radamus, an alpine skier, is competing in Beijing for the U.S. during Tuesday's men's super-G race. His crazy hair is a standout. 
  <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
@@ -201,8 +205,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
  <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
- <p class="updated_time"> 09:40 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/asia/afghanistans-health-care-system.html">Afghanistan’s Health Care System Is Collapsing Under Stress</a> NYT: Hospitals and clinics are struggling to hold up amid a cash shortage and a vast surge of malnutrition and disease. By one estimate, 90 percent may close in the next few months. 
 
 
 </details>
@@ -210,8 +212,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/pandemic-to-endemic-omicrons-retreat-brings-shift-in-states-strategy-00006670">Democratic governors long cautious on Covid signal new phase in pandemic response</a> Politico: These actions come as President Joe Biden and his top health officials have begun intimating a “new normal” is on the horizon. 
  <p class="updated_time"> 04:06 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/trudeau-lightbound-covid-restrictions-convoy-00006774">Trudeau's own party is starting to turn on him over Covid restrictions</a> Politico: Liberal MP Joël Lightbound: 'A decision was made to wedge, to divide and to stigmatize.' 
+ <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300253/bidens-top-science-adviser-resigned-following-complaints-about-his-work-behavior">Biden's top science adviser resigned following complaints about his work behavior</a> NPR: President Biden said he would fire anyone who was a jerk at work. But that's not what happened when his science adviser Eric Lander was found to have created a toxic workplace. 
+ <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the second gentleman, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
  <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
@@ -249,7 +259,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
+ <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:26 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/russia-ukraine-veterans.html">Veterans’ Groups Splinter Over Ukraine Crisis</a> NYT: The complex dynamics among veterans’ groups reflect general exhaustion with war among American voters and shifting domestic politics. 
  <p class="updated_time"> 11:00 AM CT, Feb. 08 </p> 
@@ -270,8 +280,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/money/2022/02/08/1078035048/price-controls-black-markets-and-skimpflation-the-wwii-battle-against-inflation">Price Controls, Black Markets, And Skimpflation: The WWII Battle Against Inflation</a> NPR: To control inflation during WWII, the U.S. government resorted to wide-ranging price controls. Their unintended consequences might explain why today's policymakers are reluctant to try it again. 
  <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/synthetic-drug-trafficking-opioids-00006517">Government commission: Synthetic drug trafficking a ‘national security’ emergency</a> Politico: Some experts say the commission didn’t go far enough and urged the U.S. to follow Canada’s lead. 
- <p class="updated_time"> 04:31 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/crypto-washington-kingmaker-ftx-00005726">Crypto’s aspiring Washington kingmaker</a> Politico: Sam Bankman-Fried — the 29-year-old billionaire who founded FTX in 2019 — is leveraging his new political connections as lawmakers try to understand crypto. 
  <p class="updated_time"> 04:31 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/latino-group-dems-not-write-off-florida-00006523">Key Latino group urges Dems not to write off Florida</a> Politico: In an effort to keep attention on the state, Latino Victory Fund is endorsing in two Democratic primaries. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
@@ -302,8 +310,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 08:49 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/rnc-censure-january-6-republican-divide/index.html">Republicans are frustrated by RNC move reopening party's January 6 divide ahead of midterms </a> CNN: Republicans felt they were finally united in their quest to take back the House and Senate -- with the political winds at their back and President Joe Biden reeling from an array of domestic and international problems. 
- <p class="updated_time"> 08:31 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1079028828/top-white-house-science-adviser-announces-resignation-after-reports-of-bullying">Top White House science adviser announces resignation after reports of bullying</a> NPR: Eric Lander tendered his letter of resignation hours after a Politico article reported that the White House had found that he bullied and demeaned his subordinates. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 07:15 PM CT, Feb. 07 </p> 
@@ -312,8 +318,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
- <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078999173/supreme-court-blocks-creation-of-2nd-majority-black-congressional-district-in-al">Supreme Court blocks creation of 2nd majority-Black congressional district in Alabama</a> NPR: The U.S. Supreme Court edged toward a further erosion of the Voting Right act Monday, blocking for now a second majority-Black congressional district in Alabama for the 2022 election. 
  <p class="updated_time"> 06:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/california-coronavirus-masks-restrictions-00006361">California to ease Covid rules in path to 'endemic' strategy</a> Politico: Indoor masking and other restrictions will return to pre-Omicron status. 
  <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
@@ -354,8 +358,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
- <p class="updated_time"> 03:36 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/electoral-count-act-overhaul.html">Overhaul of Electoral Count Act Will Pass, Manchin Says</a> NYT: Senators working to overhaul the law said recent revelations about former President Donald J. Trump’s efforts to overturn the 2020 election made their work even more crucial. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
