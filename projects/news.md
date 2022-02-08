@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 AM CT, Feb. 08 </p> 
+ <p class="updated_time"> 02:12 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
+ <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-sparkles-in-mens-single-event-at-beijing-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics and setting him up to win gold after Thursday's free skate. 
@@ -133,8 +137,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:40 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/israel-launches-investigation-into-ballooning-spyware-scandal-11644248434">Israel Launches Investigation Into Ballooning Spyware Scandal</a> WSJ: Israeli authorities launched a state inquiry into allegations that the country’s police illicitly used spyware to hack the phones of political activists, senior government bureaucrats and people close to former Prime Minister Benjamin Netanyahu. 
- <p class="updated_time"> 04:18 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078735278/beijing-olympics-fake-snow-ski-snowboard">No snow? No problem. How Beijing made the white stuff in time for the Olympics</a> NPR: The Beijing Games are just the latest winter sporting event to use nearly all human-made snow for competitions. Winter sports experts say this is just the new reality. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/turkey-inflation-doctors.html">Turkey’s Doctors Are Leaving, the Latest Casualty of Spiraling Inflation</a> NYT: Doctors, worn down by grueling hours and violence, are emigrating in rising numbers, undermining one of President Recep Tayyip Erdogan’s signature achievements. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
@@ -191,8 +193,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
- <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
@@ -210,6 +210,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court Restores Alabama Voting Map That a Court Said Hurt Black Voters</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 11:02 PM CT, Feb. 07 </p> 
@@ -334,8 +336,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
- <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/mark-esper-pentagon-memoir.html">Esper Memoir of Trump Tenure to Move Ahead After Legal Battle Ends</a> NYT: The former defense secretary dropped a lawsuit against the Defense Department after it reversed decisions on what parts of his memoir were to be redacted, his lawyer said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
