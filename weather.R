@@ -70,7 +70,7 @@ temp <- ggplot(champaign_forecast_tidy,
                    label = weather_unicode,
                    color = temp_class),) +
   geom_line(color = "grey93") +
-  #geom_point() +
+  geom_point(size = .5) +
   geom_text(color = "black",
             family = "EmojiOne",
             nudge_y = -.25,
@@ -106,8 +106,7 @@ temp
 precip <- ggplot(champaign_forecast_tidy,
                  aes(x = central_time,
                      y = pop)) +
-  geom_col(fill = "lightblue",
-           color = "lightblue") +
+  geom_col(fill = "lightblue") +
   scale_x_datetime(date_labels = "%a") +
   scale_y_continuous(labels = label_percent(),
                      position = "right",
