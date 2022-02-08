@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:53 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 05:23 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Plans for a Protest by Truckers in the U.S. Gain Momentum</a> NYT: A convoy-style demonstration starting in California and ending in Washington appears to be gathering supporters online. 
+ <p class="updated_time"> 05:19 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Europeans Pursue Diplomacy Amid Mixed Signals on Russian Aims in Ukraine</a> NYT: President Emmanuel Macron of France said time was needed to solve the crisis, as the Kremlin refuted reports that he and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 05:15 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Democratic leaders in New Jersey, California, Connecticut, Delaware and Oregon said they would end some mask mandates, citing a drop in infections. 
- <p class="updated_time"> 04:25 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
@@ -65,7 +67,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:52 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal contenders were disqualified from competing. 
+ <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal-contending teams were disqualified from competing. 
  <p class="updated_time"> 11:36 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
@@ -116,6 +118,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/calls-to-boycott-hyundai-rise-in-india-after-social-media-post-about-pakistan-11644331762">Calls to Boycott Hyundai Rise in India After Kashmir Comment</a> WSJ: New Delhi summoned South Korea’s ambassador after a social-media post on Kashmir by an independent Hyundai distributor triggered an online backlash. 
  <p class="updated_time"> 04:57 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948">Ukraine's Zelensky Wants to Fend Off Russia---and America, Too</a> WSJ: The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington. 
+ <p class="updated_time"> 04:43 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
  <p class="updated_time"> 04:38 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 04:03 AM CT, Feb. 08 </p> 
@@ -124,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:35 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
- <p class="updated_time"> 03:33 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/chinas-private-developers-abstain-from-land-auctions-as-red-lines-draw-blood-11644330780">China's Private Developers Abstain From Land Auctions as 'Red Lines' Draw Blood</a> WSJ: The pullback from buying new land has punched a hole in the local government funding that is needed to service mountains of debt, fuel economic growth and pay for social spending. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
  <p class="updated_time"> 02:59 AM CT, Feb. 08 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 01:03 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/developing-countries-brace-for-impact-from-fed-rate-increases-11644321780">Developing Countries Brace for Impact From Fed Rate Increases</a> WSJ: U..S. rises could destabilize their economies, but lower U.S. inflation could offer them breathing room. 
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60295310?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: ‘All we want is the right to choose’</a> BBC: Truckers wanted the vaccine mandate gone 10 days ago. Now they will stay until all mandates end. 
  <p class="updated_time"> 12:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
- <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
@@ -201,10 +199,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 01:10 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/middleeast/syria-prison-teenage-detainees.html">Teenage Inmates in Syria Lack Food and Medicine, Aid Group Says</a> NYT: UNICEF was given the first glimpse of teenage detainees at a prison attacked by ISIS two weeks ago in northeastern Syria. 
- <p class="updated_time"> 12:14 PM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/americas/haiti-opposition-group-montana-accord.html">Haiti Opposition Group Calls on U.S. to End Support for Current Government</a> NYT: With tensions rising, many see Monday as a deadline for the government to step down. 
- <p class="updated_time"> 09:52 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/world/asia/india-under-19-cricket-win.html">India Beats England in Under-19 Cricket World Cup</a> NYT: The team’s ability to clinch a record fifth under-19 title despite a Covid outbreak underscored the vast pool of talent in India as it consolidates its place as a powerhouse in the sport. 
 
 
 </details>
@@ -212,18 +206,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/spy-world-biden-leaking-russia-intel-00006956">Spy world wary as Biden team keeps leaking Russia intel</a> Politico: U.S. national security figures get that information war is the new battleground. But "how many freaking times do they need to warn that anything may be imminent?” one asked. 
+ <p class="updated_time"> 06:01 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/senior-director-global-health-security-leaving-00006912">Senior director for global health security leaving the NSC</a> Politico: Raj Panjabi, the global health malaria coordinator at USAID, will replace Cameron this month. 
  <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
+ <p class="updated_time"> 05:03 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079205081/house-passes-stopgap-bill-to-avoid-government-shutdown">House passes stopgap bill to avoid government shutdown</a> NPR: This is the third stopgap spending bill to keep the federal government afloat since October. 
+ <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 04:52 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 04:50 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Resolution Censuring Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the second gentleman, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
- <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 04:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/pandemic-to-endemic-omicrons-retreat-brings-shift-in-states-strategy-00006670">Mask mandates, contact tracing are going away, as states shift to new phase</a> Politico: These actions come as President Joe Biden and his top health officials have begun intimating a “new normal” is on the horizon. 
  <p class="updated_time"> 04:32 PM CT, Feb. 08 </p> 
@@ -312,8 +312,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 10:25 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 09:31 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078999857/nfl-rooney-rule-civil-rights-leaders">Civil rights leaders call on the NFL to replace the Rooney Rule</a> NPR: The Rooney Rule, a policy that went into effect in 2003, requires NFL teams to interview candidates of color for head coaching and senior operation vacancies. 
  <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 08:49 PM CT, Feb. 07 </p> 
@@ -340,8 +338,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">IRS to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
@@ -356,8 +352,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/fentanyl-china-war-on-drugs-00005920">The war on drugs puts a target on China</a> Politico: As the fentanyl death toll ticks up, U.S. legislators slam Beijing’s regulatory loopholes and rue political tensions. 
  <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
