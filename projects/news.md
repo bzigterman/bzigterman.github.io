@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:28 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 07:26 AM CT, Feb. 08 </p> 
@@ -46,14 +48,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
  <p class="updated_time"> 02:36 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079067453/chinese-fans-at-winter-olympics">Some lucky, local Chinese fans made it into the stands for the 2022 Winter Olympics</a> NPR: Beijing Olympic officials said the COVID-19 situation within the closed-loop bubble of the Games is tightly managed now. They may add more spectators to venues as the competitions continue. 
+ <p class="updated_time"> 02:33 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
  <p class="updated_time"> 02:12 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
- <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
  <p class="updated_time"> 01:03 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/developing-countries-brace-for-impact-from-fed-rate-increases-11644321780">Developing Countries Brace for Impact From Fed Rate Increases</a> WSJ: U..S. rises could destabilize their economies, but lower U.S. inflation could offer them breathing room. 
  <p class="updated_time"> 12:28 AM CT, Feb. 08 </p> 
@@ -126,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
  <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
- <p class="updated_time"> 11:38 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078826041/ireen-wust-gold-winter-olympics">Dutch speedskater Ireen Wüst is the 1st athlete to win individual gold at 5 Olympics</a> NPR: "Age is just a number. It's just about how you feel. I'm not thinking like, 'I'm 35, I'm too old,' hell no," Wüst said after her latest Olympic feat. 
  <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60294717?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old boy</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him from a well over the weekend. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
@@ -396,8 +396,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
  <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
  <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
- <p class="updated_time"> 07:34 AM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/01/dems-try-to-move-on-00004065">Dems try to move on</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
