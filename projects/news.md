@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:25 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
- <p class="updated_time"> 08:24 AM CT, Feb. 08 </p> 
+ <p class="updated_time"> 08:44 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
+ <p class="updated_time"> 08:40 AM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
+ <p class="updated_time"> 08:32 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
+ <p class="updated_time"> 08:29 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
+ <p class="updated_time"> 08:29 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
+ <p class="updated_time"> 08:21 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60305844?at_medium=RSS&at_campaign=KARANGA">Ex-Pope admits errors in handling of abuse cases</a> BBC: Former Pope Benedict XVI is accused of failing to act over four cases of historic child sex abuse. 
  <p class="updated_time"> 08:19 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
@@ -22,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
- <p class="updated_time"> 07:28 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 07:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 06:53 AM CT, Feb. 08 </p> 
@@ -69,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:03 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/developing-countries-brace-for-impact-from-fed-rate-increases-11644321780">Developing Countries Brace for Impact From Fed Rate Increases</a> WSJ: U..S. rises could destabilize their economies, but lower U.S. inflation could offer them breathing room. 
  <p class="updated_time"> 12:28 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians, but Not Peace Talks</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
+ <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
@@ -132,16 +138,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
  <p class="updated_time"> 12:28 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/europe/ukraine-russia-macron.html">Macron Tries to Avert a European War and Reshape European Security</a> NYT: The French president’s shuttle diplomacy this week in Moscow and Kyiv will be a delicate exercise, given European reservations and American resolve. 
- <p class="updated_time"> 11:51 AM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078866696/australia-reopens-border-international-travelers">Australia will reopen to fully vaccinated travelers in 2 weeks</a> NPR: Doubly vaccinated travelers will be welcomed starting Feb. 21, nearly two years after it first closed its border. The move is  seen as relief for its tourism industry. 
  <p class="updated_time"> 11:09 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60294717?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old boy</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him from a well over the weekend. 
  <p class="updated_time"> 11:05 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60290610?at_medium=RSS&at_campaign=KARANGA">Sweden: Men steal students' computers during lesson</a> BBC: The masked men threatened students and stole computers at a Swedish school on Monday. 
  <p class="updated_time"> 10:53 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60287161?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israel launches inquiry into police hacking claims</a> BBC: Officers allegedly used spyware made by NSO to target public figures' phones without warrants. 
- <p class="updated_time"> 10:04 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60258620?at_medium=RSS&at_campaign=KARANGA">Paralysed man with severed spine walks thanks to implant</a> BBC: Michel Roccati tells the BBC he "almost has a normal life" again thanks to an electrical implant. 
  <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
