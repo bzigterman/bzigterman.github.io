@@ -33,7 +33,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ceaseless horn blaring frays nerves in Canada's capital</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 06:43 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60296862?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Canada truckers protest</a> BBC: The BBC's Ros Atkins explains why truck drivers protesting against a vaccine mandate are blocking roads in Ottawa. 
  <p class="updated_time"> 06:19 PM CT, Feb. 07 </p> 
