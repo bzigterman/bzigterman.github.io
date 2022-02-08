@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/ukraine-russia-minsk-accords-explainer.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
+ <p class="updated_time"> 08:50 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
  <p class="updated_time"> 08:44 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 08:40 AM CT, Feb. 08 </p> 
@@ -16,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
  <p class="updated_time"> 08:29 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
- <p class="updated_time"> 08:29 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
  <p class="updated_time"> 08:21 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60305844?at_medium=RSS&at_campaign=KARANGA">Ex-Pope admits errors in handling of abuse cases</a> BBC: Former Pope Benedict XVI is accused of failing to act over four cases of historic child sex abuse. 
  <p class="updated_time"> 08:19 AM CT, Feb. 08 </p> 
@@ -52,6 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
+ <p class="updated_time"> 03:54 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 03:35 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
@@ -74,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
  <p class="updated_time"> 01:03 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/developing-countries-brace-for-impact-from-fed-rate-increases-11644321780">Developing Countries Brace for Impact From Fed Rate Increases</a> WSJ: U..S. rises could destabilize their economies, but lower U.S. inflation could offer them breathing room. 
- <p class="updated_time"> 12:28 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
@@ -199,8 +201,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/asia/virus-vietnam-china-fruit.html">Collateral Damage of China's Virus Policy: Fruit</a> NYT: The closure of Chinese land borders and the tightened screening of goods have driven Southeast Asian fruit farmers into debt. Many have had to abandon their harvest. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/ottawa-trucker-protests.html">Ottawa Residents Fed Up With Trucker Convoy Protests</a> NYT: Although the focus has been on protests in front of Parliament, three Ottawa neighborhoods have also been upturned by the demonstrations. 
- <p class="updated_time"> 04:00 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
 
 
 </details>
@@ -208,6 +208,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:52 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
@@ -342,8 +344,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
- <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
