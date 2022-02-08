@@ -139,7 +139,6 @@ ggsave("plots/champaign_weather.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
 # web text ----
-
 severe_weather_outlook_url <- 
   paste("![](",
         "https://www.spc.noaa.gov/products/activity_loop.gif",
