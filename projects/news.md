@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-sparkles-in-mens-single-event-at-beijing-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted the skate at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics. 
  <p class="updated_time"> 11:26 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
@@ -143,8 +145,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
- <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
- <a href="https://www.npr.org/2022/02/07/1078732688/vincent-zhou-winter-olympics-positive-covid-test">U.S. skater Vincent Zhou drops out of Olympics after his 2nd COVID test is positive</a> NPR: "The enormity of the situation ... the pain of it all, is pretty insane," Zhou said in an emotional video posted to Instagram. A silver medalist in the team event, he was to compete again on Tuesday. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
@@ -331,7 +331,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 06 </p> 
  <a href="https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html">‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition</a> NYT: The number of competitive House districts is dropping, as both Republicans and Democrats use redistricting to draw themselves into safe seats. 
  <p class="updated_time"> 01:39 PM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">In Scrutinizing Trump and His Allies, Jan. 6 Panel Adopts Prosecution Tactics</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
+ <a href="https://www.nytimes.com/2022/02/05/us/politics/january-6-committee.html">Jan. 6 Panel Adopts Prosecution Tactics for Its Investigation</a> NYT: The House committee investigating the assault on the Capitol and what led to it is employing techniques more common in criminal cases than in congressional inquiries. 
  <p class="updated_time"> 12:49 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/us/bloomberg-housekeeper-kidnapped-colorado.html">Man Charged in Kidnapping of Bloomberg’s Housekeeper From Colorado Ranch</a> NYT: The man was accused of kidnapping an employee of Mr. Bloomberg, the former New York City mayor, and asking for the whereabouts of his daughters. 
  <p class="updated_time"> 11:11 AM CT, Feb. 05 </p> 
