@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:46 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 02:55 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 02:53 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 02:43 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
- <p class="updated_time"> 02:30 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
