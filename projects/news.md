@@ -8,10 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:29 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/02/07/world/russia-ukraine-news">As Biden Vows ‘United’ Response to Russia, Putin Says Ukraine Talks Will Continue</a> NYT: President Emmanuel Macron of France, hoping for de-escalation of the crisis, met with Mr. Putin, who said Mr. Macron had some ideas worth pursuing. 
+ <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
+ <p class="updated_time"> 07:19 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
+ <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
+ <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Ceaseless horn blaring frays nerves in Canada's capital</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
+ <p class="updated_time"> 06:48 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
+ <p class="updated_time"> 06:43 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60296862?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Canada truckers protest</a> BBC: The BBC's Ros Atkins explains why truck drivers protesting against a vaccine mandate are blocking roads in Ottawa. 
  <p class="updated_time"> 06:26 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-38916161?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh assembly elections 2022: The Indian polls everyone is watching</a> BBC: With a population larger than Brazil, Uttar Pradesh state will soon start its seven-phased polls. 
+ <p class="updated_time"> 06:18 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60289571?at_medium=RSS&at_campaign=KARANGA">Democracy in Africa: Spate of coups don't mean democracy's end</a> BBC: Two experts argue that democracy is still the way forward for the continent, despite some set backs. 
  <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60296254?at_medium=RSS&at_campaign=KARANGA">John Simpson in Afghanistan: Watching the destruction of a nation?</a> BBC: The BBC's John Simpson returns to Afghanistan and finds a country on the brink of famine. 
  <p class="updated_time"> 06:07 PM CT, Feb. 07 </p> 
@@ -24,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
- <p class="updated_time"> 04:41 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
  <p class="updated_time"> 04:37 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 will end if Russia invades - Biden</a> BBC: US President Joe Biden vows to shut down a key Russian pipeline to Germany if Russia invades Ukraine. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
@@ -52,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 02:14 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
+ <p class="updated_time"> 01:44 PM CT, Feb. 07 </p> 
+ <a href="https://www.wsj.com/articles/putin-to-meet-macron-as-france-tries-to-flex-diplomatic-muscle-over-ukraine-11644241608">Macron Meets With Putin as France Tries to Flex Diplomatic Muscle Over Ukraine</a> WSJ: The French president is embarking on a round of shuttle diplomacy that aims to defuse the Ukraine crisis and encourage European countries to play a bigger role in the continent’s defense. 
  <p class="updated_time"> 01:23 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who are the protesters and what do they want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 01:20 PM CT, Feb. 07 </p> 
@@ -90,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/canada-trucker-protest-ottawa-shifts-to-aggressive-gear-in-policing-freedom-convoy-11644248545">Ottawa Police Shift to Aggressive Gear in Canada Trucker Protest</a> WSJ: Police are trying to prevent protesters who have parked hundreds of heavy-duty trucks in the city’s downtown from obtaining fuel, food and other supplies in a stepped-up effort to end the 11-day demonstration against Covid-19 vaccine mandates. 
  <p class="updated_time"> 09:18 AM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60287997?at_medium=RSS&at_campaign=KARANGA">Rayan: Morocco holds funeral for five-year-old who died trapped in well</a> BBC: Five-year-old Rayan Oram died despite a painstaking rescue effort to free him at the weekend. 
- <p class="updated_time"> 09:06 AM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/putin-to-meet-macron-as-france-tries-to-flex-diplomatic-muscle-over-ukraine-11644241608">Macron Meets With Putin as France Tries to Flex Diplomatic Muscle Over Ukraine</a> WSJ: The French president is embarking on a round of shuttle diplomacy that aims to defuse the Ukraine crisis and encourage European countries to play a bigger role in the continent’s defense. 
  <p class="updated_time"> 08:41 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
@@ -123,8 +135,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
- <p class="updated_time"> 12:00 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60285018?at_medium=RSS&at_campaign=KARANGA">Western Australia bushfires threaten lives after record summer heat</a> BBC: Amid catastrophic conditions, fires have destroyed homes and scorched 60,000 hectares of land. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 11:00 PM CT, Feb. 06 </p> 
@@ -133,8 +143,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
- <p class="updated_time"> 07:46 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59935573?at_medium=RSS&at_campaign=KARANGA">Nigeria's renters may no longer have to pay a year in advance</a> BBC: Nigerian landlords have long demanded a year's rent upfront - up to $20,000 - but that might soon change. 
  <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
@@ -159,8 +167,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 09:33 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
- <p class="updated_time"> 06:22 PM CT, Feb. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60250816?at_medium=RSS&at_campaign=KARANGA">Israel's Mossad suspected of high-level Iran penetration</a> BBC: The spy agency is said to have worked its way high up into Iran's security services. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
  <p class="updated_time"> 02:06 PM CT, Feb. 05 </p> 
@@ -183,18 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/viktor-orban-putin-energy.html">Facing Tough Election, Orban Turns to Putin for Support</a> NYT: The Hungarian leader made his name by defying Moscow. But he has increasingly turned toward Russia in an effort to secure the natural gas he needs to keep energy prices low and voters happy. 
  <p class="updated_time"> 11:27 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/africa/morocco-child-rescue.html">Rescuers in Morocco Race to Save 5-Year-Old Stuck in Well for Days</a> NYT: People in the region were glued to the rescue effort on television and online, eager for some good news at a time when many have been buffeted by Covid pandemic gloom. 
- <p class="updated_time"> 10:06 PM CT, Feb. 04 </p> 
- <a href="https://www.nytimes.com/2022/02/04/world/europe/france-election-auxerre.html">Apathy and Anger in France’s Election Everytown</a> NYT: Auxerre has backed the winner in every French presidential race for 40 years. This time, the town’s politics are drifting right, and many struggling residents see little to vote for. 
- <p class="updated_time"> 07:41 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60256060?at_medium=RSS&at_campaign=KARANGA">School reopening: The Indian children who have never seen a classroom</a> BBC: Experts say Covid-19 lockdowns have taken away precious years of learning from children. 
- <p class="updated_time"> 07:32 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60245133?at_medium=RSS&at_campaign=KARANGA">Sudan's feared secret police make a comeback</a> BBC: Amira Osman is one of dozens believed to have been arrested by Sudan's feared secret police. 
  <p class="updated_time"> 07:31 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html">Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader</a> NYT: A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate. 
  <p class="updated_time"> 06:28 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/world/asia/olympics-beijing-xi-putin.html">In Beijing, Olympic Spectacle and Global Power Games</a> NYT: The opening of the Winter Games gave Xi Jinping and Vladimir V. Putin a chance to cement their partnership against Western censure. 
- <p class="updated_time"> 06:19 PM CT, Feb. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60257580?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Valery, young victim of a frozen war</a> BBC: While Nato warns of a possible Russian invasion, 65 Ukrainian soldiers have died in the past year. 
  <p class="updated_time"> 06:12 PM CT, Feb. 04 </p> 
  <a href="https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html">Younger Americans Benefited Less From Booster Shots Than Older People</a> NYT: Among those under age 50, vaccination even without a booster protected strongly against hospitalization and death, according to new C.D.C. data. 
  <p class="updated_time"> 04:41 PM CT, Feb. 04 </p> 
@@ -218,22 +216,26 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 07:15 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/banker-calk-prison-manafort-00006475">Banker sentenced to year in prison in Manafort loan scheme</a> Politico: Stephen Calk was convicted last year on financial institution bribery and conspiracy charges. 
+ <p class="updated_time"> 07:03 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
+ <p class="updated_time"> 06:53 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
+ <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
  <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078999173/supreme-court-blocks-creation-of-2nd-majority-black-congressional-district-in-al">Supreme Court blocks creation of 2nd majority-Black congressional district in Alabama</a> NPR: The U.S. Supreme Court edged toward a further erosion of the Voting Right act Monday, blocking for now a second majority-Black congressional district in Alabama for the 2022 election. 
  <p class="updated_time"> 06:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/california-coronavirus-masks-restrictions-00006361">California to ease Covid rules in path to 'endemic' strategy</a> Politico: Indoor masking and other restrictions will return to pre-Omicron status. 
  <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to absent Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
+ <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
  <p class="updated_time"> 06:00 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 05:51 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives">15 boxes of White House records have been recovered at Trump's Mar-a-Lago</a> NPR: The 15 boxes of records discovered at Mar-a-Lago should have been transferred to officials from the White House at the end of the Trump administration, officials say. 
- <p class="updated_time"> 05:19 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court, in 5-4 Vote, Restores Alabama’s Congressional Voting Map</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 04:55 PM CT, Feb. 07 </p> 
@@ -303,11 +305,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/longtime-epstein-associate-gave-250k-to-rga-00006097">Longtime Epstein associate gave $250K to RGA</a> Politico: Retail magnate Leslie Wexner stepped down from L Brands in 2020 after his ties to Jeffrey Epstein drew scrutiny. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/fentanyl-china-war-on-drugs-00005920">The war on drugs puts a target on China</a> Politico: As the fentanyl death toll ticks up, U.S. legislators slam Beijing’s regulatory loopholes and rue political tensions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078777313/german-chancellor-olaf-scholz-visits-president-biden-at-the-white-house">German Chancellor Olaf Scholz visits President Biden at the White House</a> NPR: Chancellor Olaf Scholz's visit Monday comes amid criticism of Germany for its handling of Russia's troop build-up along Ukraine's border. 
  <p class="updated_time"> 04:01 AM CT, Feb. 07 </p> 
@@ -328,8 +330,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035"> A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
- <p class="updated_time"> 10:54 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/business/media/trump-fox-news.html">Where Fox News and Donald Trump Took Us</a> NYT: Roger Ailes understood the appeal Mr. Trump had for Fox viewers. He didn’t foresee how together they would redefine the limits of political discourse. 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
@@ -348,8 +348,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/mail-voting-on-trial-battleground-states-00005794">GOP takes mail voting to court in swing states Biden won</a> Politico: Upcoming cases in Wisconsin and especially Pennsylvania could have a major effect on voting in two key states. 
- <p class="updated_time"> 06:42 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html">Ukraine Gave Up Nuclear Weapons 30 Years Ago. Today There Are Regrets.</a> NYT: When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. 
  <p class="updated_time"> 08:22 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/eric-lander-science-adviser-biden-apologize-00005988">‘I am deeply sorry for my conduct’: Biden's top science adviser apologizes to staff</a> Politico: Eric Lander pledged to create a better workplace environment in the Office of Science and Technology Policy. 
  <p class="updated_time"> 07:25 PM CT, Feb. 04 </p> 
@@ -362,8 +360,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/biden-victory-lap-jobs-report-january-00005772">Biden takes victory lap with January jobs report</a> Politico: “America’s job machine is going stronger than ever,” Biden said at the White House. 
  <p class="updated_time"> 11:10 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/biden-administration-intel-media-mess-00005699">Biden administration turns intel success into a media mess</a> Politico: In a series of poorly timed, passive aggressive pressers, the White House and State Department spokespeople suggested reporters should just trust them more. 
- <p class="updated_time"> 09:09 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/house-senate-showdown-china-bill-00005575">House sets up Senate showdown with vote on partisan China bill </a> Politico: The White House is eager for the China legislation to reach Biden’s desk before his State of the Union, but lawmakers must first reconcile a bipartisan Senate package with a House bill full of Democratic priorities.  
  <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/04/the-instagram-account-airing-congress-dirty-laundry-00005633">The Instagram account airing Congress’ dirty laundry</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
@@ -418,8 +414,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
  <p class="updated_time"> 08:26 PM CT, Jan. 31 </p> 
  <a href="https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html">Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN</a> CNN: Former President Donald Trump's advisers drafted two versions of an executive order to seize voting machines -- one directing the Department of Defense to do so and another the Department of Homeland Security -- as part of a broader effort to undermine the 2020 election results, multiple sources tell CNN. 
- <p class="updated_time"> 07:09 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/senate-democrats-manchin-sinema-bernie-00003958">Senate Dems back off Manchin and Sinema — except Bernie</a> Politico: With zero margin for error, the party needs the centrist senators' votes for both a Supreme Court confirmation and President Joe Biden’s social spending bill. 
 
 
 </details>
