@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
+ <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300231/this-team-usa-olympic-snowboarder-has-a-family-history-with-the-games">This Team USA Olympic snowboarder has a family history with the Games</a> NPR: U.S. snowboarder Stacy Gaskill is racing in her first Olympics, but this isn't her family's first time at the Games. Her mom, Martha Gaskill, won a bronze medal as a Paralympian at the Calgary Games. 
+ <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300224/the-u-s-is-hiring-nurses-from-abroad-depleting-some-countries-health-care-system">The U.S. is hiring nurses from abroad, depleting some countries' health care systems</a> NPR: NPR's Adrian Florido chats with New York Times reporter Stephanie Nolen about how U.S. hospitals are relying on global recruitment to address staff shortages. 
+ <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 03:39 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:23 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Democratic leaders in New Jersey, California, Connecticut, Delaware and Oregon said they would end some mask mandates, citing a drop in infections. 
- <p class="updated_time"> 03:19 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 03:11 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of 'determined' and 'volatile' protests amid an all-out effort to remove them. 
- <p class="updated_time"> 02:55 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 02:53 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
@@ -31,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Benedict Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
  <p class="updated_time"> 12:44 PM CT, Feb. 08 </p> 
@@ -58,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298544?at_medium=RSS&at_campaign=KARANGA">Zhu Yi: US-born Chinese Olympic figure skater slated in China after falls</a> BBC: Zhu Yi fell during her team event sparking backlash from some social media users in China. 
  <p class="updated_time"> 10:37 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60146616?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: The Power of the Dog leads nominations</a> BBC: Belfast, Dune and West Side Story will also be in the running at the Academy Awards. 
+ <p class="updated_time"> 10:34 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 10:30 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
  <p class="updated_time"> 09:55 AM CT, Feb. 08 </p> 
@@ -68,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who Are the Protesters and What Do They Want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 09:38 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
- <p class="updated_time"> 09:13 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
@@ -101,7 +107,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:57 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948">Ukraine's Zelensky Wants to Fend Off Russia---And America, Too</a> WSJ: The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington. 
+ <a href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948">Ukraine's Zelensky Wants to Fend Off Russia---and America, Too</a> WSJ: The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington. 
  <p class="updated_time"> 04:38 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 04:09 AM CT, Feb. 08 </p> 
@@ -158,10 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
- <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078929982/a-look-at-the-debate-over-nato-expansion-eastward-thats-at-the-heart-of-conflict">A look at the debate over NATO expansion eastward that's at the heart of conflict now</a> NPR: Whether NATO should expand to include countries once under Soviet influence — including Ukraine — is a question that has dogged U.S. and Russian officials for 30 years. 
- <p class="updated_time"> 04:16 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078930020/canada-trucker-protest-over-vaccine-mandate-continues">Canada trucker protest over vaccine mandate continues</a> NPR: In Ottawa, hundreds of large trucks and other vehicles have blocked streets in central districts of the Canadian city. The protest of vaccine rules is in its second week with no sign of a resolution. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
@@ -210,6 +212,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:06 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/trudeau-lightbound-covid-restrictions-convoy-00006774">Trudeau's own party is starting to turn on him over Covid restrictions</a> Politico: Liberal MP Joël Lightbound: 'A decision was made to wedge, to divide and to stigmatize.' 
+ <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
  <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/doug-emhoff-washington-security-concern-00006858">Emhoff whisked out of event following reported bomb threat</a> Politico: Second gentleman Doug Emhoff was whisked out of an event Tuesday at a Washington high school following an apparent security concern. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
@@ -225,7 +229,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denies any intent to claim former governor caused 2011 shooting. 
+ <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denied any intent to claim that the former Alaska governor caused a 2011 shooting. 
  <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
@@ -316,8 +320,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
  <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
- <p class="updated_time"> 05:51 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives">15 boxes of White House records have been recovered at Trump's Mar-a-Lago resort</a> NPR: Those records should have been transferred to officials from the White House at the end of the Trump administration, according to federal law. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
  <p class="updated_time"> 04:43 PM CT, Feb. 07 </p> 
@@ -377,9 +379,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
+ <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
