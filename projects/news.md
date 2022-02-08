@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
+ <p class="updated_time"> 12:57 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
  <p class="updated_time"> 12:31 PM CT, Feb. 08 </p> 
@@ -16,14 +20,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 12:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/uk-boris-johnson.html">Boris Johnson Shuffles Team to Tamp Down Mutiny Within His Party</a> NYT: The British prime minister shuffles his team to tamp down a growing mutiny within his Conservative Party over his leadership. 
- <p class="updated_time"> 12:21 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 12:20 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 12:18 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html">In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash</a> NYT: Across Taiwan, the classical melody “Für Elise” is a Pavlovian call to action: Bring down your garbage and catch up on neighborhood gossip. 
  <p class="updated_time"> 12:14 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's PM has accused protesters of attempting to blockade Canada's economy 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Ambassador Bridge reopened</a> BBC: Canada's prime minister has accused protesters of attempting to blockade the country's economy. 
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
@@ -34,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal contenders were disqualified from competing. 
  <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
- <p class="updated_time"> 11:25 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 11:20 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293497?at_medium=RSS&at_campaign=KARANGA">US offers $10m reward over IS-K terror attack</a> BBC: The Rewards For Justice programme launches offering cash to help catch Kabul Airport bomb culprits. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
@@ -210,10 +210,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/jan-6-trial-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
  <p class="updated_time"> 12:54 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/couple-arrested-launder-billion-crypto-2016-bitfinex-hack-00006715">Couple charged with money laundering tied to 2016 $4.5B crypto hack</a> Politico: “Criminals always leave tracks,” FBI Deputy Director Paul M. Abbate said in a statement. 
  <p class="updated_time"> 12:30 PM CT, Feb. 08 </p> 
@@ -354,8 +358,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035"> A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
  <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
- <p class="updated_time"> 05:31 AM CT, Feb. 06 </p> 
- <a href="https://www.nytimes.com/2022/02/05/us/politics/russia-ukraine-invasion.html">U.S. Warns of Grim Toll if Putin Pursues Full Invasion of Ukraine</a> NYT: Biden administration officials told lawmakers that a large-scale Russian invasion could kill as many as 50,000 civilians and prompt a refugee crisis in Europe. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
