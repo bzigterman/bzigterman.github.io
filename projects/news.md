@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 02:46 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
+ <p class="updated_time"> 02:43 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Truck Blockade at U.S.-Canada Border Threatens Busiest Link Between the Countries</a> NYT: The blockade could undermine the auto industry, which relies on the movement of components across the border to keep factories humming in Ontario and the Midwestern United States. 
  <p class="updated_time"> 02:30 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Ukraine Live Updates: Macron, in Kyiv, Is Undercut by Russia</a> NYT: The Kremlin rejected reports that the French leader and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
@@ -41,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The so-called "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
+ <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:52 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
@@ -50,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60303081?at_medium=RSS&at_campaign=KARANGA">Korea: High-profile suicides spark cyber-bullying petition</a> BBC: Two well-known figures in Korea died this week after being targeted on social media. 
- <p class="updated_time"> 10:49 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 10:42 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60298544?at_medium=RSS&at_campaign=KARANGA">Zhu Yi: US-born Chinese Olympic figure skater slated in China after falls</a> BBC: Zhu Yi fell during her team event sparking backlash from some social media users in China. 
  <p class="updated_time"> 10:37 AM CT, Feb. 08 </p> 
@@ -88,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60301705?at_medium=RSS&at_campaign=KARANGA">Czech millionaire investigated over alleged 417km/h motorway drive in Germany</a> BBC: The Czech sports car owner posted videos of his trip in a Bugatti Chiron on the A2 last summer. 
  <p class="updated_time"> 06:12 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/retired-pope-benedict-xvi-asks-for-forgiveness-over-handling-of-sex-abuse-cases-11644337031">Retired Pope Benedict XVI Asks for Forgiveness Over Handling of Sex-Abuse Cases</a> WSJ: Benedict replied to charges that he mishandled cases of clerical sexual abuse during his tenure as an archbishop in Germany, but his response seemed unlikely to remove the taint that the allegations have left on his record. 
- <p class="updated_time"> 06:01 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
  <p class="updated_time"> 05:19 AM CT, Feb. 08 </p> 
@@ -235,7 +233,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The so-called "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
+ <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:26 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/russia-ukraine-veterans.html">Veterans’ Groups Splinter Over Ukraine Crisis</a> NYT: The complex dynamics among veterans’ groups reflect general exhaustion with war among American voters and shifting domestic politics. 
  <p class="updated_time"> 11:00 AM CT, Feb. 08 </p> 
