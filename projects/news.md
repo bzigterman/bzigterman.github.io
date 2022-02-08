@@ -128,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html">Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests</a> NYT: A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent. 
  <p class="updated_time"> 08:39 AM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078258023/independent-state-palestine-proposal-two-state-confederation-israel">Israeli and Palestinian figures propose a plan for an independent state of Palestine</a> NPR: An independent Palestine and Israel would coordinate on issues that affect both populations in a two-state confederation. The plan by former officials will be submitted to the U.N. and U.S. next week. 
- <p class="updated_time"> 07:32 AM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&at_campaign=KARANGA">Climate change: Top companies exaggerating their progress - study</a> BBC: Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds. 
  <p class="updated_time"> 07:20 AM CT, Feb. 07 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-militants-pursued-after-syria-prison-break-11644257825">Islamic State Militants Pursued After Syria Prison Break</a> WSJ: Days after the death of Islamic State’s leader, U.S.-backed Kurdish-led militias are hunting down fugitives involved in a northeast Syria prison break that the terrorist group launched last month to replenish its dwindling ranks. 
  <p class="updated_time"> 05:54 AM CT, Feb. 07 </p> 
