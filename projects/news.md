@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:39 AM CT, Feb. 08 </p> 
+ <p class="updated_time"> 09:58 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
+ <p class="updated_time"> 09:55 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
+ <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 09:39 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who Are the Protesters and What Do They Want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
  <p class="updated_time"> 09:38 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/ottowa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
- <p class="updated_time"> 09:33 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
  <p class="updated_time"> 09:21 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html">In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash</a> NYT: Across Taiwan, the classical melody “Für Elise” is a Pavlovian call to action: Bring down your garbage and catch up on neighborhood gossip. 
  <p class="updated_time"> 09:16 AM CT, Feb. 08 </p> 
@@ -195,8 +197,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/05/world/canada/truck-convoy-protests.html">Truck Protest Against Pandemic Measures Spreads Across Canada</a> NYT: A demonstration that began last weekend in Ottawa against vaccine mandates expanded on Saturday, and others took place in Toronto and Quebec City. 
  <p class="updated_time"> 05:44 PM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/africa/morocco-boy-well.html">Effort to Rescue a 5-Year-Old Transfixes Morocco, Only to End Sadly</a> NYT: The four-day rescue operation failed to save the life of Rayan, who plunged down a 100-foot well, a devastating outcome to the many Moroccans who were captivated by the effort to save him. 
- <p class="updated_time"> 08:58 AM CT, Feb. 05 </p> 
- <a href="https://www.nytimes.com/2022/02/05/world/asia/kashmir-editor-arrested.html">Fahad Shah, Editor in Kashmir, Is Arrested</a> NYT: The police accused Fahad Shah, who edits a news website, of “uploading anti-national content.” Critics say journalists in Kashmir have increasingly been harassed and intimidated. 
  <p class="updated_time"> 07:06 AM CT, Feb. 05 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/afghan-refugees-two-tier-system-in-europe.html">Afghan Refugees Face Two-Tier System in Europe</a> NYT: Educated elites evacuated to Europe after the Taliban’s return are welcomed, but they struggle with their lives in exile, even as their poorer compatriots are shunned. 
  <p class="updated_time"> 05:00 AM CT, Feb. 05 </p> 
