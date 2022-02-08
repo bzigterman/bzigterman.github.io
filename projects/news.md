@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:53 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60305402?at_medium=RSS&at_campaign=KARANGA">Crocodile with tyre around neck freed after six years</a> BBC: The wild reptile was helped by a local resident after a three-week rescue effort. 
+ <p class="updated_time"> 06:27 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60301705?at_medium=RSS&at_campaign=KARANGA">Czech millionaire investigated over alleged 417km/h motorway drive in Germany</a> BBC: The Czech sports car owner posted videos of his trip in a Bugatti Chiron on the A2 last summer. 
  <p class="updated_time"> 06:01 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60288007?at_medium=RSS&at_campaign=KARANGA">China encroaching along Nepal border - report</a> BBC: A Nepalese government report leaked to the BBC accuses China of interference in the country's territory. 
  <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
@@ -42,6 +46,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60298574?at_medium=RSS&at_campaign=KARANGA">Brittany Higgins: Australian parliament makes formal apology to rape accuser</a> BBC: Brittany Higgins said she was attacked in Parliament House in 2019, in a case that sparked an outcry. 
+ <p class="updated_time"> 01:50 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
+ <p class="updated_time"> 01:03 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/developing-countries-brace-for-impact-from-fed-rate-increases-11644321780">Developing Countries Brace for Impact From Fed Rate Increases</a> WSJ: U..S. rises could destabilize their economies, but lower U.S. inflation could offer them breathing room. 
  <p class="updated_time"> 12:28 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians, but Not Peace Talks</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
  <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
@@ -78,10 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
- <p class="updated_time"> 05:13 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
- <p class="updated_time"> 04:40 PM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/biden-says-nord-stream-2-pipeline-wont-go-forward-if-russia-invades-ukraine-11644268407">Biden Says Nord Stream 2 Pipeline Won't Go Forward if Russia Invades Ukraine</a> WSJ: President Biden made the comment about the pipeline, which would deliver Russian natural gas to Germany, during a joint press conference with German Chancellor Olaf Scholz. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
@@ -151,8 +155,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
- <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
@@ -202,6 +204,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
+ <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
  <p class="updated_time"> 06:17 AM CT, Feb. 08 </p> 
@@ -312,8 +318,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/longtime-epstein-associate-gave-250k-to-rga-00006097">Longtime Epstein associate gave $250K to RGA</a> Politico: Retail magnate Leslie Wexner stepped down from L Brands in 2020 after his ties to Jeffrey Epstein drew scrutiny. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
