@@ -212,6 +212,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/senior-director-global-health-security-leaving-00006912">Senior director for global health security leaving the NSC</a> Politico: Raj Panjabi, the global health malaria coordinator at USAID, will replace Cameron this month. 
  <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
+ <p class="updated_time"> 05:39 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079339405/west-virginia-ban-nuclear-power-coal">Coal-dependent West Virginia eliminates ban on nuclear power</a> NPR: The state's ban on nuclear plants was enacted in 1996, but nuclear power has gained support as a tool to keep climate change under control and other states are transitioning away from fossil fuels. 
+ <p class="updated_time"> 05:37 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/bitcoin-cryptocurrency-laundering-arrest.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 05:25 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the husband of Vice President Kamala Harris, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
@@ -237,7 +241,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
  <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/doug-emhoff-washington-security-concern-00006858">Emhoff whisked out of event following reported bomb threat</a> Politico: Second gentleman Doug Emhoff was whisked out of an event Tuesday at a Washington high school following an apparent security concern. 
+ <a href="https://www.politico.com/news/2022/02/08/doug-emhoff-washington-security-concern-00006858">Bomb threat forces Doug Emhoff to evacuate D.C. high school Black History Month event</a> Politico: The Secret Service said there was “no information to indicate the threat was directed” at Emhoff. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300217/with-midterms-looming-voters-dont-feel-good-about-bidens-handling-of-the-economy">With midterms looming, voters don't feel good about Biden's handling of the economy</a> NPR: The economy looks good on paper but it doesn't feel good to voters. And that's a problem for President Biden and his party going into the midterms. We explore the disconnect with help from economists. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
@@ -302,8 +306,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079112859/biden-will-lean-into-his-long-tenure-as-a-senator-to-fill-supreme-court-vacancy">Biden will lean into his long tenure as a senator to fill Supreme Court vacancy </a> NPR: President Biden said he's been told that voters don't want him to be the "President Senator." But in filling a vacancy on the Supreme Court, he's going out of his way to court old colleagues. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079112803/fla-bill-bans-businesses-and-schools-from-making-anyone-feel-guilt-about-race">Fla. bill bans businesses and schools from making anyone feel guilt about race</a> NPR: Under a bill proposed by Florida's governor, schools and businesses would be banned from teaching courses and offering training that cause white people to feel "discomfort" on account of their race. 
- <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079112754/morning-news-brief">News brief: Macron-Putin talks, Alabama voting map, opioid crisis deaths</a> NPR: Diplomatic talks continue in the Ukraine-Russia standoff. Another Supreme Court ruling deals a blow to the Voting Rights Act. Drug overdose deaths in America have hit record highs. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
@@ -336,8 +338,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">IRS to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 10:37 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/fdic-chairman-mcwilliams-gruenberg.html">A Democrat Takes Over the F.D.I.C. After a Partisan Clash</a> NYT: Martin J. Gruenberg replaced Jelena McWilliams, a Trump appointee who stepped down after a conflict with Mr. Gruenberg and two other Democratic members on the board. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
