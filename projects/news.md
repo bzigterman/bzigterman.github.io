@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:18 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
+ <p class="updated_time"> 09:16 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
+ <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
+ <p class="updated_time"> 08:56 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/ukraine-russia-minsk-accords-explainer.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
- <p class="updated_time"> 08:50 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Trudeau Says Unrest ‘Has to Stop’</a> NYT: The Canadian prime minister said that while protesters opposed to Covid rules had a right to be heard, they could not block “our fellow citizens’ daily lives.” 
  <p class="updated_time"> 08:44 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 08:40 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
- <p class="updated_time"> 08:32 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Live Updates: Macron, in Ukraine, Says Crisis Could Take Months to Resolve</a> NYT: After a lengthy meeting with President Vladimir V. Putin of Russia on Monday, President Emmanuel Macron of France continued his shuttle diplomacy by meeting his Ukrainian counterpart in Kyiv. 
  <p class="updated_time"> 08:29 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
  <p class="updated_time"> 08:21 AM CT, Feb. 08 </p> 
@@ -48,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:09 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
+ <p class="updated_time"> 04:07 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
  <p class="updated_time"> 04:03 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079099309/eileen-gu-stuns-with-final-big-air-trick-wins-gold">Olympic freestyle skier Eileen Gu stuns with final big air trick and wins gold</a> NPR: Gu, who is American born to a Chinese mother, is representing China during the 2022 Beijing Winter Olympics. She has competed under the Chinese flag since 2019. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
@@ -56,6 +62,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:54 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-offers-economic-help-to-palestinians-but-not-peace-talks-11644319692">Israel Offers Economic Help to Palestinians in Bid to Stem Influence of Hamas</a> WSJ: Taken together, the piecemeal initiatives amount to a new period of Palestinian engagement by an Israeli centrist coalition government attempting a reset on West Bank policies after a decade of frayed relations under former Prime Minister Benjamin Netanyahu. But they don’t offer support for a political solution to their decades-old conflict. 
+ <p class="updated_time"> 03:49 AM CT, Feb. 08 </p> 
+ <a href="https://www.wsj.com/articles/calls-to-boycott-hyundai-rise-in-india-after-social-media-post-about-pakistan-11644331762">Calls to Boycott Hyundai Rise in India After Kashmir Comment</a> WSJ: New Delhi summoned South Korea’s ambassador after a social-media post on Kashmir by an independent Hyundai distributor triggered an online backlash. 
  <p class="updated_time"> 03:35 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
@@ -66,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
  <p class="updated_time"> 02:36 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079067453/chinese-fans-at-winter-olympics">Some lucky, local Chinese fans made it into the stands for the 2022 Winter Olympics</a> NPR: Beijing Olympic officials said the COVID-19 situation within the closed-loop bubble of the Games is tightly managed now. They may add more spectators to venues as the competitions continue. 
- <p class="updated_time"> 02:33 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-prepares-military-exercises-as-macron-visits-kyiv-11644324610">Ukraine Prepares Military Exercises as Macron Visits Kyiv</a> WSJ: The French president traveled to Ukraine after discussing the outlines of a plan with President Vladimir Putin of Russia to defuse the crisis and thaw tensions between the Kremlin and the West. 
  <p class="updated_time"> 02:21 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-expands-vaccine-mandate-amid-record-covid-19-outbreak-11644326507">Hong Kong Expands Vaccine Mandate Amid Record Covid-19 Outbreak</a> WSJ: New restrictions expand a vaccine mandate due to be implemented Feb. 24 that already covered venues like restaurants and gyms. 
  <p class="updated_time"> 02:12 AM CT, Feb. 08 </p> 
@@ -98,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
- <p class="updated_time"> 07:00 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Ceaseless horn blaring frays nerves in Ottawa</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 06:43 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60296862?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Canada truckers protest</a> BBC: The BBC's Ros Atkins explains why truck drivers protesting against a vaccine mandate are blocking roads in Ottawa. 
  <p class="updated_time"> 06:19 PM CT, Feb. 07 </p> 
@@ -122,14 +126,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/07/1078930013/some-ukrainian-americans-are-fearing-the-worst-for-their-families-back-home">Some Ukrainian-Americans are fearing the worst for their families back home</a> NPR: Chicago has one of the largest concentrations of Ukrainians in the U.S. and many of them maintain strong ties to their home country — are bracing for the worst amid Russia-Ukraine conflict tensions. 
  <p class="updated_time"> 03:41 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929961/president-biden-and-german-chancellor-scholz-discuss-possible-sanctions-on-russi">President Biden and German Chancellor Scholz discuss possible sanctions on Russia</a> NPR: President Biden met with new German Chancellor Olaf Scholz at the White House Monday. The two leaders are trying to show they're on the same page on how to sanction Russia if it invades Ukraine. 
- <p class="updated_time"> 03:34 PM CT, Feb. 07 </p> 
- <a href="https://www.wsj.com/articles/former-honduran-president-hernandez-barred-from-entry-into-u-s-11644285360">U.S. Bars Former Honduran President Hernández From Entry</a> WSJ: The State Department said it included Juan Orlando Hernández on its Corrupt and Undemocratic Actors list in July, citing alleged acts of corruption and illicit campaign financing. 
  <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929885/alpine-skiing-at-the-beijing-winter-olympics-is-off-to-an-unpredictable-start">Alpine skiing at the Beijing Winter Olympics is off to an unpredictable start</a> NPR: Two of the Olympic Games' most popular events were decided on the same day: the men's downhill and the women's giant slalom. High winds have led to postponements of several mountain events. 
  <p class="updated_time"> 03:26 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/07/1078929878/what-germany-france-and-britain-are-doing-to-deter-a-russian-invasion-of-ukraine">What Germany, France and Britain are doing to deter a Russian invasion of Ukraine</a> NPR: NPR correspondents in Berlin, Paris and London talk about escalating tensions between Russia and the West over Ukraine. 
- <p class="updated_time"> 03:21 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 02:50 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/05/world/europe/camilla-queen-elizabeth-jubilee.html">Queen Elizabeth Paves the Way for Camilla to One Day Be Called Queen</a> NYT: On the eve of the 70th anniversary of the start of her reign, Elizabeth said she wanted the Duchess of Cornwall to hold the title of Queen Consort once Prince Charles is king. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
