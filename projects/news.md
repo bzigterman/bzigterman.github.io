@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60297732?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says crucial says ahead after Putin summit</a> BBC: Russia's Vladimir Putin indicates some progress was made during talks with the French leader. 
  <p class="updated_time"> 08:51 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293407?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: Injunction granted to stop horn honking</a> BBC: The constant blaring of horns is one of the defining features of the movement against Canada's vaccine mandates. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
@@ -38,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60284261?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Weibo post sparked 'huge misunderstanding'</a> BBC: The Chinese tennis star again urges fans not to worry about her in an interview with Western media. 
  <p class="updated_time"> 05:09 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
- <p class="updated_time"> 04:37 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60292437?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Nord Stream 2 will end if Russia invades - Biden</a> BBC: US President Joe Biden vows to shut down a key Russian pipeline to Germany if Russia invades Ukraine. 
  <p class="updated_time"> 04:32 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:19 PM CT, Feb. 07 </p> 
@@ -145,8 +145,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
  <p class="updated_time"> 10:33 PM CT, Feb. 06 </p> 
  <a href="https://www.npr.org/2022/02/06/1078729140/peng-shuai-the-chinese-tennis-star-denies-sexual-assault-by-government-leader">Peng Shuai, the Chinese tennis star, denies sexual assault by government leader</a> NPR: In a carefully-managed interview with a French magazine, Peng also said she was retiring from tennis and said her private life should not be brought up in politics or sport. 
- <p class="updated_time"> 06:36 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60260738?at_medium=RSS&at_campaign=KARANGA">Kush: Sierra Leone's new illegal drug</a> BBC: With Kush use spreading rapidly, local film-maker Tyson Conteh asks whether Sierra Leone can stop the march of this dangerously addictive high. 
  <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
  <p class="updated_time"> 06:02 PM CT, Feb. 06 </p> 
@@ -283,7 +281,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:25 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html">Free Community College Won't Be in Spending Bill, Jill Biden to Say</a> NYT: In a speech on Monday, the first lady acknowledged that her signature legislative initiative is “no longer” in the Democrats’ spending bill. 
  <p class="updated_time"> 02:09 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans, Wooing Trump Voters, Make Fauci Their Boogeyman</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
+ <a href="https://www.nytimes.com/2022/02/07/us/politics/fauci-republicans-trump.html">Republicans Step Up Attacks on Fauci to Woo Trump Voters</a> NYT: G.O.P. candidates, tapping into voters’ frustrations with a seemingly endless pandemic, are stepping up their attacks on Dr. Anthony S. Fauci. 
  <p class="updated_time"> 01:19 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/business/economy/biden-union-membership.html">Biden Adopts Recommendations for Promoting Union Membership</a> NYT: Many of the recommendations, proposed by a White House task force, would make it easier for federal workers and employees of contractors to unionize. 
  <p class="updated_time"> 11:54 AM CT, Feb. 07 </p> 
@@ -412,8 +410,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/01/bidens-bipartisan-temptation-00004059"> Biden’s bipartisan temptation</a> Politico Playbook: And the Iran nuclear deal mounts a comeback. 
  <p class="updated_time"> 09:37 PM CT, Jan. 31 </p> 
  <a href="https://www.politico.com/news/2022/01/31/sinema-grassroots-donor-pool-dries-up-00004034">Sinema’s grassroots donor pool dries up</a> Politico: The Senator smashed personal fundraising records at the end of 2021. But her support among small dollar givers was tiny. 
- <p class="updated_time"> 09:22 PM CT, Jan. 31 </p> 
- <a href="https://www.politico.com/news/2022/01/31/house-accuses-trump-attorney-john-eastman-of-stalling-on-jan-6-subpoena-00004026">House accuses Trump attorney John Eastman of stalling on Jan. 6 subpoena</a> Politico: The general counsel said Eastman was seeking to “defeat” the summons by reviewing the earliest records first rather than those from around the Electoral College showdown. 
 
 
 </details>
