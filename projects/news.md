@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:42 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 02:34 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 02:12 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges are shut after massive protests over Muslim women wearing headscarves in class. 
- <p class="updated_time"> 02:08 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
  <p class="updated_time"> 02:00 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 01:52 PM CT, Feb. 09 </p> 
@@ -106,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079454512/first-us-gold-medal-lindsey-jacobellis">Lindsey Jacobellis wins the U.S. its first gold medal at the 2022 Beijing Olympics</a> NPR: Jacobellis, a five-time Olympian, won her first gold medal during the women's snowboard cross event on Wednesday. She is also the oldest American woman to win a Winter Olympics gold medal. 
- <p class="updated_time"> 01:44 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 01:37 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
  <p class="updated_time"> 01:20 AM CT, Feb. 09 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over 'both sides' critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
