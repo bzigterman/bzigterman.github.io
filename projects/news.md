@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:52 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079338002/russia-ukraine-europe-gas-nordstream2-energy">Explaining why natural gas plays such a big role in the Russia-Ukraine crisis</a> NPR: As much as 40% of Europe's natural gas supply comes from Russia, a reliance that puts U.S. allies like Germany in a jam when it comes to finding a sanctions solution to the crisis. 
- <p class="updated_time"> 01:31 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 01:28 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60320874?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge protest: Truckers block vital Canada-US border crossing</a> BBC: Business associations warn that the closure of the Ambassador Bridge threatens the US and Canadian economies. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
@@ -31,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:57 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60326638?at_medium=RSS&at_campaign=KARANGA">Drunk truck driver leaves trail of destruction in Germany</a> BBC: German police have arrested a man after the lorry he was driving ploughed into more than 30 cars. 
  <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-american-climate-envoy-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 12:35 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 12:28 PM CT, Feb. 09 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
+ <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:48 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
@@ -299,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300217/with-midterms-looming-voters-dont-feel-good-about-bidens-handling-of-the-economy">With midterms looming, voters don't feel good about Biden's handling of the economy</a> NPR: The economy looks good on paper but it doesn't feel good to voters. And that's a problem for President Biden and his party going into the midterms. We explore the disconnect with help from economists. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300196/scientist-says-state-governments-are-lifting-mask-mandates-prematurely">Scientist says state governments are lifting mask mandates prematurely</a> NPR: NPR's Adrian Florido talks with Mercedes Carnethon, vice chair of the Department of Preventive Medicine at Northwestern University, on whether local governments lifting mask mandates is science-based. 
- <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
