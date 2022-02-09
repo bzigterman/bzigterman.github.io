@@ -71,7 +71,7 @@ temp <- ggplot(champaign_forecast_tidy,
                    color = temp_class),) +
   geom_line(color = "grey93") +
   #geom_point(size = .5) +
-  geom_text(#color = "black",
+  geom_text(color = "black",
             family = "EmojiOne",
             nudge_y = .25,
             size = 5) + 
