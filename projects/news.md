@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-beijing-curling-korea-garlic.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
+ <p class="updated_time"> 03:40 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
+ <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 03:08 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">Hindu Extremists Call for Muslim Violence as Indian Leaders Look Away</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
  <p class="updated_time"> 03:03 AM CT, Feb. 09 </p> 
@@ -78,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
- <p class="updated_time"> 02:53 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
@@ -189,10 +193,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/travel/jordan-petra-road-trip.html">A Photographer’s View of Jordan’s Many Splendors</a> NYT: For 10 days, a photojournalist drove across Jordan from north to south, visiting several of the country’s most treasured sites. Here’s what he saw. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
@@ -206,6 +206,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
  <p class="updated_time"> 11:20 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censuring Reps. Cheney and Kinzinger Sets Off Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
@@ -271,7 +273,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Polls Show How Frustrated Americans Are With Covid Restrictions</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Americans Are Frustrated With the Pandemic. These Polls Show How Much.</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:26 PM CT, Feb. 08 </p> 
@@ -404,8 +406,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559">Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses</a> Politico: The former president has repeatedly suggested that he may pardon the Capitol rioters or other people associated with the insurrection if he wins a second term. 
  <p class="updated_time"> 06:11 AM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/02/republicans-cant-agree-on-a-scotus-strategy-00004536"> Republicans can’t agree on a SCOTUS strategy</a> Politico Playbook: And Sen. Ben Ray Luján (D-N.M.) is hospitalized with a stroke. 
- <p class="updated_time"> 04:30 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
 
 
 </details>
