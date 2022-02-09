@@ -14,11 +14,11 @@ Current:
 - 39°
 - overcast clouds
 - 74% humidity
-- 15 mph wind
+- 11 mph wind
 - 06:53 a.m. sunrise
 - 05:21 p.m. sunset
 
-<p class="updated_time"> Latest data: 01:33 PM CT, February 09</p>
+<p class="updated_time"> Latest data: 01:58 PM CT, February 09</p>
 
 ## Severe Thunderstorm Outlook
 
