@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, bailed out of the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 09:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/400-million-covid-cases.html">World Surpasses 400 Million Confirmed Covid Cases</a> NYT: The total has doubled in only six months as the most recent surge took a toll. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
@@ -154,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
- <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-short-program-winter-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics and setting him up to win gold after Thursday's free skate. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
@@ -314,14 +314,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/money/2022/02/08/1078035048/price-controls-black-markets-and-skimpflation-the-wwii-battle-against-inflation">Price Controls, Black Markets, And Skimpflation: The WWII Battle Against Inflation</a> NPR: To control inflation during WWII, the U.S. government resorted to wide-ranging price controls. Their unintended consequences might explain why today's policymakers are reluctant to try it again. 
  <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/synthetic-drug-trafficking-opioids-00006517">Government commission: Synthetic drug trafficking a ‘national security’ emergency</a> Politico: Some experts say the commission didn’t go far enough and urged the U.S. to follow Canada’s lead. 
- <p class="updated_time"> 04:31 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/latino-group-dems-not-write-off-florida-00006523">Key Latino group urges Dems not to write off Florida</a> Politico: In an effort to keep attention on the state, Latino Victory Fund is endorsing in two Democratic primaries. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
- <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079112859/biden-will-lean-into-his-long-tenure-as-a-senator-to-fill-supreme-court-vacancy">Biden will lean into his long tenure as a senator to fill Supreme Court vacancy </a> NPR: President Biden said he's been told that voters don't want him to be the "President Senator." But in filling a vacancy on the Supreme Court, he's going out of his way to court old colleagues. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
@@ -382,8 +380,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
- <p class="updated_time"> 11:08 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/counter-terrorism-congressional-prayer-bidens-craziest-day-00005590">A frenetic 24 hours in Biden land</a> Politico: The president had to balance a lot on Thursday. 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
