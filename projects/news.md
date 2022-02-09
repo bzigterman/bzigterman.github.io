@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:26 AM CT, Feb. 09 </p> 
+ <p class="updated_time"> 11:38 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
+ <p class="updated_time"> 11:31 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliott Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60306389?at_medium=RSS&at_campaign=KARANGA">Bosnia: Three decades on, bereaved families fear return to war</a> BBC: A rise in Serb nationalism is threatening the peace agreement that holds together Bosnia-Herzegovina. 
  <p class="updated_time"> 11:17 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The first group of Russian warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the ships are part of a planned naval exercise. 
+ <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
  <p class="updated_time"> 11:10 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 11:06 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
- <p class="updated_time"> 11:02 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliott Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
@@ -48,6 +50,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60317432?at_medium=RSS&at_campaign=KARANGA">Bruno Aiub: Podcaster fired over call for Brazilian Nazi party</a> BBC: Bruno Aiub has apologised for the on-air comments, saying he was "very drunk" when he made them. 
  <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
+ <p class="updated_time"> 06:33 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
  <p class="updated_time"> 06:24 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-60317806?at_medium=RSS&at_campaign=KARANGA">SpaceX loses 40 satellites to geomagnetic storm a day after launch</a> BBC: A powerful magnetic storm takes out most of a batch of Starlink satellites the day after launch. 
  <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
@@ -76,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
- <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
  <p class="updated_time"> 03:03 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60289571?at_medium=RSS&at_campaign=KARANGA">Coups in Africa: Why they don’t spell the end of democracy</a> BBC: Two experts argue that democracy is still the way forward for the continent, despite some set backs. 
  <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60296254?at_medium=RSS&at_campaign=KARANGA">John Simpson in Afghanistan: Watching the destruction of a nation?</a> BBC: The BBC's John Simpson returns to Afghanistan and finds a country on the brink of famine. 
- <p class="updated_time"> 06:07 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
@@ -209,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
+ <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York ends its indoor mask mandate, joining California and New Jersey</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
  <p class="updated_time"> 11:22 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079541236/florida-dont-say-gay-bill">'Don't Say Gay' bill would limit discussion of sexuality and gender in Florida schools</a> NPR: Supporters say the measure empowers parents to have a say in what their children learn. Critics argue it will harm LGBTQ kids. President Biden slammed the bill, which has Gov. Ron DeSantis' support. 
  <p class="updated_time"> 11:14 AM CT, Feb. 09 </p> 
@@ -247,6 +249,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/climate-change-expensive-who-should-pay-00005198">Climate change will be expensive. Who should pay?</a> Politico: Global poll finds widespread agreement that companies must shoulder more of the cost in combatting carbon emissions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079456052/ohio-rule-allows-for-the-possibility-of-redrawing-congressional-maps-every-4-yea">Ohio rule allows for the possibility of redrawing congressional maps every 4 years</a> NPR: Ohio lawmakers are drawing up a new congressional district map after the previous attempt was ruled unconstitutional by the state supreme court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
@@ -269,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Censure of Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canada-freedom-convoy-fundraiser-republicans-00007007">U.S. lawmakers threaten to probe GoFundMe after trucker fundraiser shutdown</a> Politico: Ted Cruz: “For Big Tech oligarchs to be willing to be the enforcement arm of government authoritarians is extraordinarily dangerous.” 
- <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/spy-world-biden-leaking-russia-intel-00006956">Spy world wary as Biden team keeps leaking Russia intel</a> Politico: U.S. national security figures get that information war is the new battleground. But "how many freaking times do they need to warn that anything may be imminent?” one asked. 
  <p class="updated_time"> 06:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 06:01 PM CT, Feb. 08 </p> 
@@ -313,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:26 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/trial-jan-6-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
- <p class="updated_time"> 01:15 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079243098/community-groups-vaccine-outreach-funding">The Biden administration will pay community groups to help boost trust in vaccines</a> NPR: The Health Resources and Services Administration is distributing $66.5 million to community groups working across 38 states and Washington, D.C. to help with local vaccine outreach. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
