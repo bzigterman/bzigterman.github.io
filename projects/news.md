@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:12 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges are shut after massive protests over Muslim women wearing headscarves in class. 
+ <p class="updated_time"> 02:08 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 02:00 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 01:52 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
@@ -22,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/asia/covid-cases-asia-lunar-new-year.html">Covid Cases Spike in Asia After Lunar New Year Celebrations</a> NYT: A spike in cases across Asia has followed this month’s holiday. 
  <p class="updated_time"> 01:18 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and sheds light on the virus that launched a pandemic. Check out our illustration of the virus' family tree. 
- <p class="updated_time"> 01:13 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam claims he chose at the last moment not to blow himself up during the Paris attacks. 
  <p class="updated_time"> 01:04 PM CT, Feb. 09 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 08:49 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 08:47 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079506355/new-zealand-protest-vaccine-mask-mandates">New Zealand convoy clogs streets near Parliament to protest vaccine mandates</a> NPR: Among the protesters' grievances is the requirement in New Zealand that certain workers get vaccinated against the coronavirus, including teachers, doctors, nurses, police and military personnel. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60316302?at_medium=RSS&at_campaign=KARANGA">Snowboarder wins Olympic gold 16 years after throwing it away</a> BBC: Sixteen years after throwing away gold, Lindsey Jacobellis finally reaches the top of the Olympic podium. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
- <p class="updated_time"> 04:42 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges were shut after massive protests over Muslim women wearing headscarves in class. 
  <p class="updated_time"> 04:13 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-military-natural-gas-make-japan-cautious-about-u-s-led-sanctions-11644419603">Ties to Russia Make Japan Wary of Strong Sanctions</a> WSJ: Russia’s military presence around disputed islands and Japan’s reliance on energy imports add to pressure on Tokyo not to join in threats to sanction Moscow over Ukraine. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
@@ -197,6 +197,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over 'both sides' critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators on Wednesday that Iran is “weeks” away from producing enough material for a nuclear weapon. 
+ <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
+ <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
+ <p class="updated_time"> 02:18 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements in since Jan. 1. Here’s how policies are changing. 
+ <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/navy-fighter-jet-china.html">What Happens When a Stealth Jet Ends Up on the Ocean Floor?</a> NYT: Here’s how the Navy might recover a $94 million F-35 Joint Strike Fighter that crashed in China’s backyard. 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
  <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
@@ -237,16 +249,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079475595/mcconnell-breaks-with-rnc-over-its-censure-of-2-house-republicans">McConnell breaks with RNC over its censure of 2 House Republicans</a> NPR: Senate Minority Leader Mitch McConnell is criticizing the Republican National Committee for censuring two House Republicans who serve on the panel investigating the U.S. Capitol insurrection. 
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
- <p class="updated_time"> 04:31 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/greens-most-concerned-about-climate-change-in-canada-poll-00005026">Poll: 1 in 5 Canadian Conservatives not concerned ‘at all’ about climate change</a> Politico: Count on renewed debate over Canada's carbon tax in 2022. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/climate-change-expensive-who-should-pay-00005198">Climate change will be expensive. Who should pay?</a> Politico: Global poll finds widespread agreement that companies must shoulder more of the cost in combatting carbon emissions. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
@@ -295,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
- <p class="updated_time"> 03:16 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/doug-emhoff-washington-security-concern-00006858">Bomb threat forces Doug Emhoff to evacuate D.C. high school Black History Month event</a> Politico: The Secret Service said there was “no information to indicate the threat was directed” at Emhoff. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300217/with-midterms-looming-voters-dont-feel-good-about-bidens-handling-of-the-economy">With midterms looming, voters don't feel good about Biden's handling of the economy</a> NPR: The economy looks good on paper but it doesn't feel good to voters. And that's a problem for President Biden and his party going into the midterms. We explore the disconnect with help from economists. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
@@ -329,16 +333,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
- <p class="updated_time"> 11:02 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 08:49 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/rnc-censure-january-6-republican-divide/index.html">Republicans are frustrated by RNC move reopening party's January 6 divide ahead of midterms </a> CNN: Republicans felt they were finally united in their quest to take back the House and Senate -- with the political winds at their back and President Joe Biden reeling from an array of domestic and international problems. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
- <p class="updated_time"> 06:53 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
@@ -395,8 +395,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/02/trump-intervention-republican-split-election-reforms-00004898">Trump interference exacerbates GOP split on election reforms</a> Politico: The former president's charge that nine Republicans working to reform the Electoral Count Act are "RINOs" isn't making their efforts any easier. 
  <p class="updated_time"> 04:39 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
- <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
 
 
 </details>
