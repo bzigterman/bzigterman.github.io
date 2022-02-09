@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:43 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 04:48 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 04:34 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 04:31 PM CT, Feb. 09 </p> 
@@ -199,6 +199,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/trump-emails-voting-machines-election-00007449">Read the emails showing Trump allies’ connections to voting machine seizure push</a> Politico: The conversations shed light on the visibility that Washington lawyer Katherine Friess and Texas entrepreneur Russell Ramsland had into the election subversion push. 
+ <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
+ <p class="updated_time"> 04:50 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
+ <p class="updated_time"> 04:49 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/threats-lawmakers-congress.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
@@ -221,8 +227,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
- <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
@@ -313,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079205081/house-passes-stopgap-bill-to-avoid-government-shutdown">House passes stopgap bill to avoid government shutdown</a> NPR: This is the third stopgap spending bill to keep the federal government afloat since October. 
  <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
- <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Polls Show How Frustrated Americans Are With Covid Restrictions</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/trial-jan-6-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
- <p class="updated_time"> 11:26 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/russia-ukraine-veterans.html">Veterans’ Groups Splinter Over Ukraine Crisis</a> NYT: The complex dynamics among veterans’ groups reflect general exhaustion with war among American voters and shifting domestic politics. 
  <p class="updated_time"> 10:31 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">The world is on fire and our leaders are failing, poll finds</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
