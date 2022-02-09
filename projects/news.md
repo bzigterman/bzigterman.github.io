@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 14 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, bailed out of the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 09:31 PM CT, Feb. 08 </p> 
@@ -54,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
  <p class="updated_time"> 03:56 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60310783?at_medium=RSS&at_campaign=KARANGA">Record-high seizure of $5bn in stolen Bitcoin</a> BBC: Two suspects allegedly conspired to launder the money after it was stolen by a hacker in 2016. 
- <p class="updated_time"> 03:48 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 11 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300231/this-team-usa-olympic-snowboarder-has-a-family-history-with-the-games">This Team USA Olympic snowboarder has a family history with the Games</a> NPR: U.S. snowboarder Stacy Gaskill is racing in her first Olympics, but this isn't her family's first time at the Games. Her mom, Martha Gaskill, won a bronze medal as a Paralympian at the Calgary Games. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
