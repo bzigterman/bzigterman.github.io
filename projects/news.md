@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:22 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
+ <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
+ <p class="updated_time"> 12:12 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 11:46 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
  <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079568745/jeff-bezos-yacht-de-hef-bridge-rotterdam-eggs">The Dutch vow to egg Jeff Bezos' yacht if a famed bridge is dismantled so it can pass</a> NPR: After early reports that the city of Rotterdam would briefly dismantle a bridge for the yacht's passage, thousands of people joined a Facebook event called "Throwing eggs at superyacht Jeff Bezos." 
+ <a href="https://www.npr.org/2022/02/09/1079568745/jeff-bezos-yacht-de-hef-bridge-rotterdam-eggs">The Dutch vow to egg Jeff Bezos' yacht if a bridge is dismantled to let his boat pass</a> NPR: After early reports that Rotterdam would briefly take apart a historic bridge for the yacht's passage, thousands of people joined a Facebook event called "Throwing eggs at superyacht Jeff Bezos." 
  <p class="updated_time"> 11:38 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
  <p class="updated_time"> 11:31 AM CT, Feb. 09 </p> 
@@ -62,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60319790?at_medium=RSS&at_campaign=KARANGA">Capturing a semi-submersible loaded with cocaine</a> BBC: The Colombian navy seize a vessel carrying four tonnes of narcotics worth $150m (£110m). 
  <p class="updated_time"> 05:57 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60314051?at_medium=RSS&at_campaign=KARANGA">Australia: Grace Tame says caller 'threatened' against criticising PM</a> BBC: Sexual abuse survivor Grace Tame says a caller told her not imperil Scott Morrison's election chances. 
- <p class="updated_time"> 05:33 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 05:22 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60316302?at_medium=RSS&at_campaign=KARANGA">Snowboarder wins Olympic gold 16 years after throwing it away</a> BBC: Sixteen years after throwing away gold, Lindsey Jacobellis finally reaches the top of the Olympic podium. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
@@ -76,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-military-natural-gas-make-japan-cautious-about-u-s-led-sanctions-11644419603">Ties to Russia Make Japan Wary of Strong Sanctions</a> WSJ: Russia’s military presence around disputed islands and Japan’s reliance on energy imports add to pressure on Tokyo not to join in threats to sanction Moscow over Ukraine. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
- <p class="updated_time"> 03:40 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 03:29 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
@@ -303,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:26 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/trial-jan-6-guy-wesley-reffitt.html">Government Reveals Trove of Evidence in First Jan. 6 Trial</a> NYT: With a Texas man set to go on trial this month, prosecutors released a detailed list of their witnesses and evidence, including testimony from the defendant’s two teenage children. 
- <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:26 AM CT, Feb. 08 </p> 
