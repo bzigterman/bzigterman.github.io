@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
+ <p class="updated_time"> 06:24 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60317806?at_medium=RSS&at_campaign=KARANGA">SpaceX loses 40 satellites to geomagnetic storm a day after launch</a> BBC: A powerful magnetic storm takes out most of a batch of Starlink satellites the day after launch. 
+ <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
+ <p class="updated_time"> 06:21 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
+ <p class="updated_time"> 06:20 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 06:07 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60319790?at_medium=RSS&at_campaign=KARANGA">Capturing a semi-submersible loaded with cocaine</a> BBC: The Colombian navy seize a vessel carrying four tonnes of narcotics worth $150m (£110m) . 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60319790?at_medium=RSS&at_campaign=KARANGA">Capturing a semi-submersible loaded with cocaine</a> BBC: The Colombian navy seize a vessel carrying four tonnes of narcotics worth $150m (£110m). 
  <p class="updated_time"> 05:57 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60314051?at_medium=RSS&at_campaign=KARANGA">Australia: Grace Tame says caller 'threatened' against criticising PM</a> BBC: Sexual abuse survivor Grace Tame says a caller told her not imperil Scott Morrison's election chances. 
  <p class="updated_time"> 05:36 AM CT, Feb. 09 </p> 
@@ -18,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 05:22 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60316302?at_medium=RSS&at_campaign=KARANGA">Snowboarder wins Olympic gold 16 years after throwing it away</a> BBC: Sixteen years after throwing away gold, Lindsey Jacobellis finally reaches the top of the Olympic podium. 
- <p class="updated_time"> 05:15 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
  <p class="updated_time"> 04:42 AM CT, Feb. 09 </p> 
@@ -42,6 +50,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079454512/first-us-gold-medal-lindsey-jacobellis">Lindsey Jacobellis wins the U.S. its first gold medal at the 2022 Beijing Olympics</a> NPR: Jacobellis, a five-time Olympian, won her first gold medal during the women's snowboard cross event on Wednesday. She is also the oldest American woman to win a Winter Olympics gold medal. 
  <p class="updated_time"> 01:44 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
+ <p class="updated_time"> 01:42 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
+ <p class="updated_time"> 01:37 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
+ <p class="updated_time"> 01:22 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 01:20 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079419924/shaun-white-chloe-kim-compete-for-gold-2022-olympics-beijing">2 of the U.S.'s snowboard champs are in medal contention at Beijing Olympics</a> NPR: Despite a fall during one of their qualifying runs, Shaun White and Chloe Kim were able to move on to the medal round of the men's and women's halfpipe events. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
@@ -62,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 08:51 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
- <p class="updated_time"> 08:23 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo: What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
@@ -84,14 +96,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
- <p class="updated_time"> 03:56 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60310783?at_medium=RSS&at_campaign=KARANGA">Record-high seizure of $5bn in stolen Bitcoin</a> BBC: Two suspects allegedly conspired to launder the money after it was stolen by a hacker in 2016. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300231/this-team-usa-olympic-snowboarder-has-a-family-history-with-the-games">This Team USA Olympic snowboarder has a family history with the Games</a> NPR: U.S. snowboarder Stacy Gaskill is racing in her first Olympics, but this isn't her family's first time at the Games. Her mom, Martha Gaskill, won a bronze medal as a Paralympian at the Calgary Games. 
  <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300224/the-u-s-is-hiring-nurses-from-abroad-depleting-some-countries-health-care-system">The U.S. is hiring nurses from abroad, depleting some countries' health care systems</a> NPR: NPR's Adrian Florido chats with New York Times reporter Stephanie Nolen about how U.S. hospitals are relying on global recruitment to address staff shortages. 
- <p class="updated_time"> 03:39 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
@@ -99,7 +107,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Patience running thin among local people</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to Ukraine, the U.S. is publicizing what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
+ <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to invade Ukraine, the U.S. publicizes what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
  <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
@@ -120,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal-contending teams were disqualified from competing. 
- <p class="updated_time"> 11:36 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/covid-vaccine-protests-disrupt-traffic-on-u-s-canada-bridge-11644351229">Covid Vaccine Protests Disrupt Traffic on U.S.-Canada Bridge</a> WSJ: Protesters fighting vaccine mandates temporarily stopped two-way traffic on the busiest international land-border crossing in North America, as a nearly two-week demonstration in Ottawa threatened to expand and disrupt U.S.-Canada trade. 
  <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 09:39 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/who-are-canada-truck-protesters.html">Who Are the Protesters and What Do They Want?</a> NYT: The demonstrators are a diverse collection of people animated by fatigue over pandemic restrictions, seeking something that is not in the federal government’s power to grant. 
- <p class="updated_time"> 09:38 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
@@ -146,10 +150,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:11 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870">Pro-China Twitter Accounts Flood Hashtag Critical of Beijing Winter Olympics</a> WSJ: Researchers say many of the accounts are largely automated and are meant to drown out calls by advocacy groups to boycott the Beijing Games. 
+ <p class="updated_time"> 06:53 AM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60305402?at_medium=RSS&at_campaign=KARANGA">Crocodile with tyre around neck freed after six years</a> BBC: The wild reptile was helped by a local resident after a three-week rescue effort. 
  <p class="updated_time"> 06:12 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/retired-pope-benedict-xvi-asks-for-forgiveness-over-handling-of-sex-abuse-cases-11644337031">Retired Pope Benedict XVI Asks for Forgiveness Over Handling of Sex-Abuse Cases</a> WSJ: Benedict replied to charges that he mishandled cases of clerical sexual abuse during his tenure as an archbishop in Germany, but his response seemed unlikely to remove the taint that the allegations have left on his record. 
- <p class="updated_time"> 06:10 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-chinese-investors-feud-over-startup-icon-aircraft-during-national-security-review-of-deal-11644340248">U.S., Chinese Investors Feud Over Plane Startup During National Security Review</a> WSJ: The sparring over Icon Aircraft is a risky tactic during the secretive screening process by the government Committee on Foreign Investment in the U.S. 
  <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
  <p class="updated_time"> 04:57 AM CT, Feb. 08 </p> 
@@ -195,8 +199,6 @@ imageurl: https://bzigterman.com/plots/news.png
 </a> NYT: Taiwan knows what it’s like to have an overbearing neighbor. China wonders how forcefully Western powers might react to a Russian invasion. 
  <p class="updated_time"> 04:56 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/travel/jordan-petra-road-trip.html">A Photographer’s View of Jordan’s Many Splendors</a> NYT: For 10 days, a photojournalist drove across Jordan from north to south, visiting several of the country’s most treasured sites. Here’s what he saw. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
@@ -210,6 +212,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/09/read-the-houses-union-rights-resolution-00007148">Read the House's union rights resolution</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:32 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079475595/mcconnell-breaks-with-rnc-over-its-censure-of-2-house-republicans">McConnell breaks with RNC over its censure of 2 House Republicans</a> NPR: Senate Minority Leader Mitch McConnell is criticizing the Republican National Committee for censuring two House Republicans who serve on the panel investigating the U.S. Capitol insurrection. 
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
  <p class="updated_time"> 04:31 AM CT, Feb. 09 </p> 
@@ -227,7 +233,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079456052/ohio-rule-allows-for-the-possibility-of-redrawing-congressional-maps-every-4-yea">Ohio rule allows for the possibility of redrawing congressional maps every 4 years</a> NPR: Ohio lawmakers are drawing up a new congressional district map after the previous attempt was ruled unconstitutional by the state supreme court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far-right. 
+ <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far right. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Wyoming Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
  <p class="updated_time"> 11:20 PM CT, Feb. 08 </p> 
@@ -322,8 +328,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
- <p class="updated_time"> 06:17 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079112768/biden-is-promising-crippling-sanctions-on-russia-if-it-invades-ukraine">Biden is promising crippling sanctions on Russia if it invades Ukraine</a> NPR: What exactly would those sanctions look like? NPR's Leila Fadel talks to Daleep Singh, deputy national security adviser for international economics, about what the U.S. can do. 
  <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/synthetic-drug-trafficking-opioids-00006517">Government commission: Synthetic drug trafficking a ‘national security’ emergency</a> Politico: Some experts say the commission didn’t go far enough and urged the U.S. to follow Canada’s lead. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
