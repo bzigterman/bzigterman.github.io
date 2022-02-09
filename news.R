@@ -205,9 +205,15 @@ world_news_lines
 
 # create frequency plot ----
 
+world_news <- world_news %>%
+  mutate(length = nchar(item_title))
+
 ggplot(data = world_news,
-       aes(x = central_time)) +
-  geom_histogram(bins = 7) +
+       aes(x = central_time,
+           y = length)) +
+  #geom_histogram(bins = 7) +
+  geom_ribbon(aes(ymin = length - 20, ymax = length + 20),
+              fill = "darkblue") +
   theme_void()
 
 ggsave("plots/news.png", 
