@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
+ <p class="updated_time"> 10:42 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
  <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
@@ -90,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60314111?at_medium=RSS&at_campaign=KARANGA">Palakkad: Indian army rescues Kerala trekker trapped in hill crevice for 48 hours</a> BBC: The Indian army was called in after three failed attempts to reach the 23-year-old man stuck in Kerala. 
  <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
- <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60314091?at_medium=RSS&at_campaign=KARANGA">New Zealand anti-vax protesters inspired by Canada truckers camp outside parliament</a> BBC: PM Ardern dismisses anti-vax demonstrators camped outside parliament as minority. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079423262/mikaela-shiffrin-out-second-olympics-race">Olympic star Mikaela Shiffrin doesn't finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, did not to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
- <p class="updated_time"> 02:59 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/syria-kurds.html">Syria’s Kurds Wanted Autonomy. They Got an Endless War.</a> NYT: The Kurds of northeastern Syria dreamed of establishing an autonomous, multiethnic and gender-equal utopia. Instead, their breakaway region has been engulfed in conflict since its creation. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
@@ -209,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:47 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/the-biden-administration-remains-cautious-about-easing-masking-and-other-covid-safety-measures.html">The Biden administration remains cautious about easing masking and other Covid safety measures.</a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 10:11 AM CT, Feb. 09 </p> 
@@ -349,8 +351,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
- <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
