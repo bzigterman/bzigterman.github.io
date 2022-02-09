@@ -27,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/covid-cases-asia-lunar-new-year.html">Covid Cases Spike in Asia After Lunar New Year Celebrations</a> NYT: A spike in cases across Asia has followed this month’s holiday. 
  <p class="updated_time"> 01:18 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and sheds light on the virus that launched a pandemic. Check out our illustration of the virus' family tree. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and it sheds light on the coronavirus that launched a pandemic. Check out our illustration of the virus's family tree. 
  <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam claims he chose at the last moment not to blow himself up during the Paris attacks. 
  <p class="updated_time"> 01:04 PM CT, Feb. 09 </p> 
@@ -205,8 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
  <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
- <p class="updated_time"> 02:18 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements in since Jan. 1. Here’s how policies are changing. 
+ <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/navy-fighter-jet-china.html">What Happens When a Stealth Jet Ends Up on the Ocean Floor?</a> NYT: Here’s how the Navy might recover a $94 million F-35 Joint Strike Fighter that crashed in China’s backyard. 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
