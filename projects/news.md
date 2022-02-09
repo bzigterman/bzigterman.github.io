@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655013/pope-benedict-xvi-apologizes-for-handling-of-sexual-abuse-cases-but-denies-wrong">Pope Benedict XVI apologizes for handling of sexual abuse cases but denies wrongdoing</a> NPR: A report on sex abuse in the German Catholic Church faulted former Pope Benedict's handling of four cases. Benedict acknowledged the abuses under his watch but denied any wrongdoing. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
@@ -16,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079654978/teachers-in-puerto-rico-strike-to-demand-higher-wages-and-better-pensions">Teachers in Puerto Rico strike to demand higher wages and better pensions</a> NPR: NPR's Adrian Florido speaks with Jose Cintron, a middle school teacher in Puerto Rico, about the teachers' ongoing strikes to demand better wages and pensions. 
  <p class="updated_time"> 03:21 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
- <p class="updated_time"> 03:16 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
  <p class="updated_time"> 02:57 PM CT, Feb. 09 </p> 
@@ -72,6 +74,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
+ <p class="updated_time"> 10:25 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
+ <p class="updated_time"> 10:22 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
  <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
@@ -114,16 +120,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-military-natural-gas-make-japan-cautious-about-u-s-led-sanctions-11644419603">Ties to Russia Make Japan Wary of Strong Sanctions</a> WSJ: Russia’s military presence around disputed islands and Japan’s reliance on energy imports add to pressure on Tokyo not to join in threats to sanction Moscow over Ukraine. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
- <p class="updated_time"> 03:29 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079454512/first-us-gold-medal-lindsey-jacobellis">Lindsey Jacobellis wins the U.S. its first gold medal at the 2022 Beijing Olympics</a> NPR: Jacobellis, a five-time Olympian, won her first gold medal during the women's snowboard cross event on Wednesday. She is also the oldest American woman to win a Winter Olympics gold medal. 
- <p class="updated_time"> 01:37 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
  <p class="updated_time"> 01:20 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079419924/shaun-white-chloe-kim-compete-for-gold-2022-olympics-beijing">2 of the U.S.'s snowboard champs are in medal contention at Beijing Olympics</a> NPR: Despite a fall during one of their qualifying runs, Shaun White and Chloe Kim were able to move on to the medal round of the men's and women's halfpipe events. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
@@ -195,6 +197,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079654999/black-voters-in-alabama-say-supreme-court-decision-dilutes-their-voting-power">Black voters in Alabama say Supreme Court decision dilutes their voting power</a> NPR: African-American voters in Alabama say a Supreme Court decision dilutes their voting power. Republican leaders say race should not be the predominant factor for drawing congressional district lines. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079654985/to-avert-russian-invasion-of-ukraine-france-and-germany-try-to-revive-minsk-acco">To avert Russian invasion of Ukraine, France and Germany try to revive Minsk accords</a> NPR: France, Germany, Ukraine and Russia signed a peace accord several years ago that was never fully implemented. It may prove to be the off-ramp which will end the Ukraine crisis. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079654971/democrats-roll-back-covid-restrictions-in-their-states-as-omicron-attitudes-shif">Democrats roll back COVID restrictions in their states as omicron attitudes shift</a> NPR: Several Democratic-led states are rolling back coronavirus restrictions in the face of public wariness as the omicron surge eases. Federal health officials advise those restrictions are still needed. 
  <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
@@ -202,7 +212,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over 'both sides' critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
+ <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators on Wednesday that Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 03:02 PM CT, Feb. 09 </p> 
@@ -301,12 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300253/bidens-top-science-adviser-resigned-following-complaints-about-his-work-behavior">Biden's top science adviser resigned following complaints about his work behavior</a> NPR: President Biden said he would fire anyone who was a jerk at work. But that's not what happened when his science adviser Eric Lander was found to have created a toxic workplace. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300238/blinken-heads-out-to-reassure-asian-nations-that-the-u-s-is-still-focused-on-chi">Blinken heads out to reassure Asian nations that the U.S. is still focused on China</a> NPR: Secretary of State Antony Blinken heads out on an Asia swing this week to reinforce the administration's continued focus on competition with China despite the crisis in Ukraine. 
- <p class="updated_time"> 03:44 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079300246/the-white-house-wants-to-transition-to-a-green-economy-which-is-tricky-without-m">The White House wants to transition to a green economy, which is tricky without mines</a> NPR: The Biden administration recently canceled a proposed mine. While environmentalists celebrated, it shows how hard it is to build a domestic supply of the minerals needed to switch to a green economy. 
- <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079300217/with-midterms-looming-voters-dont-feel-good-about-bidens-handling-of-the-economy">With midterms looming, voters don't feel good about Biden's handling of the economy</a> NPR: The economy looks good on paper but it doesn't feel good to voters. And that's a problem for President Biden and his party going into the midterms. We explore the disconnect with help from economists. 
- <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079300196/scientist-says-state-governments-are-lifting-mask-mandates-prematurely">Scientist says state governments are lifting mask mandates prematurely</a> NPR: NPR's Adrian Florido talks with Mercedes Carnethon, vice chair of the Department of Preventive Medicine at Northwestern University, on whether local governments lifting mask mandates is science-based. 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
@@ -327,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
- <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/synthetic-drug-trafficking-opioids-00006517">Government commission: Synthetic drug trafficking a ‘national security’ emergency</a> Politico: Some experts say the commission didn’t go far enough and urged the U.S. to follow Canada’s lead. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
