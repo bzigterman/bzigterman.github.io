@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliott Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 10:42 AM CT, Feb. 09 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
- <p class="updated_time"> 11:52 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliot Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal-contending teams were disqualified from competing. 
  <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
@@ -209,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/congress-stock-trading.html">Pelosi Endorses Stock-Trading Ban for Lawmakers</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 10:47 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/the-biden-administration-remains-cautious-about-easing-masking-and-other-covid-safety-measures.html">The Biden administration remains cautious about easing masking and other Covid safety measures.</a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
@@ -337,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
- <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court Restores Alabama Voting Map That a Court Said Hurt Black Voters</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 11:02 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
  <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
