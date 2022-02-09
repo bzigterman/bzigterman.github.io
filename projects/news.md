@@ -8,20 +8,34 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
+ <p class="updated_time"> 06:56 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60313101?at_medium=RSS&at_campaign=KARANGA">UCLA in $250m payout for gynaecologist's sex abuse</a> BBC: A campus gynaecologist at UCLA allegedly abused hundreds of patients over his 35-year career. 
+ <p class="updated_time"> 06:53 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
+ <p class="updated_time"> 06:50 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">India: Malala weighs into Karnataka hijab row</a> BBC: The education activist's plea comes after hijab-wearing students were denied entry to classrooms. 
  <p class="updated_time"> 06:34 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 06:22 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
+ <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
+ <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60301755?at_medium=RSS&at_campaign=KARANGA">Why Uganda is investing in oil despite pressures to go green</a> BBC: As people eye the benefits there are questions over the environmental cost and the timing. 
+ <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60240767?at_medium=RSS&at_campaign=KARANGA">Bosnia shivers as ghost of nationalism returns</a> BBC: Why Bosnian Serbs have a new strongman unafraid to stir the horrors of the past. 
  <p class="updated_time"> 05:50 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Plans for a Protest by Truckers in the U.S. Gain Momentum</a> NYT: A convoy-style demonstration starting in California and ending in Washington appears to be gathering supporters online. 
  <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
- <p class="updated_time"> 05:48 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
  <p class="updated_time"> 05:19 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/02/08/world/ukraine-russia-news">Europeans Pursue Diplomacy Amid Mixed Signals on Russian Aims in Ukraine</a> NYT: President Emmanuel Macron of France said time was needed to solve the crisis, as the Kremlin refuted reports that he and President Vladimir V. Putin of Russia had made progress toward de-escalation. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
+ <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
@@ -40,10 +54,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
- <p class="updated_time"> 03:11 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 02:53 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
+ <p class="updated_time"> 02:41 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his late gay nephew and his son as he urges lawmakers not to rush legislation through. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
@@ -78,12 +92,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 11:04 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60303081?at_medium=RSS&at_campaign=KARANGA">Korea: High-profile suicides spark cyber-bullying petition</a> BBC: Two well-known figures in Korea died this week after being targeted on social media. 
- <p class="updated_time"> 10:42 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60298544?at_medium=RSS&at_campaign=KARANGA">Zhu Yi: US-born Chinese Olympic figure skater slated in China after falls</a> BBC: Zhu Yi fell during her team event sparking backlash from some social media users in China. 
  <p class="updated_time"> 10:37 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60146616?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: The Power of the Dog leads nominations</a> BBC: Belfast, Dune and West Side Story will also be in the running at the Academy Awards. 
- <p class="updated_time"> 10:30 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60306263?at_medium=RSS&at_campaign=KARANGA">West Bank: Three Palestinian militants killed in Israeli operation</a> BBC: The car the three men were in was riddled with gunfire in a rare daytime operation in the West Bank. 
  <p class="updated_time"> 09:55 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60307745?at_medium=RSS&at_campaign=KARANGA">'I have sinned': US nun gets one year in jail for $835k theft</a> BBC: Mary Margaret Kreuper, 80, admitted to breaking her vow of poverty to fund a gambling habit. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
@@ -98,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
  <p class="updated_time"> 08:40 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
- <p class="updated_time"> 08:21 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60305844?at_medium=RSS&at_campaign=KARANGA">Ex-Pope admits errors in handling of abuse cases</a> BBC: Former Pope Benedict XVI is accused of failing to act over four cases of historic child sex abuse. 
  <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
@@ -110,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 06:53 AM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-60305402?at_medium=RSS&at_campaign=KARANGA">Crocodile with tyre around neck freed after six years</a> BBC: The wild reptile was helped by a local resident after a three-week rescue effort. 
- <p class="updated_time"> 06:27 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60301705?at_medium=RSS&at_campaign=KARANGA">Czech millionaire investigated over alleged 417km/h motorway drive in Germany</a> BBC: The Czech sports car owner posted videos of his trip in a Bugatti Chiron on the A2 last summer. 
  <p class="updated_time"> 06:12 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/retired-pope-benedict-xvi-asks-for-forgiveness-over-handling-of-sex-abuse-cases-11644337031">Retired Pope Benedict XVI Asks for Forgiveness Over Handling of Sex-Abuse Cases</a> WSJ: Benedict replied to charges that he mishandled cases of clerical sexual abuse during his tenure as an archbishop in Germany, but his response seemed unlikely to remove the taint that the allegations have left on his record. 
  <p class="updated_time"> 06:10 AM CT, Feb. 08 </p> 
@@ -142,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079107941/canada-defeats-u-s-in-womens-hockey-to-renew-classic-olympic-rivalry-in-beijing">Canada defeats U.S. in women's hockey to renew classic Olympic rivalry in Beijing</a> NPR: Canada's 4-2 victory over the U.S. in group play gives the Canadians the top-seed heading into the quarterfinals. The U.S., the defending gold medalists, also advance to the quarterfinals. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 12:20 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60298184?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Winter Olympics hit by deluge of complaints from athletes</a> BBC: Grievances range from having to compete in freezing temperatures to confusion over isolation rules. 
  <p class="updated_time"> 11:58 PM CT, Feb. 07 </p> 
  <a href="https://www.npr.org/2022/02/08/1079083996/nathan-chen-short-program-winter-olympics">U.S. figure skater Nathan Chen sparkles in men's short program at Beijing Olympics</a> NPR: Majestic and composed, Chen exulted at the end — shaking off his terrible short performance four years ago at the Pyeongchang Olympics and setting him up to win gold after Thursday's free skate. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
@@ -204,12 +208,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:37 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
+ <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
+ <p class="updated_time"> 07:48 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
+ <p class="updated_time"> 07:34 PM CT, Feb. 08 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 07:12 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
+ <p class="updated_time"> 06:39 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Censure of Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canada-freedom-convoy-fundraiser-republicans-00007007">U.S. lawmakers threaten to probe GoFundMe after trucker fundraiser shutdown</a> Politico: Ted Cruz: “For Big Tech oligarchs to be willing to be the enforcement arm of government authoritarians is extraordinarily dangerous.” 
- <p class="updated_time"> 06:30 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/spy-world-biden-leaking-russia-intel-00006956">Spy world wary as Biden team keeps leaking Russia intel</a> Politico: U.S. national security figures get that information war is the new battleground. But "how many freaking times do they need to warn that anything may be imminent?” one asked. 
  <p class="updated_time"> 06:05 PM CT, Feb. 08 </p> 
@@ -259,7 +271,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Americans Are Frustrated With the Pandemic. These Polls Show How Much.</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Polls Show How Frustrated Americans Are With Covid Restrictions</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:26 PM CT, Feb. 08 </p> 
@@ -314,8 +326,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/supreme-court-alabama-redistricting-congressional-map.html">Supreme Court Restores Alabama Voting Map That a Court Said Hurt Black Voters</a> NYT: A special three-judge court had ordered lawmakers to redraw the lines, saying Black voters “have less opportunity” than other Alabamians to elect their favored candidates. 
  <p class="updated_time"> 11:02 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/electoral-count-act-reform.html">Senators Look to Fix 1887 Electoral Act Putting U.S. Democracy at Risk</a> NYT: A bipartisan group of lawmakers wants to fix the Electoral Count Act, the obscure law used to justify the Jan. 6 riot. Is it even possible? 
- <p class="updated_time"> 10:25 PM CT, Feb. 07 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 08:49 PM CT, Feb. 07 </p> 
@@ -326,14 +336,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
- <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
  <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
- <p class="updated_time"> 04:43 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/business/economy/us-japan-steel-tariffs.html">The U.S. and Japan strike a deal to roll back Trump-era steel tariffs.</a> NYT: The agreement will transform a current 25 percent tariff into a so-called tariff-rate quota, exempting up to 1.25 million metric tons of Japanese steel. 
  <p class="updated_time"> 04:03 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html">IRS to End Use of Facial Recognition for Identity Verification</a> NYT: After a bipartisan backlash, the agency will transition away from using a service from ID.me. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
@@ -404,8 +410,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388">Why Lindsey Graham is going all-in on Biden SCOTUS pick</a> Politico: The South Carolina Republican swung from Trump critic to supporter, and now he's swinging from Biden antagonizer to potential ally. 
  <p class="updated_time"> 11:48 PM CT, Feb. 01 </p> 
  <a href="https://www.cnn.com/2022/02/02/politics/senate-democrats-supreme-court-ben-ray-lujan/index.html">Democratic senator's stroke exposes fragility of 50-50 Senate majority</a> CNN: As if their stalled and tattered agenda wasn't proof enough, Democrats just got a poignant reminder of the precarious nature of life in a 50-50 Senate, especially ahead of an impending Supreme Court nomination. 
- <p class="updated_time"> 07:20 PM CT, Feb. 01 </p> 
- <a href="https://www.politico.com/news/2022/02/01/democratic-senate-reels-after-lujan-stroke-00004432">Luján stroke sends Senate Democrats reeling</a> Politico: While the 49-year-old New Mexico Democrat is expected to make a full recovery, Democrats lose their working majority in his absence. 
 
 
 </details>
