@@ -13,7 +13,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 14 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, bailed out of the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
+ <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, failed to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 09:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/400-million-covid-cases.html">World Surpasses 400 Million Confirmed Covid Cases</a> NYT: The total has doubled in only six months as the most recent surge took a toll. 
  <p class="updated_time"> 09:14 PM CT, Feb. 08 </p> 
