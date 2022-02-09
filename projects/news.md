@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
+ <p class="updated_time"> 12:35 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
+ <p class="updated_time"> 12:28 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
+ <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60323990?at_medium=RSS&at_campaign=KARANGA">ICJ orders Uganda to pay for DR Congo occupation</a> BBC: International judges blame Uganda for the death of 10-15,000 people between 1998 and 2003. 
+ <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-american-climate-envoy-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 12:22 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
- <p class="updated_time"> 12:12 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 11:46 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
  <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
@@ -84,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
- <p class="updated_time"> 03:03 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
@@ -100,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 12:03 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60313101?at_medium=RSS&at_campaign=KARANGA">US university in $250m payout for doctor's sex abuse</a> BBC: A campus gynaecologist at UCLA allegedly abused hundreds of patients over his 35-year career. 
- <p class="updated_time"> 11:48 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60314111?at_medium=RSS&at_campaign=KARANGA">Palakkad: Indian army rescues Kerala trekker trapped in hill crevice for 48 hours</a> BBC: The Indian army was called in after three failed attempts to reach the 23-year-old man stuck in Kerala. 
  <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
@@ -153,9 +157,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
- <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal-contending teams were disqualified from competing. 
+ <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Canadian truckers block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
  <p class="updated_time"> 12:48 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
- <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
 
 
 </details>
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
  <p class="updated_time"> 11:51 AM CT, Feb. 09 </p> 
@@ -220,7 +222,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:34 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079500844/mcconnell-rnc">Mitch McConnell criticizes the RNC for censuring 2 Republicans on Jan. 6 panel</a> NPR: In a rare break with his party, the Senate minority leader said that it's not the RNC's job to single out party members with different views, referring to Reps. Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 08:23 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censure Vote Has Republicans Battling Themselves Again</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censuring Reps. Cheney and Kinzinger Sets Off Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
  <p class="updated_time"> 07:53 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/u-s-trucker-convoy-to-washington-gathers-steam-00007135">U.S. trucker convoy to Washington gathers steam</a> Politico: The organizers of the “People’s Convoy” announced that truckers will be gathering in Indio, Calif., on March 4 — and rolling on from there. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
@@ -237,8 +239,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/climate-change-expensive-who-should-pay-00005198">Climate change will be expensive. Who should pay?</a> Politico: Global poll finds widespread agreement that companies must shoulder more of the cost in combatting carbon emissions. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
