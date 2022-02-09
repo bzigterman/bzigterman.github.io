@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:57 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/asia/turkey-inflation-doctors.html">Turkey’s Doctors Are Leaving, the Latest Casualty of Spiraling Inflation</a> NYT: Doctors, worn down by grueling hours and violence, are emigrating in rising numbers, undermining one of President Recep Tayyip Erdogan’s signature achievements. 
  <p class="updated_time"> 07:26 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 06:56 PM CT, Feb. 08 </p> 
@@ -190,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/travel/jordan-petra-road-trip.html">A Photographer’s View of Jordan’s Many Splendors</a> NYT: For 10 days, a photojournalist drove across Jordan from north to south, visiting several of the country’s most treasured sites. Here’s what he saw. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/asia/turkey-inflation-doctors.html">Turkey’s Doctors Are Leaving, the Latest Casualty of Spiraling Inflation</a> NYT: Doctors, worn down by grueling hours and violence, are emigrating in rising numbers, undermining one of President Recep Tayyip Erdogan’s signature achievements. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/africa/sudan-protest-movement.html">Sudan's 'Resistance Committees' Take On the Generals</a> NYT: Hundreds of loosely connected “resistance committees” are organizing nonviolent protests, tracking the injured and dead and demanding a government led by civilians. 
@@ -208,16 +208,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:08 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/gun-waving-stlouis-couple-probation-00007091">Gun-waving St. Louis couple placed on probation as lawyers</a> Politico: Mark and Patricia McCloskey gained national attention during protests last year. 
  <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
+ <p class="updated_time"> 08:17 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 07:48 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 07:34 PM CT, Feb. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:12 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 06:39 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Censure of Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
