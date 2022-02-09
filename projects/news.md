@@ -8,14 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079338002/russia-ukraine-europe-gas-nordstream2-energy">Explaining why natural gas plays such a big role in the Russia-Ukraine crisis</a> NPR: As much as 40% of Europe's natural gas supply comes from Russia, a reliance that puts U.S. allies like Germany in a jam when it comes to finding a sanctions solution to the crisis. 
+ <p class="updated_time"> 01:31 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/johnson-lifting-covid-restrictions.html">Johnson Outlines Plan for Lifting All Virus Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
+ <p class="updated_time"> 01:28 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60320874?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge protest: Truckers block vital Canada-US border crossing</a> BBC: Business associations warn that the closure of the Ambassador Bridge threatens the US and Canadian economies. 
+ <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
+ <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/asia/covid-cases-asia-lunar-new-year.html">Covid Cases Spike in Asia After Lunar New Year Celebrations</a> NYT: A spike in cases across Asia has followed this month’s holiday. 
  <p class="updated_time"> 01:18 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and sheds light on the virus that launched a pandemic. Check out our illustration of the virus' family tree. 
  <p class="updated_time"> 01:13 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam claims he chose at the last moment not to blow himself up during the Paris attacks. 
- <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-crisis-putin-choices.html">In Ukraine Crisis, Putin’s Choices Are Both Varied and Stark</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:04 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 12:57 PM CT, Feb. 09 </p> 
@@ -28,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
  <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60323990?at_medium=RSS&at_campaign=KARANGA">ICJ orders Uganda to pay $325m for DR Congo occupation</a> BBC: International judges blame Uganda for the death of 10-15,000 people between 1998 and 2003. 
- <p class="updated_time"> 12:22 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
@@ -52,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 08:50 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60320874?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge protest: Truckers block vital Canada-US border crossing</a> BBC: Business associations warn that the closure of the Ambassador Bridge threatens the US and Canadian economies. 
  <p class="updated_time"> 08:49 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 08:47 AM CT, Feb. 09 </p> 
@@ -88,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
  <p class="updated_time"> 04:42 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges were shut after massive protests over Muslim women wearing headscarves in class. 
- <p class="updated_time"> 04:32 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/asia/covid-cases-asia-lunar-new-year.html">Covid Cases Spike in Asia After Lunar New Year Celebrations</a> NYT: A spike in cases across Asia has followed this month’s holiday. 
  <p class="updated_time"> 04:13 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-military-natural-gas-make-japan-cautious-about-u-s-led-sanctions-11644419603">Ties to Russia Make Japan Wary of Strong Sanctions</a> WSJ: Russia’s military presence around disputed islands and Japan’s reliance on energy imports add to pressure on Tokyo not to join in threats to sanction Moscow over Ukraine. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
@@ -110,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079419924/shaun-white-chloe-kim-compete-for-gold-2022-olympics-beijing">2 of the U.S.'s snowboard champs are in medal contention at Beijing Olympics</a> NPR: Despite a fall during one of their qualifying runs, Shaun White and Chloe Kim were able to move on to the medal round of the men's and women's halfpipe events. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
- <p class="updated_time"> 12:03 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60313101?at_medium=RSS&at_campaign=KARANGA">US university in $250m payout for doctor's sex abuse</a> BBC: A campus gynaecologist at UCLA allegedly abused hundreds of patients over his 35-year career. 
  <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
@@ -146,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
- <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to invade Ukraine, the U.S. publicizes what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
  <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
@@ -186,8 +186,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
  <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60296254?at_medium=RSS&at_campaign=KARANGA">John Simpson in Afghanistan: Watching the destruction of a nation?</a> BBC: The BBC's John Simpson returns to Afghanistan and finds a country on the brink of famine. 
- <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
+ <p class="updated_time"> 06:07 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/japan-wasabi.html">‘A Sense of Crisis’ for Wasabi, a Pungent Staple of Japanese Cuisine</a> NYT: Climate and demographic threats are chipping away at a centuries-old culture surrounding the cultivation of the fluorescent green plant. 
 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
@@ -243,6 +245,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/climate-change-expensive-who-should-pay-00005198">Climate change will be expensive. Who should pay?</a> Politico: Global poll finds widespread agreement that companies must shoulder more of the cost in combatting carbon emissions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079456052/ohio-rule-allows-for-the-possibility-of-redrawing-congressional-maps-every-4-yea">Ohio rule allows for the possibility of redrawing congressional maps every 4 years</a> NPR: Ohio lawmakers are drawing up a new congressional district map after the previous attempt was ruled unconstitutional by the state supreme court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
@@ -299,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
- <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/canadian-truckers-shut-down-border-crossing-00006732">Canadian truckers shut down busiest U.S.-Canada border crossing</a> Politico: The Ambassador Bridge, a key border crossing for U.S.-Canada trade, was shut down by Canadian protesters objecting to Covid restrictions. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/covid-restrictions-americans.html">Polls Show How Frustrated Americans Are With Covid Restrictions</a> NYT: The balance of recent surveys suggests that the desire to return to normalcy has approached or even overtaken alarm about the coronavirus itself. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
