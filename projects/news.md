@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:53 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 04:24 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655020/ukrainians-in-and-near-crimea-have-seen-up-close-what-happens-when-russia-invade">Ukrainians in and near Crimea have seen up close what happens when Russia invades</a> NPR: Russia occupied Crimea in 2014 and is sending more troops there now. Ukrainians who live near Crimea are considering the consequences of their rejection of Russia and embrace of the West. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079654985/to-avert-russian-invasion-of-ukraine-france-and-germany-try-to-revive-minsk-acco">To avert Russian invasion of Ukraine, France and Germany try to revive Minsk accords</a> NPR: France, Germany, Ukraine and Russia signed a peace accord several years ago that was never fully implemented. It may prove to be the off-ramp which will end the Ukraine crisis. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079654978/teachers-in-puerto-rico-strike-to-demand-higher-wages-and-better-pensions">Teachers in Puerto Rico strike to demand higher wages and better pensions</a> NPR: NPR's Adrian Florido speaks with Jose Cintron, a middle school teacher in Puerto Rico, about the teachers' ongoing strikes to demand better wages and pensions. 
- <p class="updated_time"> 03:21 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
  <p class="updated_time"> 02:57 PM CT, Feb. 09 </p> 
@@ -74,12 +74,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60306389?at_medium=RSS&at_campaign=KARANGA">Bosnia: Three decades on, bereaved families fear return to war</a> BBC: A rise in Serb nationalism is threatening the peace agreement that holds together Bosnia-Herzegovina. 
  <p class="updated_time"> 11:17 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
+ <p class="updated_time"> 11:05 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/european-scientists-set-nuclear-fusion-energy-world-record-11644440648">European Scientists Set Nuclear-Fusion Energy World Record</a> WSJ: A device based at a U.K. facility in Oxfordshire has produced the highest sustained nuclear-fusion energy ever recorded, European researchers said. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 10:22 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
- <p class="updated_time"> 10:04 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/european-scientists-set-nuclear-fusion-energy-world-record-11644440648">European Scientists Set Nuclear-Fusion Energy World Record</a> WSJ: A device based at a U.K. facility in Oxfordshire has produced the highest sustained nuclear-fusion energy ever recorded, European researchers said. 
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
  <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
@@ -199,10 +199,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
- <p class="updated_time"> 03:52 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-inquiry.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
+ <p class="updated_time"> 04:27 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Wyoming Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
+ <p class="updated_time"> 04:12 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-advisor-peter-navarro">Jan. 6 panel subpoenas former Trump White House trade advisor Peter Navarro</a> NPR: The House Jan. 6 panel says former Trump White House trade advisor Peter Navarro documented, in his own book, efforts to delay certification of 2020 election results. 
+ <p class="updated_time"> 03:56 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">Michelle Childs Would Be Unconventional Supreme Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
- <p class="updated_time"> 03:50 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-subpoena.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
  <p class="updated_time"> 03:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655006/control-of-congress-is-up-for-grabs-this-fall-georgias-senator-feels-the-pressur">Control of Congress is up for grabs this fall. Georgia's senator feels the pressure</a> NPR: Democrats like Georgia Sen. Raphael Warnock are under pressure. President Biden's approval numbers are low, his legislative agenda has stalled, and control of Congress is up for grabs this fall. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
@@ -224,7 +228,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:02 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Stock Trading Ban for Lawmakers Gains Momentum on Capitol Hill</a> NYT: A bipartisan push is growing to bar members of Congress from trading individual stocks, an effort pushed by vulnerable lawmakers eager to take on perceived corruption in Washington. 
  <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 02:52 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
@@ -240,7 +244,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
+ <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
@@ -266,17 +270,15 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079456052/ohio-rule-allows-for-the-possibility-of-redrawing-congressional-maps-every-4-yea">Ohio rule allows for the possibility of redrawing congressional maps every 4 years</a> NPR: Ohio lawmakers are drawing up a new congressional district map after the previous attempt was ruled unconstitutional by the state supreme court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far right. 
- <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Wyoming Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 09:08 PM CT, Feb. 08 </p> 
@@ -309,10 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079205081/house-passes-stopgap-bill-to-avoid-government-shutdown">House passes stopgap bill to avoid government shutdown</a> NPR: This is the third stopgap spending bill to keep the federal government afloat since October. 
  <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
- <p class="updated_time"> 04:06 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/trudeau-lightbound-covid-restrictions-convoy-00006774">Trudeau's own party is starting to turn on him over Covid restrictions</a> Politico: Liberal MP Joël Lightbound: 'A decision was made to wedge, to divide and to stigmatize.' 
- <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079300253/bidens-top-science-adviser-resigned-following-complaints-about-his-work-behavior">Biden's top science adviser resigned following complaints about his work behavior</a> NPR: President Biden said he would fire anyone who was a jerk at work. But that's not what happened when his science adviser Eric Lander was found to have created a toxic workplace. 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
  <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
@@ -331,6 +329,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
+ <p class="updated_time"> 05:01 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/synthetic-drug-trafficking-opioids-00006517">Government commission: Synthetic drug trafficking a ‘national security’ emergency</a> Politico: Some experts say the commission didn’t go far enough and urged the U.S. to follow Canada’s lead. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
@@ -355,6 +355,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
