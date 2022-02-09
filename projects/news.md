@@ -27,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
  <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: There is no easy way to end the blockade in Canada's capital by truckers opposed to vaccine mandates. 
  <p class="updated_time"> 09:09 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
@@ -112,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo: What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60301755?at_medium=RSS&at_campaign=KARANGA">Why Uganda is investing in oil despite pressures to go green</a> BBC: As people eye the benefits there are questions over the environmental cost and the timing. 
- <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60240767?at_medium=RSS&at_campaign=KARANGA">Bosnia shivers as ghost of nationalism returns</a> BBC: Why Bosnian Serbs have a new strongman unafraid to stir the horrors of the past. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60308612?at_medium=RSS&at_campaign=KARANGA">Canadian capital on edge as trucker protest rolls on</a> BBC: Some Ottawa residents are fed up with the disruption, but truckers vow they're in it for the long haul. 
  <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
@@ -136,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
- <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Patience running thin among local people</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to invade Ukraine, the U.S. publicizes what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
  <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
@@ -180,12 +176,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
- <p class="updated_time"> 06:19 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-38916161?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh assembly elections 2022: The Indian polls everyone is watching</a> BBC: With a population larger than Brazil, Uttar Pradesh state will soon start its seven-phased polls. 
- <p class="updated_time"> 06:18 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60289571?at_medium=RSS&at_campaign=KARANGA">Coups in Africa: Why they don’t spell the end of democracy</a> BBC: Two experts argue that democracy is still the way forward for the continent, despite some set backs. 
  <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60296254?at_medium=RSS&at_campaign=KARANGA">John Simpson in Afghanistan: Watching the destruction of a nation?</a> BBC: The BBC's John Simpson returns to Afghanistan and finds a country on the brink of famine. 
+ <p class="updated_time"> 06:07 PM CT, Feb. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60291670?at_medium=RSS&at_campaign=KARANGA">The Jews dressing as Muslims to get around a prayer ban</a> BBC: Some extremist Jews reveal that they have been dressing as Muslims to enter and worship at Temple Mount/al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:29 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/middleeast/israel-pegasus-spyware.html">Israel to Investigate Domestic Use of Pegasus Spyware as Scrutiny Hits Home</a> NYT: The decision reflected rising concerns about the use of the spyware in Israel, and could affect the corruption trial of former Prime Minister Netanyahu. 
  <p class="updated_time"> 02:18 PM CT, Feb. 07 </p> 
@@ -194,12 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/omicron-subvariant-ba-2.html">BA.2 Omicron Subvariant Gains In Europe, But May Not Change Much</a> NYT: Though the BA.2 subvariant spreads more readily, it does not appear to cause more serious disease than the BA.1 version of Omicron, the coronavirus variant that drove the latest global surge. 
  <p class="updated_time"> 09:36 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/sports/soccer/marc-overmars-quits-ajax-harassment.html">Marc Overmars, Dutch Soccer Star, Quits Post After Admitting to Inappropriate Texts</a> NYT: Marc Overmars, a former player who became a director at Ajax, one of Europe’s top clubs, apologized for his actions. The club said he had “gone over the line.” 
- <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
- <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60277353?at_medium=RSS&at_campaign=KARANGA">Eileen Gu: US-China tension is trickiest slope for Olympic free skier</a> BBC: The US-born athlete representing China is provoking as much talk about her politics as her prodigious skiing. 
- <p class="updated_time"> 06:29 PM CT, Feb. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60210869?at_medium=RSS&at_campaign=KARANGA">Tonga: How an Internet blackout left many desperate for money</a> BBC: The breakdown cut off a vital source of funds to Tongans at a time when they needed it most. 
 
 
 </details>
@@ -209,14 +197,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 11:48 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York lifts indoor mask mandate, with California and N.J. mandates also set to end</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
  <p class="updated_time"> 11:22 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079541236/florida-dont-say-gay-bill">'Don't Say Gay' bill would limit discussion of sexuality and gender in Florida schools</a> NPR: Supporters say the measure empowers parents to have a say in what their children learn. Critics argue it will harm LGBTQ kids. President Biden slammed the bill, which has Gov. Ron DeSantis' support. 
- <p class="updated_time"> 10:47 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 10:11 AM CT, Feb. 09 </p> 
