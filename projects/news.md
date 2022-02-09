@@ -9,7 +9,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-beijing-curling-korea-garlic.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
+ <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:40 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
