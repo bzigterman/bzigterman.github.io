@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:46 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
+ <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079568745/jeff-bezos-yacht-de-hef-bridge-rotterdam-eggs">The Dutch vow to egg Jeff Bezos' yacht if a famed bridge is dismantled so it can pass</a> NPR: After early reports that the city of Rotterdam would briefly dismantle a bridge for the yacht's passage, thousands of people joined a Facebook event called "Throwing eggs at superyacht Jeff Bezos." 
  <p class="updated_time"> 11:38 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
  <p class="updated_time"> 11:31 AM CT, Feb. 09 </p> 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
  <p class="updated_time"> 11:10 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
- <p class="updated_time"> 11:06 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
@@ -156,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:38 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079212805/ski-jumping-suit-violation-winter-olympics">5 women ski jumpers are disqualified at the Olympics over their jumpsuits</a> NPR: "The sport of ski jumping has experienced one of its darker days," a Norwegian official said, after athletes from some of the top medal-contending teams were disqualified from competing. 
- <p class="updated_time"> 11:31 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079211621/ye-olde-fighting-cocks-closing">A pub that claims to be England's oldest could close its doors because of COVID</a> NPR: Ye Olde Fighting Cocks in St. Albans dates back to the 8th century, with a storied past featuring medieval pigeons, Oliver Cromwell and tunnels once traversed by monks. Now its future is uncertain. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
@@ -209,12 +209,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
+ <p class="updated_time"> 11:48 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York ends its indoor mask mandate, joining California and New Jersey</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
+ <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York lifts indoor mask mandate, with California and N.J. mandates also set to end</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
  <p class="updated_time"> 11:22 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079541236/florida-dont-say-gay-bill">'Don't Say Gay' bill would limit discussion of sexuality and gender in Florida schools</a> NPR: Supporters say the measure empowers parents to have a say in what their children learn. Critics argue it will harm LGBTQ kids. President Biden slammed the bill, which has Gov. Ron DeSantis' support. 
- <p class="updated_time"> 11:14 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 10:47 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
