@@ -84,6 +84,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60312013?at_medium=RSS&at_campaign=KARANGA">Starbucks fires organisers as union threat grows</a> BBC: The coffee giant rejects accusations of retaliation after firing staff at one of its locations in Memphis. 
  <p class="updated_time"> 03:12 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
+ <p class="updated_time"> 02:41 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his late gay nephew and his son as he urges lawmakers not to rush legislation through. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
  <p class="updated_time"> 02:21 PM CT, Feb. 08 </p> 
@@ -132,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
  <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
- <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60302683?at_medium=RSS&at_campaign=KARANGA">Meta told to overhaul policies over doxxing fears</a> BBC: The company's Oversight Board says the sharing of private residential address should never be allowed. 
  <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:11 AM CT, Feb. 08 </p> 
