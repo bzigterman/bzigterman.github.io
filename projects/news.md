@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:20 AM CT, Feb. 09 </p> 
+ <p class="updated_time"> 09:10 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
+ <p class="updated_time"> 09:09 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
+ <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
+ <p class="updated_time"> 09:00 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
+ <p class="updated_time"> 08:49 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
+ <p class="updated_time"> 08:47 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079506355/new-zealand-protest-vaccine-mask-mandates">New Zealand convoy clogs streets near Parliament to protest vaccine mandates</a> NPR: Among the protesters' grievances is the requirement in New Zealand that certain workers get vaccinated against the coronavirus, including teachers, doctors, nurses, police and military personnel. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:43 AM CT, Feb. 09 </p> 
@@ -19,7 +29,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:16 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60318874?at_medium=RSS&at_campaign=KARANGA">Pakistan: Police hunt for 'healer' who hit nail into woman's head</a> BBC: The faith healer promised the woman that the practice would guarantee she gave birth to a baby boy. 
  <p class="updated_time"> 06:56 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60320663?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on Encanto success</a> BBC: 'We Don't Talk About Bruno' made it to number 1 in the UK , the first original Disney song to do so. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60320663?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on Encanto success</a> BBC: We Don't Talk About Bruno made it to number one in the UK, the first original Disney song to do so. 
  <p class="updated_time"> 06:43 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60317432?at_medium=RSS&at_campaign=KARANGA">Bruno Aiub: Podcaster fired over call for Brazilian Nazi party</a> BBC: Bruno Aiub has apologised for the on air comments, saying he was "very drunk" when he made them. 
  <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
@@ -28,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60317806?at_medium=RSS&at_campaign=KARANGA">SpaceX loses 40 satellites to geomagnetic storm a day after launch</a> BBC: A powerful magnetic storm takes out most of a batch of Starlink satellites the day after launch. 
  <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
- <p class="updated_time"> 06:20 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 06:07 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60319790?at_medium=RSS&at_campaign=KARANGA">Capturing a semi-submersible loaded with cocaine</a> BBC: The Colombian navy seize a vessel carrying four tonnes of narcotics worth $150m (£110m). 
  <p class="updated_time"> 05:57 AM CT, Feb. 09 </p> 
@@ -52,14 +60,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:40 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
+ <p class="updated_time"> 03:29 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
  <p class="updated_time"> 03:03 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
- <p class="updated_time"> 03:00 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 02:23 AM CT, Feb. 09 </p> 
@@ -84,10 +92,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
  <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60314091?at_medium=RSS&at_campaign=KARANGA">New Zealand anti-vax protesters inspired by Canada truckers camp outside parliament</a> BBC: PM Ardern dismisses anti-vax demonstrators camped outside parliament as minority. 
- <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 14 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin doesn't finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, did not to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
+ <a href="https://www.npr.org/2022/02/08/1079423262/mikaela-shiffrin-out-second-olympics-race">Olympic star Mikaela Shiffrin doesn't finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, did not to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 08:51 PM CT, Feb. 08 </p> 
@@ -158,12 +164,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079176635/jessie-diggins-wins-first-ever-u-s-olympic-medal-in-cross-country-sprint">Jessie Diggins wins first-ever U.S. Olympic medal in cross-country sprint</a> NPR: Diggins snared a hard-won bronze medal in the grueling event after Swedish skiers took an early lead. The only other time a U.S. athlete has won an individual medal in cross country came in 1976. 
  <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
- <p class="updated_time"> 07:34 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:11 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870">Pro-China Twitter Accounts Flood Hashtag Critical of Beijing Winter Olympics</a> WSJ: Researchers say many of the accounts are largely automated and are meant to drown out calls by advocacy groups to boycott the Beijing Games. 
- <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
  <p class="updated_time"> 04:43 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
@@ -209,10 +211,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
+ <p class="updated_time"> 09:07 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
+ <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
+ <p class="updated_time"> 09:00 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
+ <p class="updated_time"> 08:34 AM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079500844/mcconnell-rnc">Mitch McConnell criticizes the RNC for censuring 2 Republicans on Jan. 6 panel</a> NPR: In a rare break with his party, the Senate minority leader said that it's not the RNC's job to single out party members with different views, referring to Reps. Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 08:23 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censure Vote Has Republicans Battling Themselves Again</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
- <p class="updated_time"> 08:20 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 07:53 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/u-s-trucker-convoy-to-washington-gathers-steam-00007135">U.S. trucker convoy to Washington gathers steam</a> Politico: The organizers of the “People’s Convoy” announced that truckers will be gathering in Indio, Calif., on March 4 — and rolling on from there. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
@@ -247,8 +257,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079419227/2-capitol-riot-suspects-were-arrested-from-online-sleuths-info-documents-show">2 Capitol riot suspects were arrested from online sleuths' info, documents show</a> NPR: The FBI has cited information compiled by online sleuths in many of the more than 730 riot-related cases filed in federal court so far. 
  <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
- <p class="updated_time"> 08:33 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 07:34 PM CT, Feb. 08 </p> 
@@ -275,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079205081/house-passes-stopgap-bill-to-avoid-government-shutdown">House passes stopgap bill to avoid government shutdown</a> NPR: This is the third stopgap spending bill to keep the federal government afloat since October. 
  <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
- <p class="updated_time"> 04:32 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 04:06 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/trudeau-lightbound-covid-restrictions-convoy-00006774">Trudeau's own party is starting to turn on him over Covid restrictions</a> Politico: Liberal MP Joël Lightbound: 'A decision was made to wedge, to divide and to stigmatize.' 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
@@ -313,16 +319,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079191067/how-did-the-republican-party-become-the-party-of-trump">How did the Republican Party become the party of Trump?</a> NPR: New York Times reporter Jeremy Peters says the religious right and social conservatives "got basically everything that they wanted" from Trump's presidency. Peters' new book is Insurgency. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
- <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Truckers in Ottawa block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 11:26 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/russia-ukraine-veterans.html">Veterans’ Groups Splinter Over Ukraine Crisis</a> NYT: The complex dynamics among veterans’ groups reflect general exhaustion with war among American voters and shifting domestic politics. 
  <p class="updated_time"> 10:31 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">The world is on fire and our leaders are failing, poll finds</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
  <p class="updated_time"> 09:24 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/eric-lander-resigns-white-house.html">Biden’s Top Science Adviser Resigns After Acknowledging Demeaning Behavior</a> NYT: The adviser, Eric S. Lander, had apologized for his workplace conduct. The president had pledged to immediately fire any official who acted that way toward colleagues. 
- <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
