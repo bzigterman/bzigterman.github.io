@@ -213,12 +213,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 09:07 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 09:00 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 08:34 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079500844/mcconnell-rnc">Mitch McConnell criticizes the RNC for censuring 2 Republicans on Jan. 6 panel</a> NPR: In a rare break with his party, the Senate minority leader said that it's not the RNC's job to single out party members with different views, referring to Reps. Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 08:23 AM CT, Feb. 09 </p> 
@@ -234,15 +234,15 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/greens-most-concerned-about-climate-change-in-canada-poll-00005026">Poll: 1 in 5 Canadian Conservatives not concerned ‘at all’ about climate change</a> Politico: Count on renewed debate over Canada's carbon tax in 2022. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/climate-change-expensive-who-should-pay-00005198">Climate change will be expensive. Who should pay?</a> Politico: Global poll finds widespread agreement that companies must shoulder more of the cost in combatting carbon emissions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:08 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079456052/ohio-rule-allows-for-the-possibility-of-redrawing-congressional-maps-every-4-yea">Ohio rule allows for the possibility of redrawing congressional maps every 4 years</a> NPR: Ohio lawmakers are drawing up a new congressional district map after the previous attempt was ruled unconstitutional by the state supreme court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
@@ -357,6 +357,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/biden-warns-americans-leave-ukraine-00006374">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a> Politico: German Chancellor Olaf Scholz said there would be "severe sanctions," and Biden warned Americans to leave Ukraine. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
+ <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
