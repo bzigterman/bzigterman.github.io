@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
+ <p class="updated_time"> 05:33 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
+ <p class="updated_time"> 05:22 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60316302?at_medium=RSS&at_campaign=KARANGA">Snowboarder wins Olympic gold 16 years after throwing it away</a> BBC: Sixteen years after throwing away gold, Lindsey Jacobellis finally reaches the top of the Olympic podium. 
  <p class="updated_time"> 05:15 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
@@ -72,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60313081?at_medium=RSS&at_campaign=KARANGA">Amir Locke: Protesters demand end to 'no-knock' warrants</a> BBC: Demonstrators call for reform after the killing of a 22-year-old man in a police raid. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
- <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
  <p class="updated_time"> 04:03 PM CT, Feb. 08 </p> 
@@ -195,8 +199,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/asia/chinese-doctor-li-wenliang-covid-warning.html">Li Wenliang, Doctor Who Warned of Covid, Is Still Mourned in China</a> NYT: Social media users flocked to an online profile for Dr. Li Wenliang, who provided an early warning about the coronavirus in 2019. 
  <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/travel/jordan-petra-road-trip.html">A Photographer’s View of Jordan’s Many Splendors</a> NYT: For 10 days, a photojournalist drove across Jordan from north to south, visiting several of the country’s most treasured sites. Here’s what he saw. 
- <p class="updated_time"> 04:00 AM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/health/coronavirus-deer-animals.html">Is the Coronavirus in Your Backyard?</a> NYT: White-tailed deer could become a reservoir for the virus, putting people and animals at risk, health experts say. 
  <p class="updated_time"> 11:12 PM CT, Feb. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60257952?at_medium=RSS&at_campaign=KARANGA">Lata Mangeshkar: 'Why I loved the Indian singer as much as The Beatles'</a> BBC: For many South Asians around the world, Bollywood singer Lata Mangeshkar's legacy goes beyond singing. 
  <p class="updated_time"> 10:47 PM CT, Feb. 06 </p> 
@@ -229,7 +231,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far-right. 
  <p class="updated_time"> 04:00 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Wyoming Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
  <p class="updated_time"> 11:20 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censure Vote Sets Off Another Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
