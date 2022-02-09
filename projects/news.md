@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
  <p class="updated_time"> 09:10 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 09:09 AM CT, Feb. 09 </p> 
@@ -15,7 +17,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 09:00 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
+ <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
+ <p class="updated_time"> 08:50 AM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60320874?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge protest: Truckers block vital Canada-US border crossing</a> BBC: Business associations warn that the closure of the Ambassador Bridge threatens the US and Canadian economies. 
  <p class="updated_time"> 08:49 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 08:47 AM CT, Feb. 09 </p> 
@@ -42,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60319790?at_medium=RSS&at_campaign=KARANGA">Capturing a semi-submersible loaded with cocaine</a> BBC: The Colombian navy seize a vessel carrying four tonnes of narcotics worth $150m (£110m). 
  <p class="updated_time"> 05:57 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60314051?at_medium=RSS&at_campaign=KARANGA">Australia: Grace Tame says caller 'threatened' against criticising PM</a> BBC: Sexual abuse survivor Grace Tame says a caller told her not imperil Scott Morrison's election chances. 
- <p class="updated_time"> 05:36 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: Authorities could enter negotiations with the drivers, or opt for a much less compromising approach. 
  <p class="updated_time"> 05:33 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 05:22 AM CT, Feb. 09 </p> 
@@ -70,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
- <p class="updated_time"> 02:23 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079454512/first-us-gold-medal-lindsey-jacobellis">Lindsey Jacobellis wins the U.S. its first gold medal at the 2022 Beijing Olympics</a> NPR: Jacobellis, a five-time Olympian, won her first gold medal during the women's snowboard cross event on Wednesday. She is also the oldest American woman to win a Winter Olympics gold medal. 
  <p class="updated_time"> 01:44 AM CT, Feb. 09 </p> 
