@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:43 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079483004/bing-dwen-dwen-winter-olympics-mascot">A fluffy panda mascot is all the rage at the Winter Olympics </a> NPR: The stuffed animal version of mascot Bing Dwen Dwen has become so sought after that people are camping overnight to buy it in Beijing. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60317806?at_medium=RSS&at_campaign=KARANGA">SpaceX loses 40 satellites to geomagnetic storm a day after launch</a> BBC: A powerful magnetic storm takes out most of a batch of Starlink satellites the day after launch. 
  <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
- <p class="updated_time"> 06:21 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 06:20 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
  <p class="updated_time"> 06:07 AM CT, Feb. 09 </p> 
@@ -54,6 +54,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 03:03 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
+ <p class="updated_time"> 03:00 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-thrived-as-it-integrated-with-the-westa-new-cold-war-is-unraveling-that-11644415200">Russia Thrived as It Integrated With the West---a New Cold War Is Unraveling That</a> WSJ: A Ukraine invasion would trigger sweeping sanctions that cripple Russia’s few knowledge industries and push it closer to China. 
+ <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 02:23 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
@@ -156,12 +160,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079149031/pope-benedict-wrongdoing-pardon-sex-abuse">Retired Pope Benedict doesn't admit wrongdoing for the way he handled sex abuse cases</a> NPR: He asked forgiveness for any "grievous faults" in his handling of clergy sex abuse cases, but admitted to no personal or specific wrongdoing after an independent report criticized his actions. 
  <p class="updated_time"> 07:11 AM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870">Pro-China Twitter Accounts Flood Hashtag Critical of Beijing Winter Olympics</a> WSJ: Researchers say many of the accounts are largely automated and are meant to drown out calls by advocacy groups to boycott the Beijing Games. 
- <p class="updated_time"> 06:12 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/retired-pope-benedict-xvi-asks-for-forgiveness-over-handling-of-sex-abuse-cases-11644337031">Retired Pope Benedict XVI Asks for Forgiveness Over Handling of Sex-Abuse Cases</a> WSJ: Benedict replied to charges that he mishandled cases of clerical sexual abuse during his tenure as an archbishop in Germany, but his response seemed unlikely to remove the taint that the allegations have left on his record. 
  <p class="updated_time"> 05:29 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079124088/covid-cases-beijing-olympics-bubble">COVID cases inside the Beijing Olympics bubble are going down </a> NPR: Representatives of the International Olympic Committee said the risk of catching COVID-19 within the bubble at the 2022 Winter Olympics in Beijing is far less than it is outside. 
- <p class="updated_time"> 04:57 AM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948">Ukraine's Zelensky Wants to Fend Off Russia---and America, Too</a> WSJ: The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington. 
  <p class="updated_time"> 04:43 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
@@ -409,8 +409,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/02/jan-6-committee-subpoenas-arizona-gop-chair-00004903">Jan. 6 select committee subpoenas phone records of Arizona GOP chair</a> Politico: Kelli Ward and her husband, Michael, are suing to block T-Mobile from sharing the records. 
  <p class="updated_time"> 02:16 PM CT, Feb. 02 </p> 
  <a href="https://www.politico.com/news/2022/02/02/house-republicans-money-gap-democrats-00004682">House Republicans close money gap in hunt for the majority</a> Politico: At least 53 Republicans raised at least $500,000 in the fourth quarter, versus 38 Democrats, one of the biggest takeaways from the new reports. 
- <p class="updated_time"> 07:51 AM CT, Feb. 02 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/02/dems-forced-to-measure-margins-00004561">Dems forced to measure margins</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
