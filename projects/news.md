@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 10:35 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 14 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, bailed out of the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 09:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/400-million-covid-cases.html">World Surpasses 400 Million Confirmed Covid Cases</a> NYT: The total has doubled in only six months as the most recent surge took a toll. 
- <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
  <p class="updated_time"> 09:14 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
@@ -160,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 11:04 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
- <p class="updated_time"> 10:53 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html">Biden Meets German Leader on Russia Sanctions and Pipeline</a> NYT: After meeting with the German chancellor, Mr. Biden promised a united response to Russia. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
