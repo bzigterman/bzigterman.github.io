@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:48 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 05:19 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
+ <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
+ <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 04:34 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
- <p class="updated_time"> 04:31 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655020/ukrainians-in-and-near-crimea-have-seen-up-close-what-happens-when-russia-invade">Ukrainians in and near Crimea have seen up close what happens when Russia invades</a> NPR: Russia occupied Crimea in 2014 and is sending more troops there now. Ukrainians who live near Crimea are considering the consequences of their rejection of Russia and embrace of the West. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
@@ -23,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079654985/to-avert-russian-invasion-of-ukraine-france-and-germany-try-to-revive-minsk-acco">To avert Russian invasion of Ukraine, France and Germany try to revive Minsk accords</a> NPR: France, Germany, Ukraine and Russia signed a peace accord several years ago that was never fully implemented. It may prove to be the off-ramp which will end the Ukraine crisis. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079654978/teachers-in-puerto-rico-strike-to-demand-higher-wages-and-better-pensions">Teachers in Puerto Rico strike to demand higher wages and better pensions</a> NPR: NPR's Adrian Florido speaks with Jose Cintron, a middle school teacher in Puerto Rico, about the teachers' ongoing strikes to demand better wages and pensions. 
+ <a href="https://www.npr.org/2022/02/09/1079654978/teachers-in-puerto-rico-strike-to-demand-higher-wages-and-better-pensions">Teachers in Puerto Rico protest for better wages and pensions</a> NPR: NPR's Adrian Florido speaks with Jose Cintron, a middle school teacher in Puerto Rico, about the teachers' ongoing strikes to demand better wages and pensions. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
  <p class="updated_time"> 02:57 PM CT, Feb. 09 </p> 
@@ -36,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges are shut after massive protests over Muslim women wearing headscarves in class. 
  <p class="updated_time"> 02:00 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60315906?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia sees room for diplomacy</a> BBC: Speaking to the BBC, Russia's EU ambassador says conflict can still be avoided through diplomacy. 
- <p class="updated_time"> 01:52 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
@@ -134,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
- <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079423262/mikaela-shiffrin-out-second-olympics-race">Olympic star Mikaela Shiffrin doesn't finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, did not to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
@@ -182,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
- <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
@@ -197,14 +195,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:49 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/ambassador-bridge-blockade-freedom-convoy-00007456">Ambassador Bridge blockade has both sides on edge</a> Politico: “You have 100 people who are holding hostage part of our national economy,” the mayor of Windsor said Wednesday. 
+ <p class="updated_time"> 05:19 PM CT, Feb. 09 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/trump-emails-voting-machines-election-00007449">Read the emails showing Trump allies’ connections to voting machine seizure push</a> Politico: The conversations shed light on the visibility that Washington lawyer Katherine Friess and Texas entrepreneur Russell Ramsland had into the election subversion push. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
- <p class="updated_time"> 04:50 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 04:49 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/threats-lawmakers-congress.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
@@ -295,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 07:34 PM CT, Feb. 08 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:39 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Censure of Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
