@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 01:20 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079419924/shaun-white-chloe-kim-compete-for-gold-2022-olympics-beijing">2 of the U.S.'s snowboard champs are in medal contention at Beijing Olympics</a> NPR: Despite a fall during one of their qualifying runs, Shaun White and Chloe Kim were able to move on to the medal round of the men's and women's halfpipe events. 
  <p class="updated_time"> 01:04 AM CT, Feb. 09 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60152012?at_medium=RSS&at_campaign=KARANGA">Homes engulfed as deadly landslide hits Colombia</a> BBC: At least 14 people are dead and 35 injured after a landslide caused by rains in central Colombia. 
  <p class="updated_time"> 09:45 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079423262/olympic-star-mikaela-shiffrin-fails-to-finish-a-second-race-at-the-2022-winter-g">Olympic star Mikaela Shiffrin fails to finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, failed to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
- <p class="updated_time"> 09:14 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 08:51 PM CT, Feb. 08 </p> 
