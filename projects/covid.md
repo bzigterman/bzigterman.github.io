@@ -763,21 +763,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">24K</td>
-<td class="gt_row gt_right">6.8K</td>
-<td class="gt_row gt_right">&minus;72&percnt;</td></tr>
+<td class="gt_row gt_right">22K</td>
+<td class="gt_row gt_right">6.1K</td>
+<td class="gt_row gt_right">&minus;73&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">5.0K</td>
-<td class="gt_row gt_right gt_striped">2.6K</td>
+<td class="gt_row gt_right gt_striped">4.8K</td>
+<td class="gt_row gt_right gt_striped">2.5K</td>
 <td class="gt_row gt_right gt_striped">&minus;48&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">130</td>
-<td class="gt_row gt_right">76</td>
-<td class="gt_row gt_right">&minus;42&percnt;</td></tr>
+<td class="gt_row gt_right">79</td>
+<td class="gt_row gt_right">&minus;39&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">40K</td>
+<td class="gt_row gt_right gt_striped">38K</td>
 <td class="gt_row gt_right gt_striped">24K</td>
-<td class="gt_row gt_right gt_striped">&minus;38&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;36&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">7.9M</td>
 <td class="gt_row gt_right">8.0M</td>
@@ -789,7 +789,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
     </tr>
   </tfoot>
   
@@ -1584,8 +1584,8 @@ html {
 
 As of Tuesday, the 14-day percent change in average new cases was:
   
-- -68% in Champaign County
-- -72% in Illinois
+- -72% in Champaign County
+- -73% in Illinois
 - -65% in the United States
 - -23% worldwide
 
@@ -1597,7 +1597,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Tuesday, the 14-day percent change in average new deaths was:
   
-- -42% in Illinois
+- -39% in Illinois
 - 7% in the United States
 - 26% worldwide
 
