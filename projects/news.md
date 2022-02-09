@@ -8,28 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
+ <p class="updated_time"> 08:52 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
+ <p class="updated_time"> 08:51 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
+ <p class="updated_time"> 08:50 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests: Plans for a Protest by Truckers in the U.S. Gain Momentum</a> NYT: A convoy-style demonstration starting in California and ending in Washington appears to be gathering supporters online. 
+ <p class="updated_time"> 08:49 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60313101?at_medium=RSS&at_campaign=KARANGA">UCLA in $250m payout for gynaecologist's sex abuse</a> BBC: A campus gynaecologist at UCLA allegedly abused hundreds of patients over his 35-year career. 
+ <p class="updated_time"> 08:23 PM CT, Feb. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 07:57 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/asia/turkey-inflation-doctors.html">Turkey’s Doctors Are Leaving, the Latest Casualty of Spiraling Inflation</a> NYT: Doctors, worn down by grueling hours and violence, are emigrating in rising numbers, undermining one of President Recep Tayyip Erdogan’s signature achievements. 
- <p class="updated_time"> 07:26 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60267841?at_medium=RSS&at_campaign=KARANGA">Canada truckers: Arrests as police warn of 'volatile' protesters</a> BBC: Ottawa police have warned of "determined" and "volatile" protests amid an all-out effort to remove them. 
- <p class="updated_time"> 06:56 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60313101?at_medium=RSS&at_campaign=KARANGA">UCLA in $250m payout for gynaecologist's sex abuse</a> BBC: A campus gynaecologist at UCLA allegedly abused hundreds of patients over his 35-year career. 
- <p class="updated_time"> 06:53 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
  <p class="updated_time"> 06:50 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">India: Malala weighs into Karnataka hijab row</a> BBC: The education activist's plea comes after hijab-wearing students were denied entry to classrooms. 
  <p class="updated_time"> 06:34 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
- <p class="updated_time"> 06:22 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60301755?at_medium=RSS&at_campaign=KARANGA">Why Uganda is investing in oil despite pressures to go green</a> BBC: As people eye the benefits there are questions over the environmental cost and the timing. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60240767?at_medium=RSS&at_campaign=KARANGA">Bosnia shivers as ghost of nationalism returns</a> BBC: Why Bosnian Serbs have a new strongman unafraid to stir the horrors of the past. 
- <p class="updated_time"> 05:50 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest">Canada Protests Live Updates: Plans for a Protest by Truckers in the U.S. Gain Momentum</a> NYT: A convoy-style demonstration starting in California and ending in Washington appears to be gathering supporters online. 
  <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
  <p class="updated_time"> 05:19 PM CT, Feb. 08 </p> 
@@ -66,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297364?at_medium=RSS&at_campaign=KARANGA">Canada trucker's protest: Patience running thin among local people</a> BBC: Protesters say all Canadians should appreciate their cause, but Ottawa residents are not so sure. 
  <p class="updated_time"> 01:56 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079213726/as-russia-threatens-ukraine-the-u-s-pre-bunks-russian-propaganda">As Russia threatens Ukraine, the U.S. 'pre-bunks' Russian propaganda </a> NPR: As Russian troops threaten to Ukraine, the U.S. is publicizing what it says are Russian attempts to sow disinformation. The goal is to undermine Russian claims that might be used to provoke a war. 
- <p class="updated_time"> 01:43 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60299790?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Macron says Putin pledges no new Ukraine escalation</a> BBC: The French president tells reporters that the Russian leader gave him assurances in talks in Moscow. 
  <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
@@ -210,14 +210,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:08 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/gun-waving-stlouis-couple-probation-00007091">Gun-waving St. Louis couple placed on probation as lawyers</a> Politico: Mark and Patricia McCloskey gained national attention during protests last year. 
+ <p class="updated_time"> 08:44 PM CT, Feb. 08 </p> 
+ <a href="https://www.npr.org/2022/02/08/1079419227/2-capitol-riot-suspects-were-arrested-from-online-sleuths-info-documents-show">2 Capitol riot suspects were arrested from online sleuths' info, documents show</a> NPR: The FBI has cited information compiled by online sleuths in many of the more than 730 riot-related cases filed in federal court so far. 
  <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
- <p class="updated_time"> 08:17 PM CT, Feb. 08 </p> 
+ <p class="updated_time"> 08:33 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
+ <p class="updated_time"> 08:23 PM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 07:48 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 07:34 PM CT, Feb. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:39 PM CT, Feb. 08 </p> 
@@ -320,8 +322,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
  <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079112859/biden-will-lean-into-his-long-tenure-as-a-senator-to-fill-supreme-court-vacancy">Biden will lean into his long tenure as a senator to fill Supreme Court vacancy </a> NPR: President Biden said he's been told that voters don't want him to be the "President Senator." But in filling a vacancy on the Supreme Court, he's going out of his way to court old colleagues. 
- <p class="updated_time"> 04:08 AM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079112803/fla-bill-bans-businesses-and-schools-from-making-anyone-feel-guilt-about-race">Fla. bill bans businesses and schools from making anyone feel guilt about race</a> NPR: Under a bill proposed by Florida's governor, schools and businesses would be banned from teaching courses and offering training that cause white people to feel "discomfort" on account of their race. 
  <p class="updated_time"> 02:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 11:33 PM CT, Feb. 07 </p> 
