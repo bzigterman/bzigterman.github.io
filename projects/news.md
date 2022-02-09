@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 03:02 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Snarls Traffic at U.S.-Canada Border</a> NYT: The new protest is the third along the border, and threatened to upend the supply chain for the automotive industry. 
+ <p class="updated_time"> 02:58 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine — or Anyone</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
+ <p class="updated_time"> 02:57 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
  <p class="updated_time"> 02:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 02:12 PM CT, Feb. 09 </p> 
@@ -120,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079423262/mikaela-shiffrin-out-second-olympics-race">Olympic star Mikaela Shiffrin doesn't finish a second race at the 2022 Winter Games</a> NPR: Shiffrin, a two-time Olympic champion, did not to finish the women's slalom race on Wednesday. She previously won a gold medal in this competition in 2014 during the Sochi Olympics. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
- <p class="updated_time"> 08:51 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo: What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
  <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
@@ -164,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
- <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008195176/ukraine-russia-trenches.html">‘I Have to Come Back Home’: In the Trenches With Ukraine’s Soldiers</a> NYT: We spent the day with Ukrainian soldiers on the front lines of the conflict with Russia-backed separatists near the southeast border with Russia. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
  <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
- <p class="updated_time"> 03:35 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/europe/camilla-queen.html">Camilla Queen Consort Title Would Cap Years of Image Repair</a> NYT: Queen Elizabeth II has put to rest decades of speculation by giving Prince Charles’ wife, Camilla, what some see as her “stamp of approval.” 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
  <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
@@ -200,15 +198,19 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over 'both sides' critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators on Wednesday that Iran is “weeks” away from producing enough material for a nuclear weapon. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Stock Trading Ban for Lawmakers Gains Momentum on Capitol Hill</a> NYT: A bipartisan push is growing to bar members of Congress from trading individual stocks, an effort pushed by vulnerable lawmakers eager to take on perceived corruption in Washington. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 02:52 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
- <p class="updated_time"> 02:47 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
  <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
@@ -223,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
- <p class="updated_time"> 01:22 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
@@ -235,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
- <p class="updated_time"> 09:15 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">Dropping Indoor Mask Mandate, New York Joins Blue States Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 08:34 AM CT, Feb. 09 </p> 
