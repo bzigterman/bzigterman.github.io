@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-american-climate-envoy-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
+ <p class="updated_time"> 12:49 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 12:35 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
  <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60323990?at_medium=RSS&at_campaign=KARANGA">ICJ orders Uganda to pay for DR Congo occupation</a> BBC: International judges blame Uganda for the death of 10-15,000 people between 1998 and 2003. 
- <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-american-climate-envoy-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 12:22 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
