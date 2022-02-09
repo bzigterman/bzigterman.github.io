@@ -203,8 +203,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over 'both sides' critique prompted flaw in Sarah Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators on Wednesday that Iran is “weeks” away from producing enough material for a nuclear weapon. 
+ <p class="updated_time"> 02:52 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
+ <p class="updated_time"> 02:47 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
  <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
@@ -215,8 +219,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
  <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
- <p class="updated_time"> 01:48 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
@@ -231,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079541236/florida-dont-say-gay-bill">'Don't Say Gay' bill would limit discussion of sexuality and gender in Florida schools</a> NPR: Supporters say the measure empowers parents to have a say in what their children learn. Critics argue it will harm LGBTQ kids. President Biden slammed the bill, which has Gov. Ron DeSantis' support. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
- <p class="updated_time"> 10:11 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
  <p class="updated_time"> 09:15 AM CT, Feb. 09 </p> 
