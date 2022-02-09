@@ -270,8 +270,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/08/1079300182/french-president-macron-is-helping-facilitate-negotiations-between-russia-and-uk">French President Macron is helping facilitate negotiations between Russia and Ukraine</a> NPR: French President Emanuel Macron has taken center stage in the ongoing Ukraine crisis, insisting on the centrality of Europe to diplomacy. 
  <p class="updated_time"> 03:05 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/erik-prince-spy-operation-trump-democrats.html">Erik Prince Helped Raise Money for Conservative Spy Venture</a> NYT: New details reveal the ambitions of an operation intended to infiltrate opponents of Donald Trump, including moderate Republicans as well as progressives and Democrats. 
- <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denied any intent to claim that the former Alaska governor caused a 2011 shooting. 
  <p class="updated_time"> 01:57 PM CT, Feb. 08 </p> 
@@ -338,6 +336,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/us/politics/trump-national-archives-documents.html">Trump Gives Documents Improperly Taken From White House to Archives</a> NYT: The incident raised more questions about the former president’s adherence to the Presidential Records Act, which requires preservation of White House documents. 
  <p class="updated_time"> 06:40 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/us/politics/house-bill-forced-arbitration.html">House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases</a> NYT: The bill would ensure that victims have the option of suing in federal, state or tribal court, depriving perpetrators of a secretive process that can weigh heavily in their favor. 
+ <p class="updated_time"> 06:02 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/ottawa-pleads-police-support-end-convoys-00006373">Ottawa pleads to Trudeau for reinforcements to end convoy's occupation</a> Politico: "We are stretched to the limit," city's police chief said. 
  <p class="updated_time"> 05:57 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html">Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates</a> NYT: The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections. 
  <p class="updated_time"> 04:51 PM CT, Feb. 07 </p> 
