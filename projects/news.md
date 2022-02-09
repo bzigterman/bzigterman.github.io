@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and sheds light on the virus that launched a pandemic. Check out our illustration of the virus' family tree. 
+ <p class="updated_time"> 01:13 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
+ <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam claims he chose at the last moment not to blow himself up during the Paris attacks. 
  <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-crisis-putin-choices.html">In Ukraine Crisis, Putin’s Choices Are Both Varied and Stark</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:04 PM CT, Feb. 09 </p> 
@@ -16,20 +22,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60326638?at_medium=RSS&at_campaign=KARANGA">Drunk truck driver leaves trail of destruction in Germany</a> BBC: German police have arrested a man after the lorry he was driving ploughed into more than 30 cars. 
  <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-american-climate-envoy-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
- <p class="updated_time"> 12:49 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: As Blockade at U.S.-Canada Border Continues, Other Protests Pop Up</a> NYT: On Wednesday, dozens of vehicles in France departed for Paris to protest the country’s vaccination policies. And a road blockade continued to prevent trucks from entering Canada from the U.S. 
  <p class="updated_time"> 12:35 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
  <p class="updated_time"> 12:28 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
  <p class="updated_time"> 12:27 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60323990?at_medium=RSS&at_campaign=KARANGA">ICJ orders Uganda to pay for DR Congo occupation</a> BBC: International judges blame Uganda for the death of 10-15,000 people between 1998 and 2003. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60323990?at_medium=RSS&at_campaign=KARANGA">ICJ orders Uganda to pay $325m for DR Congo occupation</a> BBC: International judges blame Uganda for the death of 10-15,000 people between 1998 and 2003. 
  <p class="updated_time"> 12:22 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
- <p class="updated_time"> 11:46 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam tells court he didn't kill or hurt anyone in the Paris attacks of November 2015. 
  <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079568745/jeff-bezos-yacht-de-hef-bridge-rotterdam-eggs">The Dutch vow to egg Jeff Bezos' yacht if a bridge is dismantled to let his boat pass</a> NPR: After early reports that Rotterdam would briefly take apart a historic bridge for the yacht's passage, thousands of people joined a Facebook event called "Throwing eggs at superyacht Jeff Bezos." 
  <p class="updated_time"> 11:38 AM CT, Feb. 09 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html">In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash</a> NYT: Across Taiwan, the classical melody “Für Elise” is a Pavlovian call to action: Bring down your garbage and catch up on neighborhood gossip. 
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
- <p class="updated_time"> 12:00 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079212789/ottawa-trucker-convoy-protest">Canadian truckers block a key border crossing, as their protest morphs and drags on</a> NPR: The "Freedom Convoy" began last month as a caravan of truck drivers who planned to drive to Ottawa to voice their opposition to the Canadian government's cross-border vaccine mandate. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 09:12 AM CT, Feb. 08 </p> 
@@ -201,12 +201,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
+ <p class="updated_time"> 01:22 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
  <p class="updated_time"> 11:51 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
- <p class="updated_time"> 11:48 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges</a> NYT: The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York lifts indoor mask mandate, with California and N.J. mandates also set to end</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
  <p class="updated_time"> 11:22 AM CT, Feb. 09 </p> 
