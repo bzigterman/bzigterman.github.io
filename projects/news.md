@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:50 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 01:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/russia-ukraine-us">Ukraine Live Updates: Little Progress Seen in Talks, as Russia Starts Major Military Exercise</a> NYT: NATO sees Russian military drills in Belarus as ominous. Russia’s foreign minister compared a meeting with his British counterpart to a conversation of a “mute person with a deaf person.” 
  <p class="updated_time"> 01:44 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
@@ -199,8 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Congress at an 'impasse' over how to deter Russian invasion of Ukraine</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
- <p class="updated_time"> 01:43 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/congress-forced-arbitration.html">Congress Passes Bill to Bar Forced Arbitration in Sex Abuse Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
+ <p class="updated_time"> 01:50 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
  <p class="updated_time"> 01:34 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">Will Trump's Election Lies Become a Litmus Test for Republicans?</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
