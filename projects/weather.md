@@ -9,7 +9,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
-          media="(min-width: 800px)">
+          media="(min-width: 750px)">
   <img src="{{ site.baseurl }}/plots/champaign_weather_mobile.png" alt="" />
 </picture>
 
@@ -22,7 +22,7 @@ Current:
 - 06:52 a.m. sunrise
 - 05:22 p.m. sunset
 
-<p class="updated_time"> Latest data: 07:42 AM CT, February 10</p>
+<p class="updated_time"> Latest data: 08:09 AM CT, February 10</p>
 
 ## Severe Thunderstorm Outlook
 
