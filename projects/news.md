@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't phasing her, Kelly Curtis said. 
  <p class="updated_time"> 01:14 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
- <p class="updated_time"> 01:13 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 12:44 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340504?at_medium=RSS&at_campaign=KARANGA">Luc Montagnier, co-discoverer of HIV, dies aged 89</a> BBC: The French virologist jointly won the Nobel Prize but later drew criticism for unscientific claims. 
  <p class="updated_time"> 12:32 PM CT, Feb. 10 </p> 
@@ -154,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 12:35 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html">Europe Calls for Peace, but Not at Any Price</a> NYT: Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place. 
- <p class="updated_time"> 12:28 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 11:31 AM CT, Feb. 09 </p> 
