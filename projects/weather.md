@@ -7,7 +7,11 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign Forecast
 
-![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+<picture>
+  <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
+          media="(min-width: 800px)">
+  <img src="{{ site.baseurl }}/plots/champaign_weather.png" />
+</picture>
 
 Current:
 
@@ -18,7 +22,7 @@ Current:
 - 06:52 a.m. sunrise
 - 05:22 p.m. sunset
 
-<p class="updated_time"> Latest data: 07:27 AM CT, February 10</p>
+<p class="updated_time"> Latest data: 07:30 AM CT, February 10</p>
 
 ## Severe Thunderstorm Outlook
 
