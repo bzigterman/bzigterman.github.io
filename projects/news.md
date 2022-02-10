@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079777978/u-s-s-nathan-chen-wins-gold-in-mens-figure-skating-at-the-beijing-olympics">U.S.'s Nathan Chen wins gold in men's figure skating at the Beijing Olympics</a> NPR: The 22-year-old Chen topped a competitive field Thursday in Beijing. Figure skaters from Japan came in second and third. 
  <p class="updated_time"> 11:12 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 10:56 PM CT, Feb. 09 </p> 
@@ -132,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
  <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
- <p class="updated_time"> 02:15 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079454512/first-us-gold-medal-lindsey-jacobellis">Lindsey Jacobellis wins the U.S. its first gold medal at the 2022 Beijing Olympics</a> NPR: Jacobellis, a five-time Olympian, won her first gold medal during the women's snowboard cross event on Wednesday. She is also the oldest American woman to win a Winter Olympics gold medal. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
