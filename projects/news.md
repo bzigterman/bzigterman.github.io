@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:53 PM CT, Feb. 09 </p> 
+ <p class="updated_time"> 08:11 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60318946?at_medium=RSS&at_campaign=KARANGA">The hackers hunting for the lost Bitcoin billions</a> BBC: It's estimated that 3.7 million Bitcoin have been lost - but hackers are helping owners get some of them back. 
+ <p class="updated_time"> 08:07 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60326418?at_medium=RSS&at_campaign=KARANGA">'Don't Say Gay': Biden denounces 'hateful' new Florida bill</a> BBC: The legislation bans discussing sexual orientation and gender identity in primary school classrooms. 
+ <p class="updated_time"> 07:24 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 06:37 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60301758?at_medium=RSS&at_campaign=KARANGA">Pa Sorie: The Sierra Leonean proud to have fought in World War Two</a> BBC: Samuel Sorie Sesay, who died last month in Sierra Leone, fought for the British army in World War Two. 
@@ -42,10 +46,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
  <p class="updated_time"> 02:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/us-mask-mandates.html">Several States Start Rolling Back Mask Mandates as Infections Fall</a> NYT: Gov. Kathy Hochul of New York is ending the requirement that businesses check for proof of vaccination and enforce mask-wearing. 
+ <p class="updated_time"> 02:40 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60305218?at_medium=RSS&at_campaign=KARANGA">Neanderthal extinction not caused by brutal wipe out</a> BBC: New fossils challenge ideas that modern humans wiped out Neanderthals after arriving from Africa. 
  <p class="updated_time"> 02:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
- <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60326418?at_medium=RSS&at_campaign=KARANGA">'Don't Say Gay': White House denounces new Florida bill</a> BBC: The legislation bans discussing sexual orientation and gender identity in primary school classrooms. 
  <p class="updated_time"> 02:12 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges are shut after massive protests over Muslim women wearing headscarves in class. 
  <p class="updated_time"> 02:00 PM CT, Feb. 09 </p> 
@@ -92,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 10:22 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
- <p class="updated_time"> 09:54 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/sports/olympics/watch-figure-skating-nathan-chen.html">How to Watch Nathan Chen Chase Gold in Men’s Figure Skating</a> NYT: If Chen can maintain his lead in the free skate, he’ll win an Olympic gold medal. His rival, Yuzuru Hanyu of Japan, is looking for a comeback. 
  <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: There is no easy way to end the blockade in Canada's capital by truckers opposed to vaccine mandates. 
  <p class="updated_time"> 09:09 AM CT, Feb. 09 </p> 
@@ -118,10 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60317806?at_medium=RSS&at_campaign=KARANGA">SpaceX loses 40 satellites to geomagnetic storm a day after launch</a> BBC: A powerful magnetic storm takes out most of a batch of Starlink satellites the day after launch. 
  <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
- <p class="updated_time"> 05:57 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60314051?at_medium=RSS&at_campaign=KARANGA">Australia: Grace Tame says caller 'threatened' against criticising PM</a> BBC: Sexual abuse survivor Grace Tame says a caller told her not imperil Scott Morrison's election chances. 
- <p class="updated_time"> 05:22 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60316302?at_medium=RSS&at_campaign=KARANGA">Snowboarder wins Olympic gold 16 years after throwing it away</a> BBC: Sixteen years after throwing away gold, Lindsey Jacobellis finally reaches the top of the Olympic podium. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
  <p class="updated_time"> 04:13 AM CT, Feb. 09 </p> 
@@ -186,6 +184,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
+ <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
@@ -199,16 +199,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:50 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
+ <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 07:45 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/senators-consider-sanctions-russian-ukraine-00007529">Senators consider sanctions for cyberattacks on Ukraine, invasion or not</a> Politico: Efforts to push back against Russian cyber aggression toward Ukraine are becoming more serious, with senators looking at sanctioning Russia for cyberattacks and providing more cybersecurity assistance. 
+ <a href="https://www.politico.com/news/2022/02/09/senators-consider-sanctions-russian-ukraine-00007529">On Ukraine, senators put cyberattacks top-of-list for sanctions</a> Politico: Efforts to push back against Russian cyber aggression toward Ukraine are becoming more serious, with senators looking at sanctioning Russia  and providing more cybersecurity assistance. 
  <p class="updated_time"> 06:59 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/nyregion/eric-adams-albany.html">Mayor Adams Clashes With Albany Democrats Over His Crime Plan</a> NYT: Eric Adams’s harshest exchange during a state budget hearing was with a fellow Democrat whose brother was killed by gunfire at the age of 19. 
  <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/video-game-political-arena.html">A New Video Game About Politics in the Age of Donald Trump</a> NYT: A new video game will let players pretend to be the politicians they most admire — or despise. 
- <p class="updated_time"> 05:53 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 05:49 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/ambassador-bridge-blockade-freedom-convoy-00007456">Ambassador Bridge blockade has both sides on edge</a> Politico: “You have 100 people who are holding hostage part of our national economy,” the mayor of Windsor said Wednesday. 
  <p class="updated_time"> 05:46 PM CT, Feb. 09 </p> 
@@ -221,8 +223,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079717258/senators-announce-a-deal-to-reauthorize-the-violence-against-women-act">Senators announce a deal to reauthorize the Violence Against Women Act</a> NPR: The bipartisan announcement comes after months of negotiations in the chamber. The legislation offers resources for victims of domestic abuse and sexual violence. 
  <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/trump-emails-voting-machines-election-00007449">Read the emails showing Trump allies’ connections to voting machine seizure push</a> Politico: The conversations shed light on the visibility that Washington lawyer Katherine Friess and Texas entrepreneur Russell Ramsland had into the election subversion push. 
- <p class="updated_time"> 05:08 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
@@ -305,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far right. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
- <p class="updated_time"> 09:08 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/gun-waving-stlouis-couple-probation-00007091">Gun-waving St. Louis couple placed on probation as lawyers</a> Politico: Mark and Patricia McCloskey gained national attention during protests last year. 
  <p class="updated_time"> 08:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079419227/2-capitol-riot-suspects-were-arrested-from-online-sleuths-info-documents-show">2 Capitol riot suspects were arrested from online sleuths' info, documents show</a> NPR: The FBI has cited information compiled by online sleuths in many of the more than 730 riot-related cases filed in federal court so far. 
  <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
@@ -353,6 +351,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
+ <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
