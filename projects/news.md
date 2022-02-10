@@ -8,11 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:01 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/isis-us-raid-syria.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
- <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
- <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:12 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342175?at_medium=RSS&at_campaign=KARANGA">Oregon man takes own life after misfire at bear kills brother</a> BBC: The man accidentally shoots his brother while loading a gun to aim at a bear on their property. 
+ <p class="updated_time"> 04:07 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
+ <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
@@ -62,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60327044?at_medium=RSS&at_campaign=KARANGA">Trump says he is in touch with North Korea's leader Kim - book</a> BBC: Kim Jong-un is the only foreign leader Donald Trump has said he remains in touch with, a book says. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
- <p class="updated_time"> 10:20 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
  <p class="updated_time"> 09:23 AM CT, Feb. 10 </p> 
@@ -80,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079820023/prince-charles-covid">Prince Charles has tested positive for COVID a second time </a> NPR: Prince Charles is isolating and has canceled his appearances. He previously contracted the virus in March 2020. 
  <p class="updated_time"> 08:48 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312231?at_medium=RSS&at_campaign=KARANGA">A missing game of Wordle helps end a 17-hour hostage ordeal</a> BBC: Police were alerted to a hostage situation when an 80-year-old woman failed to send her daily Wordle. 
- <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 08:12 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Russia's Massive Military Drills on Ukraine Border Stir Invasion Fears</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
  <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
@@ -299,6 +299,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
+ <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
+ <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
@@ -355,8 +357,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
  <p class="updated_time"> 08:57 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
- <p class="updated_time"> 08:49 PM CT, Feb. 07 </p> 
- <a href="https://www.cnn.com/2022/02/07/politics/rnc-censure-january-6-republican-divide/index.html">Republicans are frustrated by RNC move reopening party's January 6 divide ahead of midterms </a> CNN: Republicans felt they were finally united in their quest to take back the House and Senate -- with the political winds at their back and President Joe Biden reeling from an array of domestic and international problems. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
