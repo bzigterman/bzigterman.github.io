@@ -8,22 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
+ <p class="updated_time"> 07:22 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 06:49 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 06:47 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Tests Positive for Coronavirus a Second Time</a> NYT: The heir to the British throne, 73, first tested positive in March 2020. 
+ <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech as she spoke about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 06:22 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
- <p class="updated_time"> 06:18 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 06:03 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
  <p class="updated_time"> 05:30 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
  <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60330296?at_medium=RSS&at_campaign=KARANGA">Tesla sued over alleged racial discrimination</a> BBC: The electric carmaker says a lawsuit by a California regulator, claiming harassment, is "misguided". 
- <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 04:37 AM CT, Feb. 10 </p> 
@@ -32,14 +34,24 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 03:40 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 130,000 troops are positioned near Ukraine's border. 
+ <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-u-k-s-omicron-wave-many-people-are-dying-with-covid-19-not-from-it-11644499077">In U.K.'s Omicron Wave, Many People Are Dying With Covid-19, Not From It</a> WSJ: The number of people dying in Britain with a recent positive Covid-19 test is significantly overstating the true death toll from the virus for the first time, according to new data. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Bob Saget, 65, was found dead by authorities in his Florida hotel room last month. 
+ <p class="updated_time"> 02:05 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-attack-libyan-premiers-car-raising-fears-of-renewed-conflict-11644496742">Gunmen Fire at Libyan Premier's Car, Raising Fears of Renewed Conflict</a> WSJ: The attack raises tensions in the war-torn country as rival political factions wrangle for control over its interim government in a standoff that could unravel a United Nations-backed peace process. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
+ <p class="updated_time"> 01:57 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-japan-central-bank-still-wants-interest-rates-near-zero-11644497877">Japan's Central Bank Still Wants Interest Rates Near Zero</a> WSJ: Bucking the global trend symbolized by the Federal Reserve’s plans for multiple rate increases this year, the Bank of Japan is taking action to keep interest rates ultra low. 
+ <p class="updated_time"> 01:56 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Massive Russian Military Drills on Ukraine Border Ratchet Up Threat</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
  <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079784243/the-philippines-welcomes-back-foreign-travelers-after-2-years">The Philippines welcomes back foreign travelers after nearly 2 years</a> NPR: The Philippines lifted a nearly 2-year ban on fully vaccinated foreign travelers Thursday to boost tourism and related industries as an omicron-fueled surge eases. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
+ <p class="updated_time"> 01:19 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/narendra-modis-party-faces-test-in-uttar-pradesh-indias-california-and-texas-rolled-into-one-11644495582">Narendra Modi's Party Faces Test in India's Biggest Battleground</a> WSJ: When it comes to Indian politics, there is no greater prize than Uttar Pradesh. With more than 200 million people, it is the most populous state and it has been a linchpin of Prime Minister Narendra Modi’s success. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 01:06 AM CT, Feb. 10 </p> 
@@ -55,7 +67,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
  <p class="updated_time"> 09:02 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079759013/chloe-kim-wins-her-gold-at-the-2022-beijing-olympics">U.S. snowboarder Chloe Kim makes history winning second Olympic halfpipe gold</a> NPR: Kim dominated the leaderboard after her stellar first run at the women's snowboard halfpipe event on Thursday, Feb. 10 in Beijing. She's the first woman to win multiple Olympic golds in the halfpipe. 
+ <a href="https://www.npr.org/2022/02/09/1079759013/chloe-kim-wins-her-gold-at-the-2022-beijing-olympics">U.S. snowboarder Chloe Kim makes history winning 2nd Olympic halfpipe gold</a> NPR: Kim dominated the leaderboard after her stellar first run at the women's snowboard halfpipe event on Thursday in Beijing. She's the first woman to win multiple Olympic golds in the halfpipe. 
  <p class="updated_time"> 08:11 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60318946?at_medium=RSS&at_campaign=KARANGA">‘Hackers helped me find my lost Bitcoin fortune’</a> BBC: It's estimated that 3.7 million Bitcoin have been lost - but hackers are helping owners get some of them back. 
  <p class="updated_time"> 06:37 PM CT, Feb. 09 </p> 
@@ -98,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079338002/russia-ukraine-europe-gas-nordstream2-energy">Explaining why natural gas plays such a big role in the Russia-Ukraine crisis</a> NPR: As much as 40% of Europe's natural gas supply comes from Russia, a reliance that puts U.S. allies like Germany in a jam when it comes to finding a sanctions solution to the crisis. 
- <p class="updated_time"> 01:29 PM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/officials-raise-concerns-canada-border-protest-will-disrupt-supply-chains-11644451307">Officials Raise Concerns Canada Border Protest Will Disrupt Supply Chains</a> WSJ: Canadian authorities are re-routing trucks north of the critical Ambassador Bridge crossing as the White House eyes the impact on automotive logistics networks. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
@@ -124,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60306389?at_medium=RSS&at_campaign=KARANGA">Bosnia: Three decades on, bereaved families fear return to war</a> BBC: A rise in Serb nationalism is threatening the peace agreement that holds together Bosnia-Herzegovina. 
  <p class="updated_time"> 11:17 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
- <p class="updated_time"> 11:05 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/european-scientists-set-nuclear-fusion-energy-world-record-11644440648">European Scientists Set Nuclear-Fusion Energy World Record</a> WSJ: A device based at a U.K. facility in Oxfordshire has produced the highest sustained nuclear-fusion energy ever recorded, European researchers said. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
@@ -134,18 +142,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
- <p class="updated_time"> 06:54 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/with-big-russian-interests-german-firms-look-to-putin-for-ukraine-de-escalation-11644422130">With Big Russia Interests, German Firms Look to Putin for De-Escalation</a> WSJ: The leaders of some of Germany’s biggest companies are set to meet President Vladimir Putin next month in a show of economic diplomacy aimed at urging all sides in the Ukraine standoff to back away from war. 
  <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
- <p class="updated_time"> 06:33 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
- <p class="updated_time"> 02:45 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
@@ -385,8 +387,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
  <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
- <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
