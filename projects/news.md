@@ -94,6 +94,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079338002/russia-ukraine-europe-gas-nordstream2-energy">Explaining why natural gas plays such a big role in the Russia-Ukraine crisis</a> NPR: As much as 40% of Europe's natural gas supply comes from Russia, a reliance that puts U.S. allies like Germany in a jam when it comes to finding a sanctions solution to the crisis. 
+ <p class="updated_time"> 01:29 PM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/officials-raise-concerns-canada-border-protest-will-disrupt-supply-chains-11644451307">Officials Raise Concerns Canada Border Protest Will Disrupt Supply Chains</a> WSJ: Canadian authorities are re-routing trucks north of the critical Ambassador Bridge crossing as the White House eyes the impact on automotive logistics networks. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
@@ -122,22 +124,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/european-scientists-set-nuclear-fusion-energy-world-record-11644440648">European Scientists Set Nuclear-Fusion Energy World Record</a> WSJ: A device based at a U.K. facility in Oxfordshire has produced the highest sustained nuclear-fusion energy ever recorded, European researchers said. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
- <p class="updated_time"> 10:22 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
+ <p class="updated_time"> 06:54 AM CT, Feb. 09 </p> 
+ <a href="https://www.wsj.com/articles/with-big-russian-interests-german-firms-look-to-putin-for-ukraine-de-escalation-11644422130">With Big Russia Interests, German Firms Look to Putin for De-Escalation</a> WSJ: The leaders of some of Germany’s biggest companies are set to meet President Vladimir Putin next month in a show of economic diplomacy aimed at urging all sides in the Ukraine standoff to back away from war. 
  <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
  <p class="updated_time"> 06:33 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
- <p class="updated_time"> 04:13 AM CT, Feb. 09 </p> 
- <a href="https://www.wsj.com/articles/russias-military-natural-gas-make-japan-cautious-about-u-s-led-sanctions-11644419603">Ties to Russia Make Japan Wary of Strong Sanctions</a> WSJ: Russia’s military presence around disputed islands and Japan’s reliance on energy imports add to pressure on Tokyo not to join in threats to sanction Moscow over Ukraine. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
@@ -146,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357">From Kabul to South Korea, Afghan Families Make a Hard Transition</a> WSJ: Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives. 
  <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
- <p class="updated_time"> 11:30 PM CT, Feb. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
@@ -193,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079246031/the-economy-is-strong-but-voters-arent-feeling-it-thats-a-problem-for-biden">The economy is strong but voters aren't feeling it. That's a problem for Biden</a> NPR: President Biden's first year in the White House has been marked by record GDP growth and job gains, so why do voters keep giving him poor marks on the economy? 
  <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
@@ -289,8 +289,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
- <p class="updated_time"> 08:34 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079500844/mcconnell-rnc">Mitch McConnell criticizes the RNC for censuring 2 Republicans on Jan. 6 panel</a> NPR: In a rare break with his party, the Senate minority leader said that it's not the RNC's job to single out party members with different views, referring to Reps. Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 08:23 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censuring Reps. Cheney and Kinzinger Sets Off Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
