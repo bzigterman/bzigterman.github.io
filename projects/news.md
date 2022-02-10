@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 02:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/10/world/russia-ukraine-us">Ukraine Live Updates: Little Progress Seen in Talks, as Russia Starts Major Military Exercise</a> NYT: NATO sees Russian military drills in Belarus as ominous. Russia’s foreign minister compared a meeting with his British counterpart to a conversation of a “mute person with a deaf person.” 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
- <p class="updated_time"> 02:19 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 02:11 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 01:59 PM CT, Feb. 10 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
  <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/gina-mccarthy-touts-biden-climate-progress-00007913">Gina McCarthy pledges to run 'faster and faster' to address climate change</a> Politico: “We all understand that we have to do as much as humanly possible as quickly as we possibly can," McCarthy said at a POLITICO event. 
  <p class="updated_time"> 03:03 PM CT, Feb. 10 </p> 
@@ -212,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:34 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, former Alaska governor and GOP vice presidential nominee says she’s in a David vs. Goliath battle with storied newspaper. 
+ <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
  <p class="updated_time"> 12:57 PM CT, Feb. 10 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
@@ -246,7 +248,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
  <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Testifies in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
  <p class="updated_time"> 10:26 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
@@ -343,8 +345,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
@@ -395,8 +395,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
  <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
- <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
 
 
 </details>
