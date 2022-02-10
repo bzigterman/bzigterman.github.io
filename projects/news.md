@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:38 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
