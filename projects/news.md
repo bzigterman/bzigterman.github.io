@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:39 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 05:27 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
  <p class="updated_time"> 05:19 PM CT, Feb. 09 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
- <p class="updated_time"> 05:08 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Live Updates: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 04:34 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
@@ -195,8 +195,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:53 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 05:49 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/ambassador-bridge-blockade-freedom-convoy-00007456">Ambassador Bridge blockade has both sides on edge</a> Politico: “You have 100 people who are holding hostage part of our national economy,” the mayor of Windsor said Wednesday. 
+ <p class="updated_time"> 05:46 PM CT, Feb. 09 </p> 
+ <a href="https://www.npr.org/2022/02/09/1079700404/1-in-5-patriot-front-applicants-say-they-have-ties-to-the-military">1 in 5 Patriot Front applicants say they have ties to the military</a> NPR: The group, which is a rebrand of a group that attended the "Unite the Right" rally in Charlottesville, Va., has created an image of Americana bolstered by racism, antisemitism and neo-fascism. 
  <p class="updated_time"> 05:32 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:31 PM CT, Feb. 09 </p> 
@@ -211,8 +215,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
- <p class="updated_time"> 04:49 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
@@ -236,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators on Wednesday that Iran is “weeks” away from producing enough material for a nuclear weapon. 
+ <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 03:02 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Stock Trading Ban for Lawmakers Gains Momentum on Capitol Hill</a> NYT: A bipartisan push is growing to bar members of Congress from trading individual stocks, an effort pushed by vulnerable lawmakers eager to take on perceived corruption in Washington. 
  <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
@@ -309,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
- <p class="updated_time"> 05:39 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079339405/west-virginia-ban-nuclear-power-coal">Coal-dependent West Virginia eliminates ban on nuclear power</a> NPR: The state's ban on nuclear plants was enacted in 1996, but nuclear power has gained support as a tool to keep climate change under control and other states are transitioning away from fossil fuels. 
  <p class="updated_time"> 05:25 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the husband of Vice President Kamala Harris, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
