@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:41 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/russia-ukraine-us">Ukraine Live Updates: Little Progress Seen in Talks, as Russia Starts Major Military Exercise</a> NYT: NATO sees Russian military drills in Belarus as ominous. Russia’s foreign minister compared a meeting with his British counterpart to a conversation of a “mute person with a deaf person.” 
+ <p class="updated_time"> 04:01 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/isis-us-raid-syria.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
+ <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
+ <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
+ <p class="updated_time"> 03:48 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 03:40 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns Canada-style protests could start in California. 
  <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947584/scientist-luc-montagnier-who-discovered-the-virus-that-causes-aids-is-dead-at-89">Scientist Luc Montagnier, who discovered the virus that causes AIDS, is dead at 89</a> NPR: Luc Montagnier, the scientist who discovered the virus that causes AIDS, has died at 89. His key contribution came at a time when AIDS was mysterious and uniformly deadly. 
  <p class="updated_time"> 03:26 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
- <p class="updated_time"> 03:26 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
- <p class="updated_time"> 03:24 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947548/truckers-blocking-the-canada-u-s-border-could-seriously-impact-supply-chain">Truckers blocking the Canada-U.S. border could seriously impact supply chain</a> NPR: Canadian truckers protesting a COVID vaccine mandate are blocking traffic on the busiest international crossing in North America, which may have major supply chain implications for Canada and the U.S. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
@@ -68,6 +72,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">In India, a Bellwether for Narendra Modi as Voters Head to Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
+ <p class="updated_time"> 09:05 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-bets-on-nuclear-power-to-fight-climate-change-11644508634">Macron Bets on Nuclear Power to Fight Climate Change</a> WSJ: The French president announced a plan to build six new nuclear reactors, betting on a technology that produces electricity with almost zero greenhouse emissions but faces questions about costs. 
  <p class="updated_time"> 08:55 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
@@ -100,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 130,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/in-u-k-s-omicron-wave-many-people-are-dying-with-covid-19-not-from-it-11644499077">In U.K.'s Omicron Wave, Many People Are Dying With Covid-19, Not From It</a> WSJ: The number of people dying in Britain with a recent positive Covid-19 test is significantly overstating the true death toll from the virus for the first time, according to new data. 
- <p class="updated_time"> 02:05 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/gunmen-attack-libyan-premiers-car-raising-fears-of-renewed-conflict-11644496742">Gunmen Fire at Libyan Premier's Car, Raising Fears of Renewed Conflict</a> WSJ: The attack raises tensions in the war-torn country as rival political factions wrangle for control over its interim government in a standoff that could unravel a United Nations-backed peace process. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
  <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
@@ -180,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
  <p class="updated_time"> 12:31 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/england-nhs.html">Backlog at England's Hospitals Will Last Years, Javid Warns</a> NYT: Sajid Javid, Britain’s health secretary, said that more than 300,000 people in England had been waiting a year or longer for planned medical procedures. 
- <p class="updated_time"> 12:24 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/uk-boris-johnson.html">Boris Johnson Shuffles Team to Tamp Down Mutiny Within His Party</a> NYT: The British prime minister shuffles his team to tamp down a growing mutiny within his Conservative Party over his leadership. 
 
 
 </details>
@@ -189,8 +191,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/isis-us-raid-syria.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
+ <p class="updated_time"> 03:52 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
  <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
@@ -213,8 +219,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
- <p class="updated_time"> 01:34 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
  <p class="updated_time"> 12:57 PM CT, Feb. 10 </p> 
@@ -315,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/pence-trump-rebuke-response/index.html">Pence rebuked Trump -- and received an outpouring of GOP support in response</a> CNN: Mike Pence did not initially intend to admonish former President Donald Trump during a long-planned speech last week. But a pair of statements from Trump criticizing Pence's actions on January 6, 2021, were the final straw, said two people close to the former vice president. He had to say something. 
- <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/navy-fighter-jet-china.html">What Happens When a Stealth Jet Ends Up on the Ocean Floor?</a> NYT: Here’s how the Navy might recover a $94 million F-35 Joint Strike Fighter that crashed in China’s backyard. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
