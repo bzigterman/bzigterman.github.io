@@ -14,6 +14,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 11:39 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 11:17 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60339141?at_medium=RSS&at_campaign=KARANGA">France migrants: Coastguard rescues 36 from North Sea</a> BBC: The people saved near the port of Dunkirk are believed to have been attempting to get to the UK. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns Canada-style protests could start in California. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
@@ -54,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60332304?at_medium=RSS&at_campaign=KARANGA">'Auschwitz tattoo kit' claim put in doubt by Yad Vashem</a> BBC: The auction of tools said to have been used to brand prisoners caused uproar among Holocaust groups. 
- <p class="updated_time"> 07:22 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 07:03 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330421?at_medium=RSS&at_campaign=KARANGA">Snoop Dogg acquires Death Row Records</a> BBC: It means the rapper and entrepreneur has now bought the label that launched his career. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
+ <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
  <p class="updated_time"> 11:43 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
  <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
@@ -291,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-adviser-peter-navarro">Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro</a> NPR: The House Jan. 6 panel says former Trump White House trade adviser Peter Navarro documented, in his own book, efforts to delay certification of 2020 election results. 
  <p class="updated_time"> 03:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655006/control-of-congress-is-up-for-grabs-this-fall-georgias-senator-feels-the-pressur">Control of Congress is up for grabs this fall. Georgia's senator feels the pressure</a> NPR: Democrats like Georgia Sen. Raphael Warnock are under pressure. President Biden's approval numbers are low, his legislative agenda has stalled, and control of Congress is up for grabs this fall. 
- <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079654999/black-voters-in-alabama-say-supreme-court-decision-dilutes-their-voting-power">Black voters in Alabama say Supreme Court decision dilutes their voting power</a> NPR: African-American voters in Alabama say a Supreme Court decision dilutes their voting power. Republican leaders say race should not be the predominant factor for drawing congressional district lines. 
  <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
