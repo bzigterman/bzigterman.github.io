@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:06 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 12:28 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/russia-ukraine-us">Ukraine Live Updates: Little Progress Seen in Talks, as Russia Starts Major Military Exercise</a> NYT: NATO sees Russian military drills in Belarus as ominous. Russia’s foreign minister compared a meeting with his British counterpart to a conversation of a “mute person with a deaf person.” 
+ <p class="updated_time"> 12:16 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 12:09 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
  <p class="updated_time"> 11:58 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
@@ -54,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60335189?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sharia police bulldoze four million bottles of beer in Kano</a> BBC: Islamic police roll bulldozers over bottles in the city of Kano, where alcohol is banned. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
- <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60332304?at_medium=RSS&at_campaign=KARANGA">'Auschwitz tattoo kit' claim put in doubt by Yad Vashem</a> BBC: The auction of tools said to have been used to brand prisoners caused uproar among Holocaust groups. 
  <p class="updated_time"> 07:03 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330421?at_medium=RSS&at_campaign=KARANGA">Snoop Dogg acquires Death Row Records</a> BBC: It means the rapper and entrepreneur has now bought the label that launched his career. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
@@ -166,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-putin-russia.html">Putin Is Operating on His Own Timetable, and It May Be a Long One</a> NYT: The standoff between Russia and the West over Ukraine could turn into a drawn-out and dangerous diplomatic slog toward a difficult settlement. 
- <p class="updated_time"> 12:39 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
@@ -335,6 +335,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
+ <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
@@ -393,10 +395,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
  <p class="updated_time"> 03:20 PM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/news/2022/02/03/russia-invasion-ukraine-senators-sanctions-00005401">Senators worry Russia will invade Ukraine before they finalize sanctions bill</a> Politico: “I’m concerned that Mr. Putin’s timetable is different than ours. And he may well move before we can get this done,” said Sen. John Cornyn. 
- <p class="updated_time"> 12:27 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/congress-shutdown-fallback-00005253">Congress plots another shutdown fallback</a> Politico: Lawmakers are talking about another short-term spending deal as their bipartisan talks on funding the government drag on. 
- <p class="updated_time"> 12:18 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
 
 
 </details>
