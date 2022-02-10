@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 05:34 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947541/austria-is-the-1st-western-democracy-to-require-vaccines-for-most-adults">Austria is the 1st Western democracy to require vaccines for most adults</a> NPR: Austria has become the first Western democracy to require vaccines for nearly all adults. Everyone who isn't exempt will be required to show proof of vaccination during random checks by the police. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
- <p class="updated_time"> 03:20 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 02:11 PM CT, Feb. 10 </p> 
@@ -197,6 +197,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:59 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/russian-naval-buildup-ukraine-cold-war-levels-00007986">‘Dangerous moment’: Russian naval buildup near Ukraine hits Cold War levels</a> Politico: While the world watches Russia's tanks and troops, a quiet and remarkable flotilla is growing. 
+ <p class="updated_time"> 05:50 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-crack-pipes-claim.html">Explaining the Claim About the Biden Administration and ‘Crack Pipes’</a> NYT: Conservatives have homed in on a specific provision in an overdose prevention grant program to make a misleading claim about crack pipes. 
+ <p class="updated_time"> 05:49 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data showed prices climbing faster than expected, picking up across a broad array of goods and services. 
+ <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079973484/biden-says-hes-done-a-deep-dive-on-four-supreme-court-candidates">Biden says he's done a "deep dive" on four Supreme Court candidates</a> NPR: President Biden has been spending a lot of time courting senators — from both sides of the aisle — ahead of making his decision on who to nominate for a vacant seat on the Supreme Court. 
+ <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-health-science-agenda.html">Vacancies in Top Health and Science Jobs May Threaten Biden’s Agenda</a> NYT: President Biden came into office vowing to respect science, but openings in crucial jobs could hamper progress on medical and technological research. 
  <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 05:21 PM CT, Feb. 10 </p> 
@@ -247,12 +255,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. Senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
- <p class="updated_time"> 11:43 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
  <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079866701/usps-reform-bill">Bill that would give the U.S. Postal Service a major overhaul moves to the Senate</a> NPR: The embattled USPS has been losing billions of dollars annually in recent years. The bill, which focuses on cutting health care costs, would result in $50 billion in savings over 10 years. 
- <p class="updated_time"> 11:33 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
  <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">Inflation keeps getting worse: A peek inside the mounting trouble for the Fed and Biden</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
  <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
@@ -305,8 +309,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
- <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
@@ -319,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
- <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-inquiry.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
