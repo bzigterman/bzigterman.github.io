@@ -60,8 +60,17 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
     weather_icon == "50d" ~ "🌫",
     weather_icon == "50n" ~ "🌫",
     TRUE ~ weather_icon
+  ) 
+  ) %>% 
+  mutate(half_day_temp = if_else(hour(central_time) == 0,temp,
+                                 if_else(hour(central_time) == 12,temp,NULL)
+  )
+  ) %>%
+  mutate(half_day_icon = if_else(hour(central_time) == 0,weather_unicode,
+                                 if_else(hour(central_time) == 12,weather_unicode,NULL)
   )
   )
+
 
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
@@ -129,13 +138,63 @@ precip <- ggplot(champaign_forecast_tidy,
   )
 precip
 
-plot_grid(temp, precip,
+weather <- plot_grid(temp, precip,
           align = "v",
           ncol = 1,
           rel_heights = c(6,2))
 
-ggsave("plots/champaign_weather.png",
+ggsave("plots/champaign_weather.png", plot = weather,
        width = 8, height = 8*(628/1200), dpi = 320)
+
+
+temp_mobile <- ggplot(champaign_forecast_tidy,
+                      aes(x = central_time,
+                          y = temp,
+                          label = half_day_icon,
+                          color = temp_class),) +
+  geom_line(color = "grey93") +
+  #geom_point(size = .5) +
+  geom_text(color = "black",
+            family = "EmojiOne",
+            nudge_y = .25,
+            size = 5) + 
+  geom_text(aes(label = round(half_day_temp)),
+            color = "black",
+            nudge_y = 1.6) +
+  scale_color_manual(values = c("magenta","purple","darkblue","blue",
+                                "turquoise","green","yellow","gold",
+                                "orange","orangered","red","darkred"),
+                     limits = c("Below 0","0–10","10–20","20–32",
+                                "32–40","40–50","50–60","60–70",
+                                "70–80","80–90","90–100","100+")) +
+  scale_x_datetime(date_labels = "%a") +
+  scale_y_continuous(position = "right",
+                     labels = label_number(suffix = "°")) +
+  theme_minimal() +
+  labs(x = NULL,
+       y = NULL) +
+  theme(
+    legend.title = element_blank(),
+    panel.grid.major.x = element_line(colour = "grey93"),
+    plot.title = element_text(hjust = 1),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    #axis.text = element_blank(),
+    legend.position = "none",
+    legend.key.size = unit(.1,"in"),
+    legend.box.spacing = unit(0,"in")
+  )
+temp_mobile
+
+
+weather_mobile <- plot_grid(temp_mobile, precip,
+                     align = "v",
+                     ncol = 1,
+                     rel_heights = c(6,2))
+
+ggsave("plots/champaign_weather_mobile.png", plot = weather_mobile,
+       width = 3, height = 8*(628/1200), dpi = 320)
+
 
 # web text ----
 severe_weather_outlook_url <- 
@@ -163,6 +222,14 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   "</p>",
                   sep = "")
 
+# weather_image <- paste("<picture>
+#                          <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
+#                        media=\"(min-width: 800px)\">
+#                          <img src=\"{{ site.baseurl }}/plots/champaign_weather.png\" />
+#                          </picture>
+# "                         
+# )
+
 
 web_text <- paste(
   "---
@@ -174,7 +241,11 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign Forecast
 
-![Champaign Weather]({{ site.baseurl }}/plots/champaign_weather.png)
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
+          media=\"(min-width: 800px)\">
+  <img src=\"{{ site.baseurl }}/plots/champaign_weather.png\" />
+</picture>
 
 Current:
 
