@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/isis-us-raid-syria.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
- <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
+ <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 04:12 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342175?at_medium=RSS&at_campaign=KARANGA">Oregon man takes own life after misfire at bear kills brother</a> BBC: The man accidentally shoots his brother while loading a gun to aim at a bear on their property. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342175?at_medium=RSS&at_campaign=KARANGA">Misfire at Oregon bear results in death of two US brothers</a> BBC: The man accidentally shoots his brother while loading a gun to aim at a bear on their property. 
  <p class="updated_time"> 04:07 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 02:52 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
@@ -82,6 +82,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079820023/prince-charles-covid">Prince Charles has tested positive for COVID a second time </a> NPR: Prince Charles is isolating and has canceled his appearances. He previously contracted the virus in March 2020. 
  <p class="updated_time"> 08:48 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312231?at_medium=RSS&at_campaign=KARANGA">A missing game of Wordle helps end a 17-hour hostage ordeal</a> BBC: Police were alerted to a hostage situation when an 80-year-old woman failed to send her daily Wordle. 
+ <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 08:12 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Russia's Massive Military Drills on Ukraine Border Stir Invasion Fears</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
  <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
@@ -191,8 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:01 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/isis-us-raid-syria.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
+ <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
  <p class="updated_time"> 03:52 PM CT, Feb. 10 </p> 
