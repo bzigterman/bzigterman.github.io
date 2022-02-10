@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:35 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 02:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
+ <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 02:34 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/russia-ukraine-us">Ukraine Live Updates: Little Progress Seen in Talks, as Russia Starts Major Military Exercise</a> NYT: NATO sees Russian military drills in Belarus as ominous. Russia’s foreign minister compared a meeting with his British counterpart to a conversation of a “mute person with a deaf person.” 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079888622/russia-military-exercise-belarus-ukraine">Russia holds a massive military exercise with Belarus, raising concerns in Ukraine</a> NPR: "The buildup of troops along the borders is psychological pressure from our neighbors," Ukrainian President Volodymyr Zelenskyy said. Belarus is a possible route for Russian troops to invade Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't phasing her, Kelly Curtis said. 
- <p class="updated_time"> 01:14 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 12:44 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340504?at_medium=RSS&at_campaign=KARANGA">Luc Montagnier, co-discoverer of HIV, dies aged 89</a> BBC: The French virologist jointly won the Nobel Prize but later drew criticism for unscientific claims. 
  <p class="updated_time"> 12:42 PM CT, Feb. 10 </p> 
@@ -182,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/england-nhs.html">Backlog at England's Hospitals Will Last Years, Javid Warns</a> NYT: Sajid Javid, Britain’s health secretary, said that more than 300,000 people in England had been waiting a year or longer for planned medical procedures. 
  <p class="updated_time"> 12:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/uk-boris-johnson.html">Boris Johnson Shuffles Team to Tamp Down Mutiny Within His Party</a> NYT: The British prime minister shuffles his team to tamp down a growing mutiny within his Conservative Party over his leadership. 
- <p class="updated_time"> 12:18 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html">In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash</a> NYT: Across Taiwan, the classical melody “Für Elise” is a Pavlovian call to action: Bring down your garbage and catch up on neighborhood gossip. 
  <p class="updated_time"> 12:04 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-finlandization.html">What is 'Finlandization,' a Status Proposed for Ukraine?</a> NYT: During the Cold War, Finland promised not to join NATO and let Moscow influence its affairs — the kinds of concessions Ukraine is resisting. 
  <p class="updated_time"> 09:48 AM CT, Feb. 08 </p> 
@@ -195,10 +193,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/gina-mccarthy-touts-biden-climate-progress-00007913">Gina McCarthy pledges to run 'faster and faster' to address climate change</a> Politico: “We all understand that we have to do as much as humanly possible as quickly as we possibly can," McCarthy said at a POLITICO event. 
  <p class="updated_time"> 03:03 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/schumer-moves-to-limit-debate-on-califf-nomination-00007758">Schumer moves to limit debate on Califf nomination</a> Politico: The Senate is expected to officially vote on his confirmation as early as Tuesday, three people with knowledge of the matter said. 
  <p class="updated_time"> 02:57 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/adams-faith-based-office-00007805">Adams says 'God' told him he'd be mayor</a> Politico: He always believed he would one day lead New York City during his time as a state senator and Brooklyn borough president, Adams recalled. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
@@ -207,8 +209,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
- <p class="updated_time"> 01:50 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
  <p class="updated_time"> 01:34 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
@@ -363,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
