@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
+ <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:34 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
+ <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60332304?at_medium=RSS&at_campaign=KARANGA">'Auschwitz tattoo kit' claim put in doubt by Yad Vashem</a> BBC: The auction of tools said to have been used to brand prisoners caused uproar among Holocaust groups. 
  <p class="updated_time"> 07:22 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 06:49 AM CT, Feb. 10 </p> 
@@ -17,7 +23,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:47 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Tests Positive for Coronavirus a Second Time</a> NYT: The heir to the British throne, 73, first tested positive in March 2020. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech as she spoke about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
+ <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 06:22 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 06:03 AM CT, Feb. 10 </p> 
@@ -58,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60329578?at_medium=RSS&at_campaign=KARANGA">Hong Kong's tough Covid laws threatened by virus surge</a> BBC: Hong Kong has recorded more than 1,000 Covid infections for the first time since the pandemic began 
  <p class="updated_time"> 12:50 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60219775?at_medium=RSS&at_campaign=KARANGA">In pictures: Crossing the world's deepest lake</a> BBC: Oleg Boldyrev's photographs capture the frozen landscape of Lake Baikal, in Siberia. 
- <p class="updated_time"> 12:24 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60328734?at_medium=RSS&at_campaign=KARANGA">Team USA's Chen wins men's figure skating gold</a> BBC: American Nathan Chen wins the men's figure skating gold but defending champion Yuzuru Hanyu's jump record attempt fails at Beijing 2022. 
  <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079777978/nathan-chen-wins-gold-figure-skating-olympics">U.S.'s Nathan Chen wins gold in men's figure skating at the Beijing Olympics</a> NPR: The 22-year-old Chen topped a competitive field Thursday in Beijing. Figure skaters from Japan came in second and third. 
  <p class="updated_time"> 11:21 PM CT, Feb. 09 </p> 
@@ -136,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079534750/ukraine-russia-warships-black-sea">Russia sends warships to the Black Sea as diplomatic talks over Ukraine ramp up</a> NPR: The warships passed through the Turkish straits into the Black Sea on Tuesday on their way to waters near Ukraine. Russia insists the movement is part of a planned naval exercise. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
- <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
@@ -180,10 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
  <p class="updated_time"> 04:43 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
- <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
- <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
 
 
 </details>
@@ -211,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079792184/natural-gas-is-playing-a-major-role-in-the-russia-ukraine-crisis">Natural gas is playing a major role in the Russia-Ukraine crisis</a> NPR: One of the strongest levers the U.S. has against Moscow is sanctions against key Russian commodities, like oil and gas. Earlier this week, President Biden warned that includes a natural gas pipeline. 
  <p class="updated_time"> 04:07 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792121/morning-news-brief">News brief: Masking rollbacks, Nord Stream 2 pipeline, Peter Navarro subpoenaed</a> NPR: More Democratic-led states pull back their masking requirements. Natural gas plays a big role in the Russia-Ukraine crisis. Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro. 
+ <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079395385/with-evictions-on-the-rise-house-democrats-team-up-to-push-new-housing-protectio">With evictions on the rise, House Democrats team up to push new housing protections</a> NPR: Three Democrats are hoping to provide a legislative lifeline to tenants facing eviction. But the bill faces some steep hurdles in Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
@@ -313,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
- <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
