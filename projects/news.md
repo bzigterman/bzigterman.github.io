@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:38 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/cuomo-complaint-disbar-new-york-lawyers-00007869">Cuomo to file complaint against James with entity that can disbar New York lawyers</a> Politico: “We have rules of professional conduct that we have to follow in the state of New York,” Cuomo attorney Rita Glavin said in a press briefing Thursday. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
@@ -317,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-inquiry.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
- <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
