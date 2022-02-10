@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns of Canada-style protests from California to Washington DC. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns Canada-style protests could start in California. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
- <p class="updated_time"> 11:10 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 11:10 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
  <p class="updated_time"> 11:08 AM CT, Feb. 10 </p> 
@@ -195,6 +195,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
+ <p class="updated_time"> 11:33 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
  <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">`Not encouraging': Breaking down the latest inflation numbers</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
  <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
@@ -217,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/california-tesla-racial-discrimination-lawsuit-00007730">California accuses Tesla of racial discrimination in lawsuit</a> Politico: The state found evidence of "a racially segregated workplace where Black workers are subjected to racial slurs and discriminated against in job assignments, discipline, pay, and promotion,” according to a statement from Department of Fair Employment and Housing head Kevin Kish. 
  <p class="updated_time"> 10:02 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/farmers-congress-exports-00007521">U.S. farmers push Washington to help boost exports even after a record year</a> Politico: U.S. agriculture exports were at an all-time high in 2021, but Congress and the Biden administration are heeding industry calls to intervene in supply chain bottlenecks. 
- <p class="updated_time"> 09:52 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
  <p class="updated_time"> 09:49 AM CT, Feb. 10 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
@@ -236,9 +238,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
- <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Dems face a sobering possibility: Build Back ... never</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
@@ -262,7 +264,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:50 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/nyregion/eric-adams-albany.html">Mayor Adams Clashes With Albany Democrats Over His Crime Plan</a> NYT: Eric Adams’s harshest exchange during a state budget hearing was with a fellow Democrat whose brother was killed by gunfire at the age of 19. 
  <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
@@ -273,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 05:25 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079717258/senators-announce-a-deal-to-reauthorize-the-violence-against-women-act">Senators announce a deal to reauthorize the Violence Against Women Act</a> NPR: The bipartisan announcement comes after months of negotiations in the chamber. The legislation offers resources for victims of domestic abuse and sexual violence. 
- <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/trump-emails-voting-machines-election-00007449">Read the emails showing Trump allies’ connections to voting machine seizure push</a> Politico: The conversations shed light on the visibility that Washington lawyer Katherine Friess and Texas entrepreneur Russell Ramsland had into the election subversion push. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
