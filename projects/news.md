@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
+ <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60330296?at_medium=RSS&at_campaign=KARANGA">Tesla sued over alleged racial discrimination</a> BBC: The electric carmaker says a lawsuit by a California regulator, claiming harassment, is "misguided". 
+ <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 05:20 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 05:17 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
- <p class="updated_time"> 05:08 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 04:37 AM CT, Feb. 10 </p> 
@@ -22,6 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 03:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
+ <p class="updated_time"> 03:40 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 130,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Bob Saget, 65, was found dead by authorities in his Florida hotel room last month. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
@@ -48,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079759013/chloe-kim-wins-her-gold-at-the-2022-beijing-olympics">U.S. snowboarder Chloe Kim makes history winning second Olympic halfpipe gold</a> NPR: Kim dominated the leaderboard after her stellar first run at the women's snowboard halfpipe event on Thursday, Feb. 10 in Beijing. She's the first woman to win multiple Olympic golds in the halfpipe. 
  <p class="updated_time"> 08:11 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60318946?at_medium=RSS&at_campaign=KARANGA">‘Hackers helped me find my lost Bitcoin fortune’</a> BBC: It's estimated that 3.7 million Bitcoin have been lost - but hackers are helping owners get some of them back. 
- <p class="updated_time"> 08:07 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60326418?at_medium=RSS&at_campaign=KARANGA">'Don't Say Gay': Biden denounces 'hateful' new Florida bill</a> BBC: The legislation bans discussing sexual orientation and gender identity in primary school classrooms. 
  <p class="updated_time"> 06:37 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60301758?at_medium=RSS&at_campaign=KARANGA">Pa Sorie: The Sierra Leonean proud to have fought in World War Two</a> BBC: Samuel Sorie Sesay, who died last month in Sierra Leone, fought for the British army in World War Two. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
@@ -180,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
- <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
 
