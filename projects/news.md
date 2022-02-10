@@ -8,9 +8,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:52 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
- <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/article/canada-trucker-protests.html">Trucker Protests in Canada: What You Need to Know</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
+ <p class="updated_time"> 05:18 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
+ <p class="updated_time"> 05:15 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
@@ -40,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
- <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
  <p class="updated_time"> 02:11 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 01:59 PM CT, Feb. 10 </p> 
@@ -54,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60338663?at_medium=RSS&at_campaign=KARANGA">Christian Eriksen: Denmark international on returning to Premier League with Brentford</a> BBC: Christian Eriksen says he is lucky to be alive and will do everything he can to return to his former level after joining Brentford. 
  <p class="updated_time"> 12:32 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
+ <p class="updated_time"> 12:14 PM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/a-whos-who-of-daniel-ortegas-critics-are-on-trial-in-nicaragua-11644510847">A Who's Who of Daniel Ortega's Critics Are On Trial in Nicaragua</a> WSJ: From Sandinista veterans to journalists and student leaders, dozens of opponents of the Nicaraguan president are facing prison terms. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:17 AM CT, Feb. 10 </p> 
@@ -96,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330421?at_medium=RSS&at_campaign=KARANGA">Snoop Dogg acquires Death Row Records</a> BBC: It means the rapper and entrepreneur has now bought the label that launched his career. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
- <p class="updated_time"> 05:34 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/a-whos-who-of-daniel-ortegas-critics-are-on-trial-in-nicaragua-11644510847">A Who's Who of Daniel Ortega's Critics Are On Trial in Nicaragua</a> WSJ: From Sandinista veterans to journalists and student leaders, dozens of opponents of the Nicaraguan president are facing prison terms. 
  <p class="updated_time"> 04:59 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-partygate-scandal-uk-politics-11644508593">Inside Boris Johnson's 'Partygate' Scandal: Wine in the Garden and Lockdown Jokes</a> WSJ: Anger over parties held at Downing Street during Covid restrictions has the U.K.’s leader fighting to stay in power. It could prove a rapid fall from grace for the man who upended British politics. 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
@@ -193,12 +195,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:59 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/russian-naval-buildup-ukraine-cold-war-levels-00007986">‘Dangerous moment’: Russian naval buildup near Ukraine hits Cold War levels</a> Politico: While the world watches Russia's tanks and troops, a quiet and remarkable flotilla is growing. 
  <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
+ <p class="updated_time"> 05:21 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/auto-industry-canada-protests.html">Canadian Trucker Protests Snarl an Already Hobbled Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/cuomo-complaint-disbar-new-york-lawyers-00007869">Cuomo to file complaint against James with entity that can disbar New York lawyers</a> Politico: “We have rules of professional conduct that we have to follow in the state of New York,” Cuomo attorney Rita Glavin said in a press briefing Thursday. 
- <p class="updated_time"> 04:55 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/auto-industry-canada-protests.html">Canadian Trucker Protests Snarl an Already Hobbled Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 04:53 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
@@ -273,8 +277,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 08:58 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
- <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/us-inflation-new-40-year-high-january-00007695">U.S. inflation might have hit a new 40-year high in January</a> Politico: With American consumers spending freely and many supply chains still snarled, year-over-year inflation may have notched yet another four-decade high. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
  <p class="updated_time"> 06:06 AM CT, Feb. 10 </p> 
