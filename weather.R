@@ -244,7 +244,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
           media=\"(min-width: 800px)\">
-  <img src=\"{{ site.baseurl }}/plots/champaign_weather.png\" />
+  <img src=\"{{ site.baseurl }}/plots/champaign_weather.png\" alt=\"\" />
 </picture>
 
 Current:
