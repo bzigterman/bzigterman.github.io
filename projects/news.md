@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:12 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
+ <p class="updated_time"> 10:56 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60328163?at_medium=RSS&at_campaign=KARANGA">White House left behind as states drop Covid rules</a> BBC: Governors ignore the White House's plea that all Americans stay masked in indoor settings. 
  <p class="updated_time"> 10:31 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
- <p class="updated_time"> 10:26 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 10:10 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60327933?at_medium=RSS&at_campaign=KARANGA">US National Archives requests legal probe of Trump over handling of documents</a> BBC: Donald Trump has been accused of ripping up documents that were supposed to be sent to the Archives. 
  <p class="updated_time"> 09:02 PM CT, Feb. 09 </p> 
@@ -120,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
  <p class="updated_time"> 06:33 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-debates-whether-a-new-iran-deal-merits-the-risks-11644410521">U.S. Debates Whether a New Iran Deal Merits the Risks</a> WSJ: Advances Iran has made since the Trump administration exited the deal in 2018 have eroded gains for Western negotiators, who have been striving to ensure Iran never gets close to developing a nuclear weapon. 
- <p class="updated_time"> 06:22 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60152011?at_medium=RSS&at_campaign=KARANGA">Australian MP in emotional plea over religion bill</a> BBC: Stephen Jones cites his son and late gay nephew, urging lawmakers not to rush legislation through. 
  <p class="updated_time"> 04:55 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/india-hate-speech-muslims.html">As Officials Look Away, Hate Speech in India Nears Dangerous Levels</a> NYT: Activists and analysts say calls for anti-Muslim violence — even genocide — are moving from the fringes to the mainstream, while political leaders keep silent. 
  <p class="updated_time"> 04:13 AM CT, Feb. 09 </p> 
@@ -307,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 08:44 PM CT, Feb. 08 </p> 
  <a href="https://www.npr.org/2022/02/08/1079419227/2-capitol-riot-suspects-were-arrested-from-online-sleuths-info-documents-show">2 Capitol riot suspects were arrested from online sleuths' info, documents show</a> NPR: The FBI has cited information compiled by online sleuths in many of the more than 730 riot-related cases filed in federal court so far. 
- <p class="updated_time"> 08:37 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/stacey-abrams-apologizes-maskless-photo-00007072">It was a 'mistake': Abrams apologizes for maskless photo with schoolchildren</a> Politico: Abrams is among a handful of Democrats who have faced criticism for maskless pictures posted on social media recently. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
@@ -363,6 +361,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
