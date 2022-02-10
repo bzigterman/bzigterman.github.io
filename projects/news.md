@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079784243/the-philippines-welcomes-back-foreign-travelers-after-2-years">The Philippines welcomes back foreign travelers after nearly 2 years</a> NPR: The Philippines lifted a nearly 2-year ban on fully vaccinated foreign travelers Thursday to boost tourism and related industries as an omicron-fueled surge eases. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar  Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
@@ -50,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
  <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
+ <p class="updated_time"> 05:05 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60328160?at_medium=RSS&at_campaign=KARANGA">Truckers block key US-Canada border crossing over Covid curbs</a> BBC: Truckers have been blocking one of the busiest border crossings from the US to Canada since Monday. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655020/ukrainians-in-and-near-crimea-have-seen-up-close-what-happens-when-russia-invade">Ukrainians in and near Crimea have seen up close what happens when Russia invades</a> NPR: Russia occupied Crimea in 2014 and is sending more troops there now. Ukrainians who live near Crimea are considering the consequences of their rejection of Russia and embrace of the West. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
@@ -112,8 +116,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/business/energy-environment/electric-cars-vehicles.html">Why This Could Be a Critical Year for Electric Cars</a> NYT: Booming in a depressed market, battery-powered vehicles are a plus for the climate but pose a big threat to carmakers and parts suppliers that are slow to change. 
- <p class="updated_time"> 08:47 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079506355/new-zealand-protest-vaccine-mask-mandates">New Zealand convoy clogs streets near Parliament to protest vaccine mandates</a> NPR: Among the protesters' grievances is the requirement in New Zealand that certain workers get vaccinated against the coronavirus, including teachers, doctors, nurses, police and military personnel. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60308612?at_medium=RSS&at_campaign=KARANGA">Canadian capital on edge as trucker protest rolls on</a> BBC: Some Ottawa residents are fed up with the disruption, but truckers vow they're in it for the long haul. 
  <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
- <p class="updated_time"> 04:59 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60313081?at_medium=RSS&at_campaign=KARANGA">Amir Locke: Protesters demand end to 'no-knock' warrants</a> BBC: Demonstrators call for reform after the killing of a 22-year-old man in a police raid. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
