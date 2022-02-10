@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
- <p class="updated_time"> 11:17 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protests-right-populists.html">A Moment for Canada’s Far Right, Still Struggling for Support</a> NYT: The country’s political system has made it hard for fringe groups to gain influence. But a new cause, and fund-raising across borders, could begin to fuel Canadian populists. 
  <p class="updated_time"> 08:06 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
