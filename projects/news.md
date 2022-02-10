@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
- <p class="updated_time"> 07:34 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60332304?at_medium=RSS&at_campaign=KARANGA">'Auschwitz tattoo kit' claim put in doubt by Yad Vashem</a> BBC: The auction of tools said to have been used to brand prisoners caused uproar among Holocaust groups. 
  <p class="updated_time"> 07:22 AM CT, Feb. 10 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/us-inflation-new-40-year-high-january-00007695">U.S. inflation might have hit a new 40-year high in January</a> Politico: With American consumers spending freely and many supply chains still snarled, year-over-year inflation may have notched yet another four-decade high. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
  <p class="updated_time"> 06:06 AM CT, Feb. 10 </p> 
@@ -339,8 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/07/politics/rnc-censure-january-6-republican-divide/index.html">Republicans are frustrated by RNC move reopening party's January 6 divide ahead of midterms </a> CNN: Republicans felt they were finally united in their quest to take back the House and Senate -- with the political winds at their back and President Joe Biden reeling from an array of domestic and international problems. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
- <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
