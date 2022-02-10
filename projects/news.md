@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079777978/u-s-s-nathan-chen-wins-gold-in-mens-figure-skating-at-the-beijing-olympics">U.S.'s Nathan Chen wins gold in men's figure skating at the Beijing Olympics</a> NPR: The 22-year-old Chen topped a competitive field Thursday in Beijing. Figure skaters from Japan came in second and third. 
- <p class="updated_time"> 11:12 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
+ <p class="updated_time"> 11:21 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60328864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: The woman who is the face of the fight to wear headscarf</a> BBC: Muskaan Khan took on heckling Hindu men in a video that went viral amid a row over headscarves. 
  <p class="updated_time"> 10:56 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60328163?at_medium=RSS&at_campaign=KARANGA">White House left behind as states drop Covid rules</a> BBC: Governors ignore the White House's plea that all Americans stay masked in indoor settings. 
  <p class="updated_time"> 10:31 PM CT, Feb. 09 </p> 
@@ -44,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
- <p class="updated_time"> 04:34 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60312876?at_medium=RSS&at_campaign=KARANGA">Footballer's cats taken away after kicking video</a> BBC: The RSPCA has taken Kurt Zouma's cats away from him after videos emerged on social media of the West Ham defender kicking and slapping one of them. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655020/ukrainians-in-and-near-crimea-have-seen-up-close-what-happens-when-russia-invade">Ukrainians in and near Crimea have seen up close what happens when Russia invades</a> NPR: Russia occupied Crimea in 2014 and is sending more troops there now. Ukrainians who live near Crimea are considering the consequences of their rejection of Russia and embrace of the West. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
@@ -64,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60305218?at_medium=RSS&at_campaign=KARANGA">Neanderthal extinction not caused by brutal wipe out</a> BBC: New fossils challenge ideas that modern humans wiped out Neanderthals after arriving from Africa. 
  <p class="updated_time"> 02:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
- <p class="updated_time"> 02:12 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60312864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Judge refers issue to larger bench</a> BBC: Schools and colleges are shut after massive protests over Muslim women wearing headscarves in class. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
