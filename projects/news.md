@@ -8,6 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/france-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions 
+ <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
+ <p class="updated_time"> 10:20 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 10:10 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia stages military drills with Belarus</a> BBC: Ukraine calls the exercises 'psychological pressure' as frenzied diplomacy continues. 
  <p class="updated_time"> 10:05 AM CT, Feb. 10 </p> 
@@ -15,15 +25,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:58 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
  <p class="updated_time"> 09:40 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
- <p class="updated_time"> 09:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
- <p class="updated_time"> 09:26 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Tests Positive for Coronavirus a Second Time</a> NYT: The heir to the British throne, 73, first tested positive in March 2020. 
  <p class="updated_time"> 09:23 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079829894/doping-scandal-olympics-russian-skater">Olympic figure skaters' medals are in limbo over a (new) Russian doping scandal</a> NPR: Reports have surfaced that Kamila Valieva, 15, tested positive for a heart drug called trimetazidine, which can boost athletes' endurance and blood efficiency. 
  <p class="updated_time"> 09:17 AM CT, Feb. 10 </p> 
@@ -38,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312231?at_medium=RSS&at_campaign=KARANGA">A missing game of Wordle helps end a 17-hour hostage ordeal</a> BBC: Police were alerted to a hostage situation when an 80-year-old woman failed to send her daily Wordle. 
  <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
- <p class="updated_time"> 08:32 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60335189?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sharia police bulldoze four million bottles of beer in Kano</a> BBC: Islamic police roll bulldozers over bottles in the city of Kano, where alcohol is banned. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
@@ -182,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
- <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
 
 
 </details>
@@ -193,8 +195,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
- <p class="updated_time"> 10:18 AM CT, Feb. 10 </p> 
+ <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
+ <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
+ <p class="updated_time"> 10:26 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said that a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 10:03 AM CT, Feb. 10 </p> 
@@ -207,8 +213,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
- <p class="updated_time"> 09:28 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said that a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 08:58 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
  <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
@@ -222,7 +226,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
+ <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
@@ -267,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-inquiry.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
- <p class="updated_time"> 04:27 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
  <p class="updated_time"> 04:12 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-adviser-peter-navarro">Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro</a> NPR: The House Jan. 6 panel says former Trump White House trade adviser Peter Navarro documented, in his own book, efforts to delay certification of 2020 election results. 
  <p class="updated_time"> 03:34 PM CT, Feb. 09 </p> 
@@ -301,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
- <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
@@ -333,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
- <p class="updated_time"> 10:31 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">The world is on fire and our leaders are failing, poll finds</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
@@ -359,8 +357,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
