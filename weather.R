@@ -179,7 +179,7 @@ temp_mobile <- ggplot(champaign_forecast_tidy,
     plot.title = element_text(hjust = 1),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
-    #axis.text = element_blank(),
+    #axis.text.x = element_text(hjust = -.6),
     legend.position = "none",
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
