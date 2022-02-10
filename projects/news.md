@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia stages military drills with Belarus</a> BBC: Ukraine calls the exercises 'psychological pressure' as frenzied diplomacy continues. 
+ <p class="updated_time"> 10:05 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
+ <p class="updated_time"> 09:58 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
  <p class="updated_time"> 09:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 09:40 AM CT, Feb. 10 </p> 
@@ -22,12 +28,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079829894/doping-scandal-olympics-russian-skater">Olympic figure skaters' medals are in limbo over a (new) Russian doping scandal</a> NPR: Reports have surfaced that Kamila Valieva, 15, tested positive for a heart drug called trimetazidine, which can boost athletes' endurance and blood efficiency. 
  <p class="updated_time"> 09:17 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">In India, a Bellwether for Narendra Modi as Voters Head to Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
- <p class="updated_time"> 09:15 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
- <p class="updated_time"> 08:56 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
  <p class="updated_time"> 08:55 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
@@ -38,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 08:32 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
+ <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60335189?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sharia police bulldoze four million bottles of beer in Kano</a> BBC: Islamic police roll bulldozers over bottles in the city of Kano, where alcohol is banned. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
@@ -48,8 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330421?at_medium=RSS&at_campaign=KARANGA">Snoop Dogg acquires Death Row Records</a> BBC: It means the rapper and entrepreneur has now bought the label that launched his career. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
- <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60330296?at_medium=RSS&at_campaign=KARANGA">Tesla sued over alleged racial discrimination</a> BBC: The electric carmaker says a lawsuit by a California regulator, claiming harassment, is "misguided". 
+ <p class="updated_time"> 05:23 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60330415?at_medium=RSS&at_campaign=KARANGA">Betty Davis: 'Godmother of Funk' dies aged 77</a> BBC: Tributes are paid to the pioneering singer and musician by stars including Lenny Kravitz. 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 04:55 AM CT, Feb. 10 </p> 
@@ -62,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 130,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/in-u-k-s-omicron-wave-many-people-are-dying-with-covid-19-not-from-it-11644499077">In U.K.'s Omicron Wave, Many People Are Dying With Covid-19, Not From It</a> WSJ: The number of people dying in Britain with a recent positive Covid-19 test is significantly overstating the true death toll from the virus for the first time, according to new data. 
- <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Bob Saget, 65, was found dead by authorities in his Florida hotel room last month. 
  <p class="updated_time"> 02:05 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/gunmen-attack-libyan-premiers-car-raising-fears-of-renewed-conflict-11644496742">Gunmen Fire at Libyan Premier's Car, Raising Fears of Renewed Conflict</a> WSJ: The attack raises tensions in the war-torn country as rival political factions wrangle for control over its interim government in a standoff that could unravel a United Nations-backed peace process. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/eu-poland-fine.html">E.U. Cuts Payments to Poland in Dispute Over Unpaid Fines</a> NYT: For the first time, the E.U. executive arm said it would divert millions in grants to a member country to cover unpaid fines, escalating a confrontation despite jitters over Ukraine. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
- <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
@@ -193,18 +193,22 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
+ <p class="updated_time"> 10:18 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
+ <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 10:03 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/california-tesla-racial-discrimination-lawsuit-00007730">California accuses Tesla of racial discrimination in lawsuit</a> Politico: The state found evidence of "a racially segregated workplace where Black workers are subjected to racial slurs and discriminated against in job assignments, discipline, pay, and promotion,” according to a statement from Department of Fair Employment and Housing head Kevin Kish. 
  <p class="updated_time"> 10:02 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/farmers-congress-exports-00007521">U.S. farmers push Washington to help boost exports even after a record year</a> Politico: U.S. agriculture exports were at an all-time high in 2021, but Congress and the Biden administration are heeding industry calls to intervene in supply chain bottlenecks. 
  <p class="updated_time"> 09:52 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
+ <p class="updated_time"> 09:49 AM CT, Feb. 10 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 09:28 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said that a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
- <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
  <p class="updated_time"> 08:58 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
  <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
@@ -245,16 +249,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
- <p class="updated_time"> 06:59 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/nyregion/eric-adams-albany.html">Mayor Adams Clashes With Albany Democrats Over His Crime Plan</a> NYT: Eric Adams’s harshest exchange during a state budget hearing was with a fellow Democrat whose brother was killed by gunfire at the age of 19. 
  <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/video-game-political-arena.html">A New Video Game About Politics in the Age of Donald Trump</a> NYT: A new video game will let players pretend to be the politicians they most admire — or despise. 
  <p class="updated_time"> 05:46 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079700404/1-in-5-patriot-front-applicants-say-they-have-ties-to-the-military">1 in 5 Patriot Front applicants say they have ties to the military</a> NPR: The group, which is a rebrand of a group that attended the "Unite the Right" rally in Charlottesville, Va., has created an image of Americana bolstered by racism, antisemitism and neo-fascism. 
- <p class="updated_time"> 05:32 PM CT, Feb. 09 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 05:25 PM CT, Feb. 09 </p> 
