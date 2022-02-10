@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">Trucker Protests in Canada: What You Need to Know</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 05:18 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
- <p class="updated_time"> 05:15 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
@@ -49,7 +49,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:59 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079888622/russia-military-exercise-belarus-ukraine">Russia holds a massive military exercise with Belarus, raising concerns in Ukraine</a> NPR: "The buildup of troops along the borders is psychological pressure from our neighbors," Ukrainian President Volodymyr Zelenskyy said. Belarus is a possible route for Russian troops to invade Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't phasing her, Kelly Curtis said. 
+ <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't phasing her, Kelly Curtis says. 
  <p class="updated_time"> 12:44 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340504?at_medium=RSS&at_campaign=KARANGA">Luc Montagnier, co-discoverer of HIV, dies aged 89</a> BBC: The French virologist jointly won the Nobel Prize but later drew criticism for unscientific claims. 
  <p class="updated_time"> 12:42 PM CT, Feb. 10 </p> 
