@@ -8,16 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 04:06 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's virus outbreak growing rapidly with omicron confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the virus, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 03:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
- <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Saget, 65, was found dead by authorities in his Florida hotel room last month. 
- <p class="updated_time"> 02:06 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
  <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
@@ -174,6 +172,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/europe/denmark-covid-infections.html">Inside Denmark’s ‘Live With Covid’ Approach</a> NYT: The Nordic country is trying a bold, some say risky, approach: with high vaccination rates and trust in the authorities, it has lifted all restrictions. 
  <p class="updated_time"> 08:51 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/russia-ukraine-minsk-accords.html">What Are the Minsk Accords, and Could They Defuse the Ukraine Crisis?</a> NYT: European diplomats are exploring whether a seven-year-old negotiating channel, initially intended to resolve a conflict in eastern Ukraine, can be repurposed to calm a wider crisis. 
+ <p class="updated_time"> 08:05 AM CT, Feb. 08 </p> 
+ <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-convoy-protests-support-far-right.html">Canada Convoy Draws Online Support From Far-Right Activists</a> NYT: Prominent figures in numerous countries, including the U.S., Australia and Germany, have praised the protests, spreading the images and arguments widely. 
  <p class="updated_time"> 04:43 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/the-omicron-variant-has-infected-deer-in-new-york-city.html">The Omicron variant has infected deer in New York City.</a> NYT: Deer on Staten Island are the first wild animals to have tested positive for the Covid variant. Some experts fear that deer could become a reservoir for the disease and infect humans. 
  <p class="updated_time"> 04:00 AM CT, Feb. 08 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas GOP’s new voting law sparks rejections, confusion ahead of primaries</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Democrats' social spending dreams stuck in winter purgatory</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
@@ -215,16 +217,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">One Menacing Call After Another: Threats Against Lawmakers Surge</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
- <p class="updated_time"> 07:45 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/senators-consider-sanctions-russian-ukraine-00007529">On Ukraine, senators put cyberattacks top-of-list for sanctions</a> Politico: Efforts to push back against Russian cyber aggression toward Ukraine are becoming more serious, with senators looking at sanctioning Russia  and providing more cybersecurity assistance. 
  <p class="updated_time"> 06:59 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/nyregion/eric-adams-albany.html">Mayor Adams Clashes With Albany Democrats Over His Crime Plan</a> NYT: Eric Adams’s harshest exchange during a state budget hearing was with a fellow Democrat whose brother was killed by gunfire at the age of 19. 
  <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/video-game-political-arena.html">A New Video Game About Politics in the Age of Donald Trump</a> NYT: A new video game will let players pretend to be the politicians they most admire — or despise. 
- <p class="updated_time"> 05:49 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/ambassador-bridge-blockade-freedom-convoy-00007456">Ambassador Bridge blockade has both sides on edge</a> Politico: “You have 100 people who are holding hostage part of our national economy,” the mayor of Windsor said Wednesday. 
  <p class="updated_time"> 05:46 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079700404/1-in-5-patriot-front-applicants-say-they-have-ties-to-the-military">1 in 5 Patriot Front applicants say they have ties to the military</a> NPR: The group, which is a rebrand of a group that attended the "Unite the Right" rally in Charlottesville, Va., has created an image of Americana bolstered by racism, antisemitism and neo-fascism. 
  <p class="updated_time"> 05:32 PM CT, Feb. 09 </p> 
@@ -233,8 +231,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 05:25 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079717258/senators-announce-a-deal-to-reauthorize-the-violence-against-women-act">Senators announce a deal to reauthorize the Violence Against Women Act</a> NPR: The bipartisan announcement comes after months of negotiations in the chamber. The legislation offers resources for victims of domestic abuse and sexual violence. 
- <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/trump-emails-voting-machines-election-00007449">Read the emails showing Trump allies’ connections to voting machine seizure push</a> Politico: The conversations shed light on the visibility that Washington lawyer Katherine Friess and Texas entrepreneur Russell Ramsland had into the election subversion push. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
  <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
@@ -257,16 +253,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
- <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
- <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
  <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
@@ -277,8 +269,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
- <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
  <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
@@ -293,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079500844/mcconnell-rnc">Mitch McConnell criticizes the RNC for censuring 2 Republicans on Jan. 6 panel</a> NPR: In a rare break with his party, the Senate minority leader said that it's not the RNC's job to single out party members with different views, referring to Reps. Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 08:23 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censuring Reps. Cheney and Kinzinger Sets Off Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
- <p class="updated_time"> 07:53 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/u-s-trucker-convoy-to-washington-gathers-steam-00007135">U.S. trucker convoy to Washington gathers steam</a> Politico: The organizers of the “People’s Convoy” announced that truckers will be gathering in Indio, Calif., on March 4 — and rolling on from there. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/09/read-the-houses-union-rights-resolution-00007148">Read the House's union rights resolution</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Feb. 09 </p> 
@@ -323,6 +311,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
+ <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denied any intent to claim that the former Alaska governor caused a 2011 shooting. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
@@ -331,6 +321,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 10:31 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/citizens-politicians-combat-climate-change-00004590">The world is on fire and our leaders are failing, poll finds</a> Politico: Poll respondents voice frustration at being left to take on climate action on their own after governments and companies fail to act. 
+ <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
@@ -347,6 +339,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/07/politics/rnc-censure-january-6-republican-divide/index.html">Republicans are frustrated by RNC move reopening party's January 6 divide ahead of midterms </a> CNN: Republicans felt they were finally united in their quest to take back the House and Senate -- with the political winds at their back and President Joe Biden reeling from an array of domestic and international problems. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
@@ -397,8 +391,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
- <p class="updated_time"> 04:30 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/supreme-court-chuck-schumer-00004937">‘The fight came to us’: Schumer the judicial warrior heads into SCOTUS battle</a> Politico: Republicans point to the majority leader as the catalyst for a snarled judicial confirmation process. Democrats see a leader who wanted to prevent the courts from leaning too far right. 
 
 
 </details>
