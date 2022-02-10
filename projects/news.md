@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar  Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
+ <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 12:50 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60219775?at_medium=RSS&at_campaign=KARANGA">In pictures: Crossing the world's deepest lake</a> BBC: Oleg Boldyrev's photographs capture the frozen landscape of Lake Baikal, in Siberia. 
- <p class="updated_time"> 12:32 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 12:24 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60328734?at_medium=RSS&at_campaign=KARANGA">Team USA's Chen wins men's figure skating gold</a> BBC: American Nathan Chen wins the men's figure skating gold but defending champion Yuzuru Hanyu's jump record attempt fails at Beijing 2022. 
  <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
@@ -114,8 +116,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079506355/new-zealand-protest-vaccine-mask-mandates">New Zealand convoy clogs streets near Parliament to protest vaccine mandates</a> NPR: Among the protesters' grievances is the requirement in New Zealand that certain workers get vaccinated against the coronavirus, including teachers, doctors, nurses, police and military personnel. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
- <p class="updated_time"> 07:43 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079483004/bing-dwen-dwen-winter-olympics-mascot">A fluffy panda mascot is all the rage at the Winter Olympics </a> NPR: The stuffed animal version of mascot Bing Dwen Dwen has become so sought after that people are camping overnight to buy it in Beijing. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
  <p class="updated_time"> 07:16 AM CT, Feb. 09 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar  Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 10:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Stock Trading Ban for Lawmakers Gains Momentum on Capitol Hill</a> NYT: A bipartisan push is growing to bar members of Congress from trading individual stocks, an effort pushed by vulnerable lawmakers eager to take on perceived corruption in Washington. 
  <p class="updated_time"> 08:50 PM CT, Feb. 09 </p> 
@@ -303,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1076529761/right-wing-conspiracies-have-a-new-target-a-tool-that-fights-actual-voter-fraud">Right-wing conspiracies have a new target: a tool that fights actual voter fraud</a> NPR: The bipartisan program — called ERIC — allows states to improve voting access and election security at the same time. But it's currently under attack from the far right. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
- <p class="updated_time"> 08:44 PM CT, Feb. 08 </p> 
- <a href="https://www.npr.org/2022/02/08/1079419227/2-capitol-riot-suspects-were-arrested-from-online-sleuths-info-documents-show">2 Capitol riot suspects were arrested from online sleuths' info, documents show</a> NPR: The FBI has cited information compiled by online sleuths in many of the more than 730 riot-related cases filed in federal court so far. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
