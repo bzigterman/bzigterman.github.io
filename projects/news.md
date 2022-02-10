@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:41 AM CT, Feb. 10 </p> 
+ <p class="updated_time"> 10:48 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions 
@@ -193,12 +193,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">`Not encouraging': Breaking down the latest inflation numbers</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
+ <p class="updated_time"> 10:57 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
  <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
- <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 10:26 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said that a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
@@ -289,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
- <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/cdc-messaging-transmission-masking-00007312">CDC weighs updating messaging around transmission and masking</a> Politico: The debate at the CDC comes as governors across the country in states such as New York, New Jersey and Delaware, announce they are lifting mask mandates in schools. 
  <p class="updated_time"> 02:31 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
@@ -325,8 +327,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
- <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
