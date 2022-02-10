@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
+ <p class="updated_time"> 04:55 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
+ <p class="updated_time"> 04:53 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
  <p class="updated_time"> 04:37 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-uttar-pradesh.html">A Bellwether for Narendra Modi as India’s Largest State Goes to the Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
- <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 04:06 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 03:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Saget, 65, was found dead by authorities in his Florida hotel room last month. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60330325?at_medium=RSS&at_campaign=KARANGA">Bob Saget: Comedian died after accidental head injury, family says</a> BBC: Bob Saget, 65, was found dead by authorities in his Florida hotel room last month. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
  <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60318946?at_medium=RSS&at_campaign=KARANGA">‘Hackers helped me find my lost Bitcoin fortune’</a> BBC: It's estimated that 3.7 million Bitcoin have been lost - but hackers are helping owners get some of them back. 
  <p class="updated_time"> 08:07 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60326418?at_medium=RSS&at_campaign=KARANGA">'Don't Say Gay': Biden denounces 'hateful' new Florida bill</a> BBC: The legislation bans discussing sexual orientation and gender identity in primary school classrooms. 
- <p class="updated_time"> 07:39 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60327794?at_medium=RSS&at_campaign=KARANGA">Trudeau slams 'unacceptable' protests as police warn truckers</a> BBC: "It has to stop," the Canadian PM says of the two-week protests against coronavirus restrictions. 
  <p class="updated_time"> 06:37 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60301758?at_medium=RSS&at_campaign=KARANGA">Pa Sorie: The Sierra Leonean proud to have fought in World War Two</a> BBC: Samuel Sorie Sesay, who died last month in Sierra Leone, fought for the British army in World War Two. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
@@ -146,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60308612?at_medium=RSS&at_campaign=KARANGA">Canadian capital on edge as trucker protest rolls on</a> BBC: Some Ottawa residents are fed up with the disruption, but truckers vow they're in it for the long haul. 
- <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/canada-protesters-ottawa.html">Ottawa Protests Become Rallying Cry for Far-Right and Anti-Vaccine Groups</a> NYT: It may be only a few hundred demonstrators occupying Ottawa’s streets to protest government overreach, but their message has aroused passions around the world. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
  <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
@@ -255,6 +257,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
@@ -270,9 +276,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
- <p class="updated_time"> 12:05 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/un-postpones-space-diplomacy-talks-russia-00007241">U.N. postpones space diplomacy talks after Russia asks for more time</a> Politico: The Biden administration has high hopes for the discussions that were slated get underway in Geneva next week. 
+ <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
+ <p class="updated_time"> 01:24 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/problem-with-ottawas-protesters-00007272">The problem with Ottawa’s protesters</a> Politico: The convoy occupiers want a meeting with government leadership, but their conspiratorial mindset makes that a no-win for Justin Trudeau. 
  <p class="updated_time"> 11:35 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079555193/new-york-new-jersey-end-mask-mandate-ending">New York lifts indoor mask mandate, with California and N.J. mandates also set to end</a> NPR: New York will no longer require masks in most indoor public settings, but they will still be required in schools and health care facilities. Several other states have made similar moves this week. 
  <p class="updated_time"> 11:22 AM CT, Feb. 09 </p> 
@@ -287,12 +293,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/cheney-kinzinger-censure-republican-party.html">Censuring Reps. Cheney and Kinzinger Sets Off Republican Food Fight</a> NYT: Punishing Representatives Liz Cheney and Adam Kinzinger was a blunder, many in the party say. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/09/read-the-houses-union-rights-resolution-00007148">Read the House's union rights resolution</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:32 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079475595/mcconnell-breaks-with-rnc-over-its-censure-of-2-house-republicans">McConnell breaks with RNC over its censure of 2 House Republicans</a> NPR: Senate Minority Leader Mitch McConnell is criticizing the Republican National Committee for censuring two House Republicans who serve on the panel investigating the U.S. Capitol insurrection. 
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 09:17 PM CT, Feb. 08 </p> 
@@ -311,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/house-short-term-spending-bill.html">House Passes Short-Term Spending Bill, Punting Again on a Deal</a> NYT: Once the bill clears the Senate, senior lawmakers will have until March 11 to reach an agreement on how to fund the government for the remainder of the fiscal year. 
  <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
- <p class="updated_time"> 02:07 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/former-new-york-times-editor-takes-stand-trial-sarah-palin-lawsuit-00006787">Former New York Times editor takes stand at trial on Sarah Palin libel suit</a> Politico: Former editorial page editor James Bennet denied any intent to claim that the former Alaska governor caused a 2011 shooting. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
@@ -327,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
- <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218">How Manchin used politics to protect his family coal company</a> Politico: Selling scrap coal has earned Sen. Joe Manchin millions of dollars over three decades, and he has used his political positions to protect the fuel from laws and regulations that threaten his family's business. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
@@ -351,8 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
  <p class="updated_time"> 04:31 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
- <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/eric-lander-white-house-investigation-00006077">Biden’s top science adviser bullied and demeaned subordinates, according to White House investigation</a> Politico: Fourteen current and former Office of Science and Technology Policy staffers who worked under Eric Lander described a toxic work environment. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/texas-hispanic-women-leaders-00006072">The GOP is gaining among Texas Hispanics. Women are leading the charge.</a> Politico: In places where Donald Trump made some of his biggest inroads with Hispanic voters, women are playing a key role in the Republican Party’s growth. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
