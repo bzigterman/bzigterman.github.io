@@ -48,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60318298?at_medium=RSS&at_campaign=KARANGA">How suicide became the hidden toll of the war in Ukraine</a> BBC: A deep stigma around suicide in Ukraine is standing in the way of saving soldiers' lives. 
+ <p class="updated_time"> 06:27 PM CT, Feb. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60284918?at_medium=RSS&at_campaign=KARANGA">UP elections 2022: Why western Uttar Pradesh is key for BJP</a> BBC: The first phase of polling is crucial as millions begin voting in key India state election. 
  <p class="updated_time"> 06:02 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60326279?at_medium=RSS&at_campaign=KARANGA">Benin bronzes: ‘Africa wants to speak for itself’</a> BBC: The upcoming British Punitive Expedition anniversary has reignited calls for the return of stolen treasures. 
  <p class="updated_time"> 06:01 PM CT, Feb. 09 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 10:22 AM CT, Feb. 09 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-spacex-seeks-to-reconnect-tonga-to-internet-11644410232">Elon Musk's SpaceX Seeks to Reconnect Tonga to Internet</a> WSJ: The space-exploration company has a team in Fiji establishing a station that would connect the Pacific nation via its satellite-internet service Starlink, a senior Fijian lawmaker says. 
- <p class="updated_time"> 09:39 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60293708?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: How might Canada's trucker protest end?</a> BBC: There is no easy way to end the blockade in Canada's capital by truckers opposed to vaccine mandates. 
  <p class="updated_time"> 09:09 AM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079514137/crocodile-freed-tire-indonesia">A motorcycle tire stuck around a crocodile's neck for 6 years is finally removed</a> NPR: The beast was seen on Palu's river with the tire around its neck becoming increasingly tighter, running the risk of choking her. 
  <p class="updated_time"> 09:04 AM CT, Feb. 09 </p> 
@@ -142,10 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-allies-fight-information-war-with-russia-to-deter-ukraine-invasion-11644402601">U.S. Fights Information War With Russia to Deter Ukraine Invasion</a> WSJ: Russian troops are poised near Ukraine’s borders and U.S. officials warn that an invasion could come any day. But an information war between Moscow and the West has been under way for months. 
  <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
- <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60211403?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo: What India's restless Gen Z really wants</a> BBC: Best-selling author and YouTuber Ankur Warikoo writes on how differently young Indians define success. 
- <p class="updated_time"> 06:16 PM CT, Feb. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60301755?at_medium=RSS&at_campaign=KARANGA">Why Uganda is investing in oil despite pressures to go green</a> BBC: As people eye the benefits there are questions over the environmental cost and the timing. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60308612?at_medium=RSS&at_campaign=KARANGA">Canadian capital on edge as trucker protest rolls on</a> BBC: Some Ottawa residents are fed up with the disruption, but truckers vow they're in it for the long haul. 
  <p class="updated_time"> 05:49 PM CT, Feb. 08 </p> 
@@ -218,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:32 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:28 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Supreme Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
+ <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 05:25 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079717258/senators-announce-a-deal-to-reauthorize-the-violence-against-women-act">Senators announce a deal to reauthorize the Violence Against Women Act</a> NPR: The bipartisan announcement comes after months of negotiations in the chamber. The legislation offers resources for victims of domestic abuse and sexual violence. 
  <p class="updated_time"> 05:16 PM CT, Feb. 09 </p> 
@@ -305,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 06:39 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/republicans-censure-mcconnell.html">McConnell Denounces R.N.C. Censure of Jan. 6 Panel Members</a> NYT: Senator Mitch McConnell joined a chorus of Republicans distancing themselves from the committee’s action, describing the Capitol riot as “a violent insurrection.” 
  <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/canada-freedom-convoy-fundraiser-republicans-00007007">U.S. lawmakers threaten to probe GoFundMe after trucker fundraiser shutdown</a> Politico: Ted Cruz: “For Big Tech oligarchs to be willing to be the enforcement arm of government authoritarians is extraordinarily dangerous.” 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
