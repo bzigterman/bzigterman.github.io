@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:03 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
+ <p class="updated_time"> 05:56 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 05:30 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
  <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60330296?at_medium=RSS&at_campaign=KARANGA">Tesla sued over alleged racial discrimination</a> BBC: The electric carmaker says a lawsuit by a California regulator, claiming harassment, is "misguided". 
  <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
- <p class="updated_time"> 05:20 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
- <p class="updated_time"> 05:17 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 04:37 AM CT, Feb. 10 </p> 
@@ -182,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/travel/dog-sledding-maine.html">Dog-Sledding in Southern Maine's Winter Wonderland</a> NYT: Traversing a frozen lake with a team of dogs is an escapist dream in the winter wonderland of Southern Maine. Just remember the brake — and no Instagram selfies. 
  <p class="updated_time"> 03:23 AM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/north-korea-icbm-china.html">North Korea Builds ICBM Base Near China to Deter U.S.</a> NYT: The location is meant to protect its most powerful weapons from pre-emptive strikes, allowing the military to expand an already rapidly growing arsenal. 
- <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
- <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
 
 
 </details>
@@ -191,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:06 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-star.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
  <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079246031/the-economy-is-strong-but-voters-arent-feeling-it-thats-a-problem-for-biden">The economy is strong but voters aren't feeling it. That's a problem for Biden</a> NPR: President Biden's first year in the White House has been marked by record GDP growth and job gains, so why do voters keep giving him poor marks on the economy? 
  <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
@@ -207,8 +207,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079792184/natural-gas-is-playing-a-major-role-in-the-russia-ukraine-crisis">Natural gas is playing a major role in the Russia-Ukraine crisis</a> NPR: One of the strongest levers the U.S. has against Moscow is sanctions against key Russian commodities, like oil and gas. Earlier this week, President Biden warned that includes a natural gas pipeline. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079395385/with-evictions-on-the-rise-house-democrats-team-up-to-push-new-housing-protectio">With evictions on the rise, House Democrats team up to push new housing protections</a> NPR: Three Democrats are hoping to provide a legislative lifeline to tenants facing eviction. But the bill faces some steep hurdles in Congress. 
- <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-star.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
@@ -389,8 +387,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/03/kyrsten-sinema-staff-revolt-00005270">‘I am doing the devils work’ — Staff at Dem firm revolt over work for Sinema</a> Politico: Inside Authentic, employees have aired frustrations over the contract the firm has with the Arizona Democrat. Leadership hasn’t budged on it. 
  <p class="updated_time"> 07:19 AM CT, Feb. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/03/is-past-prologue-for-schumer-on-judicial-noms-00005116">Is past prologue for Schumer on judicial noms?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:18 AM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/03/what-eric-adams-taught-joe-biden-about-the-politics-of-crime-00005106"> What Eric Adams taught Joe Biden about the politics of crime</a> Politico Playbook: And progressives grow concerned over a potential SCOTUS pick. 
 
 
 </details>
