@@ -211,12 +211,12 @@ world_news <- world_news %>%
 ggplot(data = world_news,
        aes(x = central_time,
            y = length)) +
-  #geom_histogram(bins = 7) +
-  geom_ribbon(aes(ymin = length - 20, ymax = length + 20),
-              fill = "darkblue") +
-  theme_void()
+  geom_smooth(fill = "blue4",
+              alpha = 1,
+              color = "blue4") +
+  theme_void() 
 
-ggsave("plots/news.png", 
+ggsave("plots/news.png", bg = "white",
        width = 8, height = 8*(628/1200), dpi = 320)
 
 # web text ----
