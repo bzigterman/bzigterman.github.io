@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:21 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 01:29 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't phasing her, Kelly Curtis said. 
@@ -199,8 +199,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Congress at an 'impasse' over how to deter Russian invasion of Ukraine</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">Will Trump's Election Lies Become a Litmus Test for Republicans?</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, former Alaska governor and GOP vice presidential nominee says she’s in a David vs. Goliath battle with storied newspaper. 
+ <p class="updated_time"> 01:26 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/congress-forced-arbitration.html">Congress Passes Bill to Bar Forced Arbitration in Sex Abuse Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
  <p class="updated_time"> 01:04 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 12:57 PM CT, Feb. 10 </p> 
@@ -281,10 +285,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
- <p class="updated_time"> 10:34 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html">Stock Trading Ban for Lawmakers Gains Momentum on Capitol Hill</a> NYT: A bipartisan push is growing to bar members of Congress from trading individual stocks, an effort pushed by vulnerable lawmakers eager to take on perceived corruption in Washington. 
- <p class="updated_time"> 08:50 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/biden-administration-masks-covid.html">Biden Administration Remains Cautious About Easing Masking </a> NYT: The White House is starting to plan a pandemic exit strategy, but will not move as fast as some governors are on lifting mask mandates and other restrictions. 
  <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
