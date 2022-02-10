@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 04:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 04:27 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
@@ -193,8 +193,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/cuomo-complaint-disbar-new-york-lawyers-00007869">Cuomo to file complaint against James with entity that can disbar New York lawyers</a> Politico: “We have rules of professional conduct that we have to follow in the state of New York,” Cuomo attorney Rita Glavin said in a press briefing Thursday. 
+ <p class="updated_time"> 04:55 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/auto-industry-canada-protests.html">Canadian Trucker Protests Snarl an Already Hobbled Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
+ <p class="updated_time"> 04:53 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
@@ -219,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/josh-hawley-pentagon-ukraine-russia-00007863">'He's making it worse': Frustrations with Hawley's Pentagon nominee blockade boil over</a> Politico: The Missouri Republican on Thursday blocked the quick confirmation of a Russia expert as Moscow sends troops to Ukraine's border. 
- <p class="updated_time"> 02:17 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/article/mask-mandates-us.html">Tracking Mask Mandates Across the U.S.</a> NYT: Several governors have moved to ease mask requirements since Jan. 1. Here’s how policies are changing. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
@@ -251,8 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079843645/congress-approves-bill-to-end-forced-arbitration-in-sexual-assault-cases">Congress approves bill to end forced arbitration in sexual assault cases</a> NPR: The bipartisan bill bans employers from inserting provisions in contracts that require individuals who allege claims of sexual assault or harassment to go through a secretive process. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079832165/congressional-panel-will-investigate-trumps-removal-of-white-house-documents">Congressional panel will investigate Trump's removal of White House documents</a> NPR: Fifteen boxes of presidential records were removed by the National Archives from Trump's Mar-a-Lago residence amid reports he destroyed other documents while in office. Trump has denied those reports. 
- <p class="updated_time"> 10:57 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 10:53 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
@@ -315,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
  <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
- <p class="updated_time"> 04:32 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/florida-man-gaetz-probe-guilty-plea-00007436">Florida man connected to Gaetz probe formally enters guilty plea</a> Politico: Joe Ellicott, known as “Big Joe,” pleaded guilty in federal court to conspiracy to commit fraud and drug charges. 
  <p class="updated_time"> 04:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/peter-navarro-jan6-inquiry.html">Jan. 6 Inquiry Subpoenas Navarro, Who Worked to Overturn Election</a> NYT: Peter Navarro, a White House adviser to former President Donald J. Trump, has written and spoken about his work on a plan to get Congress to reject the results of the 2020 election. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
