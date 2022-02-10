@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
+ <p class="updated_time"> 09:26 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Tests Positive for Coronavirus a Second Time</a> NYT: The heir to the British throne, 73, first tested positive in March 2020. 
+ <p class="updated_time"> 09:23 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079829894/doping-scandal-olympics-russian-skater">Olympic figure skaters' medals are in limbo over a (new) Russian doping scandal</a> NPR: Reports have surfaced that Kamila Valieva, 15, tested positive for a heart drug called trimetazidine, which can boost athletes' endurance and blood efficiency. 
+ <p class="updated_time"> 09:17 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">A Bellwether for Narendra Modi as India’s Largest State Goes to the Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
  <p class="updated_time"> 09:10 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
- <p class="updated_time"> 09:05 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">A Bellwether for Narendra Modi as India’s Largest State Goes to the Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
  <p class="updated_time"> 08:55 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
@@ -32,16 +40,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60317807?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Paris protest banned by police ahead of arrival</a> BBC: Paris police are taking no chances ahead of a Canada-inspired blockade to protest at Covid measures. 
  <p class="updated_time"> 07:03 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60330421?at_medium=RSS&at_campaign=KARANGA">Snoop Dogg acquires Death Row Records</a> BBC: It means the rapper and entrepreneur has now bought the label that launched his career. 
- <p class="updated_time"> 06:49 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia begins military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
- <p class="updated_time"> 06:47 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Tests Positive for Coronavirus a Second Time</a> NYT: The heir to the British throne, 73, first tested positive in March 2020. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 06:03 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
- <p class="updated_time"> 05:30 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
  <p class="updated_time"> 05:26 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60330296?at_medium=RSS&at_campaign=KARANGA">Tesla sued over alleged racial discrimination</a> BBC: The electric carmaker says a lawsuit by a California regulator, claiming harassment, is "misguided". 
  <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
@@ -50,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60298489?at_medium=RSS&at_campaign=KARANGA">Skating ceremony delayed amid drug test reports</a> BBC: The International Olympic Committee says it cannot provide any updates on the team figure skating legal issue, with the medals still not handed out. 
  <p class="updated_time"> 04:06 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
+ <p class="updated_time"> 03:54 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/at-winter-olympics-china-seeks-to-dial-down-the-nationalism-a-notch-11644504896">China Seeks to Dial Down the Nationalism at Winter Games</a> WSJ: After Chinese internet users savaged Beverly Zhu, a U.S.-born skater competing for Team China, authorities scrubbed some of the comments in an apparent bid to rein in nationalist sentiment as Beijing plays host to the world. 
  <p class="updated_time"> 03:40 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is Russia's military build-up?</a> BBC: About 130,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/gunmen-attack-libyan-premiers-car-raising-fears-of-renewed-conflict-11644496742">Gunmen Fire at Libyan Premier's Car, Raising Fears of Renewed Conflict</a> WSJ: The attack raises tensions in the war-torn country as rival political factions wrangle for control over its interim government in a standoff that could unravel a United Nations-backed peace process. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
- <p class="updated_time"> 01:57 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/in-japan-central-bank-still-wants-interest-rates-near-zero-11644497877">Japan's Central Bank Still Wants Interest Rates Near Zero</a> WSJ: Bucking the global trend symbolized by the Federal Reserve’s plans for multiple rate increases this year, the Bank of Japan is taking action to keep interest rates ultra low. 
  <p class="updated_time"> 01:56 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Massive Russian Military Drills on Ukraine Border Ratchet Up Threat</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
  <p class="updated_time"> 01:31 AM CT, Feb. 10 </p> 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079586244/welsh-company-yolk-recruitment-staff-vacation">A Welsh company is taking its whole staff on vacation as a reward for pandemic work</a> NPR: Cardiff-based Yolk Recruitment Ltd. is taking its more than 50 employees on an all-expenses-paid vacation to the island of Tenerife in April. The four-day trip will reportedly cost more than $135,515. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
- <p class="updated_time"> 11:42 AM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079568745/jeff-bezos-yacht-de-hef-bridge-rotterdam-eggs">The Dutch vow to egg Jeff Bezos' yacht if a bridge is dismantled to let his boat pass</a> NPR: After early reports that Rotterdam would briefly take apart a historic bridge for the yacht's passage, thousands of people joined a Facebook event called "Throwing eggs at superyacht Jeff Bezos." 
  <p class="updated_time"> 11:31 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/canada/justin-trudeau-father-canada-protests.html">Some Critics Call for Trudeau to Channel His Father on Protests</a> NYT: The prime minister’s father, Pierre Elliott Trudeau, confronted a violent movement in Quebec in 1970, and his response is “burned” into the memories of many Canadians. 
  <p class="updated_time"> 11:27 AM CT, Feb. 09 </p> 
@@ -195,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/farmers-congress-exports-00007521">U.S. farmers push Washington to help boost exports even after a record year</a> Politico: U.S. agriculture exports were at an all-time high in 2021, but Congress and the Biden administration are heeding industry calls to intervene in supply chain bottlenecks. 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
+ <p class="updated_time"> 09:28 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said that a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Will Continue Testimony in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
  <p class="updated_time"> 09:01 AM CT, Feb. 10 </p> 
@@ -277,12 +279,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
- <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
- <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
  <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
