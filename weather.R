@@ -153,7 +153,7 @@ temp_mobile <- ggplot(champaign_forecast_tidy,
                           label = half_day_icon,
                           color = temp_class),) +
   geom_line(color = "grey93") +
-  geom_point(size = .5) +
+  #geom_point(size = .5) +
   geom_text(color = "black",
             family = "EmojiOne",
             nudge_y = .25,
