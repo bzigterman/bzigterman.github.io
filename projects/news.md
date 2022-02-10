@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 02:12 AM CT, Feb. 10 </p> 
@@ -22,6 +24,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
+ <p class="updated_time"> 01:06 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60329578?at_medium=RSS&at_campaign=KARANGA">Hong Kong's tough Covid laws threatened by virus surge</a> BBC: Hong Kong has recorded more than 1,000 Covid infections for the first time since the pandemic began 
  <p class="updated_time"> 12:50 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60219775?at_medium=RSS&at_campaign=KARANGA">In pictures: Crossing the world's deepest lake</a> BBC: Oleg Boldyrev's photographs capture the frozen landscape of Lake Baikal, in Siberia. 
  <p class="updated_time"> 12:24 AM CT, Feb. 10 </p> 
@@ -88,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/asia/covid-cases-asia-lunar-new-year.html">Covid Cases Spike in Asia After Lunar New Year Celebrations</a> NYT: A spike in cases across Asia has followed this month’s holiday. 
  <p class="updated_time"> 01:18 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/09/1047616658/take-a-look-at-sars-cov-2s-family-tree-its-full-of-surprises">Take a look at SARS-CoV-2's family tree. It's full of surprises</a> NPR: The family history of SARS-CoV-2 is not what virologists expected — and it sheds light on the coronavirus that launched a pandemic. Check out our illustration of the virus's family tree. 
- <p class="updated_time"> 01:10 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60315908?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Paris attacks defendant denies killing anyone</a> BBC: Salah Abdeslam claims he chose at the last moment not to blow himself up during the Paris attacks. 
  <p class="updated_time"> 12:57 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60326638?at_medium=RSS&at_campaign=KARANGA">Drunk truck driver leaves trail of destruction in Germany</a> BBC: German police have arrested a man after the lorry he was driving ploughed into more than 30 cars. 
  <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
@@ -182,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/07/world/europe/putin-macron-russia-france-ukraine.html">Putin Warns the West and Ukraine, but Keeps His Intentions a Mystery</a> NYT: President Vladimir Putin said diplomatic ideas raised in a meeting by French President Emmanuel Macron were worth pursuing, but did not rule out a Russian invasion of Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 07 </p> 
  <a href="https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html">New York Deer Infected With Omicron, Study Finds</a> NYT: White-tailed deer on Staten Island have become the first wild animals with documented Omicron infections. The coronavirus has now been found in deer in 15 states. 
- <p class="updated_time"> 06:17 PM CT, Feb. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60296254?at_medium=RSS&at_campaign=KARANGA">John Simpson in Afghanistan: Watching the destruction of a nation?</a> BBC: The BBC's John Simpson returns to Afghanistan and finds a country on the brink of famine. 
 
 
 </details>
@@ -191,6 +191,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Democrats' social spending dreams stuck in winter purgatory</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-star.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 01:24 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 10:34 PM CT, Feb. 09 </p> 
@@ -247,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:56 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/08/us/politics/new-york-mask-mandate.html">New York Drops Indoor Mask Mandate, Easing Covid Rules</a> NYT: After a scare in November, New Jersey’s governor and other Democratic leaders held back-channel talks over lifting mandates and helping voters impatient with restrictions reclaim a sense of normalcy. 
- <p class="updated_time"> 02:52 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/08/health/covid-mask-restrictions.html">With Mask Restrictions Set to Lift, a Haze of Uncertainty Lingers</a> NYT: Public health experts agree that school mask mandates should not last forever, but differ on whether the time has come to remove them. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/al-sharpton-new-york-city-crime-spike-00007385">Sharpton assails NYC’s crime spike: 'They’re locking up my toothpaste'</a> Politico: With recent, high-profile incidents of both nonviolent and violent crime in New York, Sharpton noted the “challenge” facing Adams between mitigating crime and supporting policing reforms. 
  <p class="updated_time"> 02:33 PM CT, Feb. 09 </p> 
@@ -305,12 +315,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/canada-freedom-convoy-fundraiser-republicans-00007007">U.S. lawmakers threaten to probe GoFundMe after trucker fundraiser shutdown</a> Politico: Ted Cruz: “For Big Tech oligarchs to be willing to be the enforcement arm of government authoritarians is extraordinarily dangerous.” 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/spy-world-biden-leaking-russia-intel-00006956">Spy world wary as Biden team keeps leaking Russia intel</a> Politico: U.S. national security figures get that information war is the new battleground. But "how many freaking times do they need to warn that anything may be imminent?” one asked. 
- <p class="updated_time"> 06:05 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/postal-service-overhaul-house.html">House Passes Bill to Shore Up Postal Service, Working to Avert Insolvency</a> NYT: Supporters say the legislation, which has bipartisan support, would address the agency’s financial woes while requiring it maintain a delivery standard of at least six days a week. 
  <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
- <p class="updated_time"> 05:25 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/us/politics/doug-emhoff-dc-bomb-threat.html">Doug Emhoff Evacuated After Bomb Threat During School Visit</a> NYT: Doug Emhoff, the husband of Vice President Kamala Harris, was evacuated while visiting a high school in Washington for an event to honor Black History Month. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
  <p class="updated_time"> 05:01 PM CT, Feb. 08 </p> 
