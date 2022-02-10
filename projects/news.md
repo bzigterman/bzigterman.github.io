@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:06 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 11:58 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:39 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
- <p class="updated_time"> 11:39 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 11:17 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60339141?at_medium=RSS&at_campaign=KARANGA">France migrants: Coastguard rescues 36 from North Sea</a> BBC: The people saved near the port of Dunkirk are believed to have been attempting to get to the UK. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
  <p class="updated_time"> 11:08 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
- <p class="updated_time"> 11:04 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
  <p class="updated_time"> 10:42 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60327044?at_medium=RSS&at_campaign=KARANGA">Trump says he is in touch with North Korea's leader Kim - book</a> BBC: Kim Jong-un is the only foreign leader Donald Trump has said he remains in touch with, a book says. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
@@ -197,10 +197,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
+ <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/senate-bill-metoo-mandatory-arbitration-00007803">Senate clears #MeToo bill banning mandatory arbitration</a> Politico: “If you can ever say that legislation is long overdue, this is it,” Senate Majority Leader Chuck Schumer said. 
+ <p class="updated_time"> 12:20 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/desantis-redistricting-florida-supreme-court-00007799">Florida Supreme Court rejects DeSantis' redistricting push</a> Politico: State legislators had halted all work on a new congressional map as they waited for the court to act. 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
+ <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. Senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
  <p class="updated_time"> 11:43 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
  <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
@@ -208,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:33 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
  <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">`Not encouraging': Breaking down the latest inflation numbers</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
+ <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">Inflation keeps getting worse: A peek inside the mounting trouble for the Fed and Biden</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
  <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079843645/congress-approves-bill-to-end-forced-arbitration-in-sexual-assault-cases">Congress approves bill to end forced arbitration in sexual assault cases</a> NPR: The bipartisan bill bans employers from inserting provisions in contracts that require individuals who allege claims of sexual assault or harassment to go through a secretive process. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
@@ -309,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
- <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/carville-promotes-new-super-pac-for-conor-lamb-00007218">Carville promotes new super PAC for Conor Lamb</a> Politico: The Pennsylvania congressman has so far been outraised by Lt. Gov. John Fetterman, the progressive frontrunner in the Democratic Senate primary. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
