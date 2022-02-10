@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:27 AM CT, Feb. 10 </p> 
+ <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
+ <p class="updated_time"> 11:39 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
+ <p class="updated_time"> 11:39 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns Canada-style protests could start in California. 
@@ -22,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
  <p class="updated_time"> 10:42 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60327044?at_medium=RSS&at_campaign=KARANGA">Trump says he is in touch with North Korea's leader Kim - book</a> BBC: Kim Jong-un is the only foreign leader Donald Trump has said he remains in touch with, a book says. 
- <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 10:20 AM CT, Feb. 10 </p> 
@@ -197,6 +199,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
+ <p class="updated_time"> 11:43 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079866701/usps-reform-bill">Bill that would give the U.S. Postal Service a major overhaul moves to the Senate</a> NPR: The embattled USPS has been losing billions of dollars annually in recent years. The bill, which focuses on cutting health care costs, would result in $50 billion in savings over 10 years. 
  <p class="updated_time"> 11:33 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data show that prices climbed over the past year more rapidly than economists expected. On a monthly basis, prices rose 0.6 percent. 
  <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
@@ -287,12 +293,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079655006/control-of-congress-is-up-for-grabs-this-fall-georgias-senator-feels-the-pressur">Control of Congress is up for grabs this fall. Georgia's senator feels the pressure</a> NPR: Democrats like Georgia Sen. Raphael Warnock are under pressure. President Biden's approval numbers are low, his legislative agenda has stalled, and control of Congress is up for grabs this fall. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079654999/black-voters-in-alabama-say-supreme-court-decision-dilutes-their-voting-power">Black voters in Alabama say Supreme Court decision dilutes their voting power</a> NPR: African-American voters in Alabama say a Supreme Court decision dilutes their voting power. Republican leaders say race should not be the predominant factor for drawing congressional district lines. 
- <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079654985/to-avert-russian-invasion-of-ukraine-france-and-germany-try-to-revive-minsk-acco">To avert Russian invasion of Ukraine, France and Germany try to revive Minsk accords</a> NPR: France, Germany, Ukraine and Russia signed a peace accord several years ago that was never fully implemented. It may prove to be the off-ramp which will end the Ukraine crisis. 
  <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
- <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/trude-feldman-dead.html">Trude Feldman, White House Reporter Who Got Access, Dies at 97</a> NYT: She was known to lob softballs in interviews, but she was tireless in getting face time with officials, including every president from Lyndon Johnson to George W. Bush. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:51 PM CT, Feb. 09 </p> 
