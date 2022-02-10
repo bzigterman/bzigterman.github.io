@@ -8,26 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:48 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
- <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/france-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions 
- <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
+ <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60338090?at_medium=RSS&at_campaign=KARANGA">Covid: Trucker protests may hit Super Bowl, US security agency says</a> BBC: US Department of Homeland Security warns of Canada-style protests from California to Washington DC. 
+ <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
+ <p class="updated_time"> 11:10 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 11:10 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
+ <p class="updated_time"> 11:08 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
+ <p class="updated_time"> 11:04 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, had met recently with Queen Elizabeth II. The infection is his second; he first tested positive in March 2020. 
+ <p class="updated_time"> 10:42 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60327044?at_medium=RSS&at_campaign=KARANGA">Trump says he is in touch with North Korea's leader Kim - book</a> BBC: Kim Jong-un is the only foreign leader Donald Trump has said he remains in touch with, a book says. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 10:20 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 10:10 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia stages military drills with Belarus</a> BBC: Ukraine calls the exercises 'psychological pressure' as frenzied diplomacy continues. 
- <p class="updated_time"> 10:05 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
- <p class="updated_time"> 09:58 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
- <p class="updated_time"> 09:40 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
- <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60331882?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada trucker protests force car plant shutdowns</a> BBC: Toyota, Ford and Chrysler-owner Stellantis have had to curb production because of border closures. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
  <p class="updated_time"> 09:23 AM CT, Feb. 10 </p> 
@@ -195,6 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">`Not encouraging': Breaking down the latest inflation numbers</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
+ <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079843645/congress-approves-bill-to-end-forced-arbitration-in-sexual-assault-cases">Congress approves bill to end forced arbitration in sexual assault cases</a> NPR: The bipartisan bill bans employers from inserting provisions in contracts that require individuals who allege claims of sexual assault or harassment to go through a secretive process. 
+ <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079832165/congressional-panel-will-investigate-trumps-removal-of-white-house-documents">Congressional panel will investigate Trump's removal of White House documents</a> NPR: Fifteen boxes of presidential records were removed by the National Archives from Trump's Mar-a-Lago residence amid reports he destroyed other documents while in office. Trump has denied those reports. 
  <p class="updated_time"> 10:57 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 10:53 AM CT, Feb. 10 </p> 
@@ -283,8 +289,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079654999/black-voters-in-alabama-say-supreme-court-decision-dilutes-their-voting-power">Black voters in Alabama say Supreme Court decision dilutes their voting power</a> NPR: African-American voters in Alabama say a Supreme Court decision dilutes their voting power. Republican leaders say race should not be the predominant factor for drawing congressional district lines. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079654985/to-avert-russian-invasion-of-ukraine-france-and-germany-try-to-revive-minsk-acco">To avert Russian invasion of Ukraine, France and Germany try to revive Minsk accords</a> NPR: France, Germany, Ukraine and Russia signed a peace accord several years ago that was never fully implemented. It may prove to be the off-ramp which will end the Ukraine crisis. 
- <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079654971/democrats-roll-back-covid-restrictions-in-their-states-as-omicron-attitudes-shif">Democrats roll back COVID restrictions in their states as omicron attitudes shift</a> NPR: Several Democratic-led states are rolling back coronavirus restrictions in the face of public wariness as the omicron surge eases. Federal health officials advise those restrictions are still needed. 
  <p class="updated_time"> 03:22 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/white-house-weighing-obama-adviser-for-treasury-00007386">White House weighing former Obama adviser for senior Treasury job</a> Politico: Jay Shambaugh, a member of Obama's Council of Economic Advisers, is under consideration to be under secretary for international affairs. 
  <p class="updated_time"> 03:15 PM CT, Feb. 09 </p> 
@@ -301,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/us/politics/navy-fighter-jet-china.html">What Happens When a Stealth Jet Ends Up on the Ocean Floor?</a> NYT: Here’s how the Navy might recover a $94 million F-35 Joint Strike Fighter that crashed in China’s backyard. 
  <p class="updated_time"> 02:13 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/new-york-ends-mask-mandate-businesses-not-schools-00007282">New York ends mask mandate for businesses, but not schools — yet</a> Politico: The governor, who announced the policy update at a Manhattan briefing, said the school mandate will be revisited in early March. 
- <p class="updated_time"> 01:50 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079364990/bipartisan-duo-say-voters-want-congress-to-stop-trading-stocks-leaders-open-to-a">Bipartisan duo say voters want Congress to stop trading stocks, leaders open to a vote</a> NPR: Virginia Democratic Rep. Abigail Spanberger and Texas Republican Chip Roy say their bill to ban lawmakers from picking stocks is picking up steam. Top leaders have now signed on, showing momentum. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress declares 'bipartisan breakthrough' on government funding</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 10:16 AM CT, Feb. 09 </p> 
