@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:33 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
+ <p class="updated_time"> 08:48 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Multiple Blockades at U.S.-Canada Border Disrupt Auto Industry</a> NYT: Some of the world’s biggest car companies are closing production lines because of closures at the U.S.-Canada border, a spillover from demonstrations in Ottawa against vaccine mandates. 
+ <p class="updated_time"> 08:40 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 08:32 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
- <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:32 AM CT, Feb. 10 </p> 
@@ -144,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
- <p class="updated_time"> 06:39 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/07/world/canada/ottawa-truck-driver-protest-timeline.html">A Timeline of the Canada Truck Driver's Protest</a> NYT: After protests over vaccine mandates engulfed Canada’s capital, the mayor of Ottawa declared a state of emergency on Sunday. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
  <p class="updated_time"> 03:16 AM CT, Feb. 09 </p> 
@@ -156,14 +154,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 04:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/asia/china-fightclub-censorship-tencent.html">‘Fight Club’ Ending Is Restored in China After Censorship Outcry</a> NYT: Last month, viewers noticed that the ending of the 1999 film had been replaced with a pro-government message. Now the ending is back, and the message is gone. 
- <p class="updated_time"> 04:24 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/australia/australia-apology-brittany-higgins.html">Australian Lawmakers Apologize for Sexual Harassment in Parliament</a> NYT: The move by the prime minister and others acknowledged calls for change after an account of rape inside the defense minister’s office. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
  <p class="updated_time"> 02:24 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/africa/madagascar-cyclone-batsirai.html">Cyclone Batsirai Leaves Devastation and Death in Madagascar</a> NYT: The island nation was still reeling from the effects of Tropical Storm Ana when the new storm struck, killing more than 20 people and displacing thousands. 
- <p class="updated_time"> 01:35 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/asia/hong-kong-covid-social-distancing.html">Hong Kong Toughens Covid Rules as Omicron Cases Surge</a> NYT: Among the new restrictions, public gatherings will be limited to two people as the city faces its largest virus outbreak so far. 
  <p class="updated_time"> 01:34 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html">Retired Pope Benedict Asks Forgiveness Over Handling of Abuse Cases</a> NYT: But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
@@ -189,6 +183,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 08:58 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
  <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
@@ -311,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/08/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-laundering.html">Justice Dept. Seizes $3.6 Billion in Bitcoin and Arrests Married Couple</a> NYT: The couple were accused of conspiring to launder Bitcoin that had been stolen in 2016 from Hong Kong-based Bitfinex, one of the world’s largest virtual currency exchanges. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 06:32 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/canada-freedom-convoy-fundraiser-republicans-00007007">U.S. lawmakers threaten to probe GoFundMe after trucker fundraiser shutdown</a> Politico: Ted Cruz: “For Big Tech oligarchs to be willing to be the enforcement arm of government authoritarians is extraordinarily dangerous.” 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/spy-world-biden-leaking-russia-intel-00006956">Spy world wary as Biden team keeps leaking Russia intel</a> Politico: U.S. national security figures get that information war is the new battleground. But "how many freaking times do they need to warn that anything may be imminent?” one asked. 
  <p class="updated_time"> 05:42 PM CT, Feb. 08 </p> 
