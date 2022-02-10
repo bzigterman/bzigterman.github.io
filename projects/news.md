@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
+ <p class="updated_time"> 12:50 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60219775?at_medium=RSS&at_campaign=KARANGA">In pictures: Crossing the world's deepest lake</a> BBC: Oleg Boldyrev's photographs capture the frozen landscape of Lake Baikal, in Siberia. 
  <p class="updated_time"> 12:32 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60327930?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia to begin military drills with Belarus</a> BBC: The US has called the 10-day drills an "escalatory" action amid tensions over Ukraine. 
+ <p class="updated_time"> 12:24 AM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60328734?at_medium=RSS&at_campaign=KARANGA">Team USA's Chen wins men's figure skating gold</a> BBC: American Nathan Chen wins the men's figure skating gold but defending champion Yuzuru Hanyu's jump record attempt fails at Beijing 2022. 
  <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079777978/u-s-s-nathan-chen-wins-gold-in-mens-figure-skating-at-the-beijing-olympics">U.S.'s Nathan Chen wins gold in men's figure skating at the Beijing Olympics</a> NPR: The 22-year-old Chen topped a competitive field Thursday in Beijing. Figure skaters from Japan came in second and third. 
  <p class="updated_time"> 11:21 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60328864?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: The woman who is the face of the fight to wear headscarf</a> BBC: Muskaan Khan took on heckling Hindu men in a video that went viral amid a row over headscarves. 
- <p class="updated_time"> 10:56 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60328163?at_medium=RSS&at_campaign=KARANGA">White House left behind as states drop Covid rules</a> BBC: Governors ignore the White House's plea that all Americans stay masked in indoor settings. 
  <p class="updated_time"> 10:31 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/02/09/world/canada-trucker-protest">Canada Protests: A New Blockade Threatens Supply Chain for Carmakers</a> NYT: The new protest is the third along the U.S.-Canada border, and has been stalling trade and traffic between the countries. 
  <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
@@ -42,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60323638?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Evidence mounts of Taliban reprisal arrests and killings</a> BBC: The BBC investigates the disappearance of women activists and the killings of former government officials. 
  <p class="updated_time"> 05:27 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
- <p class="updated_time"> 05:19 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
  <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
@@ -230,7 +232,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:27 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html">Where’s Liz Cheney? The Republican’s Exile From Wyoming Republicans</a> NYT: The congresswoman hasn’t attended Republican Party events in person in her state in years, amid a wave of local conservative hostility. “I’m not going to convince the crazies,” she said. 
  <p class="updated_time"> 04:12 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-advisor-peter-navarro">Jan. 6 panel subpoenas former Trump White House trade advisor Peter Navarro</a> NPR: The House Jan. 6 panel says former Trump White House trade advisor Peter Navarro documented, in his own book, efforts to delay certification of 2020 election results. 
+ <a href="https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-adviser-peter-navarro">Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro</a> NPR: The House Jan. 6 panel says former Trump White House trade adviser Peter Navarro documented, in his own book, efforts to delay certification of 2020 election results. 
  <p class="updated_time"> 03:34 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079655006/control-of-congress-is-up-for-grabs-this-fall-georgias-senator-feels-the-pressur">Control of Congress is up for grabs this fall. Georgia's senator feels the pressure</a> NPR: Democrats like Georgia Sen. Raphael Warnock are under pressure. President Biden's approval numbers are low, his legislative agenda has stalled, and control of Congress is up for grabs this fall. 
  <p class="updated_time"> 03:23 PM CT, Feb. 09 </p> 
