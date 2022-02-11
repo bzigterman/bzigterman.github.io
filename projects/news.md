@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:26 PM CT, Feb. 10 </p> 
+ <p class="updated_time"> 08:55 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
+ <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest">A Canadian judge has frozen access to donations for the trucker convoy protest</a> NPR: After losing access to GoFundMe campaigns, those involved with "Freedom Convoy 2022" then moved to Christian fundraising site GiveSendGo. 
  <p class="updated_time"> 08:19 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: White House officials say the Canadians must "resolve" the blockade, which is choking a US trade route. 
  <p class="updated_time"> 07:56 PM CT, Feb. 10 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
  <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
  <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
- <p class="updated_time"> 03:48 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079655020/ukrainians-in-and-near-crimea-have-seen-up-close-what-happens-when-russia-invade">Ukrainians in and near Crimea have seen up close what happens when Russia invades</a> NPR: Russia occupied Crimea in 2014 and is sending more troops there now. Ukrainians who live near Crimea are considering the consequences of their rejection of Russia and embrace of the West. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
