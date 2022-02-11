@@ -8,20 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:55 PM CT, Feb. 11 </p> 
+ <p class="updated_time"> 04:12 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Court Orders Demonstrators to Clear Critical Bridge at U.S.-Canada Border</a> NYT: Trudeau tells protesters ‘it is now time to go home,’ as Ontario declares a state of emergency. 
+ <p class="updated_time"> 04:07 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
+ <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
+ <p class="updated_time"> 04:01 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
+ <p class="updated_time"> 03:56 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
+ <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: The White House says Moscow now has the troops in place to invade Ukraine "at any time". 
- <p class="updated_time"> 03:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
+ <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
  <p class="updated_time"> 03:50 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
- <p class="updated_time"> 03:49 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
  <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204905/nicaragua-has-convicted-more-than-a-dozen-opponents-of-president-daniel-ortega">Nicaragua has convicted more than a dozen opponents of President Daniel Ortega</a> NPR: In trials that sometimes last just a few hours, Nicaragua has been convicting political opponents of President Daniel Ortega, sending a chilling message about free expression. 
- <p class="updated_time"> 03:32 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
@@ -30,10 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204840/russian-figure-skater-was-allowed-to-compete-in-the-olympics-despite-failed-drug">Russian figure skater was allowed to compete in the Olympics despite failed drug test</a> NPR: A top Russian figure skater was allowed to compete despite testing positive for a banned substance before the Games. Kamila Valieva, age 15, helped Russia win the team event earlier this week. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204824/americans-living-in-ukraine-question-president-bidens-warning-to-leave-immediate">Americans living in Ukraine question President Biden's warning to leave immediately</a> NPR: President Biden has called on Americans in Ukraine to leave at once. But Americans there are questioning the urgency. 
- <p class="updated_time"> 03:08 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
- <p class="updated_time"> 03:06 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
  <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
@@ -64,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
+ <p class="updated_time"> 10:59 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canada Judge Issues Order Allowing Police to Remove Bridge Protesters</a> WSJ: Business leaders have called for an urgent end to the blockade of the Ambassador Bridge, a trade conduit between Detroit and Ontario. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
  <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
@@ -102,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-60347062?at_medium=RSS&at_campaign=KARANGA">Kanye wants Billie Eilish to say sorry or he'll pull out of Coachella</a> BBC: The rapper wants her to apologise for crowd safety comments he thinks are aimed at Travis Scott. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
- <p class="updated_time"> 07:12 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canada Bridge Protesters Agree to Open One Lane From U.S.</a> WSJ: The decision came hours before a Canadian judge is expected to rule on whether police can forcibly remove demonstrators at the Ambassador Bridge, as business executives demanded an end to the blockade. 
  <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/china-tries-to-dial-back-its-high-abortion-rate-11644597797">China Tries to Dial Back Its High Abortion Rate</a> WSJ: China is stepping up efforts to reduce abortions in young women, signaling a shift in attitude toward a widely used procedure that has long been part of state-directed family planning. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
