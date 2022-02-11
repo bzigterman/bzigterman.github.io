@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:56 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 07:25 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60197858?at_medium=RSS&at_campaign=KARANGA">The engineers battling to stop global warming ruining roads</a> BBC: Climate change is putting roads under stress but research is finding ways to make them more durable. 
  <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know of the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
- <p class="updated_time"> 05:18 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:12 PM CT, Feb. 10 </p> 
@@ -195,12 +195,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">C.I.A. Is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
+ <p class="updated_time"> 07:54 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 06:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
- <p class="updated_time"> 06:57 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 06:47 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Trump’s Missing Call Logs Present a Challenge for Jan. 6 Investigators</a> NYT: Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
@@ -317,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
- <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/video-game-political-arena.html">A New Video Game About Politics in the Age of Donald Trump</a> NYT: A new video game will let players pretend to be the politicians they most admire — or despise. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
@@ -393,8 +393,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
  <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
- <p class="updated_time"> 08:04 PM CT, Feb. 03 </p> 
- <a href="https://www.politico.com/news/2022/02/03/gop-rebuke-cheney-kinzinger-00005547">GOP set to rebuke Cheney, Kinzinger</a> Politico: In statements earlier this week, Cheney and a Kinzinger spokesperson defended their records as conservatives and criticized the RNC for assailing them. 
 
 
 </details>
