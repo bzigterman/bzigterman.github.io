@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080053580/u-k-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">U.K. lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
  <p class="updated_time"> 04:49 AM CT, Feb. 11 </p> 
@@ -42,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December. It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
- <p class="updated_time"> 10:04 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
@@ -214,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
@@ -234,7 +234,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:17 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-masks.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Testifies in New York Times Libel Trial</a> NYT: The former governor of Alaska claims that The Times acted recklessly in writing and publishing an editorial in 2017 that incorrectly linked a mass shooting in Arizona to her political rhetoric. 
  <p class="updated_time"> 05:59 PM CT, Feb. 10 </p> 
@@ -256,7 +256,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
  <p class="updated_time"> 03:52 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">Will Trump's Election Lies Become a Litmus Test for Republicans?</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
  <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
