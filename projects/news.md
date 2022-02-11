@@ -8,18 +8,32 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
+ <p class="updated_time"> 10:04 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
+ <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
+ <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1080021245/shaun-white-fails-to-medal-in-beijing">Shaun White finishes fourth in men's halfpipe, wrapping up storied Olympic career</a> NPR: The 2022 Beijing Olympics is White's last competition as a professional snowboarder. He is the first, and only, snowboarder to win three Olympic gold medals. 
+ <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 09:44 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 09:41 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
+ <p class="updated_time"> 09:33 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60343167?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics 2022: An exclusive look into the Games as a spectator</a> BBC: The BBC's Stephen McDonell is one of few that have been able to watch the Games live from the stands. 
  <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
+ <p class="updated_time"> 09:26 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342801?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer admits child sex crimes</a> BBC: Jerry Harris tried to entice underage boys into sex and to send him sexually explicit images. 
  <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest">A Canadian judge has frozen access to donations for the trucker convoy protest</a> NPR: After losing access to GoFundMe campaigns, those involved with "Freedom Convoy 2022" then moved to Christian fundraising site GiveSendGo. 
  <p class="updated_time"> 08:19 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: White House officials say the Canadians must "resolve" the blockade, which is choking a US trade route. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: The White House says the Canadians must "resolve" the blockade, which is choking a US trade route. 
  <p class="updated_time"> 07:56 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
@@ -31,7 +45,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:37 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 06:25 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60321129?at_medium=RSS&at_campaign=KARANGA">Trads: The young Indians spreading hate online</a> BBC: Young right-wing Hindus in India are finding newer and more outrageous ways to target critics online. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60321129?at_medium=RSS&at_campaign=KARANGA">Trads vs Raytas: The young Indians spreading hate online</a> BBC: Young right-wing Hindus in India are finding newer and more outrageous ways to target critics online. 
  <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The deaths that came in the cold</a> BBC: The Patels seemed to have a stable life in India. Why did they die trying to illegally cross the US-Canada border? 
  <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
@@ -54,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
- <p class="updated_time"> 03:48 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947584/scientist-luc-montagnier-who-discovered-the-virus-that-causes-aids-is-dead-at-89">Scientist Luc Montagnier, who discovered the virus that causes AIDS, is dead at 89</a> NPR: Luc Montagnier, the scientist who discovered the virus that causes AIDS, has died at 89. His key contribution came at a time when AIDS was mysterious and uniformly deadly. 
  <p class="updated_time"> 03:26 PM CT, Feb. 10 </p> 
@@ -86,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
  <p class="updated_time"> 11:08 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
- <p class="updated_time"> 10:42 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60327044?at_medium=RSS&at_campaign=KARANGA">Trump says he is in touch with North Korea's leader Kim - book</a> BBC: Kim Jong-un is the only foreign leader Donald Trump has said he remains in touch with, a book says. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
@@ -100,20 +110,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 09:05 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-bets-on-nuclear-power-to-fight-climate-change-11644508634">Macron Bets on Nuclear Power to Fight Climate Change</a> WSJ: The French president announced a plan to build six new nuclear reactors, betting on a technology that produces electricity with almost zero greenhouse emissions but faces questions about costs. 
- <p class="updated_time"> 08:55 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079820023/prince-charles-covid">Prince Charles has tested positive for COVID a second time </a> NPR: Prince Charles is isolating and has canceled his appearances. He previously contracted the virus in March 2020. 
- <p class="updated_time"> 08:48 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60312231?at_medium=RSS&at_campaign=KARANGA">A missing game of Wordle helps end a 17-hour hostage ordeal</a> BBC: Police were alerted to a hostage situation when an 80-year-old woman failed to send her daily Wordle. 
  <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/french-discoverer-of-hiv-luc-montagnier-has-died-at-89-11644522238">French Discoverer of HIV, Luc Montagnier, Dies at 89</a> WSJ: French researcher and Nobel laureate Luc Montagnier, who led the team that identified HIV, the virus that causes AIDS, and who more recently spread misinformation about the coronavirus, has died. 
  <p class="updated_time"> 08:12 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Russia's Massive Military Drills on Ukraine Border Stir Invasion Fears</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
- <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60335189?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sharia police bulldoze four million bottles of beer in Kano</a> BBC: Islamic police roll bulldozers over bottles in the city of Kano, where alcohol is banned. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:09 AM CT, Feb. 10 </p> 
@@ -122,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 04:59 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-partygate-scandal-uk-politics-11644508593">Inside Boris Johnson's 'Partygate' Scandal: Wine in the Garden and Lockdown Jokes</a> WSJ: Anger over parties held at Downing Street during Covid restrictions has the U.K.’s leader fighting to stay in power. It could prove a rapid fall from grace for the man who upended British politics. 
- <p class="updated_time"> 04:58 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 04:06 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
@@ -154,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60323638?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Evidence mounts of Taliban reprisal arrests and killings</a> BBC: The BBC investigates the disappearance of women activists and the killings of former government officials. 
  <p class="updated_time"> 05:27 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
- <p class="updated_time"> 05:10 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079687555/kurt-zouma-cats-abuse-soccer">U.K. soccer player Kurt Zouma is under fire after a video showed him abusing cats</a> NPR: The West Ham United player has been fined for his actions and the Royal Society for the Prevention of Cruelty to Animals has launched an investigation into the matter. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
@@ -197,10 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">C.I.A. Is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
- <p class="updated_time"> 07:54 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 06:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
