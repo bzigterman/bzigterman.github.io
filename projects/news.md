@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:13 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
@@ -30,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
- <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
  <p class="updated_time"> 01:21 AM CT, Feb. 11 </p> 
@@ -108,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079888622/russia-military-exercise-belarus-ukraine">Russia holds a massive military exercise with Belarus, raising concerns in Ukraine</a> NPR: "The buildup of troops along the borders is psychological pressure from our neighbors," Ukrainian President Volodymyr Zelenskyy said. Belarus is a possible route for Russian troops to invade Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't fazing her, Kelly Curtis says. 
- <p class="updated_time"> 12:44 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60340504?at_medium=RSS&at_campaign=KARANGA">Luc Montagnier, co-discoverer of HIV, dies aged 89</a> BBC: The French virologist jointly won the Nobel Prize but later drew criticism for unscientific claims. 
  <p class="updated_time"> 12:42 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60338663?at_medium=RSS&at_campaign=KARANGA">Christian Eriksen: Denmark international on returning to Premier League with Brentford</a> BBC: Christian Eriksen says he is lucky to be alive and will do everything he can to return to his former level after joining Brentford. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
@@ -168,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
- <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
@@ -197,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:41 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
@@ -213,8 +211,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
- <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
