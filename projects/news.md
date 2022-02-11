@@ -8,26 +8,34 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 12:27 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
+ <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
+ <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
+ <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
+ <p class="updated_time"> 12:24 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Makes Masks Optional, Despite State Mandate</a> NYT: A spokesman for the state’s Department of Health called the decision at Poly Prep Country Day School a “violation.” 
+ <p class="updated_time"> 12:24 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
+ <p class="updated_time"> 12:21 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
+ <p class="updated_time"> 11:56 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
- <p class="updated_time"> 11:25 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
  <p class="updated_time"> 11:24 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
- <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa, including the most important US-Canada trade link. 
- <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 11:00 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
- <p class="updated_time"> 10:52 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
@@ -39,7 +47,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government declared koalas endangered in certain regions, citing the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% between 2018 and 2021. 
+ <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government cited the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% from 2018 to 2021. 
  <p class="updated_time"> 09:58 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
  <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
@@ -60,14 +68,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60337468?at_medium=RSS&at_campaign=KARANGA">Kakwenza Rukirabashaija: Ugandan author alleges torture by security services</a> BBC: Kakwenza Rukirabashaija alleges he was tortured at the hands of the security services. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
- <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
+ <p class="updated_time"> 07:12 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canada Bridge Protesters Agree to Open One Lane From U.S.</a> WSJ: The decision came hours before a Canadian judge is expected to rule on whether police can forcibly remove demonstrators at the Ambassador Bridge, as business executives demanded an end to the blockade. 
  <p class="updated_time"> 06:50 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Are Holding Westerners in Afghanistan</a> WSJ: The Islamist group that governs the country has held some of them for weeks, damaging relations with foreign capitals as Kabul seeks international aid. 
  <p class="updated_time"> 06:29 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
- <p class="updated_time"> 06:07 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canada Bridge Protesters Agree to Open One Lane From U.S.</a> WSJ: The decision came hours before a Canadian judge is expected to rule on whether police can forcibly remove demonstrators at the Ambassador Bridge, as business executives demanded an end to the blockade. 
  <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/china-tries-to-dial-back-its-high-abortion-rate-11644597797">China Tries to Dial Back Its High Abortion Rate</a> WSJ: China is stepping up efforts to reduce abortions in young women, signaling a shift in attitude toward a widely used procedure that has long been part of state-directed family planning. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
@@ -168,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
- <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:02 PM CT, Feb. 09 </p> 
@@ -178,12 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
- <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
- <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
- <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
 
 
 </details>
@@ -191,6 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
+ <p class="updated_time"> 12:16 PM CT, Feb. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
@@ -217,8 +219,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080049326/top-secret-documents-are-recovered-from-trumps-mar-a-lago-residence">'Top Secret' documents are recovered from Trump's Mar-a-Lago residence</a> NPR: The Washington Post reports some documents recovered from Donald Trump's residence were marked top secret. NPR's Leila Fadel asks ex-federal prosecutor Brandon Van Grack about any legal ramifications. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
- <p class="updated_time"> 03:41 AM CT, Feb. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
@@ -355,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
- <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
