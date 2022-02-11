@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:12 PM CT, Feb. 11 </p> 
+ <p class="updated_time"> 05:24 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Court Orders Demonstrators to Clear Key Bridge at U.S. Border</a> NYT: Trudeau tells protesters ‘it is now time to go home,’ as Ontario declares a state of emergency. 
+ <p class="updated_time"> 05:24 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are resorting to U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
  <p class="updated_time"> 05:04 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 04:59 PM CT, Feb. 11 </p> 
@@ -28,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: The White House says Moscow now has the troops in place to invade Ukraine "at any time". 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
- <p class="updated_time"> 03:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
  <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204905/nicaragua-has-convicted-more-than-a-dozen-opponents-of-president-daniel-ortega">Nicaragua has convicted more than a dozen opponents of President Daniel Ortega</a> NPR: In trials that sometimes last just a few hours, Nicaragua has been convicting political opponents of President Daniel Ortega, sending a chilling message about free expression. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
@@ -60,10 +60,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
  <p class="updated_time"> 12:39 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
+ <p class="updated_time"> 12:29 PM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
- <p class="updated_time"> 12:03 PM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 11:51 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
