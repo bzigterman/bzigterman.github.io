@@ -72,7 +72,7 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
   )
 
 champaign_forecast_longer <- champaign_forecast_tidy %>%
-  pivot_longer(cols = c(temp,#pressure,
+  pivot_longer(cols = c(temp,pressure,
                         humidity,
                         wind_speed,clouds_all,
                        # visibility,
@@ -87,7 +87,7 @@ champaign_forecast_longer <- champaign_forecast_tidy %>%
                         "snow_3h" = "Snow",
                         "humidity" = "Humidity",
                         "wind_speed" = "Wind",
-                        #"pressure" = "Pressure",
+                        "pressure" = "Pressure",
                         "clouds_all" = "Clouds")) 
 
 
@@ -106,13 +106,13 @@ ggplot(champaign_forecast_longer,
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a") +
   scale_y_continuous(position = "right") +
-  theme(axis.text.x = element_text(size = 8),
+  theme(#axis.text.x = element_text(size = 8),
         axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
         panel.background = element_blank(),
         legend.position = "none",
         panel.grid.major = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
+        #strip.text = element_text(size = 11),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
