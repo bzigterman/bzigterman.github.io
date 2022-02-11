@@ -75,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:25 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60321129?at_medium=RSS&at_campaign=KARANGA">Trads vs Raytas: The young Indians spreading hate online</a> BBC: Young right-wing Hindus in India are finding newer and more outrageous ways to target critics online. 
  <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The deaths that came in the cold</a> BBC: The Patels seemed to have a stable life in India. Why did they die trying to illegally cross the US-Canada border? 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60326621?at_medium=RSS&at_campaign=KARANGA">Her boyfriend killed her son but she went to jail</a> BBC: Rebecca Hogue's partner killed her son, but she is the one in jail for 'failure to protect' her child. 
  <p class="updated_time"> 06:11 PM CT, Feb. 10 </p> 
