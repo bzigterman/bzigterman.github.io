@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
  <p class="updated_time"> 03:57 AM CT, Feb. 11 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080034274/mikaela-shiffrin-places-ninth-beijing-2022-olympics">With a 9th place finish in Beijing, Mikaela Shiffrin shows signs of bouncing back</a> NPR: Shiffrin had previously failed to finish two qualifying runs in two separate events earlier this week. 
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
- <p class="updated_time"> 02:07 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
  <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
@@ -393,10 +393,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/04/the-instagram-account-airing-congress-dirty-laundry-00005633">The Instagram account airing Congress’ dirty laundry</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/04/what-keeps-a-supreme-court-sherpa-up-at-night-00005625"> What keeps a Supreme Court sherpa up at night</a> Politico Playbook: And Pramila Jayapal makes moves with an eye toward a leadership run. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/house-democrats-leadership-shuffle-00005498">Jayapal's early leadership maneuvers raise House Dem eyebrows</a> Politico: Most in the caucus view open jostling over an undefined future spot as counterproductive with the majority at stake. 
- <p class="updated_time"> 04:30 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/inside-congressional-staffer-instagram-rebellion-00005505">‘Ground up and spit out’: Inside the Hill staffer Instagram rebellion</a> Politico: The Capitol's often-overworked, underpaid and mistreated workforce is riveted to the unfiltered stories shared by "Dear White Staffers." 
 
 
 </details>
