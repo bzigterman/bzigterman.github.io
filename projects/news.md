@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
+ <p class="updated_time"> 11:01 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December.  It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
@@ -38,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342078?at_medium=RSS&at_campaign=KARANGA">Teens saved after falling through ice near firefighter rescue training</a> BBC: Two US teens fell through lake ice - luckily for them firefighters were training nearby for just such a rescue. 
  <p class="updated_time"> 08:19 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: The White House says the Canadians must "resolve" the blockade, which is choking a US trade route. 
- <p class="updated_time"> 07:56 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
  <p class="updated_time"> 07:02 PM CT, Feb. 10 </p> 
@@ -84,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
- <p class="updated_time"> 02:11 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 01:59 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079888622/russia-military-exercise-belarus-ukraine">Russia holds a massive military exercise with Belarus, raising concerns in Ukraine</a> NPR: "The buildup of troops along the borders is psychological pressure from our neighbors," Ukrainian President Volodymyr Zelenskyy said. Belarus is a possible route for Russian troops to invade Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
@@ -197,12 +197,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:56 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/canada-trucker-blockade-road-map-out-00007997">How does Canada end the truckers' mess?</a> Politico: Prime Minister Justin Trudeau is under pressure to end the blockades. Security experts have two very different ideas of how to get rid of the protesters. 
+ <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">C.I.A. Is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
  <p class="updated_time"> 06:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
@@ -285,8 +289,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
- <p class="updated_time"> 10:26 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html">Archives Found Possible Classified Material in Boxes Returned by Trump</a> NYT: The National Archives consulted with the Justice Department about the discovery after the former president sent back documents that he had improperly taken from the White House when he left office. 
  <p class="updated_time"> 10:03 AM CT, Feb. 10 </p> 
@@ -337,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
