@@ -18,11 +18,11 @@ Current:
 - 37°
 - moderate rain
 - 87% humidity
-- 16 mph wind
+- 17 mph wind
 - 06:51 a.m. sunrise
 - 05:23 p.m. sunset
 
-<p class="updated_time"> Latest data: 05:19 AM CT, February 11</p>
+<p class="updated_time"> Latest data: 05:36 AM CT, February 11</p>
 
 ## Severe Thunderstorm Outlook
 
