@@ -8,26 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: State of Emergency Declared in Ontario as Officials Plead for Protesters to Go Home</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
+ <p class="updated_time"> 12:51 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
+ <p class="updated_time"> 12:50 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Makes Masks Optional, Despite State Mandate</a> NYT: A spokesman for the state’s Department of Health called the decision at Poly Prep Country Day School a “violation.” 
+ <p class="updated_time"> 12:47 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Countries tell nationals to leave over Russia threat</a> BBC: A host of countries advise their nationals to leave after the US warns Russia might invade. 
  <p class="updated_time"> 12:46 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Say They Have Freed Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
- <p class="updated_time"> 12:44 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: State of Emergency Declared in Ontario as Officials Plead for Protesters to Go Home</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
  <p class="updated_time"> 12:42 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
  <p class="updated_time"> 12:41 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
  <p class="updated_time"> 12:39 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 12:34 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 12:32 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
  <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
  <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
- <p class="updated_time"> 12:24 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Makes Masks Optional, Despite State Mandate</a> NYT: A spokesman for the state’s Department of Health called the decision at Poly Prep Country Day School a “violation.” 
  <p class="updated_time"> 12:24 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
  <p class="updated_time"> 11:51 AM CT, Feb. 11 </p> 
@@ -339,6 +341,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
+ <p class="updated_time"> 12:54 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/couple-arrested-launder-billion-crypto-2016-bitfinex-hack-00006715">Couple charged with money laundering tied to 2016 $4.5B crypto hack</a> Politico: “Criminals always leave tracks,” FBI Deputy Director Paul M. Abbate said in a statement. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
@@ -355,6 +359,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
