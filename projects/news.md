@@ -8,22 +8,42 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
+ <p class="updated_time"> 11:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
+ <p class="updated_time"> 10:59 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
+ <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
+ <p class="updated_time"> 10:52 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
+ <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
+ <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
+ <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
+ <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
+ <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government declared koalas endangered in certain regions, citing the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% between 2018 and 2021. 
+ <p class="updated_time"> 10:27 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Ontario Premier Doug Ford called on protesters to 'go home' and end the 'illegal occupation'. 
  <p class="updated_time"> 09:57 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
- <p class="updated_time"> 09:51 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60351455?at_medium=RSS&at_campaign=KARANGA">3,000 NYC staff face lost jobs over vaccine rules</a> BBC: New York City announced its vaccine mandate last year, and the new mayor has said it stays. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 09:32 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
- <p class="updated_time"> 09:15 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Are Holding 2 Westerners Working for U.N., Agency Says</a> NYT: The two former journalists and their Afghan colleagues were detained in the Afghan capital in recent days. The Taliban have not confirmed or explained. 
- <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
@@ -58,16 +78,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/in-northern-ukraine-fears-of-a-russian-invasion-shatter-cross-border-ties-11644584400">In Northern Ukraine, Fears of a Russian Invasion Shatter Cross-Border Ties</a> WSJ: People who live in the regions bordering Russia are struggling to absorb the idea that a war with Russia could soon be coming. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
  <p class="updated_time"> 01:27 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/mystery-plane-tests-loophole-in-taiwans-defenses-11644582451">Mystery Plane Tests 'Loophole' in Taiwan's Defenses</a> WSJ: The buzzing of Dongyin, a remote island, is likely the first instance of a noncommercial Chinese aircraft passing through Taiwanese territorial airspace since at least the 1970s, military experts said. 
  <p class="updated_time"> 01:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 11:41 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60343316?at_medium=RSS&at_campaign=KARANGA">China halts Lithuania beef, dairy and beer imports amid Taiwan row</a> BBC: The move may bolster a European Union case against China, which alleges discriminatory trade practices. 
- <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1080036363/kamila-valieva-russian-figure-skater-doping-drug-test">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December. It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
@@ -85,7 +103,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
  <p class="updated_time"> 09:26 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342801?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer admits child sex crimes</a> BBC: Jerry Harris tried to entice underage boys into sex and to send him sexually explicit images. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342801?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer admits child sex abuse</a> BBC: Jerry Harris tried to entice underage boys into sex and to send him sexually explicit images. 
  <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
@@ -94,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342078?at_medium=RSS&at_campaign=KARANGA">Teens saved after falling through ice near firefighter rescue training</a> BBC: Two US teens fell through lake ice - luckily for them firefighters were training nearby for just such a rescue. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
- <p class="updated_time"> 07:02 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60342830?at_medium=RSS&at_campaign=KARANGA">Koalas: Australia lists marsupial as endangered species</a> BBC: The koala was not even classified as vulnerable until 2012, but it has seen a rapid decline. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
  <p class="updated_time"> 06:25 PM CT, Feb. 10 </p> 
@@ -128,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 01:59 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079888622/russia-military-exercise-belarus-ukraine">Russia holds a massive military exercise with Belarus, raising concerns in Ukraine</a> NPR: "The buildup of troops along the borders is psychological pressure from our neighbors," Ukrainian President Volodymyr Zelenskyy said. Belarus is a possible route for Russian troops to invade Ukraine. 
- <p class="updated_time"> 01:20 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079798400/kelly-curtis-first-black-skeleton-olympian">Meet the first Black skeleton athlete to compete for the U.S. at the Olympics</a> NPR: Skeleton is a heart-racing event where a single racer flies face first down a frozen track. The inherent pressure of being "the first" and "only" isn't fazing her, Kelly Curtis says. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
@@ -138,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
- <p class="updated_time"> 09:23 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079829894/doping-scandal-olympics-russian-skater">Olympic figure skaters' medals are in limbo over a (new) Russian doping scandal</a> NPR: Reports have surfaced that Kamila Valieva, 15, tested positive for a heart drug called trimetazidine, which can boost athletes' endurance and blood efficiency. 
  <p class="updated_time"> 09:17 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">In India, a Bellwether for Narendra Modi as Voters Head to Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
@@ -164,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60326279?at_medium=RSS&at_campaign=KARANGA">Benin bronzes: ‘Africa wants to speak for itself’</a> BBC: The upcoming British Punitive Expedition anniversary has reignited calls for the return of stolen treasures. 
  <p class="updated_time"> 06:01 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60323638?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Evidence mounts of Taliban reprisal arrests and killings</a> BBC: The BBC investigates the disappearance of women activists and the killings of former government officials. 
- <p class="updated_time"> 05:27 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60326640?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab row: Protests over classroom ban spread</a> BBC: Protests for and against a hijab ban in classrooms in the Indian state of Karnataka have intensified. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
@@ -176,10 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
- <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
- <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
 
 
 </details>
@@ -187,8 +193,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:51 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
  <p class="updated_time"> 08:35 AM CT, Feb. 11 </p> 
@@ -287,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
- <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079246031/the-economy-is-strong-but-voters-arent-feeling-it-thats-a-problem-for-biden">The economy is strong but voters aren't feeling it. That's a problem for Biden</a> NPR: President Biden's first year in the White House has been marked by record GDP growth and job gains, so why do voters keep giving him poor marks on the economy? 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
