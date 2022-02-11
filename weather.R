@@ -101,7 +101,7 @@ ggplot(champaign_forecast_longer,
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
              strip.position = "left") +
-  labs(caption = "OpenWeather") +
+  labs(caption = "Source: OpenWeather") +
   xlab(NULL) +
   ylab(NULL) +
   scale_x_datetime(expand = c(0,0),
