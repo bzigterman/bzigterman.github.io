@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
+ <p class="updated_time"> 09:51 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60351455?at_medium=RSS&at_campaign=KARANGA">3,000 NYC staff face lost jobs over vaccine rules</a> BBC: New York City announced its vaccine mandate last year, and the new mayor has said it stays. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 09:32 AM CT, Feb. 11 </p> 
@@ -18,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Are Holding 2 Westerners Working for U.N., Agency Says</a> NYT: The two former journalists and their Afghan colleagues were detained in the Afghan capital in recent days. The Taliban have not confirmed or explained. 
  <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
- <p class="updated_time"> 09:05 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
@@ -33,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:22 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on the other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 06:29 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
@@ -88,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest">A Canadian judge has frozen access to donations for the trucker convoy protest</a> NPR: After losing access to GoFundMe campaigns, those involved with "Freedom Convoy 2022" then moved to Christian fundraising site GiveSendGo. 
  <p class="updated_time"> 08:29 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342078?at_medium=RSS&at_campaign=KARANGA">Teens saved after falling through ice near firefighter rescue training</a> BBC: Two US teens fell through lake ice - luckily for them firefighters were training nearby for just such a rescue. 
- <p class="updated_time"> 08:19 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: The White House says the Canadians must "resolve" the blockade, which is choking a US trade route. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
  <p class="updated_time"> 07:02 PM CT, Feb. 10 </p> 
@@ -142,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">In India, a Bellwether for Narendra Modi as Voters Head to Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
- <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079820023/prince-charles-covid">Prince Charles has tested positive for COVID a second time </a> NPR: Prince Charles is isolating and has canceled his appearances. He previously contracted the virus in March 2020. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
  <p class="updated_time"> 07:09 AM CT, Feb. 10 </p> 
@@ -187,8 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:05 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 09:51 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
  <p class="updated_time"> 08:35 AM CT, Feb. 11 </p> 
@@ -265,14 +265,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/adams-faith-based-office-00007805">Adams says 'God' told him he'd be mayor</a> Politico: He always believed he would one day lead New York City during his time as a state senator and Brooklyn borough president, Adams recalled. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
- <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/josh-hawley-pentagon-ukraine-russia-00007863">'He's making it worse': Frustrations with Hawley's Pentagon nominee blockade boil over</a> Politico: The Missouri Republican on Thursday blocked the quick confirmation of a Russia expert as Moscow sends troops to Ukraine's border. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
- <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
@@ -353,6 +349,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
