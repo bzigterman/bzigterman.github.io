@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
+ <p class="updated_time"> 03:57 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 02:58 AM CT, Feb. 11 </p> 
@@ -84,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">Cressida Dick Resigns as London Police Commissioner</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
- <p class="updated_time"> 04:12 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342175?at_medium=RSS&at_campaign=KARANGA">Misfire at Oregon bear results in death of two US brothers</a> BBC: The man accidentally shoots his brother while loading a gun to aim at a bear on their property. 
  <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
@@ -168,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
- <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
+ <p class="updated_time"> 04:09 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080049326/top-secret-documents-are-recovered-from-trumps-mar-a-lago-residence">'Top secret' documents are recovered from Trump's Mar-a-Lago residence</a> NPR: The Washington Post reports some documents recovered from Donald Trump's residence were marked top secret. NPR's Leila Fadel asks ex-federal prosecutor Brandon Van Grack about any legal ramifications. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 03:41 AM CT, Feb. 11 </p> 
@@ -319,12 +321,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
  <p class="updated_time"> 04:07 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792184/natural-gas-is-playing-a-major-role-in-the-russia-ukraine-crisis">Natural gas is playing a major role in the Russia-Ukraine crisis</a> NPR: One of the strongest levers the U.S. has against Moscow is sanctions against key Russian commodities, like oil and gas. Earlier this week, President Biden warned that includes a natural gas pipeline. 
- <p class="updated_time"> 04:07 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079792121/morning-news-brief">News brief: Masking rollbacks, Nord Stream 2 pipeline, Peter Navarro subpoenaed</a> NPR: More Democratic-led states pull back their masking requirements. Natural gas plays a big role in the Russia-Ukraine crisis. Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
- <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
