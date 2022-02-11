@@ -81,7 +81,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">London Police Commissioner Announces Resignation</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">Cressida Dick Resigns as London Police Commissioner</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:12 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342175?at_medium=RSS&at_campaign=KARANGA">Misfire at Oregon bear results in death of two US brothers</a> BBC: The man accidentally shoots his brother while loading a gun to aim at a bear on their property. 
  <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
