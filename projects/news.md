@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:15 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Are Holding 2 Westerners Working for U.N., Agency Says</a> NYT: The two former journalists and their Afghan colleagues were detained in the Afghan capital in recent days. The Taliban have not confirmed or explained. 
+ <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 09:05 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 08:59 AM CT, Feb. 11 </p> 
@@ -34,12 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080053580/u-k-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">U.K. lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
- <p class="updated_time"> 04:49 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
- <p class="updated_time"> 03:57 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 03:53 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-warns-allies-that-ukraine-crisis-puts-post-world-war-ii-order-at-risk-11644576655">U.S. Warns Allies That Ukraine Crisis Puts Post-World War II Order at Risk</a> WSJ: Secretary of State Antony Blinken met with his Quad country counterparts in Australia. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 12:51 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
- <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
@@ -291,8 +289,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079832165/congressional-panel-will-investigate-trumps-removal-of-white-house-documents">Congressional panel will investigate Trump's removal of White House documents</a> NPR: Fifteen boxes of presidential records were removed by the National Archives from Trump's Mar-a-Lago residence amid reports he destroyed other documents while in office. Trump has denied those reports. 
  <p class="updated_time"> 10:53 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
- <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
@@ -311,6 +307,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
