@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
+ <p class="updated_time"> 07:22 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
@@ -140,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
  <p class="updated_time"> 04:59 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-partygate-scandal-uk-politics-11644508593">Inside Boris Johnson's 'Partygate' Scandal: Wine in the Garden and Lockdown Jokes</a> WSJ: Anger over parties held at Downing Street during Covid restrictions has the U.K.’s leader fighting to stay in power. It could prove a rapid fall from grace for the man who upended British politics. 
- <p class="updated_time"> 04:06 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079799886/tongas-virus-outbreak-growing-rapidly-with-omicron-confirmed">Tonga's COVID outbreak is growing rapidly with omicron cases confirmed </a> NPR: Health Minister Saia Piukala told reporters that 31 more people had tested positive for the COVID-19, nearly doubling Tonga's active cases for the second day in a row, local media reported. 
  <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/in-u-k-s-omicron-wave-many-people-are-dying-with-covid-19-not-from-it-11644499077">In U.K.'s Omicron Wave, Many People Are Dying With Covid-19, Not From It</a> WSJ: The number of people dying in Britain with a recent positive Covid-19 test is significantly overstating the true death toll from the virus for the first time, according to new data. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/middleeast/syria-camp-violence.html">Violence Erupts at Syrian Camp for ISIS Families, Leaving a Child Dead</a> NYT: Security forces say they opened fire this week after they were attacked by women and children at Al Hol camp in northeastern Syria, which holds about 60,000 family members of former ISIS fighters. 
  <p class="updated_time"> 07:22 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
- <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
 
 
 </details>
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/anti-gay-pastor-contention-job-adams-administration-00008048">Anti-gay pastor still in contention for job in Adams administration</a> Politico: Fernando Cabrera, who represented the Bronx as a Democrat in the City Council, has been showing up at a municipal building across the street from City Hall while he awaits his assignment in the Adams administration. 
  <p class="updated_time"> 07:09 AM CT, Feb. 11 </p> 
@@ -305,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
  <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079246031/the-economy-is-strong-but-voters-arent-feeling-it-thats-a-problem-for-biden">The economy is strong but voters aren't feeling it. That's a problem for Biden</a> NPR: President Biden's first year in the White House has been marked by record GDP growth and job gains, so why do voters keep giving him poor marks on the economy? 
- <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
