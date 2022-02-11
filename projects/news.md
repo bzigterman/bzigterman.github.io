@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:18 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
+ <p class="updated_time"> 06:15 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
+ <p class="updated_time"> 06:11 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60341966?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Can diplomacy prevent war?</a> BBC: Diplomats hope that warring sides can get off the road to war but finding such a path is not easy. 
+ <p class="updated_time"> 06:03 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60197858?at_medium=RSS&at_campaign=KARANGA">The engineers battling to stop global warming ruining roads</a> BBC: Climate change is putting roads under stress but research is finding ways to make them more durable. 
+ <p class="updated_time"> 05:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 05:46 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 05:34 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Canada Live Updates: Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/article/canada-trucker-protests.html">Trucker Protests in Canada: What You Need to Know</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
+ <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know of the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 05:18 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60340232?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia accused of sea blockade</a> BBC: Russian naval drills makes marine navigation "practically impossible", Ukraine says. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
@@ -56,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60338663?at_medium=RSS&at_campaign=KARANGA">Christian Eriksen: Denmark international on returning to Premier League with Brentford</a> BBC: Christian Eriksen says he is lucky to be alive and will do everything he can to return to his former level after joining Brentford. 
  <p class="updated_time"> 12:32 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
- <p class="updated_time"> 12:14 PM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/a-whos-who-of-daniel-ortegas-critics-are-on-trial-in-nicaragua-11644510847">A Who's Who of Daniel Ortega's Critics Are On Trial in Nicaragua</a> WSJ: From Sandinista veterans to journalists and student leaders, dozens of opponents of the Nicaraguan president are facing prison terms. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:17 AM CT, Feb. 10 </p> 
@@ -88,6 +94,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312231?at_medium=RSS&at_campaign=KARANGA">A missing game of Wordle helps end a 17-hour hostage ordeal</a> BBC: Police were alerted to a hostage situation when an 80-year-old woman failed to send her daily Wordle. 
  <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
+ <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-discoverer-of-hiv-luc-montagnier-has-died-at-89-11644522238">French Discoverer of HIV, Luc Montagnier, Dies at 89</a> WSJ: French researcher and Nobel laureate Luc Montagnier, who led the team that identified HIV, the virus that causes AIDS, and who more recently spread misinformation about the coronavirus, has died. 
  <p class="updated_time"> 08:12 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/massive-russian-military-drills-on-ukraine-border-ratchet-up-threat-11644496231">Russia's Massive Military Drills on Ukraine Border Stir Invasion Fears</a> WSJ: Western officials believe Moscow has sent up to 30,000 troops to Belarus in what they fear could be a key element of any invasion. 
  <p class="updated_time"> 07:53 AM CT, Feb. 10 </p> 
@@ -130,14 +138,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/09/1079759013/chloe-kim-wins-her-gold-at-the-2022-beijing-olympics">U.S. snowboarder Chloe Kim makes history winning 2nd Olympic halfpipe gold</a> NPR: Kim dominated the leaderboard after her stellar first run at the women's snowboard halfpipe event on Thursday in Beijing. She's the first woman to win multiple Olympic golds in the halfpipe. 
  <p class="updated_time"> 08:11 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60318946?at_medium=RSS&at_campaign=KARANGA">‘Hackers helped me find my lost Bitcoin fortune’</a> BBC: It's estimated that 3.7 million Bitcoin have been lost - but hackers are helping owners get some of them back. 
- <p class="updated_time"> 06:37 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60301758?at_medium=RSS&at_campaign=KARANGA">Pa Sorie: The Sierra Leonean proud to have fought in World War Two</a> BBC: Samuel Sorie Sesay, who died last month in Sierra Leone, fought for the British army in World War Two. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60318298?at_medium=RSS&at_campaign=KARANGA">How suicide became the hidden toll of the war in Ukraine</a> BBC: A deep stigma around suicide in Ukraine is standing in the way of saving soldiers' lives. 
- <p class="updated_time"> 06:27 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60284918?at_medium=RSS&at_campaign=KARANGA">UP elections 2022: Why western Uttar Pradesh is key for BJP</a> BBC: The first phase of polling is crucial as millions begin voting in key India state election. 
  <p class="updated_time"> 06:02 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60326279?at_medium=RSS&at_campaign=KARANGA">Benin bronzes: ‘Africa wants to speak for itself’</a> BBC: The upcoming British Punitive Expedition anniversary has reignited calls for the return of stolen treasures. 
  <p class="updated_time"> 06:01 PM CT, Feb. 09 </p> 
@@ -178,16 +182,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html">State by State, Germany Relaxes Covid Rules, Even as Cases Surge</a> NYT: Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates. 
  <p class="updated_time"> 03:41 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/olympics-garlic-girls-curling.html">How the ‘Garlic Girls’ Overcame Abuse to Return to the Olympics</a> NYT: The South Korean curling team helped revive a painful discussion about the mistreatment of athletes in their country, leading the way for others to come forward. 
- <p class="updated_time"> 08:56 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/canada/canada-protests-bridge.html">With No End in Sight, Ottawa Protests Extend Beyond Canada’s Borders</a> NYT: Officials are grappling with a new protest blocking a major border crossing, while similar demonstrations have disrupted traffic in New Zealand and Australia. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60308612?at_medium=RSS&at_campaign=KARANGA">Canadian capital on edge as trucker protest rolls on</a> BBC: Some Ottawa residents are fed up with the disruption, but truckers vow they're in it for the long haul. 
  <p class="updated_time"> 04:02 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/greta-ferusic-dead.html">Greta Ferusic Dies at 97; Survived Auschwitz and Siege of Sarajevo</a> NYT: She was the only one in her family to survive the Holocaust, then endured the shelling of her city during the Bosnian war. A documentary chronicled her story. 
  <p class="updated_time"> 12:45 PM CT, Feb. 08 </p> 
  <a href="https://www.nytimes.com/2022/02/08/world/europe/josh-neuman-plane-crash-iceland.html">Iceland Plane Crash Kills 4 People, Including Celebrated Aviator</a> NYT: Josh Neuman, 22, an American skateboarder, and Haraldur Diego, 50, an Icelandic pilot, were among those said to have died in the crash of a small aircraft. 
- <p class="updated_time"> 12:31 PM CT, Feb. 08 </p> 
- <a href="https://www.nytimes.com/2022/02/08/world/europe/england-nhs.html">Backlog at England's Hospitals Will Last Years, Javid Warns</a> NYT: Sajid Javid, Britain’s health secretary, said that more than 300,000 people in England had been waiting a year or longer for planned medical procedures. 
 
 
 </details>
@@ -195,8 +195,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/gitmo-saudi-prisoner-release.html">Review Panel Approves Release of Saudi Prisoner from Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
+ <p class="updated_time"> 06:23 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Trump’s Missing Call Logs Present a Challenge for Jan. 6 Investigators</a> NYT: Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress. 
+ <p class="updated_time"> 06:17 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-masks.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
+ <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
+ <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Testifies in New York Times Libel Trial</a> NYT: The former governor of Alaska claims that The Times acted recklessly in writing and publishing an editorial in 2017 that incorrectly linked a mass shooting in Arizona to her political rhetoric. 
  <p class="updated_time"> 05:59 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/russian-naval-buildup-ukraine-cold-war-levels-00007986">‘Dangerous moment’: Russian naval buildup near Ukraine hits Cold War levels</a> Politico: While the world watches Russia's tanks and troops, a quiet and remarkable flotilla is growing. 
+ <p class="updated_time"> 05:52 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-supreme-court.html">Biden Predicts His Supreme Court Nominee Will Get G.O.P. Support</a> NYT: The president has said that he wants the advice and consent of the Senate as he deliberates, despite the reality that his nominee may draw few votes from the other side of the aisle. 
  <p class="updated_time"> 05:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-crack-pipes-claim.html">Explaining the Claim About the Biden Administration and ‘Crack Pipes’</a> NYT: Conservatives have homed in on a specific provision in an overdose prevention grant program to make a misleading claim about crack pipes. 
  <p class="updated_time"> 05:49 PM CT, Feb. 10 </p> 
@@ -208,13 +220,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 05:21 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/auto-industry-canada-protests.html">Canadian Trucker Protests Snarl an Already Hobbled Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/cuomo-complaint-disbar-new-york-lawyers-00007869">Cuomo to file complaint against James with entity that can disbar New York lawyers</a> Politico: “We have rules of professional conduct that we have to follow in the state of New York,” Cuomo attorney Rita Glavin said in a press briefing Thursday. 
- <p class="updated_time"> 04:53 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls</a> NYT: Sparse call records are the latest obstacle facing the House panel, which is trying to document what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 04:18 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">U.S. Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: The explosion that killed Abu Ibrahim al-Hashimi al-Qurayshi in Syria was most likely caused by a bomb he had rigged, U.S. military officials said. 
  <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
  <p class="updated_time"> 03:52 PM CT, Feb. 10 </p> 
@@ -267,8 +277,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
- <p class="updated_time"> 10:36 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Testifies in New York Times Libel Trial</a> NYT: The former governor of Alaska is expected to testify about the ways she felt defamed by an editorial The New York Times published in 2017. 
  <p class="updated_time"> 10:26 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:17 AM CT, Feb. 10 </p> 
@@ -283,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
- <p class="updated_time"> 06:06 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/nyregion/bruce-blakeman-republican-masks.html">How Bruce Blakeman Used a Mask Rebellion to Revive His Career</a> NYT: Since a surprise win on Long Island, Bruce Blakeman has been on a seemingly single-minded mission to challenge and defy Gov. Kathy Hochul over mask mandates. 
  <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079246031/the-economy-is-strong-but-voters-arent-feeling-it-thats-a-problem-for-biden">The economy is strong but voters aren't feeling it. That's a problem for Biden</a> NPR: President Biden's first year in the White House has been marked by record GDP growth and job gains, so why do voters keep giving him poor marks on the economy? 
  <p class="updated_time"> 05:01 AM CT, Feb. 10 </p> 
@@ -311,16 +317,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
- <p class="updated_time"> 08:28 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/politician-death-threats.html">How Threats Against Politicians Are Surging</a> NYT: A review of threats against members of Congress shows how a mainstreaming of violent political speech has prompted a growing number of Americans to target elected officials. 
  <p class="updated_time"> 06:38 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/nyregion/eric-adams-albany.html">Mayor Adams Clashes With Albany Democrats Over His Crime Plan</a> NYT: Eric Adams’s harshest exchange during a state budget hearing was with a fellow Democrat whose brother was killed by gunfire at the age of 19. 
  <p class="updated_time"> 06:03 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/us/politics/video-game-political-arena.html">A New Video Game About Politics in the Age of Donald Trump</a> NYT: A new video game will let players pretend to be the politicians they most admire — or despise. 
- <p class="updated_time"> 05:28 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/politics/michelle-childs-supreme-court.html">A Product of Public Universities, Michelle Childs Would Be an Unconventional Court Pick</a> NYT: The judge is seen by some as a long shot for the Supreme Court, but supporters say her bipartisan backing and the appeal of her humble ascent should not be overlooked. 
- <p class="updated_time"> 04:57 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/business/economy/fed-revolving-door-raskin.html">Fed nominees commit to not taking part in finance’s revolving door.</a> NYT: Three Federal Reserve picks said that they won’t work in finance for years if they are confirmed to central bank positions. 
  <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 02:26 PM CT, Feb. 09 </p> 
