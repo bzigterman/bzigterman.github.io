@@ -30,7 +30,7 @@ champaign_sunset <- strftime(force_tz(
 
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast_tibble %>%
-  select(dt_txt,pop,temp,weather_icon) %>%
+  #select(dt_txt,pop,temp,weather_icon) %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
@@ -71,13 +71,64 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
   )
   )
 
+champaign_forecast_longer <- champaign_forecast_tidy %>%
+  pivot_longer(cols = c(temp,#pressure,
+                        humidity,
+                        wind_speed,clouds_all,
+                       # visibility,
+                        pop,rain_3h,snow_3h),
+               names_to = "names",
+               values_to = "values") %>%
+  select(central_time,names,values) %>%
+  mutate(names = recode(names, 
+                        "temp" = "°F",
+                        "pop" = "Precip%",
+                        "rain_3h" = "Rain",
+                        "snow_3h" = "Snow",
+                        "humidity" = "Humidity",
+                        "wind_speed" = "Wind",
+                        #"pressure" = "Pressure",
+                        "clouds_all" = "Clouds")) 
+
+
+# facet ----
+ggplot(champaign_forecast_longer,
+       aes(x = central_time,
+           y = values,
+           colour = names)) +
+  geom_line() +
+  facet_wrap(~ names, scales = "free_y",
+             ncol = 1,
+             strip.position = "left") +
+  labs(caption = "OpenWeather") +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_x_datetime(expand = c(0,0),
+                   date_labels = "%a") +
+  scale_y_continuous(position = "right") +
+  theme(axis.text.x = element_text(size = 8),
+        axis.ticks.y = element_blank(),
+        panel.grid = element_blank(),
+        panel.background = element_blank(),
+        legend.position = "none",
+        panel.grid.major = element_line(colour = "grey93"),
+        strip.text = element_text(size = 11),
+        strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+ggsave("plots/champaign_weather.png", bg = "white",
+       width = 8, height = 8, dpi = 320)
+
+ggsave("plots/champaign_weather_mobile.png", bg = "white",
+       width = 4, height = 8, dpi = 320)
+
 
 # plot data ----
 temp <- ggplot(champaign_forecast_tidy,
                aes(x = central_time,
                    y = temp,
                    label = weather_unicode,
-                   color = temp_class),) +
+                   color = temp_class)) +
   geom_line(color = "grey93") +
   #geom_point(size = .5) +
   geom_text(color = "black",
@@ -143,8 +194,8 @@ weather <- plot_grid(temp, precip,
           ncol = 1,
           rel_heights = c(6,2))
 
-ggsave("plots/champaign_weather.png", plot = weather,
-       width = 8, height = 8*(628/1200), dpi = 320)
+#ggsave("plots/champaign_weather.png", plot = weather,
+ #      width = 8, height = 8*(628/1200), dpi = 320)
 
 
 temp_mobile <- ggplot(champaign_forecast_tidy,
@@ -192,8 +243,8 @@ weather_mobile <- plot_grid(temp_mobile, precip,
                      ncol = 1,
                      rel_heights = c(6,2))
 
-ggsave("plots/champaign_weather_mobile.png", plot = weather_mobile,
-       width = 3, height = 8*(628/1200), dpi = 320)
+#ggsave("plots/champaign_weather_mobile.png", plot = weather_mobile,
+ #      width = 3, height = 8*(628/1200), dpi = 320)
 
 
 # web text ----
