@@ -8,22 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
+ <p class="updated_time"> 02:07 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
+ <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 01:55 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
  <p class="updated_time"> 01:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 01:06 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
  <p class="updated_time"> 12:59 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 11:41 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60343316?at_medium=RSS&at_campaign=KARANGA">China halts Lithuania beef, dairy and beer imports amid Taiwan row</a> BBC: The move may bolster a European Union case against China, which alleges discriminatory trade practices. 
  <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
- <p class="updated_time"> 11:01 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December.  It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
@@ -146,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079787018/indian-state-begins-voting-in-key-test-for-pm-narendra-modis-ruling-party">Indian state begins voting in key test for PM Narendra Modi's ruling party </a> NPR: The state polls in Uttar Pradesh – India's most populous with over 230 million people – are a test for Prime Minister Narendra Modi's ruling party ahead of general elections in 2024. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
- <p class="updated_time"> 12:00 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079777978/nathan-chen-wins-gold-figure-skating-olympics">Nathan Chen wins gold in men's figure skating at the Beijing Olympics</a> NPR: The 22-year-old American topped a competitive field Thursday in Beijing. Figure skaters from Japan came in second and third. 
  <p class="updated_time"> 11:21 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60328864?at_medium=RSS&at_campaign=KARANGA">Hijab row: The India woman who is the face of the fight to wear headscarf</a> BBC: Muskaan Khan took on heckling Hindu men in a video that went viral amid a row over headscarves. 
  <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
@@ -166,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
- <p class="updated_time"> 02:34 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/us/vaccine-mandate-la-county-sherriff.html">Vaccine Policy in Los Angeles County Aims to Pressure Sheriff</a> NYT: The move will apply pressure to the sheriff’s department, which has a vaccination rate of 54 percent. 
  <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
@@ -197,6 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 01:55 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 11:56 PM CT, Feb. 10 </p> 
@@ -232,9 +236,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:49 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-cpi-january-2022.html">CPI Inflation Climbed 7.5 Percent in January, the Fastest Rise Since 1982</a> NYT: Consumer Price Index data showed prices climbing faster than expected, picking up across a broad array of goods and services. 
  <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079973484/biden-says-hes-done-a-deep-dive-on-four-supreme-court-candidates">Biden says he's done a "deep dive" on four Supreme Court candidates</a> NPR: President Biden has been spending a lot of time courting senators — from both sides of the aisle — ahead of making his decision on who to nominate for a vacant seat on the Supreme Court. 
- <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-health-science-agenda.html">Vacancies in Top Health and Science Jobs May Threaten Biden’s Agenda</a> NYT: President Biden came into office vowing to respect science, but openings in crucial jobs could hamper progress on medical and technological research. 
+ <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1079973484/biden-says-hes-done-a-deep-dive-on-four-supreme-court-candidates">Biden says he's done a 'deep dive' on 4 Supreme Court candidates</a> NPR: President Biden has been spending a lot of time courting senators — from both sides of the aisle — ahead of making his decision on who to nominate for a vacant seat on the Supreme Court. 
  <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
@@ -317,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079792121/morning-news-brief">News brief: Masking rollbacks, Nord Stream 2 pipeline, Peter Navarro subpoenaed</a> NPR: More Democratic-led states pull back their masking requirements. Natural gas plays a big role in the Russia-Ukraine crisis. Jan. 6 panel subpoenas former Trump White House trade adviser Peter Navarro. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
- <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079395385/with-evictions-on-the-rise-house-democrats-team-up-to-push-new-housing-protectio">With evictions on the rise, House Democrats team up to push new housing protections</a> NPR: Three Democrats are hoping to provide a legislative lifeline to tenants facing eviction. But the bill faces some steep hurdles in Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
