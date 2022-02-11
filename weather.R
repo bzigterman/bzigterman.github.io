@@ -104,7 +104,8 @@ ggplot(champaign_forecast_longer,
   xlab(NULL) +
   ylab(NULL) +
   scale_x_datetime(expand = c(0,0),
-                   date_labels = "%a") +
+                   date_labels = "%a",
+                   position = "top") +
   scale_y_continuous(position = "right") +
   theme(#axis.text.x = element_text(size = 8),
         axis.ticks.y = element_blank(),
