@@ -8,6 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:46 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
+ <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
+ <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
+ <p class="updated_time"> 08:18 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60351395?at_medium=RSS&at_campaign=KARANGA">Italy's Mt Etna volcano erupts for first time this year</a> BBC: Sicily's Mount Etna lights up the night sky in first eruption of 2022, billowing smoke and ash. 
  <p class="updated_time"> 07:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
@@ -16,12 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
- <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 06:29 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
- <p class="updated_time"> 05:13 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080053580/u-k-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">U.K. lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
  <p class="updated_time"> 04:49 AM CT, Feb. 11 </p> 
@@ -32,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
- <p class="updated_time"> 02:58 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 02:41 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
  <p class="updated_time"> 02:35 AM CT, Feb. 11 </p> 
@@ -150,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/uk-covid-restrictions-johnson.html">Boris Johnson Outlines Plan for Lifting Covid Restrictions in England</a> NYT: Prime Minister Boris Johnson, who is fighting to save his job, said the easing of rules would come a month earlier than planned. 
- <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:02 PM CT, Feb. 09 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/germany-jennifer-morgan-greenpeace.html">Germany Has a New Climate Envoy: an American Greenpeace Activist</a> NYT: Jennifer Morgan, the American head of Greenpeace, has lived in Germany since 2003 and has applied for German citizenship. 
  <p class="updated_time"> 12:16 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/asia/tonga-lockdown.html">Tonga Extends Its Lockdown as Covid Cases Rise</a> NYT: The island nation barely saw the coronavirus in the first two years of the pandemic. But after a volcanic eruption, an outbreak among visiting aid workers has pushed up its caseload. 
- <p class="updated_time"> 11:27 AM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60306389?at_medium=RSS&at_campaign=KARANGA">Bosnia: Three decades on, bereaved families fear return to war</a> BBC: A rise in Serb nationalism is threatening the peace agreement that holds together Bosnia-Herzegovina. 
  <p class="updated_time"> 10:43 AM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/canada/france-anti-vaccine-convoy.html">France Protest Convoy Begins, Inspired by Canada's Truckers</a> NYT: Dozens of drivers are heading for the French capital to oppose the government’s vaccine rules, a direct echo of the “Freedom Convoy” protests in Ottawa. 
  <p class="updated_time"> 08:05 AM CT, Feb. 09 </p> 
@@ -189,14 +189,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
+ <p class="updated_time"> 08:46 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
+ <p class="updated_time"> 08:35 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/anti-gay-pastor-contention-job-adams-administration-00008048">Anti-gay pastor still in contention for job in Adams administration</a> Politico: Fernando Cabrera, who represented the Bronx as a Democrat in the City Council, has been showing up at a municipal building across the street from City Hall while he awaits his assignment in the Adams administration. 
  <p class="updated_time"> 07:09 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079873883/yana-buhrer-tavanier-can-social-activism-be-playful">Yana Buhrer Tavanier: Can social activism be playful?</a> NPR: We might think of activism as far from playful. That's not the case for "playtivist" Yana Buhrer Tavanier. Her incubator lab, Fine Acts, encourages whimsical solutions for social change. 
- <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
@@ -221,8 +223,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
- <p class="updated_time"> 06:59 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
  <p class="updated_time"> 06:47 PM CT, Feb. 10 </p> 
@@ -251,8 +251,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 05:19 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/cuomo-complaint-disbar-new-york-lawyers-00007869">Cuomo to file complaint against James with entity that can disbar New York lawyers</a> Politico: “We have rules of professional conduct that we have to follow in the state of New York,” Cuomo attorney Rita Glavin said in a press briefing Thursday. 
- <p class="updated_time"> 03:58 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/canadian-bridge-blockade-economy-00007944">Canadian bridge blockade could worsen Biden’s economic headaches</a> Politico: An anti-vaccine protest could pose a new risk to supply chains and inflation the longer it continues to shut off a critical trade route between the U.S. and Canada. 
  <p class="updated_time"> 03:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">Will Trump's Election Lies Become a Litmus Test for Republicans?</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
@@ -263,8 +261,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 03:21 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
- <p class="updated_time"> 03:03 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/schumer-moves-to-limit-debate-on-califf-nomination-00007758">Schumer moves to limit debate on Califf nomination</a> Politico: The Senate is expected to officially vote on his confirmation as early as Tuesday, three people with knowledge of the matter said. 
  <p class="updated_time"> 02:57 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/adams-faith-based-office-00007805">Adams says 'God' told him he'd be mayor</a> Politico: He always believed he would one day lead New York City during his time as a state senator and Brooklyn borough president, Adams recalled. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
@@ -337,6 +333,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
+ <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
