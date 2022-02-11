@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 PM CT, Feb. 11 </p> 
+ <p class="updated_time"> 05:45 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Court Orders Demonstrators to Clear Key Bridge at U.S. Border</a> NYT: Trudeau tells protesters ‘it is now time to go home,’ as Ontario declares a state of emergency. 
+ <p class="updated_time"> 05:45 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 05:31 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: The White House says Moscow now has the troops in place to invade Ukraine "at any time". 
  <p class="updated_time"> 05:24 PM CT, Feb. 11 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 04:59 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada court orders end to trucks' bridge blockade</a> BBC: The injunction comes as Prime Minister Justin Trudeau warns of "severe" consequences for the truckers. 
- <p class="updated_time"> 04:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 04:47 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080252086/canadian-judge-orders-an-end-to-the-blockade-at-a-u-s-canada-border-bridge">Canadian judge orders an end to the blockade at a U.S.-Canada border bridge</a> NPR: A judge said the order would be effective at 7 p.m. to give protesters time to leave. Police immediately warned that demonstrators could be subject to arrest and their vehicles may be seized. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
