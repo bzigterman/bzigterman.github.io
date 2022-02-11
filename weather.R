@@ -67,23 +67,24 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
                                          temp,NULL))) %>%
   mutate(half_day_icon = if_else(hour(central_time) == 0,weather_unicode,
                                  if_else(hour(central_time) == 12,
-                                         weather_unicode,NULL))) %>%
-  mutate(rain = ifelse(is.na(rain_3h),0,rain_3h)) %>%
-  mutate(snow = ifelse(is.na(snow_3h),0,snow_3h))
+                                         weather_unicode,NULL))) #%>%
+  #mutate(rain = ifelse(is.na(rain_3h),0,rain_3h)) %>%
+  #mutate(snow = ifelse(is.na(snow_3h),0,snow_3h))
 
 champaign_forecast_longer <- champaign_forecast_tidy %>%
   pivot_longer(cols = c(temp,pressure,
                         humidity,
                         wind_speed,clouds_all,
-                        pop,rain,snow),
+                        pop#,rain,snow
+                        ),
                names_to = "names",
                values_to = "values") %>%
   select(central_time,names,values) %>%
   mutate(names = recode_factor(names, 
                         "temp" = "°F",
                         "pop" = "Precip%",
-                        "rain" = "Rain",
-                        "snow" = "Snow",
+                        #"rain" = "Rain",
+                        #"snow" = "Snow",
                         "humidity" = "Humidity",
                         "wind_speed" = "Wind",
                         "clouds_all" = "Clouds",
