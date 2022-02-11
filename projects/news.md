@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
+ <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
  <p class="updated_time"> 11:25 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
  <p class="updated_time"> 11:24 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
- <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
- <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
  <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa, including the most important US-Canada trade link. 
  <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
@@ -196,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
+ <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
  <p class="updated_time"> 08:35 AM CT, Feb. 11 </p> 
