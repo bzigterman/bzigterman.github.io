@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:13 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
@@ -27,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:41 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
  <p class="updated_time"> 02:35 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080034274/mikaela-shiffrin-places-ninth-beijing-2022-olympics">With a 9th place finish in Beijing, Mikaela Shiffrin shows signs of bouncing back</a> NPR: Shiffrin had previously failed to finish two qualifying runs in two separate events earlier this week. 
+ <a href="https://www.npr.org/2022/02/11/1080034274/mikaela-shiffrin-places-ninth-beijing-2022-olympics">With a 9th place finish in Beijing, Mikaela Shiffrin shows signs of bouncing back</a> NPR: "Coming back out and getting the chance to race again was just the perfect thing to do, actually," Shiffrin said. She had failed to finish qualifying runs in two events earlier this week. 
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
@@ -47,7 +47,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1080021245/shaun-white-fails-to-medal-in-beijing">Shaun White finishes fourth in men's halfpipe, wrapping up storied Olympic career</a> NPR: The 2022 Beijing Olympics is White's last competition as a professional snowboarder. He is the first, and only, snowboarder to win three Olympic gold medals. 
+ <a href="https://www.npr.org/2022/02/10/1080021245/shaun-white-fails-to-medal-in-beijing">Shaun White finishes 4th in men's halfpipe, wrapping up storied Olympic career</a> NPR: The 2022 Beijing Olympics are White's last competition as a professional snowboarder. He is the first, and only, snowboarder to win three Olympic gold medals. 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 09:41 PM CT, Feb. 10 </p> 
@@ -193,7 +193,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:41 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
