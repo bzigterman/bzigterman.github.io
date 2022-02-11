@@ -9,7 +9,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080053580/uk-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">UK lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
+ <a href="https://www.npr.org/2022/02/11/1080053580/u-k-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">U.K. lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
  <p class="updated_time"> 04:49 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
@@ -34,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
  <p class="updated_time"> 01:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 12:59 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/10/world/canada-trucker-protest">Automakers Are Hobbled by Blockades at U.S.-Canada Border</a> NYT: Some of the world’s biggest car companies are shutting down or reducing production lines because of closures at the U.S.-Canada border, raising alarm in Canada about the effects on its economy. 
  <p class="updated_time"> 11:41 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60343316?at_medium=RSS&at_campaign=KARANGA">China halts Lithuania beef, dairy and beer imports amid Taiwan row</a> BBC: The move may bolster a European Union case against China, which alleges discriminatory trade practices. 
  <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
@@ -170,6 +168,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 09 </p> 
+ <a href="https://www.nytimes.com/2022/02/09/world/europe/rene-robert-death-paris-street.html">Photographer’s Death Casts Harsh Light on the Cold Streets of Paris</a> NYT: René Robert, known for his pictures of flamenco, died of hypothermia after falling on a busy road, seemingly unassisted. The death shocked many, but echoed the indifference homeless people face every day. 
  <p class="updated_time"> 01:26 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/russia-ukraine-putin.html">In Ukraine Crisis, Putin Faces a Stark Choice</a> NYT: Russia can seize control over Ukraine or keep strong economic ties to Europe. It will be hard to do both. 
  <p class="updated_time"> 01:23 PM CT, Feb. 09 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
@@ -257,12 +259,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
+ <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/gina-mccarthy-touts-biden-climate-progress-00007913">Gina McCarthy pledges to run 'faster and faster' to address climate change</a> Politico: “We all understand that we have to do as much as humanly possible as quickly as we possibly can," McCarthy said at a POLITICO event. 
  <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947577/former-alaska-governor-sarah-palin-got-her-day-in-court-in-new-york-times-lawsui">Former Alaska Governor Sarah Palin got her day in court in 'New York Times' lawsuit</a> NPR: Former Alaska Gov. Sarah Palin testified about the editorial that wrongly linked her political action committee's ad to a mass shooting. The paper's attorneys pressed her on her political rhetoric. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 03:21 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/schumer-moves-to-limit-debate-on-califf-nomination-00007758">Schumer moves to limit debate on Califf nomination</a> Politico: The Senate is expected to officially vote on his confirmation as early as Tuesday, three people with knowledge of the matter said. 
  <p class="updated_time"> 02:57 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/adams-faith-based-office-00007805">Adams says 'God' told him he'd be mayor</a> Politico: He always believed he would one day lead New York City during his time as a state senator and Brooklyn borough president, Adams recalled. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
@@ -273,6 +279,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
+ <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
@@ -285,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. Senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
  <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079866701/usps-reform-bill">Bill that would give the U.S. Postal Service a major overhaul moves to the Senate</a> NPR: The embattled USPS has been losing billions of dollars annually in recent years. The bill, which focuses on cutting health care costs, would result in $50 billion in savings over 10 years. 
- <p class="updated_time"> 11:25 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/not-encouraging-breaking-down-the-latest-inflation-numbers-00007715">Inflation keeps getting worse: A peek inside the mounting trouble for the Fed and Biden</a> Politico: Virtually every category of consumer prices — from food and women's clothing to rent and airfares — went up. 
  <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079843645/congress-approves-bill-to-end-forced-arbitration-in-sexual-assault-cases">Congress approves bill to end forced arbitration in sexual assault cases</a> NPR: The bipartisan bill bans employers from inserting provisions in contracts that require individuals who allege claims of sexual assault or harassment to go through a secretive process. 
  <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
@@ -301,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/farmers-congress-exports-00007521">U.S. farmers push Washington to help boost exports even after a record year</a> Politico: U.S. agriculture exports were at an all-time high in 2021, but Congress and the Biden administration are heeding industry calls to intervene in supply chain bottlenecks. 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
- <p class="updated_time"> 08:58 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/prince-charles-isolating-testing-positive-covid-00007704">Prince Charles isolating after testing positive for Covid-19</a> Politico: A message on the royal’s official Twitter page said Charles tested positive on Thursday morning. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079792128/biden-administration-cautions-that-rolling-back-mask-restrictions-are-premature">Biden administration cautions that rolling back mask restrictions are premature</a> NPR: More states run by Democratic governors have announced plans to ease masking policies, including in schools. But the federal government is still urging caution. 
  <p class="updated_time"> 05:49 AM CT, Feb. 10 </p> 
@@ -349,8 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
