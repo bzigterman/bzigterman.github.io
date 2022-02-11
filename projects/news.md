@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 02:41 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
  <p class="updated_time"> 02:35 AM CT, Feb. 11 </p> 
@@ -110,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60338663?at_medium=RSS&at_campaign=KARANGA">Christian Eriksen: Denmark international on returning to Premier League with Brentford</a> BBC: Christian Eriksen says he is lucky to be alive and will do everything he can to return to his former level after joining Brentford. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
- <p class="updated_time"> 11:17 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60339141?at_medium=RSS&at_campaign=KARANGA">France migrants: Coastguard rescues 36 from North Sea</a> BBC: The people saved near the port of Dunkirk are believed to have been attempting to get to the UK. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
@@ -128,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/frances-macron-bets-on-nuclear-power-to-fight-climate-change-11644508634">Macron Bets on Nuclear Power to Fight Climate Change</a> WSJ: The French president announced a plan to build six new nuclear reactors, betting on a technology that produces electricity with almost zero greenhouse emissions but faces questions about costs. 
  <p class="updated_time"> 08:54 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079820023/prince-charles-covid">Prince Charles has tested positive for COVID a second time </a> NPR: Prince Charles is isolating and has canceled his appearances. He previously contracted the virus in March 2020. 
- <p class="updated_time"> 08:46 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60330758?at_medium=RSS&at_campaign=KARANGA">Russian gallery security guard accused of drawing eyes on painting</a> BBC: The painting was sent for restoration after the Russian guard allegedly drew eyes on it. 
  <p class="updated_time"> 08:43 AM CT, Feb. 10 </p> 
  <a href="https://www.wsj.com/articles/french-discoverer-of-hiv-luc-montagnier-has-died-at-89-11644522238">French Discoverer of HIV, Luc Montagnier, Dies at 89</a> WSJ: French researcher and Nobel laureate Luc Montagnier, who led the team that identified HIV, the virus that causes AIDS, and who more recently spread misinformation about the coronavirus, has died. 
  <p class="updated_time"> 08:12 AM CT, Feb. 10 </p> 
@@ -199,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:18 AM CT, Feb. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
@@ -271,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
- <p class="updated_time"> 12:57 PM CT, Feb. 10 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
