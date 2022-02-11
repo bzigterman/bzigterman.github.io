@@ -8,16 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204840/russian-figure-skater-was-allowed-to-compete-in-the-olympics-despite-failed-drug">Russian figure skater was allowed to compete in the Olympics despite failed drug test</a> NPR: A top Russian figure skater was allowed to compete despite testing positive for a banned substance before the Games. Kamila Valieva, age 15, helped Russia win the team event earlier this week. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204824/americans-living-in-ukraine-question-president-bidens-warning-to-leave-immediate">Americans living in Ukraine question President Biden's warning to leave immediately</a> NPR: President Biden has called on Americans in Ukraine to leave at once. But Americans there are questioning the urgency. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
+ <p class="updated_time"> 03:12 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: The White House says Moscow now has the troops in place to invade Ukraine "at any time". 
  <p class="updated_time"> 03:08 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 03:06 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 03:01 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
- <p class="updated_time"> 02:54 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: A host of countries advise their nationals to leave after the US warns Russia might invade. 
- <p class="updated_time"> 02:48 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
  <p class="updated_time"> 02:42 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
  <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
@@ -38,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
- <p class="updated_time"> 12:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Makes Masks Optional, Despite State Mandate</a> NYT: A spokesman for the state’s Department of Health called the decision at Poly Prep Country Day School a “violation.” 
  <p class="updated_time"> 12:41 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
  <p class="updated_time"> 12:39 PM CT, Feb. 11 </p> 
@@ -64,22 +72,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government cited the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% from 2018 to 2021. 
+ <p class="updated_time"> 10:27 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
+ <p class="updated_time"> 10:24 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
  <p class="updated_time"> 09:58 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
  <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60351455?at_medium=RSS&at_campaign=KARANGA">3,000 NYC staff face lost jobs over vaccine rules</a> BBC: New York City announced its vaccine mandate last year, and the new mayor has said it stays. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
- <p class="updated_time"> 09:27 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
  <p class="updated_time"> 09:17 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
- <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
  <p class="updated_time"> 08:18 AM CT, Feb. 11 </p> 
@@ -152,16 +160,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
- <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947584/scientist-luc-montagnier-who-discovered-the-virus-that-causes-aids-is-dead-at-89">Scientist Luc Montagnier, who discovered the virus that causes AIDS, is dead at 89</a> NPR: Luc Montagnier, the scientist who discovered the virus that causes AIDS, has died at 89. His key contribution came at a time when AIDS was mysterious and uniformly deadly. 
  <p class="updated_time"> 03:26 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
- <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947548/truckers-blocking-the-canada-u-s-border-could-seriously-impact-supply-chain">Truckers blocking the Canada-U.S. border could seriously impact supply chain</a> NPR: Canadian truckers protesting a COVID vaccine mandate are blocking traffic on the busiest international crossing in North America, which may have major supply chain implications for Canada and the U.S. 
- <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947541/austria-is-the-1st-western-democracy-to-require-vaccines-for-most-adults">Austria is the 1st Western democracy to require vaccines for most adults</a> NPR: Austria has become the first Western democracy to require vaccines for nearly all adults. Everyone who isn't exempt will be required to show proof of vaccination during random checks by the police. 
- <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
@@ -193,6 +193,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204887/gov-desantis-may-stop-florida-migrant-shelters-from-caring-for-unaccompanied-kid">Gov. DeSantis may stop Florida migrant shelters from caring for unaccompanied kids</a> NPR: Gov. Ron DeSantis is threatening to stop migrant shelters in Florida from caring for unaccompanied children. That's dividing Cuban-Americans in a state with a long history of welcoming children. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204824/americans-living-in-ukraine-question-president-bidens-warning-to-leave-immediate">Americans living in Ukraine question President Biden's warning to leave immediately</a> NPR: President Biden has called on Americans in Ukraine to leave at once. But Americans there are questioning the urgency. 
  <p class="updated_time"> 03:01 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/fda-delays-kid-vaccine-meeting-pfizer-more-data-00008261">FDA delays meeting on kid vaccines as Pfizer promises more data</a> Politico: The companies have been testing a third shot after announcing in December that trial data showed two doses produced an insufficient immune response in toddlers. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
@@ -295,12 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. Senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
- <p class="updated_time"> 11:36 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079866701/usps-reform-bill">Bill that would give the U.S. Postal Service a major overhaul moves to the Senate</a> NPR: The embattled USPS has been losing billions of dollars annually in recent years. The bill, which focuses on cutting health care costs, would result in $50 billion in savings over 10 years. 
- <p class="updated_time"> 11:16 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079843645/congress-approves-bill-to-end-forced-arbitration-in-sexual-assault-cases">Congress approves bill to end forced arbitration in sexual assault cases</a> NPR: The bipartisan bill bans employers from inserting provisions in contracts that require individuals who allege claims of sexual assault or harassment to go through a secretive process. 
- <p class="updated_time"> 11:15 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079832165/congressional-panel-will-investigate-trumps-removal-of-white-house-documents">Congressional panel will investigate Trump's removal of White House documents</a> NPR: Fifteen boxes of presidential records were removed by the National Archives from Trump's Mar-a-Lago residence amid reports he destroyed other documents while in office. Trump has denied those reports. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
