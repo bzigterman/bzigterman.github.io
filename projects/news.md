@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 11:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
  <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
@@ -37,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:40 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
+ <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government declared koalas endangered in certain regions, citing the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% between 2018 and 2021. 
  <p class="updated_time"> 09:58 AM CT, Feb. 11 </p> 
@@ -56,18 +56,24 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
  <p class="updated_time"> 08:18 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60351395?at_medium=RSS&at_campaign=KARANGA">Italy's Mt Etna volcano erupts for first time this year</a> BBC: Sicily's Mount Etna lights up the night sky in first eruption of 2022, billowing smoke and ash. 
+ <p class="updated_time"> 08:14 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60337468?at_medium=RSS&at_campaign=KARANGA">Kakwenza Rukirabashaija: Ugandan author alleges torture by security services</a> BBC: Kakwenza Rukirabashaija alleges he was tortured at the hands of the security services. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
+ <p class="updated_time"> 06:50 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Are Holding Westerners in Afghanistan</a> WSJ: The Islamist group that governs the country has held some of them for weeks, damaging relations with foreign capitals as Kabul seeks international aid. 
  <p class="updated_time"> 06:29 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
+ <p class="updated_time"> 06:07 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canada Bridge Protesters Agree to Open One Lane From U.S.</a> WSJ: The decision came hours before a Canadian judge is expected to rule on whether police can forcibly remove demonstrators at the Ambassador Bridge, as business executives demanded an end to the blockade. 
+ <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-tries-to-dial-back-its-high-abortion-rate-11644597797">China Tries to Dial Back Its High Abortion Rate</a> WSJ: China is stepping up efforts to reduce abortions in young women, signaling a shift in attitude toward a widely used procedure that has long been part of state-directed family planning. 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080053580/u-k-lifts-all-testing-requirements-for-vaccinated-travelers-starting-today">U.K. lifts all testing requirements for vaccinated travelers starting today</a> NPR: Residents and visitors who have had at least two doses of an approved vaccine now only need to fill out a form before entering the U.K. Unvaccinated people must test both before and after arriving. 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
- <p class="updated_time"> 03:53 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-warns-allies-that-ukraine-crisis-puts-post-world-war-ii-order-at-risk-11644576655">U.S. Warns Allies That Ukraine Crisis Puts Post-World War II Order at Risk</a> WSJ: Secretary of State Antony Blinken met with his Quad country counterparts in Australia. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 03:44 AM CT, Feb. 11 </p> 
@@ -158,14 +164,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
- <p class="updated_time"> 07:09 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/afghan-refugees-held-for-months-in-the-u-a-e-protest-the-conditions-11644511778">Afghan Refugees Held for Months in the U.A.E. Protest the Conditions</a> WSJ: Thousands who fled amid the collapse of the U.S.-backed government in Kabul last summer complain of prisonlike conditions while waiting to continue to the U.S. 
  <p class="updated_time"> 06:46 AM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/60334905?at_medium=RSS&at_campaign=KARANGA">Angelina Jolie makes emotional speech about victims of abuse</a> BBC: The actress addressed the US Congress in support of the Violence Against Women Act. 
- <p class="updated_time"> 04:59 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-partygate-scandal-uk-politics-11644508593">Inside Boris Johnson's 'Partygate' Scandal: Wine in the Garden and Lockdown Jokes</a> WSJ: Anger over parties held at Downing Street during Covid restrictions has the U.K.’s leader fighting to stay in power. It could prove a rapid fall from grace for the man who upended British politics. 
- <p class="updated_time"> 02:20 AM CT, Feb. 10 </p> 
- <a href="https://www.wsj.com/articles/in-u-k-s-omicron-wave-many-people-are-dying-with-covid-19-not-from-it-11644499077">In U.K.'s Omicron Wave, Many People Are Dying With Covid-19, Not From It</a> WSJ: The number of people dying in Britain with a recent positive Covid-19 test is significantly overstating the true death toll from the virus for the first time, according to new data. 
  <p class="updated_time"> 02:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/ottawa-truckers-protest.html">Ottawa Protesters Turn a Quiet Capital Upside Down</a> NYT: The Ottawa protesters are giddy with their sense of collective purpose. But local residents see the demonstration as an unruly, disrespectful and even dangerous occupation. 
  <p class="updated_time"> 01:15 AM CT, Feb. 10 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:02 PM CT, Feb. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60326279?at_medium=RSS&at_campaign=KARANGA">Benin bronzes: ‘Africa wants to speak for itself’</a> BBC: The upcoming British Punitive Expedition anniversary has reignited calls for the return of stolen treasures. 
- <p class="updated_time"> 06:01 PM CT, Feb. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60323638?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Evidence mounts of Taliban reprisal arrests and killings</a> BBC: The BBC investigates the disappearance of women activists and the killings of former government officials. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
  <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
