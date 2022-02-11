@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
+ <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December.  It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 10:04 PM CT, Feb. 10 </p> 
@@ -32,6 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest">A Canadian judge has frozen access to donations for the trucker convoy protest</a> NPR: After losing access to GoFundMe campaigns, those involved with "Freedom Convoy 2022" then moved to Christian fundraising site GiveSendGo. 
+ <p class="updated_time"> 08:29 PM CT, Feb. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60342078?at_medium=RSS&at_campaign=KARANGA">Teens saved after falling through ice near firefighter rescue training</a> BBC: Two US teens fell through lake ice - luckily for them firefighters were training nearby for just such a rescue. 
  <p class="updated_time"> 08:19 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60342800?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: US urges Canada to end blockade by truckers</a> BBC: The White House says the Canadians must "resolve" the blockade, which is choking a US trade route. 
  <p class="updated_time"> 07:56 PM CT, Feb. 10 </p> 
@@ -96,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60339141?at_medium=RSS&at_campaign=KARANGA">France migrants: Coastguard rescues 36 from North Sea</a> BBC: The people saved near the port of Dunkirk are believed to have been attempting to get to the UK. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
- <p class="updated_time"> 11:08 AM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60336676?at_medium=RSS&at_campaign=KARANGA">US consumer prices rise at fastest rate since 1982</a> BBC: Inflation hit 7.5% in the 12 months to January - the highest rate in 40 years. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
@@ -144,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60328864?at_medium=RSS&at_campaign=KARANGA">Hijab row: The India woman who is the face of the fight to wear headscarf</a> BBC: Muskaan Khan took on heckling Hindu men in a video that went viral amid a row over headscarves. 
  <p class="updated_time"> 10:28 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/ukraine-photos.html">Life Under the Specter of War: Images From Ukraine</a> NYT: With Russian forces menacing from three sides, Ukrainians are stoically keeping to their daily routines, but reminders of the looming threat are getting hard to avoid.  
- <p class="updated_time"> 09:02 PM CT, Feb. 09 </p> 
- <a href="https://www.npr.org/2022/02/09/1079759013/chloe-kim-wins-her-gold-at-the-2022-beijing-olympics">U.S. snowboarder Chloe Kim makes history winning 2nd Olympic halfpipe gold</a> NPR: Kim dominated the leaderboard after her stellar first run at the women's snowboard halfpipe event on Thursday in Beijing. She's the first woman to win multiple Olympic golds in the halfpipe. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/world/europe/finlandization-ukraine-russia-nato.html">Finns Don’t Wish ‘Finlandization’ on Ukraine (or Anyone)</a> NYT: The Cold War term for a kind of stifled sovereignty has gained attention as a possible solution to the standoff with Russia. But the nation it’s named for would rather forget about it. 
  <p class="updated_time"> 06:34 PM CT, Feb. 09 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
@@ -315,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079395385/with-evictions-on-the-rise-house-democrats-team-up-to-push-new-housing-protectio">With evictions on the rise, House Democrats team up to push new housing protections</a> NPR: Three Democrats are hoping to provide a legislative lifeline to tenants facing eviction. But the bill faces some steep hurdles in Congress. 
- <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 04:00 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/pharmacists-strain-covid.html">Angry Customers, More Work and Longer Hours Strain Pharmacists</a> NYT: Pharmacists and technicians, who have played a critical role in administering Covid-19 tests and vaccines, say they are burned out nearly two years into the pandemic. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
