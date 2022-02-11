@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:13 AM CT, Feb. 11 </p> 
@@ -41,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December. It's unclear why she was cleared to compete in Beijing. 
+ <a href="https://www.npr.org/2022/02/10/1080036363/kamila-valieva-russian-figure-skater-doping-drug-test">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December. It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
@@ -74,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
  <p class="updated_time"> 06:25 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60321129?at_medium=RSS&at_campaign=KARANGA">Trads vs Raytas: The young Indians spreading hate online</a> BBC: Young right-wing Hindus in India are finding newer and more outrageous ways to target critics online. 
- <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 06:22 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60326621?at_medium=RSS&at_campaign=KARANGA">Her boyfriend killed her son but she went to jail</a> BBC: Rebecca Hogue's partner killed her son, but she is the one in jail for 'failure to protect' her child. 
  <p class="updated_time"> 06:11 PM CT, Feb. 10 </p> 
@@ -193,14 +193,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/anti-gay-pastor-contention-job-adams-administration-00008048">Anti-gay pastor still in contention for job in Adams administration</a> Politico: Fernando Cabrera, who represented the Bronx as a Democrat in the City Council, has been showing up at a municipal building across the street from City Hall while he awaits his assignment in the Adams administration. 
+ <p class="updated_time"> 07:09 AM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1079873883/yana-buhrer-tavanier-can-social-activism-be-playful">Yana Buhrer Tavanier: Can social activism be playful?</a> NPR: We might think of activism as far from playful. That's not the case for "playtivist" Yana Buhrer Tavanier. Her incubator lab, Fine Acts, encourages whimsical solutions for social change. 
  <p class="updated_time"> 07:01 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief and other needs in Afghanistan, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
+ <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems' latest challenge: Draining the Hill's swamp (at least a little)</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/politicians-died-their-pacs-are-still-living-00008102">These politicians died — but their political action committees are still living</a> Politico: There are few rules that govern how a dead politician’s political committees spend its money. 
+ <a href="https://www.politico.com/news/2022/02/11/politicians-died-their-pacs-are-still-living-00008102">Inside the totally legal, fairly macabre, classically political world of the true Zombie PACs</a> Politico: There are few rules that govern how a dead politician’s political committees spend its money. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/gallery/2022/02/11/the-nations-cartoonists-on-the-week-in-politics-00007915">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:09 AM CT, Feb. 11 </p> 
@@ -281,8 +285,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/senate-bill-metoo-mandatory-arbitration-00007803">Senate clears #MeToo bill banning mandatory arbitration</a> Politico: “If you can ever say that legislation is long overdue, this is it,” Senate Majority Leader Chuck Schumer said. 
- <p class="updated_time"> 12:20 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/desantis-redistricting-florida-supreme-court-00007799">Florida Supreme Court rejects DeSantis' redistricting push</a> Politico: State legislators had halted all work on a new congressional map as they waited for the court to act. 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
@@ -297,10 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/us-canada-bridge-jam-auto-parts-inflation-00007483">U.S.-Canada bridge jam brings more pain for auto sector</a> Politico: A protest in Canada, ostensibly started by disgruntled truckers, has crimped a prime arterial for auto interests. 
  <p class="updated_time"> 10:40 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/jj-vaccine-deal-thailand-refugees-delayed-00007599">U.S.-brokered J&J vaccine deal for refugees in Thailand is delayed</a> Politico: The delay underscores the legal and logistical hurdles U.S. and COVAX face in getting vulnerable populations vaccinated. 
- <p class="updated_time"> 10:03 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/california-tesla-racial-discrimination-lawsuit-00007730">California accuses Tesla of racial discrimination in lawsuit</a> Politico: The state found evidence of "a racially segregated workplace where Black workers are subjected to racial slurs and discriminated against in job assignments, discipline, pay, and promotion,” according to a statement from Department of Fair Employment and Housing head Kevin Kish. 
- <p class="updated_time"> 10:02 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/farmers-congress-exports-00007521">U.S. farmers push Washington to help boost exports even after a record year</a> Politico: U.S. agriculture exports were at an all-time high in 2021, but Congress and the Biden administration are heeding industry calls to intervene in supply chain bottlenecks. 
  <p class="updated_time"> 09:29 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/trump-denies-flushing-documents-down-white-house-toilet-00007710">Trump denies flushing documents down White House toilet</a> Politico: The former president has long shown a disregard for the preservation of records. 
  <p class="updated_time"> 06:15 AM CT, Feb. 10 </p> 
@@ -317,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Dems face a sobering possibility: Build Back ... never</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
- <p class="updated_time"> 04:07 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079792184/natural-gas-is-playing-a-major-role-in-the-russia-ukraine-crisis">Natural gas is playing a major role in the Russia-Ukraine crisis</a> NPR: One of the strongest levers the U.S. has against Moscow is sanctions against key Russian commodities, like oil and gas. Earlier this week, President Biden warned that includes a natural gas pipeline. 
  <p class="updated_time"> 04:01 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/economy/inflation-expectations.html">Inflation probably climbed at fastest pace in four decades in January.</a> NYT: Consumer Price Index data released on Thursday could show the biggest annual price increase since early 1982. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
@@ -349,6 +345,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
@@ -365,6 +363,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
+ <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
@@ -387,8 +387,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
  <p class="updated_time"> 01:00 PM CT, Feb. 04 </p> 
  <a href="https://www.politico.com/news/2022/02/04/congressional-staffers-launch-push-to-unionize-00005742">Congressional staffers launch unionization push with Democrats' support</a> Politico: The move comes one day after Speaker Nancy Pelosi endorsed a union, but the House and Senate would have to approve a right to codify a union by certain workers. 
- <p class="updated_time"> 07:07 AM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/04/the-instagram-account-airing-congress-dirty-laundry-00005633">The Instagram account airing Congress’ dirty laundry</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
