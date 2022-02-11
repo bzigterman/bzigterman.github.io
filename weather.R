@@ -63,32 +63,33 @@ champaign_forecast_tidy <- champaign_forecast_tibble %>%
   ) 
   ) %>% 
   mutate(half_day_temp = if_else(hour(central_time) == 0,temp,
-                                 if_else(hour(central_time) == 12,temp,NULL)
-  )
-  ) %>%
+                                 if_else(hour(central_time) == 12,
+                                         temp,NULL))) %>%
   mutate(half_day_icon = if_else(hour(central_time) == 0,weather_unicode,
-                                 if_else(hour(central_time) == 12,weather_unicode,NULL)
-  )
-  )
+                                 if_else(hour(central_time) == 12,
+                                         weather_unicode,NULL))) %>%
+  mutate(rain = ifelse(is.na(rain_3h),0,rain_3h)) %>%
+  mutate(snow = ifelse(is.na(snow_3h),0,snow_3h))
 
 champaign_forecast_longer <- champaign_forecast_tidy %>%
   pivot_longer(cols = c(temp,pressure,
                         humidity,
                         wind_speed,clouds_all,
-                       # visibility,
-                        pop,rain_3h,snow_3h),
+                        pop,rain,snow),
                names_to = "names",
                values_to = "values") %>%
   select(central_time,names,values) %>%
-  mutate(names = recode(names, 
+  mutate(names = recode_factor(names, 
                         "temp" = "°F",
                         "pop" = "Precip%",
-                        "rain_3h" = "Rain",
-                        "snow_3h" = "Snow",
+                        "rain" = "Rain",
+                        "snow" = "Snow",
                         "humidity" = "Humidity",
                         "wind_speed" = "Wind",
-                        "pressure" = "Pressure",
-                        "clouds_all" = "Clouds")) 
+                        "clouds_all" = "Clouds",
+                        "pressure" = "Pressure")) #%>%
+  #mutate(names_f = factor(levels = c("°F","Precip%","Rain", "Snow",
+   #                                "Humidity","Wind","Pressure","Clouds")))
 
 
 # facet ----
