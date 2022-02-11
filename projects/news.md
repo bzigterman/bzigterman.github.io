@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:05 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
+ <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
+ <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa, including the most important US-Canada trade link. 
+ <p class="updated_time"> 11:14 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
+ <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 11:00 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60342814?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Joe Biden says US citizens should leave Ukraine now</a> BBC: The US president says he has issued the warning due to "increased threats of Russian military action". 
- <p class="updated_time"> 10:59 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: Ukraine Warns of New Military Activity in the East</a> NYT: Military drills by Russia-backed separatists  fueled concerns that Moscow was readying to attack, as President Biden held a call with an array of NATO and European Union leaders. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
  <p class="updated_time"> 10:52 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
- <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada border crossings hundreds of miles from the bridges connecting Ontario and Michigan that have been blocked by protesters. 
  <p class="updated_time"> 10:51 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60346300?at_medium=RSS&at_campaign=KARANGA">Macron refused to take Russian Covid test</a> BBC: A source says the health procedure was unacceptable amid reports France was protecting Mr Macron's DNA. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
@@ -32,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
  <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government declared koalas endangered in certain regions, citing the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% between 2018 and 2021. 
- <p class="updated_time"> 10:27 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Ontario Premier Doug Ford called on protesters to 'go home' and end the 'illegal occupation'. 
  <p class="updated_time"> 09:57 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
  <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
@@ -54,10 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60351395?at_medium=RSS&at_campaign=KARANGA">Italy's Mt Etna volcano erupts for first time this year</a> BBC: Sicily's Mount Etna lights up the night sky in first eruption of 2022, billowing smoke and ash. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
- <p class="updated_time"> 07:22 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 07:02 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death on the other side of world</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 06:29 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60349019?at_medium=RSS&at_campaign=KARANGA">Adele promises Las Vegas shows will 'absolutely 100%' happen this year</a> BBC: "I've got plans for next year," she says. "Imagine if I have to cancel because I am having a baby!" 
  <p class="updated_time"> 04:50 AM CT, Feb. 11 </p> 
@@ -277,6 +277,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
+ <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
@@ -316,7 +318,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers’ public apology for crude comment followed maskless, ‘mumbled’ floor exchange</a> Politico: “He did not come forth at first,” Beatty said of Rogers. 
+ <a href="https://www.politico.com/news/2022/02/09/beatty-rogers-apology-comment-floor-exchange-00007198">Beatty: Rogers' apology for crude comment followed maskless, 'mumbled' floor exchange</a> Politico: On Tuesday evening, Rogers tweeted that he had personally apologized to Beatty. 
  <p class="updated_time"> 07:19 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/09/read-the-houses-union-rights-resolution-00007148">Read the House's union rights resolution</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
