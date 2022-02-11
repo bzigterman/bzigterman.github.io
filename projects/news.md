@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
+ <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204905/nicaragua-has-convicted-more-than-a-dozen-opponents-of-president-daniel-ortega">Nicaragua has convicted more than a dozen opponents of President Daniel Ortega</a> NPR: In trials that sometimes last just a few hours, Nicaragua has been convicting political opponents of President Daniel Ortega, sending a chilling message about free expression. 
  <p class="updated_time"> 03:32 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
  <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
- <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest">A Canadian judge has frozen access to donations for the trucker convoy protest</a> NPR: After losing access to GoFundMe campaigns, those involved with "Freedom Convoy 2022" then moved to Christian fundraising site GiveSendGo. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
+ <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
+ <a href="https://www.npr.org/2022/02/11/1080204922/half-of-frozen-afghan-funds-will-be-aid-for-afghans-the-rest-may-go-to-9-11-fami">Half of frozen Afghan funds will be aid for Afghans. The rest may go to 9/11 families</a> NPR: When the Taliban took over Afghanistan last month, the U.S. treasury department froze $7 billion in Afghan government funds. Now, the Biden administration has decided what it will do the money. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204887/gov-desantis-may-stop-florida-migrant-shelters-from-caring-for-unaccompanied-kid">Gov. DeSantis may stop Florida migrant shelters from caring for unaccompanied kids</a> NPR: Gov. Ron DeSantis is threatening to stop migrant shelters in Florida from caring for unaccompanied children. That's dividing Cuban-Americans in a state with a long history of welcoming children. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
@@ -299,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
- <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079868736/gary-chambers-burns-confederate-flag-campaign-ad">La. Senate candidate Gary Chambers burns a Confederate flag in his new campaign ad</a> NPR: The Democratic U.S. Senate candidate from Louisiana made headlines last month by smoking marijuana in a campaign ad. Now he's back with another lighter and a message about gerrymandering. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
