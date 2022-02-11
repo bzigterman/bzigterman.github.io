@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
+ <p class="updated_time"> 11:24 AM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Ontario Premier Declares a State of Emergency as Authorities Brace for More Protests</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of the demonstrations, which have partly shut down a major trade route between the United States and Canada. 
  <p class="updated_time"> 11:21 AM CT, Feb. 11 </p> 
@@ -36,14 +40,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: The order is aimed at allowing some $3.5 billion to freed up for humanitarian relief in Afghanistan. 
  <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government declared koalas endangered in certain regions, citing the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% between 2018 and 2021. 
- <p class="updated_time"> 09:57 AM CT, Feb. 11 </p> 
+ <p class="updated_time"> 09:58 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
  <p class="updated_time"> 09:46 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60351455?at_medium=RSS&at_campaign=KARANGA">3,000 NYC staff face lost jobs over vaccine rules</a> BBC: New York City announced its vaccine mandate last year, and the new mayor has said it stays. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
- <p class="updated_time"> 09:32 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
  <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Are Holding 2 Westerners Working for U.N., Agency Says</a> NYT: The two former journalists and their Afghan colleagues were detained in the Afghan capital in recent days. The Taliban have not confirmed or explained. 
  <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
@@ -102,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60343167?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics 2022: An exclusive look into the Games as a spectator</a> BBC: The BBC's Stephen McDonell is one of few that have been able to watch the Games live from the stands. 
  <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
- <p class="updated_time"> 09:26 PM CT, Feb. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60342801?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer admits child sex abuse</a> BBC: Jerry Harris tried to entice underage boys into sex and to send him sexually explicit images. 
  <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 08:49 PM CT, Feb. 10 </p> 
