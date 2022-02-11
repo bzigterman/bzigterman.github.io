@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
+ <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
+ <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
+ <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
+ <p class="updated_time"> 02:23 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
  <p class="updated_time"> 02:20 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: A host of countries advise their nationals to leave after the US warns Russia might invade. 
- <p class="updated_time"> 02:18 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
- <p class="updated_time"> 01:58 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
  <p class="updated_time"> 01:55 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">Russia-Backed Separatists Conduct Military Exercises, Ukraine Warns</a> NYT: The warning was the latest evidence of a shift by officials in the government of President Volodymyr Zelensky toward a more alarming analysis. 
- <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 01:42 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/monoclonal-antibody-treatment-emergency-authorization.html">F.D.A. Authorizes Monoclonal Antibody Drug With Promise Against Omicron</a> NYT: The federal government has ordered 600,000 doses of the treatment, which is meant for high-risk Covid patients early in their illness. 
  <p class="updated_time"> 01:42 PM CT, Feb. 11 </p> 
@@ -36,12 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
  <p class="updated_time"> 12:39 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 12:32 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
  <p class="updated_time"> 12:26 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
- <p class="updated_time"> 12:24 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
  <p class="updated_time"> 11:51 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60290955?at_medium=RSS&at_campaign=KARANGA">The family that froze to death a world away from home</a> BBC: The Patels seemed to have a stable life in India. Why did they die in a field on the US-Canada border? 
  <p class="updated_time"> 11:38 AM CT, Feb. 11 </p> 
@@ -68,10 +68,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60351455?at_medium=RSS&at_campaign=KARANGA">3,000 NYC staff face lost jobs over vaccine rules</a> BBC: New York City announced its vaccine mandate last year, and the new mayor has said it stays. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
+ <p class="updated_time"> 09:27 AM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
  <p class="updated_time"> 09:17 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
- <p class="updated_time"> 09:09 AM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
  <p class="updated_time"> 08:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60344484?at_medium=RSS&at_campaign=KARANGA">China claims arrests of human traffickers in chained woman case</a> BBC: Officials say they have arrested two people in connection with the case that caused massive outrage. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60326279?at_medium=RSS&at_campaign=KARANGA">Benin bronzes: ‘Africa wants to speak for itself’</a> BBC: The upcoming British Punitive Expedition anniversary has reignited calls for the return of stolen treasures. 
  <p class="updated_time"> 03:29 PM CT, Feb. 09 </p> 
  <a href="https://www.nytimes.com/2022/02/09/science/volcano-lava-eruption-pictures.html">This Galápagos Volcano Produced a ‘Mesmerizing’ River of Fire</a> NYT: When Wolf Volcano erupted last month in a remote corner of Ecuador, its lava trail extended for miles in an orange line so bright that it was visible from space. 
- <p class="updated_time"> 03:10 PM CT, Feb. 09 </p> 
- <a href="https://www.nytimes.com/2022/02/09/world/africa/uganda-congo-reparations.html">Court Orders Uganda to Pay $325 Million in Reparations to Congo</a> NYT: The International Court of Justice awarded the sum over Uganda’s role in conflicts in the Democratic Republic of Congo. 
 
 
 </details>
@@ -241,8 +239,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
- <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/electric-vehicle-chargers-biden.html">Biden Administration Outlines Plan to Build More E.V. Chargers</a> NYT: Using $5 billion that Congress allocated last year, the Biden administration would require states to install high-voltage chargers along interstate highways. 
  <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
@@ -295,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
- <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/senate-bill-metoo-mandatory-arbitration-00007803">Senate clears #MeToo bill banning mandatory arbitration</a> Politico: “If you can ever say that legislation is long overdue, this is it,” Senate Majority Leader Chuck Schumer said. 
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 11:50 AM CT, Feb. 10 </p> 
