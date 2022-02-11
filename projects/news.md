@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 07:22 AM CT, Feb. 11 </p> 
@@ -88,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60325070?at_medium=RSS&at_campaign=KARANGA">Inventing Anna: The Netflix show versus reality</a> BBC: A new TV series tells the story of 'fake heiress' Anna Sorokin, as the real-life drama continues. 
  <p class="updated_time"> 06:03 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60197858?at_medium=RSS&at_campaign=KARANGA">The engineers battling to stop global warming ruining roads</a> BBC: Climate change is putting roads under stress but research is finding ways to make them more durable. 
- <p class="updated_time"> 05:24 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">Cressida Dick Resigns as London Police Commissioner</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
