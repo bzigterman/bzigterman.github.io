@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:08 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
+ <p class="updated_time"> 03:06 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
+ <p class="updated_time"> 03:01 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
  <p class="updated_time"> 02:54 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: A host of countries advise their nationals to leave after the US warns Russia might invade. 
- <p class="updated_time"> 02:50 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">Live Updates: U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 02:48 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Trudeau Tells Protesters ‘It Is Now Time to Go Home,’ as Ontario Declares State of Emergency</a> NYT: Ontario officials are turning to the courts to help remove protesters and thwart the spread of demonstrations, which have shut down U.S.-Canada border crossings and upended the auto industry. 
  <p class="updated_time"> 02:42 PM CT, Feb. 11 </p> 
@@ -20,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
  <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
- <p class="updated_time"> 02:23 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60352980?at_medium=RSS&at_campaign=KARANGA">Trucker protests: Ontario calls state of emergency</a> BBC: Demonstrations continue to shut down parts of Ottawa as well as vital border crossings. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
  <p class="updated_time"> 01:55 PM CT, Feb. 11 </p> 
@@ -31,7 +33,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:42 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354808?at_medium=RSS&at_campaign=KARANGA">Macron calls for calm as convoy of protestors nears Paris</a> BBC: The French president admits there is a Covid "fatigue" in the country ahead a banned gathering. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947541/austria-is-the-1st-western-democracy-to-require-vaccines-for-most-adults">Austria is the 1st Western democracy to require vaccines for most adults</a> NPR: Austria has become the first Western democracy to require vaccines for nearly all adults. Everyone who isn't exempt will be required to show proof of vaccination during random checks by the police. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
- <p class="updated_time"> 02:46 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 03:01 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/fda-delays-kid-vaccine-meeting-pfizer-more-data-00008261">FDA delays meeting on kid vaccines as Pfizer promises more data</a> Politico: The companies have been testing a third shot after announcing in December that trial data showed two doses produced an insufficient immune response in toddlers. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
@@ -202,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Jury hears closing arguments in case over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
  <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
  <p class="updated_time"> 12:16 PM CT, Feb. 11 </p> 
@@ -255,8 +257,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/sarah-palin-nyt-libel-case.html">Sarah Palin Testifies in New York Times Libel Trial</a> NYT: The former governor of Alaska claims that The Times acted recklessly in writing and publishing an editorial in 2017 that incorrectly linked a mass shooting in Arizona to her political rhetoric. 
- <p class="updated_time"> 05:59 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/russian-naval-buildup-ukraine-cold-war-levels-00007986">‘Dangerous moment’: Russian naval buildup near Ukraine hits Cold War levels</a> Politico: While the world watches Russia's tanks and troops, a quiet and remarkable flotilla is growing. 
  <p class="updated_time"> 05:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-supreme-court.html">Biden Predicts His Supreme Court Nominee Will Get G.O.P. Support</a> NYT: The president has said that he wants the advice and consent of the Senate as he deliberates, despite the reality that his nominee may draw few votes from the other side of the aisle. 
  <p class="updated_time"> 05:50 PM CT, Feb. 10 </p> 
@@ -343,6 +343,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
+ <p class="updated_time"> 12:54 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/couple-arrested-launder-billion-crypto-2016-bitfinex-hack-00006715">Couple charged with money laundering tied to 2016 $4.5B crypto hack</a> Politico: “Criminals always leave tracks,” FBI Deputy Director Paul M. Abbate said in a statement. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
@@ -361,6 +363,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 04:07 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
@@ -387,8 +391,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
  <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
- <p class="updated_time"> 03:00 PM CT, Feb. 04 </p> 
- <a href="https://www.politico.com/news/2022/02/04/gop-censures-cheney-kinzinger-moves-to-pull-out-of-debates-00005850">GOP censures Cheney, Kinzinger, moves to pull out of debates</a> Politico: The censure resolution calls on the party to no longer support Cheney and Kinzinger as Republicans. 
 
 
 </details>
