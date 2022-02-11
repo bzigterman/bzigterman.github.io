@@ -39,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:04 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December.  It's unclear why she was cleared to compete in Beijing. 
+ <a href="https://www.npr.org/2022/02/10/1080036363/star-russian-skater-tested-positive-for-a-banned-substance-before-beijing-olympi">Star Russian skater tested positive for a banned substance before Beijing Olympics</a> NPR: Officials with the International Testing Agency say 15-year-old Kamila Valieva tested positive for a banned heart medication in December. It's unclear why she was cleared to compete in Beijing. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 10:04 PM CT, Feb. 10 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/politicians-died-their-pacs-are-still-living-00008102">These politicians died — but their political action committees are still living</a> Politico: There are few rules that govern how a dead politician’s political committees spend its money. 
  <p class="updated_time"> 04:09 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080049326/top-secret-documents-are-recovered-from-trumps-mar-a-lago-residence">'Top secret' documents are recovered from Trump's Mar-a-Lago residence</a> NPR: The Washington Post reports some documents recovered from Donald Trump's residence were marked top secret. NPR's Leila Fadel asks ex-federal prosecutor Brandon Van Grack about any legal ramifications. 
  <p class="updated_time"> 03:46 AM CT, Feb. 11 </p> 
@@ -209,8 +211,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:00 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund humanitarian relief in Afghanistan and compensate victims of the Sept. 11, 2001, attacks. 
- <p class="updated_time"> 11:56 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/canada-trucker-blockade-road-map-out-00007997">How does Canada end the truckers' mess?</a> Politico: Prime Minister Justin Trudeau is under pressure to end the blockades. Security experts have two very different ideas of how to get rid of the protesters. 
  <p class="updated_time"> 11:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html">New York Times May Publish Documents About Project Veritas, Court Says</a> NYT: A state appeals court said a judge’s order preventing publication of the documents would not be enforced until a formal appeal could be heard. 
  <p class="updated_time"> 10:39 PM CT, Feb. 10 </p> 
@@ -255,28 +255,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html">How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide</a> NYT: Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters. 
  <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
- <p class="updated_time"> 03:34 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/gina-mccarthy-touts-biden-climate-progress-00007913">Gina McCarthy pledges to run 'faster and faster' to address climate change</a> Politico: “We all understand that we have to do as much as humanly possible as quickly as we possibly can," McCarthy said at a POLITICO event. 
  <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947577/former-alaska-governor-sarah-palin-got-her-day-in-court-in-new-york-times-lawsui">Former Alaska Governor Sarah Palin got her day in court in 'New York Times' lawsuit</a> NPR: Former Alaska Gov. Sarah Palin testified about the editorial that wrongly linked her political action committee's ad to a mass shooting. The paper's attorneys pressed her on her political rhetoric. 
  <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 03:21 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/senate-bill-forced-arbitration-sexual-harassment-assault.html">Senate Passes Bill to Bar Forced Arbitration in Sexual Misconduct Cases</a> NYT: Senate passage was the latest evidence that Democrats, fresh off a string of legislative failures on their broader domestic agenda, are focusing on narrower measures with bipartisan support. 
- <p class="updated_time"> 03:03 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/schumer-moves-to-limit-debate-on-califf-nomination-00007758">Schumer moves to limit debate on Califf nomination</a> Politico: The Senate is expected to officially vote on his confirmation as early as Tuesday, three people with knowledge of the matter said. 
  <p class="updated_time"> 02:57 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/adams-faith-based-office-00007805">Adams says 'God' told him he'd be mayor</a> Politico: He always believed he would one day lead New York City during his time as a state senator and Brooklyn borough president, Adams recalled. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:32 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/josh-hawley-pentagon-ukraine-russia-00007863">'He's making it worse': Frustrations with Hawley's Pentagon nominee blockade boil over</a> Politico: The Missouri Republican on Thursday blocked the quick confirmation of a Russia expert as Moscow sends troops to Ukraine's border. 
- <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
- <p class="updated_time"> 12:48 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/democrats-ditch-masks-covid-rules-omicron-00007815">Masks off? Democrats try for a pandemic pivot</a> Politico: The party's governors are ditching them. Its swing-state lawmakers are ready to follow. But not everyone agrees, and it may be too little, too late. 
  <p class="updated_time"> 12:35 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079835695/how-trump-sought-to-use-fake-electors-conspiracy-theories-to-remain-in-power">How Trump sought to use fake electors, conspiracy theories to remain in power</a> NPR: New York Times reporter Luke Broadwater says Trump and his allies were fixated on reversing the election: "It seemed like crazy stuff at the time ... but obviously it got extremely serious on Jan. 6." 
  <p class="updated_time"> 12:25 PM CT, Feb. 10 </p> 
@@ -315,6 +307,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1078907026/a-controversial-nonprofit-for-capitol-riot-defendants-makes-changes-after-critic">A controversial nonprofit for Capitol riot defendants makes changes after criticism</a> NPR: The Patriot Freedom Project has raised around $900,000 for people charged in the Capitol riot. After NPR reported that charity experts saw "red flags" with the group, they announced changes. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Dems face a sobering possibility: Build Back ... never</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
@@ -341,6 +335,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
+ <a href="https://www.politico.com/news/2022/02/09/china-step-up-climate-00004593">World to China: Time to step up on climate</a> Politico: Global poll shows strong consensus that Beijing needs to stop acting like a developing nation. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
@@ -351,6 +347,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
