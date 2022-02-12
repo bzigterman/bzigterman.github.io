@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders Many of Its Diplomats to Leave Ukraine</a> NYT: The leaders are expected to speak by telephone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is scheduled to talk with his counterpart, Sergey V. Lavrov. 
+ <p class="updated_time"> 06:19 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1079202082/crimea-border-ukraine-russia-ukrainian-identity">On the Crimean borderland, Ukrainians define their identity </a> NPR: In the borderlands near Crimea, there is a war for the hearts and minds of Ukrainian citizens. 
  <p class="updated_time"> 05:32 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60359869?at_medium=RSS&at_campaign=KARANGA">US to re-open Solomon Islands embassy in push against China</a> BBC: The decision to re-establish a diplomatic outpost follows China's increased presence in the region. 
  <p class="updated_time"> 05:28 AM CT, Feb. 12 </p> 
@@ -21,9 +23,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:21 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">"They've ruined it for all of us." Former Olympic figure skater says of Russia doping</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
+ <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">'They've ruined it for all of us,' former Olympic figure skater says of Russia doping</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
  <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
+ <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:45 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
@@ -77,7 +81,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:04 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 04:47 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080252086/canadian-judge-orders-an-end-to-the-blockade-at-a-u-s-canada-border-bridge">Canadian judge orders an end to the blockade at a U.S.-Canada border bridge</a> NPR: A judge said the order would be effective at 7 p.m. to give protesters time to leave. Police immediately warned that demonstrators could be subject to arrest and their vehicles may be seized. 
+ <a href="https://www.npr.org/2022/02/11/1080252086/canada-protests-ambassador-bridge-convoy">A judge ordered protesters to leave the Ambassador Bridge. More joined the blockade</a> NPR: The demonstration at the U.S.-Canada border crossing has disrupted the flow of goods between the two countries and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
@@ -134,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60351395?at_medium=RSS&at_campaign=KARANGA">Italy's Mt Etna volcano erupts for first time this year</a> BBC: Sicily's Mount Etna lights up the night sky in first eruption of 2022, billowing smoke and ash. 
  <p class="updated_time"> 07:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60347062?at_medium=RSS&at_campaign=KARANGA">Kanye wants Billie Eilish to say sorry or he'll pull out of Coachella</a> BBC: The rapper wants her to apologise for crowd safety comments he thinks are aimed at Travis Scott. 
- <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/china-tries-to-dial-back-its-high-abortion-rate-11644597797">China Tries to Dial Back Its High Abortion Rate</a> WSJ: China is stepping up efforts to reduce abortions in young women, signaling a shift in attitude toward a widely used procedure that has long been part of state-directed family planning. 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
- <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
@@ -191,6 +191,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems hold out as party begins to ditch masks</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
+ <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080267772/pence-steps-out-of-trumps-shadow-raising-new-questions-about-his-political-futur">Pence steps out of Trump's shadow, raising new questions about his political future</a> NPR: In response to former President Donald Trump's claims that Mike Pence could have overturned the 2020 election, the former vice president spoke out in his strongest remarks yet. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
@@ -239,14 +249,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/white-house-warns-russian-invasion-threat-is-immediate-00008299">White House warns Russian invasion ‘threat is immediate’</a> Politico: National security adviser Jake Sullivan urged Americans still in Ukraine to depart the country within the next 24 to 48 hours. 
- <p class="updated_time"> 02:00 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/what-u-s-truckers-really-want-a-place-to-sleep-00008188">American truckers distance from Canada protests</a> Politico: The Canadian truck protests started over vaccine mandates. But the trucking industry in the U.S. is more concerned about things like where to park their rigs. 
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Manhattan jury begins deliberations in suit over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
- <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Spurning Demand by the Taliban, Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
@@ -265,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
- <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/politicians-died-their-pacs-are-still-living-00008102">Inside the totally legal, fairly macabre, classically political world of the true Zombie PACs</a> Politico: There are few rules that govern how a dead politician’s political committees spend its money. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/gallery/2022/02/11/the-nations-cartoonists-on-the-week-in-politics-00007915">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
@@ -297,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
  <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
  <a href="https://www.npr.org/2022/02/10/1079947577/former-alaska-governor-sarah-palin-got-her-day-in-court-in-new-york-times-lawsui">Former Alaska Governor Sarah Palin got her day in court in 'New York Times' lawsuit</a> NPR: Former Alaska Gov. Sarah Palin testified about the editorial that wrongly linked her political action committee's ad to a mass shooting. The paper's attorneys pressed her on her political rhetoric. 
- <p class="updated_time"> 03:22 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947520/americas-lead-negotiator-says-u-s-diplomacy-strategy-is-working-with-russia">America's lead negotiator says U.S. diplomacy strategy is working with Russia</a> NPR: NPR's Adrian Florido talks with Deputy Secretary of State Wendy Sherman on the tense standoff between Russia and the U.S. and its allies over the Russian military buildup on the border with Ukraine. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
@@ -365,6 +367,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 04:07 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
