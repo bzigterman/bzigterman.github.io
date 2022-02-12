@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 01:44 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 01:33 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
- <p class="updated_time"> 01:31 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 01:25 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
  <p class="updated_time"> 01:19 PM CT, Feb. 12 </p> 
@@ -31,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080205477/ukraine-history-russia">Understanding how Ukraine got here: A timeline of its history through today</a> NPR: In the three decades since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
+ <a href="https://www.npr.org/2022/02/12/1080205477/ukraine-history-russia">3 decades of turmoil bring Ukraine to perhaps its greatest crisis</a> NPR: Since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
  <p class="updated_time"> 10:18 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
@@ -43,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 07:59 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: Two leaders’ phone discussion yields “no fundamental change,” U.S. official says, as both U.S. and Russia pull diplomatic staff out of Ukraine. 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: Two leaders’ phone discussion yields “no fundamental change,” a U.S. official says, as both U.S. and Russia pull diplomatic staff out of Ukraine. 
  <p class="updated_time"> 07:29 AM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Protesters on Crucial Bridge to U.S.</a> WSJ: Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have mostly blocked traffic since Monday on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
