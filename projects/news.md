@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:52 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 07:33 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
@@ -190,7 +190,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, Americans are encouraged to flee the country. 
+ <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
@@ -310,9 +310,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:13 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/washington-lobbying-taliban-telecommunications-00007537">Top D.C. lobbying firm reps company alleged by former employees to have paid off Taliban </a> Politico: S-3 Group has signed up the U.S. holding company of a top Afghan telecom provider. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are sending an unexpected bipartisan win to the president's desk. 
- <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Democrats' social spending dreams stuck in winter purgatory</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
