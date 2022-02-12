@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 09:18 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Court’s Order to Clear Key Bridge at Border Takes Effect</a> NYT: The injunction was part of a flurry of legal activity as Canadian officials struggled to contain the protests. “It’s not going to end with them breaking up this one crowd,’’ a demonstrator said. 
  <p class="updated_time"> 08:41 PM CT, Feb. 11 </p> 
@@ -54,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080252086/canadian-judge-orders-an-end-to-the-blockade-at-a-u-s-canada-border-bridge">Canadian judge orders an end to the blockade at a U.S.-Canada border bridge</a> NPR: A judge said the order would be effective at 7 p.m. to give protesters time to leave. Police immediately warned that demonstrators could be subject to arrest and their vehicles may be seized. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
- <p class="updated_time"> 03:56 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
@@ -77,7 +77,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:42 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354808?at_medium=RSS&at_campaign=KARANGA">Macron calls for calm as convoy of protestors nears Paris</a> BBC: The French president admits there is a Covid "fatigue" in the country ahead a banned gathering. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an attack is coming. 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
@@ -236,7 +236,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Manhattan jury begins deliberations in suit over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: White House national security adviser Jake Sullivan said on Friday that a Russian military invasion could begin at any time, though he added: "We are not saying that a decision has been taken." 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an attack is coming. 
  <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
