@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
+ <p class="updated_time"> 04:29 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">News Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
+ <p class="updated_time"> 04:27 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
+ <p class="updated_time"> 04:15 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
+ <p class="updated_time"> 03:55 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
- <p class="updated_time"> 03:46 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">News Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
- <p class="updated_time"> 03:43 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 03:11 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
- <p class="updated_time"> 02:54 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 02:27 PM CT, Feb. 12 </p> 
@@ -36,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60349040?at_medium=RSS&at_campaign=KARANGA">Chagos islanders in emotional, historic trip home</a> BBC: Andrew Harding boards a boat of Chagossians returning to the island the UK refuses to return to Mauritius. 
  <p class="updated_time"> 11:19 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
+ <p class="updated_time"> 11:11 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: The phone discussion between President Biden and Russian President Vladimir Putin yielded “no fundamental change,” a U.S. official said. Washington ordered most embassy staff out of the country and Moscow also began withdrawing its diplomatic presence there. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
@@ -46,12 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
- <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: The two leaders spoke by phone for roughly an hour after the State Department ordered most of its embassy staff in Kyiv to leave. U.S. officials are concerned a Russian invasion is imminent. 
- <p class="updated_time"> 09:12 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: The phone discussion between President Biden and Russian President Vladimir Putin yielded “no fundamental change,” a U.S. official said. Washington ordered most embassy staff out of the country and Moscow also began withdrawing its diplomatic presence there. 
  <p class="updated_time"> 09:02 AM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
@@ -128,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
  <p class="updated_time"> 05:04 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
- <p class="updated_time"> 04:47 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080252086/canada-protests-ambassador-bridge-convoy">A judge ordered protesters to leave the Ambassador Bridge. More joined the blockade</a> NPR: The demonstration at the U.S.-Canada border crossing has disrupted the flow of goods between the two countries and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080420118/biden-warns-putin-of-decisive-response-if-russia-invades-ukraine">Biden warns Putin of 'decisive' response if Russia invades Ukraine</a> NPR: President Biden spoke with Russian President Vladimir Putin on Saturday, and the U.S. ordered its diplomats and troops out of Ukraine. 
  <p class="updated_time"> 01:51 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 12:49 PM CT, Feb. 12 </p> 
@@ -202,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 09:58 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada border blockade clearing peacefully as police move in</a> Politico: Many demonstrators drove away from the Ambassador Bridge spanning the river between Detroit and Windsor, Ontario, as scores of police approached shortly after dawn. 
+ <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada border blockade eases, protesters still block bridge</a> Politico: While there were no visible physical confrontations, the crowd still controlled the road to the bridge and traffic had not resumed by late afternoon. 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
@@ -289,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems' latest challenge: Draining the Hill's swamp (at least a little)</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 04:09 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080049326/top-secret-documents-are-recovered-from-trumps-mar-a-lago-residence">'Top Secret' documents are recovered from Trump's Mar-a-Lago residence</a> NPR: The Washington Post reports some documents recovered from Donald Trump's residence were marked top secret. NPR's Leila Fadel asks ex-federal prosecutor Brandon Van Grack about any legal ramifications. 
- <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
