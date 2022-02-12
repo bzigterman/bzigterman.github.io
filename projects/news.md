@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:37 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Court’s Order to Clear Key Bridge at Border Takes Effect</a> NYT: The injunction was part of a flurry of legal activity as Canadian officials struggled to contain the protests. “It’s not going to end with them breaking up this one crowd,’’ a demonstrator said. 
+ <p class="updated_time"> 10:54 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Despite Court Order, Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned late Friday night, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 10:35 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 10:03 PM CT, Feb. 11 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:49 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/ukraine-embassy-evacutation-amid-russian-invasion-fears-00008426">U.S. to evacuate Ukraine embassy amid Russian invasion fears</a> Politico: U.S. officials say the State Department plans to announce early Saturday that all American staff at the Kyiv embassy will be required to leave. 
  <p class="updated_time"> 09:20 PM CT, Feb. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
@@ -361,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
- <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 04:07 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
