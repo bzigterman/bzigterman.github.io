@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada court orders end to trucks' bridge blockade</a> BBC: But crowds of protesters are flouting the injunction and continue to occupy a vital border crossing. 
+ <p class="updated_time"> 11:56 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 11:55 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/12/1080321427/u-s-snowboarders-lindsey-jacobellis-and-nick-baumgartner-make-history-in-beijing">U.S. snowboarders Lindsey Jacobellis and Nick Baumgartner make history in Beijing</a> NPR: At their ages, Jacobellis' and Baumgartner's win over Italy and Canada during the first-ever Olympic mixed team snowboard cross events broke multiple records. 
  <p class="updated_time"> 11:49 PM CT, Feb. 11 </p> 
@@ -24,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 08:41 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
- <p class="updated_time"> 08:39 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada court orders end to trucks' bridge blockade</a> BBC: The injunction comes as Prime Minister Justin Trudeau warns of "severe" consequences for the protesters. 
  <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 07:22 PM CT, Feb. 11 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60341676?at_medium=RSS&at_campaign=KARANGA">Nato and its role in the Ukraine crisis</a> BBC: The role of Nato is crucial in our understanding of Russia's troop build-up and the West's reaction to it. 
  <p class="updated_time"> 05:52 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
- <p class="updated_time"> 05:31 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: The White House says Moscow now has the troops in place to invade Ukraine "at any time". 
  <p class="updated_time"> 05:04 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 04:47 PM CT, Feb. 11 </p> 
