@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:21 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 03:28 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Warns Russia Is Ready to Attack Ukraine</a> NYT: The leaders are expected to speak by phone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is also scheduled to talk with his counterpart, Sergey V. Lavrov. 
+ <p class="updated_time"> 03:28 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
+ <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
- <p class="updated_time"> 03:17 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
  <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
@@ -82,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204840/russian-figure-skater-was-allowed-to-compete-in-the-olympics-despite-failed-drug">Russian figure skater was allowed to compete in the Olympics despite failed drug test</a> NPR: A top Russian figure skater was allowed to compete despite testing positive for a banned substance before the Games. Kamila Valieva, age 15, helped Russia win the team event earlier this week. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204824/americans-living-in-ukraine-question-president-bidens-warning-to-leave-immediate">Americans living in Ukraine question President Biden's warning to leave immediately</a> NPR: President Biden has called on Americans in Ukraine to leave at once. But Americans there are questioning the urgency. 
- <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
  <p class="updated_time"> 01:42 PM CT, Feb. 11 </p> 
