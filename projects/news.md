@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:13 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders spoke by telephone on Saturday. The U.S. began a drawdown of its embassy in Kyiv, and the State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 11:12 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 11:27 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin Speak for One Hour; U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders spoke by telephone on Saturday, but details were not yet available. The State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 11:19 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
+ <p class="updated_time"> 11:16 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
@@ -40,8 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080354203/people-in-france-are-blocking-traffic-in-big-cities-to-protest-covid-19-mandates">People in France are blocking traffic in big cities to protest COVID-19 mandates</a> NPR: An anti-vaccine convoy that started three weeks ago in Canada has struck a nerve in Europe, where organizers are planning similar protests against COVID-19 regulations. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
- <p class="updated_time"> 06:04 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: President Biden and Russian leader Vladimir Putin began a planned telephone call, the White House said, a last-ditch attempt at diplomacy as the U.S. steps up warnings of a Russian invasion of Ukraine. 
+ <p class="updated_time"> 06:18 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: President Biden and his Russian counterpart Vladimir Putin spoke on the phone for just over an hour in a last-ditch diplomatic effort to ward off military conflict. 
  <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1079202082/crimea-border-ukraine-russia-ukrainian-identity">On the Crimean borderland, Ukrainians define their identity </a> NPR: In the borderlands near Crimea, there is a war for the hearts and minds of Ukrainian citizens. 
  <p class="updated_time"> 05:32 AM CT, Feb. 12 </p> 
