@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:38 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
- <p class="updated_time"> 10:36 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders spoke by telephone on Saturday. The U.S. began a drawdown of its embassy in Kyiv, and the State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 10:49 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 10:35 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">As Violence Rises in the West Bank, Settler Attacks Raise Alarm</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
- <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign, backed by Britain, to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">U.S. troops leave Ukraine and embassy cuts staff as fears grow of a Russian attack</a> NPR: The State Department warns Americans that it's "past time" to leave Ukraine. Most embassy staff have been ordered to depart. And 160 National Guard members will move elsewhere in Europe. 
  <p class="updated_time"> 08:53 AM CT, Feb. 12 </p> 
@@ -42,6 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
  <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1079202082/crimea-border-ukraine-russia-ukrainian-identity">On the Crimean borderland, Ukrainians define their identity </a> NPR: In the borderlands near Crimea, there is a war for the hearts and minds of Ukrainian citizens. 
+ <p class="updated_time"> 05:39 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: The developments further ratcheted tensions after Washington warned that Russia could launch a massive military operation against Ukraine, with tens of thousands of casualties, in the coming days. 
  <p class="updated_time"> 05:32 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60359869?at_medium=RSS&at_campaign=KARANGA">US to re-open Solomon Islands embassy in push against China</a> BBC: The decision to re-establish a diplomatic outpost follows China's increased presence in the region. 
  <p class="updated_time"> 05:28 AM CT, Feb. 12 </p> 
@@ -58,9 +60,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
- <p class="updated_time"> 03:55 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: The U.S. suspended consular services in the Ukrainian capital and ordered most embassy staff to depart after warning that a Russian military invasion could happen at any moment. 
- <p class="updated_time"> 03:45 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
@@ -160,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
  <p class="updated_time"> 01:21 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
- <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
@@ -193,10 +191,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">As Biden and Putin speak, Ukraine invasion threat ratchets up</a> Politico: Amid a flurry of diplomacy and evacuations, the U.S. and U.K. are ending their Ukraine military training missions. 
+ <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 09:58 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada police arrive to remove protesters at U.S. border</a> Politico: But three large trucks and about 20 protesters remained blocking traffic early Saturday and they began singing Canada’s national anthem. 
- <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign, backed by Britain, to complicate what officials say are Russia’s plans to invade Ukraine. 
+ <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada border blockade clearing peacefully as police move in</a> Politico: Many demonstrators drove away from the Ambassador Bridge spanning the river between Detroit and Windsor, Ontario, as scores of police approached shortly after dawn. 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
