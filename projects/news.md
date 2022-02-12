@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:29 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 03:41 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
