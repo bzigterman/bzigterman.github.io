@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 01:31 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 01:25 PM CT, Feb. 12 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
  <p class="updated_time"> 01:19 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
- <p class="updated_time"> 12:46 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
