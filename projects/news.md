@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:31 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 02:46 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080330180/how-did-the-anti-doping-system-for-the-beijing-olympics-break-down-so-badly">How did the anti-doping system for the Beijing Olympics break down so badly?</a> NPR: Star Russian figure skater Kamila Valieva submitted a doping sample December 25th. It showed she used a banned substance, but the results weren't revealed until after she competed in Beijing. 
+ <p class="updated_time"> 02:44 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 02:31 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
  <p class="updated_time"> 02:35 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080034274/mikaela-shiffrin-places-ninth-beijing-2022-olympics">With a 9th place finish in Beijing, Mikaela Shiffrin shows signs of bouncing back</a> NPR: "Coming back out and getting the chance to race again was just the perfect thing to do, actually," Shiffrin said. She had failed to finish qualifying runs in two events earlier this week. 
- <p class="updated_time"> 02:15 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080047523/sudans-military-rulers-step-up-crackdown-and-arrests-of-activists">Sudan's military rulers step up crackdown and arrests of activists</a> NPR: Hundreds of activists and protest leaders have been targeted since a military coup last October removed a transitional government from power. The detentions have intensified in recent weeks. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
