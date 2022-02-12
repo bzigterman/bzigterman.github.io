@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 01:31 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 01:25 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
- <p class="updated_time"> 01:20 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 01:19 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 12:46 PM CT, Feb. 12 </p> 
@@ -64,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080338798/older-athletes-break-records-at-the-2022-beijing-olympics">'Never too late': Older athletes are breaking records at the 2022 Beijing Olympics</a> NPR: NPR found at least 140 athletes listed as competing in this Winter Games that are over the age of 35, according to the Olympic Studies Center. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/pay-or-burn-an-italian-mafias-message-to-businesses-11644681601">Pay or Burn: An Italian Mafia's Message to Businesses</a> WSJ: A southern Italian province thought it had the local mafia on the run. Now the mob is fighting back, with a wave of arson and bomb attacks. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
