@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:21 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Warns Russia Is Ready to Attack Ukraine</a> NYT: The leaders are expected to speak by phone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is also scheduled to talk with his counterpart, Sergey V. Lavrov. 
+ <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
+ <p class="updated_time"> 03:17 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
  <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
- <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 02:46 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080330180/how-did-the-anti-doping-system-for-the-beijing-olympics-break-down-so-badly">How did the anti-doping system for the Beijing Olympics break down so badly?</a> NPR: Star Russian figure skater Kamila Valieva submitted a doping sample December 25th. It showed she used a banned substance, but the results weren't revealed until after she competed in Beijing. 
- <p class="updated_time"> 02:31 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 02:29 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 12:10 AM CT, Feb. 12 </p> 
@@ -68,8 +70,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080252086/canadian-judge-orders-an-end-to-the-blockade-at-a-u-s-canada-border-bridge">Canadian judge orders an end to the blockade at a U.S.-Canada border bridge</a> NPR: A judge said the order would be effective at 7 p.m. to give protesters time to leave. Police immediately warned that demonstrators could be subject to arrest and their vehicles may be seized. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
- <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
  <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
@@ -148,6 +148,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html">With Buildup on Land and Sea, Russia Closes in on Ukraine</a> NYT: Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble. 
  <p class="updated_time"> 10:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
+ <p class="updated_time"> 09:58 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/tonga-aid-tsunami-volcano.html">Tonga Is Receiving 'Contactless' Aid. There are Pros and Cons.</a> NYT: Covid-era travel restrictions have mostly prevented expatriate aid workers from flying into Pacific island nations after natural disasters. The results are mixed. 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
  <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
  <p class="updated_time"> 09:27 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/philippines-reopens-tourists.html">The Philippines Reopens to International Tourists</a> NYT: The Southeast Asian nation had closed its borders to most visitors for nearly two years. 
- <p class="updated_time"> 09:17 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html">In India, a Bellwether for Narendra Modi as Voters Head to Polls</a> NYT: While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects. 
  <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
@@ -200,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">In Reversal, F.D.A. Delays Push for Shots for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
@@ -214,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:53 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/congress-aides-unionize-house.html">On Capitol Hill, a Push to Unionize House Aides Gains Traction</a> NYT: Democrats have signed on to a resolution that would for the first time give House aides the same organizing protections other federal government employees enjoy. 
  <p class="updated_time"> 04:51 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Monoclonal Antibody Drug From Eli Lilly</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Covid Drug From Eli Lilly That Shows Promise Against Omicron</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
  <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 03:45 PM CT, Feb. 11 </p> 
@@ -275,12 +275,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
- <p class="updated_time"> 06:47 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Trump’s Missing Call Logs Present a Challenge for Jan. 6 Investigators</a> NYT: Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
  <p class="updated_time"> 05:52 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-supreme-court.html">Biden Predicts His Supreme Court Nominee Will Get G.O.P. Support</a> NYT: The president has said that he wants the advice and consent of the Senate as he deliberates, despite the reality that his nominee may draw few votes from the other side of the aisle. 
  <p class="updated_time"> 05:50 PM CT, Feb. 10 </p> 
