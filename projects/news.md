@@ -8,7 +8,17 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:42 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354252/tropical-philippines-has-only-one-entrant-in-the-winter-olympics">Tropical Philippines has only one entrant in the Winter Olympics </a> NPR: The Philippines has only one entrant in the Beijing Olympics: Asa Miller, who will take part in the men's giant slalom Sunday. But there's growing interest in winter sports in the tropical country. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354231/is-russia-actually-planning-to-invade-ukraine">Is Russia actually planning to invade Ukraine?</a> NPR: Scott Simon talks to political scientist Harun Yilmaz, who argues that Russia will gain less by actually invading Ukraine than by threatening to do so. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354224/national-security-adviser-jake-sullivan-told-u-s-staffers-in-ukraine-to-get-out-">National security adviser Jake Sullivan told U.S. staffers in Ukraine to get out now</a> NPR: A senior U.S. military official gave additional details in a background briefing Friday on the intelligence that led the U.S. to warn that Russia could invade Ukraine in the coming days. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354203/people-in-france-are-blocking-traffic-in-big-cities-to-protest-covid-19-mandates">People in France are blocking traffic in big cities to protest COVID-19 mandates</a> NPR: An anti-vaccine convoy that started three weeks ago in Canada has struck a nerve in Europe, where organizers are planning similar protests against COVID-19 regulations. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
+ <p class="updated_time"> 06:56 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 06:30 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
@@ -23,7 +33,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:23 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">'They've ruined it for all of us,' former Olympic figure skater says of Russia doping</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
+ <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">'They've ruined it for all of us,' ex-Olympic skater says of Russia doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
  <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
@@ -94,14 +104,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204840/russian-figure-skater-was-allowed-to-compete-in-the-olympics-despite-failed-drug">Russian figure skater was allowed to compete in the Olympics despite failed drug test</a> NPR: A top Russian figure skater was allowed to compete despite testing positive for a banned substance before the Games. Kamila Valieva, age 15, helped Russia win the team event earlier this week. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204824/americans-living-in-ukraine-question-president-bidens-warning-to-leave-immediate">Americans living in Ukraine question President Biden's warning to leave immediately</a> NPR: President Biden has called on Americans in Ukraine to leave at once. But Americans there are questioning the urgency. 
  <p class="updated_time"> 02:09 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60354950?at_medium=RSS&at_campaign=KARANGA">US father and son 'chased and shot' black FedEx driver</a> BBC: The FedEx driver is seeking hate crime charges against two men who shot at him while he was on the job. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
- <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
@@ -118,16 +124,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
- <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
- <p class="updated_time"> 10:33 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080081190/koalas-endangered-australia">Koalas are now officially an endangered species in parts of eastern Australia</a> NPR: Australia's government cited the impacts of drought, bush fires and deforestation. The koala population dropped a reported 30% from 2018 to 2021. 
  <p class="updated_time"> 10:27 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
  <p class="updated_time"> 10:24 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
- <p class="updated_time"> 09:58 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1079827766/drive-my-car-japan-oscar-nominations-hamaguchi-ryusuke-murakami">Japan's Oscar-nominated 'Drive My Car' is a journey through loss, grief and art</a> NPR: Directed by Ryusuke Hamaguchi and adapted from a 2014 short story by Haruki Murakami, the film dramatizes some of the celebrated author's trademark themes: loss, guilt, the interplay of art and life. 
  <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
@@ -195,6 +195,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080354182/week-in-politics-embassy-staff-in-ukraine-evacuate-inflation-hits-40-year-high">Week in politics: Embassy staff in Ukraine evacuate; inflation hits 40-year high</a> NPR: U.S. officials are warning that Russia may attack Ukraine in the coming days, though they say there is still a chance to prevent an invasion. Also, inflation hits a 40-year high. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
@@ -295,10 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/10/1079973484/biden-says-hes-done-a-deep-dive-on-four-supreme-court-candidates">Biden says he's done a 'deep dive' on 4 Supreme Court candidates</a> NPR: President Biden has been spending a lot of time courting senators — from both sides of the aisle — ahead of making his decision on who to nominate for a vacant seat on the Supreme Court. 
  <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
- <p class="updated_time"> 03:35 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947591/congress-wants-to-know-why-white-house-documents-were-moved-to-trumps-residence">Congress wants to know why White House documents were moved to Trump's residence</a> NPR: White House documents were found in former President Trump's Florida residence. They should have been archived with the federal government. Congress wants answers. 
- <p class="updated_time"> 03:28 PM CT, Feb. 10 </p> 
- <a href="https://www.npr.org/2022/02/10/1079947577/former-alaska-governor-sarah-palin-got-her-day-in-court-in-new-york-times-lawsui">Former Alaska Governor Sarah Palin got her day in court in 'New York Times' lawsuit</a> NPR: Former Alaska Gov. Sarah Palin testified about the editorial that wrongly linked her political action committee's ad to a mass shooting. The paper's attorneys pressed her on her political rhetoric. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
@@ -389,8 +389,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
  <p class="updated_time"> 11:02 AM CT, Feb. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/05/rnc-does-trumps-bidding-frustrating-its-members-00005995"> RNC does Trump’s bidding, frustrating its members</a> Politico Playbook: And the U.S. Covid-19 death toll hits 900,000. 
- <p class="updated_time"> 07:00 AM CT, Feb. 05 </p> 
- <a href="https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867">Trump’s ‘circular firing squad’ threatens GOP midterm gains</a> Politico: The former president’s stranglehold on the party is emerging as a serious threat to the GOP’s otherwise bright prospects in November. 
 
 
 </details>
