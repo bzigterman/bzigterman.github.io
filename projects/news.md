@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:23 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 12:29 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: Foreigners from several countries are urged to leave Ukraine over fears of a Russian invasion. 
+ <p class="updated_time"> 12:27 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 12:11 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60349040?at_medium=RSS&at_campaign=KARANGA">Chagos islanders in emotional, historic trip home</a> BBC: Andrew Harding boards a boat of Chagossians returning to the island the UK refuses to return to Mauritius. 
- <p class="updated_time"> 11:34 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens: leave Ukraine now</a> BBC: Foreigners from several countries are urged to leave Ukraine over fears of a Russian invasion. 
  <p class="updated_time"> 11:19 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
@@ -33,11 +33,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">U.S. troops leave Ukraine and embassy cuts staff as fears grow of a Russian attack</a> NPR: The State Department warns Americans that it's "past time" to leave Ukraine. Most embassy staff have been ordered to depart. And 160 National Guard members will move elsewhere in Europe. 
+ <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: President Biden and Russian President Vladimir Putin spoke by phone for roughly an hour on Saturday. Meanwhile, the State Department told Americans that it's "past time" to leave Ukraine. 
  <p class="updated_time"> 08:53 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy enters Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
+ <p class="updated_time"> 07:29 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Protesters on Crucial Bridge to U.S.</a> WSJ: Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have mostly blocked traffic since Monday on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
  <p class="updated_time"> 07:17 AM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: President Biden and his Russian counterpart Vladimir Putin spoke on the phone for just over an hour in a last-ditch diplomatic effort to ward off military conflict. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080338798/older-athletes-break-records-at-the-2022-beijing-olympics">'Never too late': Older athletes are breaking records at the 2022 Beijing Olympics</a> NPR: NPR found at least 140 athletes listed as competing in this Winter Games that are over the age of 35, according to the Olympic Studies Center. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
- <p class="updated_time"> 04:50 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Bridge Protesters Choking Off U.S.-Canada Trade</a> WSJ: Roughly 100 Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have been blocking most traffic on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
