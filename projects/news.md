@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 04:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Warns Russia Is Ready to Attack Ukraine</a> NYT: The leaders are expected to speak by phone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is also scheduled to talk with his counterpart, Sergey V. Lavrov. 
- <p class="updated_time"> 03:50 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 04:40 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
+ <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">"They've ruined it for all of us." Former Olympic figure skater says of Russia doping</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
+ <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 03:45 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 03:39 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 03:28 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
  <p class="updated_time"> 02:41 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
- <p class="updated_time"> 02:35 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080034274/mikaela-shiffrin-places-ninth-beijing-2022-olympics">With a 9th place finish in Beijing, Mikaela Shiffrin shows signs of bouncing back</a> NPR: "Coming back out and getting the chance to race again was just the perfect thing to do, actually," Shiffrin said. She had failed to finish qualifying runs in two events earlier this week. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:00 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
@@ -216,7 +218,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:53 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/congress-aides-unionize-house.html">On Capitol Hill, a Push to Unionize House Aides Gains Traction</a> NYT: Democrats have signed on to a resolution that would for the first time give House aides the same organizing protections other federal government employees enjoy. 
  <p class="updated_time"> 04:51 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Covid Drug From Eli Lilly That Shows Promise Against Omicron</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Monoclonal Antibody Drug From Eli Lilly</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
  <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 03:45 PM CT, Feb. 11 </p> 
@@ -275,8 +277,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
- <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
  <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
@@ -377,6 +377,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 06 </p> 
+ <a href="https://www.nytimes.com/2022/02/06/us/politics/antony-blinken.html">The Crisis That Defined Blinken’s First Year</a> NYT: As the secretary of state enters his second year in office, Russia threatens, China looms and Afghanistan remains a challenge. 
  <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
