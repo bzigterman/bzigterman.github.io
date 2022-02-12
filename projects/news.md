@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:41 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
+ <p class="updated_time"> 03:46 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">News Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
+ <p class="updated_time"> 03:43 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
- <p class="updated_time"> 03:12 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
  <p class="updated_time"> 03:11 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 02:54 PM CT, Feb. 12 </p> 
@@ -106,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/the-fda-delays-action-on-covid-shots-for-young-children.html">The F.D.A. delays action on Covid shots for young children.</a> NYT: In a striking reversal, federal regulators said that they would wait for data on whether three doses of Pfizer-BioNTech’s vaccine are effective in children younger than 5. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
- <p class="updated_time"> 06:37 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
  <p class="updated_time"> 06:20 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60353677?at_medium=RSS&at_campaign=KARANGA">Ukraine's Great Famine memories fuel resentment of Kremlin</a> BBC: The Holodomor in the 1930s is central to Ukraine's idea of a nation that defies Russian domination. 
  <p class="updated_time"> 06:19 PM CT, Feb. 11 </p> 
