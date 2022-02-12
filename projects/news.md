@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:14 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 05:23 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders More Embassy Workers to Leave Ukraine</a> NYT: The leaders are expected to speak by telephone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is scheduled to talk with his counterpart, Sergey V. Lavrov. 
- <p class="updated_time"> 04:40 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 05:23 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">"They've ruined it for all of us." Former Olympic figure skater says of Russia doping</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 03:45 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 03:28 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
@@ -91,7 +91,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an attack is coming. 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:00 AM CT, Feb. 12 </p> 
@@ -205,8 +207,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">In Reversal, F.D.A. Delays Push for Shots for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
- <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
@@ -242,7 +242,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Manhattan jury begins deliberations in suit over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">Russia could begin an invasion of Ukraine before the Olympics end, Biden adviser says</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an attack is coming. 
+ <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
  <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
