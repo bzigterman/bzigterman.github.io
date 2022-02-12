@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:12 PM CT, Feb. 11 </p> 
+ <p class="updated_time"> 11:16 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
+ <p class="updated_time"> 11:11 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60356725?at_medium=RSS&at_campaign=KARANGA">Rebecca Hogue: Mother jailed for 16 months after boyfriend killed son</a> BBC: Rebecca Hogue is sentenced to 16 months in prison after being found guilty of first-degree murder. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
  <p class="updated_time"> 10:54 PM CT, Feb. 11 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 08:39 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Freedom Convoy: Canada court orders end to trucks' bridge blockade</a> BBC: The injunction comes as Prime Minister Justin Trudeau warns of "severe" consequences for the protesters. 
- <p class="updated_time"> 08:36 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60356725?at_medium=RSS&at_campaign=KARANGA">Rebecca Hogue: Mother jailed for 16 months after boyfriend killed son</a> BBC: Rebecca Hogue is sentenced to 16 months in prison after being found guilty of first-degree murder. 
  <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 07:22 PM CT, Feb. 11 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60353677?at_medium=RSS&at_campaign=KARANGA">Ukraine's Great Famine memories fuel Kremlin resentment</a> BBC: The Holodomor in the 1930s is central to Ukraine's idea of a nation that defies Russian domination. 
  <p class="updated_time"> 06:19 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60311988?at_medium=RSS&at_campaign=KARANGA">Is Trudeau losing his fight against truckers?</a> BBC: Anti-vaccine mandate protests are in their third week and Mr Trudeau is under pressure to stop them. 
+ <p class="updated_time"> 06:18 PM CT, Feb. 11 </p> 
+ <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 06:09 PM CT, Feb. 11 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canadian Judge Gives Green Light to Remove Protesters From Bridge</a> WSJ: The demonstrators have choked off most access to a U.S.-Canada trade corridor, disrupting pockets of the auto industry and stirring concerns among North American business leaders. 
  <p class="updated_time"> 12:41 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312232?at_medium=RSS&at_campaign=KARANGA">Afghanistan conflict: US plans to use frozen funds for 9/11 victims and relief</a> BBC: The US has been holding the funds since the Taliban took over Afghanistan last year. 
- <p class="updated_time"> 12:29 PM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
