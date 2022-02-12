@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:09 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. began a drawdown of its embassy in Kyiv, and the State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 10:38 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
+ <p class="updated_time"> 10:36 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders spoke by telephone on Saturday. The U.S. began a drawdown of its embassy in Kyiv, and the State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 10:35 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
+ <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
+ <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080205477/ukraine-history-russia">Understanding how Ukraine got here: A timeline of its history through today</a> NPR: In the three decades since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">As Violence Rises in the West Bank, Settler Attacks Raise Alarm</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
- <p class="updated_time"> 10:03 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
  <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign, backed by Britain, to complicate what officials say are Russia’s plans to invade Ukraine. 
- <p class="updated_time"> 09:21 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">U.S. troops leave Ukraine and embassy cuts staff as fears grow of a Russian attack</a> NPR: The State Department warns Americans that it's "past time" to leave Ukraine. Most embassy staff have been ordered to depart. And 160 National Guard members will move elsewhere in Europe. 
  <p class="updated_time"> 08:53 AM CT, Feb. 12 </p> 
@@ -112,8 +116,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
  <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204905/nicaragua-has-convicted-more-than-a-dozen-opponents-of-president-daniel-ortega">Nicaragua has convicted more than a dozen opponents of President Daniel Ortega</a> NPR: In trials that sometimes last just a few hours, Nicaragua has been convicting political opponents of President Daniel Ortega, sending a chilling message about free expression. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
  <p class="updated_time"> 02:09 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60354950?at_medium=RSS&at_campaign=KARANGA">US father and son 'chased and shot' black FedEx driver</a> BBC: The FedEx driver is seeking hate crime charges against two men who shot at him while he was on the job. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
@@ -162,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
- <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">As Biden and Putin speak, Ukraine invasion threat ratchets up</a> Politico: Amid a flurry of diplomacy and evacuations, the U.S. and U.K. are ending their Ukraine military training missions. 
  <p class="updated_time"> 09:58 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada police arrive to remove protesters at U.S. border</a> Politico: But three large trucks and about 20 protesters remained blocking traffic early Saturday and they began singing Canada’s national anthem. 
  <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
@@ -257,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/fda-delays-kid-vaccine-meeting-pfizer-more-data-00008261">FDA delays meeting on kid vaccines as Pfizer promises more data</a> Politico: The companies have been testing a third shot after announcing in December that trial data showed two doses produced an insufficient immune response in toddlers. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
- <p class="updated_time"> 02:28 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/white-house-warns-russian-invasion-threat-is-immediate-00008299">White House warns Russian invasion ‘threat is immediate’</a> Politico: National security adviser Jake Sullivan urged Americans still in Ukraine to depart the country within the next 24 to 48 hours. 
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Manhattan jury begins deliberations in suit over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
