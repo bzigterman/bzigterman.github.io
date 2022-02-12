@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 08:15 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
- <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 08:09 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
