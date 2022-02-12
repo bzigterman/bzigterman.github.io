@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 08:15 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
+ <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
+ <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 07:33 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 08:09 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354252/tropical-philippines-has-only-one-entrant-in-the-winter-olympics">Tropical Philippines has only one entrant in the Winter Olympics </a> NPR: The Philippines has only one entrant in the Beijing Olympics: Asa Miller, who will take part in the men's giant slalom Sunday. But there's growing interest in winter sports in the tropical country. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -30,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080338798/older-athletes-break-records-at-the-2022-beijing-olympics">'Never too late': Older athletes are breaking records at the 2022 Beijing Olympics</a> NPR: NPR found at least 140 athletes listed as competing in this Winter Games that are over the age of 35, according to the Olympic Studies Center. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
- <p class="updated_time"> 05:23 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080338657/olympics-2022-russia-doping-kamila-valieva-adam-rippon">'They've ruined it for all of us,' Adam Rippon says of Russia's latest doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
  <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
@@ -50,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 02:46 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080330180/how-did-the-anti-doping-system-for-the-beijing-olympics-break-down-so-badly">How did the anti-doping system for the Beijing Olympics break down so badly?</a> NPR: Star Russian figure skater Kamila Valieva submitted a doping sample December 25th. It showed she used a banned substance, but the results weren't revealed until after she competed in Beijing. 
- <p class="updated_time"> 12:10 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Canada court orders end to trucker blockade</a> BBC: Crowds of protesters are flouting the injunction and continue to occupy a vital border crossing. 
  <p class="updated_time"> 11:55 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/12/1080321427/u-s-snowboarders-lindsey-jacobellis-and-nick-baumgartner-make-history-in-beijing">U.S. snowboarders Lindsey Jacobellis and Nick Baumgartner make history in Beijing</a> NPR: At their ages, Jacobellis' and Baumgartner's win over Italy and Canada during the first-ever Olympic mixed team snowboard cross events broke multiple records. 
  <p class="updated_time"> 11:11 PM CT, Feb. 11 </p> 
@@ -102,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204840/russian-figure-skater-was-allowed-to-compete-in-the-olympics-despite-failed-drug">Russian figure skater was allowed to compete in the Olympics despite failed drug test</a> NPR: A top Russian figure skater was allowed to compete despite testing positive for a banned substance before the Games. Kamila Valieva, age 15, helped Russia win the team event earlier this week. 
  <p class="updated_time"> 02:09 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60354950?at_medium=RSS&at_campaign=KARANGA">US father and son 'chased and shot' black FedEx driver</a> BBC: The FedEx driver is seeking hate crime charges against two men who shot at him while he was on the job. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
@@ -299,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-crack-pipes-claim.html">Explaining the Claim About the Biden Administration and ‘Crack Pipes’</a> NYT: Conservatives have homed in on a specific provision in an overdose prevention grant program to make a misleading claim about crack pipes. 
  <p class="updated_time"> 05:47 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-health-science-agenda.html">Vacancies in Top Health and Science Jobs May Threaten Biden’s Agenda</a> NYT: President Biden came into office vowing to respect science, but openings in crucial jobs could hamper progress on medical and technological research. 
- <p class="updated_time"> 05:42 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/biden-scotus-candidates-00008007">Biden says he's thoroughly reviewed 'about 4' SCOTUS candidates so far</a> Politico: “I’m not looking to make an ideological choice here,” the president said in an NBC interview, expressing hope for bipartisan support of his nominee. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
