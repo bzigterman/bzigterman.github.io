@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:12 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Injunction to Clear Key Bridge at U.S. Border Takes Effect</a> NYT: “It’s not going to end with them breaking up this one crowd,’’ one protester said. She added, “Like everybody woke up and said, ‘Yeah, these truckers are right.’” 
+ <p class="updated_time"> 09:18 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Court’s Order to Clear Key Bridge at Border Takes Effect</a> NYT: The injunction was part of a flurry of legal activity as Canadian officials struggled to contain the protests. “It’s not going to end with them breaking up this one crowd,’’ a demonstrator said. 
  <p class="updated_time"> 08:41 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 08:39 PM CT, Feb. 11 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:20 PM CT, Feb. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
  <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
@@ -197,8 +199,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">In Reversal, F.D.A. Delays Push for Shots for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 08:41 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
- <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
