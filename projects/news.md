@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
+ <p class="updated_time"> 03:11 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
+ <p class="updated_time"> 02:59 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 02:54 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
- <p class="updated_time"> 02:39 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
- <p class="updated_time"> 02:28 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
  <p class="updated_time"> 02:27 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/justin-trudeau-fidel-castro-falsehood.html">An old falsehood resurfaces: that Justin Trudeau is Fidel Castro’s son.</a> NYT: Some conspiracy theorists have pointed to a resemblance between Mr. Castro and Mr. Trudeau. But the facts don’t add up. 
  <p class="updated_time"> 01:33 PM CT, Feb. 12 </p> 
@@ -35,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080205477/ukraine-history-russia">3 decades of turmoil bring Ukraine to perhaps its greatest crisis</a> NPR: Since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
+ <a href="https://www.npr.org/2022/02/12/1080205477/history-ukraine-russia">3 decades of turmoil bring Ukraine to perhaps its greatest crisis</a> NPR: Since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
  <p class="updated_time"> 10:18 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
  <p class="updated_time"> 10:24 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
- <p class="updated_time"> 09:37 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
