@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Court’s Order to Clear Key Bridge at Border Takes Effect</a> NYT: The injunction was part of a flurry of legal activity as Canadian officials struggled to contain the protests. “It’s not going to end with them breaking up this one crowd,’’ a demonstrator said. 
+ <p class="updated_time"> 10:35 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 10:03 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 09:31 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
- <p class="updated_time"> 09:18 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Canada Live Updates: Court’s Order to Clear Key Bridge at Border Takes Effect</a> NYT: The injunction was part of a flurry of legal activity as Canadian officials struggled to contain the protests. “It’s not going to end with them breaking up this one crowd,’’ a demonstrator said. 
  <p class="updated_time"> 08:41 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 08:39 PM CT, Feb. 11 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356725?at_medium=RSS&at_campaign=KARANGA">Rebecca Hogue: Mother jailed for 16 months after boyfriend killed son</a> BBC: Rebecca Hogue is sentenced to 16 months in prison after being found guilty of first-degree murder. 
  <p class="updated_time"> 07:57 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
- <p class="updated_time"> 07:45 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 07:22 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60326621?at_medium=RSS&at_campaign=KARANGA">Her boyfriend killed her son but she went to jail</a> BBC: Rebecca Hogue's partner killed her son, but she is the one in jail for 'failure to protect' her child. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
