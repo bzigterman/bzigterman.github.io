@@ -292,7 +292,7 @@ permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
-## Champaign Forecast
+## Champaign 5-Day Forecast
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
