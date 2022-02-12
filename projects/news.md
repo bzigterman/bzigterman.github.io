@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:54 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 01:05 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
+ <p class="updated_time"> 01:02 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 12:46 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
- <p class="updated_time"> 12:39 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
@@ -38,10 +38,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
+ <p class="updated_time"> 07:59 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: Two leaders’ phone discussion yields “no fundamental change,” U.S. official says, as both U.S. and Russia pull diplomatic staff out of Ukraine. 
  <p class="updated_time"> 07:29 AM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Protesters on Crucial Bridge to U.S.</a> WSJ: Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have mostly blocked traffic since Monday on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
- <p class="updated_time"> 07:17 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: President Biden and his Russian counterpart Vladimir Putin spoke on the phone for just over an hour in a last-ditch diplomatic effort to ward off military conflict. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354252/tropical-philippines-has-only-one-entrant-in-the-winter-olympics">Tropical Philippines has only one entrant in the Winter Olympics </a> NPR: The Philippines has only one entrant in the Beijing Olympics: Asa Miller, who will take part in the men's giant slalom Sunday. But there's growing interest in winter sports in the tropical country. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -176,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
- <p class="updated_time"> 03:26 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/canada/paris-police-ban-convoy-ottawa.html">Paris Police Ban Protest Convoy Inspired by Ottawa Protests</a> NYT: The group takes its name, Convoi de la Liberté, from Canada’s Freedom Convoy, and like the Canadian protest, has brought together people espousing a wide range of motivations. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
  <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
