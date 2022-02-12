@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:38 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 07:52 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
  <p class="updated_time"> 07:33 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
@@ -33,7 +33,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:23 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080338657/-theyve-ruined-it-for-all-of-us-former-olympic-figure-skater-says-of-russia-dopi">'They've ruined it for all of us,' ex-Olympic skater says of Russia doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
+ <a href="https://www.npr.org/2022/02/12/1080338657/olympics-2022-russia-doping-kamila-valieva-adam-rippon">'They've ruined it for all of us,' Adam Rippon says of Russia's latest doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
  <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
@@ -257,6 +257,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/sarah-palin-lawyers-new-york-times-libel-conservatives-00008248">Sarah Palin's lawyers: New York Times libeled her amidst pattern of sliming conservatives</a> Politico: Manhattan jury begins deliberations in suit over 2017 editorial that linked Palin group's targeting map to 2011 Arizona shooting. 
  <p class="updated_time"> 01:37 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
+ <p class="updated_time"> 12:55 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/trucker-convoy-forces-canadas-largest-province-into-state-of-emergency-00008213">Trucker convoy forces Canada's largest province into state of emergency</a> Politico: Premier Doug Ford: "The eyes of the world are upon us right now and what they are seeing is not who we are." 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
@@ -319,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
  <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
- <p class="updated_time"> 03:03 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/lawmakers-pessimistic-about-new-iran-nuke-deal-00007384">‘Sobering and shocking’: Lawmakers pessimistic about new Iran nuke deal</a> Politico: Biden administration officials warned senators  Iran is “weeks” away from producing enough material for a nuclear weapon. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
