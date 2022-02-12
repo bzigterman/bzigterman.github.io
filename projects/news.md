@@ -8,14 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Set to Move In on Truckers Blocking Ontario Bridge</a> NYT: Officers began approaching the truckers, who have blocked traffic across the U.S. border at a critical juncture. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
+ <p class="updated_time"> 10:09 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. began a drawdown of its embassy in Kyiv, and the State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">As Violence Rises in the West Bank, Settler Attacks Raise Alarm</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
+ <p class="updated_time"> 10:03 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
+ <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
+ <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign, backed by Britain, to complicate what officials say are Russia’s plans to invade Ukraine. 
+ <p class="updated_time"> 09:21 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
+ <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
+ <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">U.S. troops leave Ukraine and embassy cuts staff as fears grow of a Russian attack</a> NPR: The State Department warns Americans that it's "past time" to leave Ukraine. Most embassy staff have been ordered to depart. And 160 National Guard members will move elsewhere in Europe. 
  <p class="updated_time"> 08:53 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy enters Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
- <p class="updated_time"> 08:48 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -36,6 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080338798/older-athletes-break-records-at-the-2022-beijing-olympics">'Never too late': Older athletes are breaking records at the 2022 Beijing Olympics</a> NPR: NPR found at least 140 athletes listed as competing in this Winter Games that are over the age of 35, according to the Olympic Studies Center. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
+ <p class="updated_time"> 04:50 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Bridge Protesters Choking Off U.S.-Canada Trade</a> WSJ: Roughly 100 Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have been blocking most traffic on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
@@ -44,6 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
+ <p class="updated_time"> 03:55 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">U.S., Russia Pull Out Diplomatic Staff From Ukraine</a> WSJ: The U.S. suspended consular services in the Ukrainian capital and ordered most embassy staff to depart after warning that a Russian military invasion could happen at any moment. 
  <p class="updated_time"> 03:45 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
@@ -64,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
  <p class="updated_time"> 11:00 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/canada-protests-police-response.html">Canada Toughens Stance on Protests, Promising ‘Robust’ Police Response</a> NYT: After treading lightly for weeks, officials obtained a court order to halt the blockade of a major route to the United States. They also vowed fines and arrests. 
- <p class="updated_time"> 09:33 PM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/senior-white-house-official-says-putin-could-invade-ukraine-during-olympics-11644607818">U.S. Says Russia Could Invade Ukraine at Any Time</a> WSJ: The White House urged Americans to leave Ukraine on their own within the next 48 hours, but officials say the U.S. doesn’t know whether Russian leader Vladimir Putin has decided either way on an invasion. 
  <p class="updated_time"> 09:31 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
@@ -104,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204905/nicaragua-has-convicted-more-than-a-dozen-opponents-of-president-daniel-ortega">Nicaragua has convicted more than a dozen opponents of President Daniel Ortega</a> NPR: In trials that sometimes last just a few hours, Nicaragua has been convicting political opponents of President Daniel Ortega, sending a chilling message about free expression. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204880/ex-intelligence-officer-fiona-hill-says-putin-is-making-hostage-standoff-demands">Ex-intelligence officer Fiona Hill says Putin is making 'hostage standoff demands'</a> NPR: NPR's Ari Shapiro talks with Fiona Hill, former intelligence officer on Russia and Eurasian affairs and former National Security Council member, on the tensions between Russia, the U.S. and Ukraine. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
  <p class="updated_time"> 02:09 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60354950?at_medium=RSS&at_campaign=KARANGA">US father and son 'chased and shot' black FedEx driver</a> BBC: The FedEx driver is seeking hate crime charges against two men who shot at him while he was on the job. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
@@ -114,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
- <p class="updated_time"> 01:13 PM CT, Feb. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-business-leaders-demand-end-to-bridge-blockade-11644592039">Canadian Judge Gives Green Light to Remove Protesters From Bridge</a> WSJ: The demonstrators have choked off most access to a U.S.-Canada trade corridor, disrupting pockets of the auto industry and stirring concerns among North American business leaders. 
  <p class="updated_time"> 12:21 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-tyne-60354593?at_medium=RSS&at_campaign=KARANGA">Durham Police call handlers save woman in Canada</a> BBC: The woman in Durham, Canada, had typed "I need help, he is in the house" before falling silent. 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
@@ -156,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/latvia-remibursement-jewish-holocaust.html">Latvia Parliament Approves Holocaust Reimbursement for Jewish Community</a> NYT: “This law cannot bring back a destroyed community or a destroyed synagogue,” said a chairman of a group backing the effort. “But what it can do is recognize what happened.” 
  <p class="updated_time"> 09:57 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/middleeast/libya-tripoli-parliament-election.html">Libya Slides Deeper Into Chaos as Parliament Picks New Government</a> NYT: The current prime minister, Abdul Hamid Dbeiba, rejected Parliament’s decision, raising concerns that the oil-rich African nation was returning to a divide with two rival governments. 
- <p class="updated_time"> 09:32 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/prince-charles-positive-covid.html">Prince Charles Again Tests Positive, Raising Concern About Risk to Queen</a> NYT: The heir to the British throne, 73, now in isolation, is infected for a second time; he first tested positive in March 2020 and had mild symptoms. 
  <p class="updated_time"> 09:20 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/canada/canada-protests-autos.html">G.M. Cancels Shifts at Michigan Plant Over Canada Protest Disruption</a> NYT: Ford Motor and Toyota have also shut down some operations because factories could not get parts made in Canada. 
  <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
@@ -180,10 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
  <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
- <p class="updated_time"> 09:09 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/boris-johnson-ukraine-crisis.html">Boris Johnson Warns That Ukraine Crisis Is Reaching a Perilous Moment</a> NYT: Britain said it was readying 1,000 more troops to support NATO allies in case of a humanitarian crisis caused by Russian aggression against Ukraine. 
- <p class="updated_time"> 07:38 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/northern-ireland-brexit.html">Upheaval in Northern Ireland, With Brexit at Its Center</a> NYT: A dispute over trading checks has left the main pro-British party in disarray, creating the potential for a momentous political shift. 
 
 
 </details>
@@ -191,14 +191,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/canada-police-arrive-to-remove-protesters-at-u-s-border-00008437">Canada police arrive to remove protesters at U.S. border</a> Politico: But three large trucks and about 20 protesters remained blocking traffic early Saturday and they began singing Canada’s national anthem. 
+ <p class="updated_time"> 09:23 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign, backed by Britain, to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
- <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -267,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
- <p class="updated_time"> 08:35 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html">How The Trucker Protests Are Snarling the Auto Industry</a> NYT: Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions. 
  <p class="updated_time"> 07:23 AM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080060546/biden-us-citizens-leave-ukraine">Biden tells U.S. citizens to leave Ukraine, saying military wouldn't rescue them</a> NPR: "That's a world war — when Americans and Russians start shooting at one another, we're in a very different world than we've ever been in," President Biden said. 
  <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
@@ -277,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1079873883/yana-buhrer-tavanier-can-social-activism-be-playful">Yana Buhrer Tavanier: Can social activism be playful?</a> NPR: We might think of activism as far from playful. That's not the case for "playtivist" Yana Buhrer Tavanier. Her incubator lab, Fine Acts, encourages whimsical solutions for social change. 
  <p class="updated_time"> 06:04 AM CT, Feb. 11 </p> 
  <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
- <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/gallery/2022/02/11/the-nations-cartoonists-on-the-week-in-politics-00007915">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
