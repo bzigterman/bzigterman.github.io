@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 01:44 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
+ <p class="updated_time"> 02:39 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ontario Bridge Still Blocked by Protesters’ Vehicles</a> NYT: The crowd grew as some trucks and cars impeded traffic across the U.S. border at a critical juncture, the Ambassador Bridge. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
+ <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
+ <p class="updated_time"> 02:28 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
+ <p class="updated_time"> 02:27 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/justin-trudeau-fidel-castro-falsehood.html">An old falsehood resurfaces: that Justin Trudeau is Fidel Castro’s son.</a> NYT: Some conspiracy theorists have pointed to a resemblance between Mr. Castro and Mr. Trudeau. But the facts don’t add up. 
+ <p class="updated_time"> 02:21 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 01:33 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
@@ -26,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
- <p class="updated_time"> 10:35 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
@@ -40,12 +44,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: The two leaders spoke by phone for roughly an hour after the State Department ordered most of its embassy staff in Kyiv to leave. U.S. officials are concerned a Russian invasion is imminent. 
+ <p class="updated_time"> 09:12 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: The phone discussion between President Biden and his Russian counterpart Vladimir Putin yielded “no fundamental change,” a U.S. official said. Washington ordered most embassy staff out of the country and Moscow also began withdrawing its diplomatic presence there. 
+ <p class="updated_time"> 09:02 AM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
- <p class="updated_time"> 07:59 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: Two leaders’ phone discussion yields “no fundamental change,” a U.S. official says, as both U.S. and Russia pull diplomatic staff out of Ukraine. 
- <p class="updated_time"> 07:29 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Prepare to Remove Protesters on Crucial Bridge to U.S.</a> WSJ: Canadian police officers assembled in the border city of Windsor, Ontario, to begin removing protesters and vehicles that have mostly blocked traffic since Monday on the Ambassador Bridge, a crucial U.S.-Canada trade corridor. 
+ <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police clear out truckers, but protesters on foot keep U.S.-Canada bridge closed </a> NPR: After days of protests against COVID-19 restrictions, Canadian truckers blockading a key border trade crossing have begun to leave. But protesters on foot kept the Ambassador Bridge closed. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354252/tropical-philippines-has-only-one-entrant-in-the-winter-olympics">Tropical Philippines has only one entrant in the Winter Olympics </a> NPR: The Philippines has only one entrant in the Beijing Olympics: Asa Miller, who will take part in the men's giant slalom Sunday. But there's growing interest in winter sports in the tropical country. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -142,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
- <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/france-macron-nuclear-power.html">France Announces a Big Buildup of Its Nuclear Power Program</a> NYT: President Emmanuel Macron outlined plans for a wave of new-generation atomic reactors as the country seeks to slash planet-warming emissions. 
  <p class="updated_time"> 10:27 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
  <p class="updated_time"> 10:24 AM CT, Feb. 11 </p> 
@@ -191,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 12:49 PM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/elon-musk-space-freaking-out-competitors-00008441">Why Musk’s biggest space gamble is freaking out his competitors</a> Politico: Starship is threatening NASA’s moon contractors, which are watching its progress with a mix of awe and horror. 
  <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
@@ -204,11 +208,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
- <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -221,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
- <p class="updated_time"> 04:00 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 09:20 PM CT, Feb. 11 </p> 
