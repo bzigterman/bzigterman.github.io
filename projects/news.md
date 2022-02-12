@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:27 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 11:39 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
+ <p class="updated_time"> 11:39 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin Speak for One Hour; U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders spoke by telephone on Saturday, but details were not yet available. The State Department again warned all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 11:34 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Foreigners urged to leave amid warnings of invasion</a> BBC: More than a dozen nations urge citizens to leave Ukraine over fears of a Russian invasion. 
  <p class="updated_time"> 11:19 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
- <p class="updated_time"> 11:16 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Begin Clearing Truckers Blocking Ontario Bridge</a> NYT: Some truckers have begun leaving the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:35 AM CT, Feb. 12 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080338657/olympics-2022-russia-doping-kamila-valieva-adam-rippon">'They've ruined it for all of us,' Adam Rippon says of Russia's latest doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
- <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
