@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:38 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 08:48 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders All but ‘Core Team’ to Leave Ukraine Embassy</a> NYT: The leaders are expected to speak by telephone on Saturday. The U.S. begins a drawdown of its embassy in Kyiv, and the State Department again warns all Americans to leave Ukraine amid concerns of an imminent Russian attack. 
- <p class="updated_time"> 08:15 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
+ <p class="updated_time"> 08:48 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Police Set to Move In on Truckers Blocking Ontario Bridge</a> NYT: Officers began approaching the truckers, who have blocked traffic across the U.S. border at a critical juncture. In Paris, the authorities used tear gas on a copycat protest along the Champs-Élysées. 
  <p class="updated_time"> 08:14 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police begin clearing Canada trucker blockade</a> BBC: Police in Windsor, Ontario, say they have commenced enforcement action at the Ambassador Bridge. 
  <p class="updated_time"> 08:09 AM CT, Feb. 12 </p> 
@@ -36,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080338798/older-athletes-break-records-at-the-2022-beijing-olympics">'Never too late': Older athletes are breaking records at the 2022 Beijing Olympics</a> NPR: NPR found at least 140 athletes listed as competing in this Winter Games that are over the age of 35, according to the Olympic Studies Center. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
+ <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080338657/olympics-2022-russia-doping-kamila-valieva-adam-rippon">'They've ruined it for all of us,' Adam Rippon says of Russia's latest doping scandal</a> NPR: As the fate of 15-year-old Russian skating phenom Kamila Valieva is debated by lawyers, athletes and coaches in Beijing say this year's Winter Olympics are now tainted by the specter of doping. 
  <p class="updated_time"> 04:33 AM CT, Feb. 12 </p> 
