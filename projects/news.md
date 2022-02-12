@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:46 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Warns Russia Is Ready to Attack Ukraine</a> NYT: The leaders are expected to speak by phone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is also scheduled to talk with his counterpart, Sergey V. Lavrov. 
+ <p class="updated_time"> 04:58 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders More Embassy Workers to Leave Ukraine</a> NYT: The leaders are expected to speak by telephone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is scheduled to talk with his counterpart, Sergey V. Lavrov. 
  <p class="updated_time"> 04:40 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy heads to Paris</a> BBC: Thousands of demonstrators opposed to France's coronavirus regulations are trying to enter the city. 
  <p class="updated_time"> 04:34 AM CT, Feb. 12 </p> 
