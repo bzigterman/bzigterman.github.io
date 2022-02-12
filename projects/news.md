@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:05 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Most Protesters Leave Ontario Bridge, but Traffic Is Still Blocked</a> NYT: Some truckers are stopping the flow of traffic across the Ambassador Bridge, a critical juncture along Canada’s border with the United States. 
- <p class="updated_time"> 01:02 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. 
+ <p class="updated_time"> 01:19 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 12:46 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
@@ -28,14 +32,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080205477/ukraine-history-russia">Understanding how Ukraine got here: A timeline of its history through today</a> NPR: In the three decades since its independence from the Soviet Union, Ukraine has wavered between the influences of Moscow and the West, surviving scandal and conflict with its young democracy intact. 
+ <p class="updated_time"> 10:18 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">As Violence Rises in the West Bank, Settler Attacks Raise Alarm</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 09:44 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: The two leaders spoke by phone for roughly an hour after the State Department ordered most of its embassy staff in Kyiv to leave. U.S. officials are concerned a Russian invasion is imminent. 
- <p class="updated_time"> 08:53 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police work to remove protesters at the busiest crossing at the U.S.-Canada border</a> NPR: Demonstrators at the Ambassador Bridge had defied warnings to end a blockade that disrupted the flow of goods and forced the auto industry on both sides to roll back production. 
  <p class="updated_time"> 07:59 AM CT, Feb. 12 </p> 
@@ -88,12 +92,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/canada-protests-police-response.html">Canada Toughens Stance on Protests, Promising ‘Robust’ Police Response</a> NYT: After treading lightly for weeks, officials obtained a court order to halt the blockade of a major route to the United States. They also vowed fines and arrests. 
  <p class="updated_time"> 09:31 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/marie-claire-chevalier-dead.html">Marie-Claire Chevalier, Catalyst for French Abortion Law, Dies at 66</a> NYT: While in high school in 1972, she was raped and became pregnant. Her illegal abortion paved the way for France to decriminalize the procedure in 1975. 
+ <p class="updated_time"> 07:33 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/the-fda-delays-action-on-covid-shots-for-young-children.html">The F.D.A. delays action on Covid shots for young children.</a> NYT: In a striking reversal, federal regulators said that they would wait for data on whether three doses of Pfizer-BioNTech’s vaccine are effective in children younger than 5. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
  <p class="updated_time"> 06:37 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
  <p class="updated_time"> 06:20 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60353677?at_medium=RSS&at_campaign=KARANGA">Ukraine's Great Famine memories fuel Kremlin resentment</a> BBC: The Holodomor in the 1930s is central to Ukraine's idea of a nation that defies Russian domination. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60353677?at_medium=RSS&at_campaign=KARANGA">Ukraine's Great Famine memories fuel resentment of Kremlin</a> BBC: The Holodomor in the 1930s is central to Ukraine's idea of a nation that defies Russian domination. 
  <p class="updated_time"> 06:19 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60311988?at_medium=RSS&at_campaign=KARANGA">Is Trudeau losing his fight against truckers?</a> BBC: Anti-vaccine mandate protests are in their third week and Mr Trudeau is under pressure to stop them. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
@@ -146,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
- <p class="updated_time"> 08:18 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60351395?at_medium=RSS&at_campaign=KARANGA">Italy's Mt Etna volcano erupts for first time this year</a> BBC: Sicily's Mount Etna lights up the night sky in first eruption of 2022, billowing smoke and ash. 
  <p class="updated_time"> 07:41 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60347062?at_medium=RSS&at_campaign=KARANGA">Kanye wants Billie Eilish to say sorry or he'll pull out of Coachella</a> BBC: The rapper wants her to apologise for crowd safety comments he thinks are aimed at Travis Scott. 
  <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
@@ -178,10 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/europe/ukraine-nationalism-russia-invasion.html">Armed Nationalists in Ukraine Pose a Threat Not Just to Russia</a> NYT: Kyiv is encouraging the arming of nationalist paramilitary groups to thwart a Russian invasion. But they could also destabilize the government if it agrees to a peace deal they reject. 
  <p class="updated_time"> 11:40 AM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/farmers-countryside-code-england.html">England Urges Farmers to Make Peace With Hikers</a> NYT: In a country where public access to parts of the countryside is written into law, the government gave landowners some advice. But farmers say they are not the problem. 
- <p class="updated_time"> 11:12 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/movies/lata-mangeshkar-four-films-to-stream.html">Hear Lata Mangeshkar in These Four Streaming Films</a> NYT: Because Mangeshkar lent her voice to several generations of Bollywood stars, these movies double as a highlight reel for Hindi cinema. 
- <p class="updated_time"> 10:24 AM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/italy-finnegan-elder-gabriel-natale-hjorth-appeal.html">Americans Appeal Life Sentence for Killing an Italian Officer</a> NYT: Lawyers for Finnegan Elder and Gabriel Natale Hjorth, who received Italy’s toughest punishment for a 2019 fatal stabbing, hope to prove that their clients did not deserve such long terms. 
 
 
 </details>
@@ -192,7 +192,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:49 PM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/elon-musk-space-freaking-out-competitors-00008441">Why Musk’s biggest space gamble is freaking out his competitors</a> Politico: Starship is threatening NASA’s moon contractors, which are watching its progress with a mix of awe and horror. 
  <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">As Biden and Putin speak, Ukraine invasion threat ratchets up</a> Politico: Amid a flurry of diplomacy and evacuations, the U.S. and U.K. are ending their Ukraine military training missions. 
+ <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">'Swift and severe costs': Ukraine tension ratchets up as Biden and Putin speak</a> Politico: Biden promises decisive response by U.S. and its allies, warning that a "further Russian invasion of Ukraine would produce widespread human suffering." 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 09:58 AM CT, Feb. 12 </p> 
