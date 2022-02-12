@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:10 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Canada court orders end to trucks' bridge blockade</a> BBC: But crowds of protesters are flouting the injunction and continue to occupy a vital border crossing. 
- <p class="updated_time"> 11:56 PM CT, Feb. 11 </p> 
+ <p class="updated_time"> 02:31 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
+ <p class="updated_time"> 02:31 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
+ <p class="updated_time"> 02:29 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60355295?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia invasion could begin any day, US warns</a> BBC: President Biden and Vladimir Putin to talk as the US says Russia could invade Ukraine "at any time". 
+ <p class="updated_time"> 12:10 AM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60356461?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Canada court orders end to trucker blockade</a> BBC: Crowds of protesters are flouting the injunction and continue to occupy a vital border crossing. 
  <p class="updated_time"> 11:55 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/12/1080321427/u-s-snowboarders-lindsey-jacobellis-and-nick-baumgartner-make-history-in-beijing">U.S. snowboarders Lindsey Jacobellis and Nick Baumgartner make history in Beijing</a> NPR: At their ages, Jacobellis' and Baumgartner's win over Italy and Canada during the first-ever Olympic mixed team snowboard cross events broke multiple records. 
- <p class="updated_time"> 11:49 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/canada-trucker-protest">Despite Court Order, Canada Protesters Are Still Blocking Key Border Bridge</a> NYT: In Windsor, Ontario, demonstrators’ numbers had thinned by midnight Friday, but they were still preventing access to the Ambassador Bridge, hours after a court injunction took effect. 
- <p class="updated_time"> 11:16 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/02/11/world/russia-ukraine-news">U.S. Says Russia Could Invade Ukraine at Any Time</a> NYT: Escalating military preparations by Russia and its separatist allies in Ukraine indicate that an attack could come within days, American officials say. 
  <p class="updated_time"> 11:11 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356725?at_medium=RSS&at_campaign=KARANGA">Rebecca Hogue: Mother jailed for 16 months after boyfriend killed son</a> BBC: Rebecca Hogue is sentenced to 16 months in prison after being found guilty of first-degree murder. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
+ <p class="updated_time"> 11:00 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/canada-protests-police-response.html">Canada Toughens Stance on Protests, Promising ‘Robust’ Police Response</a> NYT: After treading lightly for weeks, officials obtained a court order to halt the blockade of a major route to the United States. They also vowed fines and arrests. 
  <p class="updated_time"> 10:03 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 09:31 PM CT, Feb. 11 </p> 
