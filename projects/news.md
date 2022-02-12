@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 AM CT, Feb. 12 </p> 
+ <p class="updated_time"> 05:51 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">Live Updates: Biden and Putin to Speak as U.S. Orders Many of Its Diplomats to Leave Ukraine</a> NYT: The leaders are expected to speak by telephone on Saturday as Moscow dismisses America’s urgent warnings as propaganda. Secretary of State Antony J. Blinken is scheduled to talk with his counterpart, Sergey V. Lavrov. 
  <p class="updated_time"> 05:32 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-pacific-60359869?at_medium=RSS&at_campaign=KARANGA">US to re-open Solomon Islands embassy in push against China</a> BBC: The decision to re-establish a diplomatic outpost follows China's increased presence in the region. 
