@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:22 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 05:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Protesters Vent Anger in Ottawa While Ontario Police Struggle to Tame Blockade at Bridge</a> NYT: By late Saturday afternoon, the police had partly pushed back the protesters at the Ambassador Bridge, a critical point on the U.S.-Canada border. 
  <p class="updated_time"> 04:46 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
