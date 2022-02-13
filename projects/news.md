@@ -8,14 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 PM CT, Feb. 12 </p> 
+ <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
+ <p class="updated_time"> 06:30 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Protesters Vent Anger in Ottawa While Ontario Police Struggle to Tame Blockade at Bridge</a> NYT: By late Saturday afternoon, the police had partly pushed back the protesters at the Ambassador Bridge, a critical point on the U.S.-Canada border. 
+ <p class="updated_time"> 06:13 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60333336?at_medium=RSS&at_campaign=KARANGA">Swiss vote on tobacco ad ban long after neighbours</a> BBC: Most European countries banned tobacco ads years ago, but the Swiss are yet to tighten their laws. 
+ <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60362274?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: After eight years of war, an eastern city unifies against Russia</a> BBC: Separatists tried to seize Kharkiv in 2014. Now the city is turning away from its old neighbour. 
+ <p class="updated_time"> 06:06 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60349039?at_medium=RSS&at_campaign=KARANGA">Guinea-Bissau's mystery deepens over drug-trafficking coup plot</a> BBC: Some are questioning whether Guinea-Bissau's president was really the target of a coup attempt. 
+ <p class="updated_time"> 06:06 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60329097?at_medium=RSS&at_campaign=KARANGA">Royal Enfield: A family's decade-long search for a missing motorbike</a> BBC: Arun Srinivasan spent 15 years tracking down his father's missing motorbike - a beloved black Royal Enfield. 
+ <p class="updated_time"> 06:03 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60356210?at_medium=RSS&at_campaign=KARANGA">Why are cryptocurrency adverts taking over the Super Bowl?</a> BBC: Cryptocurrency companies are set to dominate the commercials at this year's NFL final. 
+ <p class="updated_time"> 05:43 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
+ <p class="updated_time"> 05:42 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
  <p class="updated_time"> 04:46 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
- <p class="updated_time"> 04:29 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">News Updates: In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
  <p class="updated_time"> 04:27 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 03:55 PM CT, Feb. 12 </p> 
@@ -30,10 +44,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 02:27 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/justin-trudeau-fidel-castro-falsehood.html">An old falsehood resurfaces: that Justin Trudeau is Fidel Castro’s son.</a> NYT: Some conspiracy theorists have pointed to a resemblance between Mr. Castro and Mr. Trudeau. But the facts don’t add up. 
+ <p class="updated_time"> 01:30 PM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
  <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
- <p class="updated_time"> 01:19 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
@@ -54,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: The two leaders spoke by phone for roughly an hour after the State Department ordered most of its embassy staff in Kyiv to leave. U.S. officials are concerned a Russian invasion is imminent. 
- <p class="updated_time"> 09:02 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
  <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police clear out truckers, but protesters on foot keep U.S.-Canada bridge closed </a> NPR: After days of protests against COVID-19 restrictions, Canadian truckers blockading a key border trade crossing have begun to leave. But protesters on foot kept the Ambassador Bridge closed. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
