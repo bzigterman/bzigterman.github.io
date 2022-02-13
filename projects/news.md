@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 PM CT, Feb. 13 </p> 
+ <p class="updated_time"> 03:29 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
+ <p class="updated_time"> 03:09 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
- <p class="updated_time"> 02:55 PM CT, Feb. 13 </p> 
+ <p class="updated_time"> 03:03 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/nepal-chief-justice-suspended.html">Nepal’s Chief Justice Is Suspended, Deepening Political Chaos</a> NYT: Accusations and a possible ouster could aggravate divisions that have paralyzed much of the Nepal government for months. 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 02:03 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 01:50 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazils-joe-rogan-aiub-monark.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 01:12 PM CT, Feb. 13 </p> 
@@ -33,11 +33,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Biden Speaks to Ukrainian Leader Zelensky as Prospect of Conflict Looms</a> WSJ: President Biden told Ukraine’s leader the U.S. and its allies would respond rapidly to any further Russian aggression against his country, the White House said. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 10:05 AM CT, Feb. 13 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
- <p class="updated_time"> 07:03 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Top Biden Official Renews Warning of Imminent Conflict in Ukraine</a> WSJ: National security adviser Jake Sullivan says the U.S. is prepared for “the potential of a major military action in the coming days.” 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">In a twist of fate, a family straddles the Russia-Ukraine conflict</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
@@ -100,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356210?at_medium=RSS&at_campaign=KARANGA">Why are cryptocurrency adverts taking over the Super Bowl?</a> BBC: Cryptocurrency companies are set to dominate the commercials at this year's NFL final. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
- <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
