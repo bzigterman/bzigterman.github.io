@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
+ <p class="updated_time"> 08:50 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 08:39 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, Secretary of State Antony Blinken says. 
- <p class="updated_time"> 08:30 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
  <p class="updated_time"> 08:26 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada police in final push against bridge protesters</a> BBC: Police on the Canadian side of a key US border crossing begin clearing protesters. 
- <p class="updated_time"> 08:22 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 08:22 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
@@ -38,10 +40,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move to essentially seize funds held by the Afghan central bank. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
+ <p class="updated_time"> 03:48 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Begin to Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police began arresting protesters in a renewed effort to clear access to a crucial bridge connecting Detroit with the Canadian border city of Windsor, Ontario. 
  <p class="updated_time"> 03:15 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
- <p class="updated_time"> 02:38 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Begin to Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police began arresting protesters in a renewed effort to clear access to a crucial bridge connecting Detroit with the Canadian border city of Windsor, Ontario. 
  <p class="updated_time"> 12:28 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
@@ -187,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464225/new-hampshire-gop-proposes-dramatic-new-congressional-map-angering-democrats">New Hampshire GOP proposes dramatic new congressional map, angering Democrats</a> NPR: In New Hampshire, a GOP plan to dramatically redraw the state's Congressional map has outraged Democrats. If approved, it could have a large effect on the midterm election. 
  <p class="updated_time"> 07:50 AM CT, Feb. 13 </p> 
@@ -297,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
  <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
- <p class="updated_time"> 05:52 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/biden-supreme-court.html">Biden Predicts His Supreme Court Nominee Will Get G.O.P. Support</a> NYT: The president has said that he wants the advice and consent of the Senate as he deliberates, despite the reality that his nominee may draw few votes from the other side of the aisle. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
