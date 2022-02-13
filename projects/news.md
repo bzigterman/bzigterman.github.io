@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:21 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Protesters Vent Anger in Ottawa While Ontario Police Struggle to Tame Blockade at Bridge</a> NYT: By late Saturday afternoon, the police had partly pushed back the protesters at the Ambassador Bridge, a critical point on the U.S.-Canada border. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
- <p class="updated_time"> 06:30 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Protesters Vent Anger in Ottawa While Ontario Police Struggle to Tame Blockade at Bridge</a> NYT: By late Saturday afternoon, the police had partly pushed back the protesters at the Ambassador Bridge, a critical point on the U.S.-Canada border. 
  <p class="updated_time"> 06:13 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60333336?at_medium=RSS&at_campaign=KARANGA">Swiss vote on tobacco ad ban long after neighbours</a> BBC: Most European countries banned tobacco ads years ago, but the Swiss are yet to tighten their laws. 
  <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
