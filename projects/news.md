@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:39 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
- <p class="updated_time"> 11:33 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 11:29 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 11:10 AM CT, Feb. 13 </p> 
@@ -269,6 +269,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
+ <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
@@ -317,6 +319,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
+ <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
@@ -351,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
- <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
@@ -373,8 +375,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 02:57 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/jd-vance-warning-ohio-senate-race-00006310">'Precipitous decline': J.D. Vance pollster issues warning on Ohio Senate race</a> Politico: A polling presentation for the pro-Vance super PAC shows the candidate suffering from attacks on his past comments about Trump. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
@@ -383,8 +383,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senates-spending-chiefs-go-for-broke-before-retirements-00005881">Retiring Senate spending chiefs go for broke</a> Politico: The two octogenarians might be able to work out a final funding deal, but their prospects are complicated by longstanding party squabbles. 
  <p class="updated_time"> 04:30 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/gop-jan-6-committee-00005943">The GOP’s Jan. 6 committee dilemma: Disband it, or turn it on Dems?</a> Politico: Reshaping the Capitol riot probe into a political weapon if Republicans take the majority is an idea with high-profile conservative fans — but an uncertain fate. 
- <p class="updated_time"> 11:41 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
 
 
 </details>
