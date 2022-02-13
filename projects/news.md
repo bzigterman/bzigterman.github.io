@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 12:13 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, the secretary of state says. 
+ <p class="updated_time"> 12:06 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
+ <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
+ <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
- <p class="updated_time"> 11:29 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
- <p class="updated_time"> 11:10 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
  <p class="updated_time"> 10:57 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
@@ -30,18 +34,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Police clear last remaining protesters from key bridge between the U.S. and Canada</a> NPR: After an Ontario court ordered the blockade to end Friday evening, Canadian police arrested protesters and towed vehicles to clear the Ambassador Bridge. It was not clear when the bridge would reopen. 
  <p class="updated_time"> 09:37 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60333336?at_medium=RSS&at_campaign=KARANGA">Swiss approve tobacco ad ban long after neighbours</a> BBC: Voters approve tighter laws on tobacco advertising, years after most European countries. 
- <p class="updated_time"> 09:03 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, the secretary of state says. 
  <p class="updated_time"> 09:02 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 08:59 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60366037?at_medium=RSS&at_campaign=KARANGA">Venice Carnival returns after two year absence</a> BBC: After being cancelled for two years due to the pandemic, the Venice Carnival is back. 
  <p class="updated_time"> 08:58 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60368498?at_medium=RSS&at_campaign=KARANGA">Pakistan: Man accused of blasphemy killed by mob in Khanewal</a> BBC: More than 80 people are detained after a man accused of desecrating the Koran is killed in Khanewal. 
- <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
+ <p class="updated_time"> 07:17 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
+ <p class="updated_time"> 07:05 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
+ <p class="updated_time"> 07:03 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Top Biden Official Renews Warning of Imminent Conflict in Ukraine</a> WSJ: National security adviser Jake Sullivan says the U.S. is prepared for “the potential of a major military action in the coming days.” 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">NPR reporter dives into his family ties to Ukraine, Russia and the U.S.</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
@@ -56,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60366628?at_medium=RSS&at_campaign=KARANGA">Chinese sites accused of censoring LGBT content from Friends</a> BBC: Fans say key scenes have been deleted from the hit US sitcom, which has been re-released in China. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
- <p class="updated_time"> 04:50 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Begin to Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters in a renewed effort to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
  <p class="updated_time"> 04:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move to essentially seize funds held by the Afghan central bank. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -68,12 +72,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
  <p class="updated_time"> 02:42 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 12:28 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
- <p class="updated_time"> 11:33 PM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/russians-have-already-started-hybrid-war-with-bomb-threats-cyberattacks-ukraine-says-11644748413">Russians Have Already Started Hybrid War, Ukraine Says</a> WSJ: For Russia to create havoc in Ukraine, it may not need to launch an all-out invasion. Ukrainian officials say that Moscow is stepping up a destabilization campaign involving cyberattacks, economic disruption and, most recently, hundreds of false bomb threats. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
  <p class="updated_time"> 09:59 PM CT, Feb. 12 </p> 
@@ -195,8 +195,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/ukraine-invasion-false-flag-00008470">U.S. 'watching very carefully' for phony Russian reason to kick off Ukraine invasion, Sullivan says</a> Politico: Jake Sullivan warned of Vladimir Putin possibly using a false flag operation to put the blame on Ukraine for war. 
+ <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
+ <p class="updated_time"> 12:00 PM CT, Feb. 13 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:06 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/flights-to-ukraine-halted-or-redirected-00008458">Flights to Ukraine halted or redirected</a> Politico: The move comes as a threat of a Russian invasion continued. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
@@ -207,8 +213,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Police clear last remaining protesters from key bridge between the U.S. and Canada</a> NPR: After an Ontario court ordered the blockade to end Friday evening, Canadian police arrested protesters and towed vehicles to clear the Ambassador Bridge. It was not clear when the bridge would reopen. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
- <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464225/new-hampshire-gop-proposes-dramatic-new-congressional-map-angering-democrats">New Hampshire GOP proposes dramatic new congressional map, angering Democrats</a> NPR: In New Hampshire, a GOP plan to dramatically redraw the state's Congressional map has outraged Democrats. If approved, it could have a large effect on the midterm election. 
  <p class="updated_time"> 07:50 AM CT, Feb. 13 </p> 
@@ -231,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 10:56 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
- <p class="updated_time"> 08:42 PM CT, Feb. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:38 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
@@ -269,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
- <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
@@ -317,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
- <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
@@ -351,14 +349,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
- <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
  <a href="https://www.cnn.com/2022/02/08/politics/child-tax-credit-tax-refund/index.html">Brace for a smaller tax refund if you got monthly child tax credit payments in 2021</a> CNN: Many parents may not be so happy when they file their tax returns this year. 
+ <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
+ <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
@@ -371,6 +369,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545">Biden’s top science adviser, Eric Lander, resigns amid reports of bullying</a> Politico: The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 07 </p> 
+ <a href="https://www.politico.com/news/2022/02/07/supreme-court-restores-alabamas-redistricting-plan-00006455">Supreme Court restores Alabama’s redistricting plan for 2022</a> Politico: The justices split, 5-4, to block a lower court order that said a new map diluted the influence of Black voters. 
  <p class="updated_time"> 04:07 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
