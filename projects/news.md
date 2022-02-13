@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:05 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 10:41 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
+ <p class="updated_time"> 10:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
+ <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 10:01 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
- <p class="updated_time"> 10:00 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -48,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
  <p class="updated_time"> 04:50 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Begin to Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters in a renewed effort to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
- <p class="updated_time"> 04:38 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Anti-doping agency to probe Valieva's entourage</a> BBC: Scrutiny of those around Kamila Valieva increases after the World Anti-Doping Agency says it will investigate the adults working with the teenager. 
  <p class="updated_time"> 04:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move to essentially seize funds held by the Afghan central bank. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -66,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
  <p class="updated_time"> 09:59 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: After a police raid, what next?</a> BBC: A police swoop on the protest at Windsor failed to shut it down. What will it take to get them to budge? 
+ <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-japan-and-south-korea-present-united-front-on-north-korea-11644730580">U.S., Japan and South Korea Present United Front on North Korea</a> WSJ: The U.S., Japan and South Korea will strengthen their joint efforts to deter North Korea’s missile activity and nuclear ambitions, while continuing to push for diplomatic engagement with Pyongyang, the allies’ senior diplomats said. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
@@ -86,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
  <p class="updated_time"> 03:34 PM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/nicaraguan-revolutionary-hero-dies-in-government-custody-11644719658">Nicaraguan Revolutionary Hero Dies in Government Custody</a> WSJ: Death of Hugo Torres, who once fought alongside President Daniel Ortega, raises fears for other political prisoners. 
- <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
@@ -146,6 +148,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60311988?at_medium=RSS&at_campaign=KARANGA">Is Trudeau losing his fight against truckers?</a> BBC: Anti-vaccine mandate protests are in their third week and Mr Trudeau is under pressure to stop them. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
+ <p class="updated_time"> 06:09 PM CT, Feb. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60333219?at_medium=RSS&at_campaign=KARANGA">The hidden side of Ethiopia's brutal civil war</a> BBC: The BBC gains rare access to the country, hearing from civilians caught in the crossfire. 
  <p class="updated_time"> 06:07 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341236?at_medium=RSS&at_campaign=KARANGA">How Ouka the dog started flying on a paraglider</a> BBC: Ouka the dog and his owner Shams can be seen flying in the French Alps. 
  <p class="updated_time"> 06:06 PM CT, Feb. 11 </p> 
@@ -184,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
  <p class="updated_time"> 06:58 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
- <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
 
 
 </details>
@@ -193,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:06 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/flights-to-ukraine-halted-or-redirected-00008458">Flights to Ukraine halted or redirected</a> Politico: The move comes as a threat of a Russian invasion continued. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">'We're talking way too much and we're doing too little' on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
@@ -212,9 +216,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
  <p class="updated_time"> 06:50 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/hawaii-japan-north-korea-south-00008444">U.S., Japan, South Korea meet in Hawaii to discuss North Korea</a> Politico: North Korea has rebuffed American offers to resume diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -242,9 +246,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
- <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -300,7 +304,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:04 AM CT, Feb. 11 </p> 
  <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems' latest challenge: Draining the Hill's swamp (at least a little)</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
+ <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
@@ -313,6 +317,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 02:04 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-at-an-impasse-over-how-to-deter-russian-invasion-of-ukraine-00007871">Senate negotiators at an ‘impasse’ on Russia sanctions bill</a> Politico: As a Moscow move seems to tick closer, negotiators said they're thinking of "a different process to move forward" on a sanctions bill. 
+ <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
+ <a href="https://www.politico.com/news/2022/02/10/sarah-palin-testifies-she-was-devastated-by-n-y-times-editorial-linking-her-pac-to-2011-shooting-00007860">Sarah Palin testifies she was devastated by NY Times editorial linking her PAC to 2011 shooting</a> Politico: On the witness stand, the former Alaska governor and GOP vice presidential nominee said she’s in a David vs. Goliath battle with the storied newspaper. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
@@ -323,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
  <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
  <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
- <p class="updated_time"> 03:04 PM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/times-editor-sarah-palin-00007394">Former NYT editor: Concern over false-equivalence critique prompted flaw in Palin editorial</a> Politico: The trial in a libel lawsuit highlights the Times opinion section's navigation through a political and ideological landscape. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
@@ -355,8 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
  <a href="https://www.cnn.com/2022/02/08/politics/child-tax-credit-tax-refund/index.html">Brace for a smaller tax refund if you got monthly child tax credit payments in 2021</a> CNN: Many parents may not be so happy when they file their tax returns this year. 
- <p class="updated_time"> 07:39 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/prosecutors-witness-list-jan-6-trial-00006592">Prosecutors' witness list offers glimpse into Jan. 6 trial strategy</a> Politico: Prosecution of Guy Reffitt will include testimony from Secret Service, Capitol Police, a Senate aide and two of the defendant's children. 
  <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
