@@ -190,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/abu-ibrahim-al-hashimi-al-qurayshi-isis.html">US Military Offers New Details on Raid That Led to Death of ISIS Leader</a> NYT: A tip from informants helped set in motion a commando raid that led to the death of the elusive terrorist, Abu Ibrahim al-Hashimi al-Qurayshi, in Syria last week. 
  <p class="updated_time"> 06:11 PM CT, Feb. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341966?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Can diplomacy prevent war?</a> BBC: Diplomats hope that warring sides can get off the road to war - but finding such a path is not easy. 
- <p class="updated_time"> 05:08 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/world/europe/london-police-cressida-dick-resigns-racism.html">Cressida Dick Resigns as London Police Commissioner</a> NYT: The commissioner, Cressida Dick, announced her resignation under pressure from the mayor over reports of bullying, misogyny and racism on the force. 
  <p class="updated_time"> 04:06 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-forces.html">Russia Massing More Troops Near Ukraine, Satellite Images Show</a> NYT: The Russian buildup includes more forces in Crimea, western Russia and Belarus, adding to fears that Russia could invade Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Feb. 10 </p> 
