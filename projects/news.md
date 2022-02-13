@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:14 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 08:22 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 08:22 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
+ <p class="updated_time"> 08:19 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
  <p class="updated_time"> 08:07 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada arrests remaining protesters at key border bridge</a> BBC: After a days-long standoff, police on the Canadian side of a key US border crossing being arrests. 
- <p class="updated_time"> 08:01 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada police in final push against bridge protesters</a> BBC: Police on the Canadian side of a key US border crossing begin clearing protesters. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
  <p class="updated_time"> 07:07 AM CT, Feb. 13 </p> 
@@ -74,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/nicaraguan-revolutionary-hero-dies-in-government-custody-11644719658">Nicaraguan Revolutionary Hero Dies in Government Custody</a> WSJ: Death of Hugo Torres, who once fought alongside President Daniel Ortega, raises fears for other political prisoners. 
  <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
- <p class="updated_time"> 03:11 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
@@ -187,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
+ <a href="https://www.npr.org/2022/02/13/1080464225/new-hampshire-gop-proposes-dramatic-new-congressional-map-angering-democrats">New Hampshire GOP proposes dramatic new congressional map, angering Democrats</a> NPR: In New Hampshire, a GOP plan to dramatically redraw the state's Congressional map has outraged Democrats. If approved, it could have a large effect on the midterm election. 
  <p class="updated_time"> 07:50 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/canada-truckers-border-protests-00008445">Blockades on Canada-U.S. border continue as protests swell</a> Politico: In Ottawa, the ranks of protesters swelled to what police said was 4,000 demonstrators. 
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
@@ -281,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
- <p class="updated_time"> 10:36 AM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080086260/biden-executive-order-frozen-afghan-assets">Biden signs executive order to try to free up frozen Afghan assets for aid</a> NPR: Because the Taliban controls the country — and has been sanctioned as a terrorism organization — the U.S. government is looking to set up a third-party trust fund to administer and distribute the aid. 
  <p class="updated_time"> 09:01 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/california-covid-workplace-vaccine-mandate-00008045">California to debate mandating Covid vaccines at all workplaces</a> Politico: The bill would require workers to show proof of vaccination. 
  <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
