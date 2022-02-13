@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:35 PM CT, Feb. 13 </p> 
+ <p class="updated_time"> 04:55 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 04:11 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
@@ -30,6 +30,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
+ <p class="updated_time"> 11:43 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Biden Speaks to Ukrainian Leader Zelensky as Prospect of Conflict Looms</a> WSJ: President Biden told Ukraine’s leader the U.S. and its allies would respond rapidly to any further Russian aggression against his country, the White House said. 
  <p class="updated_time"> 11:35 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
@@ -38,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
- <p class="updated_time"> 10:16 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Biden Speaks to Ukrainian Leader Zelensky as Prospect of Conflict Looms</a> WSJ: President Biden told Ukraine’s leader the U.S. and its allies would respond rapidly to any further Russian aggression against his country, the White House said. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
