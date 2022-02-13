@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:02 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ottawa Protests Swell as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
+ <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
+ <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Protests Swell in Canada’s Capital as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
+ <p class="updated_time"> 09:59 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protest: After a police raid... what next for truckers?</a> BBC: A police swoop on the protest at Windsor failed to shut it down. What will it take to get them to budge? 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:13 PM CT, Feb. 12 </p> 
@@ -32,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
  <p class="updated_time"> 04:27 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
- <p class="updated_time"> 03:55 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60361533?at_medium=RSS&at_campaign=KARANGA">Ambassador Bridge: Police launch bid to clear Canada trucker blockade</a> BBC: Police in Windsor, Ontario, are working to move protesting truckers off the Ambassador Bridge. 
  <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
  <p class="updated_time"> 03:21 PM CT, Feb. 12 </p> 
