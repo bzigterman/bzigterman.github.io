@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <p class="updated_time"> 12:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
+ <p class="updated_time"> 12:56 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 12:23 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
@@ -16,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, the secretary of state says. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
- <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
@@ -30,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
- <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Police clear last remaining protesters from key bridge between the U.S. and Canada</a> NPR: After an Ontario court ordered the blockade to end Friday evening, Canadian police arrested protesters and towed vehicles to clear the Ambassador Bridge. It was not clear when the bridge would reopen. 
  <p class="updated_time"> 09:37 AM CT, Feb. 13 </p> 
@@ -72,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 03:15 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
- <p class="updated_time"> 02:42 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
@@ -195,6 +195,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <p class="updated_time"> 12:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/ukraine-invasion-false-flag-00008470">U.S. 'watching very carefully' for phony Russian reason to kick off Ukraine invasion</a> Politico: Jake Sullivan warned of Vladimir Putin possibly using a false flag operation to put the blame on Ukraine for war. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
@@ -231,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1075600036/congress-midterm-election-colorado-eighth-district-latino-voters">A new House seat has big Latino voting power. It may be little comfort to Democrats</a> NPR: Donald Trump made gains with Latinos nationally in 2020. This year, voters in a competitive new Colorado congressional district are facing economic and pandemic concerns that could cost Democrats. 
- <p class="updated_time"> 02:42 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 10:56 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 08:38 PM CT, Feb. 12 </p> 
@@ -311,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
  <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
- <p class="updated_time"> 06:01 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/inflation-numbers.html">How Republicans Saw Inflation Coming Ahead of the Midterm Elections</a> NYT: The White House has been slow to recognize the political potency of rising prices. But Republicans had a plan, and they think the issue can help realign the American electorate. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
