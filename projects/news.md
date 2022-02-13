@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:41 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
- <p class="updated_time"> 10:34 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
@@ -46,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080059720/for-some-athletes-what-is-chinese-is-not-so-simple">For some athletes, what is Chinese is not so simple</a> NPR: Who gets to play for a country's national team at the Winter Olympics is an especially complicated question in China, where issues of identity, ethnicity, and citizenship are at stake. 
  <p class="updated_time"> 06:01 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/13/1079505737/before-covid-tb-was-the-worlds-worst-pathogen-its-still-a-monster-killer">Before COVID, TB was the world's worst pathogen. It's still a 'monster' killer</a> NPR: It was under control. And then it wasn't. In her new book Phantom Plague: How Tuberculosis Shaped History, VIdya Krishnan shows how "we repeat the same disease-spreading mistakes over and over." 
+ <p class="updated_time"> 05:33 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029">At Russia's Border with Ukraine, Pro-Kremlin Separatists Find Support</a> WSJ: In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60366628?at_medium=RSS&at_campaign=KARANGA">Chinese sites accused of censoring LGBT content from Friends</a> BBC: Fans say key scenes have been deleted from the hit US sitcom, which has been re-released in China. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
@@ -56,6 +60,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move to essentially seize funds held by the Afghan central bank. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 03:15 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
  <p class="updated_time"> 12:28 AM CT, Feb. 13 </p> 
@@ -84,20 +90,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
- <p class="updated_time"> 04:27 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/10/world/asia/beijing-olympics-shirtless-torch-samoa.html">Nathan Crumpton Became an Olympic Sensation, Without a Shirt and Without Competing</a> NYT: A flag-bearer for American Samoa lit up the internet when he appeared at the opening ceremony in Beijing wearing very little clothing in subfreezing weather. 
- <p class="updated_time"> 03:34 PM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/nicaraguan-revolutionary-hero-dies-in-government-custody-11644719658">Nicaraguan Revolutionary Hero Dies in Government Custody</a> WSJ: Death of Hugo Torres, who once fought alongside President Daniel Ortega, raises fears for other political prisoners. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60349040?at_medium=RSS&at_campaign=KARANGA">Chagos islanders in emotional, historic trip home</a> BBC: Andrew Harding boards a boat of Chagossians returning to the island the UK refuses to return to Mauritius. 
- <p class="updated_time"> 11:11 AM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540">Biden Warns Putin of 'Swift and Severe Costs' of Invading Ukraine</a> WSJ: The phone discussion between President Biden and Russian President Vladimir Putin yielded “no fundamental change,” a U.S. official said. Washington ordered most embassy staff out of the country and Moscow also began withdrawing its diplomatic presence there. 
  <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
@@ -391,8 +391,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/06/republicans-cheney-kinzinger-rubio-00006039">Republicans straddle line on RNC's Jan. 6 rhetoric</a> Politico: Marco Rubio, for one, condemned the Jan. 6 panel as "a partisan scam." 
  <p class="updated_time"> 11:30 AM CT, Feb. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/06/a-manchin-murkowski-mindmeld-00006035"> A Manchin-Murkowski mindmeld</a> Politico Playbook: And U.S. officials assess a potential Russian invasion of Ukraine. 
- <p class="updated_time"> 10:43 AM CT, Feb. 06 </p> 
- <a href="https://www.politico.com/news/2022/02/06/murkowski-biden-supreme-court-nominee-00006031">Murkowski to Biden: Pick SCOTUS nominee who can get GOP votes</a> Politico: "I would be honored to be able to support an exceptional African American woman,” she said. 
 
 
 </details>
