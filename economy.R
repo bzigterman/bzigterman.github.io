@@ -824,6 +824,38 @@ ggplot(data, aes(x = date,
 ggsave("plots/champaign_housing.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
+
+ggplot(data, aes(x = date,
+                 y = value,
+                 color = name)) +
+  geom_line() +
+  facet_wrap(~ name, scales = "free_y",
+             ncol = 1) +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_x_date(expand = expansion(mult = c(0,0)),
+               labels = label_date_short()) +
+  scale_y_continuous(labels = label_comma(),
+                     position = "right") +
+  expand_limits(y = 0) +
+  scale_colour_manual(guide = 'none',
+                      values = c("darkgreen","#674EA7","#B45F06","#d90000")) +
+  labs(caption = paste("Source: Realtor.com, retrieved from\nthe St. Louis Fed. Latest data:",
+                       tail(data$short_date,1))) +
+  theme_bw() +
+  theme(#axis.text.y = element_text(size = 10),
+        #axis.text.x = element_text(size = 8),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        panel.grid.major.x = element_line(colour = "grey93"),
+        strip.text = element_text(size = 11),
+        strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+ggsave("plots/champaign_housing_mobile.png",
+       width = 3, height = 8*(628/1200), dpi = 320)
+
 # Illinois ----
 ## flash index ----
 flash_index_archive <- read_html("https://igpa.uillinois.edu/page/flash-index-archive")
@@ -941,7 +973,15 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 [![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
 
-[![Housing]({{ site.baseurl }}/plots/champaign_housing.png)](https://fred.stlouisfed.org/series/ACTLISCOU17019)
+### Housing Metrics
+
+<a href=\"https://fred.stlouisfed.org/series/ACTLISCOU17019\">
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/champaign_housing.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/champaign_housing_mobile.png\" alt=\"\" />
+</picture>
+</a>
 
 ",better_cu_housing_table_html,"
 
