@@ -1190,7 +1190,11 @@ html {
 </table>
 </div>
 
-![USA fully vaccinated map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png"
+          media="(min-width: 750px)">
+  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png" alt="" />
+</picture>
 
 ![USA new cases map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png)
 
