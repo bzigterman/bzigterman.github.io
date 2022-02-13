@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 01:12 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 12:56 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 12:23 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
@@ -53,7 +53,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:03 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Top Biden Official Renews Warning of Imminent Conflict in Ukraine</a> WSJ: National security adviser Jake Sullivan says the U.S. is prepared for “the potential of a major military action in the coming days.” 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">NPR reporter dives into his family ties to Ukraine, Russia and the U.S.</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
+ <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">In a twist of fate, a family straddles the Russia-Ukraine conflict</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464148/ukraine-leader-says-u-s-panic-is-playing-into-russias-strategy">Ukraine leader says U.S. panic is playing into Russia's strategy</a> NPR: President Joe Biden and Russian President Vladimir Putin spoke for just over an hour Saturday but made no progress toward heading off what seems to be an impending Russian invasion of Ukraine. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
