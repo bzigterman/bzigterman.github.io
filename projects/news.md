@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
+ <p class="updated_time"> 01:50 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/brazils-joe-rogan-aiub-monark.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 01:36 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 01:12 PM CT, Feb. 13 </p> 
@@ -16,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 12:23 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:13 PM CT, Feb. 13 </p> 
@@ -186,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
  <p class="updated_time"> 01:52 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html">Readers Reflect on the State of Australian Politics</a> NYT: Some thoughts on a better politics — and some relief Australia isn’t America. 
- <p class="updated_time"> 07:20 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/science/olympics-skeleton-physics.html">The Slippery Science of Skeleton</a> NYT: Researchers are still figuring out how to enable athletes in the face-first Olympic sled race to go even faster. 
 
 
 </details>
@@ -275,12 +275,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
- <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 06:00 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/trump-rally-texas.html">The Traveling Trump Show Comes to South Texas</a> NYT: Pro-Trump rallies and conferences have taken on the flavor of religious revival, a mix between protest and party. 
+ <p class="updated_time"> 05:10 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/wisconsin-state-supreme-court-drop-boxes-ban-spring-election-00008377">Wisconsin state Supreme Court lets ban on drop boxes go into effect for spring election</a> Politico: The court had previously stayed the ban on drop boxes for the spring election primaries. 
  <p class="updated_time"> 04:53 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/congress-aides-unionize-house.html">On Capitol Hill, a Push to Unionize House Aides Gains Traction</a> NYT: Democrats have signed on to a resolution that would for the first time give House aides the same organizing protections other federal government employees enjoy. 
  <p class="updated_time"> 04:51 PM CT, Feb. 11 </p> 
