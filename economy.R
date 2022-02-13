@@ -849,7 +849,7 @@ ggplot(data, aes(x = date,
         panel.background = element_blank(),
         panel.grid.major.y = element_line(colour = "grey93"),
         panel.grid.major.x = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
+        #strip.text = element_text(size = 11),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
