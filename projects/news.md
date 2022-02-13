@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:21 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Protesters Vent Anger in Ottawa While Ontario Police Struggle to Tame Blockade at Bridge</a> NYT: By late Saturday afternoon, the police had partly pushed back the protesters at the Ambassador Bridge, a critical point on the U.S.-Canada border. 
+ <p class="updated_time"> 10:02 PM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Canada Live Updates: Ottawa Protests Swell as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:13 PM CT, Feb. 12 </p> 
