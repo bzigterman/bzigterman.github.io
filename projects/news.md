@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:10 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 07:31 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Protests Swell in Canada’s Capital as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
+ <p class="updated_time"> 07:15 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 07:07 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, Secretary of State Antony Blinken says. 
@@ -24,10 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60366628?at_medium=RSS&at_campaign=KARANGA">Chinese sites accused of censoring LGBT content from Friends</a> BBC: Fans say key scenes have been deleted from the hit US sitcom, which has been re-released in China. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
- <p class="updated_time"> 04:44 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Protests Swell in Canada’s Capital as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
  <p class="updated_time"> 04:38 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva's entourage to be investigated by Wada</a> BBC: Scrutiny of those around Kamila Valieva increases after the World Anti-Doping Agency says it will investigate the adults working with the teenager. 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Anti-doping agency to probe Valieva's entourage</a> BBC: Scrutiny of those around Kamila Valieva increases after the World Anti-Doping Agency says it will investigate the adults working with the teenager. 
  <p class="updated_time"> 04:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move to essentially seize funds held by the Afghan central bank. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -72,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 02:32 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
- <p class="updated_time"> 02:27 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/justin-trudeau-fidel-castro-falsehood.html">An old falsehood resurfaces: that Justin Trudeau is Fidel Castro’s son.</a> NYT: Some conspiracy theorists have pointed to a resemblance between Mr. Castro and Mr. Trudeau. But the facts don’t add up. 
  <p class="updated_time"> 01:30 PM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
