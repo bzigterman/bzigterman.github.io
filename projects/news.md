@@ -11,7 +11,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:24 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">The U.S. is suspending Mexican avocado imports</a> NPR: Mexico has acknowledged that the U.S. government has suspended all imports of Mexican avocados after a U.S. plant safety inspector in Mexico received a threat. 
+ <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico</a> NPR: The suspension would not affect game-day consumption as those avocados had already been shipped. 
  <p class="updated_time"> 05:13 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protests: After police cleared bridge, is this the end?</a> BBC: Police have cleared the costly bridge blockade at Windsor. Are two weeks of protests about to end? 
  <p class="updated_time"> 04:11 PM CT, Feb. 13 </p> 
@@ -29,7 +29,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:12 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
@@ -200,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/ukraine-invasion-false-flag-00008470">U.S. 'watching very carefully' for phony Russian reason to kick off Ukraine invasion</a> Politico: Jake Sullivan warned of Vladimir Putin possibly using a false flag operation to put the blame on Ukraine for war. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
