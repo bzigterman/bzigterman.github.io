@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:32 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Russia's Valieva trains before Olympics decision</a> BBC: Scrutiny of those around Kamila Valieva increases after the World Anti-Doping Agency says it will investigate the adults working with the teenager. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
- <p class="updated_time"> 11:53 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Russia's Valieva trains before Olympics decision</a> BBC: Scrutiny of those around Kamila Valieva increases with the International Olympic Committee formally asking the World Anti-Doping Agency to investigate the teen's entourage. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
