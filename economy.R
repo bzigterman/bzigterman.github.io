@@ -975,13 +975,11 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ### Housing Metrics
 
-<a href=\"https://fred.stlouisfed.org/series/ACTLISCOU17019\">
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_housing.png\"
           media=\"(min-width: 750px)\">
   <img src=\"{{ site.baseurl }}/plots/champaign_housing_mobile.png\" alt=\"\" />
 </picture>
-</a>
 
 ",better_cu_housing_table_html,"
 
