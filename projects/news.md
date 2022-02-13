@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
- <p class="updated_time"> 08:50 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 09:29 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
+ <p class="updated_time"> 09:03 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, Secretary of State Antony Blinken says. 
+ <p class="updated_time"> 09:02 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
+ <p class="updated_time"> 09:01 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Ontario Police Arrest Protesters Near Border Bridge Blockade</a> NYT: Since Monday, truckers and other antigovernment protesters have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. Now the police have moved in. 
+ <p class="updated_time"> 08:59 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60366037?at_medium=RSS&at_campaign=KARANGA">Venice Carnival returns after two year absence</a> BBC: After being cancelled for two years due to the pandemic, the Venice Carnival is back. 
+ <p class="updated_time"> 08:58 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60368498?at_medium=RSS&at_campaign=KARANGA">Pakistan: Man accused of blasphemy killed by mob in Khanewal</a> BBC: More than 80 people are detained after a man accused of desecrating the Koran is killed in Khanewal. 
  <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
- <p class="updated_time"> 08:39 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, Secretary of State Antony Blinken says. 
- <p class="updated_time"> 08:26 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada police in final push against bridge protesters</a> BBC: Police on the Canadian side of a key US border crossing begin clearing protesters. 
  <p class="updated_time"> 08:22 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
@@ -138,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60311988?at_medium=RSS&at_campaign=KARANGA">Is Trudeau losing his fight against truckers?</a> BBC: Anti-vaccine mandate protests are in their third week and Mr Trudeau is under pressure to stop them. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
- <p class="updated_time"> 06:09 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60333219?at_medium=RSS&at_campaign=KARANGA">The hidden side of Ethiopia's brutal civil war</a> BBC: The BBC gains rare access to the country, hearing from civilians caught in the crossfire. 
  <p class="updated_time"> 06:07 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341236?at_medium=RSS&at_campaign=KARANGA">How Ouka the dog started flying on a paraglider</a> BBC: Ouka the dog and his owner Shams can be seen flying in the French Alps. 
  <p class="updated_time"> 06:06 PM CT, Feb. 11 </p> 
@@ -189,6 +193,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
+ <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
  <p class="updated_time"> 08:49 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
@@ -287,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080164367/russia-ukraine-invasion-olympics-sullivan">The U.S. orders embassy staff in Ukraine to leave over fears of a Russian attack</a> NPR: A senior U.S. military official said something was detected in recent days that sharply heightened concern that an invasion is coming. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
- <p class="updated_time"> 07:21 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/anti-gay-pastor-contention-job-adams-administration-00008048">Anti-gay pastor still in contention for job in Adams administration</a> Politico: Fernando Cabrera, who represented the Bronx as a Democrat in the City Council, has been showing up at a municipal building across the street from City Hall while he awaits his assignment in the Adams administration. 
  <p class="updated_time"> 06:04 AM CT, Feb. 11 </p> 
  <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
@@ -343,8 +349,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 01:01 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/women-candidates-of-color-lead-gop-charge-to-flip-the-house-00006300">Women, candidates of color lead GOP charge to flip the House</a> Politico: There are more female and Hispanic Republicans running for office than ever before, according to the House GOP campaign arm. 
- <p class="updated_time"> 12:54 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/couple-arrested-launder-billion-crypto-2016-bitfinex-hack-00006715">Couple charged with money laundering tied to 2016 $4.5B crypto hack</a> Politico: “Criminals always leave tracks,” FBI Deputy Director Paul M. Abbate said in a statement. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
