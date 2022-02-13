@@ -246,7 +246,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">In Reversal, F.D.A. Delays Push for Shots for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
  <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
