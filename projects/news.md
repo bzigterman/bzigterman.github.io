@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:00 PM CT, Feb. 13 </p> 
+ <p class="updated_time"> 05:24 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
+ <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
+ <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">The U.S. is suspending Mexican avocado imports</a> NPR: Mexico has acknowledged that the U.S. government has suspended all imports of Mexican avocados after a U.S. plant safety inspector in Mexico received a threat. 
+ <p class="updated_time"> 05:13 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protests: After police cleared bridge, is this the end?</a> BBC: Police have cleared the costly bridge blockade at Windsor. Are two weeks of protests about to end? 
  <p class="updated_time"> 04:11 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 03:29 PM CT, Feb. 13 </p> 
@@ -82,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
- <p class="updated_time"> 09:59 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada truckers protest: After a police raid, what next?</a> BBC: A police swoop on the protest at Windsor failed to shut it down. What will it take to get them to budge? 
  <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/u-s-japan-and-south-korea-present-united-front-on-north-korea-11644730580">U.S., Japan and South Korea Present United Front on North Korea</a> WSJ: The U.S., Japan and South Korea will strengthen their joint efforts to deter North Korea’s missile activity and nuclear ambitions, while continuing to push for diplomatic engagement with Pyongyang, the allies’ senior diplomats said. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
@@ -120,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police clear out truckers, but protesters on foot keep U.S.-Canada bridge closed </a> NPR: After days of protests against COVID-19 restrictions, Canadian truckers blockading a key border trade crossing have begun to leave. But protesters on foot kept the Ambassador Bridge closed. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354252/tropical-philippines-has-only-one-entrant-in-the-winter-olympics">Tropical Philippines has only one entrant in the Winter Olympics </a> NPR: The Philippines has only one entrant in the Beijing Olympics: Asa Miller, who will take part in the men's giant slalom Sunday. But there's growing interest in winter sports in the tropical country. 
- <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080354231/is-russia-actually-planning-to-invade-ukraine">Is Russia actually planning to invade Ukraine?</a> NPR: Scott Simon talks to political scientist Harun Yilmaz, who argues that Russia will gain less by actually invading Ukraine than by threatening to do so. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
