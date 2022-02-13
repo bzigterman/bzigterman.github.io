@@ -18,11 +18,11 @@ Current:
 - 20°
 - mist
 - 83% humidity
-- 6 mph wind
+- 7 mph wind
 - 06:48 a.m. sunrise
 - 05:25 p.m. sunset
 
-<p class="updated_time"> Latest data: 10:54 AM CT, February 13</p>
+<p class="updated_time"> Latest data: 11:07 AM CT, February 13</p>
 
 ## Severe Thunderstorm Outlook
 
