@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:55 PM CT, Feb. 13 </p> 
+ <p class="updated_time"> 05:00 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 04:11 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
@@ -30,7 +30,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
- <p class="updated_time"> 11:43 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 11:58 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Biden Speaks to Ukrainian Leader Zelensky as Prospect of Conflict Looms</a> WSJ: President Biden told Ukraine’s leader the U.S. and its allies would respond rapidly to any further Russian aggression against his country, the White House said. 
  <p class="updated_time"> 11:35 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
@@ -226,11 +226,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
  <p class="updated_time"> 06:50 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/hawaii-japan-north-korea-south-00008444">U.S., Japan, South Korea meet in Hawaii to discuss North Korea</a> Politico: North Korea has rebuffed American offers to resume diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
