@@ -934,7 +934,11 @@ imageurl: https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Ch
 
 ## Champaign County
 
-![Champaign County Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png)
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_cu_covid_table_html,"
 
