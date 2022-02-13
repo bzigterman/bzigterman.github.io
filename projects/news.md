@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
  <p class="updated_time"> 04:44 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Ukrainian Leader Urges Calm as U.S. Warns Invasion Could Come Any Day</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, but there was no sign of a diplomatic breakthrough. More than a dozen nations have told their citizens to leave Ukraine. 
  <p class="updated_time"> 04:44 AM CT, Feb. 13 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/americas/justin-trudeau-fidel-castro-falsehood.html">An old falsehood resurfaces: that Justin Trudeau is Fidel Castro’s son.</a> NYT: Some conspiracy theorists have pointed to a resemblance between Mr. Castro and Mr. Trudeau. But the facts don’t add up. 
  <p class="updated_time"> 01:30 PM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/canada-police-prepare-to-remove-bridge-protesters-choking-off-u-s-canada-trade-11644676966">Canada Police Face Growing Crowd in Effort to Clear Crucial Bridge to U.S.</a> WSJ: Efforts to clear protesters blocking traffic on a crucial bridge between the U.S. and Canada appear to have stalled Saturday, as an initial crowd of roughly 50 people swelled to over 500, among them parents with children. 
- <p class="updated_time"> 01:21 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60359061?at_medium=RSS&at_campaign=KARANGA">Covid protests: Hundreds fined and dozens arrested as convoy enters Paris</a> BBC: Police intercept lorries trying to join a protest against France's coronavirus regulations. 
  <p class="updated_time"> 12:14 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
