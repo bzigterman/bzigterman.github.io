@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
+ <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:13 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Zelensky urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, the secretary of state says. 
- <p class="updated_time"> 12:06 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine Live Updates: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/panda-diplomacy-bill.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 11:51 AM CT, Feb. 13 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60329097?at_medium=RSS&at_campaign=KARANGA">Royal Enfield: A family's decade-long search for a missing motorbike</a> BBC: Arun Srinivasan spent 15 years tracking down his father's missing motorbike - a beloved black Royal Enfield. 
  <p class="updated_time"> 06:03 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60356210?at_medium=RSS&at_campaign=KARANGA">Why are cryptocurrency adverts taking over the Super Bowl?</a> BBC: Cryptocurrency companies are set to dominate the commercials at this year's NFL final. 
- <p class="updated_time"> 05:43 PM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
  <p class="updated_time"> 03:49 PM CT, Feb. 12 </p> 
