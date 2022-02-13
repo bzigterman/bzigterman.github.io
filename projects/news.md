@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:10 AM CT, Feb. 13 </p> 
+ <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
+ <p class="updated_time"> 11:33 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
+ <p class="updated_time"> 11:29 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Live Updates: Crossings at Blockaded Canadian Bridge May Resume Soon as Police Move In</a> NYT: Declaring “zero tolerance,” the police cleared protesters who have been obstructing the Ambassador Bridge between Windsor and Detroit, costing automakers millions of dollars. 
  <p class="updated_time"> 11:10 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
- <p class="updated_time"> 10:59 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Live Updates: Fears of Imminent Russian Invasion of Ukraine Mount as Diplomacy Stalls</a> NYT: President Biden spoke with President Vladimir V. Putin of Russia on Saturday, warning that the cost of an attack would be “swift and severe.” The German leader will travel to Moscow this week, as Western leaders worry the window for a diplomatic solution is closing. 
  <p class="updated_time"> 10:57 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
- <p class="updated_time"> 10:01 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/article/canada-trucker-protests.html">What to Know About the Canada Trucker Protests</a> NYT: Once narrowly focused on a vaccine mandate for drivers entering Canada from the U.S., the protests have ballooned into a sprawling campaign against various grievances. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -66,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 03:15 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
+ <p class="updated_time"> 02:42 AM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 12:28 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
- <p class="updated_time"> 11:00 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/canada-protests-police-response.html">Canada Toughens Stance on Protests, Promising ‘Robust’ Police Response</a> NYT: After treading lightly for weeks, officials obtained a court order to halt the blockade of a major route to the United States. They also vowed fines and arrests. 
  <p class="updated_time"> 07:33 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/the-fda-delays-action-on-covid-shots-for-young-children.html">The F.D.A. delays action on Covid shots for young children.</a> NYT: In a striking reversal, federal regulators said that they would wait for data on whether three doses of Pfizer-BioNTech’s vaccine are effective in children younger than 5. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
