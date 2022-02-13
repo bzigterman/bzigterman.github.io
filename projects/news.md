@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60365017?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US defends evacuating embassy as Ukraine urges calm</a> BBC: The "imminent" threat of Russian invasion justifies action, says Secretary of State Antony Blinken. 
  <p class="updated_time"> 01:32 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Russia's Valieva trains before Olympics decision</a> BBC: Scrutiny of those around Kamila Valieva increases after the World Anti-Doping Agency says it will investigate the adults working with the teenager. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
@@ -34,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 05:42 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/02/12/world/russia-ukraine-news">In Phone Call, Biden Warns Putin of ‘Severe’ Costs of Invading Ukraine</a> NYT: The one-hour call came hours after the State Department ordered all but a “core team” of American diplomats to leave the embassy in Kyiv amid concerns of an imminent Russian attack. An aide to Putin dismissed such worries as “hysteria.” 
- <p class="updated_time"> 04:46 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60361983?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: A dozen nations tell citizens to leave Ukraine</a> BBC: US President Joe Biden again warns Russian leader Vladimir Putin against invading Ukraine. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420125/canada-orders-end-to-major-bridge-blockade-as-convoy-protests-spread-elsewhere">Canada orders end to major bridge blockade as convoy protests spread elsewhere</a> NPR: Canadian authorities moved to clear protesters who had blocked a key international crossing between the U.S. and Canada in Ontario. 
  <p class="updated_time"> 04:27 PM CT, Feb. 12 </p> 
