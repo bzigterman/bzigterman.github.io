@@ -14,6 +14,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau">Protests Swell in Canada’s Capital as Ontario Police Struggle to End Bridge Blockade</a> NYT: By Saturday night, the Ambassador Bridge, a key crossing at the U.S.-Canada border, was still closed. Protesters in Ottawa, the capital, vastly outnumbered the police. 
  <p class="updated_time"> 09:59 PM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protest: After a police raid... what next for truckers?</a> BBC: A police swoop on the protest at Windsor failed to shut it down. What will it take to get them to budge? 
+ <p class="updated_time"> 08:39 PM CT, Feb. 12 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60364731?at_medium=RSS&at_campaign=KARANGA">Russia's Valieva trains before Olympics decision</a> BBC: Russian teenage figure skater Kamila Valieva continues to prepare for her individual event at the Beijing Winter Olympics despite news of a failed doping test. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:13 PM CT, Feb. 12 </p> 
@@ -140,22 +142,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60341676?at_medium=RSS&at_campaign=KARANGA">Nato and its role in the Ukraine crisis</a> BBC: The role of Nato is crucial in our understanding of Russia's troop build-up and the West's reaction to it. 
  <p class="updated_time"> 05:52 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/vaccine-mandate-protests-paris.html">French Demonstrators Converge on Paris, Inspired by Canadian Trucker Protests</a> NYT: The police have deployed over 7,000 officers around the city and have already issued a ban against the convoy. 
- <p class="updated_time"> 05:04 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60351768?at_medium=RSS&at_campaign=KARANGA">Lawmakers allege 'secret' CIA spying on unwitting Americans</a> BBC: Spy agencies are conducting "warrantless backdoor searches" of Americans, two Democrat senators say. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
  <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
- <p class="updated_time"> 02:09 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60354950?at_medium=RSS&at_campaign=KARANGA">US father and son 'chased and shot at' black FedEx driver</a> BBC: The FedEx driver is seeking hate crime charges against two men who shot at him while he was on the job. 
  <p class="updated_time"> 01:57 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60333422?at_medium=RSS&at_campaign=KARANGA">Amazon deforestation: Record high destruction of trees in January</a> BBC: An area of trees more than seven times the size of Manhattan, New York was destroyed. 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
- <p class="updated_time"> 12:21 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-tyne-60354593?at_medium=RSS&at_campaign=KARANGA">Durham Police call handlers save woman in Canada</a> BBC: The woman in Durham, Canada, had typed "I need help, he is in the house" before falling silent. 
  <p class="updated_time"> 11:13 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
@@ -166,12 +162,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-aims-to-thwart-chinas-plan-for-atlantic-base-in-africa-11644607931">U.S. Aims to Thwart China's Plan for Atlantic Base in Africa</a> WSJ: A delegation of senior U.S. diplomatic and military personnel will try to convince Equatorial Guinea against giving Beijing a launchpad in waters the U.S. considers its backyard. 
  <p class="updated_time"> 10:24 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/taliban-are-holding-westerners-in-afghanistan-including-one-american-11644595858">Taliban Detain Westerners in Afghanistan</a> WSJ: The Islamist group released two journalists on Friday and has held some Westerners for weeks, including British nationals, damaging relations with foreign capitals. 
- <p class="updated_time"> 08:32 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60329120?at_medium=RSS&at_campaign=KARANGA">Russian figure skater's failed drug test confirmed</a> BBC: The International Testing Agency confirms teenage Russian Olympic Committee figure skater Kamila Valieva failed a drugs test in December. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
- <p class="updated_time"> 07:41 AM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-60347062?at_medium=RSS&at_campaign=KARANGA">Kanye wants Billie Eilish to say sorry or he'll pull out of Coachella</a> BBC: The rapper wants her to apologise for crowd safety comments he thinks are aimed at Travis Scott. 
  <p class="updated_time"> 05:43 AM CT, Feb. 11 </p> 
  <a href="https://www.wsj.com/articles/china-tries-to-dial-back-its-high-abortion-rate-11644597797">China Tries to Dial Back Its High Abortion Rate</a> WSJ: China is stepping up efforts to reduce abortions in young women, signaling a shift in attitude toward a widely used procedure that has long been part of state-directed family planning. 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
