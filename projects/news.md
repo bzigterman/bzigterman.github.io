@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:57 PM CT, Feb. 13 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/canada/ambassador-bridge-canada-arrrests.html">Blockaded Ambassador Bridge in Canada May Reopen Soon</a> NYT: Officials say traffic can resume over the Ambassador Bridge once conditions are deemed safe. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-vote.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
- <p class="updated_time"> 10:57 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60368408?at_medium=RSS&at_campaign=KARANGA">Canada bridge protesters cleared by police after a week of disruption</a> BBC: Police on the Canadian side of a key US border crossing clear protesters after a week of disruption. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
