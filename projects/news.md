@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
+ <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
+ <p class="updated_time"> 10:55 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
+ <p class="updated_time"> 10:53 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
  <p class="updated_time"> 10:39 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
- <p class="updated_time"> 10:31 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
- <p class="updated_time"> 10:31 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 09:51 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
- <p class="updated_time"> 09:00 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested after he tried to escape from the apartment, had a record of misdemeanor arrests. 
  <p class="updated_time"> 08:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 08:18 PM CT, Feb. 13 </p> 
@@ -36,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey is rebranding its internationally recognised name as “Türkiye”? 
  <p class="updated_time"> 06:00 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
+ <p class="updated_time"> 05:48 PM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">U.S.-Canada Bridge Reopens After Police Clear Protest</a> WSJ: Commercial and passenger traffic resumed Sunday night on a bridge connecting Detroit with the Canadian border city of Windsor, Ontario, after protesters shut down the corridor for roughly a week in a fight against Covid-19 restrictions. 
  <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico</a> NPR: The suspension would not affect game-day consumption as those avocados had already been shipped. 
  <p class="updated_time"> 05:13 PM CT, Feb. 13 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 01:58 PM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">Canadian Police Clear Protesters Disrupting Cross-Border Bridge Traffic</a> WSJ: The police arrested protesters to clear access to the crucial Ambassador Bridge connecting Detroit with Canada, over which hundreds of millions of dollars of goods are transported daily. 
  <p class="updated_time"> 01:50 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 01:23 PM CT, Feb. 13 </p> 
@@ -116,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080381785/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasio">Biden tells Putin the U.S. will swiftly and severely respond to a Ukraine invasion</a> NPR: President Biden spoke to his Russian counterpart today amid increasing tensions over Ukraine. 
  <p class="updated_time"> 11:54 AM CT, Feb. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60349040?at_medium=RSS&at_campaign=KARANGA">Chagos islanders in emotional, historic trip home</a> BBC: Andrew Harding boards a boat of Chagossians returning to the island the UK refuses to return to Mauritius. 
- <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:19 AM CT, Feb. 12 </p> 
@@ -146,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
- <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
  <p class="updated_time"> 07:33 PM CT, Feb. 11 </p> 
@@ -191,6 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
+ <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:17 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/missouri-senate-ad-slams-transgender-athletes-00008540">Senate ad slams transgender athletes ‘pretending to be women’</a> Politico: Criticizing collegiate swimmer Lia Thomas, Missouri GOP Rep. Vicky Hartzler says she “won’t look away while woke liberals destroy women’s sports.” 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
@@ -245,8 +247,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/elon-musk-space-freaking-out-competitors-00008441">Why Musk’s biggest space gamble is freaking out his competitors</a> Politico: Starship is threatening NASA’s moon contractors, which are watching its progress with a mix of awe and horror. 
  <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">'Swift and severe costs': Ukraine tension ratchets up as Biden and Putin speak</a> Politico: Biden promises decisive response by U.S. and its allies, warning that a "further Russian invasion of Ukraine would produce widespread human suffering." 
- <p class="updated_time"> 10:54 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
@@ -269,8 +269,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
- <p class="updated_time"> 03:05 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
