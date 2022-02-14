@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russian Buildup Reaching ‘Crescendo,’ U.S. Warns, as Diplomacy Sputters</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The Ukrainian grandmother preparing for war</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
  <p class="updated_time"> 05:36 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 05:31 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60374881?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Gunmen attack wake, then target funeral</a> BBC: After killing three people at a wake, gunmen shoot dead six mourners at the funeral of the same man. 
  <p class="updated_time"> 05:24 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60370984?at_medium=RSS&at_campaign=KARANGA">Ivan Reitman: Ghostbusters director dies aged 75</a> BBC: The Czechoslovakia-born filmmaker made some of the biggest comedies of the 80s and 90s. 
- <p class="updated_time"> 05:19 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
- <p class="updated_time"> 04:28 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
@@ -122,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/13/1079505737/before-covid-tb-was-the-worlds-worst-pathogen-its-still-a-monster-killer">Before COVID, TB was the world's worst pathogen. It's still a 'monster' killer</a> NPR: It was under control. And then it wasn't. In her new book Phantom Plague: How Tuberculosis Shaped History, VIdya Krishnan shows how "we repeat the same disease-spreading mistakes over and over." 
  <p class="updated_time"> 05:33 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029">At Russia's Border with Ukraine, Pro-Kremlin Separatists Find Support</a> WSJ: In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution. 
- <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
  <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
