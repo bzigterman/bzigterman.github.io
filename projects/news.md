@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:51 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
+ <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
+ <p class="updated_time"> 02:05 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 01:56 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Relocating to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
+ <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
- <p class="updated_time"> 01:49 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
  <p class="updated_time"> 01:30 PM CT, Feb. 14 </p> 
@@ -28,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378479?at_medium=RSS&at_campaign=KARANGA">Kentucky mayoral candidate survives being targeted by a gunman</a> BBC: Craig Greenberg is unharmed after someone entered and fired shots at him. A suspect has been arrested. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
- <p class="updated_time"> 01:10 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 12:41 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379833?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia says diplomatic solution still possible</a> BBC: Diplomacy is "far from being exhausted" over Ukraine, Russia's foreign minister tells President Putin. 
  <p class="updated_time"> 12:34 PM CT, Feb. 14 </p> 
@@ -60,14 +66,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60378009?at_medium=RSS&at_campaign=KARANGA">74% of ransomware revenue goes to Russia-linked hackers</a> BBC: Crypto-currency researchers say more than $400m of cyber-crime funds go to Russian gangs. 
+ <p class="updated_time"> 09:07 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-to-visit-bahrain-for-first-time-amid-regional-security-push-11644843878">Israeli Prime Minister Visits Bahrain for First Time in Regional Security Push</a> WSJ: Naftali Bennett is set to meet with the kingdom’s ruler to discuss strengthening cooperation between the two nations after a 2020 agreement to establish diplomatic ties. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
  <p class="updated_time"> 08:24 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 08:15 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">U.S.-Canada Traffic Ramps Up After Bridge Reopens</a> WSJ: Cross-border traffic between Michigan and the Canadian province of Ontario was slowly returning to normal after a bridge crossing the Detroit River reopened following a week of demonstrations against Covid-19 vaccine mandates. 
- <p class="updated_time"> 07:29 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-to-visit-bahrain-for-first-time-amid-regional-security-push-11644843878">Israeli Prime Minister Visits Bahrain for First Time in Regional Security Push</a> WSJ: Naftali Bennett is set to meet with the kingdom’s ruler to discuss strengthening cooperation between the two nations after a 2020 agreement to establish diplomatic ties. 
  <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570">Ukraine's Capital Awaits a Potential Russian Attack With Determination, Calm</a> WSJ: Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
@@ -108,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080505798/u-s-women-make-monobob-history-at-the-2022-beijing-olympics">U.S. women make monobob history at the 2022 Winter Olympics</a> NPR: This is gold medalist Kaillie Humphries first medal for the U.S. The champion previously won gold and bronze medals for her home country of Canada. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
- <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 06:13 PM CT, Feb. 13 </p> 
@@ -128,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
- <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
@@ -170,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
  <p class="updated_time"> 06:07 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341236?at_medium=RSS&at_campaign=KARANGA">How Ouka the dog started flying on a paraglider</a> BBC: Ouka the dog and his owner Shams can be seen flying in the French Alps. 
- <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
 
 
 </details>
