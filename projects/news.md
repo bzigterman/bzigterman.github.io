@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:58 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 10:29 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
- <p class="updated_time"> 09:56 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 10:26 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
+ <p class="updated_time"> 10:01 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 09:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett flew to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 09:19 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60378009?at_medium=RSS&at_campaign=KARANGA">74% of ransomware revenue goes to Russia-linked hackers</a> BBC: Crypto-currency researchers say more than $400m of cyber-crime funds go to Russian gangs. 
  <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
@@ -62,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-olympics-2022">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
- <p class="updated_time"> 11:46 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60256141?at_medium=RSS&at_campaign=KARANGA">Scott Morrison criticised by New Zealand band over song use</a> BBC: Rock band Dragon called Scott Morrison's rendition of their hit song, April Sun in Cuba, "cynical". 
  <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
  <p class="updated_time"> 11:30 PM CT, Feb. 13 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
- <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:11 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/sec-blockfi-penalty-00008609">SEC, states hit crypto lender BlockFi with $100M penalty</a> Politico: The SEC announced the settlement the morning after a Super Bowl broadcast that was chockablock with expensive ads for crypto exchanges and trading platforms. 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/campaigns-roll-out-super-bowl-ads-00008579">Campaigns roll out Super Bowl ads</a> Politico: One GOP Senate candidate bought time for a 30-second “Let’s Go Brandon” spot. 
  <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
@@ -252,9 +254,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -361,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
- <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/meatpacking-students-agriculture-usda-00005427">Why Biden wants more U.S. students to become butchers</a> Politico: The Biden administration is trying to scale up local and regional meat processing to increase competition in the industry. 
  <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
  <p class="updated_time"> 07:25 PM CT, Feb. 07 </p> 
