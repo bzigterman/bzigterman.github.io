@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:39 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 02:55 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 02:06 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
@@ -293,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204922/half-of-frozen-afghan-funds-will-be-aid-for-afghans-the-rest-may-go-to-9-11-fami">Half of frozen Afghan funds will be aid for Afghans. The rest may go to 9/11 families</a> NPR: When the Taliban took over Afghanistan last month, the U.S. treasury department froze $7 billion in Afghan government funds. Now, the Biden administration has decided what it will do the money. 
  <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204887/gov-desantis-may-stop-florida-migrant-shelters-from-caring-for-unaccompanied-kid">Gov. DeSantis may stop Florida migrant shelters from caring for unaccompanied kids</a> NPR: Gov. Ron DeSantis is threatening to stop migrant shelters in Florida from caring for unaccompanied children. That's dividing Cuban-Americans in a state with a long history of welcoming children. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204857/white-house-says-a-full-scale-russian-invasion-of-ukraine-could-happen-within-da">White House says a full-scale Russian invasion of Ukraine could happen within days</a> NPR: The White House is warning that a Russian invasion of Ukraine could happen within days, though U.S. officials don't believe a final decision has been made, or know the scope of a potential invasion. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
