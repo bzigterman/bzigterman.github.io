@@ -8,16 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:55 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
- <p class="updated_time"> 11:47 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 01:10 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
+ <p class="updated_time"> 12:57 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60378479?at_medium=RSS&at_campaign=KARANGA">Kentucky mayoral candidate survives being targeted by a gunman</a> BBC: Craig Greenberg is unharmed after someone entered and fired shots at him. A suspect has been arrested. 
+ <p class="updated_time"> 12:56 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 12:41 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379833?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia says diplomatic solution still possible</a> BBC: Diplomacy is "far from being exhausted" over Ukraine, Russia's foreign minister tells President Putin. 
- <p class="updated_time"> 11:46 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order and break up the protests that have paralyzed Ottawa’s core. At the border, Canadian officials reclaimed a major crossing that had been blockaded for nearly a week. 
- <p class="updated_time"> 11:36 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-demolished.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
- <p class="updated_time"> 11:32 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 12:37 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
+ <p class="updated_time"> 12:34 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080632899/bank-freezes-funds-canadian-border-protest">A bank freezes about $1.1 million in funds for Canadian border protests</a> NPR: TD Bank says most of the money came from a GoFundMe campaign that raised cash for the "trucker protest" before being shut down. 
+ <p class="updated_time"> 12:27 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
+ <p class="updated_time"> 12:24 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
+ <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
+ <p class="updated_time"> 11:54 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60377971?at_medium=RSS&at_campaign=KARANGA">Abba Kyari: Nigerian 'super cop' arrested in drug cartel case</a> BBC: Abba Kyari, already accused of money laundering, is now accused of being part of a drugs cartel. 
+ <p class="updated_time"> 11:50 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60382182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Social media videos show Russian military equipment on the move near border</a> BBC: Social media clips show military vehicles on the move - despite Russia's denials of an attack. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
@@ -26,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080628772/camilla-duchess-covid-positive">Camilla, Duchess of Cornwall tests positive for COVID-19</a> NPR: Camilla is the wife of Prince Charles, who also received a positive test several days ago. Camilla tested negative that day and proceeded with three public engagements. 
  <p class="updated_time"> 11:07 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378477?at_medium=RSS&at_campaign=KARANGA">Gun control advocates 'disappointed' with President Biden</a> BBC: Four years after the Parkland shooting, a new website tracks firearm incidents during Biden's tenure. 
- <p class="updated_time"> 10:58 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protester. 
  <p class="updated_time"> 10:47 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
  <p class="updated_time"> 10:37 AM CT, Feb. 14 </p> 
@@ -44,34 +56,36 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
+ <p class="updated_time"> 07:47 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
+ <p class="updated_time"> 07:29 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-to-visit-bahrain-for-first-time-amid-regional-security-push-11644843878">Israeli Prime Minister Visits Bahrain for First Time in Regional Security Push</a> WSJ: Naftali Bennett is set to meet with the kingdom’s ruler to discuss strengthening cooperation between the two nations after a 2020 agreement to establish diplomatic ties. 
+ <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570">Ukraine's Capital Awaits a Potential Russian Attack With Determination, Calm</a> WSJ: Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
+ <p class="updated_time"> 06:20 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">U.S.-Canada Traffic Ramps Up After Bridge Reopens</a> WSJ: Cross-border traffic between Michigan and the Canadian province of Ontario was slowly returning to normal after a bridge crossing the Detroit River reopened following a week of demonstrations against Covid-19 vaccine mandates. 
  <p class="updated_time"> 06:00 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60375317?at_medium=RSS&at_campaign=KARANGA">Police kill man wielding knife at Paris station</a> BBC: French police shoot dead a man wielding a long-bladed knife at the Gare du Nord train station. 
  <p class="updated_time"> 05:59 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60374923?at_medium=RSS&at_campaign=KARANGA">Syria: Kidnapped boy released after video of beating sparks outcry</a> BBC: The abduction of Fawaz al-Qataifan, 8, sparked an outcry when footage emerged of him being whipped. 
- <p class="updated_time"> 05:54 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">West Steps Up Diplomatic Efforts to Avert Russian Attack on Ukraine</a> WSJ: German chancellor meets with Ukraine’s leader before plans to visit Putin in Moscow on Tuesday, as Kyiv rebuffs Russian demands not to seek NATO membership. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The 78-year-old Ukrainian grandmother preparing for a Russian invasion</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
  <p class="updated_time"> 05:31 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60374881?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Gunmen attack wake, then target funeral</a> BBC: After killing three people at a wake, gunmen shoot dead six mourners at the funeral of the same man. 
- <p class="updated_time"> 05:24 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60370984?at_medium=RSS&at_campaign=KARANGA">Ivan Reitman: Ghostbusters director dies aged 75</a> BBC: The Czechoslovakia-born filmmaker made some of the biggest comedies of the 80s and 90s. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
- <p class="updated_time"> 02:30 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/doing-business-in-myanmar-is-tough-but-one-company-finds-that-leaving-isnt-much-easier-11644845400">Doing Business in Myanmar Is Tough, but One Company Finds That Leaving Isn't Much Easier</a> WSJ: Norwegian telecommunications provider Telenor is among nearly two dozen major foreign companies that have decided to exit from the country since last year’s coup. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
@@ -86,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/soaring-inflation-means-britons-face-biggest-fall-in-real-incomes-in-30-years-11644834600">Soaring Inflation Means Britons Face Biggest Fall in Real Incomes in 30 Years</a> WSJ: Inflation is galloping ahead of wage growth, a stark illustration of the challenge facing central banks as they try to tame prices without snuffing out recoveries from the pandemic. 
  <p class="updated_time"> 11:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60371895?at_medium=RSS&at_campaign=KARANGA">New Zealand authorities blast James Blunt and Baby Shark at vaccine mandate protesters</a> BBC: New Zealand authorities use music to try and disperse a week-long vaccine mandate protest. 
- <p class="updated_time"> 11:08 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protests: After police cleared bridge, is this the end?</a> BBC: Police have cleared the costly bridge blockade at Windsor. Are two weeks of protests about to end? 
  <p class="updated_time"> 11:03 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/14/1080505798/u-s-women-make-monobob-history-at-the-2022-beijing-olympics">U.S. women make monobob history at the 2022 Winter Olympics</a> NPR: This is gold medalist Kaillie Humphries first medal for the U.S. The champion previously won gold and bronze medals for her home country of Canada. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
@@ -100,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60292915?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia waging an information war?</a> BBC: Several tactics are being used by pro-Kremlin sources to spread stories about Ukraine. 
  <p class="updated_time"> 06:10 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60339741?at_medium=RSS&at_campaign=KARANGA">Cuba's first gay hotel reopens as human rights deteriorate</a> BBC: Cuba reopens its first LGBTQ hotel, but can tourists ignore the country's poor human rights record? 
- <p class="updated_time"> 06:09 PM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/canadian-police-begin-to-clear-protesters-disrupting-cross-border-bridge-traffic-11644759497">U.S.-Canada Bridge Reopens After Police Clear Protest</a> WSJ: Commercial and passenger traffic resumed Sunday night on a bridge connecting Detroit with the Canadian border city of Windsor, Ontario, after protesters shut down the corridor for roughly a week in a fight against Covid-19 restrictions. 
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
  <p class="updated_time"> 06:01 PM CT, Feb. 13 </p> 
@@ -114,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
- <p class="updated_time"> 01:50 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
@@ -124,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
- <p class="updated_time"> 11:30 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-buildup-near-ukraine-features-potent-weapons-systems-well-trained-troops-11644789065">Russian Buildup Near Ukraine Features Potent Weapons Systems, Well-Trained Troops</a> WSJ: The more than 130,000 troops Moscow has in the region are still too few to seize and occupy the whole of Ukraine, according to U.S. assessments. However, the deployments provide Russia’s commanders formidable advantages. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -144,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080464148/ukraine-leader-says-u-s-panic-is-playing-into-russias-strategy">Ukraine leader says U.S. panic is playing into Russia's strategy</a> NPR: President Joe Biden and Russian President Vladimir Putin spoke for just over an hour Saturday but made no progress toward heading off what seems to be an impending Russian invasion of Ukraine. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080059720/for-some-athletes-what-is-chinese-is-not-so-simple">For some athletes, what is Chinese is not so simple</a> NPR: Who gets to play for a country's national team at the Winter Olympics is an especially complicated question in China, where issues of identity, ethnicity, and citizenship are at stake. 
- <p class="updated_time"> 06:01 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/13/1079505737/before-covid-tb-was-the-worlds-worst-pathogen-its-still-a-monster-killer">Before COVID, TB was the world's worst pathogen. It's still a 'monster' killer</a> NPR: It was under control. And then it wasn't. In her new book Phantom Plague: How Tuberculosis Shaped History, VIdya Krishnan shows how "we repeat the same disease-spreading mistakes over and over." 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
@@ -166,12 +170,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
- <p class="updated_time"> 07:33 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/the-fda-delays-action-on-covid-shots-for-young-children.html">The F.D.A. delays action on Covid shots for young children.</a> NYT: In a striking reversal, federal regulators said that they would wait for data on whether three doses of Pfizer-BioNTech’s vaccine are effective in children younger than 5. 
  <p class="updated_time"> 06:07 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341236?at_medium=RSS&at_campaign=KARANGA">How Ouka the dog started flying on a paraglider</a> BBC: Ouka the dog and his owner Shams can be seen flying in the French Alps. 
- <p class="updated_time"> 06:01 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-60341676?at_medium=RSS&at_campaign=KARANGA">Nato and its role in the Ukraine crisis</a> BBC: The role of Nato is crucial in our understanding of Russia's troop build-up and the West's reaction to it. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
 
@@ -181,10 +181,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:03 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 11:34 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Quick Fix to Help Overwhelmed Border Officials Has Left Migrants in Limbo</a> NYT: Republicans say the policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
- <p class="updated_time"> 11:28 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 11:11 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/sec-blockfi-penalty-00008609">SEC, states hit crypto lender BlockFi with $100M penalty</a> Politico: The SEC announced the settlement the morning after a Super Bowl broadcast that was chockablock with expensive ads for crypto exchanges and trading platforms. 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
@@ -204,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">The ‘Zen Mayor’: How Eric Adams Mixes Tough Talk With Spinach Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
@@ -224,7 +224,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
@@ -335,8 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/mayors-covids-toll-cities-far-reaching-00004996">Violent crime to labor shortages: Mayors say Covid's toll on cities is far-reaching</a> Politico: Mayors across the country sounded off in a new POLITICO survey about the challenges brought on by Covid-19. 
  <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 06:13 PM CT, Feb. 08 </p> 
