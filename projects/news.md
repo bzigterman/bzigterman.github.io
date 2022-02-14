@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
+ <p class="updated_time"> 05:31 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60374881?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Gunmen attack wake, then target funeral</a> BBC: After killing three people at a wake, gunmen shoot dead six mourners at the funeral of the same man. 
  <p class="updated_time"> 05:24 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60370984?at_medium=RSS&at_campaign=KARANGA">Ivan Reitman: Ghostbusters director dies aged 75</a> BBC: The Czechoslovakia-born filmmaker made some of the biggest comedies of the 80s and 90s. 
  <p class="updated_time"> 05:19 AM CT, Feb. 14 </p> 
@@ -20,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
- <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 03:59 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60373493?at_medium=RSS&at_campaign=KARANGA">Kodak Black 'stable' after shooting, lawyer says</a> BBC: His lawyer has said it was an "unprovoked attack" against someone the rapper was with. 
  <p class="updated_time"> 03:15 AM CT, Feb. 14 </p> 
@@ -121,8 +123,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:33 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029">At Russia's Border with Ukraine, Pro-Kremlin Separatists Find Support</a> WSJ: In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60366628?at_medium=RSS&at_campaign=KARANGA">Chinese sites accused of censoring LGBT content from Friends</a> BBC: Fans say key scenes have been deleted from the hit US sitcom, which has been re-released in China. 
- <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
@@ -178,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
- <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
 
