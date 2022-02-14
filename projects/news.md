@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:58 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 06:31 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russian Buildup Reaching ‘Crescendo,’ U.S. Warns, as Diplomacy Sputters</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 06:31 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
@@ -185,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/john-eastman-jan-6-investigation-00008560">John Eastman claims attorney-client privilege over thousands of pages sought by Jan. 6 investigators</a> Politico: In a court filing early Monday, Eastman said he has reviewed about 46,000 pages and provided about 8,000 to the committee. 
  <p class="updated_time"> 05:00 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/eric-adams-unlikely-alliance-teachers-union-00007526">Adams’ unlikely alliance with the head of New York’s teachers union</a> Politico: The warm relationship between Adams and Michael Mulgrew shows the mayor’s pragmatic approach to governing and the tough political spot the union leader is in. But don’t expect the honeymoon to last. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
@@ -365,8 +369,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
  <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:23 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/07/can-dems-defy-history-00006116"> Can Dems defy history?</a> Politico Playbook: And a White House investigation finds a toxic work environment under Eric Lander. 
 
 
 </details>
