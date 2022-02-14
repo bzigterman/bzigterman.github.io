@@ -8,12 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684324/for-americans-living-in-ukraine-a-choice-between-staying-or-leaving">For Americans living in Ukraine, a choice between staying or leaving</a> NPR: NPR's Elissa Nadworny speaks with Meghan Neville, an American based in Ukraine who is fleeing the country as tension escalates over a possible Russian incursion. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684317/the-u-s-suspends-avocado-imports-from-mexico">The U.S. suspends avocado imports from Mexico</a> NPR: The U.S. suspended avocado imports from Mexico after a USDA inspector received a threat — highlighting the violence and criminal influence over the supply of the fruit. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684310/former-french-president-francois-hollande-on-ukraine">Former French President Francois Hollande on Ukraine</a> NPR: Former French president Francois Hollande speaks about the situation in Ukraine. He helped negotiate a cease-fire in eastern Ukraine in 2015. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684296/the-view-from-southern-russia">The view from southern Russia</a> NPR: The largest Russian city near the southern border with Ukraine is Rostov-on-Don. People remember the war in 2014 and hope there is no repeat. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684268/u-s-troops-head-to-poland">U.S. troops head to Poland</a> NPR: U.S. troops from the 82nd Airborne Division have been boarding planes bound for Eastern Europe. This comes amidst escalating tensions between Ukraine and Russia. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684240/rep-michael-mccaul-on-the-latest-in-ukraine">Rep. Michael McCaul on the latest in Ukraine</a> NPR: NPR's Mary Louise Kelly speaks with Texas Rep. Michael McCaul, top Republican on the House Foreign Affairs Committee, about the situation in Ukraine. 
+ <p class="updated_time"> 03:25 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60380318?at_medium=RSS&at_campaign=KARANGA">Judge dismisses Sarah Palin's New York Times libel lawsuit</a> BBC: Palin claimed the NY Times ruined her reputation by linking her to a deadly shooting. 
+ <p class="updated_time"> 03:24 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 03:19 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60381479?at_medium=RSS&at_campaign=KARANGA">Chagos Islands: Mauritian flag raised on British-controlled archipelago</a> BBC: The Chagos Islands, in the Indian Ocean, is controlled by Britain, but claimed by Mauritius. 
  <p class="updated_time"> 03:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
- <p class="updated_time"> 03:14 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 03:09 PM CT, Feb. 14 </p> 
@@ -38,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
- <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
@@ -136,32 +150,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
  <p class="updated_time"> 06:01 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey rebranding its internationally recognised name as “Türkiye”? 
- <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico</a> NPR: The suspension would not affect game-day consumption as those avocados had already been shipped. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/nepal-chief-justice-suspended.html">Nepal’s Chief Justice Is Suspended, Deepening Political Chaos</a> NYT: Accusations and a possible ouster could aggravate divisions that have paralyzed much of the Nepal government for months. 
- <p class="updated_time"> 02:14 PM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
- <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Bridge linking U.S. and Canada reopens after police remove last protesters</a> NPR: Canadian authorities announced the resumption of travel across the busy Ambassador Bridge after police removed the last group of protesters. 
  <p class="updated_time"> 09:02 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 08:59 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60366037?at_medium=RSS&at_campaign=KARANGA">Venice Carnival returns after two year absence</a> BBC: After being cancelled for two years due to the pandemic, the Venice Carnival is back. 
- <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
  <p class="updated_time"> 07:32 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177">India's Economy Hinges on the Return of Workers Who Fled to Their Villages</a> WSJ: Economists say the nation must create tens of millions of jobs that bring migrant workers out of farming or risk a decade of arrested growth. Many workers who returned home to rural areas say they plan to stay. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">In a twist of fate, a family straddles the Russia-Ukraine conflict</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080464148/ukraine-leader-says-u-s-panic-is-playing-into-russias-strategy">Ukraine leader says U.S. panic is playing into Russia's strategy</a> NPR: President Joe Biden and Russian President Vladimir Putin spoke for just over an hour Saturday but made no progress toward heading off what seems to be an impending Russian invasion of Ukraine. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
@@ -170,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
- <p class="updated_time"> 10:18 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
@@ -187,8 +187,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/gaetz-wingman-granted-another-sentencing-delay-00008706">Gaetz 'wingman' granted another sentencing delay</a> Politico: “It appears that a further continuance of defendant’s sentencing is in the interest of justice,” Senior U.S. District Judge Gregory Presnell wrote. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080698324/longtime-trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Longtime Trump accountant says a decade of financial statements are unreliable</a> NPR: Mazars USA, the longtime accountants to Donald Trump and the Trump Organization, says financial statements dating from 2009 to 2020 "contain material discrepancies" and "should not be replied upon." 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684275/judge-to-dismiss-sarah-palin-lawsuit-against-new-york-times">Judge to dismiss Sarah Palin lawsuit against 'New York Times'</a> NPR: A federal judge will dismiss Sarah Palin's defamation lawsuit against The New York Times even as the jury continues to deliberate. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080684240/rep-michael-mccaul-on-the-latest-in-ukraine">Rep. Michael McCaul on the latest in Ukraine</a> NPR: NPR's Mary Louise Kelly speaks with Texas Rep. Michael McCaul, top Republican on the House Foreign Affairs Committee, about the situation in Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling from U.S. District Court Judge Jed Rakoff came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six people and gravely wounded then-Rep. Gabby Giffords. 
+ <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six and wounded then-Rep. Gabby Giffords. 
+ <p class="updated_time"> 03:18 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/canadian-truckers-block-bridge-strike-protests-00008620">What's happening with the Canadian trucker convoy? Here's what you need to know</a> Politico: The once-narrow protest, dubbed the “Freedom Convoy,” has spiraled into a broader movement of the far-right. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
@@ -285,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/12/1080354182/week-in-politics-embassy-staff-in-ukraine-evacuate-inflation-hits-40-year-high">Week in politics: Embassy staff in Ukraine evacuate; inflation hits 40-year high</a> NPR: U.S. officials are warning that Russia may attack Ukraine in the coming days, though they say there is still a chance to prevent an invasion. Also, inflation hits a 40-year high. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
- <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080267772/pence-steps-out-of-trumps-shadow-raising-new-questions-about-his-political-futur">Pence steps out of Trump's shadow, raising new questions about his political future</a> NPR: In response to former President Donald Trump's claims that Mike Pence could have overturned the 2020 election, the former vice president spoke out in his strongest remarks yet. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
@@ -309,10 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Monoclonal Antibody Drug From Eli Lilly</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
  <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
- <p class="updated_time"> 03:45 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204929/pences-future-in-the-gop-after-speaking-out-against-trump">Pence's future in the GOP after speaking out against Trump</a> NPR: Former Vice President Mike Pence spoke out recently against his former boss, Donald Trump. The move raises questions about Pence's future in the GOP. His former aides are talking to the Jan. 6 panel. 
- <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204922/half-of-frozen-afghan-funds-will-be-aid-for-afghans-the-rest-may-go-to-9-11-fami">Half of frozen Afghan funds will be aid for Afghans. The rest may go to 9/11 families</a> NPR: When the Taliban took over Afghanistan last month, the U.S. treasury department froze $7 billion in Afghan government funds. Now, the Biden administration has decided what it will do the money. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
