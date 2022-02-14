@@ -946,7 +946,11 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ## Illinois
 
-![Illinois Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png)
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_il_table_html,"
 
@@ -958,7 +962,11 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## United States
 
-![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_usa_table_html,"
 
@@ -974,7 +982,11 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## World
 
-![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_world_table_html,"
 
