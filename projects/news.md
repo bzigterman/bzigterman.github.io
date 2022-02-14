@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:45 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <p class="updated_time"> 02:53 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
  <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
@@ -20,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 02:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
- <p class="updated_time"> 02:23 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:20 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
@@ -62,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378477?at_medium=RSS&at_campaign=KARANGA">Gun control advocates 'disappointed' with President Biden</a> BBC: Four years after the Parkland shooting, a new website tracks firearm incidents during Biden's tenure. 
  <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
+ <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 09:19 AM CT, Feb. 14 </p> 
@@ -74,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/israeli-prime-minister-to-visit-bahrain-for-first-time-amid-regional-security-push-11644843878">Israeli Prime Minister Visits Bahrain for First Time in Regional Security Push</a> WSJ: Naftali Bennett is set to meet with the kingdom’s ruler to discuss strengthening cooperation between the two nations after a 2020 agreement to establish diplomatic ties. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
- <p class="updated_time"> 08:24 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570">Ukraine's Capital Awaits a Potential Russian Attack With Determination, Calm</a> WSJ: Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
@@ -183,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling from U.S. District Court Judge Jed Rakoff came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six people and gravely wounded then-Rep. Gabby Giffords. 
+ <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 03:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/state-department-u-s-embassy-ukraine-00008681">State Department relocates U.S. Embassy in Ukraine to western city</a> Politico: Secretary of State Antony Blinken announced the temporary relocation of U.S. diplomats from Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
