@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:13 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
+ <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-cleared-to-keep-competing-at-beijing-olympi">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The 15-year-old figure skating phenom failed a drug test taken in December. But the results were not reported until after she helped Russia win the Olympic team skating competition last week. 
+ <p class="updated_time"> 11:50 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
+ <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
+ <p class="updated_time"> 11:26 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60371355?at_medium=RSS&at_campaign=KARANGA">India bourse head was a 'puppet' of unnamed yogi, regulators say</a> BBC: Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru. 
+ <p class="updated_time"> 11:18 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60371895?at_medium=RSS&at_campaign=KARANGA">New Zealand authorities blast James Blunt and Baby Shark at anti-vax protesters</a> BBC: New Zealand police are using music to try and disperse a week-long vaccine mandate protest. 
  <p class="updated_time"> 11:08 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protests: After police cleared bridge, is this the end?</a> BBC: Police have cleared the costly bridge blockade at Windsor. Are two weeks of protests about to end? 
  <p class="updated_time"> 11:03 PM CT, Feb. 13 </p> 
@@ -71,7 +79,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Police clear last remaining protesters from key bridge between the U.S. and Canada</a> NPR: After an Ontario court ordered the blockade to end Friday evening, Canadian police arrested protesters and towed vehicles to clear the Ambassador Bridge. It was not clear when the bridge would reopen. 
+ <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Bridge linking U.S. and Canada reopens after police remove last protesters</a> NPR: Canadian authorities announced the resumption of travel across the busy Ambassador Bridge after police removed the last group of protesters. 
  <p class="updated_time"> 09:37 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60333336?at_medium=RSS&at_campaign=KARANGA">Swiss approve tobacco ad ban long after neighbours</a> BBC: Voters approve tighter laws on tobacco advertising, years after most European countries. 
  <p class="updated_time"> 09:02 AM CT, Feb. 13 </p> 
@@ -100,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
- <p class="updated_time"> 03:15 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60362529?at_medium=RSS&at_campaign=KARANGA">New Zealand plays Barry Manilow to repel parliament protesters</a> BBC: Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
  <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
@@ -128,10 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
- <p class="updated_time"> 09:18 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080357795/ukraine-embassy-troops-russia">Biden warns Putin of a decisive response if Russia invades Ukraine</a> NPR: The two leaders spoke by phone for roughly an hour after the State Department ordered most of its embassy staff in Kyiv to leave. U.S. officials are concerned a Russian invasion is imminent. 
- <p class="updated_time"> 08:00 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080357273/canada-protests-ambassador-bridge">Police clear out truckers, but protesters on foot keep U.S.-Canada bridge closed </a> NPR: After days of protests against COVID-19 restrictions, Canadian truckers blockading a key border trade crossing have begun to leave. But protesters on foot kept the Ambassador Bridge closed. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/the-fda-delays-action-on-covid-shots-for-young-children.html">The F.D.A. delays action on Covid shots for young children.</a> NYT: In a striking reversal, federal regulators said that they would wait for data on whether three doses of Pfizer-BioNTech’s vaccine are effective in children younger than 5. 
  <p class="updated_time"> 06:44 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/canada/canada-protests-autos.html">Canada Border Blockades Leave Automakers Scrambling</a> NYT: Some companies are trying to use U.S.-Canada crossings hundreds of miles from the bridges that protesters have blocked. 
- <p class="updated_time"> 06:09 PM CT, Feb. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60333219?at_medium=RSS&at_campaign=KARANGA">The hidden side of Ethiopia's brutal civil war</a> BBC: The BBC gains rare access to the country, hearing from civilians caught in the crossfire. 
  <p class="updated_time"> 06:07 PM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60341236?at_medium=RSS&at_campaign=KARANGA">How Ouka the dog started flying on a paraglider</a> BBC: Ouka the dog and his owner Shams can be seen flying in the French Alps. 
  <p class="updated_time"> 06:01 PM CT, Feb. 11 </p> 
@@ -172,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/bing-dwen-dwen-mascot.html">Where Is All the Bing Dwen Dwen Memorabilia in China?</a> NYT: Olympics memorabilia has become an unexpected hit in China, and none more so than a plush stuffed panda that is the mascot of the Beijing Games. 
  <p class="updated_time"> 10:58 AM CT, Feb. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
- <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
  <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
@@ -218,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Police clear last remaining protesters from key bridge between the U.S. and Canada</a> NPR: After an Ontario court ordered the blockade to end Friday evening, Canadian police arrested protesters and towed vehicles to clear the Ambassador Bridge. It was not clear when the bridge would reopen. 
+ <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Bridge linking U.S. and Canada reopens after police remove last protesters</a> NPR: Canadian authorities announced the resumption of travel across the busy Ambassador Bridge after police removed the last group of protesters. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
