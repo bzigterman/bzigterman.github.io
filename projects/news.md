@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
+ <p class="updated_time"> 09:35 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett flew to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
+ <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 09:23 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
  <p class="updated_time"> 09:19 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 08:46 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
- <p class="updated_time"> 08:28 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
  <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
- <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
 
 
 </details>
@@ -212,7 +212,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 11:10 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">How McConnell Hopes to Thwart Trump in the Midterms</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">Inside McConnell’s Campaign to Take Back the Senate and Thwart Trump</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
