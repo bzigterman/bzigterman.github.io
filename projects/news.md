@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:46 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order and break up the protests that have paralyzed Ottawa’s core. At the border, Canadian officials reclaimed a major crossing that had been blockaded for nearly a week. 
+ <p class="updated_time"> 11:42 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-demolished.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 11:32 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
- <p class="updated_time"> 11:19 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
- <p class="updated_time"> 11:18 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order and break up the protests that have paralyzed Ottawa’s core. At the border, Canadian officials reclaimed a major crossing that had been blockaded for nearly a week. 
  <p class="updated_time"> 11:15 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379833?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia says diplomatic solution still possible</a> BBC: Diplomacy is "far from being exhausted" over Ukraine, Russia's foreign minister tells President Putin. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
@@ -172,10 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60341676?at_medium=RSS&at_campaign=KARANGA">Nato and its role in the Ukraine crisis</a> BBC: The role of Nato is crucial in our understanding of Russia's troop build-up and the West's reaction to it. 
  <p class="updated_time"> 04:05 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/americas/canada-trudeau-trucker-protests.html">To Frustration of Many, Trudeau Has Moved Slowly With Canada Protests</a> NYT: Amid calls for a harder federal line against the truck blockade, the prime minister’s restraint so far has kept it from becoming a referendum on his leadership. 
- <p class="updated_time"> 03:54 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/nyregion/poly-prep-school-masks.html">Brooklyn's Poly Prep Reverses Plan to Make Masks Optional</a> NYT: Poly Prep Country Day School had been the first school in New York City to make masks optional. A spokeswoman for the state’s Department of Health had called the decision a “violation.” 
- <p class="updated_time"> 01:21 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
 
 
 </details>
