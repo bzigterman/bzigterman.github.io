@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:28 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 02:45 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
+ <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
+ <p class="updated_time"> 02:33 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
+ <p class="updated_time"> 02:32 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 02:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 02:23 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Relocating to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:20 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
@@ -26,14 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
- <p class="updated_time"> 01:30 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 01:29 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080576235/winter-olympics-women-hockey-final">U.S. women will face Canada in the Olympic hockey gold medal match</a> NPR: The U.S. women's ice hockey team defeated Finland 4-1 on Monday. The U.S. team will go up against its longtime rival, Canada, in the gold medal game later this week. 
- <p class="updated_time"> 01:22 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 01:19 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378479?at_medium=RSS&at_campaign=KARANGA">Kentucky mayoral candidate survives being targeted by a gunman</a> BBC: Craig Greenberg is unharmed after someone entered and fired shots at him. A suspect has been arrested. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
@@ -48,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60377971?at_medium=RSS&at_campaign=KARANGA">Abba Kyari: Nigerian 'super cop' arrested in drug cartel case</a> BBC: Abba Kyari, already accused of money laundering, is now accused of being part of a drugs cartel. 
  <p class="updated_time"> 11:50 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Social media videos show Russian military equipment on the move near border</a> BBC: Social media clips show military vehicles on the move - despite Russia's denials of an attack. 
- <p class="updated_time"> 11:36 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 11:35 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60378487?at_medium=RSS&at_campaign=KARANGA">Chagos Islands: Mauritian flag raised on British-controlled islands</a> BBC: The Mauritian government has led a trip to the disputed islands, which are controlled by Britain. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
@@ -125,7 +125,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
  <p class="updated_time"> 06:01 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey is rebranding its internationally recognised name as “Türkiye”? 
+ <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey rebranding its internationally recognised name as “Türkiye”? 
  <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico</a> NPR: The suspension would not affect game-day consumption as those avocados had already been shipped. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
@@ -181,10 +181,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling from U.S. District Court Judge Jed Rakoff came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six people and gravely wounded then-Rep. Gabby Giffords. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/state-department-u-s-embassy-ukraine-00008681">State Department relocates U.S. Embassy in Ukraine to western city</a> Politico: Secretary of State Antony Blinken announced the temporary relocation of U.S. diplomats from Kyiv, Ukraine’s capital. 
+ <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 01:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
- <p class="updated_time"> 11:34 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Quick Fix to Help Overwhelmed Border Officials Has Left Migrants in Limbo</a> NYT: Republicans say the policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 11:11 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/sec-blockfi-penalty-00008609">SEC, states hit crypto lender BlockFi with $100M penalty</a> Politico: The SEC announced the settlement the morning after a Super Bowl broadcast that was chockablock with expensive ads for crypto exchanges and trading platforms. 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
@@ -219,8 +223,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/missouri-senate-ad-slams-transgender-athletes-00008540">Senate ad slams transgender athletes ‘pretending to be women’</a> Politico: Criticizing collegiate swimmer Lia Thomas, Missouri GOP Rep. Vicky Hartzler says she “won’t look away while woke liberals destroy women’s sports.” 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
- <p class="updated_time"> 03:04 PM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/ambassador-bridge-protests-white-house-00008488">Ambassador Bridge reopens after disruptions from protests</a> Politico: Demonstrations left the U.S. and Canada scrambling to restore commerce after truckers blocked the bridge, which connects Michigan and Ontario. 
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
@@ -233,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 12:00 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:06 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/flights-to-ukraine-halted-or-redirected-00008458">Flights to Ukraine halted or redirected</a> Politico: The move comes as a threat of a Russian invasion continued. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">'We're talking way too much and we're doing too little' on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
