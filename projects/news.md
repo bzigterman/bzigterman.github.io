@@ -74,10 +74,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 12:34 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080632899/bank-freezes-funds-canadian-border-protest">Canadian government is invoking its Emergencies Act to try to quell COVID protests</a> NPR: Invoking Canada's Emergenices Act will give officials powers to "restore order" in the country. 
+ <p class="updated_time"> 12:33 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Moves Rockets, Missiles Into Position Along Ukraine Border</a> WSJ: The German chancellor shuttled between two nations, as Russian President Vladimir Putin leaves an opening for talks. 
  <p class="updated_time"> 12:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
- <p class="updated_time"> 12:22 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">West Steps Up Diplomatic Efforts to Avert Russian Attack on Ukraine</a> WSJ: The German chancellor met with Ukraine’s leader before a scheduled visit with Russian President Vladimir Putin in Moscow on Tuesday. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 11:54 AM CT, Feb. 14 </p> 
@@ -104,8 +104,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60378009?at_medium=RSS&at_campaign=KARANGA">74% of ransomware revenue goes to Russia-linked hackers</a> BBC: Crypto-currency researchers say more than $400m of cyber-crime funds go to Russian gangs. 
- <p class="updated_time"> 09:07 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-to-visit-bahrain-for-first-time-amid-regional-security-push-11644843878">Israeli Prime Minister Visits Bahrain for First Time in Regional Security Push</a> WSJ: Naftali Bennett is set to meet with the kingdom’s ruler to discuss strengthening cooperation between the two nations after a 2020 agreement to establish diplomatic ties. 
+ <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-parliament-to-weigh-recognition-of-breakaway-ukraine-regions-11644868385">Russia's Parliament to Weigh Recognition of Breakaway Ukraine Regions</a> WSJ: The move could be used to justify a Russian incursion, but so far there is no sign of how Russian President Vladimir Putin would respond if a resolution is passed. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
  <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
@@ -202,7 +202,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080684240/rep-michael-mccaul-on-the-latest-in-ukraine">Rep. Michael McCaul on the latest in Ukraine</a> NPR: NPR's Mary Louise Kelly speaks with Texas Rep. Michael McCaul, top Republican on the House Foreign Affairs Committee, about the situation in Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree that killed six and wounded then-Rep. Gabby Giffords. 
+ <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by linking her to a 2011 shooting spree that killed six and wounded then-Rep. Gabby Giffords. 
  <p class="updated_time"> 03:18 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/canadian-truckers-block-bridge-strike-protests-00008620">What's happening with the Canadian trucker convoy? Here's what you need to know</a> Politico: The once-narrow protest, dubbed the “Freedom Convoy,” has spiraled into a broader movement of the far-right. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
