@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 09:04 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 09:00 PM CT, Feb. 13 </p> 
@@ -30,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey is rebranding its internationally recognised name as “Türkiye”? 
  <p class="updated_time"> 06:00 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
- <p class="updated_time"> 05:41 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 05:18 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports">Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico</a> NPR: The suspension would not affect game-day consumption as those avocados had already been shipped. 
  <p class="updated_time"> 05:13 PM CT, Feb. 13 </p> 
