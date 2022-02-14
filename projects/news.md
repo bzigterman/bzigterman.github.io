@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:33 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 08:46 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
+ <p class="updated_time"> 08:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 08:40 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
  <p class="updated_time"> 08:28 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
- <p class="updated_time"> 08:07 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
- <p class="updated_time"> 07:11 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
@@ -72,6 +72,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080505798/u-s-women-make-monobob-history-at-the-2022-beijing-olympics">U.S. women make monobob history at the 2022 Winter Olympics</a> NPR: This is gold medalist Kaillie Humphries first medal for the U.S. The champion previously won gold and bronze medals for her home country of Canada. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
+ <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 10:55 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/campaigns-roll-out-super-bowl-ads-00008579">Campaigns roll out Super Bowl ads</a> Politico: One GOP Senate candidate bought time for a 30-second ‘Let’s Go Brandon’ spot. 
  <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/trevor-noah-headline-white-house-correspondents-dinner-00008575">Trevor Noah to headline White House Correspondents’ Dinner</a> Politico: A comedian has not performed at the annual event since Michelle Wolf in 2018. 
  <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
@@ -209,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
+ <p class="updated_time"> 11:10 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">How McConnell Hopes to Thwart Trump in the Midterms</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
@@ -295,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
- <p class="updated_time"> 06:10 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/blinken-quad-australia.html">As Other Hot Spots Boil, U.S. Shows Its Foreign Policy Focus Is Asia</a> NYT: Antony Blinken’s Asia-Pacific trip during the crisis with Russia and Ukraine signals that the U.S. is committing to the world’s largest region — and to competition with China. 
  <p class="updated_time"> 06:00 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/trump-rally-texas.html">The Traveling Trump Show Comes to South Texas</a> NYT: Pro-Trump rallies and conferences have taken on the flavor of religious revival, a mix between protest and party. 
  <p class="updated_time"> 05:10 PM CT, Feb. 11 </p> 
