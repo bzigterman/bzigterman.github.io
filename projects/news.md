@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:32 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:19 AM CT, Feb. 14 </p> 
@@ -30,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
- <p class="updated_time"> 09:35 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett flew to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 09:19 AM CT, Feb. 14 </p> 
@@ -183,8 +183,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 11:34 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Quick Fix to Help Overwhelmed Border Officials Has Left Migrants in Limbo</a> NYT: Republicans say the policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
+ <p class="updated_time"> 11:28 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 11:11 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/sec-blockfi-penalty-00008609">SEC, states hit crypto lender BlockFi with $100M penalty</a> Politico: The SEC announced the settlement the morning after a Super Bowl broadcast that was chockablock with expensive ads for crypto exchanges and trading platforms. 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
@@ -203,8 +205,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators vow not to rehash Kavanaugh during SCOTUS confirmation</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
- <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
@@ -251,8 +251,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/13/politics/trump-telephone-records-capitol-riot-investigation/index.html">Trump's unorthodox phone habits complicate January 6 investigation</a> CNN: In Donald Trump's White House, telephones were a valued commodity. The then-President loved to talk to everyone, said a former White House aide. 
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
