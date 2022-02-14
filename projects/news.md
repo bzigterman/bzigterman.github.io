@@ -8,20 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
+ <p class="updated_time"> 10:31 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
  <p class="updated_time"> 10:31 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
- <p class="updated_time"> 10:17 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 09:51 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 09:00 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested after he tried to escape from the apartment, had a record of misdemeanor arrests. 
  <p class="updated_time"> 08:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
- <p class="updated_time"> 08:43 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
  <p class="updated_time"> 08:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 07:10 PM CT, Feb. 13 </p> 
@@ -196,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
  <p class="updated_time"> 03:04 PM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/ambassador-bridge-protests-white-house-00008488">Ambassador Bridge to reopen after disruptions from protests, White House says</a> Politico: Demonstrations have left the U.S. and Canada scrambling to restore commerce after truckers blocked the bridge, which connects Michigan and Ontario. 
+ <a href="https://www.politico.com/news/2022/02/13/ambassador-bridge-protests-white-house-00008488">Ambassador Bridge reopens after disruptions from protests</a> Politico: Demonstrations left the U.S. and Canada scrambling to restore commerce after truckers blocked the bridge, which connects Michigan and Ontario. 
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
