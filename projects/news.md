@@ -8,20 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:22 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested after he tried to escape from the apartment, had a record of misdemeanor arrests. 
+ <p class="updated_time"> 08:18 PM CT, Feb. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
+ <p class="updated_time"> 08:11 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 07:52 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 07:10 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60370978?at_medium=RSS&at_campaign=KARANGA">Jarryd Hayne: Ex-rugby star wins appeal in sexual assault case</a> BBC: Jarryd Hayne will face a retrial in Australia after his sexual assault convictions were quashed. 
  <p class="updated_time"> 07:06 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
- <p class="updated_time"> 06:43 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
- <p class="updated_time"> 06:17 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested as he tried to escape from a back window, had a record of misdemeanor arrests. 
  <p class="updated_time"> 06:13 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/60292915?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How is Russia shaping the narrative?</a> BBC: Several tactics are being used by pro-Kremlin sources to spread stories about Ukraine. 
- <p class="updated_time"> 06:12 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 06:10 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60339741?at_medium=RSS&at_campaign=KARANGA">Cuba's first gay hotel reopens as human rights deteriorate</a> BBC: Cuba reopens its first LGBTQ hotel, but can tourists ignore the country's poor human rights record? 
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
@@ -311,6 +311,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
  <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
+ <p class="updated_time"> 06:47 PM CT, Feb. 10 </p> 
+ <a href="https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html">Trump’s Missing Call Logs Present a Challenge for Jan. 6 Investigators</a> NYT: Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress. 
  <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
  <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
