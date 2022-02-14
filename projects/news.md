@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
+ <p class="updated_time"> 11:47 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60379833?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia says diplomatic solution still possible</a> BBC: Diplomacy is "far from being exhausted" over Ukraine, Russia's foreign minister tells President Putin. 
  <p class="updated_time"> 11:46 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order and break up the protests that have paralyzed Ottawa’s core. At the border, Canadian officials reclaimed a major crossing that had been blockaded for nearly a week. 
- <p class="updated_time"> 11:42 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
  <p class="updated_time"> 11:36 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-demolished.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 11:32 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
- <p class="updated_time"> 11:15 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60379833?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia says diplomatic solution still possible</a> BBC: Diplomacy is "far from being exhausted" over Ukraine, Russia's foreign minister tells President Putin. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 11:12 AM CT, Feb. 14 </p> 
