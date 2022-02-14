@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Allowing Temporary Suspension of Civil Liberties</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Justin Trudeau invokes Emergencies Act for the first time</a> BBC: Mr Trudeau says the scope of the measures will be "time-limited", "reasonable and proportionate". 
+ <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
  <p class="updated_time"> 03:41 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 03:39 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
- <p class="updated_time"> 03:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
- <p class="updated_time"> 03:39 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Allowing Temporary Suspension of Civil Liberties</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 03:38 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60380318?at_medium=RSS&at_campaign=KARANGA">Judge dismisses Sarah Palin's New York Times libel lawsuit</a> BBC: Palin claimed the NY Times ruined her reputation by linking her to a deadly shooting. 
  <p class="updated_time"> 03:36 PM CT, Feb. 14 </p> 
@@ -54,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
- <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
@@ -114,14 +116,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The 78-year-old Ukrainian grandmother preparing for a Russian invasion</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
- <p class="updated_time"> 05:31 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60374881?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Gunmen attack wake, then target funeral</a> BBC: After killing three people at a wake, gunmen shoot dead six mourners at the funeral of the same man. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
- <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
@@ -178,6 +176,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
+ <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/walmart-mask-mandate-for-vaccinated-workers.html">Walmart Says Vaccinated Workers No Longer Have to Wear Masks</a> NYT: The retailer said it was taking action after governors from Connecticut to California ended mask mandates recently. 
 
 
 </details>
@@ -253,6 +253,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 12:00 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:06 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/flights-to-ukraine-halted-or-redirected-00008458">Flights to Ukraine halted or redirected</a> Politico: The move comes as a threat of a Russian invasion continued. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">'We're talking way too much and we're doing too little' on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
@@ -279,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420118/biden-warns-putin-of-decisive-response-if-russia-invades-ukraine">Biden warns Putin of 'decisive' response if Russia invades Ukraine</a> NPR: President Biden spoke with Russian President Vladimir Putin on Saturday, and the U.S. ordered its diplomats and troops out of Ukraine. 
- <p class="updated_time"> 11:35 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/biden-putin-speak-ukraine-invasion-threat-00008439">'Swift and severe costs': Ukraine tension ratchets up as Biden and Putin speak</a> Politico: Biden promises decisive response by U.S. and its allies, warning that a "further Russian invasion of Ukraine would produce widespread human suffering." 
  <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
@@ -315,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/congress-aides-unionize-house.html">On Capitol Hill, a Push to Unionize House Aides Gains Traction</a> NYT: Democrats have signed on to a resolution that would for the first time give House aides the same organizing protections other federal government employees enjoy. 
  <p class="updated_time"> 04:51 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Monoclonal Antibody Drug From Eli Lilly</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
- <p class="updated_time"> 04:09 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357">U.S. sending 3,000 more troops to Poland amid fresh Ukraine invasion warnings</a> Politico: Officials in the U.S. and the U.K. are telling their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
