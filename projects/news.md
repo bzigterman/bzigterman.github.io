@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 05:19 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
