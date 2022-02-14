@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:26 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60371355?at_medium=RSS&at_campaign=KARANGA">India bourse head was a 'puppet' of unnamed yogi, regulators say</a> BBC: Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru. 
  <p class="updated_time"> 01:22 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
  <p class="updated_time"> 01:07 AM CT, Feb. 14 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60256141?at_medium=RSS&at_campaign=KARANGA">Scott Morrison criticised by New Zealand band over song use</a> BBC: Rock band Dragon called Scott Morrison's rendition of their hit song, April Sun in Cuba, "cynical". 
  <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
- <p class="updated_time"> 11:26 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-60371355?at_medium=RSS&at_campaign=KARANGA">India bourse head was a 'puppet' of unnamed yogi, regulators say</a> BBC: Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru. 
  <p class="updated_time"> 11:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60371895?at_medium=RSS&at_campaign=KARANGA">New Zealand authorities blast James Blunt and Baby Shark at anti-vax protesters</a> BBC: New Zealand police are using music to try and disperse a week-long vaccine mandate protest. 
  <p class="updated_time"> 11:08 PM CT, Feb. 13 </p> 
