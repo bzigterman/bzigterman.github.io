@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 08:07 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 07:11 AM CT, Feb. 14 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister Naftali Bennett to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
- <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 06:00 AM CT, Feb. 14 </p> 
@@ -42,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
  <p class="updated_time"> 03:59 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60373493?at_medium=RSS&at_campaign=KARANGA">Kodak Black 'stable' after shooting, lawyer says</a> BBC: His lawyer has said it was an "unprovoked attack" against someone the rapper was with. 
- <p class="updated_time"> 03:15 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
@@ -55,7 +53,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:26 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-cleared-to-keep-competing-at-beijing-olympi">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
+ <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-olympics-2022">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
  <p class="updated_time"> 11:46 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60256141?at_medium=RSS&at_campaign=KARANGA">Scott Morrison criticised by New Zealand band over song use</a> BBC: Rock band Dragon called Scott Morrison's rendition of their hit song, April Sun in Cuba, "cynical". 
  <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
@@ -150,12 +148,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
- <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 04:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
+ <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
@@ -180,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/world/middleeast/damiana-nassar-feathers-egypt.html">She Had Never Acted, and Could Barely Read. Now, She’s an Egyptian Movie Star.</a> NYT: A stay-at-home mother deprived of an education, Damiana Nassar played a woman much like herself in “Feathers,” a Cannes winner that few in Egypt can see. 
  <p class="updated_time"> 01:20 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/president-biden-is-holding-a-call-with-nato-and-eu-leaders-to-discuss-russia-and-ukraine.html">U.S. intelligence says Putin has accelerated his timetable and could invade within days.</a> NYT: Secretary of State Antony J. Blinken said at a news conference in Melbourne on Friday that a Russian invasion could even occur before the Winter Olympics in Beijing end on Feb. 20. 
- <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
 
 
 </details>
@@ -253,8 +249,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
- <p class="updated_time"> 06:50 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/hawaii-japan-north-korea-south-00008444">U.S., Japan, South Korea meet in Hawaii to discuss North Korea</a> Politico: North Korea has rebuffed American offers to resume diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
@@ -275,10 +269,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354182/week-in-politics-embassy-staff-in-ukraine-evacuate-inflation-hits-40-year-high">Week in politics: Embassy staff in Ukraine evacuate; inflation hits 40-year high</a> NPR: U.S. officials are warning that Russia may attack Ukraine in the coming days, though they say there is still a chance to prevent an invasion. Also, inflation hits a 40-year high. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 06:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080267772/pence-steps-out-of-trumps-shadow-raising-new-questions-about-his-political-futur">Pence steps out of Trump's shadow, raising new questions about his political future</a> NPR: In response to former President Donald Trump's claims that Mike Pence could have overturned the 2020 election, the former vice president spoke out in his strongest remarks yet. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
