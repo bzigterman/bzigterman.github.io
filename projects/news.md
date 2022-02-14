@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:26 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 04:09 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
+ <p class="updated_time"> 04:01 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
+ <p class="updated_time"> 03:59 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-60373493?at_medium=RSS&at_campaign=KARANGA">Kodak Black 'stable' after shooting, lawyer says</a> BBC: His lawyer has said it was an "unprovoked attack" on someone the rapper was with. 
  <p class="updated_time"> 03:15 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
@@ -44,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
- <p class="updated_time"> 09:51 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/russia-ukraine-news">Ukraine News: Airlines Suspend Flights as German Leader Warns of ‘Serious Threat to Peace’</a> NYT: U.S. and Russian officials trade barbs on Sunday. Germany’s leader will travel to Ukraine on Monday. 
  <p class="updated_time"> 07:10 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60370978?at_medium=RSS&at_campaign=KARANGA">Jarryd Hayne: Ex-rugby star wins appeal in sexual assault case</a> BBC: Jarryd Hayne will face a retrial in Australia after his sexual assault convictions were quashed. 
  <p class="updated_time"> 06:13 PM CT, Feb. 13 </p> 
@@ -82,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
- <p class="updated_time"> 10:18 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60362532?at_medium=RSS&at_campaign=KARANGA">Afghan woman activist released after arrest in January</a> BBC: Tamana Zaryabi Paryani was arrested on 19 January after taking part in a women's rights protest. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -118,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
- <p class="updated_time"> 10:31 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60365011?at_medium=RSS&at_campaign=KARANGA">Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed</a> BBC: Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason. 
  <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
  <a href="https://www.wsj.com/articles/u-s-japan-and-south-korea-present-united-front-on-north-korea-11644730580">U.S., Japan and South Korea Present United Front on North Korea</a> WSJ: The U.S., Japan and South Korea will strengthen their joint efforts to deter North Korea’s missile activity and nuclear ambitions, while continuing to push for diplomatic engagement with Pyongyang, the allies’ senior diplomats said. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
@@ -176,10 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60354026?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Why this US English teacher is staying in Kyiv, for now</a> BBC: My colleagues and students are all very calm here and regular life goes on, says Juan Tec. 
  <p class="updated_time"> 08:27 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/switzerland-tobacco-ads-vote.html">Switzerland, Long a Safe Haven for Tobacco Ads, Weighs a Ban</a> NYT: Voters will decide Sunday on whether to prohibit the ads in places where they can be seen by children under 18. 
- <p class="updated_time"> 04:00 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/books/literary-translation-translators-jennifer-croft.html">Shining a Spotlight on the Art of Translation</a> NYT: Jennifer Croft, who translates the Nobel Prize-winning Polish novelist Olga Tokarczuk, is leading a push for her peers and their work to receive more recognition. 
- <p class="updated_time"> 02:41 AM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/australia/koala-endangered-species.html">Australia Declares Koalas an Endangered Species</a> NYT: Years of drought, fires and habitat loss have drastically reduced the population of the iconic marsupial. 
  <p class="updated_time"> 02:04 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/asia/hijab-ban-india-karnataka.html">No Hijabs for Now, Indian Court Tells Muslim Students</a> NYT: In a dispute that’s become a flash point over minority rights, students are told to avoid religious garments of all kinds, pending a ruling on whether schools can ban head scarves. 
 
@@ -189,6 +189,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators say they're over Kavanaugh. SCOTUS nominee will test that.</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Quick Fix to Help Overwhelmed Border Officials Has Left Migrants in Limbo</a> NYT: Republicans say the policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
@@ -293,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/11/1080204929/pences-future-in-the-gop-after-speaking-out-against-trump">Pence's future in the GOP after speaking out against Trump</a> NPR: Former Vice President Mike Pence spoke out recently against his former boss, Donald Trump. The move raises questions about Pence's future in the GOP. His former aides are talking to the Jan. 6 panel. 
  <p class="updated_time"> 03:39 PM CT, Feb. 11 </p> 
  <a href="https://www.npr.org/2022/02/11/1080204922/half-of-frozen-afghan-funds-will-be-aid-for-afghans-the-rest-may-go-to-9-11-fami">Half of frozen Afghan funds will be aid for Afghans. The rest may go to 9/11 families</a> NPR: When the Taliban took over Afghanistan last month, the U.S. treasury department froze $7 billion in Afghan government funds. Now, the Biden administration has decided what it will do the money. 
- <p class="updated_time"> 03:25 PM CT, Feb. 11 </p> 
- <a href="https://www.npr.org/2022/02/11/1080204887/gov-desantis-may-stop-florida-migrant-shelters-from-caring-for-unaccompanied-kid">Gov. DeSantis may stop Florida migrant shelters from caring for unaccompanied kids</a> NPR: Gov. Ron DeSantis is threatening to stop migrant shelters in Florida from caring for unaccompanied children. That's dividing Cuban-Americans in a state with a long history of welcoming children. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 01:50 PM CT, Feb. 11 </p> 
@@ -305,12 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
- <p class="updated_time"> 09:59 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html">Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records</a> NYT: Republicans once attacked Hillary Clinton for her handling of government records. But few showed outrage over news about former President Donald J. Trump’s White House records. 
- <p class="updated_time"> 08:05 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/cia-data-privacy.html">CIA is Collecting in Bulk Certain Data Affecting Americans, Senators Warn</a> NYT: A partly declassified letter from two senators, Ron Wyden and Martin Heinrich, does not say what the data is. 
- <p class="updated_time"> 06:28 PM CT, Feb. 10 </p> 
- <a href="https://www.nytimes.com/2022/02/10/us/politics/hassan-abdullah-al-sharbi-guantanamo-bay.html">Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</a> NYT: The decision means that a majority of detainees at the wartime prison are cleared for transfer if U.S. diplomats can forge security deals with countries to receive them 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
  <p class="updated_time"> 01:31 PM CT, Feb. 10 </p> 
