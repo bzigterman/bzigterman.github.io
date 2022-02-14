@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 05:58 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russian Buildup Reaching ‘Crescendo,’ U.S. Warns, as Diplomacy Sputters</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The Ukrainian grandmother preparing for war</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
  <p class="updated_time"> 05:36 AM CT, Feb. 14 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-cleared-to-keep-competing-at-beijing-olympi">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
- <p class="updated_time"> 11:50 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 11:46 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60256141?at_medium=RSS&at_campaign=KARANGA">Scott Morrison criticised by New Zealand band over song use</a> BBC: Rock band Dragon called Scott Morrison's rendition of their hit song, April Sun in Cuba, "cynical". 
  <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
