@@ -8,22 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:35 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 04:49 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Allowing Temporary Suspension of Civil Liberties</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
+ <p class="updated_time"> 04:42 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 04:34 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
- <p class="updated_time"> 04:18 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau threatens to freeze anti-mandate protesters' bank accounts</a> BBC: Without a court order, banks will be able freeze accounts of anti-vaccine mandate protesters. 
  <p class="updated_time"> 04:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
- <p class="updated_time"> 03:57 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
- <p class="updated_time"> 03:39 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
  <p class="updated_time"> 03:38 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60380318?at_medium=RSS&at_campaign=KARANGA">Judge to dismiss Sarah Palin's New York Times libel lawsuit</a> BBC: Palin claimed the NY Times ruined her reputation by linking her to a deadly shooting. 
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
@@ -81,7 +81,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:50 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Social media videos show Russian military equipment on the move near border</a> BBC: Social media clips show military vehicles on the move - despite Russia's denials of an attack. 
  <p class="updated_time"> 11:21 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergencies Act Powers to Address Protests</a> WSJ: Canadian Prime Minister Justin Trudeau said he will invoke emergency measures for the first time to give his Liberal government extraordinary powers in trying to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and continue to block some cross-border traffic. 
+ <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergency Powers to Address Trucker Protests</a> WSJ: Canadian Prime Minister Justin Trudeau said he will invoke emergency measures for the first time to give his government extraordinary powers in trying to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and continue to block some cross-border traffic. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
@@ -202,7 +202,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080684240/rep-michael-mccaul-on-the-latest-in-ukraine">Rep. Michael McCaul on the latest in Ukraine</a> NPR: NPR's Mary Louise Kelly speaks with Texas Rep. Michael McCaul, top Republican on the House Foreign Affairs Committee, about the situation in Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six and wounded then-Rep. Gabby Giffords. 
+ <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree that killed six and wounded then-Rep. Gabby Giffords. 
  <p class="updated_time"> 03:18 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/canadian-truckers-block-bridge-strike-protests-00008620">What's happening with the Canadian trucker convoy? Here's what you need to know</a> Politico: The once-narrow protest, dubbed the “Freedom Convoy,” has spiraled into a broader movement of the far-right. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
@@ -275,6 +275,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
