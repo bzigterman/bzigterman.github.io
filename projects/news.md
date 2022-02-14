@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 03:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 03:14 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
+ <p class="updated_time"> 03:09 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:53 PM CT, Feb. 14 </p> 
@@ -24,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 02:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
- <p class="updated_time"> 02:20 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Weighs Invoking Emergencies Act to End Protests</a> NYT: The act would confer enormous temporary powers on the federal government to restore public order. The Canadian national police force arrested 11 people connected to a protest at a Western border point, and seized a large cache of weapons. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:55 PM CT, Feb. 14 </p> 
@@ -136,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080481804/biden-volodymyr-zelenskyy-call-ukraine-russia-crisis">Biden speaks with Ukraine's leader as U.S. officials warn of imminent Russian attack</a> NPR: Biden's calls with Volodymyr Zelenskyy and Russian President Vladimir Putin this weekend come as U.S. officials warn that Russia has amassed enough troops and equipment to invade Ukraine any day. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
- <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
@@ -168,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
- <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
  <p class="updated_time"> 11:10 PM CT, Feb. 11 </p> 
@@ -187,14 +189,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling from U.S. District Court Judge Jed Rakoff came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by unfairly linking her to a 2011 shooting spree in Arizona that killed six people and gravely wounded then-Rep. Gabby Giffords. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 03:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/state-department-u-s-embassy-ukraine-00008681">State Department relocates U.S. Embassy in Ukraine to western city</a> Politico: Secretary of State Antony Blinken announced the temporary relocation of U.S. diplomats from Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 01:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
- <p class="updated_time"> 11:11 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/sec-blockfi-penalty-00008609">SEC, states hit crypto lender BlockFi with $100M penalty</a> Politico: The SEC announced the settlement the morning after a Super Bowl broadcast that was chockablock with expensive ads for crypto exchanges and trading platforms. 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/campaigns-roll-out-super-bowl-ads-00008579">Campaigns roll out Super Bowl ads</a> Politico: One GOP Senate candidate bought time for a 30-second “Let’s Go Brandon” spot. 
  <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
@@ -233,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
- <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 12:00 PM CT, Feb. 13 </p> 
@@ -275,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
- <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/11/february-sun-climate-change-guilt-california-00008414">Soak up the February sun? Not without climate change guilt in California</a> Politico: Californians are seeing a dark side to balmy February temperatures. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
@@ -365,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/07/senate-gop-backlash-smacks-rnc-after-cheney-kinzinger-censure-00006456">Senate GOP backlash smacks RNC after Cheney-Kinzinger censure</a> Politico: The national party is supposed to be a unifying force. But its vote to censure two anti-Trump House Republicans is having the opposite effect. 
  <p class="updated_time"> 04:07 PM CT, Feb. 07 </p> 
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
- <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
 
 
 </details>
