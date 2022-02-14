@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:04 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
+ <p class="updated_time"> 09:00 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested after he tried to escape from the apartment, had a record of misdemeanor arrests. 
+ <p class="updated_time"> 08:57 PM CT, Feb. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 08:43 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
- <p class="updated_time"> 08:22 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/murder-chinatown-nyc.html">Woman, 35, Followed and Stabbed Inside Her Chinatown Apartment</a> NYT: The 25-year-old suspect, who the police said was arrested after he tried to escape from the apartment, had a record of misdemeanor arrests. 
  <p class="updated_time"> 08:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
- <p class="updated_time"> 08:11 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Moves to Open Blockaded Bridge, but in Ottawa Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
- <p class="updated_time"> 07:52 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Updates: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 07:10 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60370978?at_medium=RSS&at_campaign=KARANGA">Jarryd Hayne: Ex-rugby star wins appeal in sexual assault case</a> BBC: Jarryd Hayne will face a retrial in Australia after his sexual assault convictions were quashed. 
  <p class="updated_time"> 06:13 PM CT, Feb. 13 </p> 
@@ -224,11 +224,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/teachers-unions-delay-easing-mask-mandates-california-00007979">Newsom wants to end school masks, but teachers say not yet</a> Politico: Democrats are caught in the middle of school masking wars, and some blue states are lifting the rules. 
  <p class="updated_time"> 06:50 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/hawaii-japan-north-korea-south-00008444">U.S., Japan, South Korea meet in Hawaii to discuss North Korea</a> Politico: North Korea has rebuffed American offers to resume diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
