@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 07:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israeli Leader to Make Historic Visit to Bahrain, Deepening New Ties</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
+ <p class="updated_time"> 06:53 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russian Buildup Reaching ‘Crescendo,’ U.S. Warns, as Diplomacy Sputters</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
- <p class="updated_time"> 06:31 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 06:48 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
+ <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
+ <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The Ukrainian grandmother preparing for war</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
- <p class="updated_time"> 05:36 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 05:31 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60374881?at_medium=RSS&at_campaign=KARANGA">Mexico violence: Gunmen attack wake, then target funeral</a> BBC: After killing three people at a wake, gunmen shoot dead six mourners at the funeral of the same man. 
  <p class="updated_time"> 05:24 AM CT, Feb. 14 </p> 
@@ -54,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60364821?at_medium=RSS&at_campaign=KARANGA">Canada protests: After police cleared bridge, is this the end?</a> BBC: Police have cleared the costly bridge blockade at Windsor. Are two weeks of protests about to end? 
  <p class="updated_time"> 11:03 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/14/1080505798/u-s-women-make-monobob-history-at-the-2022-beijing-olympics">U.S. women make monobob history at the 2022 Winter Olympics</a> NPR: This is gold medalist Kaillie Humphries first medal for the U.S. The champion previously won gold and bronze medals for her home country of Canada. 
- <p class="updated_time"> 10:58 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html">White House Warns Russian Invasion of Ukraine Could Happen at Any Time</a> NYT: A host of countries, including the United States, has told their citizens to leave Ukraine immediately. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:55 PM CT, Feb. 13 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/sports/olympics/ukraine-athlete-antiwar-protest.html">Ukrainian Athlete Protests During His Skeleton Competition</a> NYT: Vladyslav Heraskevych held up a sign that said “no war in Ukraine.” It is unclear whether the I.O.C. will penalize him for making a statement during an event. 
  <p class="updated_time"> 03:46 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/chechnya-abduction-putin-russia.html">How a Chechen Abduction Exposes Putin’s Problems at Home</a> NYT: A furor over the arrest of a woman by agents of the Chechen strongman Ramzan Kadyrov shows the internal challenges facing President Vladimir V. Putin, even as he tries to project global power. 
- <p class="updated_time"> 03:27 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/world/asia/afghanistan-taliban-united-nations.html">Taliban Free 2 Westerners Working for U.N., Days After Quiet Detention</a> NYT: The issue of detentions and disappearances has put a new spotlight on the Taliban’s promises to improve their human rights record under the weight of international sanctions. 
  <p class="updated_time"> 03:20 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/world/europe/us-troops-poland.html">U.S. to Send 3,000 More Troops to Poland Amid Russia-Ukraine Crisis</a> NYT: The Biden administration has ruled out sending U.S. troops to defend Ukraine, but has increased deployments to NATO countries in Eastern Europe that are wary of Russia. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
