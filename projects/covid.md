@@ -414,7 +414,11 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ## Illinois
 
-![Illinois Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png"
+          media="(min-width: 750px)">
+  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png" alt="" />
+</picture>
 
 <div id="il_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -808,7 +812,11 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## United States
 
-![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png"
+          media="(min-width: 750px)">
+  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png" alt="" />
+</picture>
 
 <div id="usa_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -1206,7 +1214,11 @@ html {
 
 ## World
 
-![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png"
+          media="(min-width: 750px)">
+  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet_mobile.png" alt="" />
+</picture>
 
 <div id="world_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
