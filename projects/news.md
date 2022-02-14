@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
+ <p class="updated_time"> 05:20 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 05:16 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 05:13 PM CT, Feb. 14 </p> 
@@ -16,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
- <p class="updated_time"> 04:34 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 04:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
@@ -74,6 +76,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080632899/bank-freezes-funds-canadian-border-protest">Canadian government is invoking its Emergencies Act to try to quell COVID protests</a> NPR: Invoking Canada's Emergenices Act will give officials powers to "restore order" in the country. 
  <p class="updated_time"> 12:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
+ <p class="updated_time"> 12:22 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">West Steps Up Diplomatic Efforts to Avert Russian Attack on Ukraine</a> WSJ: The German chancellor met with Ukraine’s leader before a scheduled visit with Russian President Vladimir Putin in Moscow on Tuesday. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 11:54 AM CT, Feb. 14 </p> 
@@ -92,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378477?at_medium=RSS&at_campaign=KARANGA">Gun control advocates 'disappointed' with President Biden</a> BBC: Four years after the Parkland shooting, a new website tracks firearm incidents during Biden's tenure. 
  <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
- <p class="updated_time"> 10:04 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">West Steps Up Diplomatic Efforts to Avert Russian Attack on Ukraine</a> WSJ: German chancellor meets with Ukraine’s leader before plans to visit Putin in Moscow on Tuesday, as Kyiv rebuffs Russian demands not to seek NATO membership. 
  <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
@@ -170,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/europe/paris-police-freedom-convoy-protests.html">Officers fire tear gas at protesters blocking traffic on the Champs-Élysées.</a> NYT: Hundreds of vehicles emulating the “Freedom Convoy” protests in Canada evaded police checkpoints around Paris, but the police vowed a firm response. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
- <p class="updated_time"> 10:18 AM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60362796?at_medium=RSS&at_campaign=KARANGA">Covid protests: Paris police fire tear gas at demonstrators</a> BBC: Police have already intercepted hundreds of vehicles trying to get into the city. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
  <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
@@ -183,12 +183,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/prosecution-police-george-floyd-00008826">Prosecution rests in 3 cops’ trial in George Floyd killing</a> Politico: The three were on the scene with Derek Chauvin, who has already been convicted. 
  <p class="updated_time"> 05:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/maryland-man-pleads-guilty-nuclear-secrets-foreign-government-00008742">Maryland man pleads guilty to trying to sell nuclear secrets to foreign government</a> Politico: Jonathan Toebbe, a nuclear engineer, and his wife were arrested after undercover FBI agents exchanged $100,000 in cryptocurrency for submarine secrets. 
  <p class="updated_time"> 04:31 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/freedom-convoy-trudeau-canada-00008643">Trudeau invokes last-resort Emergencies Act in bid to end trucker protests</a> Politico: Protesters and trucks have occupied streets around Parliament Hill for more than two weeks. 
  <p class="updated_time"> 04:12 PM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080698388/trump-accountant-severs-relatioship-financial-statements-unreliable">Longtime Trump accountant says a decade of financial statements are unreliable</a> NPR: The accounting firm Mazars USA says it has severed its relationship with former President Donald Trump and his family business. 
+ <a href="https://www.npr.org/2022/02/14/1080698388/trump-accountant-severs-relatioship-financial-statements-unreliable">Trump's longtime accountant says a decade of his financial statements are unreliable</a> NPR: The accounting firm Mazars USA says it has severed its relationship with former President Donald Trump and his family business. 
  <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/gaetz-wingman-granted-another-sentencing-delay-00008706">Gaetz 'wingman' granted another sentencing delay</a> Politico: “It appears that a further continuance of defendant’s sentencing is in the interest of justice,” Senior U.S. District Judge Gregory Presnell wrote. 
  <p class="updated_time"> 03:39 PM CT, Feb. 14 </p> 
