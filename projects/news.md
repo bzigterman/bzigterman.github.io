@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60370984?at_medium=RSS&at_campaign=KARANGA">Ivan Reitman: Ghostbusters director dies aged 75</a> BBC: The Czechoslovakia-born filmmaker made some of the biggest comedies of the 80s and 90s. 
  <p class="updated_time"> 05:19 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
@@ -32,8 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60371355?at_medium=RSS&at_campaign=KARANGA">India bourse head was a 'puppet' of unnamed yogi, regulators say</a> BBC: Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru. 
  <p class="updated_time"> 01:22 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
- <p class="updated_time"> 12:53 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60370984?at_medium=RSS&at_campaign=KARANGA">Ivan Reitman: Ghostbusters director dies aged 75</a> BBC: The Czechoslovakia-born filmmaker made some of the biggest comedies of the 80s and 90s. 
+ <p class="updated_time"> 12:26 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-cleared-to-keep-competing-at-beijing-olympi">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
  <p class="updated_time"> 11:50 PM CT, Feb. 13 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60366628?at_medium=RSS&at_campaign=KARANGA">Chinese sites accused of censoring LGBT content from Friends</a> BBC: Fans say key scenes have been deleted from the hit US sitcom, which has been re-released in China. 
  <p class="updated_time"> 04:53 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60365647?at_medium=RSS&at_campaign=KARANGA">Cook Islands braces after Covid-positive traveller</a> BBC: The Pacific country fears the virus is now circulating there, despite a vaccination rate over 99%. 
- <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
  <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
@@ -194,7 +194,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators say they're over Kavanaugh. SCOTUS nominee will test that.</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
+ <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">‘He wanted to hit me’: Judiciary Committee tries to ward off Kavanaugh's SCOTUS specter</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/donald-trump-matt-dolan-ohio-00008525">Trump’s latest political obsession: The baseball team owner not toeing his line</a> Politico: Ohio's Matt Dolan is spending millions to break through in a GOP Senate primary where he's the only candidate not aggressively courting Trump. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
