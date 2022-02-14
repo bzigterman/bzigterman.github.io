@@ -18,11 +18,11 @@ Current:
 - 15°
 - broken clouds
 - 76% humidity
-- 5 mph wind
+- 6 mph wind
 - 06:47 a.m. sunrise
 - 05:27 p.m. sunset
 
-<p class="updated_time"> Latest data: 08:50 AM CT, February 14</p>
+<p class="updated_time"> Latest data: 08:56 AM CT, February 14</p>
 
 ## Severe Thunderstorm Outlook
 
