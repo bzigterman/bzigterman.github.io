@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:06 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 09:23 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany, in Kyiv, pledged that Western allies would impose “very far-reaching and effective sanctions” against Moscow if it invaded Ukraine. 
+ <p class="updated_time"> 09:19 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 08:46 AM CT, Feb. 14 </p> 
@@ -110,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
  <p class="updated_time"> 11:30 AM CT, Feb. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-buildup-near-ukraine-features-potent-weapons-systems-well-trained-troops-11644789065">Russian Buildup Near Ukraine Features Potent Weapons Systems, Well-Trained Troops</a> WSJ: The more than 130,000 troops Moscow has in the region are still too few to seize and occupy the whole of Ukraine, according to U.S. assessments. However, the deployments provide Russia’s commanders formidable advantages. 
- <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -186,7 +186,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:26 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/campaigns-roll-out-super-bowl-ads-00008579">Campaigns roll out Super Bowl ads</a> Politico: One GOP Senate candidate bought time for a 30-second ‘Let’s Go Brandon’ spot. 
+ <a href="https://www.politico.com/news/2022/02/14/campaigns-roll-out-super-bowl-ads-00008579">Campaigns roll out Super Bowl ads</a> Politico: One GOP Senate candidate bought time for a 30-second “Let’s Go Brandon” spot. 
  <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/trevor-noah-headline-white-house-correspondents-dinner-00008575">Trevor Noah to headline White House Correspondents’ Dinner</a> Politico: A comedian has not performed at the annual event since Michelle Wolf in 2018. 
  <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
