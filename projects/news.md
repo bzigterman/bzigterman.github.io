@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:17 PM CT, Feb. 13 </p> 
+ <a href="https://www.politico.com/news/2022/02/13/missouri-senate-ad-slams-transgender-athletes-00008540">Senate ad slams transgender athletes ‘pretending to be women’</a> Politico: Criticizing collegiate swimmer Lia Thomas, Missouri GOP Rep. Vicky Hartzler says she “won’t look away while woke liberals destroy women’s sports.” 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
  <p class="updated_time"> 03:04 PM CT, Feb. 13 </p> 
@@ -219,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464225/new-hampshire-gop-proposes-dramatic-new-congressional-map-angering-democrats">New Hampshire GOP proposes dramatic new congressional map, angering Democrats</a> NPR: In New Hampshire, a GOP plan to dramatically redraw the state's Congressional map has outraged Democrats. If approved, it could have a large effect on the midterm election. 
- <p class="updated_time"> 07:50 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/canada-truckers-border-protests-00008445">Police arrest protesters who remained at U.S.-Canada bridge</a> Politico: Local and national police formed a joint command center in Ottawa. 
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
